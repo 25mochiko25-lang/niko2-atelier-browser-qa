@@ -1,7 +1,8 @@
 {
-  "id": "a26",
-  "op": "key",
-  "key": "PageDown",
-  "note": "The harness's wheel operation is unsupported on mobile WebKit; using a normal PageDown key to look below the diary form.",
-  "wait": 800
+  "id": "a27",
+  "op": "tap",
+  "x": 183,
+  "y": 321,
+  "note": "My sentence is now on a card showing the white city. I want to open my own saved visit.",
+  "wait": 700
 }
