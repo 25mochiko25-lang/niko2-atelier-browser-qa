@@ -1,8 +1,8 @@
 {
-  "id": "059-channel00",
+  "id": "060-power-on",
   "op": "tap",
-  "x": 56,
-  "y": 365,
-  "wait": 950,
-  "note": "A laptop inside this dream room has CHANNEL 00 on its screen. I want to open the computer inside the website."
+  "x": 194,
+  "y": 483,
+  "wait": 1300,
+  "note": "An internet that never existed, on a translucent old monitor: I want to switch it on and see what pages live there."
 }
