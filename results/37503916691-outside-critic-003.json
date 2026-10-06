@@ -1,0 +1,7291 @@
+{
+  "target": "https://niko2atelier.com/",
+  "persona": "outside-critic",
+  "seed": "outside-critic-003",
+  "maxSteps": 26,
+  "startedAt": "2026-10-06T17:30:13.771Z",
+  "engine": "webkit",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "touch": true,
+  "events": [
+    {
+      "kind": "tap",
+      "label": "step-1-tap",
+      "target": {
+        "text": "次へ",
+        "id": "",
+        "cls": "niko2-intro-primary",
+        "href": "",
+        "rect": {
+          "x": 304,
+          "y": 780,
+          "w": 72,
+          "h": 44
+        }
+      },
+      "error": null,
+      "before": {
+        "url": "https://niko2atelier.com/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      },
+      "after": {
+        "url": "https://niko2atelier.com/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      }
+    },
+    {
+      "kind": "tap",
+      "label": "step-2-tap",
+      "target": {
+        "text": "持ち帰る",
+        "id": "",
+        "cls": "niko2-intro-concept-button",
+        "href": "",
+        "rect": {
+          "x": 151,
+          "y": 422,
+          "w": 88,
+          "h": 46
+        }
+      },
+      "error": null,
+      "before": {
+        "url": "https://niko2atelier.com/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      },
+      "after": {
+        "url": "https://niko2atelier.com/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      }
+    },
+    {
+      "kind": "tap",
+      "label": "step-3-tap",
+      "target": {
+        "text": "次へ",
+        "id": "",
+        "cls": "niko2-intro-primary",
+        "href": "",
+        "rect": {
+          "x": 304,
+          "y": 780,
+          "w": 72,
+          "h": 44
+        }
+      },
+      "error": null,
+      "before": {
+        "url": "https://niko2atelier.com/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      },
+      "after": {
+        "url": "https://niko2atelier.com/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      }
+    },
+    {
+      "kind": "scroll-4",
+      "error": null,
+      "before": {
+        "url": "https://niko2atelier.com/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      },
+      "after": {
+        "url": "https://niko2atelier.com/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      }
+    },
+    {
+      "kind": "tap",
+      "label": "step-5-tap",
+      "target": {
+        "text": "夢へ入る",
+        "id": "",
+        "cls": "niko2-intro-primary",
+        "href": "",
+        "rect": {
+          "x": 295,
+          "y": 780,
+          "w": 81,
+          "h": 44
+        }
+      },
+      "error": "TimeoutError: locator.tap: Timeout 4500ms exceeded.\nCall log:\n  - waiting for locator('[data-qa-probe-id=\"2\"]').first()\n    - locator resolved to <button type=\"button\" data-intro-next=\"0\" data-qa-probe-id=\"2\" class=\"niko2-intro-primary\">次へ</button>\n  - attempting tap action\n    2 × waiting for element to be visible, enabled and stable\n      - element is not visible\n    - retrying tap action\n    - waiting 20ms\n    2 × waiting for element to be visible, enabled and stable\n      - element is not visible\n    - retrying tap action\n      - waiting 100ms\n    8 × waiting for element to be visible, enabled and stable\n      - element is not visible\n    - retrying tap action\n      - waiting 500ms\n",
+      "before": {
+        "url": "https://niko2atelier.com/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      },
+      "after": {
+        "url": "https://niko2atelier.com/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      }
+    },
+    {
+      "kind": "tap",
+      "label": "step-6-tap",
+      "target": {
+        "text": "Enter the dream",
+        "id": "enterGarden",
+        "cls": "dream-entry home-pink-cta",
+        "href": "",
+        "rect": {
+          "x": 90,
+          "y": 494,
+          "w": 210,
+          "h": 70
+        }
+      },
+      "error": "TimeoutError: locator.tap: Timeout 4500ms exceeded.\nCall log:\n  - waiting for locator('[data-qa-probe-id=\"1\"]').first()\n    - locator resolved to <button type=\"button\" id=\"enterGarden\" data-qa-probe-id=\"1\" aria-label=\"Enter the dream\" class=\"dream-entry home-pink-cta\">…</button>\n  - attempting tap action\n    2 × waiting for element to be visible, enabled and stable\n      - element is visible, enabled and stable\n      - scrolling into view if needed\n      - done scrolling\n      - <div data-page=\"2\" aria-hidden=\"false\" class=\"niko2-intro-page\" data-asset-status=\"founder-exact-candy-gate-transported-verified\">…</div> from <section id=\"niko2FirstDreamIntro\" aria-label=\"NIKO² ATELIER Intro\" class=\"niko2-first-intro niko2-tutorial-shell\">…</section> subtree intercepts pointer events\n    - retrying tap action\n    - waiting 20ms\n    2 × waiting for element to be visible, enabled and stable\n      - element is visible, enabled and stable\n      - scrolling into view if needed\n      - done scrolling\n      - <div data-page=\"2\" aria-hidden=\"false\" class=\"niko2-intro-page\" data-asset-status=\"founder-exact-candy-gate-transported-verified\">…</div> from <section id=\"niko2FirstDreamIntro\" aria-label=\"NIKO² ATELIER Intro\" class=\"niko2-first-intro niko2-tutorial-shell\">…</section> subtree intercepts pointer events\n    - retrying tap action\n      - waiting 100ms\n    8 × waiting for element to be visible, enabled and stable\n      - element is visible, enabled and stable\n      - scrolling into view if needed\n      - done scrolling\n      - <div data-page=\"2\" aria-hidden=\"false\" class=\"niko2-intro-page\" data-asset-status=\"founder-exact-candy-gate-transported-verified\">…</div> from <section id=\"niko2FirstDreamIntro\" aria-label=\"NIKO² ATELIER Intro\" class=\"niko2-first-intro niko2-tutorial-shell\">…</section> subtree intercepts pointer events\n    - retrying tap action\n      - waiting 500ms\n",
+      "before": {
+        "url": "https://niko2atelier.com/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      },
+      "after": {
+        "url": "https://niko2atelier.com/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      }
+    },
+    {
+      "kind": "tap",
+      "label": "step-7-tap",
+      "target": {
+        "text": "戻る",
+        "id": "",
+        "cls": "niko2-intro-back",
+        "href": "",
+        "rect": {
+          "x": 14,
+          "y": 780,
+          "w": 72,
+          "h": 44
+        }
+      },
+      "error": "TimeoutError: locator.tap: Timeout 4500ms exceeded.\nCall log:\n  - waiting for locator('[data-qa-probe-id=\"3\"]').first()\n    - locator resolved to <button type=\"button\" aria-pressed=\"true\" data-qa-probe-id=\"3\" data-intro-concept=\"持ち帰る\" class=\"niko2-intro-concept-button is-selected\">持ち帰る</button>\n  - attempting tap action\n    2 × waiting for element to be visible, enabled and stable\n      - element is not visible\n    - retrying tap action\n    - waiting 20ms\n    2 × waiting for element to be visible, enabled and stable\n      - element is not visible\n    - retrying tap action\n      - waiting 100ms\n    8 × waiting for element to be visible, enabled and stable\n      - element is not visible\n    - retrying tap action\n      - waiting 500ms\n",
+      "before": {
+        "url": "https://niko2atelier.com/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      },
+      "after": {
+        "url": "https://niko2atelier.com/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      }
+    },
+    {
+      "kind": "scroll-8",
+      "error": null,
+      "before": {
+        "url": "https://niko2atelier.com/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      },
+      "after": {
+        "url": "https://niko2atelier.com/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      }
+    },
+    {
+      "kind": "tap",
+      "label": "step-9-tap",
+      "target": {
+        "text": "夢へ入る",
+        "id": "",
+        "cls": "niko2-intro-primary",
+        "href": "",
+        "rect": {
+          "x": 295,
+          "y": 780,
+          "w": 81,
+          "h": 44
+        }
+      },
+      "error": "TimeoutError: locator.tap: Timeout 4500ms exceeded.\nCall log:\n  - waiting for locator('[data-qa-probe-id=\"2\"]').first()\n    - locator resolved to <button type=\"button\" data-intro-next=\"0\" data-qa-probe-id=\"2\" class=\"niko2-intro-primary\">次へ</button>\n  - attempting tap action\n    2 × waiting for element to be visible, enabled and stable\n      - element is not visible\n    - retrying tap action\n    - waiting 20ms\n    2 × waiting for element to be visible, enabled and stable\n      - element is not visible\n    - retrying tap action\n      - waiting 100ms\n    8 × waiting for element to be visible, enabled and stable\n      - element is not visible\n    - retrying tap action\n      - waiting 500ms\n",
+      "before": {
+        "url": "https://niko2atelier.com/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      },
+      "after": {
+        "url": "https://niko2atelier.com/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      }
+    },
+    {
+      "kind": "back-avoided-10",
+      "error": null,
+      "before": {
+        "url": "https://niko2atelier.com/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      },
+      "after": {
+        "url": "https://niko2atelier.com/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      }
+    },
+    {
+      "kind": "tap",
+      "label": "step-11-tap",
+      "target": {
+        "text": "Enter the dream",
+        "id": "enterGarden",
+        "cls": "dream-entry home-pink-cta",
+        "href": "",
+        "rect": {
+          "x": 90,
+          "y": 494,
+          "w": 210,
+          "h": 70
+        }
+      },
+      "error": "TimeoutError: locator.tap: Timeout 4500ms exceeded.\nCall log:\n  - waiting for locator('[data-qa-probe-id=\"1\"]').first()\n    - locator resolved to <button type=\"button\" id=\"enterGarden\" data-qa-probe-id=\"1\" aria-label=\"Enter the dream\" class=\"dream-entry home-pink-cta\">…</button>\n  - attempting tap action\n    2 × waiting for element to be visible, enabled and stable\n      - element is visible, enabled and stable\n      - scrolling into view if needed\n      - done scrolling\n      - <div data-page=\"2\" aria-hidden=\"false\" class=\"niko2-intro-page\" data-asset-status=\"founder-exact-candy-gate-transported-verified\">…</div> from <section id=\"niko2FirstDreamIntro\" aria-label=\"NIKO² ATELIER Intro\" class=\"niko2-first-intro niko2-tutorial-shell\">…</section> subtree intercepts pointer events\n    - retrying tap action\n    - waiting 20ms\n    2 × waiting for element to be visible, enabled and stable\n      - element is visible, enabled and stable\n      - scrolling into view if needed\n      - done scrolling\n      - <div data-page=\"2\" aria-hidden=\"false\" class=\"niko2-intro-page\" data-asset-status=\"founder-exact-candy-gate-transported-verified\">…</div> from <section id=\"niko2FirstDreamIntro\" aria-label=\"NIKO² ATELIER Intro\" class=\"niko2-first-intro niko2-tutorial-shell\">…</section> subtree intercepts pointer events\n    - retrying tap action\n      - waiting 100ms\n    8 × waiting for element to be visible, enabled and stable\n      - element is visible, enabled and stable\n      - scrolling into view if needed\n      - done scrolling\n      - <div data-page=\"2\" aria-hidden=\"false\" class=\"niko2-intro-page\" data-asset-status=\"founder-exact-candy-gate-transported-verified\">…</div> from <section id=\"niko2FirstDreamIntro\" aria-label=\"NIKO² ATELIER Intro\" class=\"niko2-first-intro niko2-tutorial-shell\">…</section> subtree intercepts pointer events\n    - retrying tap action\n      - waiting 500ms\n",
+      "before": {
+        "url": "https://niko2atelier.com/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      },
+      "after": {
+        "url": "https://niko2atelier.com/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      }
+    },
+    {
+      "kind": "scroll-12",
+      "error": null,
+      "before": {
+        "url": "https://niko2atelier.com/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      },
+      "after": {
+        "url": "https://niko2atelier.com/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      }
+    },
+    {
+      "kind": "tap",
+      "label": "step-13-tap",
+      "target": {
+        "text": "音をオンにする",
+        "id": "soundToggle",
+        "cls": "sound-toggle",
+        "href": "",
+        "rect": {
+          "x": 332,
+          "y": 14,
+          "w": 44,
+          "h": 44
+        }
+      },
+      "error": "TimeoutError: locator.tap: Timeout 4500ms exceeded.\nCall log:\n  - waiting for locator('[data-qa-probe-id=\"0\"]').first()\n    - locator resolved to <button type=\"button\" title=\"音をオンにする\" id=\"soundToggle\" aria-busy=\"false\" class=\"sound-toggle\" aria-pressed=\"false\" aria-label=\"音をオンにする\" data-qa-probe-id=\"0\" data-audio-state=\"off\">…</button>\n  - attempting tap action\n    2 × waiting for element to be visible, enabled and stable\n      - element is visible, enabled and stable\n      - scrolling into view if needed\n      - done scrolling\n      - <section id=\"niko2FirstDreamIntro\" aria-label=\"NIKO² ATELIER Intro\" class=\"niko2-first-intro niko2-tutorial-shell\">…</section> intercepts pointer events\n    - retrying tap action\n    - waiting 20ms\n    2 × waiting for element to be visible, enabled and stable\n      - element is visible, enabled and stable\n      - scrolling into view if needed\n      - done scrolling\n      - <section id=\"niko2FirstDreamIntro\" aria-label=\"NIKO² ATELIER Intro\" class=\"niko2-first-intro niko2-tutorial-shell\">…</section> intercepts pointer events\n    - retrying tap action\n      - waiting 100ms\n    8 × waiting for element to be visible, enabled and stable\n      - element is visible, enabled and stable\n      - scrolling into view if needed\n      - done scrolling\n      - <section id=\"niko2FirstDreamIntro\" aria-label=\"NIKO² ATELIER Intro\" class=\"niko2-first-intro niko2-tutorial-shell\">…</section> intercepts pointer events\n    - retrying tap action\n      - waiting 500ms\n",
+      "before": {
+        "url": "https://niko2atelier.com/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      },
+      "after": {
+        "url": "https://niko2atelier.com/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      }
+    },
+    {
+      "kind": "tap",
+      "label": "step-14-tap",
+      "target": {
+        "text": "戻る",
+        "id": "",
+        "cls": "niko2-intro-back",
+        "href": "",
+        "rect": {
+          "x": 14,
+          "y": 780,
+          "w": 72,
+          "h": 44
+        }
+      },
+      "error": "TimeoutError: locator.tap: Timeout 4500ms exceeded.\nCall log:\n  - waiting for locator('[data-qa-probe-id=\"3\"]').first()\n    - locator resolved to <button type=\"button\" aria-pressed=\"true\" data-qa-probe-id=\"3\" data-intro-concept=\"持ち帰る\" class=\"niko2-intro-concept-button is-selected\">持ち帰る</button>\n  - attempting tap action\n    2 × waiting for element to be visible, enabled and stable\n      - element is not visible\n    - retrying tap action\n    - waiting 20ms\n    2 × waiting for element to be visible, enabled and stable\n      - element is not visible\n    - retrying tap action\n      - waiting 100ms\n    8 × waiting for element to be visible, enabled and stable\n      - element is not visible\n    - retrying tap action\n      - waiting 500ms\n",
+      "before": {
+        "url": "https://niko2atelier.com/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      },
+      "after": {
+        "url": "https://niko2atelier.com/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      }
+    },
+    {
+      "kind": "tap",
+      "label": "step-15-tap",
+      "target": {
+        "text": "夢へ入る",
+        "id": "",
+        "cls": "niko2-intro-primary",
+        "href": "",
+        "rect": {
+          "x": 295,
+          "y": 780,
+          "w": 81,
+          "h": 44
+        }
+      },
+      "error": "TimeoutError: locator.tap: Timeout 4500ms exceeded.\nCall log:\n  - waiting for locator('[data-qa-probe-id=\"2\"]').first()\n    - locator resolved to <button type=\"button\" data-intro-next=\"0\" data-qa-probe-id=\"2\" class=\"niko2-intro-primary\">次へ</button>\n  - attempting tap action\n    2 × waiting for element to be visible, enabled and stable\n      - element is not visible\n    - retrying tap action\n    - waiting 20ms\n    2 × waiting for element to be visible, enabled and stable\n      - element is not visible\n    - retrying tap action\n      - waiting 100ms\n    8 × waiting for element to be visible, enabled and stable\n      - element is not visible\n    - retrying tap action\n      - waiting 500ms\n",
+      "before": {
+        "url": "https://niko2atelier.com/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      },
+      "after": {
+        "url": "https://niko2atelier.com/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      }
+    },
+    {
+      "kind": "tap",
+      "label": "step-16-tap",
+      "target": {
+        "text": "Enter the dream",
+        "id": "enterGarden",
+        "cls": "dream-entry home-pink-cta",
+        "href": "",
+        "rect": {
+          "x": 90,
+          "y": 494,
+          "w": 210,
+          "h": 70
+        }
+      },
+      "error": "TimeoutError: locator.tap: Timeout 4500ms exceeded.\nCall log:\n  - waiting for locator('[data-qa-probe-id=\"1\"]').first()\n    - locator resolved to <button type=\"button\" id=\"enterGarden\" data-qa-probe-id=\"1\" aria-label=\"Enter the dream\" class=\"dream-entry home-pink-cta\">…</button>\n  - attempting tap action\n    2 × waiting for element to be visible, enabled and stable\n      - element is visible, enabled and stable\n      - scrolling into view if needed\n      - done scrolling\n      - <div data-page=\"2\" aria-hidden=\"false\" class=\"niko2-intro-page\" data-asset-status=\"founder-exact-candy-gate-transported-verified\">…</div> from <section id=\"niko2FirstDreamIntro\" aria-label=\"NIKO² ATELIER Intro\" class=\"niko2-first-intro niko2-tutorial-shell\">…</section> subtree intercepts pointer events\n    - retrying tap action\n    - waiting 20ms\n    2 × waiting for element to be visible, enabled and stable\n      - element is visible, enabled and stable\n      - scrolling into view if needed\n      - done scrolling\n      - <div data-page=\"2\" aria-hidden=\"false\" class=\"niko2-intro-page\" data-asset-status=\"founder-exact-candy-gate-transported-verified\">…</div> from <section id=\"niko2FirstDreamIntro\" aria-label=\"NIKO² ATELIER Intro\" class=\"niko2-first-intro niko2-tutorial-shell\">…</section> subtree intercepts pointer events\n    - retrying tap action\n      - waiting 100ms\n    8 × waiting for element to be visible, enabled and stable\n      - element is visible, enabled and stable\n      - scrolling into view if needed\n      - done scrolling\n      - <div data-page=\"2\" aria-hidden=\"false\" class=\"niko2-intro-page\" data-asset-status=\"founder-exact-candy-gate-transported-verified\">…</div> from <section id=\"niko2FirstDreamIntro\" aria-label=\"NIKO² ATELIER Intro\" class=\"niko2-first-intro niko2-tutorial-shell\">…</section> subtree intercepts pointer events\n    - retrying tap action\n      - waiting 500ms\n",
+      "before": {
+        "url": "https://niko2atelier.com/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      },
+      "after": {
+        "url": "https://niko2atelier.com/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      }
+    },
+    {
+      "kind": "tap",
+      "label": "step-17-tap",
+      "target": {
+        "text": "戻る",
+        "id": "",
+        "cls": "niko2-intro-back",
+        "href": "",
+        "rect": {
+          "x": 14,
+          "y": 780,
+          "w": 72,
+          "h": 44
+        }
+      },
+      "error": "TimeoutError: locator.tap: Timeout 4500ms exceeded.\nCall log:\n  - waiting for locator('[data-qa-probe-id=\"3\"]').first()\n    - locator resolved to <button type=\"button\" aria-pressed=\"true\" data-qa-probe-id=\"3\" data-intro-concept=\"持ち帰る\" class=\"niko2-intro-concept-button is-selected\">持ち帰る</button>\n  - attempting tap action\n    2 × waiting for element to be visible, enabled and stable\n      - element is not visible\n    - retrying tap action\n    - waiting 20ms\n    2 × waiting for element to be visible, enabled and stable\n      - element is not visible\n    - retrying tap action\n      - waiting 100ms\n    8 × waiting for element to be visible, enabled and stable\n      - element is not visible\n    - retrying tap action\n      - waiting 500ms\n",
+      "before": {
+        "url": "https://niko2atelier.com/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      },
+      "after": {
+        "url": "https://niko2atelier.com/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      }
+    },
+    {
+      "kind": "tap",
+      "label": "step-18-tap",
+      "target": {
+        "text": "夢へ入る",
+        "id": "",
+        "cls": "niko2-intro-primary",
+        "href": "",
+        "rect": {
+          "x": 295,
+          "y": 780,
+          "w": 81,
+          "h": 44
+        }
+      },
+      "error": "TimeoutError: locator.tap: Timeout 4500ms exceeded.\nCall log:\n  - waiting for locator('[data-qa-probe-id=\"2\"]').first()\n    - locator resolved to <button type=\"button\" data-intro-next=\"0\" data-qa-probe-id=\"2\" class=\"niko2-intro-primary\">次へ</button>\n  - attempting tap action\n    2 × waiting for element to be visible, enabled and stable\n      - element is not visible\n    - retrying tap action\n    - waiting 20ms\n    2 × waiting for element to be visible, enabled and stable\n      - element is not visible\n    - retrying tap action\n      - waiting 100ms\n    8 × waiting for element to be visible, enabled and stable\n      - element is not visible\n    - retrying tap action\n      - waiting 500ms\n",
+      "before": {
+        "url": "https://niko2atelier.com/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      },
+      "after": {
+        "url": "https://niko2atelier.com/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      }
+    },
+    {
+      "kind": "tap",
+      "label": "step-19-tap",
+      "target": {
+        "text": "Enter the dream",
+        "id": "enterGarden",
+        "cls": "dream-entry home-pink-cta",
+        "href": "",
+        "rect": {
+          "x": 90,
+          "y": 494,
+          "w": 210,
+          "h": 70
+        }
+      },
+      "error": "TimeoutError: locator.tap: Timeout 4500ms exceeded.\nCall log:\n  - waiting for locator('[data-qa-probe-id=\"1\"]').first()\n    - locator resolved to <button type=\"button\" id=\"enterGarden\" data-qa-probe-id=\"1\" aria-label=\"Enter the dream\" class=\"dream-entry home-pink-cta\">…</button>\n  - attempting tap action\n    2 × waiting for element to be visible, enabled and stable\n      - element is visible, enabled and stable\n      - scrolling into view if needed\n      - done scrolling\n      - <div data-page=\"2\" aria-hidden=\"false\" class=\"niko2-intro-page\" data-asset-status=\"founder-exact-candy-gate-transported-verified\">…</div> from <section id=\"niko2FirstDreamIntro\" aria-label=\"NIKO² ATELIER Intro\" class=\"niko2-first-intro niko2-tutorial-shell\">…</section> subtree intercepts pointer events\n    - retrying tap action\n    - waiting 20ms\n    2 × waiting for element to be visible, enabled and stable\n      - element is visible, enabled and stable\n      - scrolling into view if needed\n      - done scrolling\n      - <div data-page=\"2\" aria-hidden=\"false\" class=\"niko2-intro-page\" data-asset-status=\"founder-exact-candy-gate-transported-verified\">…</div> from <section id=\"niko2FirstDreamIntro\" aria-label=\"NIKO² ATELIER Intro\" class=\"niko2-first-intro niko2-tutorial-shell\">…</section> subtree intercepts pointer events\n    - retrying tap action\n      - waiting 100ms\n    8 × waiting for element to be visible, enabled and stable\n      - element is visible, enabled and stable\n      - scrolling into view if needed\n      - done scrolling\n      - <div data-page=\"2\" aria-hidden=\"false\" class=\"niko2-intro-page\" data-asset-status=\"founder-exact-candy-gate-transported-verified\">…</div> from <section id=\"niko2FirstDreamIntro\" aria-label=\"NIKO² ATELIER Intro\" class=\"niko2-first-intro niko2-tutorial-shell\">…</section> subtree intercepts pointer events\n    - retrying tap action\n      - waiting 500ms\n",
+      "before": {
+        "url": "https://niko2atelier.com/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      },
+      "after": {
+        "url": "https://niko2atelier.com/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      }
+    },
+    {
+      "kind": "tap",
+      "label": "step-20-tap",
+      "target": {
+        "text": "音をオンにする",
+        "id": "soundToggle",
+        "cls": "sound-toggle",
+        "href": "",
+        "rect": {
+          "x": 332,
+          "y": 14,
+          "w": 44,
+          "h": 44
+        }
+      },
+      "error": "TimeoutError: locator.tap: Timeout 4500ms exceeded.\nCall log:\n  - waiting for locator('[data-qa-probe-id=\"0\"]').first()\n    - locator resolved to <button type=\"button\" title=\"音をオンにする\" id=\"soundToggle\" aria-busy=\"false\" class=\"sound-toggle\" aria-pressed=\"false\" aria-label=\"音をオンにする\" data-qa-probe-id=\"0\" data-audio-state=\"off\">…</button>\n  - attempting tap action\n    2 × waiting for element to be visible, enabled and stable\n      - element is visible, enabled and stable\n      - scrolling into view if needed\n      - done scrolling\n      - <section id=\"niko2FirstDreamIntro\" aria-label=\"NIKO² ATELIER Intro\" class=\"niko2-first-intro niko2-tutorial-shell\">…</section> intercepts pointer events\n    - retrying tap action\n    - waiting 20ms\n    2 × waiting for element to be visible, enabled and stable\n      - element is visible, enabled and stable\n      - scrolling into view if needed\n      - done scrolling\n      - <section id=\"niko2FirstDreamIntro\" aria-label=\"NIKO² ATELIER Intro\" class=\"niko2-first-intro niko2-tutorial-shell\">…</section> intercepts pointer events\n    - retrying tap action\n      - waiting 100ms\n    8 × waiting for element to be visible, enabled and stable\n      - element is visible, enabled and stable\n      - scrolling into view if needed\n      - done scrolling\n      - <section id=\"niko2FirstDreamIntro\" aria-label=\"NIKO² ATELIER Intro\" class=\"niko2-first-intro niko2-tutorial-shell\">…</section> intercepts pointer events\n    - retrying tap action\n      - waiting 500ms\n",
+      "before": {
+        "url": "https://niko2atelier.com/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      },
+      "after": {
+        "url": "https://niko2atelier.com/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      }
+    },
+    {
+      "kind": "tap",
+      "label": "step-21-tap",
+      "target": {
+        "text": "戻る",
+        "id": "",
+        "cls": "niko2-intro-back",
+        "href": "",
+        "rect": {
+          "x": 14,
+          "y": 780,
+          "w": 72,
+          "h": 44
+        }
+      },
+      "error": "TimeoutError: locator.tap: Timeout 4500ms exceeded.\nCall log:\n  - waiting for locator('[data-qa-probe-id=\"3\"]').first()\n    - locator resolved to <button type=\"button\" aria-pressed=\"true\" data-qa-probe-id=\"3\" data-intro-concept=\"持ち帰る\" class=\"niko2-intro-concept-button is-selected\">持ち帰る</button>\n  - attempting tap action\n    2 × waiting for element to be visible, enabled and stable\n      - element is not visible\n    - retrying tap action\n    - waiting 20ms\n    2 × waiting for element to be visible, enabled and stable\n      - element is not visible\n    - retrying tap action\n      - waiting 100ms\n    8 × waiting for element to be visible, enabled and stable\n      - element is not visible\n    - retrying tap action\n      - waiting 500ms\n",
+      "before": {
+        "url": "https://niko2atelier.com/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      },
+      "after": {
+        "url": "https://niko2atelier.com/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      }
+    },
+    {
+      "kind": "tap",
+      "label": "step-22-tap",
+      "target": {
+        "text": "夢へ入る",
+        "id": "",
+        "cls": "niko2-intro-primary",
+        "href": "",
+        "rect": {
+          "x": 295,
+          "y": 780,
+          "w": 81,
+          "h": 44
+        }
+      },
+      "error": "TimeoutError: locator.tap: Timeout 4500ms exceeded.\nCall log:\n  - waiting for locator('[data-qa-probe-id=\"2\"]').first()\n    - locator resolved to <button type=\"button\" data-intro-next=\"0\" data-qa-probe-id=\"2\" class=\"niko2-intro-primary\">次へ</button>\n  - attempting tap action\n    2 × waiting for element to be visible, enabled and stable\n      - element is not visible\n    - retrying tap action\n    - waiting 20ms\n    2 × waiting for element to be visible, enabled and stable\n      - element is not visible\n    - retrying tap action\n      - waiting 100ms\n    8 × waiting for element to be visible, enabled and stable\n      - element is not visible\n    - retrying tap action\n      - waiting 500ms\n",
+      "before": {
+        "url": "https://niko2atelier.com/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      },
+      "after": {
+        "url": "https://niko2atelier.com/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      }
+    },
+    {
+      "kind": "tap",
+      "label": "step-23-tap",
+      "target": {
+        "text": "Enter the dream",
+        "id": "enterGarden",
+        "cls": "dream-entry home-pink-cta",
+        "href": "",
+        "rect": {
+          "x": 90,
+          "y": 494,
+          "w": 210,
+          "h": 70
+        }
+      },
+      "error": "TimeoutError: locator.tap: Timeout 4500ms exceeded.\nCall log:\n  - waiting for locator('[data-qa-probe-id=\"1\"]').first()\n    - locator resolved to <button type=\"button\" id=\"enterGarden\" data-qa-probe-id=\"1\" aria-label=\"Enter the dream\" class=\"dream-entry home-pink-cta\">…</button>\n  - attempting tap action\n    2 × waiting for element to be visible, enabled and stable\n      - element is visible, enabled and stable\n      - scrolling into view if needed\n      - done scrolling\n      - <div data-page=\"2\" aria-hidden=\"false\" class=\"niko2-intro-page\" data-asset-status=\"founder-exact-candy-gate-transported-verified\">…</div> from <section id=\"niko2FirstDreamIntro\" aria-label=\"NIKO² ATELIER Intro\" class=\"niko2-first-intro niko2-tutorial-shell\">…</section> subtree intercepts pointer events\n    - retrying tap action\n    - waiting 20ms\n    2 × waiting for element to be visible, enabled and stable\n      - element is visible, enabled and stable\n      - scrolling into view if needed\n      - done scrolling\n      - <div data-page=\"2\" aria-hidden=\"false\" class=\"niko2-intro-page\" data-asset-status=\"founder-exact-candy-gate-transported-verified\">…</div> from <section id=\"niko2FirstDreamIntro\" aria-label=\"NIKO² ATELIER Intro\" class=\"niko2-first-intro niko2-tutorial-shell\">…</section> subtree intercepts pointer events\n    - retrying tap action\n      - waiting 100ms\n    8 × waiting for element to be visible, enabled and stable\n      - element is visible, enabled and stable\n      - scrolling into view if needed\n      - done scrolling\n      - <div data-page=\"2\" aria-hidden=\"false\" class=\"niko2-intro-page\" data-asset-status=\"founder-exact-candy-gate-transported-verified\">…</div> from <section id=\"niko2FirstDreamIntro\" aria-label=\"NIKO² ATELIER Intro\" class=\"niko2-first-intro niko2-tutorial-shell\">…</section> subtree intercepts pointer events\n    - retrying tap action\n      - waiting 500ms\n",
+      "before": {
+        "url": "https://niko2atelier.com/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      },
+      "after": {
+        "url": "https://niko2atelier.com/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      }
+    },
+    {
+      "kind": "tap",
+      "label": "step-24-tap",
+      "target": {
+        "text": "戻る",
+        "id": "",
+        "cls": "niko2-intro-back",
+        "href": "",
+        "rect": {
+          "x": 14,
+          "y": 780,
+          "w": 72,
+          "h": 44
+        }
+      },
+      "error": "TimeoutError: locator.tap: Timeout 4500ms exceeded.\nCall log:\n  - waiting for locator('[data-qa-probe-id=\"3\"]').first()\n    - locator resolved to <button type=\"button\" aria-pressed=\"true\" data-qa-probe-id=\"3\" data-intro-concept=\"持ち帰る\" class=\"niko2-intro-concept-button is-selected\">持ち帰る</button>\n  - attempting tap action\n    2 × waiting for element to be visible, enabled and stable\n      - element is not visible\n    - retrying tap action\n    - waiting 20ms\n    2 × waiting for element to be visible, enabled and stable\n      - element is not visible\n    - retrying tap action\n      - waiting 100ms\n    8 × waiting for element to be visible, enabled and stable\n      - element is not visible\n    - retrying tap action\n      - waiting 500ms\n",
+      "before": {
+        "url": "https://niko2atelier.com/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      },
+      "after": {
+        "url": "https://niko2atelier.com/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      }
+    },
+    {
+      "kind": "tap",
+      "label": "step-25-tap",
+      "target": {
+        "text": "夢へ入る",
+        "id": "",
+        "cls": "niko2-intro-primary",
+        "href": "",
+        "rect": {
+          "x": 295,
+          "y": 780,
+          "w": 81,
+          "h": 44
+        }
+      },
+      "error": "TimeoutError: locator.tap: Timeout 4500ms exceeded.\nCall log:\n  - waiting for locator('[data-qa-probe-id=\"2\"]').first()\n    - locator resolved to <button type=\"button\" data-intro-next=\"0\" data-qa-probe-id=\"2\" class=\"niko2-intro-primary\">次へ</button>\n  - attempting tap action\n    2 × waiting for element to be visible, enabled and stable\n      - element is not visible\n    - retrying tap action\n    - waiting 20ms\n    2 × waiting for element to be visible, enabled and stable\n      - element is not visible\n    - retrying tap action\n      - waiting 100ms\n    8 × waiting for element to be visible, enabled and stable\n      - element is not visible\n    - retrying tap action\n      - waiting 500ms\n",
+      "before": {
+        "url": "https://niko2atelier.com/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      },
+      "after": {
+        "url": "https://niko2atelier.com/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      }
+    },
+    {
+      "kind": "tap",
+      "label": "step-26-tap",
+      "target": {
+        "text": "Enter the dream",
+        "id": "enterGarden",
+        "cls": "dream-entry home-pink-cta",
+        "href": "",
+        "rect": {
+          "x": 90,
+          "y": 494,
+          "w": 210,
+          "h": 70
+        }
+      },
+      "error": "TimeoutError: locator.tap: Timeout 4500ms exceeded.\nCall log:\n  - waiting for locator('[data-qa-probe-id=\"1\"]').first()\n    - locator resolved to <button type=\"button\" id=\"enterGarden\" data-qa-probe-id=\"1\" aria-label=\"Enter the dream\" class=\"dream-entry home-pink-cta\">…</button>\n  - attempting tap action\n    2 × waiting for element to be visible, enabled and stable\n      - element is visible, enabled and stable\n      - scrolling into view if needed\n      - done scrolling\n      - <div data-page=\"2\" aria-hidden=\"false\" class=\"niko2-intro-page\" data-asset-status=\"founder-exact-candy-gate-transported-verified\">…</div> from <section id=\"niko2FirstDreamIntro\" aria-label=\"NIKO² ATELIER Intro\" class=\"niko2-first-intro niko2-tutorial-shell\">…</section> subtree intercepts pointer events\n    - retrying tap action\n    - waiting 20ms\n    2 × waiting for element to be visible, enabled and stable\n      - element is visible, enabled and stable\n      - scrolling into view if needed\n      - done scrolling\n      - <div data-page=\"2\" aria-hidden=\"false\" class=\"niko2-intro-page\" data-asset-status=\"founder-exact-candy-gate-transported-verified\">…</div> from <section id=\"niko2FirstDreamIntro\" aria-label=\"NIKO² ATELIER Intro\" class=\"niko2-first-intro niko2-tutorial-shell\">…</section> subtree intercepts pointer events\n    - retrying tap action\n      - waiting 100ms\n    8 × waiting for element to be visible, enabled and stable\n      - element is visible, enabled and stable\n      - scrolling into view if needed\n      - done scrolling\n      - <div data-page=\"2\" aria-hidden=\"false\" class=\"niko2-intro-page\" data-asset-status=\"founder-exact-candy-gate-transported-verified\">…</div> from <section id=\"niko2FirstDreamIntro\" aria-label=\"NIKO² ATELIER Intro\" class=\"niko2-first-intro niko2-tutorial-shell\">…</section> subtree intercepts pointer events\n    - retrying tap action\n      - waiting 500ms\n",
+      "before": {
+        "url": "https://niko2atelier.com/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      },
+      "after": {
+        "url": "https://niko2atelier.com/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      }
+    }
+  ],
+  "snapshots": [
+    {
+      "label": "arrival",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 WORLD 夢の入り口は、毎回すこし違う。 次へ",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "次へ",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 304,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-1-choice",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 WORLD 夢の入り口は、毎回すこし違う。 次へ",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "次へ",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 304,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-1-tap:before",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 WORLD 夢の入り口は、毎回すこし違う。 次へ",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "次へ",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 304,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-1-tap:after",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 INTERACTION 触れる 持ち帰る 仕舞う 次へ戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-concept-button",
+          "text": "触れる",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 55,
+            "y": 422,
+            "w": 88,
+            "h": 46
+          }
+        },
+        {
+          "probe": 3,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-concept-button",
+          "text": "持ち帰る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 151,
+            "y": 422,
+            "w": 88,
+            "h": 46
+          }
+        },
+        {
+          "probe": 4,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-concept-button",
+          "text": "仕舞う",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 247,
+            "y": 422,
+            "w": 88,
+            "h": 46
+          }
+        },
+        {
+          "probe": 5,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "次へ",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 304,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        },
+        {
+          "probe": 6,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-2-choice",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 INTERACTION 触れる 持ち帰る 仕舞う 次へ戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-concept-button",
+          "text": "触れる",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 55,
+            "y": 422,
+            "w": 88,
+            "h": 46
+          }
+        },
+        {
+          "probe": 3,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-concept-button",
+          "text": "持ち帰る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 151,
+            "y": 422,
+            "w": 88,
+            "h": 46
+          }
+        },
+        {
+          "probe": 4,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-concept-button",
+          "text": "仕舞う",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 247,
+            "y": 422,
+            "w": 88,
+            "h": 46
+          }
+        },
+        {
+          "probe": 5,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "次へ",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 304,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        },
+        {
+          "probe": 6,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-2-tap:before",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 INTERACTION 触れる 持ち帰る 仕舞う 次へ戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-concept-button",
+          "text": "触れる",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 55,
+            "y": 422,
+            "w": 88,
+            "h": 46
+          }
+        },
+        {
+          "probe": 3,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-concept-button",
+          "text": "持ち帰る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 151,
+            "y": 422,
+            "w": 88,
+            "h": 46
+          }
+        },
+        {
+          "probe": 4,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-concept-button",
+          "text": "仕舞う",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 247,
+            "y": 422,
+            "w": 88,
+            "h": 46
+          }
+        },
+        {
+          "probe": 5,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "次へ",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 304,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        },
+        {
+          "probe": 6,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-2-tap:after",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 INTERACTION 触れる 持ち帰る 仕舞う 次へ戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-concept-button",
+          "text": "触れる",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 55,
+            "y": 422,
+            "w": 88,
+            "h": 46
+          }
+        },
+        {
+          "probe": 3,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-concept-button is-selected",
+          "text": "持ち帰る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 151,
+            "y": 422,
+            "w": 88,
+            "h": 46
+          }
+        },
+        {
+          "probe": 4,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-concept-button",
+          "text": "仕舞う",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 247,
+            "y": 422,
+            "w": 88,
+            "h": 46
+          }
+        },
+        {
+          "probe": 5,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "次へ",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 304,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        },
+        {
+          "probe": 6,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-3-choice",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 INTERACTION 触れる 持ち帰る 仕舞う 次へ戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-concept-button",
+          "text": "触れる",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 55,
+            "y": 422,
+            "w": 88,
+            "h": 46
+          }
+        },
+        {
+          "probe": 3,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-concept-button is-selected",
+          "text": "持ち帰る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 151,
+            "y": 422,
+            "w": 88,
+            "h": 46
+          }
+        },
+        {
+          "probe": 4,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-concept-button",
+          "text": "仕舞う",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 247,
+            "y": 422,
+            "w": 88,
+            "h": 46
+          }
+        },
+        {
+          "probe": 5,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "次へ",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 304,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        },
+        {
+          "probe": 6,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-3-tap:before",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 INTERACTION 触れる 持ち帰る 仕舞う 次へ戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-concept-button",
+          "text": "触れる",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 55,
+            "y": 422,
+            "w": 88,
+            "h": 46
+          }
+        },
+        {
+          "probe": 3,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-concept-button is-selected",
+          "text": "持ち帰る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 151,
+            "y": 422,
+            "w": 88,
+            "h": 46
+          }
+        },
+        {
+          "probe": 4,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-concept-button",
+          "text": "仕舞う",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 247,
+            "y": 422,
+            "w": 88,
+            "h": 46
+          }
+        },
+        {
+          "probe": 5,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "次へ",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 304,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        },
+        {
+          "probe": 6,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-3-tap:after",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 WELCOME ようこそ！ 夢へ入る戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "夢へ入る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 295,
+            "y": 780,
+            "w": 81,
+            "h": 44
+          }
+        },
+        {
+          "probe": 3,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "scroll-4:before",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 WELCOME ようこそ！ 夢へ入る戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "夢へ入る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 295,
+            "y": 780,
+            "w": 81,
+            "h": 44
+          }
+        },
+        {
+          "probe": 3,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "scroll-4:after",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 WELCOME ようこそ！ 夢へ入る戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "夢へ入る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 295,
+            "y": 780,
+            "w": 81,
+            "h": 44
+          }
+        },
+        {
+          "probe": 3,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-5-choice",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 WELCOME ようこそ！ 夢へ入る戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "夢へ入る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 295,
+            "y": 780,
+            "w": 81,
+            "h": 44
+          }
+        },
+        {
+          "probe": 3,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-5-tap:before",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 WELCOME ようこそ！ 夢へ入る戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "夢へ入る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 295,
+            "y": 780,
+            "w": 81,
+            "h": 44
+          }
+        },
+        {
+          "probe": 3,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-5-tap:after",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 WELCOME ようこそ！ 夢へ入る戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "夢へ入る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 295,
+            "y": 780,
+            "w": 81,
+            "h": 44
+          }
+        },
+        {
+          "probe": 3,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-6-choice",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 WELCOME ようこそ！ 夢へ入る戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "夢へ入る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 295,
+            "y": 780,
+            "w": 81,
+            "h": 44
+          }
+        },
+        {
+          "probe": 3,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-6-tap:before",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 WELCOME ようこそ！ 夢へ入る戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "夢へ入る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 295,
+            "y": 780,
+            "w": 81,
+            "h": 44
+          }
+        },
+        {
+          "probe": 3,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-6-tap:after",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 WELCOME ようこそ！ 夢へ入る戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "夢へ入る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 295,
+            "y": 780,
+            "w": 81,
+            "h": 44
+          }
+        },
+        {
+          "probe": 3,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-7-choice",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 WELCOME ようこそ！ 夢へ入る戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "夢へ入る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 295,
+            "y": 780,
+            "w": 81,
+            "h": 44
+          }
+        },
+        {
+          "probe": 3,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-7-tap:before",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 WELCOME ようこそ！ 夢へ入る戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "夢へ入る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 295,
+            "y": 780,
+            "w": 81,
+            "h": 44
+          }
+        },
+        {
+          "probe": 3,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-7-tap:after",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 WELCOME ようこそ！ 夢へ入る戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "夢へ入る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 295,
+            "y": 780,
+            "w": 81,
+            "h": 44
+          }
+        },
+        {
+          "probe": 3,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "scroll-8:before",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 WELCOME ようこそ！ 夢へ入る戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "夢へ入る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 295,
+            "y": 780,
+            "w": 81,
+            "h": 44
+          }
+        },
+        {
+          "probe": 3,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "scroll-8:after",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 WELCOME ようこそ！ 夢へ入る戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "夢へ入る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 295,
+            "y": 780,
+            "w": 81,
+            "h": 44
+          }
+        },
+        {
+          "probe": 3,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-9-choice",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 WELCOME ようこそ！ 夢へ入る戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "夢へ入る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 295,
+            "y": 780,
+            "w": 81,
+            "h": 44
+          }
+        },
+        {
+          "probe": 3,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-9-tap:before",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 WELCOME ようこそ！ 夢へ入る戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "夢へ入る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 295,
+            "y": 780,
+            "w": 81,
+            "h": 44
+          }
+        },
+        {
+          "probe": 3,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-9-tap:after",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 WELCOME ようこそ！ 夢へ入る戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "夢へ入る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 295,
+            "y": 780,
+            "w": 81,
+            "h": 44
+          }
+        },
+        {
+          "probe": 3,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "back-avoided-10:before",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 WELCOME ようこそ！ 夢へ入る戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "夢へ入る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 295,
+            "y": 780,
+            "w": 81,
+            "h": 44
+          }
+        },
+        {
+          "probe": 3,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "back-avoided-10:after",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 WELCOME ようこそ！ 夢へ入る戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "夢へ入る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 295,
+            "y": 780,
+            "w": 81,
+            "h": 44
+          }
+        },
+        {
+          "probe": 3,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-11-choice",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 WELCOME ようこそ！ 夢へ入る戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "夢へ入る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 295,
+            "y": 780,
+            "w": 81,
+            "h": 44
+          }
+        },
+        {
+          "probe": 3,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-11-tap:before",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 WELCOME ようこそ！ 夢へ入る戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "夢へ入る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 295,
+            "y": 780,
+            "w": 81,
+            "h": 44
+          }
+        },
+        {
+          "probe": 3,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-11-tap:after",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 WELCOME ようこそ！ 夢へ入る戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "夢へ入る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 295,
+            "y": 780,
+            "w": 81,
+            "h": 44
+          }
+        },
+        {
+          "probe": 3,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "scroll-12:before",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 WELCOME ようこそ！ 夢へ入る戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "夢へ入る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 295,
+            "y": 780,
+            "w": 81,
+            "h": 44
+          }
+        },
+        {
+          "probe": 3,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "scroll-12:after",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 WELCOME ようこそ！ 夢へ入る戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "夢へ入る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 295,
+            "y": 780,
+            "w": 81,
+            "h": 44
+          }
+        },
+        {
+          "probe": 3,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-13-choice",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 WELCOME ようこそ！ 夢へ入る戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "夢へ入る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 295,
+            "y": 780,
+            "w": 81,
+            "h": 44
+          }
+        },
+        {
+          "probe": 3,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-13-tap:before",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 WELCOME ようこそ！ 夢へ入る戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "夢へ入る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 295,
+            "y": 780,
+            "w": 81,
+            "h": 44
+          }
+        },
+        {
+          "probe": 3,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-13-tap:after",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 WELCOME ようこそ！ 夢へ入る戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "夢へ入る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 295,
+            "y": 780,
+            "w": 81,
+            "h": 44
+          }
+        },
+        {
+          "probe": 3,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-14-choice",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 WELCOME ようこそ！ 夢へ入る戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "夢へ入る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 295,
+            "y": 780,
+            "w": 81,
+            "h": 44
+          }
+        },
+        {
+          "probe": 3,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-14-tap:before",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 WELCOME ようこそ！ 夢へ入る戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "夢へ入る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 295,
+            "y": 780,
+            "w": 81,
+            "h": 44
+          }
+        },
+        {
+          "probe": 3,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-14-tap:after",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 WELCOME ようこそ！ 夢へ入る戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "夢へ入る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 295,
+            "y": 780,
+            "w": 81,
+            "h": 44
+          }
+        },
+        {
+          "probe": 3,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-15-choice",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 WELCOME ようこそ！ 夢へ入る戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "夢へ入る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 295,
+            "y": 780,
+            "w": 81,
+            "h": 44
+          }
+        },
+        {
+          "probe": 3,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-15-tap:before",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 WELCOME ようこそ！ 夢へ入る戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "夢へ入る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 295,
+            "y": 780,
+            "w": 81,
+            "h": 44
+          }
+        },
+        {
+          "probe": 3,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-15-tap:after",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 WELCOME ようこそ！ 夢へ入る戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "夢へ入る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 295,
+            "y": 780,
+            "w": 81,
+            "h": 44
+          }
+        },
+        {
+          "probe": 3,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-16-choice",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 WELCOME ようこそ！ 夢へ入る戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "夢へ入る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 295,
+            "y": 780,
+            "w": 81,
+            "h": 44
+          }
+        },
+        {
+          "probe": 3,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-16-tap:before",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 WELCOME ようこそ！ 夢へ入る戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "夢へ入る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 295,
+            "y": 780,
+            "w": 81,
+            "h": 44
+          }
+        },
+        {
+          "probe": 3,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-16-tap:after",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 WELCOME ようこそ！ 夢へ入る戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "夢へ入る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 295,
+            "y": 780,
+            "w": 81,
+            "h": 44
+          }
+        },
+        {
+          "probe": 3,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-17-choice",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 WELCOME ようこそ！ 夢へ入る戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "夢へ入る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 295,
+            "y": 780,
+            "w": 81,
+            "h": 44
+          }
+        },
+        {
+          "probe": 3,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-17-tap:before",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 WELCOME ようこそ！ 夢へ入る戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "夢へ入る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 295,
+            "y": 780,
+            "w": 81,
+            "h": 44
+          }
+        },
+        {
+          "probe": 3,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-17-tap:after",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 WELCOME ようこそ！ 夢へ入る戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "夢へ入る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 295,
+            "y": 780,
+            "w": 81,
+            "h": 44
+          }
+        },
+        {
+          "probe": 3,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-18-choice",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 WELCOME ようこそ！ 夢へ入る戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "夢へ入る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 295,
+            "y": 780,
+            "w": 81,
+            "h": 44
+          }
+        },
+        {
+          "probe": 3,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-18-tap:before",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 WELCOME ようこそ！ 夢へ入る戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "夢へ入る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 295,
+            "y": 780,
+            "w": 81,
+            "h": 44
+          }
+        },
+        {
+          "probe": 3,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-18-tap:after",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 WELCOME ようこそ！ 夢へ入る戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "夢へ入る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 295,
+            "y": 780,
+            "w": 81,
+            "h": 44
+          }
+        },
+        {
+          "probe": 3,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-19-choice",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 WELCOME ようこそ！ 夢へ入る戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "夢へ入る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 295,
+            "y": 780,
+            "w": 81,
+            "h": 44
+          }
+        },
+        {
+          "probe": 3,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-19-tap:before",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 WELCOME ようこそ！ 夢へ入る戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "夢へ入る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 295,
+            "y": 780,
+            "w": 81,
+            "h": 44
+          }
+        },
+        {
+          "probe": 3,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-19-tap:after",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 WELCOME ようこそ！ 夢へ入る戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "夢へ入る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 295,
+            "y": 780,
+            "w": 81,
+            "h": 44
+          }
+        },
+        {
+          "probe": 3,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-20-choice",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 WELCOME ようこそ！ 夢へ入る戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "夢へ入る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 295,
+            "y": 780,
+            "w": 81,
+            "h": 44
+          }
+        },
+        {
+          "probe": 3,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-20-tap:before",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 WELCOME ようこそ！ 夢へ入る戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "夢へ入る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 295,
+            "y": 780,
+            "w": 81,
+            "h": 44
+          }
+        },
+        {
+          "probe": 3,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-20-tap:after",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 WELCOME ようこそ！ 夢へ入る戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "夢へ入る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 295,
+            "y": 780,
+            "w": 81,
+            "h": 44
+          }
+        },
+        {
+          "probe": 3,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-21-choice",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 WELCOME ようこそ！ 夢へ入る戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "夢へ入る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 295,
+            "y": 780,
+            "w": 81,
+            "h": 44
+          }
+        },
+        {
+          "probe": 3,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-21-tap:before",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 WELCOME ようこそ！ 夢へ入る戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "夢へ入る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 295,
+            "y": 780,
+            "w": 81,
+            "h": 44
+          }
+        },
+        {
+          "probe": 3,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-21-tap:after",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 WELCOME ようこそ！ 夢へ入る戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "夢へ入る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 295,
+            "y": 780,
+            "w": 81,
+            "h": 44
+          }
+        },
+        {
+          "probe": 3,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-22-choice",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 WELCOME ようこそ！ 夢へ入る戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "夢へ入る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 295,
+            "y": 780,
+            "w": 81,
+            "h": 44
+          }
+        },
+        {
+          "probe": 3,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-22-tap:before",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 WELCOME ようこそ！ 夢へ入る戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "夢へ入る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 295,
+            "y": 780,
+            "w": 81,
+            "h": 44
+          }
+        },
+        {
+          "probe": 3,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-22-tap:after",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 WELCOME ようこそ！ 夢へ入る戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "夢へ入る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 295,
+            "y": 780,
+            "w": 81,
+            "h": 44
+          }
+        },
+        {
+          "probe": 3,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-23-choice",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 WELCOME ようこそ！ 夢へ入る戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "夢へ入る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 295,
+            "y": 780,
+            "w": 81,
+            "h": 44
+          }
+        },
+        {
+          "probe": 3,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-23-tap:before",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 WELCOME ようこそ！ 夢へ入る戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "夢へ入る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 295,
+            "y": 780,
+            "w": 81,
+            "h": 44
+          }
+        },
+        {
+          "probe": 3,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-23-tap:after",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 WELCOME ようこそ！ 夢へ入る戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "夢へ入る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 295,
+            "y": 780,
+            "w": 81,
+            "h": 44
+          }
+        },
+        {
+          "probe": 3,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-24-choice",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 WELCOME ようこそ！ 夢へ入る戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "夢へ入る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 295,
+            "y": 780,
+            "w": 81,
+            "h": 44
+          }
+        },
+        {
+          "probe": 3,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-24-tap:before",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 WELCOME ようこそ！ 夢へ入る戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "夢へ入る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 295,
+            "y": 780,
+            "w": 81,
+            "h": 44
+          }
+        },
+        {
+          "probe": 3,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-24-tap:after",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 WELCOME ようこそ！ 夢へ入る戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "夢へ入る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 295,
+            "y": 780,
+            "w": 81,
+            "h": 44
+          }
+        },
+        {
+          "probe": 3,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-25-choice",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 WELCOME ようこそ！ 夢へ入る戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "夢へ入る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 295,
+            "y": 780,
+            "w": 81,
+            "h": 44
+          }
+        },
+        {
+          "probe": 3,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-25-tap:before",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 WELCOME ようこそ！ 夢へ入る戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "夢へ入る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 295,
+            "y": 780,
+            "w": 81,
+            "h": 44
+          }
+        },
+        {
+          "probe": 3,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-25-tap:after",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 WELCOME ようこそ！ 夢へ入る戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "夢へ入る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 295,
+            "y": 780,
+            "w": 81,
+            "h": 44
+          }
+        },
+        {
+          "probe": 3,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-26-choice",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 WELCOME ようこそ！ 夢へ入る戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "夢へ入る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 295,
+            "y": 780,
+            "w": 81,
+            "h": 44
+          }
+        },
+        {
+          "probe": 3,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-26-tap:before",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 WELCOME ようこそ！ 夢へ入る戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "夢へ入る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 295,
+            "y": 780,
+            "w": 81,
+            "h": 44
+          }
+        },
+        {
+          "probe": 3,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-26-tap:after",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 WELCOME ようこそ！ 夢へ入る戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "夢へ入る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 295,
+            "y": 780,
+            "w": 81,
+            "h": 44
+          }
+        },
+        {
+          "probe": 3,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "final",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 WELCOME ようこそ！ 夢へ入る戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "夢へ入る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 295,
+            "y": 780,
+            "w": 81,
+            "h": 44
+          }
+        },
+        {
+          "probe": 3,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    }
+  ],
+  "pageErrors": [],
+  "consoleErrors": [],
+  "requestFailures": [],
+  "httpStatus": 200,
+  "final": {
+    "url": "https://niko2atelier.com/",
+    "title": "NIKO² ATELIER",
+    "hash": "",
+    "route": "home",
+    "activeViews": 1,
+    "scroll": {
+      "x": 0,
+      "y": 0,
+      "width": 390,
+      "height": 844
+    },
+    "horizontalOverflow": false,
+    "dialogs": [],
+    "bodyText": "作品へ移動 WELCOME ようこそ！ 夢へ入る戻る",
+    "clickables": [
+      {
+        "probe": 0,
+        "tag": "BUTTON",
+        "id": "soundToggle",
+        "cls": "sound-toggle",
+        "text": "音をオンにする",
+        "href": "",
+        "disabled": false,
+        "rect": {
+          "x": 332,
+          "y": 14,
+          "w": 44,
+          "h": 44
+        }
+      },
+      {
+        "probe": 1,
+        "tag": "BUTTON",
+        "id": "enterGarden",
+        "cls": "dream-entry home-pink-cta",
+        "text": "Enter the dream",
+        "href": "",
+        "disabled": false,
+        "rect": {
+          "x": 90,
+          "y": 494,
+          "w": 210,
+          "h": 70
+        }
+      },
+      {
+        "probe": 2,
+        "tag": "BUTTON",
+        "id": "",
+        "cls": "niko2-intro-primary",
+        "text": "夢へ入る",
+        "href": "",
+        "disabled": false,
+        "rect": {
+          "x": 295,
+          "y": 780,
+          "w": 81,
+          "h": 44
+        }
+      },
+      {
+        "probe": 3,
+        "tag": "BUTTON",
+        "id": "",
+        "cls": "niko2-intro-back",
+        "text": "戻る",
+        "href": "",
+        "disabled": false,
+        "rect": {
+          "x": 14,
+          "y": 780,
+          "w": 72,
+          "h": 44
+        }
+      }
+    ]
+  },
+  "finishedAt": "2026-10-06T17:31:59.421Z"
+}
