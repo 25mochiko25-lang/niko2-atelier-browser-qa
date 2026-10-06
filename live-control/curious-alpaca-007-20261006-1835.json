@@ -1,8 +1,7 @@
 {
-  "id": "a22",
-  "op": "tap",
-  "x": 161,
-  "y": 565,
-  "note": "Focusing the optional sentence field for the tile.",
-  "wait": 200
+  "id": "a23",
+  "op": "type",
+  "text": "お城より先に、床のかけらを拾ってしまった。",
+  "note": "Leaving my own visitor sentence with the tile, in this isolated test browser.",
+  "wait": 400
 }
