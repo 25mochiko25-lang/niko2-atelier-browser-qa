@@ -1,0 +1,211 @@
+{
+  "label": "reopen-cabinet-threshold",
+  "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+  "route": "home",
+  "viewportText": "WORLD\nWORLD",
+  "renderedBodyText": "作品へ移動\n \nWORLD\nWORLD\n水面の向こうに、いくつかの場所がひらいています。\n\n\nABOUT\nもふもふはいます。\nPLAY / SHARE / FAN WORK\nNIKO²での生活について\n好きな形で遊ぶための、小さな境界。\nDEAR ATELIER\nお手紙を送る\nAtelierの受取箱へ。\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+  "controls": [
+    {
+      "tag": "A",
+      "id": "",
+      "cls": "skip-link",
+      "text": "作品へ移動",
+      "type": null,
+      "href": "#main",
+      "disabled": false,
+      "rect": {
+        "x": 8,
+        "y": -61,
+        "w": 108,
+        "h": 43
+      },
+      "onScreen": false,
+      "hit": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "soundToggle",
+      "cls": "sound-toggle",
+      "text": "音をオンにする",
+      "type": "button",
+      "href": null,
+      "disabled": false,
+      "rect": {
+        "x": 332,
+        "y": 14,
+        "w": 44,
+        "h": 44
+      },
+      "onScreen": true,
+      "hit": true
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "cls": "home-letter-entry",
+      "text": "FROM THE ATELIERを開く",
+      "type": null,
+      "href": "#notes",
+      "disabled": false,
+      "rect": {
+        "x": 279,
+        "y": 274,
+        "w": 91,
+        "h": 92
+      },
+      "onScreen": true,
+      "hit": true
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "cls": "home-diary-entry",
+      "text": "Diaryを開く",
+      "type": null,
+      "href": "#diary",
+      "disabled": false,
+      "rect": {
+        "x": 14,
+        "y": 298,
+        "w": 147,
+        "h": 147
+      },
+      "onScreen": true,
+      "hit": true
+    },
+    {
+      "tag": "BUTTON",
+      "id": "enterGarden",
+      "cls": "dream-entry home-pink-cta",
+      "text": "Enter the dream",
+      "type": "button",
+      "href": null,
+      "disabled": false,
+      "rect": {
+        "x": 90,
+        "y": 494,
+        "w": 210,
+        "h": 70
+      },
+      "onScreen": true,
+      "hit": true
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "cls": "home-world-lab",
+      "text": "WORLDを開く",
+      "type": null,
+      "href": "#world",
+      "disabled": false,
+      "rect": {
+        "x": 23,
+        "y": 921,
+        "w": 343,
+        "h": 193
+      },
+      "onScreen": false,
+      "hit": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "cls": "home-about-window",
+      "text": "ABOUT もふもふはいます。",
+      "type": null,
+      "href": "#about",
+      "disabled": false,
+      "rect": {
+        "x": 43,
+        "y": 1398,
+        "w": 304,
+        "h": 252
+      },
+      "onScreen": false,
+      "hit": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "cls": "home-quiet-link home-rights-entry",
+      "text": "PLAY / SHARE / FAN WORK NIKO²での生活について 好きな形で遊ぶための、小さな境界。",
+      "type": null,
+      "href": "#rights",
+      "disabled": false,
+      "rect": {
+        "x": 31,
+        "y": 1798,
+        "w": 328,
+        "h": 124
+      },
+      "onScreen": false,
+      "hit": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "cls": "home-quiet-link home-dear-entry",
+      "text": "DEAR ATELIER お手紙を送る Atelierの受取箱へ。",
+      "type": null,
+      "href": "#dear",
+      "disabled": false,
+      "rect": {
+        "x": 31,
+        "y": 1936,
+        "w": 328,
+        "h": 124
+      },
+      "onScreen": false,
+      "hit": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "cls": "unknown-entry",
+      "text": "???",
+      "type": "button",
+      "href": null,
+      "disabled": false,
+      "rect": {
+        "x": 0,
+        "y": 2110,
+        "w": 390,
+        "h": 58
+      },
+      "onScreen": false,
+      "hit": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "cls": "",
+      "text": "Rights",
+      "type": null,
+      "href": "#rights",
+      "disabled": false,
+      "rect": {
+        "x": 176,
+        "y": 2179,
+        "w": 37,
+        "h": 13
+      },
+      "onScreen": false,
+      "hit": false
+    }
+  ],
+  "scroll": {
+    "x": 0,
+    "y": 0,
+    "h": 844
+  },
+  "scrollContainers": [
+    {
+      "id": "",
+      "cls": "view home-view is-active",
+      "top": 0,
+      "height": 844,
+      "scrollHeight": 2216
+    }
+  ],
+  "dialogs": []
+}
