@@ -101,6 +101,7 @@ jobs:
           npm install --prefix /tmp/niko2-browser-qa --no-save --no-package-lock playwright@1.55.0
 
       - name: Run visitor
+        shell: bash
         env:
           NODE_PATH: /tmp/niko2-browser-qa/node_modules
           PLAYWRIGHT_BROWSERS_PATH: /ms-playwright
