@@ -1,1 +1,1 @@
-{"id":"25-write","op":"type","text":"手紙かと思って触ったら、白い街のタイルだった。","wait":600,"note":"Add one sentence about what I actually mistook and discovered, rather than writing a review inside the diary."}
+{"id":"26-next","op":"key","key":"Tab","wait":700,"note":"The short note is entered. Look for the control that saves it, using normal keyboard focus because mobile WebKit wheel scrolling is unavailable in the test environment."}
