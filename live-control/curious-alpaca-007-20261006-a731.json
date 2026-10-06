@@ -1,8 +1,8 @@
 {
-  "id": "010-ribbon-key",
+  "id": "011-table-note",
   "op": "tap",
-  "x": 138,
-  "y": 611,
-  "wait": 1100,
-  "note": "The ribboned key caught my eye before I knew the task. Keys make me wonder what door they belong to."
+  "x": 220,
+  "y": 609,
+  "wait": 1000,
+  "note": "The key does not fit any door, which I like. Before collecting the other marked objects I want to turn over the small paper lying beside it."
 }
