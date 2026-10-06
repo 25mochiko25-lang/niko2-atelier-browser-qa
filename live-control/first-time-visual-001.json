@@ -1,1 +1,1 @@
-{"id":"20","op":"key","key":"PageDown","wait":1000,"note":"Technical correction: the earlier wheel attempt was rejected by mobile WebKit, not blocked by the website. Use PageDown to inspect the lower part; exclude the wheel failure from visitor complaints."}
+{"id":"21","op":"look","wait":500,"note":"Resume the same observer browser after conversation continuation. Inspect the current Diary viewport before choosing the next action; no automatic scoring or interaction-count stop."}
