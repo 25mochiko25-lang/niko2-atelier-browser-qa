@@ -5,20 +5,20 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-06T18:42:49.473Z",
-  "updatedAt": "2026-10-06T18:50:20.897Z",
-  "lastCommand": "r06",
+  "updatedAt": "2026-10-06T18:51:24.608Z",
+  "lastCommand": "r07",
   "stopReason": null,
   "action": {
-    "id": "r06",
+    "id": "r07",
     "op": "tap",
-    "x": 334,
-    "y": 773,
-    "wait": 900,
-    "note": "The ordinary sunlit wall is a welcome visual change from the ornate dream scenes. I do not yet understand what growing this world means, but I do not need to solve that sentence to continue."
+    "x": 226,
+    "y": 382,
+    "wait": 1500,
+    "note": "The actual choices are Research Lab and production records. I am not interested in the making-of yet; I want to know what is in this world. The lab image with its door and book is the more inviting choice."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/f93ef09fbf3ef69f05bb3ae7032b16d5ca176cf9/live-results/first-time-gogo-isolated-002/current.jpg",
-  "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/d3a7e795e89f1095cd6d2e1d5cd9216e025a6e6b/live-results/first-time-gogo-isolated-002/current.jpg",
+  "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#lab",
   "title": "NIKO² ATELIER",
   "viewport": {
     "width": 390,
@@ -29,8 +29,19 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n \nWORLD\nWORLD\n水面の向こうに、いくつかの場所がひらいています。\n\n\nABOUT\nもふもふはいます。\nPLAY / SHARE / FAN WORK\nNIKO²での生活について\n好きな形で遊ぶための、小さな境界。\nDEAR ATELIER\nお手紙を送る\nAtelierの受取箱へ。\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNEXT PLACES\nこの先に、二つの場所がひらいています。\nどちらを選んでも、選ばなくても大丈夫です。\n\n\nResearch Lab\nこの世界について残された記録を読む場所。\n\n\nFROM THE ATELIER\nこの世界の制作記録を読む場所。\n戻る完了",
+  "text": "作品へ移動\nNIKO² ATELIER\n\n\n\n白と薄水色のガラス研究所。奥へ続く通路と、記録の置かれた観測台があります。\nMAIN LAB\n観測台\n\nRESEARCH LAB\n\n少し、\n見ていく。\n入る\n観測台奥の保管室へ進む\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
   "controls": [
+    {
+      "tag": "A",
+      "text": "NIKO² ATELIER",
+      "disabled": false,
+      "rect": {
+        "x": 25,
+        "y": 23,
+        "w": 124,
+        "h": 29
+      }
+    },
     {
       "tag": "BUTTON",
       "text": "音をオンにする",
@@ -43,85 +54,67 @@
       }
     },
     {
-      "tag": "A",
-      "text": "FROM THE ATELIERを開く",
-      "disabled": false,
-      "rect": {
-        "x": 279,
-        "y": 274,
-        "w": 91,
-        "h": 92
-      }
-    },
-    {
-      "tag": "A",
-      "text": "Diaryを開く",
-      "disabled": false,
-      "rect": {
-        "x": 14,
-        "y": 298,
-        "w": 147,
-        "h": 147
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "Enter the dream",
-      "disabled": false,
-      "rect": {
-        "x": 90,
-        "y": 494,
-        "w": 210,
-        "h": 70
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "Research Lab\nこの世界について残された記録を読む場所。",
-      "disabled": false,
-      "rect": {
-        "x": 46,
-        "y": 316,
-        "w": 298,
-        "h": 134
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "FROM THE ATELIER\nこの世界の制作記録を読む場所。",
-      "disabled": false,
-      "rect": {
-        "x": 46,
-        "y": 460,
-        "w": 298,
-        "h": 134
-      }
-    },
-    {
       "tag": "BUTTON",
       "text": "戻る",
       "disabled": false,
       "rect": {
-        "x": 18,
-        "y": 748,
-        "w": 72,
-        "h": 44
+        "x": 14,
+        "y": 82,
+        "w": 40,
+        "h": 40
       }
     },
     {
       "tag": "BUTTON",
-      "text": "完了",
+      "text": "入る",
       "disabled": false,
       "rect": {
-        "x": 300,
-        "y": 748,
-        "w": 72,
-        "h": 44
+        "x": 24,
+        "y": 623,
+        "w": 184,
+        "h": 46
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "観測台",
+      "disabled": false,
+      "rect": {
+        "x": 60,
+        "y": 355,
+        "w": 81,
+        "h": 275
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "奥の保管室へ進む",
+      "disabled": false,
+      "rect": {
+        "x": 148,
+        "y": 305,
+        "w": 98,
+        "h": 170
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "障害シミュレーション／運用モードを開く",
+      "disabled": false,
+      "rect": {
+        "x": 265,
+        "y": 574,
+        "w": 65,
+        "h": 88
       }
     }
   ],
   "pageErrors": [],
   "httpErrors": [
+    {
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/api/identity",
+      "status": 404
+    },
     {
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/api/identity",
       "status": 404
@@ -492,6 +485,22 @@
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/f93ef09fbf3ef69f05bb3ae7032b16d5ca176cf9/live-results/first-time-gogo-isolated-002/current.jpg",
       "text": "作品へ移動\n \nWORLD\nWORLD\n水面の向こうに、いくつかの場所がひらいています。\n\n\nABOUT\nもふもふはいます。\nPLAY / SHARE / FAN WORK\nNIKO²での生活について\n好きな形で遊ぶための、小さな境界。\nDEAR ATELIER\nお手紙を送る\nAtelierの受取箱へ。\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNEXT PLACES\nこの先に、二つの場所がひらいています。\nどちらを選んでも、選ばなくても大丈夫です。\n\n\nResearch Lab\nこの世界について残された記録を読む場所。\n\n\nFROM THE ATELIER\nこの世界の制作記録を読む場所。\n戻る完了"
+    },
+    {
+      "number": 23,
+      "at": "2026-10-06T18:51:24.608Z",
+      "action": {
+        "id": "r07",
+        "op": "tap",
+        "x": 226,
+        "y": 382,
+        "wait": 1500,
+        "note": "The actual choices are Research Lab and production records. I am not interested in the making-of yet; I want to know what is in this world. The lab image with its door and book is the more inviting choice."
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#lab",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/d3a7e795e89f1095cd6d2e1d5cd9216e025a6e6b/live-results/first-time-gogo-isolated-002/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\n\n\n\n白と薄水色のガラス研究所。奥へ続く通路と、記録の置かれた観測台があります。\nMAIN LAB\n観測台\n\nRESEARCH LAB\n\n少し、\n見ていく。\n入る\n観測台奥の保管室へ進む\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
     }
   ]
 }
