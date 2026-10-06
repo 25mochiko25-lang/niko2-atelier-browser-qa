@@ -1,0 +1,342 @@
+{
+  "request": "genre-critic-six-cont09",
+  "startUrl": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+  "startedAt": "2026-10-06T18:34:42.890Z",
+  "finishedAt": "2026-10-06T18:35:21.098Z",
+  "httpStatus": 200,
+  "events": [
+    {
+      "step": 1,
+      "action": {
+        "kind": "tap",
+        "selector": "#enterGarden",
+        "label": "enter-perfume-dream",
+        "wait": 1800
+      },
+      "result": {
+        "x": 195,
+        "y": 528.71875,
+        "label": "Enter the dream",
+        "id": "enterGarden"
+      },
+      "error": null,
+      "before": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+        "route": "home"
+      },
+      "after": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#perfume",
+        "route": "perfume"
+      }
+    },
+    {
+      "step": 2,
+      "action": {
+        "kind": "tap",
+        "selector": "#enterPerfumeWorkbench",
+        "label": "open-workbench",
+        "wait": 1500
+      },
+      "result": {
+        "x": 195,
+        "y": 531.5,
+        "label": "調香台へ",
+        "id": "enterPerfumeWorkbench"
+      },
+      "error": null,
+      "before": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#perfume",
+        "route": "perfume"
+      },
+      "after": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#perfume",
+        "route": "perfume"
+      }
+    },
+    {
+      "step": 3,
+      "action": {
+        "kind": "tap",
+        "name": "雨をTOPへ加える",
+        "label": "rain-in-top",
+        "wait": 900,
+        "picture": true
+      },
+      "result": {
+        "x": 108.75,
+        "y": 271,
+        "label": "雨",
+        "id": ""
+      },
+      "error": null,
+      "before": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#perfume",
+        "route": "perfume"
+      },
+      "after": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#perfume",
+        "route": "perfume"
+      }
+    },
+    {
+      "step": 4,
+      "action": {
+        "kind": "tap",
+        "name": "02.*MIDDLE",
+        "regex": true,
+        "label": "select-middle"
+      },
+      "result": {
+        "x": 194.9921875,
+        "y": 652,
+        "label": "02\nMIDDLE",
+        "id": ""
+      },
+      "error": null,
+      "before": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#perfume",
+        "route": "perfume"
+      },
+      "after": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#perfume",
+        "route": "perfume"
+      }
+    },
+    {
+      "step": 5,
+      "action": {
+        "kind": "tap",
+        "name": "紅茶の渋みをMIDDLEへ加える",
+        "label": "tea-in-middle",
+        "wait": 900
+      },
+      "result": {
+        "x": 281.25,
+        "y": 397,
+        "label": "紅茶の渋み",
+        "id": ""
+      },
+      "error": null,
+      "before": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#perfume",
+        "route": "perfume"
+      },
+      "after": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#perfume",
+        "route": "perfume"
+      }
+    },
+    {
+      "step": 6,
+      "action": {
+        "kind": "tap",
+        "name": "03.*LAST",
+        "regex": true,
+        "label": "select-last"
+      },
+      "result": {
+        "x": 309.3203125,
+        "y": 652,
+        "label": "03\nLAST",
+        "id": ""
+      },
+      "error": null,
+      "before": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#perfume",
+        "route": "perfume"
+      },
+      "after": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#perfume",
+        "route": "perfume"
+      }
+    },
+    {
+      "step": 7,
+      "action": {
+        "kind": "tap",
+        "name": "燃えた砂糖をLASTへ加える",
+        "label": "burnt-sugar-in-last",
+        "wait": 900,
+        "picture": true
+      },
+      "result": {
+        "x": 108.75,
+        "y": 334,
+        "label": "燃えた砂糖",
+        "id": ""
+      },
+      "error": null,
+      "before": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#perfume",
+        "route": "perfume"
+      },
+      "after": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#perfume",
+        "route": "perfume"
+      }
+    },
+    {
+      "step": 8,
+      "action": {
+        "kind": "tap",
+        "name": "Parfum.*記憶の濃度",
+        "regex": true,
+        "label": "choose-parfum",
+        "picture": true
+      },
+      "result": {
+        "x": 263.7890625,
+        "y": 639,
+        "label": "Parfum\n記憶の濃度",
+        "id": ""
+      },
+      "error": null,
+      "before": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#perfume",
+        "route": "perfume"
+      },
+      "after": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#perfume",
+        "route": "perfume"
+      }
+    },
+    {
+      "step": 9,
+      "action": {
+        "kind": "tap",
+        "selector": "#composePerfume",
+        "label": "compose-chosen-perfume",
+        "wait": 12000,
+        "picture": true
+      },
+      "result": {
+        "x": 195,
+        "y": 752,
+        "label": "香りを定着させる",
+        "id": "composePerfume"
+      },
+      "error": null,
+      "before": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#perfume",
+        "route": "perfume"
+      },
+      "after": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#perfume",
+        "route": "perfume"
+      }
+    },
+    {
+      "step": 10,
+      "action": {
+        "kind": "scroll",
+        "dy": 450,
+        "label": "read-result-and-response",
+        "picture": true
+      },
+      "result": {
+        "tag": "SECTION",
+        "id": "",
+        "cls": "view perfume-view prototype-view is-active",
+        "before": 0,
+        "after": 450
+      },
+      "error": null,
+      "before": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#perfume",
+        "route": "perfume"
+      },
+      "after": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#perfume",
+        "route": "perfume"
+      }
+    }
+  ],
+  "observations": [
+    {
+      "label": "arrival",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+      "route": "home",
+      "viewportText": "WORLD\nWORLD",
+      "screenshot": "001-arrival.jpg"
+    },
+    {
+      "label": "enter-perfume-dream",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#perfume",
+      "route": "perfume",
+      "viewportText": "NIKO² ATELIER\nFORMULA / TWELVE TRILLION\n三つの層に、記憶を落とす。\n十二兆通りの数式のうち、今日の一本だけが、あなたの手で閉じる。\nときどき、こちらの記録にはない香りも届きます。\n調香台へ"
+    },
+    {
+      "label": "open-workbench",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#perfume",
+      "route": "perfume",
+      "viewportText": "NIKO² ATELIER\n香りになれなかった記憶。\n素材を選び、三つの層へ落としてください。順番と濃度で、同じ記憶も別の香りになります。\n雨\n古いぬいぐるみ\n燃えた砂糖\nホテルの白いシーツ\n甘い夢\n紅茶の渋み\n煙の名残\n花\nMIXING BOTTLE / EMPTY\nIN BOTTLE / EMPTY\n01\nTOP\n02\nMIDDLE\n03\nLAST\nTOP\nこの層には、まだ何も落ちていない。\nMIDDLE\nこの層には、まだ何も落ちていない。\nLAST\nこの層には、まだ何も落ちていない。"
+    },
+    {
+      "label": "rain-in-top",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#perfume",
+      "route": "perfume",
+      "viewportText": "NIKO² ATELIER\n香りになれなかった記憶。\n素材を選び、三つの層へ落としてください。順番と濃度で、同じ記憶も別の香りになります。\n雨\n古いぬいぐるみ\n燃えた砂糖\nホテルの白いシーツ\n甘い夢\n紅茶の渋み\n煙の名残\n花\nMIXING BOTTLE / 1 MATERIAL\nIN BOTTLE / 雨 ×1\n01\nTOP\n02\nMIDDLE\n03\nLAST\nTOP\n雨\n×1\n×\n−\n＋\nMIDDLE\nこの層には、まだ何も落ちていない。\nLAST\nこの層には、まだ何も落ちていない。",
+      "screenshot": "004-rain-in-top.jpg"
+    },
+    {
+      "label": "select-middle",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#perfume",
+      "route": "perfume",
+      "viewportText": "NIKO² ATELIER\n香りになれなかった記憶。\n素材を選び、三つの層へ落としてください。順番と濃度で、同じ記憶も別の香りになります。\n雨\n古いぬいぐるみ\n燃えた砂糖\nホテルの白いシーツ\n甘い夢\n紅茶の渋み\n煙の名残\n花\nMIXING BOTTLE / 1 MATERIAL\nIN BOTTLE / 雨 ×1\n01\nTOP\n02\nMIDDLE\n03\nLAST\nTOP\n雨\n×1\n×\n−\n＋\nMIDDLE\nこの層には、まだ何も落ちていない。\nLAST\nこの層には、まだ何も落ちていない。"
+    },
+    {
+      "label": "tea-in-middle",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#perfume",
+      "route": "perfume",
+      "viewportText": "NIKO² ATELIER\n香りになれなかった記憶。\n素材を選び、三つの層へ落としてください。順番と濃度で、同じ記憶も別の香りになります。\n雨\n古いぬいぐるみ\n燃えた砂糖\nホテルの白いシーツ\n甘い夢\n紅茶の渋み\n煙の名残\n花\nMIXING BOTTLE / 2 MATERIALS\nIN BOTTLE / 雨 ×1 · 紅茶の渋み ×1\n01\nTOP\n02\nMIDDLE\n03\nLAST\nTOP\n雨\n×1\n×\n−\n＋\nMIDDLE\n紅茶の渋み\n×1\n×\n−\n＋\nLAST\nこの層には、まだ何も落ちていない。"
+    },
+    {
+      "label": "select-last",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#perfume",
+      "route": "perfume",
+      "viewportText": "NIKO² ATELIER\n香りになれなかった記憶。\n素材を選び、三つの層へ落としてください。順番と濃度で、同じ記憶も別の香りになります。\n雨\n古いぬいぐるみ\n燃えた砂糖\nホテルの白いシーツ\n甘い夢\n紅茶の渋み\n煙の名残\n花\nMIXING BOTTLE / 2 MATERIALS\nIN BOTTLE / 雨 ×1 · 紅茶の渋み ×1\n01\nTOP\n02\nMIDDLE\n03\nLAST\nTOP\n雨\n×1\n×\n−\n＋\nMIDDLE\n紅茶の渋み\n×1\n×\n−\n＋\nLAST\nこの層には、まだ何も落ちていない。"
+    },
+    {
+      "label": "burnt-sugar-in-last",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#perfume",
+      "route": "perfume",
+      "viewportText": "NIKO² ATELIER\n香りになれなかった記憶。\n素材を選び、三つの層へ落としてください。順番と濃度で、同じ記憶も別の香りになります。\n雨\n古いぬいぐるみ\n燃えた砂糖\nホテルの白いシーツ\n甘い夢\n紅茶の渋み\n煙の名残\n花\nMIXING BOTTLE / 3 MATERIALS\nIN BOTTLE / 雨 ×1 · 紅茶の渋み ×1 · 燃えた砂糖 ×1\n01\nTOP\n02\nMIDDLE\n03\nLAST\nTOP\n雨\n×1\n×\n−\n＋\nMIDDLE\n紅茶の渋み\n×1\n×\n−\n＋\nLAST",
+      "screenshot": "008-burnt-sugar-in-last.jpg"
+    },
+    {
+      "label": "choose-parfum",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#perfume",
+      "route": "perfume",
+      "viewportText": "NIKO² ATELIER\n燃えた砂糖\nホテルの白いシーツ\n甘い夢\n紅茶の渋み\n煙の名残\n花\nMIXING BOTTLE / 3 MATERIALS\nIN BOTTLE / 雨 ×1 · 紅茶の渋み ×1 · 燃えた砂糖 ×1\n01\nTOP\n02\nMIDDLE\n03\nLAST\nTOP\n雨\n×1\n×\n−\n＋\nMIDDLE\n紅茶の渋み\n×1\n×\n−\n＋\nLAST\n燃えた砂糖\n×1\n×\n−\n＋\nCONCENTRATION\nEAU DE PARFUM / 記憶の濃度\nEau Fraîche\n水のあと\nCologne\n風の輪郭\nToilette\n肌に近い\nParfum\n記憶の濃度\nExtrait\n最後まで残る\n香りを定着させる",
+      "screenshot": "009-choose-parfum.jpg"
+    },
+    {
+      "label": "compose-chosen-perfume",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#perfume",
+      "route": "perfume",
+      "viewportText": "NIKO² ATELIER\nFRESH / 太陽の方へ\nF-20261006-5B48\nFalse Morning\nFRESH / 太陽の方へ\nEAU DE PARFUM / 記憶の濃度\nTOP\n1. 雨 ×1\nMIDDLE\n1. 紅茶の渋み ×1\nLAST\n1. 燃えた砂糖 ×1\nFORMULA / SCENT CHARACTER",
+      "screenshot": "010-compose-chosen-perfume.jpg"
+    },
+    {
+      "label": "read-result-and-response",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#perfume",
+      "route": "perfume",
+      "viewportText": "NIKO² ATELIER\nF-20261006-5B48\nFalse Morning\nFRESH / 太陽の方へ\nEAU DE PARFUM / 記憶の濃度\nTOP\n1. 雨 ×1\nMIDDLE\n1. 紅茶の渋み ×1\nLAST\n1. 燃えた砂糖 ×1\nFORMULA / SCENT CHARACTER\n最初に雨。 少し遅れて紅茶の渋み。 最後に燃えた砂糖が残る。 密度のある長い残香へ着地する。\nDiaryに持ち帰る\nもう一度調合する\nNARRATIVE / HEAT · FRESH-FALSE-MORNING\nカーテンを開けた。\n\n朝日が眩しい。\n鳥もうるさく鳴いてる。\n冷えたレモン水まで用意されている。\n\n午前4時12分。\n\n誰が朝にしたの？",
+      "screenshot": "011-read-result-and-response.jpg"
+    },
+    {
+      "label": "final",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#perfume",
+      "route": "perfume",
+      "viewportText": "NIKO² ATELIER\nF-20261006-5B48\nFalse Morning\nFRESH / 太陽の方へ\nEAU DE PARFUM / 記憶の濃度\nTOP\n1. 雨 ×1\nMIDDLE\n1. 紅茶の渋み ×1\nLAST\n1. 燃えた砂糖 ×1\nFORMULA / SCENT CHARACTER\n最初に雨。 少し遅れて紅茶の渋み。 最後に燃えた砂糖が残る。 密度のある長い残香へ着地する。\nDiaryに持ち帰る\nもう一度調合する\nNARRATIVE / HEAT · FRESH-FALSE-MORNING\nカーテンを開けた。\n\n朝日が眩しい。\n鳥もうるさく鳴いてる。\n冷えたレモン水まで用意されている。\n\n午前4時12分。\n\n誰が朝にしたの？",
+      "screenshot": "012-final.jpg"
+    }
+  ],
+  "errors": [],
+  "httpErrors": [
+    {
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/api/identity",
+      "status": 404
+    }
+  ]
+}

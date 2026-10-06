@@ -1,0 +1,6236 @@
+{
+  "request": "genre-critic-six-cont09",
+  "target": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+  "mode": "human-selected actions through remote WebKit",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "engine": "webkit",
+  "events": [
+    {
+      "step": 1,
+      "action": {
+        "kind": "tap",
+        "selector": "#enterGarden",
+        "label": "enter-perfume-dream",
+        "wait": 1800
+      },
+      "result": {
+        "x": 195,
+        "y": 528.71875,
+        "label": "Enter the dream",
+        "id": "enterGarden"
+      },
+      "error": null,
+      "before": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+        "route": "home"
+      },
+      "after": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#perfume",
+        "route": "perfume"
+      }
+    },
+    {
+      "step": 2,
+      "action": {
+        "kind": "tap",
+        "selector": "#enterPerfumeWorkbench",
+        "label": "open-workbench",
+        "wait": 1500
+      },
+      "result": {
+        "x": 195,
+        "y": 531.5,
+        "label": "調香台へ",
+        "id": "enterPerfumeWorkbench"
+      },
+      "error": null,
+      "before": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#perfume",
+        "route": "perfume"
+      },
+      "after": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#perfume",
+        "route": "perfume"
+      }
+    },
+    {
+      "step": 3,
+      "action": {
+        "kind": "tap",
+        "name": "雨をTOPへ加える",
+        "label": "rain-in-top",
+        "wait": 900,
+        "picture": true
+      },
+      "result": {
+        "x": 108.75,
+        "y": 271,
+        "label": "雨",
+        "id": ""
+      },
+      "error": null,
+      "before": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#perfume",
+        "route": "perfume"
+      },
+      "after": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#perfume",
+        "route": "perfume"
+      }
+    },
+    {
+      "step": 4,
+      "action": {
+        "kind": "tap",
+        "name": "02.*MIDDLE",
+        "regex": true,
+        "label": "select-middle"
+      },
+      "result": {
+        "x": 194.9921875,
+        "y": 652,
+        "label": "02\nMIDDLE",
+        "id": ""
+      },
+      "error": null,
+      "before": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#perfume",
+        "route": "perfume"
+      },
+      "after": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#perfume",
+        "route": "perfume"
+      }
+    },
+    {
+      "step": 5,
+      "action": {
+        "kind": "tap",
+        "name": "紅茶の渋みをMIDDLEへ加える",
+        "label": "tea-in-middle",
+        "wait": 900
+      },
+      "result": {
+        "x": 281.25,
+        "y": 397,
+        "label": "紅茶の渋み",
+        "id": ""
+      },
+      "error": null,
+      "before": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#perfume",
+        "route": "perfume"
+      },
+      "after": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#perfume",
+        "route": "perfume"
+      }
+    },
+    {
+      "step": 6,
+      "action": {
+        "kind": "tap",
+        "name": "03.*LAST",
+        "regex": true,
+        "label": "select-last"
+      },
+      "result": {
+        "x": 309.3203125,
+        "y": 652,
+        "label": "03\nLAST",
+        "id": ""
+      },
+      "error": null,
+      "before": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#perfume",
+        "route": "perfume"
+      },
+      "after": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#perfume",
+        "route": "perfume"
+      }
+    },
+    {
+      "step": 7,
+      "action": {
+        "kind": "tap",
+        "name": "燃えた砂糖をLASTへ加える",
+        "label": "burnt-sugar-in-last",
+        "wait": 900,
+        "picture": true
+      },
+      "result": {
+        "x": 108.75,
+        "y": 334,
+        "label": "燃えた砂糖",
+        "id": ""
+      },
+      "error": null,
+      "before": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#perfume",
+        "route": "perfume"
+      },
+      "after": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#perfume",
+        "route": "perfume"
+      }
+    },
+    {
+      "step": 8,
+      "action": {
+        "kind": "tap",
+        "name": "Parfum.*記憶の濃度",
+        "regex": true,
+        "label": "choose-parfum",
+        "picture": true
+      },
+      "result": {
+        "x": 263.7890625,
+        "y": 639,
+        "label": "Parfum\n記憶の濃度",
+        "id": ""
+      },
+      "error": null,
+      "before": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#perfume",
+        "route": "perfume"
+      },
+      "after": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#perfume",
+        "route": "perfume"
+      }
+    },
+    {
+      "step": 9,
+      "action": {
+        "kind": "tap",
+        "selector": "#composePerfume",
+        "label": "compose-chosen-perfume",
+        "wait": 12000,
+        "picture": true
+      },
+      "result": {
+        "x": 195,
+        "y": 752,
+        "label": "香りを定着させる",
+        "id": "composePerfume"
+      },
+      "error": null,
+      "before": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#perfume",
+        "route": "perfume"
+      },
+      "after": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#perfume",
+        "route": "perfume"
+      }
+    },
+    {
+      "step": 10,
+      "action": {
+        "kind": "scroll",
+        "dy": 450,
+        "label": "read-result-and-response",
+        "picture": true
+      },
+      "result": {
+        "tag": "SECTION",
+        "id": "",
+        "cls": "view perfume-view prototype-view is-active",
+        "before": 0,
+        "after": 450
+      },
+      "error": null,
+      "before": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#perfume",
+        "route": "perfume"
+      },
+      "after": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#perfume",
+        "route": "perfume"
+      }
+    }
+  ],
+  "observations": [
+    {
+      "label": "arrival",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+      "route": "home",
+      "viewportText": "WORLD\nWORLD",
+      "renderedBodyText": "作品へ移動\n \nWORLD\nWORLD\n水面の向こうに、いくつかの場所がひらいています。\n\n\nABOUT\nもふもふはいます。\nPLAY / SHARE / FAN WORK\nNIKO²での生活について\n好きな形で遊ぶための、小さな境界。\nDEAR ATELIER\nお手紙を送る\nAtelierの受取箱へ。\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+      "controls": [
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "skip-link",
+          "text": "作品へ移動",
+          "ariaLabel": null,
+          "type": null,
+          "href": "#main",
+          "disabled": false,
+          "rect": {
+            "x": 8,
+            "y": -61,
+            "w": 108,
+            "h": 43
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "ariaLabel": "音をオンにする",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "home-letter-entry",
+          "text": "FROM THE ATELIERを開く",
+          "ariaLabel": "FROM THE ATELIERを開く",
+          "type": null,
+          "href": "#notes",
+          "disabled": false,
+          "rect": {
+            "x": 279,
+            "y": 274,
+            "w": 91,
+            "h": 92
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "home-diary-entry",
+          "text": "Diaryを開く",
+          "ariaLabel": "Diaryを開く",
+          "type": null,
+          "href": "#diary",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 298,
+            "w": 147,
+            "h": 147
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "ariaLabel": "Enter the dream",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "home-world-lab",
+          "text": "WORLDを開く",
+          "ariaLabel": "WORLDを開く",
+          "type": null,
+          "href": "#world",
+          "disabled": false,
+          "rect": {
+            "x": 23,
+            "y": 921,
+            "w": 343,
+            "h": 193
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "home-about-window",
+          "text": "ABOUT もふもふはいます。",
+          "ariaLabel": "Aboutを開く",
+          "type": null,
+          "href": "#about",
+          "disabled": false,
+          "rect": {
+            "x": 43,
+            "y": 1398,
+            "w": 304,
+            "h": 252
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "home-quiet-link home-rights-entry",
+          "text": "PLAY / SHARE / FAN WORK NIKO²での生活について 好きな形で遊ぶための、小さな境界。",
+          "ariaLabel": null,
+          "type": null,
+          "href": "#rights",
+          "disabled": false,
+          "rect": {
+            "x": 31,
+            "y": 1798,
+            "w": 328,
+            "h": 124
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "home-quiet-link home-dear-entry",
+          "text": "DEAR ATELIER お手紙を送る Atelierの受取箱へ。",
+          "ariaLabel": null,
+          "type": null,
+          "href": "#dear",
+          "disabled": false,
+          "rect": {
+            "x": 31,
+            "y": 1936,
+            "w": 328,
+            "h": 124
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "unknown-entry",
+          "text": "???",
+          "ariaLabel": "用途不明の部屋を開く",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 0,
+            "y": 2110,
+            "w": 390,
+            "h": 58
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "",
+          "text": "Rights",
+          "ariaLabel": null,
+          "type": null,
+          "href": "#rights",
+          "disabled": false,
+          "rect": {
+            "x": 176,
+            "y": 2179,
+            "w": 37,
+            "h": 13
+          },
+          "onScreen": false,
+          "hit": false
+        }
+      ],
+      "artwork": [
+        {
+          "tag": "IMG",
+          "id": "",
+          "cls": "home-art",
+          "alt": "虹色の薄布と月明かりに包まれたNIKO² ATELIERの入口",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "w": 390,
+            "h": 843.984375
+          }
+        },
+        {
+          "tag": "IMG",
+          "id": "",
+          "cls": "",
+          "alt": "",
+          "rect": {
+            "x": 282.0892028808594,
+            "y": 273.550537109375,
+            "w": 88.18991088867188,
+            "h": 88.18991088867188
+          }
+        },
+        {
+          "tag": "IMG",
+          "id": "homeTitle",
+          "cls": "home-logo-master",
+          "alt": "NIKO² ATELIER",
+          "rect": {
+            "x": 58.5,
+            "y": 130.8125,
+            "w": 273,
+            "h": 182
+          }
+        },
+        {
+          "tag": "IMG",
+          "id": "",
+          "cls": "",
+          "alt": "",
+          "rect": {
+            "x": 13.886076927185059,
+            "y": 297.9642028808594,
+            "w": 147.10284423828125,
+            "h": 147.10284423828125
+          }
+        },
+        {
+          "tag": "IMG",
+          "id": "",
+          "cls": "",
+          "alt": "Enter the dream",
+          "rect": {
+            "x": 90,
+            "y": 493.71875,
+            "w": 210,
+            "h": 70
+          }
+        },
+        {
+          "tag": "IMG",
+          "id": "",
+          "cls": "",
+          "alt": "",
+          "rect": {
+            "x": 23.40625,
+            "y": 920.5625,
+            "w": 343.1875,
+            "h": 193.03125
+          }
+        },
+        {
+          "tag": "IMG",
+          "id": "",
+          "cls": "",
+          "alt": "もふもふのいるAbout",
+          "rect": {
+            "x": 42.90625,
+            "y": 1397.515625,
+            "w": 304.1875,
+            "h": 202.78125
+          }
+        }
+      ],
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "h": 844
+      },
+      "scrollContainers": [
+        {
+          "id": "",
+          "cls": "view home-view is-active",
+          "top": 0,
+          "height": 844,
+          "scrollHeight": 2216
+        }
+      ],
+      "dialogs": [],
+      "screenshot": "001-arrival.jpg"
+    },
+    {
+      "label": "enter-perfume-dream",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#perfume",
+      "route": "perfume",
+      "viewportText": "NIKO² ATELIER\nFORMULA / TWELVE TRILLION\n三つの層に、記憶を落とす。\n十二兆通りの数式のうち、今日の一本だけが、あなたの手で閉じる。\nときどき、こちらの記録にはない香りも届きます。\n調香台へ",
+      "renderedBodyText": "作品へ移動\nNIKO² ATELIER\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDREAM / PM-01\nPERFUME MORGUE\nFORMULA / EMPTY\nFORMULA / TWELVE TRILLION\n三つの層に、記憶を落とす。\n十二兆通りの数式のうち、今日の一本だけが、あなたの手で閉じる。\nときどき、こちらの記録にはない香りも届きます。\n\n調香台へ\n",
+      "controls": [
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "skip-link",
+          "text": "作品へ移動",
+          "ariaLabel": null,
+          "type": null,
+          "href": "#main",
+          "disabled": false,
+          "rect": {
+            "x": 8,
+            "y": -61,
+            "w": 108,
+            "h": 43
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "wordmark",
+          "text": "NIKO² ATELIER",
+          "ariaLabel": "NIKO² ATELIER ホームへ",
+          "type": null,
+          "href": "#home",
+          "disabled": false,
+          "rect": {
+            "x": 25,
+            "y": 23,
+            "w": 124,
+            "h": 29
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "ariaLabel": "音をオンにする",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "perfumeBack",
+          "cls": "",
+          "text": "アトリエへ戻る",
+          "ariaLabel": "アトリエへ戻る",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 82,
+            "w": 40,
+            "h": 40
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "enterPerfumeWorkbench",
+          "cls": "",
+          "text": "調香台へ",
+          "ariaLabel": null,
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 34,
+            "y": 510,
+            "w": 322,
+            "h": 44
+          },
+          "onScreen": true,
+          "hit": true
+        }
+      ],
+      "artwork": [
+        {
+          "tag": "IMG",
+          "id": "",
+          "cls": "prototype-stage-art",
+          "alt": "使いかけの試香紙と記録帳、色の異なる香料瓶、中央の無銘の香水瓶が残る静かな調香室",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "w": 390,
+            "h": 844
+          }
+        }
+      ],
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "h": 844
+      },
+      "scrollContainers": [],
+      "dialogs": []
+    },
+    {
+      "label": "open-workbench",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#perfume",
+      "route": "perfume",
+      "viewportText": "NIKO² ATELIER\n香りになれなかった記憶。\n素材を選び、三つの層へ落としてください。順番と濃度で、同じ記憶も別の香りになります。\n雨\n古いぬいぐるみ\n燃えた砂糖\nホテルの白いシーツ\n甘い夢\n紅茶の渋み\n煙の名残\n花\nMIXING BOTTLE / EMPTY\nIN BOTTLE / EMPTY\n01\nTOP\n02\nMIDDLE\n03\nLAST\nTOP\nこの層には、まだ何も落ちていない。\nMIDDLE\nこの層には、まだ何も落ちていない。\nLAST\nこの層には、まだ何も落ちていない。",
+      "renderedBodyText": "作品へ移動\nNIKO² ATELIER\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDREAM / PM-01\nPERFUME MORGUE\nFORMULA / EMPTY\n香りになれなかった記憶。\n素材を選び、三つの層へ落としてください。順番と濃度で、同じ記憶も別の香りになります。\n雨\n古いぬいぐるみ\n燃えた砂糖\nホテルの白いシーツ\n甘い夢\n紅茶の渋み\n煙の名残\n花\n濡れた石\n乾いた木\n生の果実\n夜更け\n海水\n古い本\n化粧の粉\n冷たい金属\n\nMIXING BOTTLE / EMPTY\nIN BOTTLE / EMPTY\n\n01\nTOP\n\n02\nMIDDLE\n\n03\nLAST\nTOP\nこの層には、まだ何も落ちていない。\nMIDDLE\nこの層には、まだ何も落ちていない。\nLAST\nこの層には、まだ何も落ちていない。\nCONCENTRATION\nEAU DE TOILETTE / 肌に近い\n\nEau Fraîche\n水のあと\n\nCologne\n風の輪郭\n\nToilette\n肌に近い\n\nParfum\n記憶の濃度\n\nExtrait\n最後まで残る\n\n香りを定着させる\n",
+      "controls": [
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "skip-link",
+          "text": "作品へ移動",
+          "ariaLabel": null,
+          "type": null,
+          "href": "#main",
+          "disabled": false,
+          "rect": {
+            "x": 8,
+            "y": -61,
+            "w": 108,
+            "h": 43
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "wordmark",
+          "text": "NIKO² ATELIER",
+          "ariaLabel": "NIKO² ATELIER ホームへ",
+          "type": null,
+          "href": "#home",
+          "disabled": false,
+          "rect": {
+            "x": 25,
+            "y": 23,
+            "w": 124,
+            "h": 29
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "ariaLabel": "音をオンにする",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "perfumeBack",
+          "cls": "",
+          "text": "アトリエへ戻る",
+          "ariaLabel": "アトリエへ戻る",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 82,
+            "w": 40,
+            "h": 40
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "perfume-material",
+          "text": "雨",
+          "ariaLabel": "雨をTOPへ加える",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 26,
+            "y": 243,
+            "w": 166,
+            "h": 56
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "perfume-material",
+          "text": "古いぬいぐるみ",
+          "ariaLabel": "古いぬいぐるみをTOPへ加える",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 199,
+            "y": 243,
+            "w": 166,
+            "h": 56
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "perfume-material",
+          "text": "燃えた砂糖",
+          "ariaLabel": "燃えた砂糖をTOPへ加える",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 26,
+            "y": 306,
+            "w": 166,
+            "h": 56
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "perfume-material",
+          "text": "ホテルの白いシーツ",
+          "ariaLabel": "ホテルの白いシーツをTOPへ加える",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 199,
+            "y": 306,
+            "w": 166,
+            "h": 56
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "perfume-material",
+          "text": "甘い夢",
+          "ariaLabel": "甘い夢をTOPへ加える",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 26,
+            "y": 369,
+            "w": 166,
+            "h": 56
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "perfume-material",
+          "text": "紅茶の渋み",
+          "ariaLabel": "紅茶の渋みをTOPへ加える",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 199,
+            "y": 369,
+            "w": 166,
+            "h": 56
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "perfume-material",
+          "text": "煙の名残",
+          "ariaLabel": "煙の名残をTOPへ加える",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 26,
+            "y": 432,
+            "w": 166,
+            "h": 56
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "perfume-material",
+          "text": "花",
+          "ariaLabel": "花をTOPへ加える",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 199,
+            "y": 432,
+            "w": 166,
+            "h": 56
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "perfume-material",
+          "text": "濡れた石",
+          "ariaLabel": "濡れた石をTOPへ加える",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 26,
+            "y": 495,
+            "w": 166,
+            "h": 56
+          },
+          "onScreen": true,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "perfume-material",
+          "text": "乾いた木",
+          "ariaLabel": "乾いた木をTOPへ加える",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 199,
+            "y": 495,
+            "w": 166,
+            "h": 56
+          },
+          "onScreen": true,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "perfume-material",
+          "text": "生の果実",
+          "ariaLabel": "生の果実をTOPへ加える",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 26,
+            "y": 558,
+            "w": 166,
+            "h": 56
+          },
+          "onScreen": true,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "perfume-material",
+          "text": "夜更け",
+          "ariaLabel": "夜更けをTOPへ加える",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 199,
+            "y": 558,
+            "w": 166,
+            "h": 56
+          },
+          "onScreen": true,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "perfume-material",
+          "text": "海水",
+          "ariaLabel": "海水をTOPへ加える",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 26,
+            "y": 621,
+            "w": 166,
+            "h": 56
+          },
+          "onScreen": true,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "perfume-material",
+          "text": "古い本",
+          "ariaLabel": "古い本をTOPへ加える",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 199,
+            "y": 621,
+            "w": 166,
+            "h": 56
+          },
+          "onScreen": true,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "perfume-material",
+          "text": "化粧の粉",
+          "ariaLabel": "化粧の粉をTOPへ加える",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 26,
+            "y": 684,
+            "w": 166,
+            "h": 56
+          },
+          "onScreen": true,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "perfume-material",
+          "text": "冷たい金属",
+          "ariaLabel": "冷たい金属をTOPへ加える",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 199,
+            "y": 684,
+            "w": 166,
+            "h": 56
+          },
+          "onScreen": true,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "",
+          "text": "01 TOP",
+          "ariaLabel": null,
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 26,
+            "y": 630,
+            "w": 109,
+            "h": 44
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "",
+          "text": "02 MIDDLE",
+          "ariaLabel": null,
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 140,
+            "y": 630,
+            "w": 109,
+            "h": 44
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "",
+          "text": "03 LAST",
+          "ariaLabel": null,
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 255,
+            "y": 630,
+            "w": 109,
+            "h": 44
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "",
+          "text": "Eau Fraîche 水のあと",
+          "ariaLabel": null,
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 26,
+            "y": 873,
+            "w": 63,
+            "h": 70
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "",
+          "text": "Cologne 風の輪郭",
+          "ariaLabel": null,
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 95,
+            "y": 873,
+            "w": 63,
+            "h": 70
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "",
+          "text": "Toilette 肌に近い",
+          "ariaLabel": null,
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 164,
+            "y": 873,
+            "w": 63,
+            "h": 70
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "",
+          "text": "Parfum 記憶の濃度",
+          "ariaLabel": null,
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 232,
+            "y": 873,
+            "w": 63,
+            "h": 70
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "",
+          "text": "Extrait 最後まで残る",
+          "ariaLabel": null,
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 301,
+            "y": 873,
+            "w": 63,
+            "h": 70
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "INPUT",
+          "id": "perfumeConcentration",
+          "cls": "",
+          "text": "香りの濃度",
+          "ariaLabel": "香りの濃度",
+          "type": "range",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 28,
+            "y": 953,
+            "w": 338,
+            "h": 32
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "composePerfume",
+          "cls": "perfume-compose",
+          "text": "香りを定着させる",
+          "ariaLabel": null,
+          "type": "button",
+          "href": null,
+          "disabled": true,
+          "rect": {
+            "x": 26,
+            "y": 997,
+            "w": 338,
+            "h": 48
+          },
+          "onScreen": false,
+          "hit": false
+        }
+      ],
+      "artwork": [
+        {
+          "tag": "IMG",
+          "id": "",
+          "cls": "prototype-stage-art",
+          "alt": "使いかけの試香紙と記録帳、色の異なる香料瓶、中央の無銘の香水瓶が残る静かな調香室",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "w": 390,
+            "h": 844
+          }
+        },
+        {
+          "tag": "IMG",
+          "id": "",
+          "cls": "",
+          "alt": "素材を受け止めるNIKO² ATELIERの調香瓶",
+          "rect": {
+            "x": 32,
+            "y": 482,
+            "w": 76,
+            "h": 92
+          }
+        }
+      ],
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "h": 844
+      },
+      "scrollContainers": [
+        {
+          "id": "",
+          "cls": "view perfume-view prototype-view is-active",
+          "top": 0,
+          "height": 844,
+          "scrollHeight": 1113
+        },
+        {
+          "id": "perfumeMaterials",
+          "cls": "perfume-materials",
+          "top": 0,
+          "height": 224,
+          "scrollHeight": 497
+        }
+      ],
+      "dialogs": []
+    },
+    {
+      "label": "rain-in-top",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#perfume",
+      "route": "perfume",
+      "viewportText": "NIKO² ATELIER\n香りになれなかった記憶。\n素材を選び、三つの層へ落としてください。順番と濃度で、同じ記憶も別の香りになります。\n雨\n古いぬいぐるみ\n燃えた砂糖\nホテルの白いシーツ\n甘い夢\n紅茶の渋み\n煙の名残\n花\nMIXING BOTTLE / 1 MATERIAL\nIN BOTTLE / 雨 ×1\n01\nTOP\n02\nMIDDLE\n03\nLAST\nTOP\n雨\n×1\n×\n−\n＋\nMIDDLE\nこの層には、まだ何も落ちていない。\nLAST\nこの層には、まだ何も落ちていない。",
+      "renderedBodyText": "作品へ移動\nNIKO² ATELIER\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDREAM / PM-01\nPERFUME MORGUE\nFORMULA / 1 MATERIAL\n香りになれなかった記憶。\n素材を選び、三つの層へ落としてください。順番と濃度で、同じ記憶も別の香りになります。\n雨\n古いぬいぐるみ\n燃えた砂糖\nホテルの白いシーツ\n甘い夢\n紅茶の渋み\n煙の名残\n花\n濡れた石\n乾いた木\n生の果実\n夜更け\n海水\n古い本\n化粧の粉\n冷たい金属\n\nMIXING BOTTLE / 1 MATERIAL\nIN BOTTLE / 雨 ×1\n\n01\nTOP\n\n02\nMIDDLE\n\n03\nLAST\nTOP\n雨 ×1\n×\n−\n＋\nMIDDLE\nこの層には、まだ何も落ちていない。\nLAST\nこの層には、まだ何も落ちていない。\nCONCENTRATION\nEAU DE TOILETTE / 肌に近い\n\nEau Fraîche\n水のあと\n\nCologne\n風の輪郭\n\nToilette\n肌に近い\n\nParfum\n記憶の濃度\n\nExtrait\n最後まで残る\n\n香りを定着させる\n",
+      "controls": [
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "skip-link",
+          "text": "作品へ移動",
+          "ariaLabel": null,
+          "type": null,
+          "href": "#main",
+          "disabled": false,
+          "rect": {
+            "x": 8,
+            "y": -61,
+            "w": 108,
+            "h": 43
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "wordmark",
+          "text": "NIKO² ATELIER",
+          "ariaLabel": "NIKO² ATELIER ホームへ",
+          "type": null,
+          "href": "#home",
+          "disabled": false,
+          "rect": {
+            "x": 25,
+            "y": 23,
+            "w": 124,
+            "h": 29
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "ariaLabel": "音をオンにする",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "perfumeBack",
+          "cls": "",
+          "text": "アトリエへ戻る",
+          "ariaLabel": "アトリエへ戻る",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 88,
+            "w": 40,
+            "h": 40
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "perfume-material",
+          "text": "雨",
+          "ariaLabel": "雨をTOPへ加える",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 26,
+            "y": 243,
+            "w": 166,
+            "h": 56
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "perfume-material",
+          "text": "古いぬいぐるみ",
+          "ariaLabel": "古いぬいぐるみをTOPへ加える",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 199,
+            "y": 243,
+            "w": 166,
+            "h": 56
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "perfume-material",
+          "text": "燃えた砂糖",
+          "ariaLabel": "燃えた砂糖をTOPへ加える",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 26,
+            "y": 306,
+            "w": 166,
+            "h": 56
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "perfume-material",
+          "text": "ホテルの白いシーツ",
+          "ariaLabel": "ホテルの白いシーツをTOPへ加える",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 199,
+            "y": 306,
+            "w": 166,
+            "h": 56
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "perfume-material",
+          "text": "甘い夢",
+          "ariaLabel": "甘い夢をTOPへ加える",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 26,
+            "y": 369,
+            "w": 166,
+            "h": 56
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "perfume-material",
+          "text": "紅茶の渋み",
+          "ariaLabel": "紅茶の渋みをTOPへ加える",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 199,
+            "y": 369,
+            "w": 166,
+            "h": 56
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "perfume-material",
+          "text": "煙の名残",
+          "ariaLabel": "煙の名残をTOPへ加える",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 26,
+            "y": 432,
+            "w": 166,
+            "h": 56
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "perfume-material",
+          "text": "花",
+          "ariaLabel": "花をTOPへ加える",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 199,
+            "y": 432,
+            "w": 166,
+            "h": 56
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "perfume-material",
+          "text": "濡れた石",
+          "ariaLabel": "濡れた石をTOPへ加える",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 26,
+            "y": 495,
+            "w": 166,
+            "h": 56
+          },
+          "onScreen": true,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "perfume-material",
+          "text": "乾いた木",
+          "ariaLabel": "乾いた木をTOPへ加える",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 199,
+            "y": 495,
+            "w": 166,
+            "h": 56
+          },
+          "onScreen": true,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "perfume-material",
+          "text": "生の果実",
+          "ariaLabel": "生の果実をTOPへ加える",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 26,
+            "y": 558,
+            "w": 166,
+            "h": 56
+          },
+          "onScreen": true,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "perfume-material",
+          "text": "夜更け",
+          "ariaLabel": "夜更けをTOPへ加える",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 199,
+            "y": 558,
+            "w": 166,
+            "h": 56
+          },
+          "onScreen": true,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "perfume-material",
+          "text": "海水",
+          "ariaLabel": "海水をTOPへ加える",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 26,
+            "y": 621,
+            "w": 166,
+            "h": 56
+          },
+          "onScreen": true,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "perfume-material",
+          "text": "古い本",
+          "ariaLabel": "古い本をTOPへ加える",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 199,
+            "y": 621,
+            "w": 166,
+            "h": 56
+          },
+          "onScreen": true,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "perfume-material",
+          "text": "化粧の粉",
+          "ariaLabel": "化粧の粉をTOPへ加える",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 26,
+            "y": 684,
+            "w": 166,
+            "h": 56
+          },
+          "onScreen": true,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "perfume-material",
+          "text": "冷たい金属",
+          "ariaLabel": "冷たい金属をTOPへ加える",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 199,
+            "y": 684,
+            "w": 166,
+            "h": 56
+          },
+          "onScreen": true,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "",
+          "text": "01 TOP",
+          "ariaLabel": null,
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 26,
+            "y": 630,
+            "w": 109,
+            "h": 44
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "",
+          "text": "02 MIDDLE",
+          "ariaLabel": null,
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 140,
+            "y": 630,
+            "w": 109,
+            "h": 44
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "",
+          "text": "03 LAST",
+          "ariaLabel": null,
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 255,
+            "y": 630,
+            "w": 109,
+            "h": 44
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "",
+          "text": "×",
+          "ariaLabel": "素材を外す",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 74,
+            "y": 712,
+            "w": 26,
+            "h": 32
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "",
+          "text": "−",
+          "ariaLabel": "濃度を下げる",
+          "type": "button",
+          "href": null,
+          "disabled": true,
+          "rect": {
+            "x": 103,
+            "y": 712,
+            "w": 26,
+            "h": 32
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "",
+          "text": "＋",
+          "ariaLabel": "濃度を上げる",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 132,
+            "y": 712,
+            "w": 26,
+            "h": 32
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "",
+          "text": "Eau Fraîche 水のあと",
+          "ariaLabel": null,
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 26,
+            "y": 873,
+            "w": 63,
+            "h": 70
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "",
+          "text": "Cologne 風の輪郭",
+          "ariaLabel": null,
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 95,
+            "y": 873,
+            "w": 63,
+            "h": 70
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "",
+          "text": "Toilette 肌に近い",
+          "ariaLabel": null,
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 164,
+            "y": 873,
+            "w": 63,
+            "h": 70
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "",
+          "text": "Parfum 記憶の濃度",
+          "ariaLabel": null,
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 232,
+            "y": 873,
+            "w": 63,
+            "h": 70
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "",
+          "text": "Extrait 最後まで残る",
+          "ariaLabel": null,
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 301,
+            "y": 873,
+            "w": 63,
+            "h": 70
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "INPUT",
+          "id": "perfumeConcentration",
+          "cls": "",
+          "text": "香りの濃度",
+          "ariaLabel": "香りの濃度",
+          "type": "range",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 28,
+            "y": 953,
+            "w": 338,
+            "h": 32
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "composePerfume",
+          "cls": "perfume-compose",
+          "text": "香りを定着させる",
+          "ariaLabel": null,
+          "type": "button",
+          "href": null,
+          "disabled": true,
+          "rect": {
+            "x": 26,
+            "y": 997,
+            "w": 338,
+            "h": 48
+          },
+          "onScreen": false,
+          "hit": false
+        }
+      ],
+      "artwork": [
+        {
+          "tag": "IMG",
+          "id": "",
+          "cls": "prototype-stage-art",
+          "alt": "使いかけの試香紙と記録帳、色の異なる香料瓶、中央の無銘の香水瓶が残る静かな調香室",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "w": 390,
+            "h": 844
+          }
+        },
+        {
+          "tag": "IMG",
+          "id": "",
+          "cls": "",
+          "alt": "素材を受け止めるNIKO² ATELIERの調香瓶",
+          "rect": {
+            "x": 32,
+            "y": 482,
+            "w": 76,
+            "h": 92
+          }
+        }
+      ],
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "h": 844
+      },
+      "scrollContainers": [
+        {
+          "id": "",
+          "cls": "view perfume-view prototype-view is-active",
+          "top": 0,
+          "height": 844,
+          "scrollHeight": 1113
+        },
+        {
+          "id": "perfumeMaterials",
+          "cls": "perfume-materials",
+          "top": 0,
+          "height": 224,
+          "scrollHeight": 497
+        }
+      ],
+      "dialogs": [],
+      "screenshot": "004-rain-in-top.jpg"
+    },
+    {
+      "label": "select-middle",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#perfume",
+      "route": "perfume",
+      "viewportText": "NIKO² ATELIER\n香りになれなかった記憶。\n素材を選び、三つの層へ落としてください。順番と濃度で、同じ記憶も別の香りになります。\n雨\n古いぬいぐるみ\n燃えた砂糖\nホテルの白いシーツ\n甘い夢\n紅茶の渋み\n煙の名残\n花\nMIXING BOTTLE / 1 MATERIAL\nIN BOTTLE / 雨 ×1\n01\nTOP\n02\nMIDDLE\n03\nLAST\nTOP\n雨\n×1\n×\n−\n＋\nMIDDLE\nこの層には、まだ何も落ちていない。\nLAST\nこの層には、まだ何も落ちていない。",
+      "renderedBodyText": "作品へ移動\nNIKO² ATELIER\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDREAM / PM-01\nPERFUME MORGUE\nFORMULA / 1 MATERIAL\n香りになれなかった記憶。\n素材を選び、三つの層へ落としてください。順番と濃度で、同じ記憶も別の香りになります。\n雨\n古いぬいぐるみ\n燃えた砂糖\nホテルの白いシーツ\n甘い夢\n紅茶の渋み\n煙の名残\n花\n濡れた石\n乾いた木\n生の果実\n夜更け\n海水\n古い本\n化粧の粉\n冷たい金属\n\nMIXING BOTTLE / 1 MATERIAL\nIN BOTTLE / 雨 ×1\n\n01\nTOP\n\n02\nMIDDLE\n\n03\nLAST\nTOP\n雨 ×1\n×\n−\n＋\nMIDDLE\nこの層には、まだ何も落ちていない。\nLAST\nこの層には、まだ何も落ちていない。\nCONCENTRATION\nEAU DE TOILETTE / 肌に近い\n\nEau Fraîche\n水のあと\n\nCologne\n風の輪郭\n\nToilette\n肌に近い\n\nParfum\n記憶の濃度\n\nExtrait\n最後まで残る\n\n香りを定着させる\n",
+      "controls": [
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "skip-link",
+          "text": "作品へ移動",
+          "ariaLabel": null,
+          "type": null,
+          "href": "#main",
+          "disabled": false,
+          "rect": {
+            "x": 8,
+            "y": -61,
+            "w": 108,
+            "h": 43
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "wordmark",
+          "text": "NIKO² ATELIER",
+          "ariaLabel": "NIKO² ATELIER ホームへ",
+          "type": null,
+          "href": "#home",
+          "disabled": false,
+          "rect": {
+            "x": 25,
+            "y": 23,
+            "w": 124,
+            "h": 29
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "ariaLabel": "音をオンにする",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "perfumeBack",
+          "cls": "",
+          "text": "アトリエへ戻る",
+          "ariaLabel": "アトリエへ戻る",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 88,
+            "w": 40,
+            "h": 40
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "perfume-material",
+          "text": "雨",
+          "ariaLabel": "雨をMIDDLEへ加える",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 26,
+            "y": 243,
+            "w": 166,
+            "h": 56
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "perfume-material",
+          "text": "古いぬいぐるみ",
+          "ariaLabel": "古いぬいぐるみをMIDDLEへ加える",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 199,
+            "y": 243,
+            "w": 166,
+            "h": 56
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "perfume-material",
+          "text": "燃えた砂糖",
+          "ariaLabel": "燃えた砂糖をMIDDLEへ加える",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 26,
+            "y": 306,
+            "w": 166,
+            "h": 56
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "perfume-material",
+          "text": "ホテルの白いシーツ",
+          "ariaLabel": "ホテルの白いシーツをMIDDLEへ加える",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 199,
+            "y": 306,
+            "w": 166,
+            "h": 56
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "perfume-material",
+          "text": "甘い夢",
+          "ariaLabel": "甘い夢をMIDDLEへ加える",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 26,
+            "y": 369,
+            "w": 166,
+            "h": 56
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "perfume-material",
+          "text": "紅茶の渋み",
+          "ariaLabel": "紅茶の渋みをMIDDLEへ加える",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 199,
+            "y": 369,
+            "w": 166,
+            "h": 56
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "perfume-material",
+          "text": "煙の名残",
+          "ariaLabel": "煙の名残をMIDDLEへ加える",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 26,
+            "y": 432,
+            "w": 166,
+            "h": 56
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "perfume-material",
+          "text": "花",
+          "ariaLabel": "花をMIDDLEへ加える",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 199,
+            "y": 432,
+            "w": 166,
+            "h": 56
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "perfume-material",
+          "text": "濡れた石",
+          "ariaLabel": "濡れた石をMIDDLEへ加える",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 26,
+            "y": 495,
+            "w": 166,
+            "h": 56
+          },
+          "onScreen": true,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "perfume-material",
+          "text": "乾いた木",
+          "ariaLabel": "乾いた木をMIDDLEへ加える",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 199,
+            "y": 495,
+            "w": 166,
+            "h": 56
+          },
+          "onScreen": true,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "perfume-material",
+          "text": "生の果実",
+          "ariaLabel": "生の果実をMIDDLEへ加える",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 26,
+            "y": 558,
+            "w": 166,
+            "h": 56
+          },
+          "onScreen": true,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "perfume-material",
+          "text": "夜更け",
+          "ariaLabel": "夜更けをMIDDLEへ加える",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 199,
+            "y": 558,
+            "w": 166,
+            "h": 56
+          },
+          "onScreen": true,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "perfume-material",
+          "text": "海水",
+          "ariaLabel": "海水をMIDDLEへ加える",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 26,
+            "y": 621,
+            "w": 166,
+            "h": 56
+          },
+          "onScreen": true,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "perfume-material",
+          "text": "古い本",
+          "ariaLabel": "古い本をMIDDLEへ加える",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 199,
+            "y": 621,
+            "w": 166,
+            "h": 56
+          },
+          "onScreen": true,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "perfume-material",
+          "text": "化粧の粉",
+          "ariaLabel": "化粧の粉をMIDDLEへ加える",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 26,
+            "y": 684,
+            "w": 166,
+            "h": 56
+          },
+          "onScreen": true,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "perfume-material",
+          "text": "冷たい金属",
+          "ariaLabel": "冷たい金属をMIDDLEへ加える",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 199,
+            "y": 684,
+            "w": 166,
+            "h": 56
+          },
+          "onScreen": true,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "",
+          "text": "01 TOP",
+          "ariaLabel": null,
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 26,
+            "y": 630,
+            "w": 109,
+            "h": 44
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "",
+          "text": "02 MIDDLE",
+          "ariaLabel": null,
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 140,
+            "y": 630,
+            "w": 109,
+            "h": 44
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "",
+          "text": "03 LAST",
+          "ariaLabel": null,
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 255,
+            "y": 630,
+            "w": 109,
+            "h": 44
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "",
+          "text": "×",
+          "ariaLabel": "素材を外す",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 74,
+            "y": 712,
+            "w": 26,
+            "h": 32
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "",
+          "text": "−",
+          "ariaLabel": "濃度を下げる",
+          "type": "button",
+          "href": null,
+          "disabled": true,
+          "rect": {
+            "x": 103,
+            "y": 712,
+            "w": 26,
+            "h": 32
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "",
+          "text": "＋",
+          "ariaLabel": "濃度を上げる",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 132,
+            "y": 712,
+            "w": 26,
+            "h": 32
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "",
+          "text": "Eau Fraîche 水のあと",
+          "ariaLabel": null,
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 26,
+            "y": 873,
+            "w": 63,
+            "h": 70
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "",
+          "text": "Cologne 風の輪郭",
+          "ariaLabel": null,
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 95,
+            "y": 873,
+            "w": 63,
+            "h": 70
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "",
+          "text": "Toilette 肌に近い",
+          "ariaLabel": null,
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 164,
+            "y": 873,
+            "w": 63,
+            "h": 70
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "",
+          "text": "Parfum 記憶の濃度",
+          "ariaLabel": null,
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 232,
+            "y": 873,
+            "w": 63,
+            "h": 70
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "",
+          "text": "Extrait 最後まで残る",
+          "ariaLabel": null,
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 301,
+            "y": 873,
+            "w": 63,
+            "h": 70
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "INPUT",
+          "id": "perfumeConcentration",
+          "cls": "",
+          "text": "香りの濃度",
+          "ariaLabel": "香りの濃度",
+          "type": "range",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 28,
+            "y": 953,
+            "w": 338,
+            "h": 32
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "composePerfume",
+          "cls": "perfume-compose",
+          "text": "香りを定着させる",
+          "ariaLabel": null,
+          "type": "button",
+          "href": null,
+          "disabled": true,
+          "rect": {
+            "x": 26,
+            "y": 997,
+            "w": 338,
+            "h": 48
+          },
+          "onScreen": false,
+          "hit": false
+        }
+      ],
+      "artwork": [
+        {
+          "tag": "IMG",
+          "id": "",
+          "cls": "prototype-stage-art",
+          "alt": "使いかけの試香紙と記録帳、色の異なる香料瓶、中央の無銘の香水瓶が残る静かな調香室",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "w": 390,
+            "h": 844
+          }
+        },
+        {
+          "tag": "IMG",
+          "id": "",
+          "cls": "",
+          "alt": "素材を受け止めるNIKO² ATELIERの調香瓶",
+          "rect": {
+            "x": 32,
+            "y": 482,
+            "w": 76,
+            "h": 92
+          }
+        }
+      ],
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "h": 844
+      },
+      "scrollContainers": [
+        {
+          "id": "",
+          "cls": "view perfume-view prototype-view is-active",
+          "top": 0,
+          "height": 844,
+          "scrollHeight": 1113
+        },
+        {
+          "id": "perfumeMaterials",
+          "cls": "perfume-materials",
+          "top": 0,
+          "height": 224,
+          "scrollHeight": 497
+        }
+      ],
+      "dialogs": []
+    },
+    {
+      "label": "tea-in-middle",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#perfume",
+      "route": "perfume",
+      "viewportText": "NIKO² ATELIER\n香りになれなかった記憶。\n素材を選び、三つの層へ落としてください。順番と濃度で、同じ記憶も別の香りになります。\n雨\n古いぬいぐるみ\n燃えた砂糖\nホテルの白いシーツ\n甘い夢\n紅茶の渋み\n煙の名残\n花\nMIXING BOTTLE / 2 MATERIALS\nIN BOTTLE / 雨 ×1 · 紅茶の渋み ×1\n01\nTOP\n02\nMIDDLE\n03\nLAST\nTOP\n雨\n×1\n×\n−\n＋\nMIDDLE\n紅茶の渋み\n×1\n×\n−\n＋\nLAST\nこの層には、まだ何も落ちていない。",
+      "renderedBodyText": "作品へ移動\nNIKO² ATELIER\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDREAM / PM-01\nPERFUME MORGUE\nFORMULA / 2 MATERIALS\n香りになれなかった記憶。\n素材を選び、三つの層へ落としてください。順番と濃度で、同じ記憶も別の香りになります。\n雨\n古いぬいぐるみ\n燃えた砂糖\nホテルの白いシーツ\n甘い夢\n紅茶の渋み\n煙の名残\n花\n濡れた石\n乾いた木\n生の果実\n夜更け\n海水\n古い本\n化粧の粉\n冷たい金属\n\nMIXING BOTTLE / 2 MATERIALS\nIN BOTTLE / 雨 ×1 · 紅茶の渋み ×1\n\n01\nTOP\n\n02\nMIDDLE\n\n03\nLAST\nTOP\n雨 ×1\n×\n−\n＋\nMIDDLE\n紅茶の渋み ×1\n×\n−\n＋\nLAST\nこの層には、まだ何も落ちていない。\nCONCENTRATION\nEAU DE TOILETTE / 肌に近い\n\nEau Fraîche\n水のあと\n\nCologne\n風の輪郭\n\nToilette\n肌に近い\n\nParfum\n記憶の濃度\n\nExtrait\n最後まで残る\n\n香りを定着させる\n",
+      "controls": [
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "skip-link",
+          "text": "作品へ移動",
+          "ariaLabel": null,
+          "type": null,
+          "href": "#main",
+          "disabled": false,
+          "rect": {
+            "x": 8,
+            "y": -61,
+            "w": 108,
+            "h": 43
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "wordmark",
+          "text": "NIKO² ATELIER",
+          "ariaLabel": "NIKO² ATELIER ホームへ",
+          "type": null,
+          "href": "#home",
+          "disabled": false,
+          "rect": {
+            "x": 25,
+            "y": 23,
+            "w": 124,
+            "h": 29
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "ariaLabel": "音をオンにする",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "perfumeBack",
+          "cls": "",
+          "text": "アトリエへ戻る",
+          "ariaLabel": "アトリエへ戻る",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 88,
+            "w": 40,
+            "h": 40
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "perfume-material",
+          "text": "雨",
+          "ariaLabel": "雨をMIDDLEへ加える",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 26,
+            "y": 243,
+            "w": 166,
+            "h": 56
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "perfume-material",
+          "text": "古いぬいぐるみ",
+          "ariaLabel": "古いぬいぐるみをMIDDLEへ加える",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 199,
+            "y": 243,
+            "w": 166,
+            "h": 56
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "perfume-material",
+          "text": "燃えた砂糖",
+          "ariaLabel": "燃えた砂糖をMIDDLEへ加える",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 26,
+            "y": 306,
+            "w": 166,
+            "h": 56
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "perfume-material",
+          "text": "ホテルの白いシーツ",
+          "ariaLabel": "ホテルの白いシーツをMIDDLEへ加える",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 199,
+            "y": 306,
+            "w": 166,
+            "h": 56
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "perfume-material",
+          "text": "甘い夢",
+          "ariaLabel": "甘い夢をMIDDLEへ加える",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 26,
+            "y": 369,
+            "w": 166,
+            "h": 56
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "perfume-material",
+          "text": "紅茶の渋み",
+          "ariaLabel": "紅茶の渋みをMIDDLEへ加える",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 199,
+            "y": 369,
+            "w": 166,
+            "h": 56
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "perfume-material",
+          "text": "煙の名残",
+          "ariaLabel": "煙の名残をMIDDLEへ加える",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 26,
+            "y": 432,
+            "w": 166,
+            "h": 56
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "perfume-material",
+          "text": "花",
+          "ariaLabel": "花をMIDDLEへ加える",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 199,
+            "y": 432,
+            "w": 166,
+            "h": 56
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "perfume-material",
+          "text": "濡れた石",
+          "ariaLabel": "濡れた石をMIDDLEへ加える",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 26,
+            "y": 495,
+            "w": 166,
+            "h": 56
+          },
+          "onScreen": true,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "perfume-material",
+          "text": "乾いた木",
+          "ariaLabel": "乾いた木をMIDDLEへ加える",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 199,
+            "y": 495,
+            "w": 166,
+            "h": 56
+          },
+          "onScreen": true,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "perfume-material",
+          "text": "生の果実",
+          "ariaLabel": "生の果実をMIDDLEへ加える",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 26,
+            "y": 558,
+            "w": 166,
+            "h": 56
+          },
+          "onScreen": true,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "perfume-material",
+          "text": "夜更け",
+          "ariaLabel": "夜更けをMIDDLEへ加える",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 199,
+            "y": 558,
+            "w": 166,
+            "h": 56
+          },
+          "onScreen": true,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "perfume-material",
+          "text": "海水",
+          "ariaLabel": "海水をMIDDLEへ加える",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 26,
+            "y": 621,
+            "w": 166,
+            "h": 56
+          },
+          "onScreen": true,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "perfume-material",
+          "text": "古い本",
+          "ariaLabel": "古い本をMIDDLEへ加える",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 199,
+            "y": 621,
+            "w": 166,
+            "h": 56
+          },
+          "onScreen": true,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "perfume-material",
+          "text": "化粧の粉",
+          "ariaLabel": "化粧の粉をMIDDLEへ加える",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 26,
+            "y": 684,
+            "w": 166,
+            "h": 56
+          },
+          "onScreen": true,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "perfume-material",
+          "text": "冷たい金属",
+          "ariaLabel": "冷たい金属をMIDDLEへ加える",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 199,
+            "y": 684,
+            "w": 166,
+            "h": 56
+          },
+          "onScreen": true,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "",
+          "text": "01 TOP",
+          "ariaLabel": null,
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 26,
+            "y": 630,
+            "w": 109,
+            "h": 44
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "",
+          "text": "02 MIDDLE",
+          "ariaLabel": null,
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 140,
+            "y": 630,
+            "w": 109,
+            "h": 44
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "",
+          "text": "03 LAST",
+          "ariaLabel": null,
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 255,
+            "y": 630,
+            "w": 109,
+            "h": 44
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "",
+          "text": "×",
+          "ariaLabel": "素材を外す",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 74,
+            "y": 712,
+            "w": 26,
+            "h": 32
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "",
+          "text": "−",
+          "ariaLabel": "濃度を下げる",
+          "type": "button",
+          "href": null,
+          "disabled": true,
+          "rect": {
+            "x": 103,
+            "y": 712,
+            "w": 26,
+            "h": 32
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "",
+          "text": "＋",
+          "ariaLabel": "濃度を上げる",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 132,
+            "y": 712,
+            "w": 26,
+            "h": 32
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "",
+          "text": "×",
+          "ariaLabel": "素材を外す",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 74,
+            "y": 787,
+            "w": 26,
+            "h": 32
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "",
+          "text": "−",
+          "ariaLabel": "濃度を下げる",
+          "type": "button",
+          "href": null,
+          "disabled": true,
+          "rect": {
+            "x": 103,
+            "y": 787,
+            "w": 26,
+            "h": 32
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "",
+          "text": "＋",
+          "ariaLabel": "濃度を上げる",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 132,
+            "y": 787,
+            "w": 26,
+            "h": 32
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "",
+          "text": "Eau Fraîche 水のあと",
+          "ariaLabel": null,
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 26,
+            "y": 890,
+            "w": 63,
+            "h": 70
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "",
+          "text": "Cologne 風の輪郭",
+          "ariaLabel": null,
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 95,
+            "y": 890,
+            "w": 63,
+            "h": 70
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "",
+          "text": "Toilette 肌に近い",
+          "ariaLabel": null,
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 164,
+            "y": 890,
+            "w": 63,
+            "h": 70
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "",
+          "text": "Parfum 記憶の濃度",
+          "ariaLabel": null,
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 232,
+            "y": 890,
+            "w": 63,
+            "h": 70
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "",
+          "text": "Extrait 最後まで残る",
+          "ariaLabel": null,
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 301,
+            "y": 890,
+            "w": 63,
+            "h": 70
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "INPUT",
+          "id": "perfumeConcentration",
+          "cls": "",
+          "text": "香りの濃度",
+          "ariaLabel": "香りの濃度",
+          "type": "range",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 28,
+            "y": 970,
+            "w": 338,
+            "h": 32
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "composePerfume",
+          "cls": "perfume-compose",
+          "text": "香りを定着させる",
+          "ariaLabel": null,
+          "type": "button",
+          "href": null,
+          "disabled": true,
+          "rect": {
+            "x": 26,
+            "y": 1014,
+            "w": 338,
+            "h": 48
+          },
+          "onScreen": false,
+          "hit": false
+        }
+      ],
+      "artwork": [
+        {
+          "tag": "IMG",
+          "id": "",
+          "cls": "prototype-stage-art",
+          "alt": "使いかけの試香紙と記録帳、色の異なる香料瓶、中央の無銘の香水瓶が残る静かな調香室",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "w": 390,
+            "h": 844
+          }
+        },
+        {
+          "tag": "IMG",
+          "id": "",
+          "cls": "",
+          "alt": "素材を受け止めるNIKO² ATELIERの調香瓶",
+          "rect": {
+            "x": 32,
+            "y": 482,
+            "w": 76,
+            "h": 92
+          }
+        }
+      ],
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "h": 844
+      },
+      "scrollContainers": [
+        {
+          "id": "",
+          "cls": "view perfume-view prototype-view is-active",
+          "top": 0,
+          "height": 844,
+          "scrollHeight": 1130
+        },
+        {
+          "id": "perfumeMaterials",
+          "cls": "perfume-materials",
+          "top": 0,
+          "height": 224,
+          "scrollHeight": 497
+        }
+      ],
+      "dialogs": []
+    },
+    {
+      "label": "select-last",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#perfume",
+      "route": "perfume",
+      "viewportText": "NIKO² ATELIER\n香りになれなかった記憶。\n素材を選び、三つの層へ落としてください。順番と濃度で、同じ記憶も別の香りになります。\n雨\n古いぬいぐるみ\n燃えた砂糖\nホテルの白いシーツ\n甘い夢\n紅茶の渋み\n煙の名残\n花\nMIXING BOTTLE / 2 MATERIALS\nIN BOTTLE / 雨 ×1 · 紅茶の渋み ×1\n01\nTOP\n02\nMIDDLE\n03\nLAST\nTOP\n雨\n×1\n×\n−\n＋\nMIDDLE\n紅茶の渋み\n×1\n×\n−\n＋\nLAST\nこの層には、まだ何も落ちていない。",
+      "renderedBodyText": "作品へ移動\nNIKO² ATELIER\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDREAM / PM-01\nPERFUME MORGUE\nFORMULA / 2 MATERIALS\n香りになれなかった記憶。\n素材を選び、三つの層へ落としてください。順番と濃度で、同じ記憶も別の香りになります。\n雨\n古いぬいぐるみ\n燃えた砂糖\nホテルの白いシーツ\n甘い夢\n紅茶の渋み\n煙の名残\n花\n濡れた石\n乾いた木\n生の果実\n夜更け\n海水\n古い本\n化粧の粉\n冷たい金属\n\nMIXING BOTTLE / 2 MATERIALS\nIN BOTTLE / 雨 ×1 · 紅茶の渋み ×1\n\n01\nTOP\n\n02\nMIDDLE\n\n03\nLAST\nTOP\n雨 ×1\n×\n−\n＋\nMIDDLE\n紅茶の渋み ×1\n×\n−\n＋\nLAST\nこの層には、まだ何も落ちていない。\nCONCENTRATION\nEAU DE TOILETTE / 肌に近い\n\nEau Fraîche\n水のあと\n\nCologne\n風の輪郭\n\nToilette\n肌に近い\n\nParfum\n記憶の濃度\n\nExtrait\n最後まで残る\n\n香りを定着させる\n",
+      "controls": [
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "skip-link",
+          "text": "作品へ移動",
+          "ariaLabel": null,
+          "type": null,
+          "href": "#main",
+          "disabled": false,
+          "rect": {
+            "x": 8,
+            "y": -61,
+            "w": 108,
+            "h": 43
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "wordmark",
+          "text": "NIKO² ATELIER",
+          "ariaLabel": "NIKO² ATELIER ホームへ",
+          "type": null,
+          "href": "#home",
+          "disabled": false,
+          "rect": {
+            "x": 25,
+            "y": 23,
+            "w": 124,
+            "h": 29
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "ariaLabel": "音をオンにする",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "perfumeBack",
+          "cls": "",
+          "text": "アトリエへ戻る",
+          "ariaLabel": "アトリエへ戻る",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 88,
+            "w": 40,
+            "h": 40
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "perfume-material",
+          "text": "雨",
+          "ariaLabel": "雨をLASTへ加える",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 26,
+            "y": 243,
+            "w": 166,
+            "h": 56
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "perfume-material",
+          "text": "古いぬいぐるみ",
+          "ariaLabel": "古いぬいぐるみをLASTへ加える",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 199,
+            "y": 243,
+            "w": 166,
+            "h": 56
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "perfume-material",
+          "text": "燃えた砂糖",
+          "ariaLabel": "燃えた砂糖をLASTへ加える",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 26,
+            "y": 306,
+            "w": 166,
+            "h": 56
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "perfume-material",
+          "text": "ホテルの白いシーツ",
+          "ariaLabel": "ホテルの白いシーツをLASTへ加える",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 199,
+            "y": 306,
+            "w": 166,
+            "h": 56
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "perfume-material",
+          "text": "甘い夢",
+          "ariaLabel": "甘い夢をLASTへ加える",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 26,
+            "y": 369,
+            "w": 166,
+            "h": 56
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "perfume-material",
+          "text": "紅茶の渋み",
+          "ariaLabel": "紅茶の渋みをLASTへ加える",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 199,
+            "y": 369,
+            "w": 166,
+            "h": 56
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "perfume-material",
+          "text": "煙の名残",
+          "ariaLabel": "煙の名残をLASTへ加える",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 26,
+            "y": 432,
+            "w": 166,
+            "h": 56
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "perfume-material",
+          "text": "花",
+          "ariaLabel": "花をLASTへ加える",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 199,
+            "y": 432,
+            "w": 166,
+            "h": 56
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "perfume-material",
+          "text": "濡れた石",
+          "ariaLabel": "濡れた石をLASTへ加える",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 26,
+            "y": 495,
+            "w": 166,
+            "h": 56
+          },
+          "onScreen": true,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "perfume-material",
+          "text": "乾いた木",
+          "ariaLabel": "乾いた木をLASTへ加える",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 199,
+            "y": 495,
+            "w": 166,
+            "h": 56
+          },
+          "onScreen": true,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "perfume-material",
+          "text": "生の果実",
+          "ariaLabel": "生の果実をLASTへ加える",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 26,
+            "y": 558,
+            "w": 166,
+            "h": 56
+          },
+          "onScreen": true,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "perfume-material",
+          "text": "夜更け",
+          "ariaLabel": "夜更けをLASTへ加える",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 199,
+            "y": 558,
+            "w": 166,
+            "h": 56
+          },
+          "onScreen": true,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "perfume-material",
+          "text": "海水",
+          "ariaLabel": "海水をLASTへ加える",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 26,
+            "y": 621,
+            "w": 166,
+            "h": 56
+          },
+          "onScreen": true,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "perfume-material",
+          "text": "古い本",
+          "ariaLabel": "古い本をLASTへ加える",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 199,
+            "y": 621,
+            "w": 166,
+            "h": 56
+          },
+          "onScreen": true,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "perfume-material",
+          "text": "化粧の粉",
+          "ariaLabel": "化粧の粉をLASTへ加える",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 26,
+            "y": 684,
+            "w": 166,
+            "h": 56
+          },
+          "onScreen": true,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "perfume-material",
+          "text": "冷たい金属",
+          "ariaLabel": "冷たい金属をLASTへ加える",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 199,
+            "y": 684,
+            "w": 166,
+            "h": 56
+          },
+          "onScreen": true,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "",
+          "text": "01 TOP",
+          "ariaLabel": null,
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 26,
+            "y": 630,
+            "w": 109,
+            "h": 44
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "",
+          "text": "02 MIDDLE",
+          "ariaLabel": null,
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 140,
+            "y": 630,
+            "w": 109,
+            "h": 44
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "",
+          "text": "03 LAST",
+          "ariaLabel": null,
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 255,
+            "y": 630,
+            "w": 109,
+            "h": 44
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "",
+          "text": "×",
+          "ariaLabel": "素材を外す",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 74,
+            "y": 712,
+            "w": 26,
+            "h": 32
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "",
+          "text": "−",
+          "ariaLabel": "濃度を下げる",
+          "type": "button",
+          "href": null,
+          "disabled": true,
+          "rect": {
+            "x": 103,
+            "y": 712,
+            "w": 26,
+            "h": 32
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "",
+          "text": "＋",
+          "ariaLabel": "濃度を上げる",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 132,
+            "y": 712,
+            "w": 26,
+            "h": 32
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "",
+          "text": "×",
+          "ariaLabel": "素材を外す",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 74,
+            "y": 787,
+            "w": 26,
+            "h": 32
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "",
+          "text": "−",
+          "ariaLabel": "濃度を下げる",
+          "type": "button",
+          "href": null,
+          "disabled": true,
+          "rect": {
+            "x": 103,
+            "y": 787,
+            "w": 26,
+            "h": 32
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "",
+          "text": "＋",
+          "ariaLabel": "濃度を上げる",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 132,
+            "y": 787,
+            "w": 26,
+            "h": 32
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "",
+          "text": "Eau Fraîche 水のあと",
+          "ariaLabel": null,
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 26,
+            "y": 890,
+            "w": 63,
+            "h": 70
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "",
+          "text": "Cologne 風の輪郭",
+          "ariaLabel": null,
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 95,
+            "y": 890,
+            "w": 63,
+            "h": 70
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "",
+          "text": "Toilette 肌に近い",
+          "ariaLabel": null,
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 164,
+            "y": 890,
+            "w": 63,
+            "h": 70
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "",
+          "text": "Parfum 記憶の濃度",
+          "ariaLabel": null,
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 232,
+            "y": 890,
+            "w": 63,
+            "h": 70
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "",
+          "text": "Extrait 最後まで残る",
+          "ariaLabel": null,
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 301,
+            "y": 890,
+            "w": 63,
+            "h": 70
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "INPUT",
+          "id": "perfumeConcentration",
+          "cls": "",
+          "text": "香りの濃度",
+          "ariaLabel": "香りの濃度",
+          "type": "range",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 28,
+            "y": 970,
+            "w": 338,
+            "h": 32
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "composePerfume",
+          "cls": "perfume-compose",
+          "text": "香りを定着させる",
+          "ariaLabel": null,
+          "type": "button",
+          "href": null,
+          "disabled": true,
+          "rect": {
+            "x": 26,
+            "y": 1014,
+            "w": 338,
+            "h": 48
+          },
+          "onScreen": false,
+          "hit": false
+        }
+      ],
+      "artwork": [
+        {
+          "tag": "IMG",
+          "id": "",
+          "cls": "prototype-stage-art",
+          "alt": "使いかけの試香紙と記録帳、色の異なる香料瓶、中央の無銘の香水瓶が残る静かな調香室",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "w": 390,
+            "h": 844
+          }
+        },
+        {
+          "tag": "IMG",
+          "id": "",
+          "cls": "",
+          "alt": "素材を受け止めるNIKO² ATELIERの調香瓶",
+          "rect": {
+            "x": 32,
+            "y": 482,
+            "w": 76,
+            "h": 92
+          }
+        }
+      ],
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "h": 844
+      },
+      "scrollContainers": [
+        {
+          "id": "",
+          "cls": "view perfume-view prototype-view is-active",
+          "top": 0,
+          "height": 844,
+          "scrollHeight": 1130
+        },
+        {
+          "id": "perfumeMaterials",
+          "cls": "perfume-materials",
+          "top": 0,
+          "height": 224,
+          "scrollHeight": 497
+        }
+      ],
+      "dialogs": []
+    },
+    {
+      "label": "burnt-sugar-in-last",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#perfume",
+      "route": "perfume",
+      "viewportText": "NIKO² ATELIER\n香りになれなかった記憶。\n素材を選び、三つの層へ落としてください。順番と濃度で、同じ記憶も別の香りになります。\n雨\n古いぬいぐるみ\n燃えた砂糖\nホテルの白いシーツ\n甘い夢\n紅茶の渋み\n煙の名残\n花\nMIXING BOTTLE / 3 MATERIALS\nIN BOTTLE / 雨 ×1 · 紅茶の渋み ×1 · 燃えた砂糖 ×1\n01\nTOP\n02\nMIDDLE\n03\nLAST\nTOP\n雨\n×1\n×\n−\n＋\nMIDDLE\n紅茶の渋み\n×1\n×\n−\n＋\nLAST",
+      "renderedBodyText": "作品へ移動\nNIKO² ATELIER\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDREAM / PM-01\nPERFUME MORGUE\nFORMULA / 3 MATERIALS\n香りになれなかった記憶。\n素材を選び、三つの層へ落としてください。順番と濃度で、同じ記憶も別の香りになります。\n雨\n古いぬいぐるみ\n燃えた砂糖\nホテルの白いシーツ\n甘い夢\n紅茶の渋み\n煙の名残\n花\n濡れた石\n乾いた木\n生の果実\n夜更け\n海水\n古い本\n化粧の粉\n冷たい金属\n\nMIXING BOTTLE / 3 MATERIALS\nIN BOTTLE / 雨 ×1 · 紅茶の渋み ×1 · 燃えた砂糖 ×1\n\n01\nTOP\n\n02\nMIDDLE\n\n03\nLAST\nTOP\n雨 ×1\n×\n−\n＋\nMIDDLE\n紅茶の渋み ×1\n×\n−\n＋\nLAST\n燃えた砂糖 ×1\n×\n−\n＋\nCONCENTRATION\nEAU DE TOILETTE / 肌に近い\n\nEau Fraîche\n水のあと\n\nCologne\n風の輪郭\n\nToilette\n肌に近い\n\nParfum\n記憶の濃度\n\nExtrait\n最後まで残る\n\n香りを定着させる\n",
+      "controls": [
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "skip-link",
+          "text": "作品へ移動",
+          "ariaLabel": null,
+          "type": null,
+          "href": "#main",
+          "disabled": false,
+          "rect": {
+            "x": 8,
+            "y": -61,
+            "w": 108,
+            "h": 43
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "wordmark",
+          "text": "NIKO² ATELIER",
+          "ariaLabel": "NIKO² ATELIER ホームへ",
+          "type": null,
+          "href": "#home",
+          "disabled": false,
+          "rect": {
+            "x": 25,
+            "y": 23,
+            "w": 124,
+            "h": 29
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "ariaLabel": "音をオンにする",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "perfumeBack",
+          "cls": "",
+          "text": "アトリエへ戻る",
+          "ariaLabel": "アトリエへ戻る",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 88,
+            "w": 40,
+            "h": 40
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "perfume-material",
+          "text": "雨",
+          "ariaLabel": "雨をLASTへ加える",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 26,
+            "y": 243,
+            "w": 166,
+            "h": 56
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "perfume-material",
+          "text": "古いぬいぐるみ",
+          "ariaLabel": "古いぬいぐるみをLASTへ加える",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 199,
+            "y": 243,
+            "w": 166,
+            "h": 56
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "perfume-material",
+          "text": "燃えた砂糖",
+          "ariaLabel": "燃えた砂糖をLASTへ加える",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 26,
+            "y": 306,
+            "w": 166,
+            "h": 56
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "perfume-material",
+          "text": "ホテルの白いシーツ",
+          "ariaLabel": "ホテルの白いシーツをLASTへ加える",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 199,
+            "y": 306,
+            "w": 166,
+            "h": 56
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "perfume-material",
+          "text": "甘い夢",
+          "ariaLabel": "甘い夢をLASTへ加える",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 26,
+            "y": 369,
+            "w": 166,
+            "h": 56
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "perfume-material",
+          "text": "紅茶の渋み",
+          "ariaLabel": "紅茶の渋みをLASTへ加える",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 199,
+            "y": 369,
+            "w": 166,
+            "h": 56
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "perfume-material",
+          "text": "煙の名残",
+          "ariaLabel": "煙の名残をLASTへ加える",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 26,
+            "y": 432,
+            "w": 166,
+            "h": 56
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "perfume-material",
+          "text": "花",
+          "ariaLabel": "花をLASTへ加える",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 199,
+            "y": 432,
+            "w": 166,
+            "h": 56
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "perfume-material",
+          "text": "濡れた石",
+          "ariaLabel": "濡れた石をLASTへ加える",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 26,
+            "y": 495,
+            "w": 166,
+            "h": 56
+          },
+          "onScreen": true,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "perfume-material",
+          "text": "乾いた木",
+          "ariaLabel": "乾いた木をLASTへ加える",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 199,
+            "y": 495,
+            "w": 166,
+            "h": 56
+          },
+          "onScreen": true,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "perfume-material",
+          "text": "生の果実",
+          "ariaLabel": "生の果実をLASTへ加える",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 26,
+            "y": 558,
+            "w": 166,
+            "h": 56
+          },
+          "onScreen": true,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "perfume-material",
+          "text": "夜更け",
+          "ariaLabel": "夜更けをLASTへ加える",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 199,
+            "y": 558,
+            "w": 166,
+            "h": 56
+          },
+          "onScreen": true,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "perfume-material",
+          "text": "海水",
+          "ariaLabel": "海水をLASTへ加える",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 26,
+            "y": 621,
+            "w": 166,
+            "h": 56
+          },
+          "onScreen": true,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "perfume-material",
+          "text": "古い本",
+          "ariaLabel": "古い本をLASTへ加える",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 199,
+            "y": 621,
+            "w": 166,
+            "h": 56
+          },
+          "onScreen": true,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "perfume-material",
+          "text": "化粧の粉",
+          "ariaLabel": "化粧の粉をLASTへ加える",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 26,
+            "y": 684,
+            "w": 166,
+            "h": 56
+          },
+          "onScreen": true,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "perfume-material",
+          "text": "冷たい金属",
+          "ariaLabel": "冷たい金属をLASTへ加える",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 199,
+            "y": 684,
+            "w": 166,
+            "h": 56
+          },
+          "onScreen": true,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "",
+          "text": "01 TOP",
+          "ariaLabel": null,
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 26,
+            "y": 630,
+            "w": 109,
+            "h": 44
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "",
+          "text": "02 MIDDLE",
+          "ariaLabel": null,
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 140,
+            "y": 630,
+            "w": 109,
+            "h": 44
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "",
+          "text": "03 LAST",
+          "ariaLabel": null,
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 255,
+            "y": 630,
+            "w": 109,
+            "h": 44
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "",
+          "text": "×",
+          "ariaLabel": "素材を外す",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 74,
+            "y": 712,
+            "w": 26,
+            "h": 32
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "",
+          "text": "−",
+          "ariaLabel": "濃度を下げる",
+          "type": "button",
+          "href": null,
+          "disabled": true,
+          "rect": {
+            "x": 103,
+            "y": 712,
+            "w": 26,
+            "h": 32
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "",
+          "text": "＋",
+          "ariaLabel": "濃度を上げる",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 132,
+            "y": 712,
+            "w": 26,
+            "h": 32
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "",
+          "text": "×",
+          "ariaLabel": "素材を外す",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 74,
+            "y": 787,
+            "w": 26,
+            "h": 32
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "",
+          "text": "−",
+          "ariaLabel": "濃度を下げる",
+          "type": "button",
+          "href": null,
+          "disabled": true,
+          "rect": {
+            "x": 103,
+            "y": 787,
+            "w": 26,
+            "h": 32
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "",
+          "text": "＋",
+          "ariaLabel": "濃度を上げる",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 132,
+            "y": 787,
+            "w": 26,
+            "h": 32
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "",
+          "text": "×",
+          "ariaLabel": "素材を外す",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 74,
+            "y": 862,
+            "w": 26,
+            "h": 32
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "",
+          "text": "−",
+          "ariaLabel": "濃度を下げる",
+          "type": "button",
+          "href": null,
+          "disabled": true,
+          "rect": {
+            "x": 103,
+            "y": 862,
+            "w": 26,
+            "h": 32
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "",
+          "text": "＋",
+          "ariaLabel": "濃度を上げる",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 132,
+            "y": 862,
+            "w": 26,
+            "h": 32
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "",
+          "text": "Eau Fraîche 水のあと",
+          "ariaLabel": null,
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 26,
+            "y": 935,
+            "w": 63,
+            "h": 70
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "",
+          "text": "Cologne 風の輪郭",
+          "ariaLabel": null,
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 95,
+            "y": 935,
+            "w": 63,
+            "h": 70
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "",
+          "text": "Toilette 肌に近い",
+          "ariaLabel": null,
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 164,
+            "y": 935,
+            "w": 63,
+            "h": 70
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "",
+          "text": "Parfum 記憶の濃度",
+          "ariaLabel": null,
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 232,
+            "y": 935,
+            "w": 63,
+            "h": 70
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "",
+          "text": "Extrait 最後まで残る",
+          "ariaLabel": null,
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 301,
+            "y": 935,
+            "w": 63,
+            "h": 70
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "INPUT",
+          "id": "perfumeConcentration",
+          "cls": "",
+          "text": "香りの濃度",
+          "ariaLabel": "香りの濃度",
+          "type": "range",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 28,
+            "y": 1015,
+            "w": 338,
+            "h": 32
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "composePerfume",
+          "cls": "perfume-compose",
+          "text": "香りを定着させる",
+          "ariaLabel": null,
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 26,
+            "y": 1059,
+            "w": 338,
+            "h": 48
+          },
+          "onScreen": false,
+          "hit": false
+        }
+      ],
+      "artwork": [
+        {
+          "tag": "IMG",
+          "id": "",
+          "cls": "prototype-stage-art",
+          "alt": "使いかけの試香紙と記録帳、色の異なる香料瓶、中央の無銘の香水瓶が残る静かな調香室",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "w": 390,
+            "h": 844
+          }
+        },
+        {
+          "tag": "IMG",
+          "id": "",
+          "cls": "",
+          "alt": "素材を受け止めるNIKO² ATELIERの調香瓶",
+          "rect": {
+            "x": 32,
+            "y": 482,
+            "w": 76,
+            "h": 92
+          }
+        }
+      ],
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "h": 844
+      },
+      "scrollContainers": [
+        {
+          "id": "",
+          "cls": "view perfume-view prototype-view is-active",
+          "top": 0,
+          "height": 844,
+          "scrollHeight": 1175
+        },
+        {
+          "id": "perfumeMaterials",
+          "cls": "perfume-materials",
+          "top": 0,
+          "height": 224,
+          "scrollHeight": 497
+        }
+      ],
+      "dialogs": [],
+      "screenshot": "008-burnt-sugar-in-last.jpg"
+    },
+    {
+      "label": "choose-parfum",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#perfume",
+      "route": "perfume",
+      "viewportText": "NIKO² ATELIER\n燃えた砂糖\nホテルの白いシーツ\n甘い夢\n紅茶の渋み\n煙の名残\n花\nMIXING BOTTLE / 3 MATERIALS\nIN BOTTLE / 雨 ×1 · 紅茶の渋み ×1 · 燃えた砂糖 ×1\n01\nTOP\n02\nMIDDLE\n03\nLAST\nTOP\n雨\n×1\n×\n−\n＋\nMIDDLE\n紅茶の渋み\n×1\n×\n−\n＋\nLAST\n燃えた砂糖\n×1\n×\n−\n＋\nCONCENTRATION\nEAU DE PARFUM / 記憶の濃度\nEau Fraîche\n水のあと\nCologne\n風の輪郭\nToilette\n肌に近い\nParfum\n記憶の濃度\nExtrait\n最後まで残る\n香りを定着させる",
+      "renderedBodyText": "作品へ移動\nNIKO² ATELIER\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDREAM / PM-01\nPERFUME MORGUE\nFORMULA / 3 MATERIALS\n香りになれなかった記憶。\n素材を選び、三つの層へ落としてください。順番と濃度で、同じ記憶も別の香りになります。\n雨\n古いぬいぐるみ\n燃えた砂糖\nホテルの白いシーツ\n甘い夢\n紅茶の渋み\n煙の名残\n花\n濡れた石\n乾いた木\n生の果実\n夜更け\n海水\n古い本\n化粧の粉\n冷たい金属\n\nMIXING BOTTLE / 3 MATERIALS\nIN BOTTLE / 雨 ×1 · 紅茶の渋み ×1 · 燃えた砂糖 ×1\n\n01\nTOP\n\n02\nMIDDLE\n\n03\nLAST\nTOP\n雨 ×1\n×\n−\n＋\nMIDDLE\n紅茶の渋み ×1\n×\n−\n＋\nLAST\n燃えた砂糖 ×1\n×\n−\n＋\nCONCENTRATION\nEAU DE PARFUM / 記憶の濃度\n\nEau Fraîche\n水のあと\n\nCologne\n風の輪郭\n\nToilette\n肌に近い\n\nParfum\n記憶の濃度\n\nExtrait\n最後まで残る\n\n香りを定着させる\n",
+      "controls": [
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "skip-link",
+          "text": "作品へ移動",
+          "ariaLabel": null,
+          "type": null,
+          "href": "#main",
+          "disabled": false,
+          "rect": {
+            "x": 8,
+            "y": -61,
+            "w": 108,
+            "h": 43
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "wordmark",
+          "text": "NIKO² ATELIER",
+          "ariaLabel": "NIKO² ATELIER ホームへ",
+          "type": null,
+          "href": "#home",
+          "disabled": false,
+          "rect": {
+            "x": 25,
+            "y": 23,
+            "w": 124,
+            "h": 29
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "ariaLabel": "音をオンにする",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "perfumeBack",
+          "cls": "",
+          "text": "アトリエへ戻る",
+          "ariaLabel": "アトリエへ戻る",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": -243,
+            "w": 40,
+            "h": 40
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "perfume-material",
+          "text": "雨",
+          "ariaLabel": "雨をLASTへ加える",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 26,
+            "y": -88,
+            "w": 166,
+            "h": 56
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "perfume-material",
+          "text": "古いぬいぐるみ",
+          "ariaLabel": "古いぬいぐるみをLASTへ加える",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 199,
+            "y": -88,
+            "w": 166,
+            "h": 56
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "perfume-material",
+          "text": "燃えた砂糖",
+          "ariaLabel": "燃えた砂糖をLASTへ加える",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 26,
+            "y": -25,
+            "w": 166,
+            "h": 56
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "perfume-material",
+          "text": "ホテルの白いシーツ",
+          "ariaLabel": "ホテルの白いシーツをLASTへ加える",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 199,
+            "y": -25,
+            "w": 166,
+            "h": 56
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "perfume-material",
+          "text": "甘い夢",
+          "ariaLabel": "甘い夢をLASTへ加える",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 26,
+            "y": 38,
+            "w": 166,
+            "h": 56
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "perfume-material",
+          "text": "紅茶の渋み",
+          "ariaLabel": "紅茶の渋みをLASTへ加える",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 199,
+            "y": 38,
+            "w": 166,
+            "h": 56
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "perfume-material",
+          "text": "煙の名残",
+          "ariaLabel": "煙の名残をLASTへ加える",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 26,
+            "y": 101,
+            "w": 166,
+            "h": 56
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "perfume-material",
+          "text": "花",
+          "ariaLabel": "花をLASTへ加える",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 199,
+            "y": 101,
+            "w": 166,
+            "h": 56
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "perfume-material",
+          "text": "濡れた石",
+          "ariaLabel": "濡れた石をLASTへ加える",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 26,
+            "y": 164,
+            "w": 166,
+            "h": 56
+          },
+          "onScreen": true,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "perfume-material",
+          "text": "乾いた木",
+          "ariaLabel": "乾いた木をLASTへ加える",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 199,
+            "y": 164,
+            "w": 166,
+            "h": 56
+          },
+          "onScreen": true,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "perfume-material",
+          "text": "生の果実",
+          "ariaLabel": "生の果実をLASTへ加える",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 26,
+            "y": 227,
+            "w": 166,
+            "h": 56
+          },
+          "onScreen": true,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "perfume-material",
+          "text": "夜更け",
+          "ariaLabel": "夜更けをLASTへ加える",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 199,
+            "y": 227,
+            "w": 166,
+            "h": 56
+          },
+          "onScreen": true,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "perfume-material",
+          "text": "海水",
+          "ariaLabel": "海水をLASTへ加える",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 26,
+            "y": 290,
+            "w": 166,
+            "h": 56
+          },
+          "onScreen": true,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "perfume-material",
+          "text": "古い本",
+          "ariaLabel": "古い本をLASTへ加える",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 199,
+            "y": 290,
+            "w": 166,
+            "h": 56
+          },
+          "onScreen": true,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "perfume-material",
+          "text": "化粧の粉",
+          "ariaLabel": "化粧の粉をLASTへ加える",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 26,
+            "y": 353,
+            "w": 166,
+            "h": 56
+          },
+          "onScreen": true,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "perfume-material",
+          "text": "冷たい金属",
+          "ariaLabel": "冷たい金属をLASTへ加える",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 199,
+            "y": 353,
+            "w": 166,
+            "h": 56
+          },
+          "onScreen": true,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "",
+          "text": "01 TOP",
+          "ariaLabel": null,
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 26,
+            "y": 299,
+            "w": 109,
+            "h": 44
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "",
+          "text": "02 MIDDLE",
+          "ariaLabel": null,
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 140,
+            "y": 299,
+            "w": 109,
+            "h": 44
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "",
+          "text": "03 LAST",
+          "ariaLabel": null,
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 255,
+            "y": 299,
+            "w": 109,
+            "h": 44
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "",
+          "text": "×",
+          "ariaLabel": "素材を外す",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 74,
+            "y": 381,
+            "w": 26,
+            "h": 32
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "",
+          "text": "−",
+          "ariaLabel": "濃度を下げる",
+          "type": "button",
+          "href": null,
+          "disabled": true,
+          "rect": {
+            "x": 103,
+            "y": 381,
+            "w": 26,
+            "h": 32
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "",
+          "text": "＋",
+          "ariaLabel": "濃度を上げる",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 132,
+            "y": 381,
+            "w": 26,
+            "h": 32
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "",
+          "text": "×",
+          "ariaLabel": "素材を外す",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 74,
+            "y": 456,
+            "w": 26,
+            "h": 32
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "",
+          "text": "−",
+          "ariaLabel": "濃度を下げる",
+          "type": "button",
+          "href": null,
+          "disabled": true,
+          "rect": {
+            "x": 103,
+            "y": 456,
+            "w": 26,
+            "h": 32
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "",
+          "text": "＋",
+          "ariaLabel": "濃度を上げる",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 132,
+            "y": 456,
+            "w": 26,
+            "h": 32
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "",
+          "text": "×",
+          "ariaLabel": "素材を外す",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 74,
+            "y": 531,
+            "w": 26,
+            "h": 32
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "",
+          "text": "−",
+          "ariaLabel": "濃度を下げる",
+          "type": "button",
+          "href": null,
+          "disabled": true,
+          "rect": {
+            "x": 103,
+            "y": 531,
+            "w": 26,
+            "h": 32
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "",
+          "text": "＋",
+          "ariaLabel": "濃度を上げる",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 132,
+            "y": 531,
+            "w": 26,
+            "h": 32
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "",
+          "text": "Eau Fraîche 水のあと",
+          "ariaLabel": null,
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 26,
+            "y": 604,
+            "w": 63,
+            "h": 70
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "",
+          "text": "Cologne 風の輪郭",
+          "ariaLabel": null,
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 95,
+            "y": 604,
+            "w": 63,
+            "h": 70
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "",
+          "text": "Toilette 肌に近い",
+          "ariaLabel": null,
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 164,
+            "y": 604,
+            "w": 63,
+            "h": 70
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "",
+          "text": "Parfum 記憶の濃度",
+          "ariaLabel": null,
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 232,
+            "y": 604,
+            "w": 63,
+            "h": 70
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "",
+          "text": "Extrait 最後まで残る",
+          "ariaLabel": null,
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 301,
+            "y": 604,
+            "w": 63,
+            "h": 70
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "INPUT",
+          "id": "perfumeConcentration",
+          "cls": "",
+          "text": "香りの濃度",
+          "ariaLabel": "香りの濃度",
+          "type": "range",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 28,
+            "y": 684,
+            "w": 338,
+            "h": 32
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "composePerfume",
+          "cls": "perfume-compose",
+          "text": "香りを定着させる",
+          "ariaLabel": null,
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 26,
+            "y": 728,
+            "w": 338,
+            "h": 48
+          },
+          "onScreen": true,
+          "hit": true
+        }
+      ],
+      "artwork": [
+        {
+          "tag": "IMG",
+          "id": "",
+          "cls": "prototype-stage-art",
+          "alt": "使いかけの試香紙と記録帳、色の異なる香料瓶、中央の無銘の香水瓶が残る静かな調香室",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "w": 390,
+            "h": 844
+          }
+        },
+        {
+          "tag": "IMG",
+          "id": "",
+          "cls": "",
+          "alt": "素材を受け止めるNIKO² ATELIERの調香瓶",
+          "rect": {
+            "x": 32,
+            "y": 151,
+            "w": 76,
+            "h": 92
+          }
+        }
+      ],
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "h": 844
+      },
+      "scrollContainers": [
+        {
+          "id": "",
+          "cls": "view perfume-view prototype-view is-active",
+          "top": 331,
+          "height": 844,
+          "scrollHeight": 1175
+        },
+        {
+          "id": "perfumeMaterials",
+          "cls": "perfume-materials",
+          "top": 0,
+          "height": 224,
+          "scrollHeight": 497
+        }
+      ],
+      "dialogs": [],
+      "screenshot": "009-choose-parfum.jpg"
+    },
+    {
+      "label": "compose-chosen-perfume",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#perfume",
+      "route": "perfume",
+      "viewportText": "NIKO² ATELIER\nFRESH / 太陽の方へ\nF-20261006-5B48\nFalse Morning\nFRESH / 太陽の方へ\nEAU DE PARFUM / 記憶の濃度\nTOP\n1. 雨 ×1\nMIDDLE\n1. 紅茶の渋み ×1\nLAST\n1. 燃えた砂糖 ×1\nFORMULA / SCENT CHARACTER",
+      "renderedBodyText": "作品へ移動\nNIKO² ATELIER\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDREAM / PM-01\nPERFUME MORGUE\nFRAGRANCE / KEPT\nFRESH / 太陽の方へ\nF-20261006-5B48\nFalse Morning\nFRESH / 太陽の方へ\nEAU DE PARFUM / 記憶の濃度\nTOP\n1. 雨 ×1\nMIDDLE\n1. 紅茶の渋み ×1\nLAST\n1. 燃えた砂糖 ×1\nFORMULA / SCENT CHARACTER\n最初に雨。 少し遅れて紅茶の渋み。 最後に燃えた砂糖が残る。 密度のある長い残香へ着地する。\nDiaryに持ち帰る\nもう一度調合する\nNARRATIVE / HEAT · FRESH-FALSE-MORNING\nカーテンを開けた。  朝日が眩しい。 鳥もうるさく鳴いてる。 冷えたレモン水まで用意されている。  午前4時12分。  誰が朝にしたの？\nREAL WORLD ECHOES\nREAL WORLD / TRACE ONLY\nこの香りには、現実にも近い夢がある。\nいまはまだ、名前ではなく三つの手掛かりだけ。\n\nECHO / AIR\nオゾニック\nECHO / HEART\nラベンダー\nECHO / TRACE\nソルテッドキャラメル / ブラックセサミ\n",
+      "controls": [
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "skip-link",
+          "text": "作品へ移動",
+          "ariaLabel": null,
+          "type": null,
+          "href": "#main",
+          "disabled": false,
+          "rect": {
+            "x": 8,
+            "y": -61,
+            "w": 108,
+            "h": 43
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "wordmark",
+          "text": "NIKO² ATELIER",
+          "ariaLabel": "NIKO² ATELIER ホームへ",
+          "type": null,
+          "href": "#home",
+          "disabled": false,
+          "rect": {
+            "x": 25,
+            "y": 23,
+            "w": 124,
+            "h": 29
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "ariaLabel": "音をオンにする",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "perfumeBack",
+          "cls": "",
+          "text": "アトリエへ戻る",
+          "ariaLabel": "アトリエへ戻る",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 82,
+            "w": 40,
+            "h": 40
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "savePerfumeArtifact",
+          "cls": "",
+          "text": "Diaryに持ち帰る",
+          "ariaLabel": "この香りをDiaryに持ち帰る",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 46,
+            "y": 893,
+            "w": 145,
+            "h": 44
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "remixPerfume",
+          "cls": "",
+          "text": "もう一度調合する",
+          "ariaLabel": null,
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 199,
+            "y": 893,
+            "w": 145,
+            "h": 44
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "SUMMARY",
+          "id": "",
+          "cls": "",
+          "text": "REAL WORLD ECHOES",
+          "ariaLabel": null,
+          "type": null,
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 46,
+            "y": 1337,
+            "w": 298,
+            "h": 36
+          },
+          "onScreen": false,
+          "hit": false
+        }
+      ],
+      "artwork": [
+        {
+          "tag": "IMG",
+          "id": "",
+          "cls": "prototype-stage-art",
+          "alt": "使いかけの試香紙と記録帳、色の異なる香料瓶、中央の無銘の香水瓶が残る静かな調香室",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "w": 390,
+            "h": 844
+          }
+        },
+        {
+          "tag": "IMG",
+          "id": "perfumeResultBottle",
+          "cls": "",
+          "alt": "FRESH / 太陽の方への完成香水瓶",
+          "rect": {
+            "x": 38.29999923706055,
+            "y": 159.39999389648438,
+            "w": 313.3998107910156,
+            "h": 290.18499755859375
+          }
+        }
+      ],
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "h": 844
+      },
+      "scrollContainers": [
+        {
+          "id": "",
+          "cls": "view perfume-view prototype-view is-active",
+          "top": 0,
+          "height": 844,
+          "scrollHeight": 1710
+        }
+      ],
+      "dialogs": [],
+      "screenshot": "010-compose-chosen-perfume.jpg"
+    },
+    {
+      "label": "read-result-and-response",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#perfume",
+      "route": "perfume",
+      "viewportText": "NIKO² ATELIER\nF-20261006-5B48\nFalse Morning\nFRESH / 太陽の方へ\nEAU DE PARFUM / 記憶の濃度\nTOP\n1. 雨 ×1\nMIDDLE\n1. 紅茶の渋み ×1\nLAST\n1. 燃えた砂糖 ×1\nFORMULA / SCENT CHARACTER\n最初に雨。 少し遅れて紅茶の渋み。 最後に燃えた砂糖が残る。 密度のある長い残香へ着地する。\nDiaryに持ち帰る\nもう一度調合する\nNARRATIVE / HEAT · FRESH-FALSE-MORNING\nカーテンを開けた。\n\n朝日が眩しい。\n鳥もうるさく鳴いてる。\n冷えたレモン水まで用意されている。\n\n午前4時12分。\n\n誰が朝にしたの？",
+      "renderedBodyText": "作品へ移動\nNIKO² ATELIER\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDREAM / PM-01\nPERFUME MORGUE\nFRAGRANCE / KEPT\nFRESH / 太陽の方へ\nF-20261006-5B48\nFalse Morning\nFRESH / 太陽の方へ\nEAU DE PARFUM / 記憶の濃度\nTOP\n1. 雨 ×1\nMIDDLE\n1. 紅茶の渋み ×1\nLAST\n1. 燃えた砂糖 ×1\nFORMULA / SCENT CHARACTER\n最初に雨。 少し遅れて紅茶の渋み。 最後に燃えた砂糖が残る。 密度のある長い残香へ着地する。\nDiaryに持ち帰る\nもう一度調合する\nNARRATIVE / HEAT · FRESH-FALSE-MORNING\nカーテンを開けた。  朝日が眩しい。 鳥もうるさく鳴いてる。 冷えたレモン水まで用意されている。  午前4時12分。  誰が朝にしたの？\nREAL WORLD ECHOES\nREAL WORLD / TRACE ONLY\nこの香りには、現実にも近い夢がある。\nいまはまだ、名前ではなく三つの手掛かりだけ。\n\nECHO / AIR\nオゾニック\nECHO / HEART\nラベンダー\nECHO / TRACE\nソルテッドキャラメル / ブラックセサミ\n",
+      "controls": [
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "skip-link",
+          "text": "作品へ移動",
+          "ariaLabel": null,
+          "type": null,
+          "href": "#main",
+          "disabled": false,
+          "rect": {
+            "x": 8,
+            "y": -61,
+            "w": 108,
+            "h": 43
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "wordmark",
+          "text": "NIKO² ATELIER",
+          "ariaLabel": "NIKO² ATELIER ホームへ",
+          "type": null,
+          "href": "#home",
+          "disabled": false,
+          "rect": {
+            "x": 25,
+            "y": 23,
+            "w": 124,
+            "h": 29
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "ariaLabel": "音をオンにする",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "perfumeBack",
+          "cls": "",
+          "text": "アトリエへ戻る",
+          "ariaLabel": "アトリエへ戻る",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": -368,
+            "w": 40,
+            "h": 40
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "savePerfumeArtifact",
+          "cls": "",
+          "text": "Diaryに持ち帰る",
+          "ariaLabel": "この香りをDiaryに持ち帰る",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 46,
+            "y": 443,
+            "w": 145,
+            "h": 44
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "remixPerfume",
+          "cls": "",
+          "text": "もう一度調合する",
+          "ariaLabel": null,
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 199,
+            "y": 443,
+            "w": 145,
+            "h": 44
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "SUMMARY",
+          "id": "",
+          "cls": "",
+          "text": "REAL WORLD ECHOES",
+          "ariaLabel": null,
+          "type": null,
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 46,
+            "y": 887,
+            "w": 298,
+            "h": 36
+          },
+          "onScreen": false,
+          "hit": false
+        }
+      ],
+      "artwork": [
+        {
+          "tag": "IMG",
+          "id": "",
+          "cls": "prototype-stage-art",
+          "alt": "使いかけの試香紙と記録帳、色の異なる香料瓶、中央の無銘の香水瓶が残る静かな調香室",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "w": 390,
+            "h": 844
+          }
+        },
+        {
+          "tag": "IMG",
+          "id": "perfumeResultBottle",
+          "cls": "",
+          "alt": "FRESH / 太陽の方への完成香水瓶",
+          "rect": {
+            "x": 38.29999923706055,
+            "y": -290.6000061035156,
+            "w": 313.3998107910156,
+            "h": 290.18499755859375
+          }
+        }
+      ],
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "h": 844
+      },
+      "scrollContainers": [
+        {
+          "id": "",
+          "cls": "view perfume-view prototype-view is-active",
+          "top": 450,
+          "height": 844,
+          "scrollHeight": 1710
+        }
+      ],
+      "dialogs": [],
+      "screenshot": "011-read-result-and-response.jpg"
+    },
+    {
+      "label": "final",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#perfume",
+      "route": "perfume",
+      "viewportText": "NIKO² ATELIER\nF-20261006-5B48\nFalse Morning\nFRESH / 太陽の方へ\nEAU DE PARFUM / 記憶の濃度\nTOP\n1. 雨 ×1\nMIDDLE\n1. 紅茶の渋み ×1\nLAST\n1. 燃えた砂糖 ×1\nFORMULA / SCENT CHARACTER\n最初に雨。 少し遅れて紅茶の渋み。 最後に燃えた砂糖が残る。 密度のある長い残香へ着地する。\nDiaryに持ち帰る\nもう一度調合する\nNARRATIVE / HEAT · FRESH-FALSE-MORNING\nカーテンを開けた。\n\n朝日が眩しい。\n鳥もうるさく鳴いてる。\n冷えたレモン水まで用意されている。\n\n午前4時12分。\n\n誰が朝にしたの？",
+      "renderedBodyText": "作品へ移動\nNIKO² ATELIER\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDREAM / PM-01\nPERFUME MORGUE\nFRAGRANCE / KEPT\nFRESH / 太陽の方へ\nF-20261006-5B48\nFalse Morning\nFRESH / 太陽の方へ\nEAU DE PARFUM / 記憶の濃度\nTOP\n1. 雨 ×1\nMIDDLE\n1. 紅茶の渋み ×1\nLAST\n1. 燃えた砂糖 ×1\nFORMULA / SCENT CHARACTER\n最初に雨。 少し遅れて紅茶の渋み。 最後に燃えた砂糖が残る。 密度のある長い残香へ着地する。\nDiaryに持ち帰る\nもう一度調合する\nNARRATIVE / HEAT · FRESH-FALSE-MORNING\nカーテンを開けた。  朝日が眩しい。 鳥もうるさく鳴いてる。 冷えたレモン水まで用意されている。  午前4時12分。  誰が朝にしたの？\nREAL WORLD ECHOES\nREAL WORLD / TRACE ONLY\nこの香りには、現実にも近い夢がある。\nいまはまだ、名前ではなく三つの手掛かりだけ。\n\nECHO / AIR\nオゾニック\nECHO / HEART\nラベンダー\nECHO / TRACE\nソルテッドキャラメル / ブラックセサミ\n",
+      "controls": [
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "skip-link",
+          "text": "作品へ移動",
+          "ariaLabel": null,
+          "type": null,
+          "href": "#main",
+          "disabled": false,
+          "rect": {
+            "x": 8,
+            "y": -61,
+            "w": 108,
+            "h": 43
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "wordmark",
+          "text": "NIKO² ATELIER",
+          "ariaLabel": "NIKO² ATELIER ホームへ",
+          "type": null,
+          "href": "#home",
+          "disabled": false,
+          "rect": {
+            "x": 25,
+            "y": 23,
+            "w": 124,
+            "h": 29
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "ariaLabel": "音をオンにする",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "perfumeBack",
+          "cls": "",
+          "text": "アトリエへ戻る",
+          "ariaLabel": "アトリエへ戻る",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": -368,
+            "w": 40,
+            "h": 40
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "savePerfumeArtifact",
+          "cls": "",
+          "text": "Diaryに持ち帰る",
+          "ariaLabel": "この香りをDiaryに持ち帰る",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 46,
+            "y": 443,
+            "w": 145,
+            "h": 44
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "remixPerfume",
+          "cls": "",
+          "text": "もう一度調合する",
+          "ariaLabel": null,
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 199,
+            "y": 443,
+            "w": 145,
+            "h": 44
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "SUMMARY",
+          "id": "",
+          "cls": "",
+          "text": "REAL WORLD ECHOES",
+          "ariaLabel": null,
+          "type": null,
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 46,
+            "y": 887,
+            "w": 298,
+            "h": 36
+          },
+          "onScreen": false,
+          "hit": false
+        }
+      ],
+      "artwork": [
+        {
+          "tag": "IMG",
+          "id": "",
+          "cls": "prototype-stage-art",
+          "alt": "使いかけの試香紙と記録帳、色の異なる香料瓶、中央の無銘の香水瓶が残る静かな調香室",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "w": 390,
+            "h": 844
+          }
+        },
+        {
+          "tag": "IMG",
+          "id": "perfumeResultBottle",
+          "cls": "",
+          "alt": "FRESH / 太陽の方への完成香水瓶",
+          "rect": {
+            "x": 38.29999923706055,
+            "y": -290.6000061035156,
+            "w": 313.3998107910156,
+            "h": 290.18499755859375
+          }
+        }
+      ],
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "h": 844
+      },
+      "scrollContainers": [
+        {
+          "id": "",
+          "cls": "view perfume-view prototype-view is-active",
+          "top": 450,
+          "height": 844,
+          "scrollHeight": 1710
+        }
+      ],
+      "dialogs": [],
+      "screenshot": "012-final.jpg"
+    }
+  ],
+  "errors": [],
+  "httpErrors": [
+    {
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/api/identity",
+      "status": 404
+    }
+  ],
+  "startedAt": "2026-10-06T18:34:42.890Z",
+  "startUrl": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+  "httpStatus": 200,
+  "final": {
+    "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#perfume",
+    "route": "perfume",
+    "viewportText": "NIKO² ATELIER\nF-20261006-5B48\nFalse Morning\nFRESH / 太陽の方へ\nEAU DE PARFUM / 記憶の濃度\nTOP\n1. 雨 ×1\nMIDDLE\n1. 紅茶の渋み ×1\nLAST\n1. 燃えた砂糖 ×1\nFORMULA / SCENT CHARACTER\n最初に雨。 少し遅れて紅茶の渋み。 最後に燃えた砂糖が残る。 密度のある長い残香へ着地する。\nDiaryに持ち帰る\nもう一度調合する\nNARRATIVE / HEAT · FRESH-FALSE-MORNING\nカーテンを開けた。\n\n朝日が眩しい。\n鳥もうるさく鳴いてる。\n冷えたレモン水まで用意されている。\n\n午前4時12分。\n\n誰が朝にしたの？",
+    "renderedBodyText": "作品へ移動\nNIKO² ATELIER\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDREAM / PM-01\nPERFUME MORGUE\nFRAGRANCE / KEPT\nFRESH / 太陽の方へ\nF-20261006-5B48\nFalse Morning\nFRESH / 太陽の方へ\nEAU DE PARFUM / 記憶の濃度\nTOP\n1. 雨 ×1\nMIDDLE\n1. 紅茶の渋み ×1\nLAST\n1. 燃えた砂糖 ×1\nFORMULA / SCENT CHARACTER\n最初に雨。 少し遅れて紅茶の渋み。 最後に燃えた砂糖が残る。 密度のある長い残香へ着地する。\nDiaryに持ち帰る\nもう一度調合する\nNARRATIVE / HEAT · FRESH-FALSE-MORNING\nカーテンを開けた。  朝日が眩しい。 鳥もうるさく鳴いてる。 冷えたレモン水まで用意されている。  午前4時12分。  誰が朝にしたの？\nREAL WORLD ECHOES\nREAL WORLD / TRACE ONLY\nこの香りには、現実にも近い夢がある。\nいまはまだ、名前ではなく三つの手掛かりだけ。\n\nECHO / AIR\nオゾニック\nECHO / HEART\nラベンダー\nECHO / TRACE\nソルテッドキャラメル / ブラックセサミ\n",
+    "controls": [
+      {
+        "tag": "A",
+        "id": "",
+        "cls": "skip-link",
+        "text": "作品へ移動",
+        "ariaLabel": null,
+        "type": null,
+        "href": "#main",
+        "disabled": false,
+        "rect": {
+          "x": 8,
+          "y": -61,
+          "w": 108,
+          "h": 43
+        },
+        "onScreen": false,
+        "hit": false
+      },
+      {
+        "tag": "A",
+        "id": "",
+        "cls": "wordmark",
+        "text": "NIKO² ATELIER",
+        "ariaLabel": "NIKO² ATELIER ホームへ",
+        "type": null,
+        "href": "#home",
+        "disabled": false,
+        "rect": {
+          "x": 25,
+          "y": 23,
+          "w": 124,
+          "h": 29
+        },
+        "onScreen": true,
+        "hit": true
+      },
+      {
+        "tag": "BUTTON",
+        "id": "soundToggle",
+        "cls": "sound-toggle",
+        "text": "音をオンにする",
+        "ariaLabel": "音をオンにする",
+        "type": "button",
+        "href": null,
+        "disabled": false,
+        "rect": {
+          "x": 332,
+          "y": 14,
+          "w": 44,
+          "h": 44
+        },
+        "onScreen": true,
+        "hit": true
+      },
+      {
+        "tag": "BUTTON",
+        "id": "perfumeBack",
+        "cls": "",
+        "text": "アトリエへ戻る",
+        "ariaLabel": "アトリエへ戻る",
+        "type": "button",
+        "href": null,
+        "disabled": false,
+        "rect": {
+          "x": 14,
+          "y": -368,
+          "w": 40,
+          "h": 40
+        },
+        "onScreen": false,
+        "hit": false
+      },
+      {
+        "tag": "BUTTON",
+        "id": "savePerfumeArtifact",
+        "cls": "",
+        "text": "Diaryに持ち帰る",
+        "ariaLabel": "この香りをDiaryに持ち帰る",
+        "type": "button",
+        "href": null,
+        "disabled": false,
+        "rect": {
+          "x": 46,
+          "y": 443,
+          "w": 145,
+          "h": 44
+        },
+        "onScreen": true,
+        "hit": true
+      },
+      {
+        "tag": "BUTTON",
+        "id": "remixPerfume",
+        "cls": "",
+        "text": "もう一度調合する",
+        "ariaLabel": null,
+        "type": "button",
+        "href": null,
+        "disabled": false,
+        "rect": {
+          "x": 199,
+          "y": 443,
+          "w": 145,
+          "h": 44
+        },
+        "onScreen": true,
+        "hit": true
+      },
+      {
+        "tag": "SUMMARY",
+        "id": "",
+        "cls": "",
+        "text": "REAL WORLD ECHOES",
+        "ariaLabel": null,
+        "type": null,
+        "href": null,
+        "disabled": false,
+        "rect": {
+          "x": 46,
+          "y": 887,
+          "w": 298,
+          "h": 36
+        },
+        "onScreen": false,
+        "hit": false
+      }
+    ],
+    "artwork": [
+      {
+        "tag": "IMG",
+        "id": "",
+        "cls": "prototype-stage-art",
+        "alt": "使いかけの試香紙と記録帳、色の異なる香料瓶、中央の無銘の香水瓶が残る静かな調香室",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "w": 390,
+          "h": 844
+        }
+      },
+      {
+        "tag": "IMG",
+        "id": "perfumeResultBottle",
+        "cls": "",
+        "alt": "FRESH / 太陽の方への完成香水瓶",
+        "rect": {
+          "x": 38.29999923706055,
+          "y": -290.6000061035156,
+          "w": 313.3998107910156,
+          "h": 290.18499755859375
+        }
+      }
+    ],
+    "scroll": {
+      "x": 0,
+      "y": 0,
+      "h": 844
+    },
+    "scrollContainers": [
+      {
+        "id": "",
+        "cls": "view perfume-view prototype-view is-active",
+        "top": 450,
+        "height": 844,
+        "scrollHeight": 1710
+      }
+    ],
+    "dialogs": [],
+    "screenshot": "012-final.jpg"
+  },
+  "finishedAt": "2026-10-06T18:35:21.098Z"
+}

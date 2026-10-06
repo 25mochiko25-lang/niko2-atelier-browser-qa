@@ -1,0 +1,177 @@
+{
+  "label": "final",
+  "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#perfume",
+  "route": "perfume",
+  "viewportText": "NIKO² ATELIER\nF-20261006-5B48\nFalse Morning\nFRESH / 太陽の方へ\nEAU DE PARFUM / 記憶の濃度\nTOP\n1. 雨 ×1\nMIDDLE\n1. 紅茶の渋み ×1\nLAST\n1. 燃えた砂糖 ×1\nFORMULA / SCENT CHARACTER\n最初に雨。 少し遅れて紅茶の渋み。 最後に燃えた砂糖が残る。 密度のある長い残香へ着地する。\nDiaryに持ち帰る\nもう一度調合する\nNARRATIVE / HEAT · FRESH-FALSE-MORNING\nカーテンを開けた。\n\n朝日が眩しい。\n鳥もうるさく鳴いてる。\n冷えたレモン水まで用意されている。\n\n午前4時12分。\n\n誰が朝にしたの？",
+  "renderedBodyText": "作品へ移動\nNIKO² ATELIER\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDREAM / PM-01\nPERFUME MORGUE\nFRAGRANCE / KEPT\nFRESH / 太陽の方へ\nF-20261006-5B48\nFalse Morning\nFRESH / 太陽の方へ\nEAU DE PARFUM / 記憶の濃度\nTOP\n1. 雨 ×1\nMIDDLE\n1. 紅茶の渋み ×1\nLAST\n1. 燃えた砂糖 ×1\nFORMULA / SCENT CHARACTER\n最初に雨。 少し遅れて紅茶の渋み。 最後に燃えた砂糖が残る。 密度のある長い残香へ着地する。\nDiaryに持ち帰る\nもう一度調合する\nNARRATIVE / HEAT · FRESH-FALSE-MORNING\nカーテンを開けた。  朝日が眩しい。 鳥もうるさく鳴いてる。 冷えたレモン水まで用意されている。  午前4時12分。  誰が朝にしたの？\nREAL WORLD ECHOES\nREAL WORLD / TRACE ONLY\nこの香りには、現実にも近い夢がある。\nいまはまだ、名前ではなく三つの手掛かりだけ。\n\nECHO / AIR\nオゾニック\nECHO / HEART\nラベンダー\nECHO / TRACE\nソルテッドキャラメル / ブラックセサミ\n",
+  "controls": [
+    {
+      "tag": "A",
+      "id": "",
+      "cls": "skip-link",
+      "text": "作品へ移動",
+      "ariaLabel": null,
+      "type": null,
+      "href": "#main",
+      "disabled": false,
+      "rect": {
+        "x": 8,
+        "y": -61,
+        "w": 108,
+        "h": 43
+      },
+      "onScreen": false,
+      "hit": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "cls": "wordmark",
+      "text": "NIKO² ATELIER",
+      "ariaLabel": "NIKO² ATELIER ホームへ",
+      "type": null,
+      "href": "#home",
+      "disabled": false,
+      "rect": {
+        "x": 25,
+        "y": 23,
+        "w": 124,
+        "h": 29
+      },
+      "onScreen": true,
+      "hit": true
+    },
+    {
+      "tag": "BUTTON",
+      "id": "soundToggle",
+      "cls": "sound-toggle",
+      "text": "音をオンにする",
+      "ariaLabel": "音をオンにする",
+      "type": "button",
+      "href": null,
+      "disabled": false,
+      "rect": {
+        "x": 332,
+        "y": 14,
+        "w": 44,
+        "h": 44
+      },
+      "onScreen": true,
+      "hit": true
+    },
+    {
+      "tag": "BUTTON",
+      "id": "perfumeBack",
+      "cls": "",
+      "text": "アトリエへ戻る",
+      "ariaLabel": "アトリエへ戻る",
+      "type": "button",
+      "href": null,
+      "disabled": false,
+      "rect": {
+        "x": 14,
+        "y": -368,
+        "w": 40,
+        "h": 40
+      },
+      "onScreen": false,
+      "hit": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "savePerfumeArtifact",
+      "cls": "",
+      "text": "Diaryに持ち帰る",
+      "ariaLabel": "この香りをDiaryに持ち帰る",
+      "type": "button",
+      "href": null,
+      "disabled": false,
+      "rect": {
+        "x": 46,
+        "y": 443,
+        "w": 145,
+        "h": 44
+      },
+      "onScreen": true,
+      "hit": true
+    },
+    {
+      "tag": "BUTTON",
+      "id": "remixPerfume",
+      "cls": "",
+      "text": "もう一度調合する",
+      "ariaLabel": null,
+      "type": "button",
+      "href": null,
+      "disabled": false,
+      "rect": {
+        "x": 199,
+        "y": 443,
+        "w": 145,
+        "h": 44
+      },
+      "onScreen": true,
+      "hit": true
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "cls": "",
+      "text": "REAL WORLD ECHOES",
+      "ariaLabel": null,
+      "type": null,
+      "href": null,
+      "disabled": false,
+      "rect": {
+        "x": 46,
+        "y": 887,
+        "w": 298,
+        "h": 36
+      },
+      "onScreen": false,
+      "hit": false
+    }
+  ],
+  "artwork": [
+    {
+      "tag": "IMG",
+      "id": "",
+      "cls": "prototype-stage-art",
+      "alt": "使いかけの試香紙と記録帳、色の異なる香料瓶、中央の無銘の香水瓶が残る静かな調香室",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 390,
+        "h": 844
+      }
+    },
+    {
+      "tag": "IMG",
+      "id": "perfumeResultBottle",
+      "cls": "",
+      "alt": "FRESH / 太陽の方への完成香水瓶",
+      "rect": {
+        "x": 38.29999923706055,
+        "y": -290.6000061035156,
+        "w": 313.3998107910156,
+        "h": 290.18499755859375
+      }
+    }
+  ],
+  "scroll": {
+    "x": 0,
+    "y": 0,
+    "h": 844
+  },
+  "scrollContainers": [
+    {
+      "id": "",
+      "cls": "view perfume-view prototype-view is-active",
+      "top": 450,
+      "height": 844,
+      "scrollHeight": 1710
+    }
+  ],
+  "dialogs": [],
+  "screenshot": "012-final.jpg"
+}
