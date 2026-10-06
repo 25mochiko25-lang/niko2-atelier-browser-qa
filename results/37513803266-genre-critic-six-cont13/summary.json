@@ -1,0 +1,88 @@
+{
+  "request": "genre-critic-six-cont13",
+  "startUrl": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+  "startedAt": "2026-10-06T18:47:17.447Z",
+  "finishedAt": "2026-10-06T18:47:34.430Z",
+  "httpStatus": 200,
+  "stopReason": "action failed; return current evidence rather than pretend later steps happened",
+  "events": [
+    {
+      "step": 1,
+      "action": {
+        "kind": "tap",
+        "selector": "#enterGarden",
+        "label": "reopen-perfume",
+        "wait": 1600
+      },
+      "result": {
+        "x": 195,
+        "y": 528.71875,
+        "label": "Enter the dream",
+        "id": "enterGarden"
+      },
+      "error": null,
+      "before": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+        "route": "home"
+      },
+      "after": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#hotel",
+        "route": "hotel"
+      }
+    },
+    {
+      "step": 2,
+      "action": {
+        "kind": "tap",
+        "selector": "#enterPerfumeWorkbench",
+        "label": "reopen-workbench",
+        "wait": 1200
+      },
+      "result": null,
+      "error": "TimeoutError: locator.waitFor: Timeout 10000ms exceeded.\nCall log:\n  - waiting for locator('#enterPerfumeWorkbench').first() to be visible\n    25 × locator resolved to hidden <button type=\"button\" id=\"enterPerfumeWorkbench\">調香台へ</button>\n",
+      "before": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#hotel",
+        "route": "hotel"
+      },
+      "after": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#hotel",
+        "route": "hotel"
+      }
+    }
+  ],
+  "observations": [
+    {
+      "label": "arrival",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+      "route": "home",
+      "viewportText": "WORLD\nWORLD",
+      "screenshot": "001-arrival.jpg"
+    },
+    {
+      "label": "reopen-perfume",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#hotel",
+      "route": "hotel",
+      "viewportText": "NIKO² ATELIER\nFRONT DESK / ROOM 0317\n今夜も、同じ部屋をご用意しました。\n最初の三泊は、いつでもお越しいただけます。あと3泊。\nCHECK IN"
+    },
+    {
+      "label": "reopen-workbench",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#hotel",
+      "route": "hotel",
+      "viewportText": "NIKO² ATELIER\nFRONT DESK / ROOM 0317\n今夜も、同じ部屋をご用意しました。\n最初の三泊は、いつでもお越しいただけます。あと3泊。\nCHECK IN"
+    },
+    {
+      "label": "final",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#hotel",
+      "route": "hotel",
+      "viewportText": "NIKO² ATELIER\nFRONT DESK / ROOM 0317\n今夜も、同じ部屋をご用意しました。\n最初の三泊は、いつでもお越しいただけます。あと3泊。\nCHECK IN",
+      "screenshot": "004-final.jpg"
+    }
+  ],
+  "errors": [],
+  "httpErrors": [
+    {
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/api/identity",
+      "status": 404
+    }
+  ]
+}

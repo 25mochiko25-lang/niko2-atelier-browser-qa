@@ -1,0 +1,120 @@
+{
+  "label": "reopen-workbench",
+  "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#hotel",
+  "route": "hotel",
+  "viewportText": "NIKO² ATELIER\nFRONT DESK / ROOM 0317\n今夜も、同じ部屋をご用意しました。\n最初の三泊は、いつでもお越しいただけます。あと3泊。\nCHECK IN",
+  "renderedBodyText": "作品へ移動\nNIKO² ATELIER\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDREAM / ROOM 0317\nHOTEL SOMNIA\nSTAY 0 / 3\nFRONT DESK / ROOM 0317\n今夜も、同じ部屋をご用意しました。\n\n最初の三泊は、いつでもお越しいただけます。あと3泊。\n\nCHECK IN\n\n\n",
+  "controls": [
+    {
+      "tag": "A",
+      "id": "",
+      "cls": "skip-link",
+      "text": "作品へ移動",
+      "ariaLabel": null,
+      "type": null,
+      "href": "#main",
+      "disabled": false,
+      "rect": {
+        "x": 8,
+        "y": -61,
+        "w": 108,
+        "h": 43
+      },
+      "onScreen": false,
+      "hit": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "cls": "wordmark",
+      "text": "NIKO² ATELIER",
+      "ariaLabel": "NIKO² ATELIER ホームへ",
+      "type": null,
+      "href": "#home",
+      "disabled": false,
+      "rect": {
+        "x": 25,
+        "y": 23,
+        "w": 124,
+        "h": 29
+      },
+      "onScreen": true,
+      "hit": true
+    },
+    {
+      "tag": "BUTTON",
+      "id": "soundToggle",
+      "cls": "sound-toggle",
+      "text": "音をオンにする",
+      "ariaLabel": "音をオンにする",
+      "type": "button",
+      "href": null,
+      "disabled": false,
+      "rect": {
+        "x": 332,
+        "y": 14,
+        "w": 44,
+        "h": 44
+      },
+      "onScreen": true,
+      "hit": true
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "cls": "",
+      "text": "アトリエへ戻る",
+      "ariaLabel": "アトリエへ戻る",
+      "type": null,
+      "href": "#home",
+      "disabled": false,
+      "rect": {
+        "x": 14,
+        "y": 82,
+        "w": 40,
+        "h": 40
+      },
+      "onScreen": true,
+      "hit": true
+    },
+    {
+      "tag": "BUTTON",
+      "id": "hotelCheckIn",
+      "cls": "",
+      "text": "CHECK IN",
+      "ariaLabel": "チェックインする",
+      "type": "button",
+      "href": null,
+      "disabled": false,
+      "rect": {
+        "x": 36,
+        "y": 708,
+        "w": 116,
+        "h": 46
+      },
+      "onScreen": true,
+      "hit": true
+    }
+  ],
+  "artwork": [
+    {
+      "tag": "IMG",
+      "id": "",
+      "cls": "prototype-stage-art hotel-base-art",
+      "alt": "雨の夜空を望む青紫のホテル客室。銀のトレイ、電話、封筒が静かに置かれている",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 390,
+        "h": 844
+      }
+    }
+  ],
+  "scroll": {
+    "x": 0,
+    "y": 0,
+    "h": 844
+  },
+  "scrollContainers": [],
+  "dialogs": []
+}
