@@ -1,7 +1,8 @@
 {
-  "id": "a78",
-  "op": "key",
-  "key": "PageUp",
-  "note": "Returning to the diary's visible hotel-return banner to finish the stay.",
-  "wait": 700
+  "id": "a79",
+  "op": "tap",
+  "x": 284,
+  "y": 277,
+  "note": "Following the hotel-return banner to check out of the room I left open.",
+  "wait": 1100
 }
