@@ -1,8 +1,8 @@
 {
-  "id": "049-read-hotel-record",
+  "id": "050-close-hotel-record",
   "op": "tap",
-  "x": 190,
-  "y": 253,
-  "wait": 850,
-  "note": "I want the hotel entry itself; the original bear memory is still visible beneath it."
+  "x": 337,
+  "y": 77,
+  "wait": 550,
+  "note": "The record contains the room photograph and ROOM 000 key, but I do not yet see what door it opens. I want to explore the wider atelier next."
 }
