@@ -1,8 +1,8 @@
 {
-  "id": "062-channel-index",
+  "id": "063-lavender-bbs",
   "op": "tap",
-  "x": 70,
-  "y": 486,
-  "wait": 550,
-  "note": "The returned-but-still-pocketed hotel key and the future autosave date are wonderfully odd. I want another page from this small internet."
+  "x": 196,
+  "y": 671,
+  "wait": 650,
+  "note": "An old-fashioned bulletin board suggests little conversations or traces of other visitors. I want to read Lavender BBS."
 }
