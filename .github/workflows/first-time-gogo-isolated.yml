@@ -19,7 +19,7 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 22
-      - name: Prepare isolated continuation
+      - name: Prepare branch-isolated continuation
         run: |
           cat > /tmp/session.json <<'JSON'
           {"session":"first-time-gogo-isolated-002","target":"https://niko2-atelier-combined-preview.25mochiko25.workers.dev/","replay":{"path":"live-results/first-time-visual-001/state.json","ref":"341c1cc83f8b06e165d26a5915eb92f4b311e92d","through":"14","expectedHash":"#quiet"}}
