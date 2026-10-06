@@ -1,1 +1,1 @@
-{"id":"00","op":"look","wait":1500,"note":"View the actual screen through the supported image artifact before choosing an action."}
+{"id":"00b","op":"look","wait":1000,"note":"Request image delivery now that the live browser is ready."}
