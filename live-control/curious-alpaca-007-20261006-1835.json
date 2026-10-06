@@ -1,8 +1,7 @@
 {
-  "id": "a81",
-  "op": "tap",
-  "x": 268,
-  "y": 480,
-  "note": "The hotel confirms check-out and stay 1/3. I want one last look at the memories from this completed visit.",
-  "wait": 1000
+  "id": "a82",
+  "op": "key",
+  "key": "PageDown",
+  "note": "Looking at the final two saved memories after check-out; this is the place I want to leave the visit.",
+  "wait": 700
 }
