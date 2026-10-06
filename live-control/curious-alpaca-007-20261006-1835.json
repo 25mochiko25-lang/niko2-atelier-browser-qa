@@ -1,8 +1,7 @@
 {
-  "id": "a52",
-  "op": "tap",
-  "x": 91,
-  "y": 37,
-  "note": "Returning through the visible atelier title to find another room.",
-  "wait": 1000
+  "id": "a53",
+  "op": "key",
+  "key": "PageDown",
+  "note": "I see WORLD beginning below the entrance, so I want to look farther down the Home page.",
+  "wait": 800
 }
