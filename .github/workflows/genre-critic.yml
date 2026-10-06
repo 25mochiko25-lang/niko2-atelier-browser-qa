@@ -55,8 +55,8 @@ jobs:
       - name: Run genre-savvy critic
         env:
           PLAYWRIGHT_MODULE: /tmp/niko2-browser-qa/node_modules/playwright
-          TARGET: \${{ steps.req.outputs.target }}
-          REQUEST: \${{ steps.req.outputs.request }}
+          TARGET: ${{ steps.req.outputs.target }}
+          REQUEST: ${{ steps.req.outputs.request }}
           OUTDIR: qa-output/genre-critic
         run: |
           set -o pipefail
@@ -67,14 +67,14 @@ jobs:
         shell: bash
         run: |
           set -euo pipefail
-          NAME="\${{ steps.req.outputs.request }}"
-          DEST="results/\${{ github.run_id }}-$NAME"
+          NAME="${{ steps.req.outputs.request }}"
+          DEST="results/${{ github.run_id }}-$NAME"
           mkdir -p "$DEST"
           if [ -d qa-output/genre-critic ]; then
             cp -f qa-output/genre-critic/* "$DEST"/ 2>/dev/null || true
           fi
           if [ ! -f "$DEST/observations.json" ]; then
-            printf '{"fatal":"genre critic runner produced no observations","runId":"%s"}\n' "\${{ github.run_id }}" > "$DEST/observations.json"
+            printf '{"fatal":"genre critic runner produced no observations","runId":"%s"}\n' "${{ github.run_id }}" > "$DEST/observations.json"
           fi
 
           git config user.name "niko2-browser-qa"
