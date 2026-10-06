@@ -1,8 +1,8 @@
 {
-  "id": "007-intro-next",
+  "id": "008-into-dream",
   "op": "tap",
-  "x": 335,
+  "x": 331,
   "y": 770,
-  "wait": 1000,
-  "note": "The three samples now have their own colors; I am ready to see the next page."
+  "wait": 1700,
+  "note": "The pearly circular doorway looks like a place I want to pass through. Enter the dream."
 }
