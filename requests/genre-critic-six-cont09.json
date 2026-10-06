@@ -1,0 +1,19 @@
+{
+  "mode":"guided-continuation",
+  "persona":"genre-fan",
+  "target":"https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+  "storageState":"results/37510390068-genre-critic-six-cont03/storage-state.json",
+  "sessionStorage":"results/37510390068-genre-critic-six-cont03/session-storage.json",
+  "actions":[
+    {"kind":"tap","selector":"#enterGarden","label":"enter-perfume-dream","wait":1800},
+    {"kind":"tap","selector":"#enterPerfumeWorkbench","label":"open-workbench","wait":1500},
+    {"kind":"tap","name":"雨をTOPへ加える","label":"rain-in-top","wait":900,"picture":true},
+    {"kind":"tap","name":"02.*MIDDLE","regex":true,"label":"select-middle"},
+    {"kind":"tap","name":"紅茶の渋みをMIDDLEへ加える","label":"tea-in-middle","wait":900},
+    {"kind":"tap","name":"03.*LAST","regex":true,"label":"select-last"},
+    {"kind":"tap","name":"燃えた砂糖をLASTへ加える","label":"burnt-sugar-in-last","wait":900,"picture":true},
+    {"kind":"tap","name":"Parfum.*記憶の濃度","regex":true,"label":"choose-parfum","picture":true},
+    {"kind":"tap","selector":"#composePerfume","label":"compose-chosen-perfume","wait":12000,"picture":true},
+    {"kind":"scroll","dy":450,"label":"read-result-and-response","picture":true}
+  ]
+}
