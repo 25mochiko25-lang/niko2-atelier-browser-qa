@@ -10,7 +10,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: public-browser-qa-writer
+  group: public-browser-qa-genre
   cancel-in-progress: false
 
 jobs:
