@@ -1,8 +1,8 @@
 {
-  "id": "039-another-dish",
+  "id": "040-order-room000",
   "op": "tap",
-  "x": 195,
-  "y": 740,
-  "wait": 650,
-  "note": "This is the best surprise so far: Yesterday served the exact sentence I had just written in Diary. I want another item now because the room is using my own visit."
+  "x": 180,
+  "y": 559,
+  "wait": 1100,
+  "note": "ROOM 000 is listed as a dish and costs one memory. After Yesterday actually used my diary, I cannot leave that unexplored."
 }
