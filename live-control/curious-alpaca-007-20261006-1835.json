@@ -1,8 +1,8 @@
 {
-  "id": "a33",
+  "id": "a34",
   "op": "tap",
-  "x": 236,
-  "y": 375,
-  "note": "I choose Research Lab because records left about this world sound like another way to follow the strange key and addressless city.",
-  "wait": 1100
+  "x": 112,
+  "y": 645,
+  "note": "A cloud in a bell jar and cloud diagrams on a monitor make this room look like someone is seriously studying something absurd. Entering.",
+  "wait": 1000
 }
