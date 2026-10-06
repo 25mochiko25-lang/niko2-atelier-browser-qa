@@ -1,7 +1,8 @@
 {
-  "id": "070-inner-page-down",
-  "op": "key",
-  "key": "PageDown",
-  "wait": 500,
-  "note": "Continue down inside the focused fictional web page to inspect the newly restored line."
+  "id": "071-restored-page",
+  "op": "tap",
+  "x": 193,
+  "y": 670,
+  "wait": 750,
+  "note": "The restored line is a real new link, in a differently outlined box. I want to open mirror/last_seen.html."
 }
