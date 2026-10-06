@@ -1,8 +1,7 @@
 {
-  "id": "a58",
-  "op": "tap",
-  "x": 215,
-  "y": 573,
-  "note": "A lavender floppy disk in the open drawer catches my eye. I want to know whether it holds something.",
-  "wait": 900
+  "id": "a59",
+  "op": "key",
+  "key": "PageDown",
+  "note": "The floppy disk did not visibly respond. I want to look below the drawer image for the actual cabinet contents.",
+  "wait": 800
 }
