@@ -1,8 +1,8 @@
 {
-  "id": "042-hotel-close-menu",
+  "id": "043-hotel-phone",
   "op": "tap",
-  "x": 356,
-  "y": 642,
+  "x": 24,
+  "y": 453,
   "wait": 600,
-  "note": "I want to look at the room without the menu covering it, especially the telephone and cabinet door."
+  "note": "The cream-colored telephone on the table looks like something I might call Room 000 with, so I want to try touching it."
 }
