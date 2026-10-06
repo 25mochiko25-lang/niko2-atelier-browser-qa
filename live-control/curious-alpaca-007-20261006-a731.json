@@ -1,8 +1,8 @@
 {
-  "id": "054-room-null",
+  "id": "055-see-room",
   "op": "tap",
-  "x": 328,
-  "y": 400,
-  "wait": 1000,
-  "note": "The warm curtained doorway on the right is the one I want to enter. Its label says ROOM NULL, which makes me wonder what an empty room contains."
+  "x": 195,
+  "y": 476,
+  "wait": 850,
+  "note": "This room says it remembers me and grows from what remains. I want to see whether my thread and hotel key have a place here."
 }
