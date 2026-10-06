@@ -1,8 +1,8 @@
 {
-  "id": "a04",
+  "id": "a05",
   "op": "tap",
-  "x": 270,
-  "y": 538,
-  "note": "Shimaiu is a more intimate word than save; I want to see how this little sample answers.",
-  "wait": 200
+  "x": 335,
+  "y": 771,
+  "note": "The samples change color. I want to get into the actual place now.",
+  "wait": 900
 }
