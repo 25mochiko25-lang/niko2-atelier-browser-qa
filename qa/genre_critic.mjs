@@ -220,6 +220,22 @@ async function firstDream(page) {
     const pg = page.locator('#niko2FirstDreamIntro .niko2-intro-page:not([hidden])').first();
     if (!await pg.isVisible().catch(()=>false)) break;
     await snap(page,'first-dream-intro-'+(i+1));
+
+    const concepts = pg.locator('.niko2-intro-concept-button:visible');
+    const cn = await concepts.count();
+    if (cn) {
+      let selected=false;
+      for(let j=0;j<cn;j++){
+        const cls=await concepts.nth(j).getAttribute('class');
+        if(/\bis-selected\b/.test(cls||'')){ selected=true; break; }
+      }
+      if(!selected){
+        const pick=concepts.nth(Math.min(1,cn-1));
+        await event(page,'choose one intro interaction concept',()=>pick.tap({timeout:5000}),300);
+        await snap(page,'first-dream-interaction-selected');
+      }
+    }
+
     const primary = pg.locator('.niko2-intro-primary').first();
     if (!await primary.isVisible().catch(()=>false)) break;
     await event(page,'advance first-dream intro '+(i+1),()=>primary.tap({timeout:5000}),380);
