@@ -1,8 +1,8 @@
 {
-  "id": "057-cabinet-key",
+  "id": "058-cabinet-back",
   "op": "tap",
-  "x": 284,
-  "y": 551,
+  "x": 36,
+  "y": 110,
   "wait": 700,
-  "note": "The drawer contains a ribboned key, tiny bottle, pearl-like object, and paper. I want to touch the key and see whether this is where my collected objects can be revisited."
+  "note": "The key did not open any detail here. The drawer is pleasant to look at, but I was hoping to handle its objects. I want to try the room's computer next."
 }
