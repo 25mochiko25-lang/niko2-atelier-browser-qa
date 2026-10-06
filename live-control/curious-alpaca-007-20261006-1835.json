@@ -1,7 +1,8 @@
 {
-  "id": "a59",
-  "op": "key",
-  "key": "PageDown",
-  "note": "The floppy disk did not visibly respond. I want to look below the drawer image for the actual cabinet contents.",
-  "wait": 800
+  "id": "a60",
+  "op": "tap",
+  "x": 35,
+  "y": 111,
+  "note": "The cabinet stayed as a drawer image, and I did not find my tile or an object response here. Returning to try the laptop instead.",
+  "wait": 900
 }
