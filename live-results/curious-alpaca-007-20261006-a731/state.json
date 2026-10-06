@@ -5,19 +5,18 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-06T18:33:15.438Z",
-  "updatedAt": "2026-10-06T18:57:05.057Z",
-  "lastCommand": "067-webring-random",
+  "updatedAt": "2026-10-06T18:57:26.764Z",
+  "lastCommand": "068-channel-lower-links",
   "stopReason": null,
   "action": {
-    "id": "067-webring-random",
-    "op": "tap",
-    "x": 195,
-    "y": 378,
-    "wait": 650,
-    "note": "A web ring whose absent owner left it circling is exactly the kind of strange detour I like. I want to let RANDOM choose a page once."
+    "id": "068-channel-lower-links",
+    "op": "key",
+    "key": "PageDown",
+    "wait": 500,
+    "note": "The directory now includes a RESTORED mirror/last_seen.html line below the original links. I want to inspect the newly appeared lower part."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/c02fd07db0d0a48cff2418774fe43f4b976f879b/live-results/curious-alpaca-007-20261006-a731/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/ee9aa4572824267b952b4ea65e40a0da76118bec/live-results/curious-alpaca-007-20261006-a731/current.jpg",
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#channel0",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -1310,6 +1309,21 @@
       "error": null,
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#channel0",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/c02fd07db0d0a48cff2418774fe43f4b976f879b/live-results/curious-alpaca-007-20261006-a731/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCHANNEL / CH-00\nCHANNEL 00\n5 pages\n‹\n›\n⌂\nchannel00://home/index.html\n×\nCHANNEL 00 LINK DIRECTORY\nYOU ARE VISITOR No. 0001\n\nようこそ、存在しなかったインターネットへ。\n\n好きなリンクからどうぞ。戻れなくなることは、たぶんありません。\n\nMARI'S PRESSED FLOWERS\nsodaの日記\nCloud Garden Weather\nHotel Somnia 公式頁\nLavender BBS\nMoonlight Web Ring\nNIKO² ATELIER / old\nlost_page.html\nRESTORED: mirror/last_seen.html\n\ncached page changed / connection stable\n閲覧の断片を持ち帰る\n\n\n\n\n\n"
+    },
+    {
+      "number": 69,
+      "at": "2026-10-06T18:57:26.764Z",
+      "action": {
+        "id": "068-channel-lower-links",
+        "op": "key",
+        "key": "PageDown",
+        "wait": 500,
+        "note": "The directory now includes a RESTORED mirror/last_seen.html line below the original links. I want to inspect the newly appeared lower part."
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#channel0",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/ee9aa4572824267b952b4ea65e40a0da76118bec/live-results/curious-alpaca-007-20261006-a731/current.jpg",
       "text": "作品へ移動\nNIKO² ATELIER\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCHANNEL / CH-00\nCHANNEL 00\n5 pages\n‹\n›\n⌂\nchannel00://home/index.html\n×\nCHANNEL 00 LINK DIRECTORY\nYOU ARE VISITOR No. 0001\n\nようこそ、存在しなかったインターネットへ。\n\n好きなリンクからどうぞ。戻れなくなることは、たぶんありません。\n\nMARI'S PRESSED FLOWERS\nsodaの日記\nCloud Garden Weather\nHotel Somnia 公式頁\nLavender BBS\nMoonlight Web Ring\nNIKO² ATELIER / old\nlost_page.html\nRESTORED: mirror/last_seen.html\n\ncached page changed / connection stable\n閲覧の断片を持ち帰る\n\n\n\n\n\n"
     }
   ]
