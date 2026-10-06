@@ -5,19 +5,19 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-06T18:42:49.473Z",
-  "updatedAt": "2026-10-06T18:52:23.056Z",
-  "lastCommand": "r08",
+  "updatedAt": "2026-10-06T18:53:22.815Z",
+  "lastCommand": "r09",
   "stopReason": null,
   "action": {
-    "id": "r08",
+    "id": "r09",
     "op": "tap",
-    "x": 110,
-    "y": 648,
-    "wait": 1300,
-    "note": "The cloud specimen jar and laboratory screen make this feel different from the outdoor garden. The Enter button is clear, although I have now passed another threshold before the actual activity. Go inside."
+    "x": 82,
+    "y": 570,
+    "wait": 1200,
+    "note": "Inside is a room image without obvious text controls. The large pink book in the foreground looks like the most natural way to read the promised records, so I try it before the door."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/19b518823b8430968e14bc2637cfa44c3ad4ee37/live-results/first-time-gogo-isolated-002/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/d8d2f722fc464881b681061ca5e80e2586fc393d/live-results/first-time-gogo-isolated-002/current.jpg",
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#lab",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -29,7 +29,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\nNIKO² ATELIER\n\n\n\n白と薄水色のガラス研究所。奥へ続く通路と、記録の置かれた観測台があります。\nMAIN LAB\n観測台\n\n\n\n観測台奥の保管室へ進む\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+  "text": "作品へ移動\nNIKO² ATELIER\n\n\n\n白と薄水色のガラス研究所。奥へ続く通路と、記録の置かれた観測台があります。\nMAIN LAB\n観測台\n\n\n\n観測台奥の保管室へ進む\nREADING TABLE\n\nON THE TABLE\nいま読める記録\n\n\n記録 01\n所有者のいない記憶\n忘れられたあとも、記憶は残るのか。\n読む\n\n\n記録 02\n停止されなかった庭\n実験終了後も、環境だけが咲き続けている。\n読む\n\n\n記録 03\n白い試料 M-00\n本人は、アルパカだと報告している。\n読む\n\n\n記録 04\n管理業務用の付け髭\n威厳への効果は、まだ確認されていない。\n読む\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
   "controls": [
     {
       "tag": "A",
@@ -95,6 +95,61 @@
         "y": 574,
         "w": 65,
         "h": 88
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "観測台を閉じる",
+      "disabled": false,
+      "rect": {
+        "x": 337,
+        "y": 137,
+        "w": 44,
+        "h": 44
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "記録 01\n所有者のいない記憶\n忘れられたあとも、記憶は残るのか。\n読む",
+      "disabled": false,
+      "rect": {
+        "x": 23,
+        "y": 260,
+        "w": 344,
+        "h": 86
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "記録 02\n停止されなかった庭\n実験終了後も、環境だけが咲き続けている。\n読む",
+      "disabled": false,
+      "rect": {
+        "x": 23,
+        "y": 346,
+        "w": 344,
+        "h": 86
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "記録 03\n白い試料 M-00\n本人は、アルパカだと報告している。\n読む",
+      "disabled": false,
+      "rect": {
+        "x": 23,
+        "y": 432,
+        "w": 344,
+        "h": 86
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "記録 04\n管理業務用の付け髭\n威厳への効果は、まだ確認されていない。\n読む",
+      "disabled": false,
+      "rect": {
+        "x": 23,
+        "y": 518,
+        "w": 344,
+        "h": 86
       }
     }
   ],
@@ -506,6 +561,22 @@
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#lab",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/19b518823b8430968e14bc2637cfa44c3ad4ee37/live-results/first-time-gogo-isolated-002/current.jpg",
       "text": "作品へ移動\nNIKO² ATELIER\n\n\n\n白と薄水色のガラス研究所。奥へ続く通路と、記録の置かれた観測台があります。\nMAIN LAB\n観測台\n\n\n\n観測台奥の保管室へ進む\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+      "number": 25,
+      "at": "2026-10-06T18:53:22.815Z",
+      "action": {
+        "id": "r09",
+        "op": "tap",
+        "x": 82,
+        "y": 570,
+        "wait": 1200,
+        "note": "Inside is a room image without obvious text controls. The large pink book in the foreground looks like the most natural way to read the promised records, so I try it before the door."
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#lab",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/d8d2f722fc464881b681061ca5e80e2586fc393d/live-results/first-time-gogo-isolated-002/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\n\n\n\n白と薄水色のガラス研究所。奥へ続く通路と、記録の置かれた観測台があります。\nMAIN LAB\n観測台\n\n\n\n観測台奥の保管室へ進む\nREADING TABLE\n\nON THE TABLE\nいま読める記録\n\n\n記録 01\n所有者のいない記憶\n忘れられたあとも、記憶は残るのか。\n読む\n\n\n記録 02\n停止されなかった庭\n実験終了後も、環境だけが咲き続けている。\n読む\n\n\n記録 03\n白い試料 M-00\n本人は、アルパカだと報告している。\n読む\n\n\n記録 04\n管理業務用の付け髭\n威厳への効果は、まだ確認されていない。\n読む\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
     }
   ]
 }
