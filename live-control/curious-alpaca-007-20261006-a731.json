@@ -1,8 +1,8 @@
 {
-  "id": "032-home",
+  "id": "033-after-garden-next",
   "op": "tap",
-  "x": 72,
-  "y": 79,
-  "wait": 1000,
-  "note": "I want to see what Home contains after bringing something back from the dream."
+  "x": 335,
+  "y": 770,
+  "wait": 650,
+  "note": "A short After the Garden card appeared on returning Home. I want to pass through it to find the other rooms."
 }
