@@ -1,7 +1,7 @@
 name: Live observer image delivery
 on:
   push:
-    branches: [main]
+    branches: [qa/first-time-gogo-isolated-002]
     paths: ['live-control/*.json']
 permissions:
   contents: write
@@ -25,11 +25,12 @@ jobs:
           echo "QA_SESSION=$SESSION" >> "$GITHUB_ENV"
           echo "QA_COMMAND=$COMMAND" >> "$GITHUB_ENV"
           mkdir -p observation
-          for attempt in $(seq 1 40); do
-            curl -fsS -H "Authorization: Bearer $GH_TOKEN" -H 'Accept: application/vnd.github.raw+json' "https://api.github.com/repos/$GITHUB_REPOSITORY/contents/live-results/$SESSION/state.json?ref=main" > observation/state.json
-            if [ "$(jq -r '.lastCommand' observation/state.json)" = "$COMMAND" ]; then
-              curl -fsSL "$(jq -r '.screenshotUrl' observation/state.json)" -o observation/current.jpg
-              exit 0
+          for attempt in $(seq 1 60); do
+            if curl -fsS -H "Authorization: Bearer $GH_TOKEN" -H 'Accept: application/vnd.github.raw+json' "https://api.github.com/repos/$GITHUB_REPOSITORY/contents/live-results/$SESSION/state.json?ref=qa%2Ffirst-time-gogo-isolated-002" > observation/state.json; then
+              if [ "$(jq -r '.lastCommand' observation/state.json)" = "$COMMAND" ]; then
+                curl -fsSL "$(jq -r '.screenshotUrl' observation/state.json)" -o observation/current.jpg
+                exit 0
+              fi
             fi
             sleep 2
           done
@@ -49,5 +50,5 @@ jobs:
             const path = `live-results/${process.env.QA_SESSION}/delivery.json`;
             const content = JSON.stringify({session:process.env.QA_SESSION,command:process.env.QA_COMMAND,runId:context.runId,artifactId:Number(process.env.ARTIFACT_ID)},null,2);
             let sha;
-            try {sha=(await github.rest.repos.getContent({...context.repo,path,ref:'main'})).data.sha;}catch(e){if(e.status!==404)throw e;}
-            await github.rest.repos.createOrUpdateFileContents({...context.repo,path,branch:'main',message:'qa: image delivery receipt',content:Buffer.from(content).toString('base64'),...(sha?{sha}:{})});
+            try {sha=(await github.rest.repos.getContent({...context.repo,path,ref:'qa/first-time-gogo-isolated-002'})).data.sha;}catch(e){if(e.status!==404)throw e;}
+            await github.rest.repos.createOrUpdateFileContents({...context.repo,path,branch:'qa/first-time-gogo-isolated-002',message:'qa: image delivery receipt',content:Buffer.from(content).toString('base64'),...(sha?{sha}:{})});
