@@ -1,8 +1,8 @@
 {
-  "id": "a61",
+  "id": "a62",
   "op": "tap",
-  "x": 60,
-  "y": 367,
-  "note": "The little laptop on the bedside table says CHANNEL 00. I want to turn toward that little screen.",
-  "wait": 1100
+  "x": 195,
+  "y": 484,
+  "note": "'An internet that never existed' is a very strong invitation. I want to power on this old translucent computer.",
+  "wait": 2000
 }
