@@ -1,6 +1,8 @@
 {
-  "id": "001-arrival",
-  "op": "look",
+  "id": "002-enter",
+  "op": "tap",
+  "x": 195,
+  "y": 529,
   "wait": 1800,
-  "note": "Open the fresh page and look at what is actually visible before choosing anything."
+  "note": "The long pink jewel is the first thing I wanted to touch. Enter the dream."
 }
