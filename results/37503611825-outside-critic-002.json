@@ -1,0 +1,4856 @@
+{
+  "target": "https://niko2atelier.com/",
+  "persona": "outside-critic",
+  "seed": "outside-critic-002",
+  "maxSteps": 26,
+  "startedAt": "2026-10-06T17:27:43.976Z",
+  "engine": "webkit",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "touch": true,
+  "events": [
+    {
+      "kind": "tap",
+      "label": "step-1-tap",
+      "target": {
+        "text": "次へ",
+        "id": "",
+        "cls": "niko2-intro-primary",
+        "href": "",
+        "rect": {
+          "x": 304,
+          "y": 780,
+          "w": 72,
+          "h": 44
+        }
+      },
+      "error": null,
+      "before": {
+        "url": "https://niko2atelier.com/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      },
+      "after": {
+        "url": "https://niko2atelier.com/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      }
+    },
+    {
+      "kind": "tap",
+      "label": "step-2-tap",
+      "target": {
+        "text": "持ち帰る",
+        "id": "",
+        "cls": "niko2-intro-concept-button",
+        "href": "",
+        "rect": {
+          "x": 151,
+          "y": 422,
+          "w": 88,
+          "h": 46
+        }
+      },
+      "error": null,
+      "before": {
+        "url": "https://niko2atelier.com/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      },
+      "after": {
+        "url": "https://niko2atelier.com/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      }
+    },
+    {
+      "kind": "tap",
+      "label": "step-3-tap",
+      "target": {
+        "text": "持ち帰る",
+        "id": "",
+        "cls": "niko2-intro-concept-button is-selected",
+        "href": "",
+        "rect": {
+          "x": 151,
+          "y": 422,
+          "w": 88,
+          "h": 46
+        }
+      },
+      "error": null,
+      "before": {
+        "url": "https://niko2atelier.com/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      },
+      "after": {
+        "url": "https://niko2atelier.com/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      }
+    },
+    {
+      "kind": "scroll-4",
+      "error": null,
+      "before": {
+        "url": "https://niko2atelier.com/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      },
+      "after": {
+        "url": "https://niko2atelier.com/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      }
+    },
+    {
+      "kind": "tap",
+      "label": "step-5-tap",
+      "target": {
+        "text": "持ち帰る",
+        "id": "",
+        "cls": "niko2-intro-concept-button",
+        "href": "",
+        "rect": {
+          "x": 151,
+          "y": 422,
+          "w": 88,
+          "h": 46
+        }
+      },
+      "error": null,
+      "before": {
+        "url": "https://niko2atelier.com/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      },
+      "after": {
+        "url": "https://niko2atelier.com/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      }
+    },
+    {
+      "kind": "tap",
+      "label": "step-6-tap",
+      "target": {
+        "text": "持ち帰る",
+        "id": "",
+        "cls": "niko2-intro-concept-button is-selected",
+        "href": "",
+        "rect": {
+          "x": 151,
+          "y": 422,
+          "w": 88,
+          "h": 46
+        }
+      },
+      "error": null,
+      "before": {
+        "url": "https://niko2atelier.com/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      },
+      "after": {
+        "url": "https://niko2atelier.com/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      }
+    },
+    {
+      "kind": "tap",
+      "label": "step-7-tap",
+      "target": {
+        "text": "持ち帰る",
+        "id": "",
+        "cls": "niko2-intro-concept-button",
+        "href": "",
+        "rect": {
+          "x": 151,
+          "y": 422,
+          "w": 88,
+          "h": 46
+        }
+      },
+      "error": null,
+      "before": {
+        "url": "https://niko2atelier.com/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      },
+      "after": {
+        "url": "https://niko2atelier.com/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      }
+    },
+    {
+      "kind": "scroll-8",
+      "error": null,
+      "before": {
+        "url": "https://niko2atelier.com/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      },
+      "after": {
+        "url": "https://niko2atelier.com/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      }
+    },
+    {
+      "kind": "tap",
+      "label": "step-9-tap",
+      "target": {
+        "text": "持ち帰る",
+        "id": "",
+        "cls": "niko2-intro-concept-button is-selected",
+        "href": "",
+        "rect": {
+          "x": 151,
+          "y": 422,
+          "w": 88,
+          "h": 46
+        }
+      },
+      "error": null,
+      "before": {
+        "url": "https://niko2atelier.com/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      },
+      "after": {
+        "url": "https://niko2atelier.com/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      }
+    },
+    {
+      "kind": "back-10",
+      "error": null,
+      "before": {
+        "url": "https://niko2atelier.com/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      },
+      "after": {
+        "url": "about:blank",
+        "route": null,
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 980,
+          "height": 2121
+        }
+      }
+    },
+    {
+      "kind": "no-target-scroll-11",
+      "error": null,
+      "before": {
+        "url": "about:blank",
+        "route": null,
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 980,
+          "height": 2121
+        }
+      },
+      "after": {
+        "url": "about:blank",
+        "route": null,
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 980,
+          "height": 2121
+        }
+      }
+    },
+    {
+      "kind": "scroll-12",
+      "error": null,
+      "before": {
+        "url": "about:blank",
+        "route": null,
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 980,
+          "height": 2121
+        }
+      },
+      "after": {
+        "url": "about:blank",
+        "route": null,
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 980,
+          "height": 2121
+        }
+      }
+    },
+    {
+      "kind": "no-target-scroll-13",
+      "error": null,
+      "before": {
+        "url": "about:blank",
+        "route": null,
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 980,
+          "height": 2121
+        }
+      },
+      "after": {
+        "url": "about:blank",
+        "route": null,
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 980,
+          "height": 2121
+        }
+      }
+    },
+    {
+      "kind": "no-target-scroll-14",
+      "error": null,
+      "before": {
+        "url": "about:blank",
+        "route": null,
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 980,
+          "height": 2121
+        }
+      },
+      "after": {
+        "url": "about:blank",
+        "route": null,
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 980,
+          "height": 2121
+        }
+      }
+    },
+    {
+      "kind": "no-target-scroll-15",
+      "error": null,
+      "before": {
+        "url": "about:blank",
+        "route": null,
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 980,
+          "height": 2121
+        }
+      },
+      "after": {
+        "url": "about:blank",
+        "route": null,
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 980,
+          "height": 2121
+        }
+      }
+    },
+    {
+      "kind": "no-target-scroll-16",
+      "error": null,
+      "before": {
+        "url": "about:blank",
+        "route": null,
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 980,
+          "height": 2121
+        }
+      },
+      "after": {
+        "url": "about:blank",
+        "route": null,
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 980,
+          "height": 2121
+        }
+      }
+    },
+    {
+      "kind": "no-target-scroll-17",
+      "error": null,
+      "before": {
+        "url": "about:blank",
+        "route": null,
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 980,
+          "height": 2121
+        }
+      },
+      "after": {
+        "url": "about:blank",
+        "route": null,
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 980,
+          "height": 2121
+        }
+      }
+    },
+    {
+      "kind": "no-target-scroll-18",
+      "error": null,
+      "before": {
+        "url": "about:blank",
+        "route": null,
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 980,
+          "height": 2121
+        }
+      },
+      "after": {
+        "url": "about:blank",
+        "route": null,
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 980,
+          "height": 2121
+        }
+      }
+    },
+    {
+      "kind": "no-target-scroll-19",
+      "error": null,
+      "before": {
+        "url": "about:blank",
+        "route": null,
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 980,
+          "height": 2121
+        }
+      },
+      "after": {
+        "url": "about:blank",
+        "route": null,
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 980,
+          "height": 2121
+        }
+      }
+    },
+    {
+      "kind": "no-target-scroll-20",
+      "error": null,
+      "before": {
+        "url": "about:blank",
+        "route": null,
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 980,
+          "height": 2121
+        }
+      },
+      "after": {
+        "url": "about:blank",
+        "route": null,
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 980,
+          "height": 2121
+        }
+      }
+    },
+    {
+      "kind": "no-target-scroll-21",
+      "error": null,
+      "before": {
+        "url": "about:blank",
+        "route": null,
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 980,
+          "height": 2121
+        }
+      },
+      "after": {
+        "url": "about:blank",
+        "route": null,
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 980,
+          "height": 2121
+        }
+      }
+    },
+    {
+      "kind": "no-target-scroll-22",
+      "error": null,
+      "before": {
+        "url": "about:blank",
+        "route": null,
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 980,
+          "height": 2121
+        }
+      },
+      "after": {
+        "url": "about:blank",
+        "route": null,
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 980,
+          "height": 2121
+        }
+      }
+    },
+    {
+      "kind": "no-target-scroll-23",
+      "error": null,
+      "before": {
+        "url": "about:blank",
+        "route": null,
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 980,
+          "height": 2121
+        }
+      },
+      "after": {
+        "url": "about:blank",
+        "route": null,
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 980,
+          "height": 2121
+        }
+      }
+    },
+    {
+      "kind": "no-target-scroll-24",
+      "error": null,
+      "before": {
+        "url": "about:blank",
+        "route": null,
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 980,
+          "height": 2121
+        }
+      },
+      "after": {
+        "url": "about:blank",
+        "route": null,
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 980,
+          "height": 2121
+        }
+      }
+    },
+    {
+      "kind": "no-target-scroll-25",
+      "error": null,
+      "before": {
+        "url": "about:blank",
+        "route": null,
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 980,
+          "height": 2121
+        }
+      },
+      "after": {
+        "url": "about:blank",
+        "route": null,
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 980,
+          "height": 2121
+        }
+      }
+    },
+    {
+      "kind": "no-target-scroll-26",
+      "error": null,
+      "before": {
+        "url": "about:blank",
+        "route": null,
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 980,
+          "height": 2121
+        }
+      },
+      "after": {
+        "url": "about:blank",
+        "route": null,
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 980,
+          "height": 2121
+        }
+      }
+    }
+  ],
+  "snapshots": [
+    {
+      "label": "arrival",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 WORLD 夢の入り口は、毎回すこし違う。 次へ",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "次へ",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 304,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-1-choice",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 WORLD 夢の入り口は、毎回すこし違う。 次へ",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "次へ",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 304,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-1-tap:before",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 WORLD 夢の入り口は、毎回すこし違う。 次へ",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "次へ",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 304,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-1-tap:after",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 INTERACTION 触れる 持ち帰る 仕舞う 次へ戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-concept-button",
+          "text": "触れる",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 55,
+            "y": 422,
+            "w": 88,
+            "h": 46
+          }
+        },
+        {
+          "probe": 3,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-concept-button",
+          "text": "持ち帰る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 151,
+            "y": 422,
+            "w": 88,
+            "h": 46
+          }
+        },
+        {
+          "probe": 4,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-concept-button",
+          "text": "仕舞う",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 247,
+            "y": 422,
+            "w": 88,
+            "h": 46
+          }
+        },
+        {
+          "probe": 5,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "次へ",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 304,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        },
+        {
+          "probe": 6,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-2-choice",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 INTERACTION 触れる 持ち帰る 仕舞う 次へ戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-concept-button",
+          "text": "触れる",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 55,
+            "y": 422,
+            "w": 88,
+            "h": 46
+          }
+        },
+        {
+          "probe": 3,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-concept-button",
+          "text": "持ち帰る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 151,
+            "y": 422,
+            "w": 88,
+            "h": 46
+          }
+        },
+        {
+          "probe": 4,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-concept-button",
+          "text": "仕舞う",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 247,
+            "y": 422,
+            "w": 88,
+            "h": 46
+          }
+        },
+        {
+          "probe": 5,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "次へ",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 304,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        },
+        {
+          "probe": 6,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-2-tap:before",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 INTERACTION 触れる 持ち帰る 仕舞う 次へ戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-concept-button",
+          "text": "触れる",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 55,
+            "y": 422,
+            "w": 88,
+            "h": 46
+          }
+        },
+        {
+          "probe": 3,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-concept-button",
+          "text": "持ち帰る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 151,
+            "y": 422,
+            "w": 88,
+            "h": 46
+          }
+        },
+        {
+          "probe": 4,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-concept-button",
+          "text": "仕舞う",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 247,
+            "y": 422,
+            "w": 88,
+            "h": 46
+          }
+        },
+        {
+          "probe": 5,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "次へ",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 304,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        },
+        {
+          "probe": 6,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-2-tap:after",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 INTERACTION 触れる 持ち帰る 仕舞う 次へ戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-concept-button",
+          "text": "触れる",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 55,
+            "y": 422,
+            "w": 88,
+            "h": 46
+          }
+        },
+        {
+          "probe": 3,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-concept-button is-selected",
+          "text": "持ち帰る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 151,
+            "y": 422,
+            "w": 88,
+            "h": 46
+          }
+        },
+        {
+          "probe": 4,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-concept-button",
+          "text": "仕舞う",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 247,
+            "y": 422,
+            "w": 88,
+            "h": 46
+          }
+        },
+        {
+          "probe": 5,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "次へ",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 304,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        },
+        {
+          "probe": 6,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-3-choice",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 INTERACTION 触れる 持ち帰る 仕舞う 次へ戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-concept-button",
+          "text": "触れる",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 55,
+            "y": 422,
+            "w": 88,
+            "h": 46
+          }
+        },
+        {
+          "probe": 3,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-concept-button is-selected",
+          "text": "持ち帰る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 151,
+            "y": 422,
+            "w": 88,
+            "h": 46
+          }
+        },
+        {
+          "probe": 4,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-concept-button",
+          "text": "仕舞う",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 247,
+            "y": 422,
+            "w": 88,
+            "h": 46
+          }
+        },
+        {
+          "probe": 5,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "次へ",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 304,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        },
+        {
+          "probe": 6,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-3-tap:before",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 INTERACTION 触れる 持ち帰る 仕舞う 次へ戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-concept-button",
+          "text": "触れる",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 55,
+            "y": 422,
+            "w": 88,
+            "h": 46
+          }
+        },
+        {
+          "probe": 3,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-concept-button is-selected",
+          "text": "持ち帰る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 151,
+            "y": 422,
+            "w": 88,
+            "h": 46
+          }
+        },
+        {
+          "probe": 4,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-concept-button",
+          "text": "仕舞う",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 247,
+            "y": 422,
+            "w": 88,
+            "h": 46
+          }
+        },
+        {
+          "probe": 5,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "次へ",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 304,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        },
+        {
+          "probe": 6,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-3-tap:after",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 INTERACTION 触れる 持ち帰る 仕舞う 次へ戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-concept-button",
+          "text": "触れる",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 55,
+            "y": 422,
+            "w": 88,
+            "h": 46
+          }
+        },
+        {
+          "probe": 3,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-concept-button",
+          "text": "持ち帰る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 151,
+            "y": 422,
+            "w": 88,
+            "h": 46
+          }
+        },
+        {
+          "probe": 4,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-concept-button",
+          "text": "仕舞う",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 247,
+            "y": 422,
+            "w": 88,
+            "h": 46
+          }
+        },
+        {
+          "probe": 5,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "次へ",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 304,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        },
+        {
+          "probe": 6,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "scroll-4:before",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 INTERACTION 触れる 持ち帰る 仕舞う 次へ戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-concept-button",
+          "text": "触れる",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 55,
+            "y": 422,
+            "w": 88,
+            "h": 46
+          }
+        },
+        {
+          "probe": 3,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-concept-button",
+          "text": "持ち帰る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 151,
+            "y": 422,
+            "w": 88,
+            "h": 46
+          }
+        },
+        {
+          "probe": 4,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-concept-button",
+          "text": "仕舞う",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 247,
+            "y": 422,
+            "w": 88,
+            "h": 46
+          }
+        },
+        {
+          "probe": 5,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "次へ",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 304,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        },
+        {
+          "probe": 6,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "scroll-4:after",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 INTERACTION 触れる 持ち帰る 仕舞う 次へ戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-concept-button",
+          "text": "触れる",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 55,
+            "y": 422,
+            "w": 88,
+            "h": 46
+          }
+        },
+        {
+          "probe": 3,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-concept-button",
+          "text": "持ち帰る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 151,
+            "y": 422,
+            "w": 88,
+            "h": 46
+          }
+        },
+        {
+          "probe": 4,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-concept-button",
+          "text": "仕舞う",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 247,
+            "y": 422,
+            "w": 88,
+            "h": 46
+          }
+        },
+        {
+          "probe": 5,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "次へ",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 304,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        },
+        {
+          "probe": 6,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-5-choice",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 INTERACTION 触れる 持ち帰る 仕舞う 次へ戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-concept-button",
+          "text": "触れる",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 55,
+            "y": 422,
+            "w": 88,
+            "h": 46
+          }
+        },
+        {
+          "probe": 3,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-concept-button",
+          "text": "持ち帰る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 151,
+            "y": 422,
+            "w": 88,
+            "h": 46
+          }
+        },
+        {
+          "probe": 4,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-concept-button",
+          "text": "仕舞う",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 247,
+            "y": 422,
+            "w": 88,
+            "h": 46
+          }
+        },
+        {
+          "probe": 5,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "次へ",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 304,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        },
+        {
+          "probe": 6,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-5-tap:before",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 INTERACTION 触れる 持ち帰る 仕舞う 次へ戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-concept-button",
+          "text": "触れる",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 55,
+            "y": 422,
+            "w": 88,
+            "h": 46
+          }
+        },
+        {
+          "probe": 3,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-concept-button",
+          "text": "持ち帰る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 151,
+            "y": 422,
+            "w": 88,
+            "h": 46
+          }
+        },
+        {
+          "probe": 4,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-concept-button",
+          "text": "仕舞う",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 247,
+            "y": 422,
+            "w": 88,
+            "h": 46
+          }
+        },
+        {
+          "probe": 5,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "次へ",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 304,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        },
+        {
+          "probe": 6,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-5-tap:after",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 INTERACTION 触れる 持ち帰る 仕舞う 次へ戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-concept-button",
+          "text": "触れる",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 55,
+            "y": 422,
+            "w": 88,
+            "h": 46
+          }
+        },
+        {
+          "probe": 3,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-concept-button is-selected",
+          "text": "持ち帰る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 151,
+            "y": 422,
+            "w": 88,
+            "h": 46
+          }
+        },
+        {
+          "probe": 4,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-concept-button",
+          "text": "仕舞う",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 247,
+            "y": 422,
+            "w": 88,
+            "h": 46
+          }
+        },
+        {
+          "probe": 5,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "次へ",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 304,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        },
+        {
+          "probe": 6,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-6-choice",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 INTERACTION 触れる 持ち帰る 仕舞う 次へ戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-concept-button",
+          "text": "触れる",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 55,
+            "y": 422,
+            "w": 88,
+            "h": 46
+          }
+        },
+        {
+          "probe": 3,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-concept-button is-selected",
+          "text": "持ち帰る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 151,
+            "y": 422,
+            "w": 88,
+            "h": 46
+          }
+        },
+        {
+          "probe": 4,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-concept-button",
+          "text": "仕舞う",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 247,
+            "y": 422,
+            "w": 88,
+            "h": 46
+          }
+        },
+        {
+          "probe": 5,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "次へ",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 304,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        },
+        {
+          "probe": 6,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-6-tap:before",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 INTERACTION 触れる 持ち帰る 仕舞う 次へ戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-concept-button",
+          "text": "触れる",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 55,
+            "y": 422,
+            "w": 88,
+            "h": 46
+          }
+        },
+        {
+          "probe": 3,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-concept-button is-selected",
+          "text": "持ち帰る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 151,
+            "y": 422,
+            "w": 88,
+            "h": 46
+          }
+        },
+        {
+          "probe": 4,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-concept-button",
+          "text": "仕舞う",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 247,
+            "y": 422,
+            "w": 88,
+            "h": 46
+          }
+        },
+        {
+          "probe": 5,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "次へ",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 304,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        },
+        {
+          "probe": 6,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-6-tap:after",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 INTERACTION 触れる 持ち帰る 仕舞う 次へ戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-concept-button",
+          "text": "触れる",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 55,
+            "y": 422,
+            "w": 88,
+            "h": 46
+          }
+        },
+        {
+          "probe": 3,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-concept-button",
+          "text": "持ち帰る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 151,
+            "y": 422,
+            "w": 88,
+            "h": 46
+          }
+        },
+        {
+          "probe": 4,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-concept-button",
+          "text": "仕舞う",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 247,
+            "y": 422,
+            "w": 88,
+            "h": 46
+          }
+        },
+        {
+          "probe": 5,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "次へ",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 304,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        },
+        {
+          "probe": 6,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-7-choice",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 INTERACTION 触れる 持ち帰る 仕舞う 次へ戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-concept-button",
+          "text": "触れる",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 55,
+            "y": 422,
+            "w": 88,
+            "h": 46
+          }
+        },
+        {
+          "probe": 3,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-concept-button",
+          "text": "持ち帰る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 151,
+            "y": 422,
+            "w": 88,
+            "h": 46
+          }
+        },
+        {
+          "probe": 4,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-concept-button",
+          "text": "仕舞う",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 247,
+            "y": 422,
+            "w": 88,
+            "h": 46
+          }
+        },
+        {
+          "probe": 5,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "次へ",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 304,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        },
+        {
+          "probe": 6,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-7-tap:before",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 INTERACTION 触れる 持ち帰る 仕舞う 次へ戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-concept-button",
+          "text": "触れる",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 55,
+            "y": 422,
+            "w": 88,
+            "h": 46
+          }
+        },
+        {
+          "probe": 3,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-concept-button",
+          "text": "持ち帰る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 151,
+            "y": 422,
+            "w": 88,
+            "h": 46
+          }
+        },
+        {
+          "probe": 4,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-concept-button",
+          "text": "仕舞う",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 247,
+            "y": 422,
+            "w": 88,
+            "h": 46
+          }
+        },
+        {
+          "probe": 5,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "次へ",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 304,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        },
+        {
+          "probe": 6,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-7-tap:after",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 INTERACTION 触れる 持ち帰る 仕舞う 次へ戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-concept-button",
+          "text": "触れる",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 55,
+            "y": 422,
+            "w": 88,
+            "h": 46
+          }
+        },
+        {
+          "probe": 3,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-concept-button is-selected",
+          "text": "持ち帰る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 151,
+            "y": 422,
+            "w": 88,
+            "h": 46
+          }
+        },
+        {
+          "probe": 4,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-concept-button",
+          "text": "仕舞う",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 247,
+            "y": 422,
+            "w": 88,
+            "h": 46
+          }
+        },
+        {
+          "probe": 5,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "次へ",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 304,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        },
+        {
+          "probe": 6,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "scroll-8:before",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 INTERACTION 触れる 持ち帰る 仕舞う 次へ戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-concept-button",
+          "text": "触れる",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 55,
+            "y": 422,
+            "w": 88,
+            "h": 46
+          }
+        },
+        {
+          "probe": 3,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-concept-button is-selected",
+          "text": "持ち帰る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 151,
+            "y": 422,
+            "w": 88,
+            "h": 46
+          }
+        },
+        {
+          "probe": 4,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-concept-button",
+          "text": "仕舞う",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 247,
+            "y": 422,
+            "w": 88,
+            "h": 46
+          }
+        },
+        {
+          "probe": 5,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "次へ",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 304,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        },
+        {
+          "probe": 6,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "scroll-8:after",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 INTERACTION 触れる 持ち帰る 仕舞う 次へ戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-concept-button",
+          "text": "触れる",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 55,
+            "y": 422,
+            "w": 88,
+            "h": 46
+          }
+        },
+        {
+          "probe": 3,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-concept-button is-selected",
+          "text": "持ち帰る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 151,
+            "y": 422,
+            "w": 88,
+            "h": 46
+          }
+        },
+        {
+          "probe": 4,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-concept-button",
+          "text": "仕舞う",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 247,
+            "y": 422,
+            "w": 88,
+            "h": 46
+          }
+        },
+        {
+          "probe": 5,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "次へ",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 304,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        },
+        {
+          "probe": 6,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-9-choice",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 INTERACTION 触れる 持ち帰る 仕舞う 次へ戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-concept-button",
+          "text": "触れる",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 55,
+            "y": 422,
+            "w": 88,
+            "h": 46
+          }
+        },
+        {
+          "probe": 3,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-concept-button is-selected",
+          "text": "持ち帰る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 151,
+            "y": 422,
+            "w": 88,
+            "h": 46
+          }
+        },
+        {
+          "probe": 4,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-concept-button",
+          "text": "仕舞う",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 247,
+            "y": 422,
+            "w": 88,
+            "h": 46
+          }
+        },
+        {
+          "probe": 5,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "次へ",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 304,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        },
+        {
+          "probe": 6,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-9-tap:before",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 INTERACTION 触れる 持ち帰る 仕舞う 次へ戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-concept-button",
+          "text": "触れる",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 55,
+            "y": 422,
+            "w": 88,
+            "h": 46
+          }
+        },
+        {
+          "probe": 3,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-concept-button is-selected",
+          "text": "持ち帰る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 151,
+            "y": 422,
+            "w": 88,
+            "h": 46
+          }
+        },
+        {
+          "probe": 4,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-concept-button",
+          "text": "仕舞う",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 247,
+            "y": 422,
+            "w": 88,
+            "h": 46
+          }
+        },
+        {
+          "probe": 5,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "次へ",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 304,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        },
+        {
+          "probe": 6,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-9-tap:after",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 INTERACTION 触れる 持ち帰る 仕舞う 次へ戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-concept-button",
+          "text": "触れる",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 55,
+            "y": 422,
+            "w": 88,
+            "h": 46
+          }
+        },
+        {
+          "probe": 3,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-concept-button",
+          "text": "持ち帰る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 151,
+            "y": 422,
+            "w": 88,
+            "h": 46
+          }
+        },
+        {
+          "probe": 4,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-concept-button",
+          "text": "仕舞う",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 247,
+            "y": 422,
+            "w": 88,
+            "h": 46
+          }
+        },
+        {
+          "probe": 5,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "次へ",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 304,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        },
+        {
+          "probe": 6,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "back-10:before",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 INTERACTION 触れる 持ち帰る 仕舞う 次へ戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-concept-button",
+          "text": "触れる",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 55,
+            "y": 422,
+            "w": 88,
+            "h": 46
+          }
+        },
+        {
+          "probe": 3,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-concept-button",
+          "text": "持ち帰る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 151,
+            "y": 422,
+            "w": 88,
+            "h": 46
+          }
+        },
+        {
+          "probe": 4,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-concept-button",
+          "text": "仕舞う",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 247,
+            "y": 422,
+            "w": 88,
+            "h": 46
+          }
+        },
+        {
+          "probe": 5,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "次へ",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 304,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        },
+        {
+          "probe": 6,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "back-10:after",
+      "url": "about:blank",
+      "title": "",
+      "hash": "",
+      "route": null,
+      "activeViews": 0,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 980,
+        "height": 2121
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "",
+      "clickables": []
+    },
+    {
+      "label": "step-11-choice",
+      "url": "about:blank",
+      "title": "",
+      "hash": "",
+      "route": null,
+      "activeViews": 0,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 980,
+        "height": 2121
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "",
+      "clickables": []
+    },
+    {
+      "label": "no-target-scroll-11:before",
+      "url": "about:blank",
+      "title": "",
+      "hash": "",
+      "route": null,
+      "activeViews": 0,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 980,
+        "height": 2121
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "",
+      "clickables": []
+    },
+    {
+      "label": "no-target-scroll-11:after",
+      "url": "about:blank",
+      "title": "",
+      "hash": "",
+      "route": null,
+      "activeViews": 0,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 980,
+        "height": 2121
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "",
+      "clickables": []
+    },
+    {
+      "label": "scroll-12:before",
+      "url": "about:blank",
+      "title": "",
+      "hash": "",
+      "route": null,
+      "activeViews": 0,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 980,
+        "height": 2121
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "",
+      "clickables": []
+    },
+    {
+      "label": "scroll-12:after",
+      "url": "about:blank",
+      "title": "",
+      "hash": "",
+      "route": null,
+      "activeViews": 0,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 980,
+        "height": 2121
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "",
+      "clickables": []
+    },
+    {
+      "label": "step-13-choice",
+      "url": "about:blank",
+      "title": "",
+      "hash": "",
+      "route": null,
+      "activeViews": 0,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 980,
+        "height": 2121
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "",
+      "clickables": []
+    },
+    {
+      "label": "no-target-scroll-13:before",
+      "url": "about:blank",
+      "title": "",
+      "hash": "",
+      "route": null,
+      "activeViews": 0,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 980,
+        "height": 2121
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "",
+      "clickables": []
+    },
+    {
+      "label": "no-target-scroll-13:after",
+      "url": "about:blank",
+      "title": "",
+      "hash": "",
+      "route": null,
+      "activeViews": 0,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 980,
+        "height": 2121
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "",
+      "clickables": []
+    },
+    {
+      "label": "step-14-choice",
+      "url": "about:blank",
+      "title": "",
+      "hash": "",
+      "route": null,
+      "activeViews": 0,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 980,
+        "height": 2121
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "",
+      "clickables": []
+    },
+    {
+      "label": "no-target-scroll-14:before",
+      "url": "about:blank",
+      "title": "",
+      "hash": "",
+      "route": null,
+      "activeViews": 0,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 980,
+        "height": 2121
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "",
+      "clickables": []
+    },
+    {
+      "label": "no-target-scroll-14:after",
+      "url": "about:blank",
+      "title": "",
+      "hash": "",
+      "route": null,
+      "activeViews": 0,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 980,
+        "height": 2121
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "",
+      "clickables": []
+    },
+    {
+      "label": "step-15-choice",
+      "url": "about:blank",
+      "title": "",
+      "hash": "",
+      "route": null,
+      "activeViews": 0,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 980,
+        "height": 2121
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "",
+      "clickables": []
+    },
+    {
+      "label": "no-target-scroll-15:before",
+      "url": "about:blank",
+      "title": "",
+      "hash": "",
+      "route": null,
+      "activeViews": 0,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 980,
+        "height": 2121
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "",
+      "clickables": []
+    },
+    {
+      "label": "no-target-scroll-15:after",
+      "url": "about:blank",
+      "title": "",
+      "hash": "",
+      "route": null,
+      "activeViews": 0,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 980,
+        "height": 2121
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "",
+      "clickables": []
+    },
+    {
+      "label": "step-16-choice",
+      "url": "about:blank",
+      "title": "",
+      "hash": "",
+      "route": null,
+      "activeViews": 0,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 980,
+        "height": 2121
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "",
+      "clickables": []
+    },
+    {
+      "label": "no-target-scroll-16:before",
+      "url": "about:blank",
+      "title": "",
+      "hash": "",
+      "route": null,
+      "activeViews": 0,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 980,
+        "height": 2121
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "",
+      "clickables": []
+    },
+    {
+      "label": "no-target-scroll-16:after",
+      "url": "about:blank",
+      "title": "",
+      "hash": "",
+      "route": null,
+      "activeViews": 0,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 980,
+        "height": 2121
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "",
+      "clickables": []
+    },
+    {
+      "label": "step-17-choice",
+      "url": "about:blank",
+      "title": "",
+      "hash": "",
+      "route": null,
+      "activeViews": 0,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 980,
+        "height": 2121
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "",
+      "clickables": []
+    },
+    {
+      "label": "no-target-scroll-17:before",
+      "url": "about:blank",
+      "title": "",
+      "hash": "",
+      "route": null,
+      "activeViews": 0,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 980,
+        "height": 2121
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "",
+      "clickables": []
+    },
+    {
+      "label": "no-target-scroll-17:after",
+      "url": "about:blank",
+      "title": "",
+      "hash": "",
+      "route": null,
+      "activeViews": 0,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 980,
+        "height": 2121
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "",
+      "clickables": []
+    },
+    {
+      "label": "step-18-choice",
+      "url": "about:blank",
+      "title": "",
+      "hash": "",
+      "route": null,
+      "activeViews": 0,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 980,
+        "height": 2121
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "",
+      "clickables": []
+    },
+    {
+      "label": "no-target-scroll-18:before",
+      "url": "about:blank",
+      "title": "",
+      "hash": "",
+      "route": null,
+      "activeViews": 0,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 980,
+        "height": 2121
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "",
+      "clickables": []
+    },
+    {
+      "label": "no-target-scroll-18:after",
+      "url": "about:blank",
+      "title": "",
+      "hash": "",
+      "route": null,
+      "activeViews": 0,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 980,
+        "height": 2121
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "",
+      "clickables": []
+    },
+    {
+      "label": "step-19-choice",
+      "url": "about:blank",
+      "title": "",
+      "hash": "",
+      "route": null,
+      "activeViews": 0,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 980,
+        "height": 2121
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "",
+      "clickables": []
+    },
+    {
+      "label": "no-target-scroll-19:before",
+      "url": "about:blank",
+      "title": "",
+      "hash": "",
+      "route": null,
+      "activeViews": 0,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 980,
+        "height": 2121
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "",
+      "clickables": []
+    },
+    {
+      "label": "no-target-scroll-19:after",
+      "url": "about:blank",
+      "title": "",
+      "hash": "",
+      "route": null,
+      "activeViews": 0,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 980,
+        "height": 2121
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "",
+      "clickables": []
+    },
+    {
+      "label": "step-20-choice",
+      "url": "about:blank",
+      "title": "",
+      "hash": "",
+      "route": null,
+      "activeViews": 0,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 980,
+        "height": 2121
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "",
+      "clickables": []
+    },
+    {
+      "label": "no-target-scroll-20:before",
+      "url": "about:blank",
+      "title": "",
+      "hash": "",
+      "route": null,
+      "activeViews": 0,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 980,
+        "height": 2121
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "",
+      "clickables": []
+    },
+    {
+      "label": "no-target-scroll-20:after",
+      "url": "about:blank",
+      "title": "",
+      "hash": "",
+      "route": null,
+      "activeViews": 0,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 980,
+        "height": 2121
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "",
+      "clickables": []
+    },
+    {
+      "label": "step-21-choice",
+      "url": "about:blank",
+      "title": "",
+      "hash": "",
+      "route": null,
+      "activeViews": 0,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 980,
+        "height": 2121
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "",
+      "clickables": []
+    },
+    {
+      "label": "no-target-scroll-21:before",
+      "url": "about:blank",
+      "title": "",
+      "hash": "",
+      "route": null,
+      "activeViews": 0,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 980,
+        "height": 2121
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "",
+      "clickables": []
+    },
+    {
+      "label": "no-target-scroll-21:after",
+      "url": "about:blank",
+      "title": "",
+      "hash": "",
+      "route": null,
+      "activeViews": 0,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 980,
+        "height": 2121
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "",
+      "clickables": []
+    },
+    {
+      "label": "step-22-choice",
+      "url": "about:blank",
+      "title": "",
+      "hash": "",
+      "route": null,
+      "activeViews": 0,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 980,
+        "height": 2121
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "",
+      "clickables": []
+    },
+    {
+      "label": "no-target-scroll-22:before",
+      "url": "about:blank",
+      "title": "",
+      "hash": "",
+      "route": null,
+      "activeViews": 0,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 980,
+        "height": 2121
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "",
+      "clickables": []
+    },
+    {
+      "label": "no-target-scroll-22:after",
+      "url": "about:blank",
+      "title": "",
+      "hash": "",
+      "route": null,
+      "activeViews": 0,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 980,
+        "height": 2121
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "",
+      "clickables": []
+    },
+    {
+      "label": "step-23-choice",
+      "url": "about:blank",
+      "title": "",
+      "hash": "",
+      "route": null,
+      "activeViews": 0,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 980,
+        "height": 2121
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "",
+      "clickables": []
+    },
+    {
+      "label": "no-target-scroll-23:before",
+      "url": "about:blank",
+      "title": "",
+      "hash": "",
+      "route": null,
+      "activeViews": 0,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 980,
+        "height": 2121
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "",
+      "clickables": []
+    },
+    {
+      "label": "no-target-scroll-23:after",
+      "url": "about:blank",
+      "title": "",
+      "hash": "",
+      "route": null,
+      "activeViews": 0,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 980,
+        "height": 2121
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "",
+      "clickables": []
+    },
+    {
+      "label": "step-24-choice",
+      "url": "about:blank",
+      "title": "",
+      "hash": "",
+      "route": null,
+      "activeViews": 0,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 980,
+        "height": 2121
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "",
+      "clickables": []
+    },
+    {
+      "label": "no-target-scroll-24:before",
+      "url": "about:blank",
+      "title": "",
+      "hash": "",
+      "route": null,
+      "activeViews": 0,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 980,
+        "height": 2121
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "",
+      "clickables": []
+    },
+    {
+      "label": "no-target-scroll-24:after",
+      "url": "about:blank",
+      "title": "",
+      "hash": "",
+      "route": null,
+      "activeViews": 0,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 980,
+        "height": 2121
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "",
+      "clickables": []
+    },
+    {
+      "label": "step-25-choice",
+      "url": "about:blank",
+      "title": "",
+      "hash": "",
+      "route": null,
+      "activeViews": 0,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 980,
+        "height": 2121
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "",
+      "clickables": []
+    },
+    {
+      "label": "no-target-scroll-25:before",
+      "url": "about:blank",
+      "title": "",
+      "hash": "",
+      "route": null,
+      "activeViews": 0,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 980,
+        "height": 2121
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "",
+      "clickables": []
+    },
+    {
+      "label": "no-target-scroll-25:after",
+      "url": "about:blank",
+      "title": "",
+      "hash": "",
+      "route": null,
+      "activeViews": 0,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 980,
+        "height": 2121
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "",
+      "clickables": []
+    },
+    {
+      "label": "step-26-choice",
+      "url": "about:blank",
+      "title": "",
+      "hash": "",
+      "route": null,
+      "activeViews": 0,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 980,
+        "height": 2121
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "",
+      "clickables": []
+    },
+    {
+      "label": "no-target-scroll-26:before",
+      "url": "about:blank",
+      "title": "",
+      "hash": "",
+      "route": null,
+      "activeViews": 0,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 980,
+        "height": 2121
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "",
+      "clickables": []
+    },
+    {
+      "label": "no-target-scroll-26:after",
+      "url": "about:blank",
+      "title": "",
+      "hash": "",
+      "route": null,
+      "activeViews": 0,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 980,
+        "height": 2121
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "",
+      "clickables": []
+    },
+    {
+      "label": "final",
+      "url": "about:blank",
+      "title": "",
+      "hash": "",
+      "route": null,
+      "activeViews": 0,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 980,
+        "height": 2121
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "",
+      "clickables": []
+    }
+  ],
+  "pageErrors": [],
+  "consoleErrors": [],
+  "requestFailures": [],
+  "httpStatus": 200,
+  "final": {
+    "url": "about:blank",
+    "title": "",
+    "hash": "",
+    "route": null,
+    "activeViews": 0,
+    "scroll": {
+      "x": 0,
+      "y": 0,
+      "width": 980,
+      "height": 2121
+    },
+    "horizontalOverflow": false,
+    "dialogs": [],
+    "bodyText": "",
+    "clickables": []
+  },
+  "finishedAt": "2026-10-06T17:28:01.416Z"
+}
