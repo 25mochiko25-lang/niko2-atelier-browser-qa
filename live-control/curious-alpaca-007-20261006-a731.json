@@ -1,7 +1,8 @@
 {
-  "id": "079-return-to-world-link",
-  "op": "key",
-  "key": "PageDown",
-  "wait": 500,
-  "note": "Return to the visible WORLD entrance below the hero."
+  "id": "080-world-again",
+  "op": "tap",
+  "x": 196,
+  "y": 337,
+  "wait": 800,
+  "note": "I want to revisit WORLD and choose the cool blue doorway I left unexplored."
 }
