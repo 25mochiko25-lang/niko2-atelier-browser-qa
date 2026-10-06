@@ -5,20 +5,20 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-06T18:33:15.438Z",
-  "updatedAt": "2026-10-06T18:35:49.777Z",
-  "lastCommand": "007-intro-next",
+  "updatedAt": "2026-10-06T18:36:10.283Z",
+  "lastCommand": "008-into-dream",
   "stopReason": null,
   "action": {
-    "id": "007-intro-next",
+    "id": "008-into-dream",
     "op": "tap",
-    "x": 335,
+    "x": 331,
     "y": 770,
-    "wait": 1000,
-    "note": "The three samples now have their own colors; I am ready to see the next page."
+    "wait": 1700,
+    "note": "The pearly circular doorway looks like a place I want to pass through. Enter the dream."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/50f2d038a21c4656ddcc1359bceb613be749b68c/live-results/curious-alpaca-007-20261006-a731/current.jpg",
-  "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/3e7d10245df500c681d5bfecc0c067f493ecbec4/live-results/curious-alpaca-007-20261006-a731/current.jpg",
+  "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
   "title": "NIKO² ATELIER",
   "viewport": {
     "width": 390,
@@ -29,7 +29,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWELCOME\nようこそ！\n夢へ入る戻る",
+  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n席を立ったあとの庭にも、\n持ち主より長く夢を見るものがいる。\n\nこの空へ入る\n0 / 5\n見つけたもの\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
   "controls": [
     {
       "tag": "BUTTON",
@@ -44,40 +44,166 @@
     },
     {
       "tag": "BUTTON",
-      "text": "Enter the dream",
+      "text": "夢の見覚え ✧︎",
       "disabled": false,
       "rect": {
-        "x": 90,
+        "x": 315,
+        "y": 56,
+        "w": 61,
+        "h": 30
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "止まりかけの砂時計に触れる",
+      "disabled": true,
+      "rect": {
+        "x": -72,
+        "y": 338,
+        "w": 101,
+        "h": 177
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "N² Eau de rêveに触れる",
+      "disabled": true,
+      "rect": {
+        "x": 4,
+        "y": 498,
+        "w": 90,
+        "h": 110
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "まだあたたかいカップに触れる",
+      "disabled": true,
+      "rect": {
+        "x": 167,
         "y": 494,
-        "w": 210,
-        "h": 70
+        "w": 107,
+        "h": 84
       }
     },
     {
       "tag": "BUTTON",
-      "text": "夢へ入る",
-      "disabled": false,
+      "text": "置き去りのくまに触れる",
+      "disabled": true,
       "rect": {
-        "x": 291,
-        "y": 748,
-        "w": 81,
-        "h": 44
+        "x": 335,
+        "y": 447,
+        "w": 135,
+        "h": 177
       }
     },
     {
       "tag": "BUTTON",
-      "text": "戻る",
+      "text": "青いリボンの鍵に触れる",
+      "disabled": true,
+      "rect": {
+        "x": 89,
+        "y": 563,
+        "w": 111,
+        "h": 89
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "テーブルのメモをめくる",
       "disabled": false,
       "rect": {
-        "x": 18,
-        "y": 748,
-        "w": 72,
-        "h": 44
+        "x": 169,
+        "y": 568,
+        "w": 103,
+        "h": 79
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "くまのそばの本を開く",
+      "disabled": false,
+      "rect": {
+        "x": 341,
+        "y": 566,
+        "w": 135,
+        "h": 109
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "ティーポットに触れる",
+      "disabled": false,
+      "rect": {
+        "x": 82,
+        "y": 435,
+        "w": 118,
+        "h": 122
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "花に触れる",
+      "disabled": false,
+      "rect": {
+        "x": -70,
+        "y": 262,
+        "w": 174,
+        "h": 152
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "水面に触れる",
+      "disabled": false,
+      "rect": {
+        "x": 184,
+        "y": 253,
+        "w": 236,
+        "h": 186
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "石の柱を軽く叩く",
+      "disabled": false,
+      "rect": {
+        "x": 15,
+        "y": 135,
+        "w": 129,
+        "h": 262
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "遠くの白い門に触れる",
+      "disabled": true,
+      "rect": {
+        "x": 285,
+        "y": 118,
+        "w": 90,
+        "h": 118
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "この空へ入る",
+      "disabled": false,
+      "rect": {
+        "x": 118,
+        "y": 764,
+        "w": 154,
+        "h": 48
       }
     }
   ],
   "pageErrors": [],
-  "httpErrors": [],
+  "httpErrors": [
+    {
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/api/identity",
+      "status": 404
+    }
+  ],
   "events": [
     {
       "number": 1,
@@ -199,6 +325,22 @@
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/50f2d038a21c4656ddcc1359bceb613be749b68c/live-results/curious-alpaca-007-20261006-a731/current.jpg",
       "text": "作品へ移動\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWELCOME\nようこそ！\n夢へ入る戻る"
+    },
+    {
+      "number": 9,
+      "at": "2026-10-06T18:36:10.283Z",
+      "action": {
+        "id": "008-into-dream",
+        "op": "tap",
+        "x": 331,
+        "y": 770,
+        "wait": 1700,
+        "note": "The pearly circular doorway looks like a place I want to pass through. Enter the dream."
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/3e7d10245df500c681d5bfecc0c067f493ecbec4/live-results/curious-alpaca-007-20261006-a731/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n席を立ったあとの庭にも、\n持ち主より長く夢を見るものがいる。\n\nこの空へ入る\n0 / 5\n見つけたもの\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
     }
   ]
 }
