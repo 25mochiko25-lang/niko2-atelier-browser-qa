@@ -5,19 +5,20 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-06T18:31:03.762Z",
-  "updatedAt": "2026-10-06T18:48:56.459Z",
-  "lastCommand": "a53",
+  "updatedAt": "2026-10-06T18:49:09.594Z",
+  "lastCommand": "a54",
   "stopReason": null,
   "action": {
-    "id": "a53",
-    "op": "key",
-    "key": "PageDown",
-    "note": "I see WORLD beginning below the entrance, so I want to look farther down the Home page.",
-    "wait": 800
+    "id": "a54",
+    "op": "tap",
+    "x": 203,
+    "y": 347,
+    "note": "The dark reflective hall with several glowing doorways looks like the place to choose a new adventure.",
+    "wait": 1300
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/1341d8eafe1223c86f7ed85f155584644e90f081/live-results/curious-alpaca-007-20261006-1835/current.jpg",
-  "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/16e034972a9902af81594e9b4bed2241b6b56f32/live-results/curious-alpaca-007-20261006-1835/current.jpg",
+  "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#world",
   "title": "NIKO² ATELIER",
   "viewport": {
     "width": 390,
@@ -28,7 +29,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n \nWORLD\nWORLD\n水面の向こうに、いくつかの場所がひらいています。\n\n\nABOUT\nもふもふはいます。\nPLAY / SHARE / FAN WORK\nNIKO²での生活について\n好きな形で遊ぶための、小さな境界。\nDEAR ATELIER\nお手紙を送る\nAtelierの受取箱へ。\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+  "text": "作品へ移動\n\n\n \nNIKO² / WORLD\nWORLD\n水面の向こうに、まだつながっていない場所もあります。\n\nResearch Lab\n\nROOM NULL\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
   "controls": [
     {
       "tag": "BUTTON",
@@ -43,24 +44,35 @@
     },
     {
       "tag": "A",
-      "text": "WORLDを開く",
+      "text": "アトリエへ戻る",
       "disabled": false,
       "rect": {
-        "x": 23,
-        "y": 246,
-        "w": 343,
-        "h": 193
+        "x": 16,
+        "y": 25,
+        "w": 44,
+        "h": 44
       }
     },
     {
-      "tag": "A",
-      "text": "ABOUT\nもふもふはいます。",
+      "tag": "BUTTON",
+      "text": "Research Lab",
       "disabled": false,
       "rect": {
-        "x": 43,
-        "y": 723,
-        "w": 304,
-        "h": 252
+        "x": 34,
+        "y": 307,
+        "w": 98,
+        "h": 162
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "ROOM NULL",
+      "disabled": false,
+      "rect": {
+        "x": 280,
+        "y": 320,
+        "w": 95,
+        "h": 162
       }
     }
   ],
@@ -939,6 +951,22 @@
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/1341d8eafe1223c86f7ed85f155584644e90f081/live-results/curious-alpaca-007-20261006-1835/current.jpg",
       "text": "作品へ移動\n \nWORLD\nWORLD\n水面の向こうに、いくつかの場所がひらいています。\n\n\nABOUT\nもふもふはいます。\nPLAY / SHARE / FAN WORK\nNIKO²での生活について\n好きな形で遊ぶための、小さな境界。\nDEAR ATELIER\nお手紙を送る\nAtelierの受取箱へ。\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+      "number": 55,
+      "at": "2026-10-06T18:49:09.594Z",
+      "action": {
+        "id": "a54",
+        "op": "tap",
+        "x": 203,
+        "y": 347,
+        "note": "The dark reflective hall with several glowing doorways looks like the place to choose a new adventure.",
+        "wait": 1300
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#world",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/16e034972a9902af81594e9b4bed2241b6b56f32/live-results/curious-alpaca-007-20261006-1835/current.jpg",
+      "text": "作品へ移動\n\n\n \nNIKO² / WORLD\nWORLD\n水面の向こうに、まだつながっていない場所もあります。\n\nResearch Lab\n\nROOM NULL\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
     }
   ]
 }
