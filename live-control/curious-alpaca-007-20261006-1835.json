@@ -1,7 +1,8 @@
 {
-  "id": "a42",
-  "op": "key",
-  "key": "PageDown",
-  "note": "Reading farther down the specimen file after touching its content area.",
-  "wait": 700
+  "id": "a43",
+  "op": "tap",
+  "x": 352,
+  "y": 163,
+  "note": "The lower portion is not reachable with this harness's keyboard scrolling, so I am leaving its unseen layout unjudged and choosing another record.",
+  "wait": 600
 }
