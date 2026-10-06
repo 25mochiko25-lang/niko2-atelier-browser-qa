@@ -1,8 +1,8 @@
 {
-  "id": "053-world",
+  "id": "054-room-null",
   "op": "tap",
-  "x": 202,
-  "y": 335,
-  "wait": 1100,
-  "note": "The picture of doors standing in a dark reflecting pool looks like a hub of other worlds. I want to enter it."
+  "x": 328,
+  "y": 400,
+  "wait": 1000,
+  "note": "The warm curtained doorway on the right is the one I want to enter. Its label says ROOM NULL, which makes me wonder what an empty room contains."
 }
