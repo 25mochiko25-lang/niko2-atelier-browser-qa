@@ -5,19 +5,19 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-06T18:33:15.438Z",
-  "updatedAt": "2026-10-06T18:41:58.204Z",
-  "lastCommand": "024-add-words",
+  "updatedAt": "2026-10-06T18:42:19.663Z",
+  "lastCommand": "025-focus-note",
   "stopReason": null,
   "action": {
-    "id": "024-add-words",
+    "id": "025-focus-note",
     "op": "tap",
-    "x": 89,
-    "y": 568,
-    "wait": 600,
-    "note": "The scene and the tiny knot became two overlapping keepsake photographs. I want to leave a short sentence with them."
+    "x": 185,
+    "y": 576,
+    "wait": 250,
+    "note": "I am choosing the visible field to write my own small memory of the thread."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/d158c9ba05859e676a02b55b43e3f5e11fce61a1/live-results/curious-alpaca-007-20261006-a731/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/5fd7fc12e311503e358e6779e6dc4ac2f35470dd/live-results/curious-alpaca-007-20261006-a731/current.jpg",
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#quiet",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -58,7 +58,7 @@
       "text": "待っていた糸結びに触れる",
       "disabled": false,
       "rect": {
-        "x": 257,
+        "x": 258,
         "y": 549,
         "w": 69,
         "h": 69
@@ -532,6 +532,22 @@
       "error": null,
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#quiet",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/d158c9ba05859e676a02b55b43e3f5e11fce61a1/live-results/curious-alpaca-007-20261006-a731/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n夢を離れる\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDREAM MEMORY\n\n夢から残ったもの\n\nWORLD MEMORY\nTHING THAT REMAINED\nWORLD MEMORY + REMAINS\n空を見ているくまの横顔\n待っていた糸結び — くまの右手に、青い糸がひとつだけほどけていた。\n言葉を閉じる\n夢のあとに残す言葉\n\nアトリエへ戻る\nDiaryへ持ち帰る"
+    },
+    {
+      "number": 26,
+      "at": "2026-10-06T18:42:19.663Z",
+      "action": {
+        "id": "025-focus-note",
+        "op": "tap",
+        "x": 185,
+        "y": 576,
+        "wait": 250,
+        "note": "I am choosing the visible field to write my own small memory of the thread."
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#quiet",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/5fd7fc12e311503e358e6779e6dc4ac2f35470dd/live-results/curious-alpaca-007-20261006-a731/current.jpg",
       "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n夢を離れる\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDREAM MEMORY\n\n夢から残ったもの\n\nWORLD MEMORY\nTHING THAT REMAINED\nWORLD MEMORY + REMAINS\n空を見ているくまの横顔\n待っていた糸結び — くまの右手に、青い糸がひとつだけほどけていた。\n言葉を閉じる\n夢のあとに残す言葉\n\nアトリエへ戻る\nDiaryへ持ち帰る"
     }
   ]
