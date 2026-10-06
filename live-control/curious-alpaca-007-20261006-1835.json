@@ -1,8 +1,8 @@
 {
-  "id": "a67",
+  "id": "a68",
   "op": "tap",
-  "x": 195,
-  "y": 611,
-  "note": "Choosing the hotel's official page because soda's diary made its returned-but-still-present key intriguing.",
-  "wait": 800
+  "x": 75,
+  "y": 517,
+  "note": "The old hotel page links to the current hotel, after a guest review whose stay date has not arrived. I want to cross from this little web page into that place.",
+  "wait": 1300
 }
