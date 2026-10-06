@@ -1,0 +1,6 @@
+{
+  "id": "001-arrival",
+  "op": "look",
+  "wait": 1800,
+  "note": "Open the fresh page and look at what is actually visible before choosing anything."
+}
