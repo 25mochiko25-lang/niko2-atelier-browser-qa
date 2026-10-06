@@ -1,8 +1,8 @@
 {
-  "id": "066-next-garden-link",
+  "id": "067-webring-random",
   "op": "tap",
-  "x": 152,
-  "y": 667,
+  "x": 195,
+  "y": 378,
   "wait": 650,
-  "note": "The pressed-flower page casually says flowers fell upwards in Cloud Garden. I want to follow its Next garden link instead of returning to the directory."
+  "note": "A web ring whose absent owner left it circling is exactly the kind of strange detour I like. I want to let RANDOM choose a page once."
 }
