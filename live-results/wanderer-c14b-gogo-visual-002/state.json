@@ -5,19 +5,21 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-06T18:43:37.049Z",
-  "updatedAt": "2026-10-06T19:10:49.306Z",
-  "lastCommand": "19",
+  "updatedAt": "2026-10-06T19:11:54.014Z",
+  "lastCommand": "20",
   "stopReason": null,
   "action": {
-    "id": "19",
-    "op": "tap",
-    "x": 266,
-    "y": 647,
-    "wait": 1400,
-    "note": "Reopen the same notebook after returning to the room; check whether the diary still holds what I left."
+    "id": "20",
+    "op": "scroll",
+    "x": 194,
+    "y": 690,
+    "dx": 0,
+    "dy": 596,
+    "wait": 1300,
+    "note": "Look below the entry form for the thing I saved before going back to the room."
   },
-  "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/cf642da02f33b1258822d673ff2b8ed8349464ae/live-results/wanderer-c14b-gogo-visual-002/current.jpg",
+  "error": "Error: mouse.wheel: Mouse wheel is not supported in mobile WebKit",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/caa6df95573ac53035cb8d245cecc6b651743bc5/live-results/wanderer-c14b-gogo-visual-002/current.jpg",
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#diary",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -776,6 +778,24 @@
       "error": null,
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#diary",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/cf642da02f33b1258822d673ff2b8ed8349464ae/live-results/wanderer-c14b-gogo-visual-002/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\nDream\nDiary\nAbout\n\n\n\n\nNIKO² DIARY\nDiary\n今日のことを、ひとつだけ。\n10月7日 04:10\nROOM NULLは、まだそのまま待っています。\n← ROOM NULLへ戻る\nTODAY\n今日を残す\n✦\nいまの気配\n\n静か\n\nきらきら\n\nぼんやり\n\nざわざわ\n\n甘い\n\n雨っぽい\n\n眠い\n\n何もない\nPHOTO\n写真\n選択なし\n色・モチーフ\nOPTIONAL\n言葉\nOPTIONAL\nこの端末だけに残ります\n残す\nRECENT\n少し前の自分\n\nきらきら\n10/7\n2026年10月\nMONTHLY REFLECTION\n今月の景色\nよく残った気配\nきらきら\nよく残った色\n色のない紙片\nよく残ったモチーフ\n名前のないもの\nまだ記録が少ないので、傾向ではなく、残ったものをそのまま眺めています。\nもう少し見る\nARCHIVE\n前の日々をひらく\n\nWHAT REMAINED\n残ったものを見る\nアトリエへ戻る\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+      "number": 23,
+      "at": "2026-10-06T19:11:54.014Z",
+      "action": {
+        "id": "20",
+        "op": "scroll",
+        "x": 194,
+        "y": 690,
+        "dx": 0,
+        "dy": 596,
+        "wait": 1300,
+        "note": "Look below the entry form for the thing I saved before going back to the room."
+      },
+      "error": "Error: mouse.wheel: Mouse wheel is not supported in mobile WebKit",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#diary",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/caa6df95573ac53035cb8d245cecc6b651743bc5/live-results/wanderer-c14b-gogo-visual-002/current.jpg",
       "text": "作品へ移動\nNIKO² ATELIER\nDream\nDiary\nAbout\n\n\n\n\nNIKO² DIARY\nDiary\n今日のことを、ひとつだけ。\n10月7日 04:10\nROOM NULLは、まだそのまま待っています。\n← ROOM NULLへ戻る\nTODAY\n今日を残す\n✦\nいまの気配\n\n静か\n\nきらきら\n\nぼんやり\n\nざわざわ\n\n甘い\n\n雨っぽい\n\n眠い\n\n何もない\nPHOTO\n写真\n選択なし\n色・モチーフ\nOPTIONAL\n言葉\nOPTIONAL\nこの端末だけに残ります\n残す\nRECENT\n少し前の自分\n\nきらきら\n10/7\n2026年10月\nMONTHLY REFLECTION\n今月の景色\nよく残った気配\nきらきら\nよく残った色\n色のない紙片\nよく残ったモチーフ\n名前のないもの\nまだ記録が少ないので、傾向ではなく、残ったものをそのまま眺めています。\nもう少し見る\nARCHIVE\n前の日々をひらく\n\nWHAT REMAINED\n残ったものを見る\nアトリエへ戻る\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
     }
   ]
