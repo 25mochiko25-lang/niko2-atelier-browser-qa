@@ -1,0 +1,8 @@
+{
+  "session": "first-time-visual-001",
+  "target": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+  "persona": "first-time",
+  "mode": "observer-driven",
+  "maxSteps": null,
+  "stopPolicy": "The observer views each screen, chooses an action, and explicitly stops when satisfied, uninterested, or blocked. Infrastructure interruption is not a visitor preference."
+}
