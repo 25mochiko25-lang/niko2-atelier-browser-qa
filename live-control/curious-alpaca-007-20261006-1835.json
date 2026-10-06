@@ -1,8 +1,8 @@
 {
-  "id": "a65",
+  "id": "a66",
   "op": "tap",
-  "x": 195,
-  "y": 494,
-  "note": "RANDOM returned me to the link directory. I am now choosing soda's diary because an unknown person's little journal sounds inviting.",
-  "wait": 800
+  "x": 70,
+  "y": 484,
+  "note": "The diary says a hotel key was returned but is still in the writer's pocket. I want to follow that odd little connection to the hotel page.",
+  "wait": 500
 }
