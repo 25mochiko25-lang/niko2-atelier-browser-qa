@@ -139,11 +139,30 @@ function score(c, persona, idx) {
   return area * 0.012 + centerBonus + textBonus + semantic + personaBias - utilityPenalty(c) - disabledPenalty;
 }
 
+const recentTargetKeys = [];
+function targetKey(c) {
+  const cls = String(c.cls || '').replace(/\bis-selected\b/g, '').replace(/\s+/g, ' ').trim();
+  return [c.id || '', cls, c.text || '', c.href || ''].join('|');
+}
 function chooseCandidate(s) {
   const candidates = (s.clickables || []).filter(c => !c.disabled);
   if (!candidates.length) return null;
+
+  // In the first-time intro, a concept chip is a choice, not the forward action.
+  // Once one is selected, let an ordinary visitor continue instead of toggling it forever.
+  const introNext = candidates.find(c => /niko2-intro-primary/.test(c.cls || ''));
+  const hasSelectedConcept = candidates.some(c => /niko2-intro-concept-button/.test(c.cls || '') && /\bis-selected\b/.test(c.cls || ''));
+  if (introNext && hasSelectedConcept) return introNext;
+
   return candidates
-    .map((c, i) => ({ c, v: score(c, PERSONA, i) }))
+    .map((c, i) => {
+      let v = score(c, PERSONA, i);
+      const key = targetKey(c);
+      const repeats = recentTargetKeys.filter(x => x === key).length;
+      v -= repeats * 1800;
+      if (/\bis-selected\b/.test(c.cls || '')) v -= 2400;
+      return { c, v };
+    })
     .sort((a, b) => b.v - a.v)[0]?.c || null;
 }
 
@@ -166,6 +185,8 @@ async function tapCandidate(page, c, label, extra = {}) {
     before: { url: before.url, route: before.route, hash: before.hash, scroll: before.scroll },
     after: { url: after.url, route: after.route, hash: after.hash, scroll: after.scroll }
   });
+  recentTargetKeys.push(targetKey(c));
+  if (recentTargetKeys.length > 6) recentTargetKeys.shift();
   return { before, after, error };
 }
 
@@ -244,7 +265,18 @@ function scheduledAction(step) {
         continue;
       }
       if (action === 'back') {
-        await navEvent(page, 'back-' + step, async () => { await page.goBack({ waitUntil: 'domcontentloaded', timeout: 7000 }).catch(() => null); });
+        const safeInternalBack = await page.evaluate((target) => {
+          const t = new URL(target);
+          const internalState = history.state?.niko2Route;
+          return location.origin === t.origin && Boolean(location.hash || (internalState && internalState !== 'home'));
+        }, TARGET).catch(() => false);
+        if (safeInternalBack) {
+          await navEvent(page, 'back-' + step, async () => { await page.goBack({ waitUntil: 'domcontentloaded', timeout: 7000 }).catch(() => null); });
+        } else {
+          await navEvent(page, 'back-avoided-' + step, async () => {
+            await page.evaluate(() => window.scrollBy({ top: Math.round(innerHeight * 0.52), behavior: 'auto' }));
+          });
+        }
         continue;
       }
       if (action === 'forward') {
