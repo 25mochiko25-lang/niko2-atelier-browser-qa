@@ -1,8 +1,7 @@
 {
-  "id": "073-focus-directory",
-  "op": "tap",
-  "x": 271,
-  "y": 355,
-  "wait": 200,
-  "note": "Focus the inner directory so I can look at the lost page link below."
+  "id": "074-directory-lower",
+  "op": "key",
+  "key": "PageDown",
+  "wait": 450,
+  "note": "Move to the lower directory links, where lost_page.html was seen."
 }
