@@ -1,7 +1,8 @@
 {
-  "id": "a75",
-  "op": "key",
-  "key": "PageDown",
-  "note": "The diary says the room is not checked out yet. I want to see what the 'bring tonight back' action has left in the recent records.",
+  "id": "a76",
+  "op": "tap",
+  "x": 196,
+  "y": 315,
+  "note": "The hotel and the garden now sit as two recent cards. I want to open the new hotel record before checking out.",
   "wait": 800
 }
