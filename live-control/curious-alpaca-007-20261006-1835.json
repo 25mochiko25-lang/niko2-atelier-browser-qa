@@ -1,8 +1,8 @@
 {
-  "id": "a02",
+  "id": "a03",
   "op": "tap",
-  "x": 335,
-  "y": 769,
-  "note": "The line about a slightly different entrance each time makes me curious about what comes next.",
-  "wait": 900
+  "x": 118,
+  "y": 537,
+  "note": "These little interaction samples look pressable. I want to touch the touch button before moving on.",
+  "wait": 200
 }
