@@ -1,0 +1,1 @@
+{"id":"g00","op":"look","wait":900,"note":"Resume from the previously observed Diary arrival. This isolated browser reconstructs earlier real UI actions, so replay is not a second first-impression trial. All following choices are made after looking at each rendered screenshot; no operation-count stop."}
