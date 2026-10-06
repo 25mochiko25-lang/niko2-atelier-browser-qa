@@ -1,8 +1,8 @@
 {
-  "id": "a09",
+  "id": "a10",
   "op": "tap",
-  "x": 138,
-  "y": 613,
-  "note": "The little blue-ribbon key is irresistible. I want to know what it belongs to.",
-  "wait": 1100
+  "x": 141,
+  "y": 489,
+  "note": "I found a key that opens a memory rather than a door. Now I want to see whether the teapot does anything small.",
+  "wait": 1000
 }
