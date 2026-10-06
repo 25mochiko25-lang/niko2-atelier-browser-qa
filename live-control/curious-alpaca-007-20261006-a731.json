@@ -1,8 +1,8 @@
 {
-  "id": "094-knocking-door-record",
+  "id": "095-close-door-record",
   "op": "tap",
-  "x": 291,
-  "y": 521,
-  "wait": 700,
-  "note": "The neighboring orange folder is about a door that was knocked on from the other side first. I want to read that more unsettling fragment too."
+  "x": 352,
+  "y": 164,
+  "wait": 500,
+  "note": "The researcher wanting to open the unanswered door again is a good final sentence. I want to see what the old terminal beside these files does."
 }
