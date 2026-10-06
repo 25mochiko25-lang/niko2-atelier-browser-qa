@@ -1,8 +1,8 @@
 {
-  "id": "044-hotel-cabinet",
+  "id": "045-reopen-orders",
   "op": "tap",
-  "x": 224,
-  "y": 237,
-  "wait": 600,
-  "note": "The telephone did not answer. The wardrobe has a very clear round handle; I wonder whether the delivered key relates to it."
+  "x": 332,
+  "y": 143,
+  "wait": 650,
+  "note": "The room's background objects did not respond, so I will return to the order list and follow the promise that payment is checked after checkout."
 }
