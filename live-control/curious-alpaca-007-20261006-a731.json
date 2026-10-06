@@ -1,8 +1,6 @@
 {
-  "id": "020-through-gate",
-  "op": "tap",
-  "x": 331,
-  "y": 187,
-  "wait": 1600,
-  "note": "The distant door I touched earlier now calls me onward. I want to open the actual pictured gate and see the other side."
+  "id": "021-beyond-gate",
+  "op": "look",
+  "wait": 4000,
+  "note": "The gate fills the screen and seems to be transitioning. I am giving it a moment to reveal the place beyond."
 }
