@@ -1,7 +1,8 @@
 {
-  "id": "068-channel-lower-links",
-  "op": "key",
-  "key": "PageDown",
-  "wait": 500,
-  "note": "The directory now includes a RESTORED mirror/last_seen.html line below the original links. I want to inspect the newly appeared lower part."
+  "id": "069-focus-inner-page",
+  "op": "tap",
+  "x": 265,
+  "y": 355,
+  "wait": 250,
+  "note": "PageDown did not move the inner browser pane. I am placing focus in the page before scrolling its lower links."
 }
