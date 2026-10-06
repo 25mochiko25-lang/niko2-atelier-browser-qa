@@ -1,0 +1,67 @@
+{
+  "label": "cabinet-doorway",
+  "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#diary",
+  "route": "diary",
+  "viewportText": "持ち帰ったものは、ここに残る。\n増えるほど、棚の景色も少しずつ変わる。\n中を見る",
+  "renderedBodyText": "作品へ移動\n\n\n\nNIKO² DIARY\nDiary\n今日のことを、ひとつだけ。\n10月7日 03:20\nTODAY\n今日を残す\n✦\nいまの気配\n\n静か\n\nきらきら\n\nぼんやり\n\nざわざわ\n\n甘い\n\n雨っぽい\n\n眠い\n\n何もない\nPHOTO\n写真\n選択なし\n色・モチーフ\nOPTIONAL\n言葉\nOPTIONAL\nこの端末だけに残ります\n残す\nRECENT\n少し前の自分\n\n空を見ているくまの横顔\n10/7\n2026年10月\nMONTHLY REFLECTION\n今月の景色\nよく残った気配\n静かな余白\nよく残った色\n色のない紙片\nよく残ったモチーフ\n名前のないもの\nまだ記録が少ないので、傾向ではなく、残ったものをそのまま眺めています。\nもう少し見る\nARCHIVE\n前の日々をひらく\n\nWHAT REMAINED\n残ったものを見る\nアトリエへ戻る\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n持ち帰ったものは、ここに残る。\n増えるほど、棚の景色も少しずつ変わる。\n中を見る\n",
+  "controls": [
+    {
+      "tag": "A",
+      "id": "",
+      "cls": "skip-link",
+      "text": "作品へ移動",
+      "type": null,
+      "href": "#main",
+      "disabled": false,
+      "rect": {
+        "x": 8,
+        "y": -61,
+        "w": 108,
+        "h": 43
+      },
+      "onScreen": false,
+      "hit": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "soundToggle",
+      "cls": "sound-toggle",
+      "text": "音をオンにする",
+      "type": "button",
+      "href": null,
+      "disabled": false,
+      "rect": {
+        "x": 332,
+        "y": 14,
+        "w": 44,
+        "h": 44
+      },
+      "onScreen": true,
+      "hit": true
+    },
+    {
+      "tag": "BUTTON",
+      "id": "enterCabinet",
+      "cls": "",
+      "text": "中を見る",
+      "type": "button",
+      "href": null,
+      "disabled": false,
+      "rect": {
+        "x": 135,
+        "y": 434,
+        "w": 120,
+        "h": 44
+      },
+      "onScreen": true,
+      "hit": true
+    }
+  ],
+  "scroll": {
+    "x": 0,
+    "y": 0,
+    "h": 844
+  },
+  "scrollContainers": [],
+  "dialogs": []
+}

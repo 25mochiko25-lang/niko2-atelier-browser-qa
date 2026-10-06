@@ -1,0 +1,153 @@
+{
+  "request": "genre-critic-six-cont03",
+  "startUrl": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+  "startedAt": "2026-10-06T18:20:09.928Z",
+  "finishedAt": "2026-10-06T18:20:34.758Z",
+  "httpStatus": 200,
+  "events": [
+    {
+      "step": 1,
+      "action": {
+        "kind": "tap",
+        "selector": ".home-diary-entry",
+        "label": "reopen-diary",
+        "wait": 1500
+      },
+      "result": {
+        "x": 87.43749904632568,
+        "y": 371.515625,
+        "label": "Diaryを開く",
+        "id": ""
+      },
+      "error": null,
+      "before": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+        "route": "home"
+      },
+      "after": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#diary",
+        "route": "diary"
+      }
+    },
+    {
+      "step": 2,
+      "action": {
+        "kind": "tap",
+        "selector": "#openCabinetThreshold",
+        "label": "cabinet-doorway",
+        "wait": 1200
+      },
+      "result": {
+        "x": 195,
+        "y": 696.734375,
+        "label": "WHAT REMAINED\n残ったものを見る",
+        "id": "openCabinetThreshold"
+      },
+      "error": null,
+      "before": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#diary",
+        "route": "diary"
+      },
+      "after": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#diary",
+        "route": "diary"
+      }
+    },
+    {
+      "step": 3,
+      "action": {
+        "kind": "tap",
+        "name": "中を見る",
+        "label": "enter-cabinet",
+        "wait": 2500,
+        "picture": true
+      },
+      "result": {
+        "x": 194.984375,
+        "y": 456,
+        "label": "中を見る",
+        "id": "enterCabinet"
+      },
+      "error": null,
+      "before": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#diary",
+        "route": "diary"
+      },
+      "after": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#cabinet",
+        "route": "cabinet"
+      }
+    },
+    {
+      "step": 4,
+      "action": {
+        "kind": "tap",
+        "name": "糸結び|くま",
+        "regex": true,
+        "label": "inspect-collected-memory-on-shelf",
+        "wait": 1800,
+        "picture": true,
+        "optional": true
+      },
+      "result": null,
+      "error": "TimeoutError: locator.waitFor: Timeout 10000ms exceeded.\nCall log:\n  - waiting for getByRole('button', { name: /糸結び|くま/i }).first() to be visible\n",
+      "before": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#cabinet",
+        "route": "cabinet"
+      },
+      "after": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#cabinet",
+        "route": "cabinet"
+      }
+    }
+  ],
+  "observations": [
+    {
+      "label": "arrival",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+      "route": "home",
+      "viewportText": "WORLD\nWORLD",
+      "screenshot": "001-arrival.jpg"
+    },
+    {
+      "label": "reopen-diary",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#diary",
+      "route": "diary",
+      "viewportText": "NIKO² ATELIER\nDream\nDiary\nAbout\nNIKO² DIARY\nDiary\n今日のことを、ひとつだけ。\n10月7日 03:20\nTODAY\n今日を残す\n✦\nいまの気配\n静か\nきらきら\nぼんやり\nざわざわ\n甘い\n雨っぽい\n眠い\n何もない\nPHOTO\n選択なし\n色・モチーフ\nOPTIONAL\n言葉\nOPTIONAL\nこの端末だけに残ります\n残す\nRECENT\n少し前の自分"
+    },
+    {
+      "label": "cabinet-doorway",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#diary",
+      "route": "diary",
+      "viewportText": "持ち帰ったものは、ここに残る。\n増えるほど、棚の景色も少しずつ変わる。\n中を見る"
+    },
+    {
+      "label": "enter-cabinet",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#cabinet",
+      "route": "cabinet",
+      "viewportText": "NIKO² ATELIER\nWHAT REMAINED\nTHE CABINET",
+      "screenshot": "004-enter-cabinet.jpg"
+    },
+    {
+      "label": "inspect-collected-memory-on-shelf",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#cabinet",
+      "route": "cabinet",
+      "viewportText": "NIKO² ATELIER\nWHAT REMAINED\nTHE CABINET",
+      "screenshot": "005-inspect-collected-memory-on-shelf.jpg"
+    },
+    {
+      "label": "final",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#cabinet",
+      "route": "cabinet",
+      "viewportText": "NIKO² ATELIER\nWHAT REMAINED\nTHE CABINET",
+      "screenshot": "006-final.jpg"
+    }
+  ],
+  "errors": [],
+  "httpErrors": [
+    {
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/api/identity",
+      "status": 404
+    }
+  ]
+}
