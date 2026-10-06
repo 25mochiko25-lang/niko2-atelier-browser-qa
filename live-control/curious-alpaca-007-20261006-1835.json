@@ -1,8 +1,8 @@
 {
-  "id": "a79",
+  "id": "a80",
   "op": "tap",
-  "x": 284,
-  "y": 277,
-  "note": "Following the hotel-return banner to check out of the room I left open.",
-  "wait": 1100
+  "x": 283,
+  "y": 786,
+  "note": "My two dishes and the stay are recorded. Checking out now feels like a natural end to this night's visit.",
+  "wait": 1500
 }
