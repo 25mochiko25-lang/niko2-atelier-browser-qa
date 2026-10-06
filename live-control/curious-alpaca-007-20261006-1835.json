@@ -1,8 +1,6 @@
 {
-  "id": "a17",
-  "op": "tap",
-  "x": 325,
-  "y": 402,
-  "note": "The distant arch has come close. I want to step into the bright opening itself.",
-  "wait": 1600
+  "id": "a18",
+  "op": "look",
+  "note": "Letting the passage through the bright gate settle.",
+  "wait": 1200
 }
