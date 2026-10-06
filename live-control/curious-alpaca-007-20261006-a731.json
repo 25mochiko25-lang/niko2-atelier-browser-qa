@@ -1,8 +1,8 @@
 {
-  "id": "080-world-again",
+  "id": "081-research-lab",
   "op": "tap",
-  "x": 196,
-  "y": 337,
-  "wait": 800,
-  "note": "I want to revisit WORLD and choose the cool blue doorway I left unexplored."
+  "x": 85,
+  "y": 392,
+  "wait": 950,
+  "note": "After the hotel and the computer's odd records, I am ready to investigate Research Lab through the blue doorway."
 }
