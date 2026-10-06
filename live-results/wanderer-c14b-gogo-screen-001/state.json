@@ -5,19 +5,16 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-06T18:36:09.009Z",
-  "updatedAt": "2026-10-06T18:39:06.045Z",
-  "lastCommand": "02",
-  "stopReason": null,
+  "updatedAt": "2026-10-06T18:41:55.993Z",
+  "lastCommand": "stop-infrastructure",
+  "stopReason": "Infrastructure stop, not visitor boredom: screenshot bytes are unavailable in this chat environment and repeated concurrent main-write conflicts block reliable live commands. Continue and report the separately executing, own targeted browser cases instead.",
   "action": {
-    "id": "02",
-    "op": "tap",
-    "x": 336,
-    "y": 770,
-    "wait": 1300,
-    "note": "Continue to discover what this entrance leads to."
+    "id": "stop-infrastructure",
+    "op": "stop",
+    "reason": "Infrastructure stop, not visitor boredom: screenshot bytes are unavailable in this chat environment and repeated concurrent main-write conflicts block reliable live commands. Continue and report the separately executing, own targeted browser cases instead."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/12e16d92fc431b44fc3c8dedeb4d8a21e156d00b/live-results/wanderer-c14b-gogo-screen-001/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/6038e1c80fa67312e07236856cc531092cee31e3/live-results/wanderer-c14b-gogo-screen-001/current.jpg",
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -175,6 +172,19 @@
       "error": null,
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/12e16d92fc431b44fc3c8dedeb4d8a21e156d00b/live-results/wanderer-c14b-gogo-screen-001/current.jpg",
+      "text": "作品へ移動\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nINTERACTION\n\nSound On\n\nSound Off\n触れる\n持ち帰る\n仕舞う\n次へ戻る"
+    },
+    {
+      "number": 4,
+      "at": "2026-10-06T18:41:55.993Z",
+      "action": {
+        "id": "stop-infrastructure",
+        "op": "stop",
+        "reason": "Infrastructure stop, not visitor boredom: screenshot bytes are unavailable in this chat environment and repeated concurrent main-write conflicts block reliable live commands. Continue and report the separately executing, own targeted browser cases instead."
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/6038e1c80fa67312e07236856cc531092cee31e3/live-results/wanderer-c14b-gogo-screen-001/current.jpg",
       "text": "作品へ移動\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nINTERACTION\n\nSound On\n\nSound Off\n触れる\n持ち帰る\n仕舞う\n次へ戻る"
     }
   ]
