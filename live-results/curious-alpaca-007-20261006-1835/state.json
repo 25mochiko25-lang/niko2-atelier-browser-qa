@@ -5,19 +5,18 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-06T18:31:03.762Z",
-  "updatedAt": "2026-10-06T18:44:11.792Z",
-  "lastCommand": "a39",
+  "updatedAt": "2026-10-06T18:44:29.611Z",
+  "lastCommand": "a40",
   "stopReason": null,
   "action": {
-    "id": "a39",
-    "op": "tap",
-    "x": 211,
-    "y": 474,
-    "note": "The next record calls the fluffy figure sample M-00 and says it reports itself to be an alpaca. I want its file.",
-    "wait": 800
+    "id": "a40",
+    "op": "key",
+    "key": "PageDown",
+    "note": "The specimen file continues below the visible risk-level row. I want to read the rest of this very questionable official assessment.",
+    "wait": 700
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/76249cf0175c9aa9089ca1b607a578a6b38f9bfe/live-results/curious-alpaca-007-20261006-1835/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/dc3607b909d26b5933b90d6870f7c61ab435154b/live-results/curious-alpaca-007-20261006-1835/current.jpg",
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#lab",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -762,6 +761,21 @@
       "error": null,
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#lab",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/76249cf0175c9aa9089ca1b607a578a6b38f9bfe/live-results/curious-alpaca-007-20261006-1835/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\n\n\n\n白と薄水色のガラス研究所。奥へ続く通路と、記録の置かれた観測台があります。\nMAIN LAB\n観測台\n\n\n\n観測台奥の保管室へ進む\nMAIN LAB // RECORD\n\n\nSPECIMEN / SYSTEM ENTITY OBSERVATION\n\n白い試料 M-00\nSPECIMEN M-00 / MOFUMOFU\nLOW (?)\nClassification\nINCONCLUSIVE\nComposition\ncloud-like / cotton-like / mochi-like\nBody temperature\nslightly warm\nStructural integrity\nquestionable\nSelf-reported species\nALPACA\nRisk Level\nLOW (?)\nKnown behavior\nanswers questions\noperates cloud systems\ninsists it is an alpaca\nRelation to N²-Ω\n████████\n本人供述\n「知らないもふ」\nEDIBILITY: NOT TESTED / DO NOT EAT THE SYSTEM ARCHITECT.\nRELATED: MOFUMOFU / SYSTEM / ABOUT\nARCHIVE COPY / VIEW ONLY\nSPECIMEN M-00 / MOFUMOFUを開きました。\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+      "number": 41,
+      "at": "2026-10-06T18:44:29.611Z",
+      "action": {
+        "id": "a40",
+        "op": "key",
+        "key": "PageDown",
+        "note": "The specimen file continues below the visible risk-level row. I want to read the rest of this very questionable official assessment.",
+        "wait": 700
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#lab",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/dc3607b909d26b5933b90d6870f7c61ab435154b/live-results/curious-alpaca-007-20261006-1835/current.jpg",
       "text": "作品へ移動\nNIKO² ATELIER\n\n\n\n白と薄水色のガラス研究所。奥へ続く通路と、記録の置かれた観測台があります。\nMAIN LAB\n観測台\n\n\n\n観測台奥の保管室へ進む\nMAIN LAB // RECORD\n\n\nSPECIMEN / SYSTEM ENTITY OBSERVATION\n\n白い試料 M-00\nSPECIMEN M-00 / MOFUMOFU\nLOW (?)\nClassification\nINCONCLUSIVE\nComposition\ncloud-like / cotton-like / mochi-like\nBody temperature\nslightly warm\nStructural integrity\nquestionable\nSelf-reported species\nALPACA\nRisk Level\nLOW (?)\nKnown behavior\nanswers questions\noperates cloud systems\ninsists it is an alpaca\nRelation to N²-Ω\n████████\n本人供述\n「知らないもふ」\nEDIBILITY: NOT TESTED / DO NOT EAT THE SYSTEM ARCHITECT.\nRELATED: MOFUMOFU / SYSTEM / ABOUT\nARCHIVE COPY / VIEW ONLY\nSPECIMEN M-00 / MOFUMOFUを開きました。\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
     }
   ]
