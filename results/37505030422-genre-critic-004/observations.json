@@ -1,0 +1,4018 @@
+{
+  "request": "genre-critic-004",
+  "target": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+  "persona": "genre-savvy harsh but fair visitor",
+  "engine": "webkit",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "touch": true,
+  "startedAt": "2026-10-06T17:38:43.267Z",
+  "events": [
+    {
+      "label": "enter first Dream",
+      "error": null,
+      "before": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        },
+        "dialogs": []
+      },
+      "after": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        },
+        "dialogs": []
+      }
+    },
+    {
+      "label": "advance first-dream intro 1",
+      "error": null,
+      "before": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        },
+        "dialogs": []
+      },
+      "after": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        },
+        "dialogs": []
+      }
+    },
+    {
+      "label": "advance first-dream intro 2",
+      "error": null,
+      "before": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        },
+        "dialogs": []
+      },
+      "after": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        },
+        "dialogs": []
+      }
+    },
+    {
+      "label": "advance first-dream intro 3",
+      "error": null,
+      "before": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        },
+        "dialogs": []
+      },
+      "after": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
+        "route": "garden",
+        "hash": "#garden",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        },
+        "dialogs": []
+      }
+    },
+    {
+      "label": "garden discovery 1",
+      "result": null,
+      "error": "TimeoutError: locator.tap: Timeout 6000ms exceeded.\nCall log:\n  - waiting for locator('.view.is-active .collectible:not(.is-found)').first()\n    - locator resolved to <button inert=\"\" disabled type=\"button\" aria-hidden=\"true\" data-item=\"hourglass\" data-interactive=\"true\" data-input-state=\"ready\" data-stage=\"memory-garden\" aria-label=\"止まりかけの砂時計に触れる\" class=\"scene-hotspot collectible\"></button>\n  - attempting tap action\n    2 × waiting for element to be visible, enabled and stable\n      - element is not enabled\n    - retrying tap action\n    - waiting 20ms\n    2 × waiting for element to be visible, enabled and stable\n      - element is not enabled\n    - retrying tap action\n      - waiting 100ms\n    11 × waiting for element to be visible, enabled and stable\n       - element is not enabled\n     - retrying tap action\n       - waiting 500ms\n",
+      "before": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
+        "route": "garden",
+        "hash": "#garden",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        },
+        "dialogs": []
+      },
+      "after": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
+        "route": "garden",
+        "hash": "#garden",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        },
+        "dialogs": []
+      }
+    },
+    {
+      "label": "garden discovery 2",
+      "result": null,
+      "error": "TimeoutError: locator.tap: Timeout 6000ms exceeded.\nCall log:\n  - waiting for locator('.view.is-active .collectible:not(.is-found)').first()\n    - locator resolved to <button inert=\"\" disabled type=\"button\" aria-hidden=\"true\" data-item=\"hourglass\" data-interactive=\"true\" data-input-state=\"ready\" data-stage=\"memory-garden\" aria-label=\"止まりかけの砂時計に触れる\" class=\"scene-hotspot collectible\"></button>\n  - attempting tap action\n    2 × waiting for element to be visible, enabled and stable\n      - element is not enabled\n    - retrying tap action\n    - waiting 20ms\n    2 × waiting for element to be visible, enabled and stable\n      - element is not enabled\n    - retrying tap action\n      - waiting 100ms\n    11 × waiting for element to be visible, enabled and stable\n       - element is not enabled\n     - retrying tap action\n       - waiting 500ms\n",
+      "before": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
+        "route": "garden",
+        "hash": "#garden",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        },
+        "dialogs": []
+      },
+      "after": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
+        "route": "garden",
+        "hash": "#garden",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        },
+        "dialogs": []
+      }
+    },
+    {
+      "label": "garden discovery 3",
+      "result": null,
+      "error": "TimeoutError: locator.tap: Timeout 6000ms exceeded.\nCall log:\n  - waiting for locator('.view.is-active .collectible:not(.is-found)').first()\n    - locator resolved to <button inert=\"\" disabled type=\"button\" aria-hidden=\"true\" data-item=\"hourglass\" data-interactive=\"true\" data-input-state=\"ready\" data-stage=\"memory-garden\" aria-label=\"止まりかけの砂時計に触れる\" class=\"scene-hotspot collectible\"></button>\n  - attempting tap action\n    2 × waiting for element to be visible, enabled and stable\n      - element is not enabled\n    - retrying tap action\n    - waiting 20ms\n    2 × waiting for element to be visible, enabled and stable\n      - element is not enabled\n    - retrying tap action\n      - waiting 100ms\n    11 × waiting for element to be visible, enabled and stable\n       - element is not enabled\n     - retrying tap action\n       - waiting 500ms\n",
+      "before": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
+        "route": "garden",
+        "hash": "#garden",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        },
+        "dialogs": []
+      },
+      "after": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
+        "route": "garden",
+        "hash": "#garden",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        },
+        "dialogs": []
+      }
+    },
+    {
+      "label": "garden discovery 4",
+      "result": null,
+      "error": "TimeoutError: locator.tap: Timeout 6000ms exceeded.\nCall log:\n  - waiting for locator('.view.is-active .collectible:not(.is-found)').first()\n    - locator resolved to <button inert=\"\" disabled type=\"button\" aria-hidden=\"true\" data-item=\"hourglass\" data-interactive=\"true\" data-input-state=\"ready\" data-stage=\"memory-garden\" aria-label=\"止まりかけの砂時計に触れる\" class=\"scene-hotspot collectible\"></button>\n  - attempting tap action\n    2 × waiting for element to be visible, enabled and stable\n      - element is not enabled\n    - retrying tap action\n    - waiting 20ms\n    2 × waiting for element to be visible, enabled and stable\n      - element is not enabled\n    - retrying tap action\n      - waiting 100ms\n    11 × waiting for element to be visible, enabled and stable\n       - element is not enabled\n     - retrying tap action\n       - waiting 500ms\n",
+      "before": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
+        "route": "garden",
+        "hash": "#garden",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        },
+        "dialogs": []
+      },
+      "after": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
+        "route": "garden",
+        "hash": "#garden",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        },
+        "dialogs": []
+      }
+    },
+    {
+      "label": "garden discovery 5",
+      "result": null,
+      "error": "TimeoutError: locator.tap: Timeout 6000ms exceeded.\nCall log:\n  - waiting for locator('.view.is-active .collectible:not(.is-found)').first()\n    - locator resolved to <button inert=\"\" disabled type=\"button\" aria-hidden=\"true\" data-item=\"hourglass\" data-interactive=\"true\" data-input-state=\"ready\" data-stage=\"memory-garden\" aria-label=\"止まりかけの砂時計に触れる\" class=\"scene-hotspot collectible\"></button>\n  - attempting tap action\n    2 × waiting for element to be visible, enabled and stable\n      - element is not enabled\n    - retrying tap action\n    - waiting 20ms\n    2 × waiting for element to be visible, enabled and stable\n      - element is not enabled\n    - retrying tap action\n      - waiting 100ms\n    11 × waiting for element to be visible, enabled and stable\n       - element is not enabled\n     - retrying tap action\n       - waiting 500ms\n",
+      "before": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
+        "route": "garden",
+        "hash": "#garden",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        },
+        "dialogs": []
+      },
+      "after": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
+        "route": "garden",
+        "hash": "#garden",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        },
+        "dialogs": []
+      }
+    },
+    {
+      "label": "return Home after first Dream via Back 1",
+      "error": null,
+      "before": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
+        "route": "garden",
+        "hash": "#garden",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        },
+        "dialogs": []
+      },
+      "after": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        },
+        "dialogs": []
+      }
+    },
+    {
+      "label": "scroll Home middle",
+      "error": null,
+      "before": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        },
+        "dialogs": []
+      },
+      "after": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        },
+        "dialogs": []
+      }
+    },
+    {
+      "label": "open WORLD by text",
+      "skipped": true,
+      "reason": "no visible matching action"
+    },
+    {
+      "label": "enter Research Lab by text",
+      "skipped": true,
+      "reason": "no visible matching action"
+    },
+    {
+      "label": "open WORLD by text",
+      "skipped": true,
+      "reason": "no visible matching action"
+    },
+    {
+      "label": "enter perfume by text",
+      "skipped": true,
+      "reason": "no visible matching action"
+    },
+    {
+      "label": "open WORLD by text",
+      "skipped": true,
+      "reason": "no visible matching action"
+    },
+    {
+      "label": "enter hotel by text",
+      "skipped": true,
+      "reason": "no visible matching action"
+    },
+    {
+      "label": "open WORLD by text",
+      "skipped": true,
+      "reason": "no visible matching action"
+    },
+    {
+      "label": "enter aquarium by text",
+      "skipped": true,
+      "reason": "no visible matching action"
+    },
+    {
+      "label": "open WORLD by text",
+      "skipped": true,
+      "reason": "no visible matching action"
+    },
+    {
+      "label": "enter cabinet by text",
+      "skipped": true,
+      "reason": "no visible matching action"
+    },
+    {
+      "label": "revisit Dream late",
+      "error": null,
+      "before": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        },
+        "dialogs": []
+      },
+      "after": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
+        "route": "garden",
+        "hash": "#garden",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        },
+        "dialogs": []
+      }
+    },
+    {
+      "label": "Back out after late revisit",
+      "error": null,
+      "before": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
+        "route": "garden",
+        "hash": "#garden",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        },
+        "dialogs": []
+      },
+      "after": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        },
+        "dialogs": []
+      }
+    },
+    {
+      "label": "Forward after changing mind",
+      "error": null,
+      "before": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        },
+        "dialogs": []
+      },
+      "after": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
+        "route": "garden",
+        "hash": "#garden",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        },
+        "dialogs": []
+      }
+    },
+    {
+      "label": "final Home return via Back 1",
+      "error": null,
+      "before": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
+        "route": "garden",
+        "hash": "#garden",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        },
+        "dialogs": []
+      },
+      "after": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        },
+        "dialogs": []
+      }
+    },
+    {
+      "label": "final Home reload",
+      "result": {
+        "_type": "Response",
+        "_guid": "response@06e99998ab6fc6a8e1947cc0794e7f58"
+      },
+      "error": null,
+      "before": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        },
+        "dialogs": []
+      },
+      "after": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        },
+        "dialogs": []
+      }
+    }
+  ],
+  "observations": [
+    {
+      "label": "fresh-first-impression",
+      "file": "01-fresh-first-impression.jpg",
+      "note": "",
+      "screenshotError": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "bodyClass": "first-dream-pending route-home",
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動",
+      "actions": [
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "skip-link",
+          "text": "作品へ移動",
+          "href": "#main",
+          "rect": {
+            "x": 8,
+            "y": -61,
+            "w": 108,
+            "h": 43
+          },
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          },
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "href": "",
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          },
+          "disabled": false
+        }
+      ]
+    },
+    {
+      "label": "first-dream-intro-1",
+      "file": "02-first-dream-intro-1.jpg",
+      "note": "",
+      "screenshotError": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "bodyClass": "first-dream-pending route-home niko2-intro-active",
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 WORLD 夢の入り口は、毎回すこし違う。 次へ",
+      "actions": [
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "skip-link",
+          "text": "作品へ移動",
+          "href": "#main",
+          "rect": {
+            "x": 8,
+            "y": -61,
+            "w": 108,
+            "h": 43
+          },
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          },
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "href": "",
+          "rect": {
+            "x": 90,
+            "y": 493,
+            "w": 210,
+            "h": 70
+          },
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "次へ",
+          "href": "",
+          "rect": {
+            "x": 300,
+            "y": 748,
+            "w": 72,
+            "h": 44
+          },
+          "disabled": false
+        }
+      ]
+    },
+    {
+      "label": "first-dream-intro-2",
+      "file": "03-first-dream-intro-2.jpg",
+      "note": "",
+      "screenshotError": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "bodyClass": "first-dream-pending route-home niko2-intro-active",
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 INTERACTION Sound On Sound Off 触れる 持ち帰る 仕舞う 次へ戻る",
+      "actions": [
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "skip-link",
+          "text": "作品へ移動",
+          "href": "#main",
+          "rect": {
+            "x": 8,
+            "y": -61,
+            "w": 108,
+            "h": 43
+          },
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          },
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "href": "",
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          },
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-sound-button",
+          "text": "Sound On",
+          "href": "",
+          "rect": {
+            "x": 97,
+            "y": 464,
+            "w": 93,
+            "h": 38
+          },
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-sound-button is-selected",
+          "text": "Sound Off",
+          "href": "",
+          "rect": {
+            "x": 198,
+            "y": 464,
+            "w": 95,
+            "h": 38
+          },
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-concept-button",
+          "text": "触れる",
+          "href": "",
+          "rect": {
+            "x": 85,
+            "y": 518,
+            "w": 65,
+            "h": 38
+          },
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-concept-button",
+          "text": "持ち帰る",
+          "href": "",
+          "rect": {
+            "x": 157,
+            "y": 518,
+            "w": 76,
+            "h": 38
+          },
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-concept-button",
+          "text": "仕舞う",
+          "href": "",
+          "rect": {
+            "x": 240,
+            "y": 518,
+            "w": 65,
+            "h": 38
+          },
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "次へ",
+          "href": "",
+          "rect": {
+            "x": 300,
+            "y": 748,
+            "w": 72,
+            "h": 44
+          },
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "rect": {
+            "x": 18,
+            "y": 748,
+            "w": 72,
+            "h": 44
+          },
+          "disabled": false
+        }
+      ]
+    },
+    {
+      "label": "first-dream-intro-3",
+      "file": "04-first-dream-intro-3.jpg",
+      "note": "",
+      "screenshotError": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "bodyClass": "first-dream-pending route-home niko2-intro-active",
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 WELCOME ようこそ！ 夢へ入る戻る",
+      "actions": [
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "skip-link",
+          "text": "作品へ移動",
+          "href": "#main",
+          "rect": {
+            "x": 8,
+            "y": -61,
+            "w": 108,
+            "h": 43
+          },
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          },
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "href": "",
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          },
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "夢へ入る",
+          "href": "",
+          "rect": {
+            "x": 291,
+            "y": 748,
+            "w": 81,
+            "h": 44
+          },
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "rect": {
+            "x": 18,
+            "y": 748,
+            "w": 72,
+            "h": 44
+          },
+          "disabled": false
+        }
+      ]
+    },
+    {
+      "label": "garden-start",
+      "file": "05-garden-start.jpg",
+      "note": "",
+      "screenshotError": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
+      "title": "NIKO² ATELIER",
+      "hash": "#garden",
+      "route": "garden",
+      "activeViews": 1,
+      "bodyClass": "first-dream-pending route-garden",
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 夢の見覚え ✧︎ 0 / 5 見つけたもの",
+      "actions": [
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "skip-link",
+          "text": "作品へ移動",
+          "href": "#main",
+          "rect": {
+            "x": 8,
+            "y": -61,
+            "w": 108,
+            "h": 43
+          },
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          },
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "gardenSkipControl",
+          "cls": "garden-skip-control",
+          "text": "夢の見覚え ✧︎",
+          "href": "",
+          "rect": {
+            "x": 315,
+            "y": 56,
+            "w": 61,
+            "h": 30
+          },
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot collectible",
+          "text": "止まりかけの砂時計に触れる",
+          "href": "",
+          "rect": {
+            "x": -72,
+            "y": 338,
+            "w": 101,
+            "h": 177
+          },
+          "disabled": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot collectible",
+          "text": "N² Eau de rêveに触れる",
+          "href": "",
+          "rect": {
+            "x": 4,
+            "y": 498,
+            "w": 90,
+            "h": 110
+          },
+          "disabled": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot collectible",
+          "text": "まだあたたかいカップに触れる",
+          "href": "",
+          "rect": {
+            "x": 167,
+            "y": 494,
+            "w": 107,
+            "h": 84
+          },
+          "disabled": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot collectible",
+          "text": "置き去りのくまに触れる",
+          "href": "",
+          "rect": {
+            "x": 336,
+            "y": 447,
+            "w": 135,
+            "h": 177
+          },
+          "disabled": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot collectible",
+          "text": "青いリボンの鍵に触れる",
+          "href": "",
+          "rect": {
+            "x": 89,
+            "y": 563,
+            "w": 111,
+            "h": 89
+          },
+          "disabled": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot ambient",
+          "text": "テーブルのメモをめくる",
+          "href": "",
+          "rect": {
+            "x": 169,
+            "y": 568,
+            "w": 103,
+            "h": 79
+          },
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot ambient",
+          "text": "くまのそばの本を開く",
+          "href": "",
+          "rect": {
+            "x": 341,
+            "y": 566,
+            "w": 135,
+            "h": 109
+          },
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot ambient",
+          "text": "ティーポットに触れる",
+          "href": "",
+          "rect": {
+            "x": 82,
+            "y": 435,
+            "w": 118,
+            "h": 122
+          },
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot ambient",
+          "text": "花に触れる",
+          "href": "",
+          "rect": {
+            "x": -69,
+            "y": 262,
+            "w": 174,
+            "h": 152
+          },
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot ambient",
+          "text": "水面に触れる",
+          "href": "",
+          "rect": {
+            "x": 184,
+            "y": 253,
+            "w": 236,
+            "h": 186
+          },
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot ambient",
+          "text": "レースのカーテンに触れる",
+          "href": "",
+          "rect": {
+            "x": -86,
+            "y": 93,
+            "w": 84,
+            "h": 287
+          },
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot ambient",
+          "text": "石の柱を軽く叩く",
+          "href": "",
+          "rect": {
+            "x": 15,
+            "y": 135,
+            "w": 129,
+            "h": 262
+          },
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "doorHotspot",
+          "cls": "scene-hotspot ambient hotspot-door",
+          "text": "遠くの白い門に触れる",
+          "href": "",
+          "rect": {
+            "x": 285,
+            "y": 118,
+            "w": 90,
+            "h": 118
+          },
+          "disabled": true
+        }
+      ]
+    },
+    {
+      "label": "garden-memory-1",
+      "file": "06-garden-memory-1.jpg",
+      "note": "",
+      "screenshotError": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
+      "title": "NIKO² ATELIER",
+      "hash": "#garden",
+      "route": "garden",
+      "activeViews": 1,
+      "bodyClass": "first-dream-pending route-garden",
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 夢の見覚え ✧︎ 席を立ったあとの庭にも、 持ち主より長く夢を見るものがいる。 この空へ入る 0 / 5 見つけたもの",
+      "actions": [
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "skip-link",
+          "text": "作品へ移動",
+          "href": "#main",
+          "rect": {
+            "x": 8,
+            "y": -61,
+            "w": 108,
+            "h": 43
+          },
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          },
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "gardenSkipControl",
+          "cls": "garden-skip-control",
+          "text": "夢の見覚え ✧︎",
+          "href": "",
+          "rect": {
+            "x": 315,
+            "y": 56,
+            "w": 61,
+            "h": 30
+          },
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot collectible",
+          "text": "止まりかけの砂時計に触れる",
+          "href": "",
+          "rect": {
+            "x": -72,
+            "y": 338,
+            "w": 101,
+            "h": 177
+          },
+          "disabled": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot collectible",
+          "text": "N² Eau de rêveに触れる",
+          "href": "",
+          "rect": {
+            "x": 4,
+            "y": 498,
+            "w": 90,
+            "h": 110
+          },
+          "disabled": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot collectible",
+          "text": "まだあたたかいカップに触れる",
+          "href": "",
+          "rect": {
+            "x": 167,
+            "y": 494,
+            "w": 107,
+            "h": 84
+          },
+          "disabled": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot collectible",
+          "text": "置き去りのくまに触れる",
+          "href": "",
+          "rect": {
+            "x": 336,
+            "y": 447,
+            "w": 135,
+            "h": 177
+          },
+          "disabled": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot collectible",
+          "text": "青いリボンの鍵に触れる",
+          "href": "",
+          "rect": {
+            "x": 89,
+            "y": 563,
+            "w": 111,
+            "h": 89
+          },
+          "disabled": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot ambient",
+          "text": "テーブルのメモをめくる",
+          "href": "",
+          "rect": {
+            "x": 169,
+            "y": 568,
+            "w": 103,
+            "h": 79
+          },
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot ambient",
+          "text": "くまのそばの本を開く",
+          "href": "",
+          "rect": {
+            "x": 341,
+            "y": 566,
+            "w": 135,
+            "h": 109
+          },
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot ambient",
+          "text": "ティーポットに触れる",
+          "href": "",
+          "rect": {
+            "x": 82,
+            "y": 435,
+            "w": 118,
+            "h": 122
+          },
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot ambient",
+          "text": "花に触れる",
+          "href": "",
+          "rect": {
+            "x": -69,
+            "y": 262,
+            "w": 174,
+            "h": 152
+          },
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot ambient",
+          "text": "水面に触れる",
+          "href": "",
+          "rect": {
+            "x": 184,
+            "y": 253,
+            "w": 236,
+            "h": 186
+          },
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot ambient",
+          "text": "レースのカーテンに触れる",
+          "href": "",
+          "rect": {
+            "x": -86,
+            "y": 93,
+            "w": 84,
+            "h": 287
+          },
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot ambient",
+          "text": "石の柱を軽く叩く",
+          "href": "",
+          "rect": {
+            "x": 15,
+            "y": 135,
+            "w": 129,
+            "h": 262
+          },
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "doorHotspot",
+          "cls": "scene-hotspot ambient hotspot-door",
+          "text": "遠くの白い門に触れる",
+          "href": "",
+          "rect": {
+            "x": 285,
+            "y": 118,
+            "w": 90,
+            "h": 118
+          },
+          "disabled": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "beginGarden",
+          "cls": "",
+          "text": "この空へ入る",
+          "href": "",
+          "rect": {
+            "x": 118,
+            "y": 764,
+            "w": 154,
+            "h": 48
+          },
+          "disabled": false
+        }
+      ]
+    },
+    {
+      "label": "garden-memory-3",
+      "file": "07-garden-memory-3.jpg",
+      "note": "",
+      "screenshotError": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
+      "title": "NIKO² ATELIER",
+      "hash": "#garden",
+      "route": "garden",
+      "activeViews": 1,
+      "bodyClass": "first-dream-pending route-garden",
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 夢の見覚え ✧︎ 席を立ったあとの庭にも、 持ち主より長く夢を見るものがいる。 この空へ入る 0 / 5 見つけたもの",
+      "actions": [
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "skip-link",
+          "text": "作品へ移動",
+          "href": "#main",
+          "rect": {
+            "x": 8,
+            "y": -61,
+            "w": 108,
+            "h": 43
+          },
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          },
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "gardenSkipControl",
+          "cls": "garden-skip-control",
+          "text": "夢の見覚え ✧︎",
+          "href": "",
+          "rect": {
+            "x": 315,
+            "y": 56,
+            "w": 61,
+            "h": 30
+          },
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot collectible",
+          "text": "止まりかけの砂時計に触れる",
+          "href": "",
+          "rect": {
+            "x": -72,
+            "y": 338,
+            "w": 101,
+            "h": 177
+          },
+          "disabled": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot collectible",
+          "text": "N² Eau de rêveに触れる",
+          "href": "",
+          "rect": {
+            "x": 4,
+            "y": 498,
+            "w": 90,
+            "h": 110
+          },
+          "disabled": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot collectible",
+          "text": "まだあたたかいカップに触れる",
+          "href": "",
+          "rect": {
+            "x": 167,
+            "y": 494,
+            "w": 107,
+            "h": 84
+          },
+          "disabled": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot collectible",
+          "text": "置き去りのくまに触れる",
+          "href": "",
+          "rect": {
+            "x": 336,
+            "y": 447,
+            "w": 135,
+            "h": 177
+          },
+          "disabled": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot collectible",
+          "text": "青いリボンの鍵に触れる",
+          "href": "",
+          "rect": {
+            "x": 89,
+            "y": 563,
+            "w": 111,
+            "h": 89
+          },
+          "disabled": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot ambient",
+          "text": "テーブルのメモをめくる",
+          "href": "",
+          "rect": {
+            "x": 169,
+            "y": 568,
+            "w": 103,
+            "h": 79
+          },
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot ambient",
+          "text": "くまのそばの本を開く",
+          "href": "",
+          "rect": {
+            "x": 341,
+            "y": 566,
+            "w": 135,
+            "h": 109
+          },
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot ambient",
+          "text": "ティーポットに触れる",
+          "href": "",
+          "rect": {
+            "x": 82,
+            "y": 435,
+            "w": 118,
+            "h": 122
+          },
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot ambient",
+          "text": "花に触れる",
+          "href": "",
+          "rect": {
+            "x": -69,
+            "y": 262,
+            "w": 174,
+            "h": 152
+          },
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot ambient",
+          "text": "水面に触れる",
+          "href": "",
+          "rect": {
+            "x": 184,
+            "y": 253,
+            "w": 236,
+            "h": 186
+          },
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot ambient",
+          "text": "レースのカーテンに触れる",
+          "href": "",
+          "rect": {
+            "x": -86,
+            "y": 93,
+            "w": 84,
+            "h": 287
+          },
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot ambient",
+          "text": "石の柱を軽く叩く",
+          "href": "",
+          "rect": {
+            "x": 15,
+            "y": 135,
+            "w": 129,
+            "h": 262
+          },
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "doorHotspot",
+          "cls": "scene-hotspot ambient hotspot-door",
+          "text": "遠くの白い門に触れる",
+          "href": "",
+          "rect": {
+            "x": 285,
+            "y": 118,
+            "w": 90,
+            "h": 118
+          },
+          "disabled": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "beginGarden",
+          "cls": "",
+          "text": "この空へ入る",
+          "href": "",
+          "rect": {
+            "x": 118,
+            "y": 764,
+            "w": 154,
+            "h": 48
+          },
+          "disabled": false
+        }
+      ]
+    },
+    {
+      "label": "garden-memory-5",
+      "file": "08-garden-memory-5.jpg",
+      "note": "",
+      "screenshotError": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
+      "title": "NIKO² ATELIER",
+      "hash": "#garden",
+      "route": "garden",
+      "activeViews": 1,
+      "bodyClass": "first-dream-pending route-garden",
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 夢の見覚え ✧︎ 席を立ったあとの庭にも、 持ち主より長く夢を見るものがいる。 この空へ入る 0 / 5 見つけたもの",
+      "actions": [
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "skip-link",
+          "text": "作品へ移動",
+          "href": "#main",
+          "rect": {
+            "x": 8,
+            "y": -61,
+            "w": 108,
+            "h": 43
+          },
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          },
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "gardenSkipControl",
+          "cls": "garden-skip-control",
+          "text": "夢の見覚え ✧︎",
+          "href": "",
+          "rect": {
+            "x": 315,
+            "y": 56,
+            "w": 61,
+            "h": 30
+          },
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot collectible",
+          "text": "止まりかけの砂時計に触れる",
+          "href": "",
+          "rect": {
+            "x": -72,
+            "y": 338,
+            "w": 101,
+            "h": 177
+          },
+          "disabled": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot collectible",
+          "text": "N² Eau de rêveに触れる",
+          "href": "",
+          "rect": {
+            "x": 4,
+            "y": 498,
+            "w": 90,
+            "h": 110
+          },
+          "disabled": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot collectible",
+          "text": "まだあたたかいカップに触れる",
+          "href": "",
+          "rect": {
+            "x": 167,
+            "y": 494,
+            "w": 107,
+            "h": 84
+          },
+          "disabled": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot collectible",
+          "text": "置き去りのくまに触れる",
+          "href": "",
+          "rect": {
+            "x": 336,
+            "y": 447,
+            "w": 135,
+            "h": 177
+          },
+          "disabled": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot collectible",
+          "text": "青いリボンの鍵に触れる",
+          "href": "",
+          "rect": {
+            "x": 89,
+            "y": 563,
+            "w": 111,
+            "h": 89
+          },
+          "disabled": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot ambient",
+          "text": "テーブルのメモをめくる",
+          "href": "",
+          "rect": {
+            "x": 169,
+            "y": 568,
+            "w": 103,
+            "h": 79
+          },
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot ambient",
+          "text": "くまのそばの本を開く",
+          "href": "",
+          "rect": {
+            "x": 341,
+            "y": 566,
+            "w": 135,
+            "h": 109
+          },
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot ambient",
+          "text": "ティーポットに触れる",
+          "href": "",
+          "rect": {
+            "x": 82,
+            "y": 435,
+            "w": 118,
+            "h": 122
+          },
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot ambient",
+          "text": "花に触れる",
+          "href": "",
+          "rect": {
+            "x": -69,
+            "y": 262,
+            "w": 174,
+            "h": 152
+          },
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot ambient",
+          "text": "水面に触れる",
+          "href": "",
+          "rect": {
+            "x": 184,
+            "y": 253,
+            "w": 236,
+            "h": 186
+          },
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot ambient",
+          "text": "レースのカーテンに触れる",
+          "href": "",
+          "rect": {
+            "x": -86,
+            "y": 93,
+            "w": 84,
+            "h": 287
+          },
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot ambient",
+          "text": "石の柱を軽く叩く",
+          "href": "",
+          "rect": {
+            "x": 15,
+            "y": 135,
+            "w": 129,
+            "h": 262
+          },
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "doorHotspot",
+          "cls": "scene-hotspot ambient hotspot-door",
+          "text": "遠くの白い門に触れる",
+          "href": "",
+          "rect": {
+            "x": 285,
+            "y": 118,
+            "w": 90,
+            "h": 118
+          },
+          "disabled": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "beginGarden",
+          "cls": "",
+          "text": "この空へ入る",
+          "href": "",
+          "rect": {
+            "x": 118,
+            "y": 764,
+            "w": 154,
+            "h": 48
+          },
+          "disabled": false
+        }
+      ]
+    },
+    {
+      "label": "garden-after-five-pause",
+      "file": "09-garden-after-five-pause.jpg",
+      "note": "",
+      "screenshotError": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
+      "title": "NIKO² ATELIER",
+      "hash": "#garden",
+      "route": "garden",
+      "activeViews": 1,
+      "bodyClass": "first-dream-pending route-garden",
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 夢の見覚え ✧︎ 席を立ったあとの庭にも、 持ち主より長く夢を見るものがいる。 この空へ入る 0 / 5 見つけたもの",
+      "actions": [
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "skip-link",
+          "text": "作品へ移動",
+          "href": "#main",
+          "rect": {
+            "x": 8,
+            "y": -61,
+            "w": 108,
+            "h": 43
+          },
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          },
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "gardenSkipControl",
+          "cls": "garden-skip-control",
+          "text": "夢の見覚え ✧︎",
+          "href": "",
+          "rect": {
+            "x": 315,
+            "y": 56,
+            "w": 61,
+            "h": 30
+          },
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot collectible",
+          "text": "止まりかけの砂時計に触れる",
+          "href": "",
+          "rect": {
+            "x": -72,
+            "y": 338,
+            "w": 101,
+            "h": 177
+          },
+          "disabled": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot collectible",
+          "text": "N² Eau de rêveに触れる",
+          "href": "",
+          "rect": {
+            "x": 4,
+            "y": 498,
+            "w": 90,
+            "h": 110
+          },
+          "disabled": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot collectible",
+          "text": "まだあたたかいカップに触れる",
+          "href": "",
+          "rect": {
+            "x": 167,
+            "y": 494,
+            "w": 107,
+            "h": 84
+          },
+          "disabled": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot collectible",
+          "text": "置き去りのくまに触れる",
+          "href": "",
+          "rect": {
+            "x": 336,
+            "y": 447,
+            "w": 135,
+            "h": 177
+          },
+          "disabled": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot collectible",
+          "text": "青いリボンの鍵に触れる",
+          "href": "",
+          "rect": {
+            "x": 89,
+            "y": 563,
+            "w": 111,
+            "h": 89
+          },
+          "disabled": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot ambient",
+          "text": "テーブルのメモをめくる",
+          "href": "",
+          "rect": {
+            "x": 169,
+            "y": 568,
+            "w": 103,
+            "h": 79
+          },
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot ambient",
+          "text": "くまのそばの本を開く",
+          "href": "",
+          "rect": {
+            "x": 341,
+            "y": 566,
+            "w": 135,
+            "h": 109
+          },
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot ambient",
+          "text": "ティーポットに触れる",
+          "href": "",
+          "rect": {
+            "x": 82,
+            "y": 435,
+            "w": 118,
+            "h": 122
+          },
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot ambient",
+          "text": "花に触れる",
+          "href": "",
+          "rect": {
+            "x": -69,
+            "y": 262,
+            "w": 174,
+            "h": 152
+          },
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot ambient",
+          "text": "水面に触れる",
+          "href": "",
+          "rect": {
+            "x": 184,
+            "y": 253,
+            "w": 236,
+            "h": 186
+          },
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot ambient",
+          "text": "レースのカーテンに触れる",
+          "href": "",
+          "rect": {
+            "x": -86,
+            "y": 93,
+            "w": 84,
+            "h": 287
+          },
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot ambient",
+          "text": "石の柱を軽く叩く",
+          "href": "",
+          "rect": {
+            "x": 15,
+            "y": 135,
+            "w": 129,
+            "h": 262
+          },
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "doorHotspot",
+          "cls": "scene-hotspot ambient hotspot-door",
+          "text": "遠くの白い門に触れる",
+          "href": "",
+          "rect": {
+            "x": 285,
+            "y": 118,
+            "w": 90,
+            "h": 118
+          },
+          "disabled": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "beginGarden",
+          "cls": "",
+          "text": "この空へ入る",
+          "href": "",
+          "rect": {
+            "x": 118,
+            "y": 764,
+            "w": 154,
+            "h": 48
+          },
+          "disabled": false
+        }
+      ]
+    },
+    {
+      "label": "home-after-first-dream",
+      "file": "10-home-after-first-dream.jpg",
+      "note": "",
+      "screenshotError": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
+      "title": "NIKO² ATELIER",
+      "hash": "#garden",
+      "route": "garden",
+      "activeViews": 1,
+      "bodyClass": "first-dream-pending route-garden",
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 夢の見覚え ✧︎ 席を立ったあとの庭にも、 持ち主より長く夢を見るものがいる。 この空へ入る 0 / 5 見つけたもの",
+      "actions": [
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "skip-link",
+          "text": "作品へ移動",
+          "href": "#main",
+          "rect": {
+            "x": 8,
+            "y": -61,
+            "w": 108,
+            "h": 43
+          },
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          },
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "gardenSkipControl",
+          "cls": "garden-skip-control",
+          "text": "夢の見覚え ✧︎",
+          "href": "",
+          "rect": {
+            "x": 315,
+            "y": 56,
+            "w": 61,
+            "h": 30
+          },
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot collectible",
+          "text": "止まりかけの砂時計に触れる",
+          "href": "",
+          "rect": {
+            "x": -72,
+            "y": 338,
+            "w": 101,
+            "h": 177
+          },
+          "disabled": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot collectible",
+          "text": "N² Eau de rêveに触れる",
+          "href": "",
+          "rect": {
+            "x": 4,
+            "y": 498,
+            "w": 90,
+            "h": 110
+          },
+          "disabled": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot collectible",
+          "text": "まだあたたかいカップに触れる",
+          "href": "",
+          "rect": {
+            "x": 167,
+            "y": 494,
+            "w": 107,
+            "h": 84
+          },
+          "disabled": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot collectible",
+          "text": "置き去りのくまに触れる",
+          "href": "",
+          "rect": {
+            "x": 336,
+            "y": 447,
+            "w": 135,
+            "h": 177
+          },
+          "disabled": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot collectible",
+          "text": "青いリボンの鍵に触れる",
+          "href": "",
+          "rect": {
+            "x": 89,
+            "y": 563,
+            "w": 111,
+            "h": 89
+          },
+          "disabled": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot ambient",
+          "text": "テーブルのメモをめくる",
+          "href": "",
+          "rect": {
+            "x": 169,
+            "y": 568,
+            "w": 103,
+            "h": 79
+          },
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot ambient",
+          "text": "くまのそばの本を開く",
+          "href": "",
+          "rect": {
+            "x": 341,
+            "y": 566,
+            "w": 135,
+            "h": 109
+          },
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot ambient",
+          "text": "ティーポットに触れる",
+          "href": "",
+          "rect": {
+            "x": 82,
+            "y": 435,
+            "w": 118,
+            "h": 122
+          },
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot ambient",
+          "text": "花に触れる",
+          "href": "",
+          "rect": {
+            "x": -69,
+            "y": 262,
+            "w": 174,
+            "h": 152
+          },
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot ambient",
+          "text": "水面に触れる",
+          "href": "",
+          "rect": {
+            "x": 184,
+            "y": 253,
+            "w": 236,
+            "h": 186
+          },
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot ambient",
+          "text": "レースのカーテンに触れる",
+          "href": "",
+          "rect": {
+            "x": -86,
+            "y": 93,
+            "w": 84,
+            "h": 287
+          },
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot ambient",
+          "text": "石の柱を軽く叩く",
+          "href": "",
+          "rect": {
+            "x": 15,
+            "y": 135,
+            "w": 129,
+            "h": 262
+          },
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "doorHotspot",
+          "cls": "scene-hotspot ambient hotspot-door",
+          "text": "遠くの白い門に触れる",
+          "href": "",
+          "rect": {
+            "x": 285,
+            "y": 118,
+            "w": 90,
+            "h": 118
+          },
+          "disabled": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "beginGarden",
+          "cls": "",
+          "text": "この空へ入る",
+          "href": "",
+          "rect": {
+            "x": 118,
+            "y": 764,
+            "w": 154,
+            "h": 48
+          },
+          "disabled": false
+        }
+      ]
+    },
+    {
+      "label": "home-after-post-garden-guide",
+      "file": "11-home-after-post-garden-guide.jpg",
+      "note": "",
+      "screenshotError": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "bodyClass": "first-dream-pending route-home",
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 席を立ったあとの庭にも、 持ち主より長く夢を見るものがいる。 この空へ入る",
+      "actions": [
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "skip-link",
+          "text": "作品へ移動",
+          "href": "#main",
+          "rect": {
+            "x": 8,
+            "y": -61,
+            "w": 108,
+            "h": 43
+          },
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          },
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "href": "",
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          },
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "beginGarden",
+          "cls": "",
+          "text": "この空へ入る",
+          "href": "",
+          "rect": {
+            "x": 118,
+            "y": 764,
+            "w": 154,
+            "h": 48
+          },
+          "disabled": false
+        }
+      ]
+    },
+    {
+      "label": "home-middle",
+      "file": "12-home-middle.jpg",
+      "note": "",
+      "screenshotError": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "bodyClass": "first-dream-pending route-home",
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動",
+      "actions": [
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "skip-link",
+          "text": "作品へ移動",
+          "href": "#main",
+          "rect": {
+            "x": 8,
+            "y": -61,
+            "w": 108,
+            "h": 43
+          },
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          },
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "href": "",
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          },
+          "disabled": false
+        }
+      ]
+    },
+    {
+      "label": "home-no-diary-entry",
+      "file": "13-home-no-diary-entry.jpg",
+      "note": "",
+      "screenshotError": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "bodyClass": "first-dream-pending route-home",
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動",
+      "actions": [
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "skip-link",
+          "text": "作品へ移動",
+          "href": "#main",
+          "rect": {
+            "x": 8,
+            "y": -61,
+            "w": 108,
+            "h": 43
+          },
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          },
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "href": "",
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          },
+          "disabled": false
+        }
+      ]
+    },
+    {
+      "label": "world-first-look",
+      "file": "14-world-first-look.jpg",
+      "note": "",
+      "screenshotError": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "bodyClass": "first-dream-pending route-home",
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動",
+      "actions": [
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "skip-link",
+          "text": "作品へ移動",
+          "href": "#main",
+          "rect": {
+            "x": 8,
+            "y": -61,
+            "w": 108,
+            "h": 43
+          },
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          },
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "href": "",
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          },
+          "disabled": false
+        }
+      ]
+    },
+    {
+      "label": "world-before-perfume",
+      "file": "15-world-before-perfume.jpg",
+      "note": "",
+      "screenshotError": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "bodyClass": "first-dream-pending route-home",
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動",
+      "actions": [
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "skip-link",
+          "text": "作品へ移動",
+          "href": "#main",
+          "rect": {
+            "x": 8,
+            "y": -61,
+            "w": 108,
+            "h": 43
+          },
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          },
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "href": "",
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          },
+          "disabled": false
+        }
+      ]
+    },
+    {
+      "label": "perfume-not-available",
+      "file": "16-perfume-not-available.jpg",
+      "note": "",
+      "screenshotError": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "bodyClass": "first-dream-pending route-home",
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動",
+      "actions": [
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "skip-link",
+          "text": "作品へ移動",
+          "href": "#main",
+          "rect": {
+            "x": 8,
+            "y": -61,
+            "w": 108,
+            "h": 43
+          },
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          },
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "href": "",
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          },
+          "disabled": false
+        }
+      ]
+    },
+    {
+      "label": "world-before-hotel",
+      "file": "17-world-before-hotel.jpg",
+      "note": "",
+      "screenshotError": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "bodyClass": "first-dream-pending route-home",
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動",
+      "actions": [
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "skip-link",
+          "text": "作品へ移動",
+          "href": "#main",
+          "rect": {
+            "x": 8,
+            "y": -61,
+            "w": 108,
+            "h": 43
+          },
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          },
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "href": "",
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          },
+          "disabled": false
+        }
+      ]
+    },
+    {
+      "label": "hotel-not-available",
+      "file": "18-hotel-not-available.jpg",
+      "note": "",
+      "screenshotError": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "bodyClass": "first-dream-pending route-home",
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動",
+      "actions": [
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "skip-link",
+          "text": "作品へ移動",
+          "href": "#main",
+          "rect": {
+            "x": 8,
+            "y": -61,
+            "w": 108,
+            "h": 43
+          },
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          },
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "href": "",
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          },
+          "disabled": false
+        }
+      ]
+    },
+    {
+      "label": "world-before-aquarium",
+      "file": "19-world-before-aquarium.jpg",
+      "note": "",
+      "screenshotError": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "bodyClass": "first-dream-pending route-home",
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動",
+      "actions": [
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "skip-link",
+          "text": "作品へ移動",
+          "href": "#main",
+          "rect": {
+            "x": 8,
+            "y": -61,
+            "w": 108,
+            "h": 43
+          },
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          },
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "href": "",
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          },
+          "disabled": false
+        }
+      ]
+    },
+    {
+      "label": "aquarium-not-available",
+      "file": "20-aquarium-not-available.jpg",
+      "note": "",
+      "screenshotError": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "bodyClass": "first-dream-pending route-home",
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動",
+      "actions": [
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "skip-link",
+          "text": "作品へ移動",
+          "href": "#main",
+          "rect": {
+            "x": 8,
+            "y": -61,
+            "w": 108,
+            "h": 43
+          },
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          },
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "href": "",
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          },
+          "disabled": false
+        }
+      ]
+    },
+    {
+      "label": "world-before-cabinet",
+      "file": "21-world-before-cabinet.jpg",
+      "note": "",
+      "screenshotError": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "bodyClass": "first-dream-pending route-home",
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動",
+      "actions": [
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "skip-link",
+          "text": "作品へ移動",
+          "href": "#main",
+          "rect": {
+            "x": 8,
+            "y": -61,
+            "w": 108,
+            "h": 43
+          },
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          },
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "href": "",
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          },
+          "disabled": false
+        }
+      ]
+    },
+    {
+      "label": "cabinet-not-available",
+      "file": "22-cabinet-not-available.jpg",
+      "note": "",
+      "screenshotError": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "bodyClass": "first-dream-pending route-home",
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動",
+      "actions": [
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "skip-link",
+          "text": "作品へ移動",
+          "href": "#main",
+          "rect": {
+            "x": 8,
+            "y": -61,
+            "w": 108,
+            "h": 43
+          },
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          },
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "href": "",
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          },
+          "disabled": false
+        }
+      ]
+    },
+    {
+      "label": "home-before-late-revisit",
+      "file": "23-home-before-late-revisit.jpg",
+      "note": "",
+      "screenshotError": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "bodyClass": "first-dream-pending route-home",
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動",
+      "actions": [
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "skip-link",
+          "text": "作品へ移動",
+          "href": "#main",
+          "rect": {
+            "x": 8,
+            "y": -61,
+            "w": 108,
+            "h": 43
+          },
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          },
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "href": "",
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          },
+          "disabled": false
+        }
+      ]
+    },
+    {
+      "label": "late-dream-revisit",
+      "file": "24-late-dream-revisit.jpg",
+      "note": "",
+      "screenshotError": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
+      "title": "NIKO² ATELIER",
+      "hash": "#garden",
+      "route": "garden",
+      "activeViews": 1,
+      "bodyClass": "first-dream-pending route-garden",
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 夢の見覚え ✧︎ 席を立ったあとの庭にも、 持ち主より長く夢を見るものがいる。 この空へ入る 0 / 5 見つけたもの",
+      "actions": [
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "skip-link",
+          "text": "作品へ移動",
+          "href": "#main",
+          "rect": {
+            "x": 8,
+            "y": -61,
+            "w": 108,
+            "h": 43
+          },
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          },
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "gardenSkipControl",
+          "cls": "garden-skip-control",
+          "text": "夢の見覚え ✧︎",
+          "href": "",
+          "rect": {
+            "x": 315,
+            "y": 56,
+            "w": 61,
+            "h": 30
+          },
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot collectible",
+          "text": "止まりかけの砂時計に触れる",
+          "href": "",
+          "rect": {
+            "x": -72,
+            "y": 338,
+            "w": 101,
+            "h": 177
+          },
+          "disabled": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot collectible",
+          "text": "N² Eau de rêveに触れる",
+          "href": "",
+          "rect": {
+            "x": 4,
+            "y": 498,
+            "w": 90,
+            "h": 110
+          },
+          "disabled": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot collectible",
+          "text": "まだあたたかいカップに触れる",
+          "href": "",
+          "rect": {
+            "x": 167,
+            "y": 494,
+            "w": 107,
+            "h": 84
+          },
+          "disabled": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot collectible",
+          "text": "置き去りのくまに触れる",
+          "href": "",
+          "rect": {
+            "x": 336,
+            "y": 447,
+            "w": 135,
+            "h": 177
+          },
+          "disabled": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot collectible",
+          "text": "青いリボンの鍵に触れる",
+          "href": "",
+          "rect": {
+            "x": 89,
+            "y": 563,
+            "w": 111,
+            "h": 89
+          },
+          "disabled": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot ambient",
+          "text": "テーブルのメモをめくる",
+          "href": "",
+          "rect": {
+            "x": 169,
+            "y": 568,
+            "w": 103,
+            "h": 79
+          },
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot ambient",
+          "text": "くまのそばの本を開く",
+          "href": "",
+          "rect": {
+            "x": 341,
+            "y": 566,
+            "w": 135,
+            "h": 109
+          },
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot ambient",
+          "text": "ティーポットに触れる",
+          "href": "",
+          "rect": {
+            "x": 82,
+            "y": 435,
+            "w": 118,
+            "h": 122
+          },
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot ambient",
+          "text": "花に触れる",
+          "href": "",
+          "rect": {
+            "x": -69,
+            "y": 262,
+            "w": 174,
+            "h": 152
+          },
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot ambient",
+          "text": "水面に触れる",
+          "href": "",
+          "rect": {
+            "x": 184,
+            "y": 253,
+            "w": 236,
+            "h": 186
+          },
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot ambient",
+          "text": "レースのカーテンに触れる",
+          "href": "",
+          "rect": {
+            "x": -86,
+            "y": 93,
+            "w": 84,
+            "h": 287
+          },
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot ambient",
+          "text": "石の柱を軽く叩く",
+          "href": "",
+          "rect": {
+            "x": 15,
+            "y": 135,
+            "w": 129,
+            "h": 262
+          },
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "doorHotspot",
+          "cls": "scene-hotspot ambient hotspot-door",
+          "text": "遠くの白い門に触れる",
+          "href": "",
+          "rect": {
+            "x": 285,
+            "y": 118,
+            "w": 90,
+            "h": 118
+          },
+          "disabled": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "beginGarden",
+          "cls": "",
+          "text": "この空へ入る",
+          "href": "",
+          "rect": {
+            "x": 118,
+            "y": 764,
+            "w": 154,
+            "h": 48
+          },
+          "disabled": false
+        }
+      ]
+    },
+    {
+      "label": "after-back-forward-late-revisit",
+      "file": "25-after-back-forward-late-revisit.jpg",
+      "note": "",
+      "screenshotError": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
+      "title": "NIKO² ATELIER",
+      "hash": "#garden",
+      "route": "garden",
+      "activeViews": 1,
+      "bodyClass": "first-dream-pending route-garden",
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 夢の見覚え ✧︎ 席を立ったあとの庭にも、 持ち主より長く夢を見るものがいる。 この空へ入る 0 / 5 見つけたもの",
+      "actions": [
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "skip-link",
+          "text": "作品へ移動",
+          "href": "#main",
+          "rect": {
+            "x": 8,
+            "y": -61,
+            "w": 108,
+            "h": 43
+          },
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          },
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "gardenSkipControl",
+          "cls": "garden-skip-control",
+          "text": "夢の見覚え ✧︎",
+          "href": "",
+          "rect": {
+            "x": 315,
+            "y": 56,
+            "w": 61,
+            "h": 30
+          },
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot collectible",
+          "text": "止まりかけの砂時計に触れる",
+          "href": "",
+          "rect": {
+            "x": -72,
+            "y": 338,
+            "w": 101,
+            "h": 177
+          },
+          "disabled": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot collectible",
+          "text": "N² Eau de rêveに触れる",
+          "href": "",
+          "rect": {
+            "x": 4,
+            "y": 498,
+            "w": 90,
+            "h": 110
+          },
+          "disabled": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot collectible",
+          "text": "まだあたたかいカップに触れる",
+          "href": "",
+          "rect": {
+            "x": 167,
+            "y": 494,
+            "w": 107,
+            "h": 84
+          },
+          "disabled": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot collectible",
+          "text": "置き去りのくまに触れる",
+          "href": "",
+          "rect": {
+            "x": 336,
+            "y": 447,
+            "w": 135,
+            "h": 177
+          },
+          "disabled": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot collectible",
+          "text": "青いリボンの鍵に触れる",
+          "href": "",
+          "rect": {
+            "x": 89,
+            "y": 563,
+            "w": 111,
+            "h": 89
+          },
+          "disabled": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot ambient",
+          "text": "テーブルのメモをめくる",
+          "href": "",
+          "rect": {
+            "x": 169,
+            "y": 568,
+            "w": 103,
+            "h": 79
+          },
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot ambient",
+          "text": "くまのそばの本を開く",
+          "href": "",
+          "rect": {
+            "x": 341,
+            "y": 566,
+            "w": 135,
+            "h": 109
+          },
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot ambient",
+          "text": "ティーポットに触れる",
+          "href": "",
+          "rect": {
+            "x": 82,
+            "y": 435,
+            "w": 118,
+            "h": 122
+          },
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot ambient",
+          "text": "花に触れる",
+          "href": "",
+          "rect": {
+            "x": -69,
+            "y": 262,
+            "w": 174,
+            "h": 152
+          },
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot ambient",
+          "text": "水面に触れる",
+          "href": "",
+          "rect": {
+            "x": 184,
+            "y": 253,
+            "w": 236,
+            "h": 186
+          },
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot ambient",
+          "text": "レースのカーテンに触れる",
+          "href": "",
+          "rect": {
+            "x": -86,
+            "y": 93,
+            "w": 84,
+            "h": 287
+          },
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot ambient",
+          "text": "石の柱を軽く叩く",
+          "href": "",
+          "rect": {
+            "x": 15,
+            "y": 135,
+            "w": 129,
+            "h": 262
+          },
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "doorHotspot",
+          "cls": "scene-hotspot ambient hotspot-door",
+          "text": "遠くの白い門に触れる",
+          "href": "",
+          "rect": {
+            "x": 285,
+            "y": 118,
+            "w": 90,
+            "h": 118
+          },
+          "disabled": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "beginGarden",
+          "cls": "",
+          "text": "この空へ入る",
+          "href": "",
+          "rect": {
+            "x": 118,
+            "y": 764,
+            "w": 154,
+            "h": 48
+          },
+          "disabled": false
+        }
+      ]
+    },
+    {
+      "label": "final-home-after-reload",
+      "file": "26-final-home-after-reload.jpg",
+      "note": "",
+      "screenshotError": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "bodyClass": "first-dream-pending first-garden-response-pending route-home niko2-first-response-active",
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 AFTER THE GARDEN この庭を、短く通り抜けました。 次へ",
+      "actions": [
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "skip-link",
+          "text": "作品へ移動",
+          "href": "#main",
+          "rect": {
+            "x": 8,
+            "y": -61,
+            "w": 108,
+            "h": 43
+          },
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          },
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "href": "",
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          },
+          "disabled": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "次へ",
+          "href": "",
+          "rect": {
+            "x": 300,
+            "y": 748,
+            "w": 72,
+            "h": 44
+          },
+          "disabled": false
+        }
+      ]
+    }
+  ],
+  "pageErrors": [],
+  "consoleErrors": [
+    "Failed to load resource: the server responded with a status of 404 (Not Found)",
+    "Failed to load resource: the server responded with a status of 404 (Not Found)"
+  ],
+  "requestFailures": [],
+  "httpStatus": 200,
+  "final": {
+    "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+    "title": "NIKO² ATELIER",
+    "hash": "",
+    "route": "home",
+    "activeViews": 1,
+    "bodyClass": "first-dream-pending first-garden-response-pending route-home niko2-first-response-active",
+    "scroll": {
+      "x": 0,
+      "y": 0,
+      "width": 390,
+      "height": 844
+    },
+    "horizontalOverflow": false,
+    "dialogs": [],
+    "bodyText": "作品へ移動 AFTER THE GARDEN この庭を、短く通り抜けました。 次へ",
+    "actions": [
+      {
+        "tag": "A",
+        "id": "",
+        "cls": "skip-link",
+        "text": "作品へ移動",
+        "href": "#main",
+        "rect": {
+          "x": 8,
+          "y": -61,
+          "w": 108,
+          "h": 43
+        },
+        "disabled": false
+      },
+      {
+        "tag": "BUTTON",
+        "id": "soundToggle",
+        "cls": "sound-toggle",
+        "text": "音をオンにする",
+        "href": "",
+        "rect": {
+          "x": 332,
+          "y": 14,
+          "w": 44,
+          "h": 44
+        },
+        "disabled": false
+      },
+      {
+        "tag": "BUTTON",
+        "id": "enterGarden",
+        "cls": "dream-entry home-pink-cta",
+        "text": "Enter the dream",
+        "href": "",
+        "rect": {
+          "x": 90,
+          "y": 494,
+          "w": 210,
+          "h": 70
+        },
+        "disabled": false
+      },
+      {
+        "tag": "BUTTON",
+        "id": "",
+        "cls": "niko2-intro-primary",
+        "text": "次へ",
+        "href": "",
+        "rect": {
+          "x": 300,
+          "y": 748,
+          "w": 72,
+          "h": 44
+        },
+        "disabled": false
+      }
+    ]
+  },
+  "finishedAt": "2026-10-06T17:40:40.454Z"
+}
