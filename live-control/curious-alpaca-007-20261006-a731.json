@@ -1,6 +1,8 @@
 {
-  "id": "021-beyond-gate",
-  "op": "look",
-  "wait": 4000,
-  "note": "The gate fills the screen and seems to be transitioning. I am giving it a moment to reveal the place beyond."
+  "id": "022-thread-knot",
+  "op": "tap",
+  "x": 292,
+  "y": 584,
+  "wait": 1000,
+  "note": "The bear is now shown in full, and a tiny blue knot beside it has its own glimmer. That little leftover is the thing I want to pick up."
 }
