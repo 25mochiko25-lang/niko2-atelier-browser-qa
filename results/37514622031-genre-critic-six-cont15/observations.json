@@ -1,0 +1,3585 @@
+{
+  "request": "genre-critic-six-cont15",
+  "target": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+  "mode": "human-selected actions through remote WebKit",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "engine": "webkit",
+  "events": [
+    {
+      "step": 1,
+      "action": {
+        "kind": "navigate",
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#perfume",
+        "label": "return-to-previously-visited-perfume",
+        "wait": 2200,
+        "picture": true
+      },
+      "result": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#perfume",
+        "method": "normal address-bar revisit of recorded visited URL"
+      },
+      "error": null,
+      "before": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+        "route": "home"
+      },
+      "after": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+        "route": "home"
+      }
+    },
+    {
+      "step": 2,
+      "action": {
+        "kind": "tap",
+        "selector": "summary:has-text('REAL WORLD ECHOES')",
+        "label": "read-echoes-if-result-present",
+        "optional": true,
+        "timeout": 1500,
+        "picture": true
+      },
+      "result": null,
+      "error": "TimeoutError: locator.waitFor: Timeout 1500ms exceeded.\nCall log:\n  - waiting for locator('summary:has-text(\\'REAL WORLD ECHOES\\')').first() to be visible\n    8 × locator resolved to hidden <summary>REAL WORLD ECHOES</summary>\n",
+      "before": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+        "route": "home"
+      },
+      "after": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+        "route": "home"
+      }
+    },
+    {
+      "step": 3,
+      "action": {
+        "kind": "tap",
+        "selector": "#enterPerfumeWorkbench",
+        "label": "enter-workbench-if-intro-present",
+        "optional": true,
+        "timeout": 1500,
+        "wait": 1500
+      },
+      "result": null,
+      "error": "TimeoutError: locator.waitFor: Timeout 1500ms exceeded.\nCall log:\n  - waiting for locator('#enterPerfumeWorkbench').first() to be visible\n    8 × locator resolved to hidden <button type=\"button\" id=\"enterPerfumeWorkbench\">調香台へ</button>\n",
+      "before": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+        "route": "home"
+      },
+      "after": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+        "route": "home"
+      }
+    },
+    {
+      "step": 4,
+      "action": {
+        "kind": "tap",
+        "selector": "#remixPerfume",
+        "label": "remix-if-result-present",
+        "optional": true,
+        "timeout": 1500,
+        "wait": 1500,
+        "picture": true
+      },
+      "result": null,
+      "error": "TimeoutError: locator.waitFor: Timeout 1500ms exceeded.\nCall log:\n  - waiting for locator('#remixPerfume').first() to be visible\n    8 × locator resolved to hidden <button type=\"button\" id=\"remixPerfume\">もう一度調合する</button>\n",
+      "before": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+        "route": "home"
+      },
+      "after": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+        "route": "home"
+      }
+    },
+    {
+      "step": 5,
+      "action": {
+        "kind": "tap",
+        "name": "素材を外す",
+        "label": "clear-1-if-retained",
+        "optional": true,
+        "timeout": 1500
+      },
+      "result": null,
+      "error": "TimeoutError: locator.waitFor: Timeout 1500ms exceeded.\nCall log:\n  - waiting for getByRole('button', { name: '素材を外す', exact: true }).first() to be visible\n",
+      "before": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+        "route": "home"
+      },
+      "after": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+        "route": "home"
+      }
+    },
+    {
+      "step": 6,
+      "action": {
+        "kind": "tap",
+        "name": "素材を外す",
+        "label": "clear-2-if-retained",
+        "optional": true,
+        "timeout": 1500
+      },
+      "result": null,
+      "error": "TimeoutError: locator.waitFor: Timeout 1500ms exceeded.\nCall log:\n  - waiting for getByRole('button', { name: '素材を外す', exact: true }).first() to be visible\n",
+      "before": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+        "route": "home"
+      },
+      "after": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+        "route": "home"
+      }
+    },
+    {
+      "step": 7,
+      "action": {
+        "kind": "tap",
+        "name": "素材を外す",
+        "label": "clear-3-if-retained",
+        "optional": true,
+        "timeout": 1500
+      },
+      "result": null,
+      "error": "TimeoutError: locator.waitFor: Timeout 1500ms exceeded.\nCall log:\n  - waiting for getByRole('button', { name: '素材を外す', exact: true }).first() to be visible\n",
+      "before": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+        "route": "home"
+      },
+      "after": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+        "route": "home"
+      }
+    },
+    {
+      "step": 8,
+      "action": {
+        "kind": "tap",
+        "name": "01.*TOP",
+        "regex": true,
+        "label": "top-layer"
+      },
+      "result": null,
+      "error": "TimeoutError: locator.waitFor: Timeout 10000ms exceeded.\nCall log:\n  - waiting for getByRole('button', { name: /01.*TOP/i }).first() to be visible\n",
+      "before": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+        "route": "home"
+      },
+      "after": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+        "route": "home"
+      }
+    }
+  ],
+  "observations": [
+    {
+      "label": "arrival",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+      "route": "home",
+      "viewportText": "WORLD\nWORLD",
+      "renderedBodyText": "作品へ移動\n \nWORLD\nWORLD\n水面の向こうに、いくつかの場所がひらいています。\n\n\nABOUT\nもふもふはいます。\nPLAY / SHARE / FAN WORK\nNIKO²での生活について\n好きな形で遊ぶための、小さな境界。\nDEAR ATELIER\nお手紙を送る\nAtelierの受取箱へ。\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+      "controls": [
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "skip-link",
+          "text": "作品へ移動",
+          "ariaLabel": null,
+          "type": null,
+          "href": "#main",
+          "disabled": false,
+          "rect": {
+            "x": 8,
+            "y": -61,
+            "w": 108,
+            "h": 43
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "ariaLabel": "音をオンにする",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "home-letter-entry",
+          "text": "FROM THE ATELIERを開く",
+          "ariaLabel": "FROM THE ATELIERを開く",
+          "type": null,
+          "href": "#notes",
+          "disabled": false,
+          "rect": {
+            "x": 279,
+            "y": 274,
+            "w": 91,
+            "h": 92
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "home-diary-entry",
+          "text": "Diaryを開く",
+          "ariaLabel": "Diaryを開く",
+          "type": null,
+          "href": "#diary",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 298,
+            "w": 147,
+            "h": 147
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "ariaLabel": "Enter the dream",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "home-world-lab",
+          "text": "WORLDを開く",
+          "ariaLabel": "WORLDを開く",
+          "type": null,
+          "href": "#world",
+          "disabled": false,
+          "rect": {
+            "x": 23,
+            "y": 921,
+            "w": 343,
+            "h": 193
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "home-about-window",
+          "text": "ABOUT もふもふはいます。",
+          "ariaLabel": "Aboutを開く",
+          "type": null,
+          "href": "#about",
+          "disabled": false,
+          "rect": {
+            "x": 43,
+            "y": 1398,
+            "w": 304,
+            "h": 252
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "home-quiet-link home-rights-entry",
+          "text": "PLAY / SHARE / FAN WORK NIKO²での生活について 好きな形で遊ぶための、小さな境界。",
+          "ariaLabel": null,
+          "type": null,
+          "href": "#rights",
+          "disabled": false,
+          "rect": {
+            "x": 31,
+            "y": 1798,
+            "w": 328,
+            "h": 124
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "home-quiet-link home-dear-entry",
+          "text": "DEAR ATELIER お手紙を送る Atelierの受取箱へ。",
+          "ariaLabel": null,
+          "type": null,
+          "href": "#dear",
+          "disabled": false,
+          "rect": {
+            "x": 31,
+            "y": 1936,
+            "w": 328,
+            "h": 124
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "unknown-entry",
+          "text": "???",
+          "ariaLabel": "用途不明の部屋を開く",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 0,
+            "y": 2110,
+            "w": 390,
+            "h": 58
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "",
+          "text": "Rights",
+          "ariaLabel": null,
+          "type": null,
+          "href": "#rights",
+          "disabled": false,
+          "rect": {
+            "x": 179,
+            "y": 2179,
+            "w": 32,
+            "h": 13
+          },
+          "onScreen": false,
+          "hit": false
+        }
+      ],
+      "artwork": [
+        {
+          "tag": "IMG",
+          "id": "",
+          "cls": "home-art",
+          "alt": "虹色の薄布と月明かりに包まれたNIKO² ATELIERの入口",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "w": 390,
+            "h": 843.984375
+          }
+        },
+        {
+          "tag": "IMG",
+          "id": "",
+          "cls": "",
+          "alt": "",
+          "rect": {
+            "x": 282.0892028808594,
+            "y": 273.550537109375,
+            "w": 88.18991088867188,
+            "h": 88.18991088867188
+          }
+        },
+        {
+          "tag": "IMG",
+          "id": "homeTitle",
+          "cls": "home-logo-master",
+          "alt": "NIKO² ATELIER",
+          "rect": {
+            "x": 58.5,
+            "y": 130.8125,
+            "w": 273,
+            "h": 182
+          }
+        },
+        {
+          "tag": "IMG",
+          "id": "",
+          "cls": "",
+          "alt": "",
+          "rect": {
+            "x": 13.886076927185059,
+            "y": 297.9642028808594,
+            "w": 147.10284423828125,
+            "h": 147.10284423828125
+          }
+        },
+        {
+          "tag": "IMG",
+          "id": "",
+          "cls": "",
+          "alt": "Enter the dream",
+          "rect": {
+            "x": 90,
+            "y": 493.71875,
+            "w": 210,
+            "h": 70
+          }
+        },
+        {
+          "tag": "IMG",
+          "id": "",
+          "cls": "",
+          "alt": "",
+          "rect": {
+            "x": 23.40625,
+            "y": 920.5625,
+            "w": 343.1875,
+            "h": 193.03125
+          }
+        },
+        {
+          "tag": "IMG",
+          "id": "",
+          "cls": "",
+          "alt": "もふもふのいるAbout",
+          "rect": {
+            "x": 42.90625,
+            "y": 1397.515625,
+            "w": 304.1875,
+            "h": 202.78125
+          }
+        }
+      ],
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "h": 844
+      },
+      "scrollContainers": [
+        {
+          "id": "",
+          "cls": "view home-view is-active",
+          "top": 0,
+          "height": 844,
+          "scrollHeight": 2216
+        }
+      ],
+      "dialogs": [],
+      "screenshot": "001-arrival.jpg"
+    },
+    {
+      "label": "return-to-previously-visited-perfume",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+      "route": "home",
+      "viewportText": "WORLD\nWORLD",
+      "renderedBodyText": "作品へ移動\n \nWORLD\nWORLD\n水面の向こうに、いくつかの場所がひらいています。\n\n\nABOUT\nもふもふはいます。\nPLAY / SHARE / FAN WORK\nNIKO²での生活について\n好きな形で遊ぶための、小さな境界。\nDEAR ATELIER\nお手紙を送る\nAtelierの受取箱へ。\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+      "controls": [
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "skip-link",
+          "text": "作品へ移動",
+          "ariaLabel": null,
+          "type": null,
+          "href": "#main",
+          "disabled": false,
+          "rect": {
+            "x": 8,
+            "y": -61,
+            "w": 108,
+            "h": 43
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "ariaLabel": "音をオンにする",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "home-letter-entry",
+          "text": "FROM THE ATELIERを開く",
+          "ariaLabel": "FROM THE ATELIERを開く",
+          "type": null,
+          "href": "#notes",
+          "disabled": false,
+          "rect": {
+            "x": 279,
+            "y": 274,
+            "w": 91,
+            "h": 92
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "home-diary-entry",
+          "text": "Diaryを開く",
+          "ariaLabel": "Diaryを開く",
+          "type": null,
+          "href": "#diary",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 298,
+            "w": 147,
+            "h": 147
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "ariaLabel": "Enter the dream",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "home-world-lab",
+          "text": "WORLDを開く",
+          "ariaLabel": "WORLDを開く",
+          "type": null,
+          "href": "#world",
+          "disabled": false,
+          "rect": {
+            "x": 23,
+            "y": 921,
+            "w": 343,
+            "h": 193
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "home-about-window",
+          "text": "ABOUT もふもふはいます。",
+          "ariaLabel": "Aboutを開く",
+          "type": null,
+          "href": "#about",
+          "disabled": false,
+          "rect": {
+            "x": 43,
+            "y": 1398,
+            "w": 304,
+            "h": 252
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "home-quiet-link home-rights-entry",
+          "text": "PLAY / SHARE / FAN WORK NIKO²での生活について 好きな形で遊ぶための、小さな境界。",
+          "ariaLabel": null,
+          "type": null,
+          "href": "#rights",
+          "disabled": false,
+          "rect": {
+            "x": 31,
+            "y": 1798,
+            "w": 328,
+            "h": 124
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "home-quiet-link home-dear-entry",
+          "text": "DEAR ATELIER お手紙を送る Atelierの受取箱へ。",
+          "ariaLabel": null,
+          "type": null,
+          "href": "#dear",
+          "disabled": false,
+          "rect": {
+            "x": 31,
+            "y": 1936,
+            "w": 328,
+            "h": 124
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "unknown-entry",
+          "text": "???",
+          "ariaLabel": "用途不明の部屋を開く",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 0,
+            "y": 2110,
+            "w": 390,
+            "h": 58
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "",
+          "text": "Rights",
+          "ariaLabel": null,
+          "type": null,
+          "href": "#rights",
+          "disabled": false,
+          "rect": {
+            "x": 179,
+            "y": 2179,
+            "w": 32,
+            "h": 13
+          },
+          "onScreen": false,
+          "hit": false
+        }
+      ],
+      "artwork": [
+        {
+          "tag": "IMG",
+          "id": "",
+          "cls": "home-art",
+          "alt": "虹色の薄布と月明かりに包まれたNIKO² ATELIERの入口",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "w": 390,
+            "h": 843.984375
+          }
+        },
+        {
+          "tag": "IMG",
+          "id": "",
+          "cls": "",
+          "alt": "",
+          "rect": {
+            "x": 282.0892028808594,
+            "y": 273.550537109375,
+            "w": 88.18991088867188,
+            "h": 88.18991088867188
+          }
+        },
+        {
+          "tag": "IMG",
+          "id": "homeTitle",
+          "cls": "home-logo-master",
+          "alt": "NIKO² ATELIER",
+          "rect": {
+            "x": 58.5,
+            "y": 130.8125,
+            "w": 273,
+            "h": 182
+          }
+        },
+        {
+          "tag": "IMG",
+          "id": "",
+          "cls": "",
+          "alt": "",
+          "rect": {
+            "x": 13.886076927185059,
+            "y": 297.9642028808594,
+            "w": 147.10284423828125,
+            "h": 147.10284423828125
+          }
+        },
+        {
+          "tag": "IMG",
+          "id": "",
+          "cls": "",
+          "alt": "Enter the dream",
+          "rect": {
+            "x": 90,
+            "y": 493.71875,
+            "w": 210,
+            "h": 70
+          }
+        },
+        {
+          "tag": "IMG",
+          "id": "",
+          "cls": "",
+          "alt": "",
+          "rect": {
+            "x": 23.40625,
+            "y": 920.5625,
+            "w": 343.1875,
+            "h": 193.03125
+          }
+        },
+        {
+          "tag": "IMG",
+          "id": "",
+          "cls": "",
+          "alt": "もふもふのいるAbout",
+          "rect": {
+            "x": 42.90625,
+            "y": 1397.515625,
+            "w": 304.1875,
+            "h": 202.78125
+          }
+        }
+      ],
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "h": 844
+      },
+      "scrollContainers": [
+        {
+          "id": "",
+          "cls": "view home-view is-active",
+          "top": 0,
+          "height": 844,
+          "scrollHeight": 2216
+        }
+      ],
+      "dialogs": [],
+      "screenshot": "002-return-to-previously-visited-perfume.jpg"
+    },
+    {
+      "label": "read-echoes-if-result-present",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+      "route": "home",
+      "viewportText": "WORLD\nWORLD",
+      "renderedBodyText": "作品へ移動\n \nWORLD\nWORLD\n水面の向こうに、いくつかの場所がひらいています。\n\n\nABOUT\nもふもふはいます。\nPLAY / SHARE / FAN WORK\nNIKO²での生活について\n好きな形で遊ぶための、小さな境界。\nDEAR ATELIER\nお手紙を送る\nAtelierの受取箱へ。\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+      "controls": [
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "skip-link",
+          "text": "作品へ移動",
+          "ariaLabel": null,
+          "type": null,
+          "href": "#main",
+          "disabled": false,
+          "rect": {
+            "x": 8,
+            "y": -61,
+            "w": 108,
+            "h": 43
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "ariaLabel": "音をオンにする",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "home-letter-entry",
+          "text": "FROM THE ATELIERを開く",
+          "ariaLabel": "FROM THE ATELIERを開く",
+          "type": null,
+          "href": "#notes",
+          "disabled": false,
+          "rect": {
+            "x": 279,
+            "y": 274,
+            "w": 91,
+            "h": 92
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "home-diary-entry",
+          "text": "Diaryを開く",
+          "ariaLabel": "Diaryを開く",
+          "type": null,
+          "href": "#diary",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 298,
+            "w": 147,
+            "h": 147
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "ariaLabel": "Enter the dream",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "home-world-lab",
+          "text": "WORLDを開く",
+          "ariaLabel": "WORLDを開く",
+          "type": null,
+          "href": "#world",
+          "disabled": false,
+          "rect": {
+            "x": 23,
+            "y": 921,
+            "w": 343,
+            "h": 193
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "home-about-window",
+          "text": "ABOUT もふもふはいます。",
+          "ariaLabel": "Aboutを開く",
+          "type": null,
+          "href": "#about",
+          "disabled": false,
+          "rect": {
+            "x": 43,
+            "y": 1398,
+            "w": 304,
+            "h": 252
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "home-quiet-link home-rights-entry",
+          "text": "PLAY / SHARE / FAN WORK NIKO²での生活について 好きな形で遊ぶための、小さな境界。",
+          "ariaLabel": null,
+          "type": null,
+          "href": "#rights",
+          "disabled": false,
+          "rect": {
+            "x": 31,
+            "y": 1798,
+            "w": 328,
+            "h": 124
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "home-quiet-link home-dear-entry",
+          "text": "DEAR ATELIER お手紙を送る Atelierの受取箱へ。",
+          "ariaLabel": null,
+          "type": null,
+          "href": "#dear",
+          "disabled": false,
+          "rect": {
+            "x": 31,
+            "y": 1936,
+            "w": 328,
+            "h": 124
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "unknown-entry",
+          "text": "???",
+          "ariaLabel": "用途不明の部屋を開く",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 0,
+            "y": 2110,
+            "w": 390,
+            "h": 58
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "",
+          "text": "Rights",
+          "ariaLabel": null,
+          "type": null,
+          "href": "#rights",
+          "disabled": false,
+          "rect": {
+            "x": 179,
+            "y": 2179,
+            "w": 32,
+            "h": 13
+          },
+          "onScreen": false,
+          "hit": false
+        }
+      ],
+      "artwork": [
+        {
+          "tag": "IMG",
+          "id": "",
+          "cls": "home-art",
+          "alt": "虹色の薄布と月明かりに包まれたNIKO² ATELIERの入口",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "w": 390,
+            "h": 843.984375
+          }
+        },
+        {
+          "tag": "IMG",
+          "id": "",
+          "cls": "",
+          "alt": "",
+          "rect": {
+            "x": 282.0892028808594,
+            "y": 273.550537109375,
+            "w": 88.18991088867188,
+            "h": 88.18991088867188
+          }
+        },
+        {
+          "tag": "IMG",
+          "id": "homeTitle",
+          "cls": "home-logo-master",
+          "alt": "NIKO² ATELIER",
+          "rect": {
+            "x": 58.5,
+            "y": 130.8125,
+            "w": 273,
+            "h": 182
+          }
+        },
+        {
+          "tag": "IMG",
+          "id": "",
+          "cls": "",
+          "alt": "",
+          "rect": {
+            "x": 13.886076927185059,
+            "y": 297.9642028808594,
+            "w": 147.10284423828125,
+            "h": 147.10284423828125
+          }
+        },
+        {
+          "tag": "IMG",
+          "id": "",
+          "cls": "",
+          "alt": "Enter the dream",
+          "rect": {
+            "x": 90,
+            "y": 493.71875,
+            "w": 210,
+            "h": 70
+          }
+        },
+        {
+          "tag": "IMG",
+          "id": "",
+          "cls": "",
+          "alt": "",
+          "rect": {
+            "x": 23.40625,
+            "y": 920.5625,
+            "w": 343.1875,
+            "h": 193.03125
+          }
+        },
+        {
+          "tag": "IMG",
+          "id": "",
+          "cls": "",
+          "alt": "もふもふのいるAbout",
+          "rect": {
+            "x": 42.90625,
+            "y": 1397.515625,
+            "w": 304.1875,
+            "h": 202.78125
+          }
+        }
+      ],
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "h": 844
+      },
+      "scrollContainers": [
+        {
+          "id": "",
+          "cls": "view home-view is-active",
+          "top": 0,
+          "height": 844,
+          "scrollHeight": 2216
+        }
+      ],
+      "dialogs": [],
+      "screenshot": "003-read-echoes-if-result-present.jpg"
+    },
+    {
+      "label": "enter-workbench-if-intro-present",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+      "route": "home",
+      "viewportText": "WORLD\nWORLD",
+      "renderedBodyText": "作品へ移動\n \nWORLD\nWORLD\n水面の向こうに、いくつかの場所がひらいています。\n\n\nABOUT\nもふもふはいます。\nPLAY / SHARE / FAN WORK\nNIKO²での生活について\n好きな形で遊ぶための、小さな境界。\nDEAR ATELIER\nお手紙を送る\nAtelierの受取箱へ。\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+      "controls": [
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "skip-link",
+          "text": "作品へ移動",
+          "ariaLabel": null,
+          "type": null,
+          "href": "#main",
+          "disabled": false,
+          "rect": {
+            "x": 8,
+            "y": -61,
+            "w": 108,
+            "h": 43
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "ariaLabel": "音をオンにする",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "home-letter-entry",
+          "text": "FROM THE ATELIERを開く",
+          "ariaLabel": "FROM THE ATELIERを開く",
+          "type": null,
+          "href": "#notes",
+          "disabled": false,
+          "rect": {
+            "x": 279,
+            "y": 274,
+            "w": 91,
+            "h": 92
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "home-diary-entry",
+          "text": "Diaryを開く",
+          "ariaLabel": "Diaryを開く",
+          "type": null,
+          "href": "#diary",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 298,
+            "w": 147,
+            "h": 147
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "ariaLabel": "Enter the dream",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "home-world-lab",
+          "text": "WORLDを開く",
+          "ariaLabel": "WORLDを開く",
+          "type": null,
+          "href": "#world",
+          "disabled": false,
+          "rect": {
+            "x": 23,
+            "y": 921,
+            "w": 343,
+            "h": 193
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "home-about-window",
+          "text": "ABOUT もふもふはいます。",
+          "ariaLabel": "Aboutを開く",
+          "type": null,
+          "href": "#about",
+          "disabled": false,
+          "rect": {
+            "x": 43,
+            "y": 1398,
+            "w": 304,
+            "h": 252
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "home-quiet-link home-rights-entry",
+          "text": "PLAY / SHARE / FAN WORK NIKO²での生活について 好きな形で遊ぶための、小さな境界。",
+          "ariaLabel": null,
+          "type": null,
+          "href": "#rights",
+          "disabled": false,
+          "rect": {
+            "x": 31,
+            "y": 1798,
+            "w": 328,
+            "h": 124
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "home-quiet-link home-dear-entry",
+          "text": "DEAR ATELIER お手紙を送る Atelierの受取箱へ。",
+          "ariaLabel": null,
+          "type": null,
+          "href": "#dear",
+          "disabled": false,
+          "rect": {
+            "x": 31,
+            "y": 1936,
+            "w": 328,
+            "h": 124
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "unknown-entry",
+          "text": "???",
+          "ariaLabel": "用途不明の部屋を開く",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 0,
+            "y": 2110,
+            "w": 390,
+            "h": 58
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "",
+          "text": "Rights",
+          "ariaLabel": null,
+          "type": null,
+          "href": "#rights",
+          "disabled": false,
+          "rect": {
+            "x": 179,
+            "y": 2179,
+            "w": 32,
+            "h": 13
+          },
+          "onScreen": false,
+          "hit": false
+        }
+      ],
+      "artwork": [
+        {
+          "tag": "IMG",
+          "id": "",
+          "cls": "home-art",
+          "alt": "虹色の薄布と月明かりに包まれたNIKO² ATELIERの入口",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "w": 390,
+            "h": 843.984375
+          }
+        },
+        {
+          "tag": "IMG",
+          "id": "",
+          "cls": "",
+          "alt": "",
+          "rect": {
+            "x": 282.0892028808594,
+            "y": 273.550537109375,
+            "w": 88.18991088867188,
+            "h": 88.18991088867188
+          }
+        },
+        {
+          "tag": "IMG",
+          "id": "homeTitle",
+          "cls": "home-logo-master",
+          "alt": "NIKO² ATELIER",
+          "rect": {
+            "x": 58.5,
+            "y": 130.8125,
+            "w": 273,
+            "h": 182
+          }
+        },
+        {
+          "tag": "IMG",
+          "id": "",
+          "cls": "",
+          "alt": "",
+          "rect": {
+            "x": 13.886076927185059,
+            "y": 297.9642028808594,
+            "w": 147.10284423828125,
+            "h": 147.10284423828125
+          }
+        },
+        {
+          "tag": "IMG",
+          "id": "",
+          "cls": "",
+          "alt": "Enter the dream",
+          "rect": {
+            "x": 90,
+            "y": 493.71875,
+            "w": 210,
+            "h": 70
+          }
+        },
+        {
+          "tag": "IMG",
+          "id": "",
+          "cls": "",
+          "alt": "",
+          "rect": {
+            "x": 23.40625,
+            "y": 920.5625,
+            "w": 343.1875,
+            "h": 193.03125
+          }
+        },
+        {
+          "tag": "IMG",
+          "id": "",
+          "cls": "",
+          "alt": "もふもふのいるAbout",
+          "rect": {
+            "x": 42.90625,
+            "y": 1397.515625,
+            "w": 304.1875,
+            "h": 202.78125
+          }
+        }
+      ],
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "h": 844
+      },
+      "scrollContainers": [
+        {
+          "id": "",
+          "cls": "view home-view is-active",
+          "top": 0,
+          "height": 844,
+          "scrollHeight": 2216
+        }
+      ],
+      "dialogs": []
+    },
+    {
+      "label": "remix-if-result-present",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+      "route": "home",
+      "viewportText": "WORLD\nWORLD",
+      "renderedBodyText": "作品へ移動\n \nWORLD\nWORLD\n水面の向こうに、いくつかの場所がひらいています。\n\n\nABOUT\nもふもふはいます。\nPLAY / SHARE / FAN WORK\nNIKO²での生活について\n好きな形で遊ぶための、小さな境界。\nDEAR ATELIER\nお手紙を送る\nAtelierの受取箱へ。\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+      "controls": [
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "skip-link",
+          "text": "作品へ移動",
+          "ariaLabel": null,
+          "type": null,
+          "href": "#main",
+          "disabled": false,
+          "rect": {
+            "x": 8,
+            "y": -61,
+            "w": 108,
+            "h": 43
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "ariaLabel": "音をオンにする",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "home-letter-entry",
+          "text": "FROM THE ATELIERを開く",
+          "ariaLabel": "FROM THE ATELIERを開く",
+          "type": null,
+          "href": "#notes",
+          "disabled": false,
+          "rect": {
+            "x": 279,
+            "y": 274,
+            "w": 91,
+            "h": 92
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "home-diary-entry",
+          "text": "Diaryを開く",
+          "ariaLabel": "Diaryを開く",
+          "type": null,
+          "href": "#diary",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 298,
+            "w": 147,
+            "h": 147
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "ariaLabel": "Enter the dream",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "home-world-lab",
+          "text": "WORLDを開く",
+          "ariaLabel": "WORLDを開く",
+          "type": null,
+          "href": "#world",
+          "disabled": false,
+          "rect": {
+            "x": 23,
+            "y": 921,
+            "w": 343,
+            "h": 193
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "home-about-window",
+          "text": "ABOUT もふもふはいます。",
+          "ariaLabel": "Aboutを開く",
+          "type": null,
+          "href": "#about",
+          "disabled": false,
+          "rect": {
+            "x": 43,
+            "y": 1398,
+            "w": 304,
+            "h": 252
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "home-quiet-link home-rights-entry",
+          "text": "PLAY / SHARE / FAN WORK NIKO²での生活について 好きな形で遊ぶための、小さな境界。",
+          "ariaLabel": null,
+          "type": null,
+          "href": "#rights",
+          "disabled": false,
+          "rect": {
+            "x": 31,
+            "y": 1798,
+            "w": 328,
+            "h": 124
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "home-quiet-link home-dear-entry",
+          "text": "DEAR ATELIER お手紙を送る Atelierの受取箱へ。",
+          "ariaLabel": null,
+          "type": null,
+          "href": "#dear",
+          "disabled": false,
+          "rect": {
+            "x": 31,
+            "y": 1936,
+            "w": 328,
+            "h": 124
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "unknown-entry",
+          "text": "???",
+          "ariaLabel": "用途不明の部屋を開く",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 0,
+            "y": 2110,
+            "w": 390,
+            "h": 58
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "",
+          "text": "Rights",
+          "ariaLabel": null,
+          "type": null,
+          "href": "#rights",
+          "disabled": false,
+          "rect": {
+            "x": 179,
+            "y": 2179,
+            "w": 32,
+            "h": 13
+          },
+          "onScreen": false,
+          "hit": false
+        }
+      ],
+      "artwork": [
+        {
+          "tag": "IMG",
+          "id": "",
+          "cls": "home-art",
+          "alt": "虹色の薄布と月明かりに包まれたNIKO² ATELIERの入口",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "w": 390,
+            "h": 843.984375
+          }
+        },
+        {
+          "tag": "IMG",
+          "id": "",
+          "cls": "",
+          "alt": "",
+          "rect": {
+            "x": 282.0892028808594,
+            "y": 273.550537109375,
+            "w": 88.18991088867188,
+            "h": 88.18991088867188
+          }
+        },
+        {
+          "tag": "IMG",
+          "id": "homeTitle",
+          "cls": "home-logo-master",
+          "alt": "NIKO² ATELIER",
+          "rect": {
+            "x": 58.5,
+            "y": 130.8125,
+            "w": 273,
+            "h": 182
+          }
+        },
+        {
+          "tag": "IMG",
+          "id": "",
+          "cls": "",
+          "alt": "",
+          "rect": {
+            "x": 13.886076927185059,
+            "y": 297.9642028808594,
+            "w": 147.10284423828125,
+            "h": 147.10284423828125
+          }
+        },
+        {
+          "tag": "IMG",
+          "id": "",
+          "cls": "",
+          "alt": "Enter the dream",
+          "rect": {
+            "x": 90,
+            "y": 493.71875,
+            "w": 210,
+            "h": 70
+          }
+        },
+        {
+          "tag": "IMG",
+          "id": "",
+          "cls": "",
+          "alt": "",
+          "rect": {
+            "x": 23.40625,
+            "y": 920.5625,
+            "w": 343.1875,
+            "h": 193.03125
+          }
+        },
+        {
+          "tag": "IMG",
+          "id": "",
+          "cls": "",
+          "alt": "もふもふのいるAbout",
+          "rect": {
+            "x": 42.90625,
+            "y": 1397.515625,
+            "w": 304.1875,
+            "h": 202.78125
+          }
+        }
+      ],
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "h": 844
+      },
+      "scrollContainers": [
+        {
+          "id": "",
+          "cls": "view home-view is-active",
+          "top": 0,
+          "height": 844,
+          "scrollHeight": 2216
+        }
+      ],
+      "dialogs": [],
+      "screenshot": "005-remix-if-result-present.jpg"
+    },
+    {
+      "label": "clear-1-if-retained",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+      "route": "home",
+      "viewportText": "WORLD\nWORLD",
+      "renderedBodyText": "作品へ移動\n \nWORLD\nWORLD\n水面の向こうに、いくつかの場所がひらいています。\n\n\nABOUT\nもふもふはいます。\nPLAY / SHARE / FAN WORK\nNIKO²での生活について\n好きな形で遊ぶための、小さな境界。\nDEAR ATELIER\nお手紙を送る\nAtelierの受取箱へ。\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+      "controls": [
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "skip-link",
+          "text": "作品へ移動",
+          "ariaLabel": null,
+          "type": null,
+          "href": "#main",
+          "disabled": false,
+          "rect": {
+            "x": 8,
+            "y": -61,
+            "w": 108,
+            "h": 43
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "ariaLabel": "音をオンにする",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "home-letter-entry",
+          "text": "FROM THE ATELIERを開く",
+          "ariaLabel": "FROM THE ATELIERを開く",
+          "type": null,
+          "href": "#notes",
+          "disabled": false,
+          "rect": {
+            "x": 279,
+            "y": 274,
+            "w": 91,
+            "h": 92
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "home-diary-entry",
+          "text": "Diaryを開く",
+          "ariaLabel": "Diaryを開く",
+          "type": null,
+          "href": "#diary",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 298,
+            "w": 147,
+            "h": 147
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "ariaLabel": "Enter the dream",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "home-world-lab",
+          "text": "WORLDを開く",
+          "ariaLabel": "WORLDを開く",
+          "type": null,
+          "href": "#world",
+          "disabled": false,
+          "rect": {
+            "x": 23,
+            "y": 921,
+            "w": 343,
+            "h": 193
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "home-about-window",
+          "text": "ABOUT もふもふはいます。",
+          "ariaLabel": "Aboutを開く",
+          "type": null,
+          "href": "#about",
+          "disabled": false,
+          "rect": {
+            "x": 43,
+            "y": 1398,
+            "w": 304,
+            "h": 252
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "home-quiet-link home-rights-entry",
+          "text": "PLAY / SHARE / FAN WORK NIKO²での生活について 好きな形で遊ぶための、小さな境界。",
+          "ariaLabel": null,
+          "type": null,
+          "href": "#rights",
+          "disabled": false,
+          "rect": {
+            "x": 31,
+            "y": 1798,
+            "w": 328,
+            "h": 124
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "home-quiet-link home-dear-entry",
+          "text": "DEAR ATELIER お手紙を送る Atelierの受取箱へ。",
+          "ariaLabel": null,
+          "type": null,
+          "href": "#dear",
+          "disabled": false,
+          "rect": {
+            "x": 31,
+            "y": 1936,
+            "w": 328,
+            "h": 124
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "unknown-entry",
+          "text": "???",
+          "ariaLabel": "用途不明の部屋を開く",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 0,
+            "y": 2110,
+            "w": 390,
+            "h": 58
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "",
+          "text": "Rights",
+          "ariaLabel": null,
+          "type": null,
+          "href": "#rights",
+          "disabled": false,
+          "rect": {
+            "x": 179,
+            "y": 2179,
+            "w": 32,
+            "h": 13
+          },
+          "onScreen": false,
+          "hit": false
+        }
+      ],
+      "artwork": [
+        {
+          "tag": "IMG",
+          "id": "",
+          "cls": "home-art",
+          "alt": "虹色の薄布と月明かりに包まれたNIKO² ATELIERの入口",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "w": 390,
+            "h": 843.984375
+          }
+        },
+        {
+          "tag": "IMG",
+          "id": "",
+          "cls": "",
+          "alt": "",
+          "rect": {
+            "x": 282.0892028808594,
+            "y": 273.550537109375,
+            "w": 88.18991088867188,
+            "h": 88.18991088867188
+          }
+        },
+        {
+          "tag": "IMG",
+          "id": "homeTitle",
+          "cls": "home-logo-master",
+          "alt": "NIKO² ATELIER",
+          "rect": {
+            "x": 58.5,
+            "y": 130.8125,
+            "w": 273,
+            "h": 182
+          }
+        },
+        {
+          "tag": "IMG",
+          "id": "",
+          "cls": "",
+          "alt": "",
+          "rect": {
+            "x": 13.886076927185059,
+            "y": 297.9642028808594,
+            "w": 147.10284423828125,
+            "h": 147.10284423828125
+          }
+        },
+        {
+          "tag": "IMG",
+          "id": "",
+          "cls": "",
+          "alt": "Enter the dream",
+          "rect": {
+            "x": 90,
+            "y": 493.71875,
+            "w": 210,
+            "h": 70
+          }
+        },
+        {
+          "tag": "IMG",
+          "id": "",
+          "cls": "",
+          "alt": "",
+          "rect": {
+            "x": 23.40625,
+            "y": 920.5625,
+            "w": 343.1875,
+            "h": 193.03125
+          }
+        },
+        {
+          "tag": "IMG",
+          "id": "",
+          "cls": "",
+          "alt": "もふもふのいるAbout",
+          "rect": {
+            "x": 42.90625,
+            "y": 1397.515625,
+            "w": 304.1875,
+            "h": 202.78125
+          }
+        }
+      ],
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "h": 844
+      },
+      "scrollContainers": [
+        {
+          "id": "",
+          "cls": "view home-view is-active",
+          "top": 0,
+          "height": 844,
+          "scrollHeight": 2216
+        }
+      ],
+      "dialogs": []
+    },
+    {
+      "label": "clear-2-if-retained",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+      "route": "home",
+      "viewportText": "WORLD\nWORLD",
+      "renderedBodyText": "作品へ移動\n \nWORLD\nWORLD\n水面の向こうに、いくつかの場所がひらいています。\n\n\nABOUT\nもふもふはいます。\nPLAY / SHARE / FAN WORK\nNIKO²での生活について\n好きな形で遊ぶための、小さな境界。\nDEAR ATELIER\nお手紙を送る\nAtelierの受取箱へ。\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+      "controls": [
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "skip-link",
+          "text": "作品へ移動",
+          "ariaLabel": null,
+          "type": null,
+          "href": "#main",
+          "disabled": false,
+          "rect": {
+            "x": 8,
+            "y": -61,
+            "w": 108,
+            "h": 43
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "ariaLabel": "音をオンにする",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "home-letter-entry",
+          "text": "FROM THE ATELIERを開く",
+          "ariaLabel": "FROM THE ATELIERを開く",
+          "type": null,
+          "href": "#notes",
+          "disabled": false,
+          "rect": {
+            "x": 279,
+            "y": 274,
+            "w": 91,
+            "h": 92
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "home-diary-entry",
+          "text": "Diaryを開く",
+          "ariaLabel": "Diaryを開く",
+          "type": null,
+          "href": "#diary",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 298,
+            "w": 147,
+            "h": 147
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "ariaLabel": "Enter the dream",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "home-world-lab",
+          "text": "WORLDを開く",
+          "ariaLabel": "WORLDを開く",
+          "type": null,
+          "href": "#world",
+          "disabled": false,
+          "rect": {
+            "x": 23,
+            "y": 921,
+            "w": 343,
+            "h": 193
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "home-about-window",
+          "text": "ABOUT もふもふはいます。",
+          "ariaLabel": "Aboutを開く",
+          "type": null,
+          "href": "#about",
+          "disabled": false,
+          "rect": {
+            "x": 43,
+            "y": 1398,
+            "w": 304,
+            "h": 252
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "home-quiet-link home-rights-entry",
+          "text": "PLAY / SHARE / FAN WORK NIKO²での生活について 好きな形で遊ぶための、小さな境界。",
+          "ariaLabel": null,
+          "type": null,
+          "href": "#rights",
+          "disabled": false,
+          "rect": {
+            "x": 31,
+            "y": 1798,
+            "w": 328,
+            "h": 124
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "home-quiet-link home-dear-entry",
+          "text": "DEAR ATELIER お手紙を送る Atelierの受取箱へ。",
+          "ariaLabel": null,
+          "type": null,
+          "href": "#dear",
+          "disabled": false,
+          "rect": {
+            "x": 31,
+            "y": 1936,
+            "w": 328,
+            "h": 124
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "unknown-entry",
+          "text": "???",
+          "ariaLabel": "用途不明の部屋を開く",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 0,
+            "y": 2110,
+            "w": 390,
+            "h": 58
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "",
+          "text": "Rights",
+          "ariaLabel": null,
+          "type": null,
+          "href": "#rights",
+          "disabled": false,
+          "rect": {
+            "x": 179,
+            "y": 2179,
+            "w": 32,
+            "h": 13
+          },
+          "onScreen": false,
+          "hit": false
+        }
+      ],
+      "artwork": [
+        {
+          "tag": "IMG",
+          "id": "",
+          "cls": "home-art",
+          "alt": "虹色の薄布と月明かりに包まれたNIKO² ATELIERの入口",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "w": 390,
+            "h": 843.984375
+          }
+        },
+        {
+          "tag": "IMG",
+          "id": "",
+          "cls": "",
+          "alt": "",
+          "rect": {
+            "x": 282.0892028808594,
+            "y": 273.550537109375,
+            "w": 88.18991088867188,
+            "h": 88.18991088867188
+          }
+        },
+        {
+          "tag": "IMG",
+          "id": "homeTitle",
+          "cls": "home-logo-master",
+          "alt": "NIKO² ATELIER",
+          "rect": {
+            "x": 58.5,
+            "y": 130.8125,
+            "w": 273,
+            "h": 182
+          }
+        },
+        {
+          "tag": "IMG",
+          "id": "",
+          "cls": "",
+          "alt": "",
+          "rect": {
+            "x": 13.886076927185059,
+            "y": 297.9642028808594,
+            "w": 147.10284423828125,
+            "h": 147.10284423828125
+          }
+        },
+        {
+          "tag": "IMG",
+          "id": "",
+          "cls": "",
+          "alt": "Enter the dream",
+          "rect": {
+            "x": 90,
+            "y": 493.71875,
+            "w": 210,
+            "h": 70
+          }
+        },
+        {
+          "tag": "IMG",
+          "id": "",
+          "cls": "",
+          "alt": "",
+          "rect": {
+            "x": 23.40625,
+            "y": 920.5625,
+            "w": 343.1875,
+            "h": 193.03125
+          }
+        },
+        {
+          "tag": "IMG",
+          "id": "",
+          "cls": "",
+          "alt": "もふもふのいるAbout",
+          "rect": {
+            "x": 42.90625,
+            "y": 1397.515625,
+            "w": 304.1875,
+            "h": 202.78125
+          }
+        }
+      ],
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "h": 844
+      },
+      "scrollContainers": [
+        {
+          "id": "",
+          "cls": "view home-view is-active",
+          "top": 0,
+          "height": 844,
+          "scrollHeight": 2216
+        }
+      ],
+      "dialogs": []
+    },
+    {
+      "label": "clear-3-if-retained",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+      "route": "home",
+      "viewportText": "WORLD\nWORLD",
+      "renderedBodyText": "作品へ移動\n \nWORLD\nWORLD\n水面の向こうに、いくつかの場所がひらいています。\n\n\nABOUT\nもふもふはいます。\nPLAY / SHARE / FAN WORK\nNIKO²での生活について\n好きな形で遊ぶための、小さな境界。\nDEAR ATELIER\nお手紙を送る\nAtelierの受取箱へ。\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+      "controls": [
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "skip-link",
+          "text": "作品へ移動",
+          "ariaLabel": null,
+          "type": null,
+          "href": "#main",
+          "disabled": false,
+          "rect": {
+            "x": 8,
+            "y": -61,
+            "w": 108,
+            "h": 43
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "ariaLabel": "音をオンにする",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "home-letter-entry",
+          "text": "FROM THE ATELIERを開く",
+          "ariaLabel": "FROM THE ATELIERを開く",
+          "type": null,
+          "href": "#notes",
+          "disabled": false,
+          "rect": {
+            "x": 279,
+            "y": 274,
+            "w": 91,
+            "h": 92
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "home-diary-entry",
+          "text": "Diaryを開く",
+          "ariaLabel": "Diaryを開く",
+          "type": null,
+          "href": "#diary",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 298,
+            "w": 147,
+            "h": 147
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "ariaLabel": "Enter the dream",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "home-world-lab",
+          "text": "WORLDを開く",
+          "ariaLabel": "WORLDを開く",
+          "type": null,
+          "href": "#world",
+          "disabled": false,
+          "rect": {
+            "x": 23,
+            "y": 921,
+            "w": 343,
+            "h": 193
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "home-about-window",
+          "text": "ABOUT もふもふはいます。",
+          "ariaLabel": "Aboutを開く",
+          "type": null,
+          "href": "#about",
+          "disabled": false,
+          "rect": {
+            "x": 43,
+            "y": 1398,
+            "w": 304,
+            "h": 252
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "home-quiet-link home-rights-entry",
+          "text": "PLAY / SHARE / FAN WORK NIKO²での生活について 好きな形で遊ぶための、小さな境界。",
+          "ariaLabel": null,
+          "type": null,
+          "href": "#rights",
+          "disabled": false,
+          "rect": {
+            "x": 31,
+            "y": 1798,
+            "w": 328,
+            "h": 124
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "home-quiet-link home-dear-entry",
+          "text": "DEAR ATELIER お手紙を送る Atelierの受取箱へ。",
+          "ariaLabel": null,
+          "type": null,
+          "href": "#dear",
+          "disabled": false,
+          "rect": {
+            "x": 31,
+            "y": 1936,
+            "w": 328,
+            "h": 124
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "unknown-entry",
+          "text": "???",
+          "ariaLabel": "用途不明の部屋を開く",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 0,
+            "y": 2110,
+            "w": 390,
+            "h": 58
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "",
+          "text": "Rights",
+          "ariaLabel": null,
+          "type": null,
+          "href": "#rights",
+          "disabled": false,
+          "rect": {
+            "x": 179,
+            "y": 2179,
+            "w": 32,
+            "h": 13
+          },
+          "onScreen": false,
+          "hit": false
+        }
+      ],
+      "artwork": [
+        {
+          "tag": "IMG",
+          "id": "",
+          "cls": "home-art",
+          "alt": "虹色の薄布と月明かりに包まれたNIKO² ATELIERの入口",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "w": 390,
+            "h": 843.984375
+          }
+        },
+        {
+          "tag": "IMG",
+          "id": "",
+          "cls": "",
+          "alt": "",
+          "rect": {
+            "x": 282.0892028808594,
+            "y": 273.550537109375,
+            "w": 88.18991088867188,
+            "h": 88.18991088867188
+          }
+        },
+        {
+          "tag": "IMG",
+          "id": "homeTitle",
+          "cls": "home-logo-master",
+          "alt": "NIKO² ATELIER",
+          "rect": {
+            "x": 58.5,
+            "y": 130.8125,
+            "w": 273,
+            "h": 182
+          }
+        },
+        {
+          "tag": "IMG",
+          "id": "",
+          "cls": "",
+          "alt": "",
+          "rect": {
+            "x": 13.886076927185059,
+            "y": 297.9642028808594,
+            "w": 147.10284423828125,
+            "h": 147.10284423828125
+          }
+        },
+        {
+          "tag": "IMG",
+          "id": "",
+          "cls": "",
+          "alt": "Enter the dream",
+          "rect": {
+            "x": 90,
+            "y": 493.71875,
+            "w": 210,
+            "h": 70
+          }
+        },
+        {
+          "tag": "IMG",
+          "id": "",
+          "cls": "",
+          "alt": "",
+          "rect": {
+            "x": 23.40625,
+            "y": 920.5625,
+            "w": 343.1875,
+            "h": 193.03125
+          }
+        },
+        {
+          "tag": "IMG",
+          "id": "",
+          "cls": "",
+          "alt": "もふもふのいるAbout",
+          "rect": {
+            "x": 42.90625,
+            "y": 1397.515625,
+            "w": 304.1875,
+            "h": 202.78125
+          }
+        }
+      ],
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "h": 844
+      },
+      "scrollContainers": [
+        {
+          "id": "",
+          "cls": "view home-view is-active",
+          "top": 0,
+          "height": 844,
+          "scrollHeight": 2216
+        }
+      ],
+      "dialogs": []
+    },
+    {
+      "label": "top-layer",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+      "route": "home",
+      "viewportText": "WORLD\nWORLD",
+      "renderedBodyText": "作品へ移動\n \nWORLD\nWORLD\n水面の向こうに、いくつかの場所がひらいています。\n\n\nABOUT\nもふもふはいます。\nPLAY / SHARE / FAN WORK\nNIKO²での生活について\n好きな形で遊ぶための、小さな境界。\nDEAR ATELIER\nお手紙を送る\nAtelierの受取箱へ。\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+      "controls": [
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "skip-link",
+          "text": "作品へ移動",
+          "ariaLabel": null,
+          "type": null,
+          "href": "#main",
+          "disabled": false,
+          "rect": {
+            "x": 8,
+            "y": -61,
+            "w": 108,
+            "h": 43
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "ariaLabel": "音をオンにする",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "home-letter-entry",
+          "text": "FROM THE ATELIERを開く",
+          "ariaLabel": "FROM THE ATELIERを開く",
+          "type": null,
+          "href": "#notes",
+          "disabled": false,
+          "rect": {
+            "x": 279,
+            "y": 274,
+            "w": 91,
+            "h": 92
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "home-diary-entry",
+          "text": "Diaryを開く",
+          "ariaLabel": "Diaryを開く",
+          "type": null,
+          "href": "#diary",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 298,
+            "w": 147,
+            "h": 147
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "ariaLabel": "Enter the dream",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "home-world-lab",
+          "text": "WORLDを開く",
+          "ariaLabel": "WORLDを開く",
+          "type": null,
+          "href": "#world",
+          "disabled": false,
+          "rect": {
+            "x": 23,
+            "y": 921,
+            "w": 343,
+            "h": 193
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "home-about-window",
+          "text": "ABOUT もふもふはいます。",
+          "ariaLabel": "Aboutを開く",
+          "type": null,
+          "href": "#about",
+          "disabled": false,
+          "rect": {
+            "x": 43,
+            "y": 1398,
+            "w": 304,
+            "h": 252
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "home-quiet-link home-rights-entry",
+          "text": "PLAY / SHARE / FAN WORK NIKO²での生活について 好きな形で遊ぶための、小さな境界。",
+          "ariaLabel": null,
+          "type": null,
+          "href": "#rights",
+          "disabled": false,
+          "rect": {
+            "x": 31,
+            "y": 1798,
+            "w": 328,
+            "h": 124
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "home-quiet-link home-dear-entry",
+          "text": "DEAR ATELIER お手紙を送る Atelierの受取箱へ。",
+          "ariaLabel": null,
+          "type": null,
+          "href": "#dear",
+          "disabled": false,
+          "rect": {
+            "x": 31,
+            "y": 1936,
+            "w": 328,
+            "h": 124
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "unknown-entry",
+          "text": "???",
+          "ariaLabel": "用途不明の部屋を開く",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 0,
+            "y": 2110,
+            "w": 390,
+            "h": 58
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "",
+          "text": "Rights",
+          "ariaLabel": null,
+          "type": null,
+          "href": "#rights",
+          "disabled": false,
+          "rect": {
+            "x": 179,
+            "y": 2179,
+            "w": 32,
+            "h": 13
+          },
+          "onScreen": false,
+          "hit": false
+        }
+      ],
+      "artwork": [
+        {
+          "tag": "IMG",
+          "id": "",
+          "cls": "home-art",
+          "alt": "虹色の薄布と月明かりに包まれたNIKO² ATELIERの入口",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "w": 390,
+            "h": 843.984375
+          }
+        },
+        {
+          "tag": "IMG",
+          "id": "",
+          "cls": "",
+          "alt": "",
+          "rect": {
+            "x": 282.0892028808594,
+            "y": 273.550537109375,
+            "w": 88.18991088867188,
+            "h": 88.18991088867188
+          }
+        },
+        {
+          "tag": "IMG",
+          "id": "homeTitle",
+          "cls": "home-logo-master",
+          "alt": "NIKO² ATELIER",
+          "rect": {
+            "x": 58.5,
+            "y": 130.8125,
+            "w": 273,
+            "h": 182
+          }
+        },
+        {
+          "tag": "IMG",
+          "id": "",
+          "cls": "",
+          "alt": "",
+          "rect": {
+            "x": 13.886076927185059,
+            "y": 297.9642028808594,
+            "w": 147.10284423828125,
+            "h": 147.10284423828125
+          }
+        },
+        {
+          "tag": "IMG",
+          "id": "",
+          "cls": "",
+          "alt": "Enter the dream",
+          "rect": {
+            "x": 90,
+            "y": 493.71875,
+            "w": 210,
+            "h": 70
+          }
+        },
+        {
+          "tag": "IMG",
+          "id": "",
+          "cls": "",
+          "alt": "",
+          "rect": {
+            "x": 23.40625,
+            "y": 920.5625,
+            "w": 343.1875,
+            "h": 193.03125
+          }
+        },
+        {
+          "tag": "IMG",
+          "id": "",
+          "cls": "",
+          "alt": "もふもふのいるAbout",
+          "rect": {
+            "x": 42.90625,
+            "y": 1397.515625,
+            "w": 304.1875,
+            "h": 202.78125
+          }
+        }
+      ],
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "h": 844
+      },
+      "scrollContainers": [
+        {
+          "id": "",
+          "cls": "view home-view is-active",
+          "top": 0,
+          "height": 844,
+          "scrollHeight": 2216
+        }
+      ],
+      "dialogs": []
+    },
+    {
+      "label": "final",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+      "route": "home",
+      "viewportText": "WORLD\nWORLD",
+      "renderedBodyText": "作品へ移動\n \nWORLD\nWORLD\n水面の向こうに、いくつかの場所がひらいています。\n\n\nABOUT\nもふもふはいます。\nPLAY / SHARE / FAN WORK\nNIKO²での生活について\n好きな形で遊ぶための、小さな境界。\nDEAR ATELIER\nお手紙を送る\nAtelierの受取箱へ。\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+      "controls": [
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "skip-link",
+          "text": "作品へ移動",
+          "ariaLabel": null,
+          "type": null,
+          "href": "#main",
+          "disabled": false,
+          "rect": {
+            "x": 8,
+            "y": -61,
+            "w": 108,
+            "h": 43
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "ariaLabel": "音をオンにする",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "home-letter-entry",
+          "text": "FROM THE ATELIERを開く",
+          "ariaLabel": "FROM THE ATELIERを開く",
+          "type": null,
+          "href": "#notes",
+          "disabled": false,
+          "rect": {
+            "x": 279,
+            "y": 274,
+            "w": 91,
+            "h": 92
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "home-diary-entry",
+          "text": "Diaryを開く",
+          "ariaLabel": "Diaryを開く",
+          "type": null,
+          "href": "#diary",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 298,
+            "w": 147,
+            "h": 147
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "ariaLabel": "Enter the dream",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "home-world-lab",
+          "text": "WORLDを開く",
+          "ariaLabel": "WORLDを開く",
+          "type": null,
+          "href": "#world",
+          "disabled": false,
+          "rect": {
+            "x": 23,
+            "y": 921,
+            "w": 343,
+            "h": 193
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "home-about-window",
+          "text": "ABOUT もふもふはいます。",
+          "ariaLabel": "Aboutを開く",
+          "type": null,
+          "href": "#about",
+          "disabled": false,
+          "rect": {
+            "x": 43,
+            "y": 1398,
+            "w": 304,
+            "h": 252
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "home-quiet-link home-rights-entry",
+          "text": "PLAY / SHARE / FAN WORK NIKO²での生活について 好きな形で遊ぶための、小さな境界。",
+          "ariaLabel": null,
+          "type": null,
+          "href": "#rights",
+          "disabled": false,
+          "rect": {
+            "x": 31,
+            "y": 1798,
+            "w": 328,
+            "h": 124
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "home-quiet-link home-dear-entry",
+          "text": "DEAR ATELIER お手紙を送る Atelierの受取箱へ。",
+          "ariaLabel": null,
+          "type": null,
+          "href": "#dear",
+          "disabled": false,
+          "rect": {
+            "x": 31,
+            "y": 1936,
+            "w": 328,
+            "h": 124
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "unknown-entry",
+          "text": "???",
+          "ariaLabel": "用途不明の部屋を開く",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 0,
+            "y": 2110,
+            "w": 390,
+            "h": 58
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "",
+          "text": "Rights",
+          "ariaLabel": null,
+          "type": null,
+          "href": "#rights",
+          "disabled": false,
+          "rect": {
+            "x": 179,
+            "y": 2179,
+            "w": 32,
+            "h": 13
+          },
+          "onScreen": false,
+          "hit": false
+        }
+      ],
+      "artwork": [
+        {
+          "tag": "IMG",
+          "id": "",
+          "cls": "home-art",
+          "alt": "虹色の薄布と月明かりに包まれたNIKO² ATELIERの入口",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "w": 390,
+            "h": 843.984375
+          }
+        },
+        {
+          "tag": "IMG",
+          "id": "",
+          "cls": "",
+          "alt": "",
+          "rect": {
+            "x": 282.0892028808594,
+            "y": 273.550537109375,
+            "w": 88.18991088867188,
+            "h": 88.18991088867188
+          }
+        },
+        {
+          "tag": "IMG",
+          "id": "homeTitle",
+          "cls": "home-logo-master",
+          "alt": "NIKO² ATELIER",
+          "rect": {
+            "x": 58.5,
+            "y": 130.8125,
+            "w": 273,
+            "h": 182
+          }
+        },
+        {
+          "tag": "IMG",
+          "id": "",
+          "cls": "",
+          "alt": "",
+          "rect": {
+            "x": 13.886076927185059,
+            "y": 297.9642028808594,
+            "w": 147.10284423828125,
+            "h": 147.10284423828125
+          }
+        },
+        {
+          "tag": "IMG",
+          "id": "",
+          "cls": "",
+          "alt": "Enter the dream",
+          "rect": {
+            "x": 90,
+            "y": 493.71875,
+            "w": 210,
+            "h": 70
+          }
+        },
+        {
+          "tag": "IMG",
+          "id": "",
+          "cls": "",
+          "alt": "",
+          "rect": {
+            "x": 23.40625,
+            "y": 920.5625,
+            "w": 343.1875,
+            "h": 193.03125
+          }
+        },
+        {
+          "tag": "IMG",
+          "id": "",
+          "cls": "",
+          "alt": "もふもふのいるAbout",
+          "rect": {
+            "x": 42.90625,
+            "y": 1397.515625,
+            "w": 304.1875,
+            "h": 202.78125
+          }
+        }
+      ],
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "h": 844
+      },
+      "scrollContainers": [
+        {
+          "id": "",
+          "cls": "view home-view is-active",
+          "top": 0,
+          "height": 844,
+          "scrollHeight": 2216
+        }
+      ],
+      "dialogs": [],
+      "screenshot": "010-final.jpg"
+    }
+  ],
+  "errors": [],
+  "httpErrors": [
+    {
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/api/identity",
+      "status": 404
+    }
+  ],
+  "startedAt": "2026-10-06T18:53:04.379Z",
+  "startUrl": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+  "httpStatus": 200,
+  "stopReason": "action failed; return current evidence rather than pretend later steps happened",
+  "final": {
+    "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+    "route": "home",
+    "viewportText": "WORLD\nWORLD",
+    "renderedBodyText": "作品へ移動\n \nWORLD\nWORLD\n水面の向こうに、いくつかの場所がひらいています。\n\n\nABOUT\nもふもふはいます。\nPLAY / SHARE / FAN WORK\nNIKO²での生活について\n好きな形で遊ぶための、小さな境界。\nDEAR ATELIER\nお手紙を送る\nAtelierの受取箱へ。\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+    "controls": [
+      {
+        "tag": "A",
+        "id": "",
+        "cls": "skip-link",
+        "text": "作品へ移動",
+        "ariaLabel": null,
+        "type": null,
+        "href": "#main",
+        "disabled": false,
+        "rect": {
+          "x": 8,
+          "y": -61,
+          "w": 108,
+          "h": 43
+        },
+        "onScreen": false,
+        "hit": false
+      },
+      {
+        "tag": "BUTTON",
+        "id": "soundToggle",
+        "cls": "sound-toggle",
+        "text": "音をオンにする",
+        "ariaLabel": "音をオンにする",
+        "type": "button",
+        "href": null,
+        "disabled": false,
+        "rect": {
+          "x": 332,
+          "y": 14,
+          "w": 44,
+          "h": 44
+        },
+        "onScreen": true,
+        "hit": true
+      },
+      {
+        "tag": "A",
+        "id": "",
+        "cls": "home-letter-entry",
+        "text": "FROM THE ATELIERを開く",
+        "ariaLabel": "FROM THE ATELIERを開く",
+        "type": null,
+        "href": "#notes",
+        "disabled": false,
+        "rect": {
+          "x": 279,
+          "y": 274,
+          "w": 91,
+          "h": 92
+        },
+        "onScreen": true,
+        "hit": true
+      },
+      {
+        "tag": "A",
+        "id": "",
+        "cls": "home-diary-entry",
+        "text": "Diaryを開く",
+        "ariaLabel": "Diaryを開く",
+        "type": null,
+        "href": "#diary",
+        "disabled": false,
+        "rect": {
+          "x": 14,
+          "y": 298,
+          "w": 147,
+          "h": 147
+        },
+        "onScreen": true,
+        "hit": true
+      },
+      {
+        "tag": "BUTTON",
+        "id": "enterGarden",
+        "cls": "dream-entry home-pink-cta",
+        "text": "Enter the dream",
+        "ariaLabel": "Enter the dream",
+        "type": "button",
+        "href": null,
+        "disabled": false,
+        "rect": {
+          "x": 90,
+          "y": 494,
+          "w": 210,
+          "h": 70
+        },
+        "onScreen": true,
+        "hit": true
+      },
+      {
+        "tag": "A",
+        "id": "",
+        "cls": "home-world-lab",
+        "text": "WORLDを開く",
+        "ariaLabel": "WORLDを開く",
+        "type": null,
+        "href": "#world",
+        "disabled": false,
+        "rect": {
+          "x": 23,
+          "y": 921,
+          "w": 343,
+          "h": 193
+        },
+        "onScreen": false,
+        "hit": false
+      },
+      {
+        "tag": "A",
+        "id": "",
+        "cls": "home-about-window",
+        "text": "ABOUT もふもふはいます。",
+        "ariaLabel": "Aboutを開く",
+        "type": null,
+        "href": "#about",
+        "disabled": false,
+        "rect": {
+          "x": 43,
+          "y": 1398,
+          "w": 304,
+          "h": 252
+        },
+        "onScreen": false,
+        "hit": false
+      },
+      {
+        "tag": "A",
+        "id": "",
+        "cls": "home-quiet-link home-rights-entry",
+        "text": "PLAY / SHARE / FAN WORK NIKO²での生活について 好きな形で遊ぶための、小さな境界。",
+        "ariaLabel": null,
+        "type": null,
+        "href": "#rights",
+        "disabled": false,
+        "rect": {
+          "x": 31,
+          "y": 1798,
+          "w": 328,
+          "h": 124
+        },
+        "onScreen": false,
+        "hit": false
+      },
+      {
+        "tag": "A",
+        "id": "",
+        "cls": "home-quiet-link home-dear-entry",
+        "text": "DEAR ATELIER お手紙を送る Atelierの受取箱へ。",
+        "ariaLabel": null,
+        "type": null,
+        "href": "#dear",
+        "disabled": false,
+        "rect": {
+          "x": 31,
+          "y": 1936,
+          "w": 328,
+          "h": 124
+        },
+        "onScreen": false,
+        "hit": false
+      },
+      {
+        "tag": "BUTTON",
+        "id": "",
+        "cls": "unknown-entry",
+        "text": "???",
+        "ariaLabel": "用途不明の部屋を開く",
+        "type": "button",
+        "href": null,
+        "disabled": false,
+        "rect": {
+          "x": 0,
+          "y": 2110,
+          "w": 390,
+          "h": 58
+        },
+        "onScreen": false,
+        "hit": false
+      },
+      {
+        "tag": "A",
+        "id": "",
+        "cls": "",
+        "text": "Rights",
+        "ariaLabel": null,
+        "type": null,
+        "href": "#rights",
+        "disabled": false,
+        "rect": {
+          "x": 179,
+          "y": 2179,
+          "w": 32,
+          "h": 13
+        },
+        "onScreen": false,
+        "hit": false
+      }
+    ],
+    "artwork": [
+      {
+        "tag": "IMG",
+        "id": "",
+        "cls": "home-art",
+        "alt": "虹色の薄布と月明かりに包まれたNIKO² ATELIERの入口",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "w": 390,
+          "h": 843.984375
+        }
+      },
+      {
+        "tag": "IMG",
+        "id": "",
+        "cls": "",
+        "alt": "",
+        "rect": {
+          "x": 282.0892028808594,
+          "y": 273.550537109375,
+          "w": 88.18991088867188,
+          "h": 88.18991088867188
+        }
+      },
+      {
+        "tag": "IMG",
+        "id": "homeTitle",
+        "cls": "home-logo-master",
+        "alt": "NIKO² ATELIER",
+        "rect": {
+          "x": 58.5,
+          "y": 130.8125,
+          "w": 273,
+          "h": 182
+        }
+      },
+      {
+        "tag": "IMG",
+        "id": "",
+        "cls": "",
+        "alt": "",
+        "rect": {
+          "x": 13.886076927185059,
+          "y": 297.9642028808594,
+          "w": 147.10284423828125,
+          "h": 147.10284423828125
+        }
+      },
+      {
+        "tag": "IMG",
+        "id": "",
+        "cls": "",
+        "alt": "Enter the dream",
+        "rect": {
+          "x": 90,
+          "y": 493.71875,
+          "w": 210,
+          "h": 70
+        }
+      },
+      {
+        "tag": "IMG",
+        "id": "",
+        "cls": "",
+        "alt": "",
+        "rect": {
+          "x": 23.40625,
+          "y": 920.5625,
+          "w": 343.1875,
+          "h": 193.03125
+        }
+      },
+      {
+        "tag": "IMG",
+        "id": "",
+        "cls": "",
+        "alt": "もふもふのいるAbout",
+        "rect": {
+          "x": 42.90625,
+          "y": 1397.515625,
+          "w": 304.1875,
+          "h": 202.78125
+        }
+      }
+    ],
+    "scroll": {
+      "x": 0,
+      "y": 0,
+      "h": 844
+    },
+    "scrollContainers": [
+      {
+        "id": "",
+        "cls": "view home-view is-active",
+        "top": 0,
+        "height": 844,
+        "scrollHeight": 2216
+      }
+    ],
+    "dialogs": [],
+    "screenshot": "010-final.jpg"
+  },
+  "finishedAt": "2026-10-06T18:53:31.706Z"
+}
