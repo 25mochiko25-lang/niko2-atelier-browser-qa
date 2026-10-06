@@ -1,0 +1,64 @@
+{
+  "request": "genre-critic-six-cont06",
+  "startUrl": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+  "startedAt": "2026-10-06T18:27:23.063Z",
+  "finishedAt": "2026-10-06T18:27:37.909Z",
+  "httpStatus": 200,
+  "events": [
+    {
+      "step": 1,
+      "action": {
+        "kind": "tap",
+        "selector": "#enterGarden",
+        "label": "follow-dream-entrance-after-first-visit",
+        "wait": 2200,
+        "picture": true
+      },
+      "result": {
+        "x": 195,
+        "y": 528.71875,
+        "label": "Enter the dream",
+        "id": "enterGarden"
+      },
+      "error": null,
+      "before": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+        "route": "home"
+      },
+      "after": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#perfume",
+        "route": "perfume"
+      }
+    }
+  ],
+  "observations": [
+    {
+      "label": "arrival",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+      "route": "home",
+      "viewportText": "WORLD\nWORLD",
+      "screenshot": "001-arrival.jpg"
+    },
+    {
+      "label": "follow-dream-entrance-after-first-visit",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#perfume",
+      "route": "perfume",
+      "viewportText": "NIKO² ATELIER\nFORMULA / TWELVE TRILLION\n三つの層に、記憶を落とす。\n十二兆通りの数式のうち、今日の一本だけが、あなたの手で閉じる。\nときどき、こちらの記録にはない香りも届きます。\n調香台へ",
+      "screenshot": "002-follow-dream-entrance-after-first-visit.jpg"
+    },
+    {
+      "label": "final",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#perfume",
+      "route": "perfume",
+      "viewportText": "NIKO² ATELIER\nFORMULA / TWELVE TRILLION\n三つの層に、記憶を落とす。\n十二兆通りの数式のうち、今日の一本だけが、あなたの手で閉じる。\nときどき、こちらの記録にはない香りも届きます。\n調香台へ",
+      "screenshot": "003-final.jpg"
+    }
+  ],
+  "errors": [],
+  "httpErrors": [
+    {
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/api/identity",
+      "status": 404
+    }
+  ]
+}

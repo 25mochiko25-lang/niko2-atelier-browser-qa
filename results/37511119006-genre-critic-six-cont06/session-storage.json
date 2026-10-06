@@ -1,0 +1,5 @@
+{
+  "niko2.history.index.v1": "1",
+  "niko2.perfumeAtelier.state.v1": "{\"version\":3,\"activeRun\":{\"runId\":\"perfume-1791311254178-4i909\",\"activeLayer\":\"top\",\"concentration\":3,\"formula\":{\"top\":[],\"middle\":[],\"base\":[]},\"lifecycle\":\"ACTIVE\",\"startedAt\":\"2026-10-06T18:27:34.178Z\"},\"pendingResult\":null,\"lastOpenResultRunId\":null,\"lastOpenResultMode\":\"result\"}",
+  "niko2.runtime.session.v1": "{\"version\":1,\"sessionId\":\"runtime-1791310413295-vkkm5p\",\"openedAt\":\"2026-10-06T18:13:33.295Z\",\"lastSeenAt\":\"2026-10-06T18:27:34.199Z\",\"lastInteractionAt\":\"2026-10-06T18:27:34.171Z\",\"lastRoute\":\"perfume\",\"lastRunId\":\"perfume-1791311254178-4i909\"}"
+}

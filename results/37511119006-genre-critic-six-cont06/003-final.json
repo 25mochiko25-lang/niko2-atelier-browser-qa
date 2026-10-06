@@ -1,0 +1,121 @@
+{
+  "label": "final",
+  "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#perfume",
+  "route": "perfume",
+  "viewportText": "NIKO² ATELIER\nFORMULA / TWELVE TRILLION\n三つの層に、記憶を落とす。\n十二兆通りの数式のうち、今日の一本だけが、あなたの手で閉じる。\nときどき、こちらの記録にはない香りも届きます。\n調香台へ",
+  "renderedBodyText": "作品へ移動\nNIKO² ATELIER\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDREAM / PM-01\nPERFUME MORGUE\nFORMULA / EMPTY\nFORMULA / TWELVE TRILLION\n三つの層に、記憶を落とす。\n十二兆通りの数式のうち、今日の一本だけが、あなたの手で閉じる。\nときどき、こちらの記録にはない香りも届きます。\n\n調香台へ\n",
+  "controls": [
+    {
+      "tag": "A",
+      "id": "",
+      "cls": "skip-link",
+      "text": "作品へ移動",
+      "ariaLabel": null,
+      "type": null,
+      "href": "#main",
+      "disabled": false,
+      "rect": {
+        "x": 8,
+        "y": -61,
+        "w": 108,
+        "h": 43
+      },
+      "onScreen": false,
+      "hit": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "cls": "wordmark",
+      "text": "NIKO² ATELIER",
+      "ariaLabel": "NIKO² ATELIER ホームへ",
+      "type": null,
+      "href": "#home",
+      "disabled": false,
+      "rect": {
+        "x": 25,
+        "y": 23,
+        "w": 124,
+        "h": 29
+      },
+      "onScreen": true,
+      "hit": true
+    },
+    {
+      "tag": "BUTTON",
+      "id": "soundToggle",
+      "cls": "sound-toggle",
+      "text": "音をオンにする",
+      "ariaLabel": "音をオンにする",
+      "type": "button",
+      "href": null,
+      "disabled": false,
+      "rect": {
+        "x": 332,
+        "y": 14,
+        "w": 44,
+        "h": 44
+      },
+      "onScreen": true,
+      "hit": true
+    },
+    {
+      "tag": "BUTTON",
+      "id": "perfumeBack",
+      "cls": "",
+      "text": "アトリエへ戻る",
+      "ariaLabel": "アトリエへ戻る",
+      "type": "button",
+      "href": null,
+      "disabled": false,
+      "rect": {
+        "x": 14,
+        "y": 82,
+        "w": 40,
+        "h": 40
+      },
+      "onScreen": true,
+      "hit": true
+    },
+    {
+      "tag": "BUTTON",
+      "id": "enterPerfumeWorkbench",
+      "cls": "",
+      "text": "調香台へ",
+      "ariaLabel": null,
+      "type": "button",
+      "href": null,
+      "disabled": false,
+      "rect": {
+        "x": 34,
+        "y": 510,
+        "w": 322,
+        "h": 44
+      },
+      "onScreen": true,
+      "hit": true
+    }
+  ],
+  "artwork": [
+    {
+      "tag": "IMG",
+      "id": "",
+      "cls": "prototype-stage-art",
+      "alt": "使いかけの試香紙と記録帳、色の異なる香料瓶、中央の無銘の香水瓶が残る静かな調香室",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 390,
+        "h": 844
+      }
+    }
+  ],
+  "scroll": {
+    "x": 0,
+    "y": 0,
+    "h": 844
+  },
+  "scrollContainers": [],
+  "dialogs": [],
+  "screenshot": "003-final.jpg"
+}
