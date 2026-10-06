@@ -1,7 +1,8 @@
 {
-  "id": "052-below-entrance",
-  "op": "key",
-  "key": "PageDown",
-  "wait": 650,
-  "note": "WORLD is peeking out below the jeweled entrance. I want to look below the first screen instead of immediately repeating the garden."
+  "id": "053-world",
+  "op": "tap",
+  "x": 202,
+  "y": 335,
+  "wait": 1100,
+  "note": "The picture of doors standing in a dark reflecting pool looks like a hub of other worlds. I want to enter it."
 }
