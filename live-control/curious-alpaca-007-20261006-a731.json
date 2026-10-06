@@ -1,8 +1,8 @@
 {
-  "id": "072-restored-directory",
+  "id": "073-focus-directory",
   "op": "tap",
-  "x": 55,
-  "y": 511,
-  "wait": 550,
-  "note": "The restored cache lists Yesterday and ROOM 000, exactly what I ordered. I want to return and inspect the deliberately named lost page before leaving this computer."
+  "x": 271,
+  "y": 355,
+  "wait": 200,
+  "note": "Focus the inner directory so I can look at the lost page link below."
 }
