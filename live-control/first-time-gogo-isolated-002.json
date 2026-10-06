@@ -1,1 +1,1 @@
-{"id":"r00","op":"look","wait":1200,"note":"Inspect the scene reached by recorded UI reconstruction. Only following visually chosen actions count as this continuation. No operation-count stop."}
+{"id":"r01","op":"tap","x":134,"y":749,"wait":1400,"note":"The reconstructed visit ended in a different sky garden rather than the earlier cathedral, so I cannot assume the same souvenir position. The pink petal in the foreground is the object that draws my eye; touch it."}
