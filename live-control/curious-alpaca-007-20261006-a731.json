@@ -1,8 +1,8 @@
 {
-  "id": "030-reopen-keepsake",
+  "id": "031-close-memory",
   "op": "tap",
-  "x": 193,
-  "y": 313,
-  "wait": 900,
-  "note": "My sentence is now on a bear photograph under Recent. I want to open it again and see whether the small thread stayed with the scene."
+  "x": 337,
+  "y": 40,
+  "wait": 600,
+  "note": "The thread and my words really stayed together. I will close this keepsake and look for other places in the atelier."
 }
