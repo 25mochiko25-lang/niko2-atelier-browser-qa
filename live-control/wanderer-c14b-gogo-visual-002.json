@@ -1,1 +1,1 @@
-{"id":"00b","op":"look","wait":1000,"note":"Request image delivery now that the live browser is ready."}
+{"id":"01","op":"tap","x":195,"y":529,"wait":1500,"note":"Open the faceted pink entrance seen in the screenshot."}
