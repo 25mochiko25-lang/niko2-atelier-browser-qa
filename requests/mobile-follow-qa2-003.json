@@ -1,0 +1,7 @@
+{
+  "persona": "sloppy-mobile",
+  "target": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+  "seed": "qa2-followthrough-003",
+  "reason": "Generic visitor stops at 30 steps and cannot resume storage or perform saved-object/interior followthrough. Additional fresh session using visible normal entry controls, no state seeding.",
+  "previousOwnRun": 37506880168
+}
