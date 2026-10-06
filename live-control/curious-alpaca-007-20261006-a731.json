@@ -1,8 +1,8 @@
 {
-  "id": "016-warm-cup",
+  "id": "017-bear",
   "op": "tap",
-  "x": 219,
-  "y": 540,
+  "x": 367,
+  "y": 575,
   "wait": 1000,
-  "note": "The empty place setting feels inhabited. I want the cup's fragment after the teapot's departing steam."
+  "note": "A soft toy is sitting just at the right edge of the chair. I want to know who has been left at this tea table."
 }
