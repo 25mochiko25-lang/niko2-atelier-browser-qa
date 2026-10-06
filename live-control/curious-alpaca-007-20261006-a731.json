@@ -1,8 +1,8 @@
 {
-  "id": "038-order-yesterday",
+  "id": "039-another-dish",
   "op": "tap",
-  "x": 149,
-  "y": 312,
-  "wait": 1100,
-  "note": "Yesterday costs zero and its taste depends on storage. That is the first item I genuinely want to order from this impossible menu."
+  "x": 195,
+  "y": 740,
+  "wait": 650,
+  "note": "This is the best surprise so far: Yesterday served the exact sentence I had just written in Diary. I want another item now because the room is using my own visit."
 }
