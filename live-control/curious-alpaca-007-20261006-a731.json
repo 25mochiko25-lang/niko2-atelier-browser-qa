@@ -1,8 +1,8 @@
 {
-  "id": "043-hotel-phone",
+  "id": "044-hotel-cabinet",
   "op": "tap",
-  "x": 24,
-  "y": 453,
+  "x": 224,
+  "y": 237,
   "wait": 600,
-  "note": "The cream-colored telephone on the table looks like something I might call Room 000 with, so I want to try touching it."
+  "note": "The telephone did not answer. The wardrobe has a very clear round handle; I wonder whether the delivered key relates to it."
 }
