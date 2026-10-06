@@ -1,1 +1,1 @@
-{"id":"21","op":"look","wait":500,"note":"Resume the same observer browser after conversation continuation. Inspect the current Diary viewport before choosing the next action; no automatic scoring or interaction-count stop."}
+{"id":"22","op":"tap","x":197,"y":319,"wait":1000,"note":"The souvenir is here below the daily form. The cathedral photograph makes the saved tile feel tied to my trip rather than a generic inventory item. Open its card to see what was kept."}
