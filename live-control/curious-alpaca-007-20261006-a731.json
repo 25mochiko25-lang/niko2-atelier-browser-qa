@@ -1,8 +1,8 @@
 {
-  "id": "056-cabinet",
+  "id": "057-cabinet-key",
   "op": "tap",
-  "x": 334,
-  "y": 346,
-  "wait": 1000,
-  "note": "I want to open the actual drawers on the right, because this room explicitly invited me to touch the Cabinet and I have two keepsakes now."
+  "x": 284,
+  "y": 551,
+  "wait": 700,
+  "note": "The drawer contains a ribboned key, tiny bottle, pearl-like object, and paper. I want to touch the key and see whether this is where my collected objects can be revisited."
 }
