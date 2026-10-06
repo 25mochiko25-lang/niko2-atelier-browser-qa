@@ -1,8 +1,8 @@
 {
-  "id": "024-add-words",
+  "id": "025-focus-note",
   "op": "tap",
-  "x": 89,
-  "y": 568,
-  "wait": 600,
-  "note": "The scene and the tiny knot became two overlapping keepsake photographs. I want to leave a short sentence with them."
+  "x": 185,
+  "y": 576,
+  "wait": 250,
+  "note": "I am choosing the visible field to write my own small memory of the thread."
 }
