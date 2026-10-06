@@ -5,18 +5,19 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-06T18:33:15.438Z",
-  "updatedAt": "2026-10-06T18:57:26.764Z",
-  "lastCommand": "068-channel-lower-links",
+  "updatedAt": "2026-10-06T18:57:56.989Z",
+  "lastCommand": "069-focus-inner-page",
   "stopReason": null,
   "action": {
-    "id": "068-channel-lower-links",
-    "op": "key",
-    "key": "PageDown",
-    "wait": 500,
-    "note": "The directory now includes a RESTORED mirror/last_seen.html line below the original links. I want to inspect the newly appeared lower part."
+    "id": "069-focus-inner-page",
+    "op": "tap",
+    "x": 265,
+    "y": 355,
+    "wait": 250,
+    "note": "PageDown did not move the inner browser pane. I am placing focus in the page before scrolling its lower links."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/ee9aa4572824267b952b4ea65e40a0da76118bec/live-results/curious-alpaca-007-20261006-a731/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/81704c69fb1a32e4969eb784ea068eeaf7663020/live-results/curious-alpaca-007-20261006-a731/current.jpg",
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#channel0",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -1324,6 +1325,22 @@
       "error": null,
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#channel0",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/ee9aa4572824267b952b4ea65e40a0da76118bec/live-results/curious-alpaca-007-20261006-a731/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCHANNEL / CH-00\nCHANNEL 00\n5 pages\n‹\n›\n⌂\nchannel00://home/index.html\n×\nCHANNEL 00 LINK DIRECTORY\nYOU ARE VISITOR No. 0001\n\nようこそ、存在しなかったインターネットへ。\n\n好きなリンクからどうぞ。戻れなくなることは、たぶんありません。\n\nMARI'S PRESSED FLOWERS\nsodaの日記\nCloud Garden Weather\nHotel Somnia 公式頁\nLavender BBS\nMoonlight Web Ring\nNIKO² ATELIER / old\nlost_page.html\nRESTORED: mirror/last_seen.html\n\ncached page changed / connection stable\n閲覧の断片を持ち帰る\n\n\n\n\n\n"
+    },
+    {
+      "number": 70,
+      "at": "2026-10-06T18:57:56.989Z",
+      "action": {
+        "id": "069-focus-inner-page",
+        "op": "tap",
+        "x": 265,
+        "y": 355,
+        "wait": 250,
+        "note": "PageDown did not move the inner browser pane. I am placing focus in the page before scrolling its lower links."
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#channel0",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/81704c69fb1a32e4969eb784ea068eeaf7663020/live-results/curious-alpaca-007-20261006-a731/current.jpg",
       "text": "作品へ移動\nNIKO² ATELIER\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCHANNEL / CH-00\nCHANNEL 00\n5 pages\n‹\n›\n⌂\nchannel00://home/index.html\n×\nCHANNEL 00 LINK DIRECTORY\nYOU ARE VISITOR No. 0001\n\nようこそ、存在しなかったインターネットへ。\n\n好きなリンクからどうぞ。戻れなくなることは、たぶんありません。\n\nMARI'S PRESSED FLOWERS\nsodaの日記\nCloud Garden Weather\nHotel Somnia 公式頁\nLavender BBS\nMoonlight Web Ring\nNIKO² ATELIER / old\nlost_page.html\nRESTORED: mirror/last_seen.html\n\ncached page changed / connection stable\n閲覧の断片を持ち帰る\n\n\n\n\n\n"
     }
   ]
