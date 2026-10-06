@@ -1,8 +1,8 @@
 {
-  "id": "077-dream-menu",
+  "id": "078-hotel-home",
   "op": "tap",
-  "x": 118,
-  "y": 79,
+  "x": 35,
+  "y": 102,
   "wait": 750,
-  "note": "The browsing fragment has been added to Diary. I want to see what the Dream navigation offers now, instead of staying on this computer loop."
+  "note": "Dream returned me to Hotel rather than a choice menu. I am going back to the atelier to visit Research Lab, which I noticed earlier but did not choose then."
 }
