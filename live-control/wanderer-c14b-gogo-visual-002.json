@@ -1,1 +1,1 @@
-{"id":"20","op":"scroll","x":194,"y":690,"dx":0,"dy":596,"wait":1300,"note":"Look below the entry form for the thing I saved before going back to the room."}
+{"id":"21","op":"key","key":"PageDown","wait":1200,"note":"The harness wheel command is unsupported in mobile WebKit, not a site scrolling failure. Try the native PageDown key once to inspect below the form; do not treat this as a finger swipe."}
