@@ -1,8 +1,8 @@
 {
-  "id": "076-carry-browsing",
+  "id": "077-dream-menu",
   "op": "tap",
-  "x": 309,
-  "y": 780,
-  "wait": 1100,
-  "note": "Even the missing page says the link existed until yesterday. I want to keep a fragment of this little browsing trip before leaving the computer."
+  "x": 118,
+  "y": 79,
+  "wait": 750,
+  "note": "The browsing fragment has been added to Diary. I want to see what the Dream navigation offers now, instead of staying on this computer loop."
 }
