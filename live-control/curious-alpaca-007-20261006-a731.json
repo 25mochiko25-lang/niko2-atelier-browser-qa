@@ -1,8 +1,8 @@
 {
-  "id": "086-white-specimen",
+  "id": "087-focus-specimen-sheet",
   "op": "tap",
-  "x": 193,
-  "y": 475,
-  "wait": 700,
-  "note": "The line about a white specimen that reports itself to be an alpaca caught my attention. I want to read its actual observation sheet."
+  "x": 239,
+  "y": 632,
+  "wait": 200,
+  "note": "The specimen sheet continues below the fold. I want to read the small-print observations."
 }
