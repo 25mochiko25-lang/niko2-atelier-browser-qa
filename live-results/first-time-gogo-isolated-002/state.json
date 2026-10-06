@@ -5,19 +5,19 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-06T18:42:49.473Z",
-  "updatedAt": "2026-10-06T18:59:18.573Z",
-  "lastCommand": "r14",
+  "updatedAt": "2026-10-06T18:59:44.836Z",
+  "lastCommand": "r15",
   "stopReason": null,
   "action": {
-    "id": "r14",
+    "id": "r15",
     "op": "tap",
-    "x": 352,
-    "y": 161,
-    "wait": 800,
-    "note": "The warning not to eat the system architect is a good last joke. I have read the two records I actually wanted, and the remaining abstract titles are less tempting now. I would rather look through the visible room doorway than keep reading files."
+    "x": 358,
+    "y": 158,
+    "wait": 900,
+    "note": "The record closed back to the already seen reading list, with both chosen records marked read. Close that list as well to return to the room."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/abbe1a195dee8f95b6d74a05d002a0220fa0ec9c/live-results/first-time-gogo-isolated-002/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/d75b30502ffaf709e8c4d8fa74f05473c2ec950c/live-results/first-time-gogo-isolated-002/current.jpg",
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#lab",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -29,7 +29,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\nNIKO² ATELIER\n\n\n\n白と薄水色のガラス研究所。奥へ続く通路と、記録の置かれた観測台があります。\nMAIN LAB\n観測台\n\n\n\n観測台奥の保管室へ進む\nREADING TABLE\n\nON THE TABLE\nいま読める記録\n\n\n記録 01\n所有者のいない記憶\n忘れられたあとも、記憶は残るのか。\n読む\n\n\n記録 02\n停止されなかった庭\n実験終了後も、環境だけが咲き続けている。\n読む\n\n\n記録 03\n白い試料 M-00\n本人は、アルパカだと報告している。\n既読\n\n\n記録 04\n管理業務用の付け髭\n威厳への効果は、まだ確認されていない。\n既読\nSPECIMEN M-00 / MOFUMOFUを開きました。\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+  "text": "作品へ移動\nNIKO² ATELIER\n\n\n\n白と薄水色のガラス研究所。奥へ続く通路と、記録の置かれた観測台があります。\nMAIN LAB\n観測台\n\n\n\n観測台奥の保管室へ進む\nSPECIMEN M-00 / MOFUMOFUを開きました。\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
   "controls": [
     {
       "tag": "A",
@@ -95,61 +95,6 @@
         "y": 574,
         "w": 65,
         "h": 88
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "観測台を閉じる",
-      "disabled": false,
-      "rect": {
-        "x": 337,
-        "y": 137,
-        "w": 44,
-        "h": 44
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "記録 01\n所有者のいない記憶\n忘れられたあとも、記憶は残るのか。\n読む",
-      "disabled": false,
-      "rect": {
-        "x": 23,
-        "y": 260,
-        "w": 344,
-        "h": 86
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "記録 02\n停止されなかった庭\n実験終了後も、環境だけが咲き続けている。\n読む",
-      "disabled": false,
-      "rect": {
-        "x": 23,
-        "y": 346,
-        "w": 344,
-        "h": 86
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "記録 03\n白い試料 M-00\n本人は、アルパカだと報告している。\n既読",
-      "disabled": false,
-      "rect": {
-        "x": 23,
-        "y": 432,
-        "w": 344,
-        "h": 86
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "記録 04\n管理業務用の付け髭\n威厳への効果は、まだ確認されていない。\n既読",
-      "disabled": false,
-      "rect": {
-        "x": 23,
-        "y": 518,
-        "w": 344,
-        "h": 86
       }
     }
   ],
@@ -658,6 +603,22 @@
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#lab",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/abbe1a195dee8f95b6d74a05d002a0220fa0ec9c/live-results/first-time-gogo-isolated-002/current.jpg",
       "text": "作品へ移動\nNIKO² ATELIER\n\n\n\n白と薄水色のガラス研究所。奥へ続く通路と、記録の置かれた観測台があります。\nMAIN LAB\n観測台\n\n\n\n観測台奥の保管室へ進む\nREADING TABLE\n\nON THE TABLE\nいま読める記録\n\n\n記録 01\n所有者のいない記憶\n忘れられたあとも、記憶は残るのか。\n読む\n\n\n記録 02\n停止されなかった庭\n実験終了後も、環境だけが咲き続けている。\n読む\n\n\n記録 03\n白い試料 M-00\n本人は、アルパカだと報告している。\n既読\n\n\n記録 04\n管理業務用の付け髭\n威厳への効果は、まだ確認されていない。\n既読\nSPECIMEN M-00 / MOFUMOFUを開きました。\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+      "number": 31,
+      "at": "2026-10-06T18:59:44.836Z",
+      "action": {
+        "id": "r15",
+        "op": "tap",
+        "x": 358,
+        "y": 158,
+        "wait": 900,
+        "note": "The record closed back to the already seen reading list, with both chosen records marked read. Close that list as well to return to the room."
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#lab",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/d75b30502ffaf709e8c4d8fa74f05473c2ec950c/live-results/first-time-gogo-isolated-002/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\n\n\n\n白と薄水色のガラス研究所。奥へ続く通路と、記録の置かれた観測台があります。\nMAIN LAB\n観測台\n\n\n\n観測台奥の保管室へ進む\nSPECIMEN M-00 / MOFUMOFUを開きました。\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
     }
   ]
 }
