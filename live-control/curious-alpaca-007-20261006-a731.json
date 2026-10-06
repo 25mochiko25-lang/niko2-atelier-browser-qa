@@ -1,8 +1,8 @@
 {
-  "id": "064-browser-back",
+  "id": "065-mari-flowers",
   "op": "tap",
-  "x": 31,
-  "y": 132,
-  "wait": 550,
-  "note": "The BBS jumps from ordinary 2001 greetings to someone in 2031 saying this place still exists. I want to go back within this little browser and visit mari's flowers."
+  "x": 195,
+  "y": 435,
+  "wait": 650,
+  "note": "The BBS made mari and soda feel connected. I want to see MARI'S PRESSED FLOWERS now because of that little exchange."
 }
