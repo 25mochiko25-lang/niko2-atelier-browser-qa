@@ -153,11 +153,17 @@ function chooseCandidate(s) {
   const candidates = (s.clickables || []).filter(c => !c.disabled);
   if (!candidates.length) return null;
 
-  // In the first-time intro, a concept chip is a choice, not the forward action.
-  // Once one is selected, let an ordinary visitor continue instead of toggling it forever.
+  // Intro/tutorial overlays are linear except for their concept-choice page.
+  // Pick one concept once, then continue forward instead of oscillating with Back.
   const introNext = candidates.find(c => /niko2-intro-primary/.test(c.cls || ''));
-  const hasSelectedConcept = candidates.some(c => /niko2-intro-concept-button/.test(c.cls || '') && /\bis-selected\b/.test(c.cls || ''));
-  if (introNext && hasSelectedConcept) return introNext;
+  const conceptChoices = candidates.filter(c => /niko2-intro-concept-button/.test(c.cls || ''));
+  const hasSelectedConcept = conceptChoices.some(c => /\bis-selected\b/.test(c.cls || ''));
+  if (introNext) {
+    if (conceptChoices.length && !hasSelectedConcept) {
+      return conceptChoices[Math.floor(rand() * conceptChoices.length)] || conceptChoices[0];
+    }
+    return introNext;
+  }
 
   return candidates
     .map((c, i) => {
