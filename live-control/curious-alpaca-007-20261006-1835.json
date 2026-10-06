@@ -1,7 +1,8 @@
 {
-  "id": "a40",
-  "op": "key",
-  "key": "PageDown",
-  "note": "The specimen file continues below the visible risk-level row. I want to read the rest of this very questionable official assessment.",
-  "wait": 700
+  "id": "a41",
+  "op": "tap",
+  "x": 190,
+  "y": 695,
+  "note": "Putting the reading focus inside the specimen document so I can move down within the document, rather than the close button.",
+  "wait": 150
 }
