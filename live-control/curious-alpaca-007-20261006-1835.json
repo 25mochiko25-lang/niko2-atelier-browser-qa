@@ -1,8 +1,8 @@
 {
-  "id": "a29",
+  "id": "a30",
   "op": "tap",
-  "x": 74,
-  "y": 78,
-  "note": "I want to wander beyond the garden and see the atelier's other rooms.",
-  "wait": 1100
+  "x": 334,
+  "y": 771,
+  "note": "A short after-the-garden recap appeared on returning Home. Following it to see what comes after bringing the tile back.",
+  "wait": 800
 }
