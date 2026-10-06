@@ -1,9 +1,7 @@
 {
-  "id": "028-diary-down",
-  "op": "scroll",
-  "x": 194,
-  "y": 667,
-  "dy": 560,
-  "wait": 600,
-  "note": "I can see that my note was added further down. I want to find the keepsake I just brought back, rather than make a second daily entry."
+  "id": "029-diary-page-down",
+  "op": "key",
+  "key": "PageDown",
+  "wait": 500,
+  "note": "The harness cannot send a wheel event to mobile WebKit, so I am using the ordinary PageDown key to continue looking at my saved diary. This is an infrastructure limitation, not a site failure."
 }
