@@ -1,8 +1,8 @@
 {
-  "id": "045-reopen-orders",
+  "id": "046-check-out",
   "op": "tap",
-  "x": 332,
-  "y": 143,
-  "wait": 650,
-  "note": "The room's background objects did not respond, so I will return to the order list and follow the promise that payment is checked after checkout."
+  "x": 282,
+  "y": 785,
+  "wait": 1300,
+  "note": "I am checking out because the room promised to resolve the one-memory payment afterwards. I want to know what happened to the key."
 }
