@@ -1,0 +1,242 @@
+{
+  "request": "genre-critic-six-cont14",
+  "startUrl": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+  "startedAt": "2026-10-06T18:49:00.071Z",
+  "finishedAt": "2026-10-06T18:49:27.009Z",
+  "httpStatus": 200,
+  "events": [
+    {
+      "step": 1,
+      "action": {
+        "kind": "tap",
+        "selector": ".unknown-entry",
+        "label": "unknown-entrance",
+        "wait": 1200
+      },
+      "result": {
+        "x": 194.5,
+        "y": 767.328125,
+        "label": "???",
+        "id": ""
+      },
+      "error": null,
+      "before": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+        "route": "home"
+      },
+      "after": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#unknown",
+        "route": "unknown"
+      }
+    },
+    {
+      "step": 2,
+      "action": {
+        "kind": "tap",
+        "selector": "#aquariumInterceptNext",
+        "label": "past-not-yet",
+        "wait": 900
+      },
+      "result": {
+        "x": 194.8984375,
+        "y": 755.53125,
+        "label": "Keep going",
+        "id": "aquariumInterceptNext"
+      },
+      "error": null,
+      "before": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#unknown",
+        "route": "unknown"
+      },
+      "after": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#unknown",
+        "route": "unknown"
+      }
+    },
+    {
+      "step": 3,
+      "action": {
+        "kind": "tap",
+        "selector": "#aquariumInterceptNext",
+        "label": "past-restricted",
+        "wait": 900
+      },
+      "result": {
+        "x": 194.6171875,
+        "y": 750.296875,
+        "label": "Keep going",
+        "id": "aquariumInterceptNext"
+      },
+      "error": null,
+      "before": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#unknown",
+        "route": "unknown"
+      },
+      "after": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#unknown",
+        "route": "unknown"
+      }
+    },
+    {
+      "step": 4,
+      "action": {
+        "kind": "tap",
+        "selector": "#aquariumInterceptNext",
+        "label": "past-last-warning",
+        "wait": 1800
+      },
+      "result": {
+        "x": 211.84375,
+        "y": 742.359375,
+        "label": "Keep going",
+        "id": "aquariumInterceptNext"
+      },
+      "error": null,
+      "before": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#unknown",
+        "route": "unknown"
+      },
+      "after": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#unknown",
+        "route": "unknown"
+      }
+    },
+    {
+      "step": 5,
+      "action": {
+        "kind": "tap",
+        "selector": "#nikoSubmarine",
+        "label": "touch-the-submarine",
+        "wait": 1600,
+        "picture": true
+      },
+      "result": {
+        "x": 109.48987579345703,
+        "y": 343.2596893310547,
+        "label": "NIKO",
+        "id": "nikoSubmarine"
+      },
+      "error": null,
+      "before": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#unknown",
+        "route": "unknown"
+      },
+      "after": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#unknown",
+        "route": "unknown"
+      }
+    },
+    {
+      "step": 6,
+      "action": {
+        "kind": "tap",
+        "selector": "#enterTank",
+        "label": "enter-tank",
+        "wait": 2500,
+        "picture": true
+      },
+      "result": {
+        "x": 195,
+        "y": 766.984375,
+        "label": "ENTER TANK",
+        "id": "enterTank"
+      },
+      "error": null,
+      "before": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#unknown",
+        "route": "unknown"
+      },
+      "after": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#unknown",
+        "route": "unknown"
+      }
+    },
+    {
+      "step": 7,
+      "action": {
+        "kind": "wait",
+        "ms": 5000,
+        "label": "watch-inside-tank",
+        "picture": true
+      },
+      "result": null,
+      "error": null,
+      "before": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#unknown",
+        "route": "unknown"
+      },
+      "after": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#unknown",
+        "route": "unknown"
+      }
+    }
+  ],
+  "observations": [
+    {
+      "label": "arrival",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+      "route": "home",
+      "viewportText": "WORLD\nWORLD",
+      "screenshot": "001-arrival.jpg"
+    },
+    {
+      "label": "unknown-entrance",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#unknown",
+      "route": "unknown",
+      "viewportText": "NIKO² ATELIER"
+    },
+    {
+      "label": "past-not-yet",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#unknown",
+      "route": "unknown",
+      "viewportText": "NIKO² ATELIER"
+    },
+    {
+      "label": "past-restricted",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#unknown",
+      "route": "unknown",
+      "viewportText": "NIKO² ATELIER"
+    },
+    {
+      "label": "past-last-warning",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#unknown",
+      "route": "unknown",
+      "viewportText": "NIKO² ATELIER\nUNASSIGNED SPACE\n???\nNIKO\nENTER TANK"
+    },
+    {
+      "label": "touch-the-submarine",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#unknown",
+      "route": "unknown",
+      "viewportText": "NIKO² ATELIER\nUNASSIGNED SPACE\n???\nNIKO\nSUBMARINE DEPTH\nundecided\nENTER TANK",
+      "screenshot": "006-touch-the-submarine.jpg"
+    },
+    {
+      "label": "enter-tank",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#unknown",
+      "route": "unknown",
+      "viewportText": "NIKO² ATELIER\nNIKO\n水槽の外へ戻る\nアトリエへ戻る",
+      "screenshot": "007-enter-tank.jpg"
+    },
+    {
+      "label": "watch-inside-tank",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#unknown",
+      "route": "unknown",
+      "viewportText": "NIKO² ATELIER\nNIKO\n水槽の外へ戻る\nアトリエへ戻る",
+      "screenshot": "008-watch-inside-tank.jpg"
+    },
+    {
+      "label": "final",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#unknown",
+      "route": "unknown",
+      "viewportText": "NIKO² ATELIER\nNIKO\n水槽の外へ戻る\nアトリエへ戻る",
+      "screenshot": "009-final.jpg"
+    }
+  ],
+  "errors": [],
+  "httpErrors": [
+    {
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/api/identity",
+      "status": 404
+    }
+  ]
+}
