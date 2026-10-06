@@ -1,0 +1,1333 @@
+{
+  "request": "genre-critic-six-cont16",
+  "target": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+  "mode": "human-selected actions through remote WebKit",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "engine": "webkit",
+  "events": [
+    {
+      "step": 1,
+      "action": {
+        "kind": "tap",
+        "selector": ".unknown-entry",
+        "label": "return-to-hidden-tank",
+        "wait": 1000
+      },
+      "result": {
+        "x": 194.5,
+        "y": 767.328125,
+        "label": "???",
+        "id": ""
+      },
+      "error": null,
+      "before": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+        "route": "home"
+      },
+      "after": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#unknown",
+        "route": "unknown"
+      }
+    },
+    {
+      "step": 2,
+      "action": {
+        "kind": "tap",
+        "selector": "#aquariumInterceptNext",
+        "label": "not-yet",
+        "wait": 800
+      },
+      "result": {
+        "x": 194.8984375,
+        "y": 755.53125,
+        "label": "Keep going",
+        "id": "aquariumInterceptNext"
+      },
+      "error": null,
+      "before": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#unknown",
+        "route": "unknown"
+      },
+      "after": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#unknown",
+        "route": "unknown"
+      }
+    },
+    {
+      "step": 3,
+      "action": {
+        "kind": "tap",
+        "selector": "#aquariumInterceptNext",
+        "label": "restricted",
+        "wait": 800
+      },
+      "result": {
+        "x": 194.6171875,
+        "y": 750.296875,
+        "label": "Keep going",
+        "id": "aquariumInterceptNext"
+      },
+      "error": null,
+      "before": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#unknown",
+        "route": "unknown"
+      },
+      "after": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#unknown",
+        "route": "unknown"
+      }
+    },
+    {
+      "step": 4,
+      "action": {
+        "kind": "tap",
+        "selector": "#aquariumInterceptNext",
+        "label": "last-warning",
+        "wait": 1400
+      },
+      "result": {
+        "x": 211.84375,
+        "y": 742.359375,
+        "label": "Keep going",
+        "id": "aquariumInterceptNext"
+      },
+      "error": null,
+      "before": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#unknown",
+        "route": "unknown"
+      },
+      "after": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#unknown",
+        "route": "unknown"
+      }
+    },
+    {
+      "step": 5,
+      "action": {
+        "kind": "tap",
+        "selector": "#enterTank",
+        "label": "become-a-specimen",
+        "wait": 1800
+      },
+      "result": {
+        "x": 195,
+        "y": 766.984375,
+        "label": "ENTER TANK",
+        "id": "enterTank"
+      },
+      "error": null,
+      "before": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#unknown",
+        "route": "unknown"
+      },
+      "after": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#unknown",
+        "route": "unknown"
+      }
+    },
+    {
+      "step": 6,
+      "action": {
+        "kind": "tap",
+        "selector": "#aquariumUser",
+        "label": "touch-my-own-specimen",
+        "wait": 1700,
+        "picture": true
+      },
+      "result": {
+        "x": 183.875,
+        "y": 508.65625,
+        "label": "水槽内の自分の標本に触れる",
+        "id": "aquariumUser"
+      },
+      "error": null,
+      "before": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#unknown",
+        "route": "unknown"
+      },
+      "after": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#unknown",
+        "route": "unknown"
+      }
+    }
+  ],
+  "observations": [
+    {
+      "label": "arrival",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+      "route": "home",
+      "viewportText": "WORLD\nWORLD",
+      "renderedBodyText": "作品へ移動\n \nWORLD\nWORLD\n水面の向こうに、いくつかの場所がひらいています。\n\n\nABOUT\nもふもふはいます。\nPLAY / SHARE / FAN WORK\nNIKO²での生活について\n好きな形で遊ぶための、小さな境界。\nDEAR ATELIER\nお手紙を送る\nAtelierの受取箱へ。\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+      "controls": [
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "skip-link",
+          "text": "作品へ移動",
+          "ariaLabel": null,
+          "type": null,
+          "href": "#main",
+          "disabled": false,
+          "rect": {
+            "x": 8,
+            "y": -61,
+            "w": 108,
+            "h": 43
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "ariaLabel": "音をオンにする",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "home-letter-entry",
+          "text": "FROM THE ATELIERを開く",
+          "ariaLabel": "FROM THE ATELIERを開く",
+          "type": null,
+          "href": "#notes",
+          "disabled": false,
+          "rect": {
+            "x": 279,
+            "y": 274,
+            "w": 91,
+            "h": 92
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "home-diary-entry",
+          "text": "Diaryを開く",
+          "ariaLabel": "Diaryを開く",
+          "type": null,
+          "href": "#diary",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 298,
+            "w": 147,
+            "h": 147
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "ariaLabel": "Enter the dream",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "home-world-lab",
+          "text": "WORLDを開く",
+          "ariaLabel": "WORLDを開く",
+          "type": null,
+          "href": "#world",
+          "disabled": false,
+          "rect": {
+            "x": 23,
+            "y": 921,
+            "w": 343,
+            "h": 193
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "home-about-window",
+          "text": "ABOUT もふもふはいます。",
+          "ariaLabel": "Aboutを開く",
+          "type": null,
+          "href": "#about",
+          "disabled": false,
+          "rect": {
+            "x": 43,
+            "y": 1398,
+            "w": 304,
+            "h": 252
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "home-quiet-link home-rights-entry",
+          "text": "PLAY / SHARE / FAN WORK NIKO²での生活について 好きな形で遊ぶための、小さな境界。",
+          "ariaLabel": null,
+          "type": null,
+          "href": "#rights",
+          "disabled": false,
+          "rect": {
+            "x": 31,
+            "y": 1798,
+            "w": 328,
+            "h": 124
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "home-quiet-link home-dear-entry",
+          "text": "DEAR ATELIER お手紙を送る Atelierの受取箱へ。",
+          "ariaLabel": null,
+          "type": null,
+          "href": "#dear",
+          "disabled": false,
+          "rect": {
+            "x": 31,
+            "y": 1936,
+            "w": 328,
+            "h": 124
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "unknown-entry",
+          "text": "???",
+          "ariaLabel": "用途不明の部屋を開く",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 0,
+            "y": 2110,
+            "w": 390,
+            "h": 58
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "",
+          "text": "Rights",
+          "ariaLabel": null,
+          "type": null,
+          "href": "#rights",
+          "disabled": false,
+          "rect": {
+            "x": 179,
+            "y": 2179,
+            "w": 32,
+            "h": 13
+          },
+          "onScreen": false,
+          "hit": false
+        }
+      ],
+      "artwork": [
+        {
+          "tag": "IMG",
+          "id": "",
+          "cls": "home-art",
+          "alt": "虹色の薄布と月明かりに包まれたNIKO² ATELIERの入口",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "w": 390,
+            "h": 843.984375
+          }
+        },
+        {
+          "tag": "IMG",
+          "id": "",
+          "cls": "",
+          "alt": "",
+          "rect": {
+            "x": 282.0892028808594,
+            "y": 273.550537109375,
+            "w": 88.18991088867188,
+            "h": 88.18991088867188
+          }
+        },
+        {
+          "tag": "IMG",
+          "id": "homeTitle",
+          "cls": "home-logo-master",
+          "alt": "NIKO² ATELIER",
+          "rect": {
+            "x": 58.5,
+            "y": 130.8125,
+            "w": 273,
+            "h": 182
+          }
+        },
+        {
+          "tag": "IMG",
+          "id": "",
+          "cls": "",
+          "alt": "",
+          "rect": {
+            "x": 13.886076927185059,
+            "y": 297.9642028808594,
+            "w": 147.10284423828125,
+            "h": 147.10284423828125
+          }
+        },
+        {
+          "tag": "IMG",
+          "id": "",
+          "cls": "",
+          "alt": "Enter the dream",
+          "rect": {
+            "x": 90,
+            "y": 493.71875,
+            "w": 210,
+            "h": 70
+          }
+        },
+        {
+          "tag": "IMG",
+          "id": "",
+          "cls": "",
+          "alt": "",
+          "rect": {
+            "x": 23.40625,
+            "y": 920.5625,
+            "w": 343.1875,
+            "h": 193.03125
+          }
+        },
+        {
+          "tag": "IMG",
+          "id": "",
+          "cls": "",
+          "alt": "もふもふのいるAbout",
+          "rect": {
+            "x": 42.90625,
+            "y": 1397.515625,
+            "w": 304.1875,
+            "h": 202.78125
+          }
+        }
+      ],
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "h": 844
+      },
+      "scrollContainers": [
+        {
+          "id": "",
+          "cls": "view home-view is-active",
+          "top": 0,
+          "height": 844,
+          "scrollHeight": 2216
+        }
+      ],
+      "dialogs": [],
+      "screenshot": "001-arrival.jpg"
+    },
+    {
+      "label": "return-to-hidden-tank",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#unknown",
+      "route": "unknown",
+      "viewportText": "NIKO² ATELIER",
+      "renderedBodyText": "作品へ移動\nNIKO² ATELIER\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n",
+      "controls": [
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "skip-link",
+          "text": "作品へ移動",
+          "ariaLabel": null,
+          "type": null,
+          "href": "#main",
+          "disabled": false,
+          "rect": {
+            "x": 8,
+            "y": -61,
+            "w": 108,
+            "h": 43
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "wordmark",
+          "text": "NIKO² ATELIER",
+          "ariaLabel": "NIKO² ATELIER ホームへ",
+          "type": null,
+          "href": "#home",
+          "disabled": false,
+          "rect": {
+            "x": 25,
+            "y": 18,
+            "w": 124,
+            "h": 29
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "ariaLabel": "音をオンにする",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "aquariumInterceptBack",
+          "cls": "aquarium-holdback-hit aquarium-intercept-back",
+          "text": "Go back",
+          "ariaLabel": "Go back",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 73,
+            "y": 668,
+            "w": 244,
+            "h": 62
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "aquariumInterceptNext",
+          "cls": "aquarium-holdback-hit aquarium-intercept-next",
+          "text": "Keep going",
+          "ariaLabel": "Keep going",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 122,
+            "y": 734,
+            "w": 145,
+            "h": 44
+          },
+          "onScreen": true,
+          "hit": true
+        }
+      ],
+      "artwork": [
+        {
+          "tag": "IMG",
+          "id": "aquariumHoldbackArt",
+          "cls": "",
+          "alt": "NOT YET — ヘルメット姿のもふもふが通路を引き止める",
+          "rect": {
+            "x": -42.5,
+            "y": 0,
+            "w": 474.734375,
+            "h": 843.984375
+          }
+        }
+      ],
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "h": 844
+      },
+      "scrollContainers": [],
+      "dialogs": []
+    },
+    {
+      "label": "not-yet",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#unknown",
+      "route": "unknown",
+      "viewportText": "NIKO² ATELIER",
+      "renderedBodyText": "作品へ移動\nNIKO² ATELIER\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n",
+      "controls": [
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "skip-link",
+          "text": "作品へ移動",
+          "ariaLabel": null,
+          "type": null,
+          "href": "#main",
+          "disabled": false,
+          "rect": {
+            "x": 8,
+            "y": -61,
+            "w": 108,
+            "h": 43
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "wordmark",
+          "text": "NIKO² ATELIER",
+          "ariaLabel": "NIKO² ATELIER ホームへ",
+          "type": null,
+          "href": "#home",
+          "disabled": false,
+          "rect": {
+            "x": 25,
+            "y": 18,
+            "w": 124,
+            "h": 29
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "ariaLabel": "音をオンにする",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "aquariumInterceptBack",
+          "cls": "aquarium-holdback-hit aquarium-intercept-back",
+          "text": "Go back",
+          "ariaLabel": "Go back",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 72,
+            "y": 662,
+            "w": 245,
+            "h": 64
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "aquariumInterceptNext",
+          "cls": "aquarium-holdback-hit aquarium-intercept-next",
+          "text": "Keep going",
+          "ariaLabel": "Keep going",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 117,
+            "y": 728,
+            "w": 156,
+            "h": 44
+          },
+          "onScreen": true,
+          "hit": true
+        }
+      ],
+      "artwork": [
+        {
+          "tag": "IMG",
+          "id": "aquariumHoldbackArt",
+          "cls": "",
+          "alt": "RESTRICTED — もふもふが柵の向こうから引き止める",
+          "rect": {
+            "x": -42.5,
+            "y": 0,
+            "w": 474.734375,
+            "h": 843.984375
+          }
+        }
+      ],
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "h": 844
+      },
+      "scrollContainers": [],
+      "dialogs": []
+    },
+    {
+      "label": "restricted",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#unknown",
+      "route": "unknown",
+      "viewportText": "NIKO² ATELIER",
+      "renderedBodyText": "作品へ移動\nNIKO² ATELIER\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n",
+      "controls": [
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "skip-link",
+          "text": "作品へ移動",
+          "ariaLabel": null,
+          "type": null,
+          "href": "#main",
+          "disabled": false,
+          "rect": {
+            "x": 8,
+            "y": -61,
+            "w": 108,
+            "h": 43
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "wordmark",
+          "text": "NIKO² ATELIER",
+          "ariaLabel": "NIKO² ATELIER ホームへ",
+          "type": null,
+          "href": "#home",
+          "disabled": false,
+          "rect": {
+            "x": 25,
+            "y": 18,
+            "w": 124,
+            "h": 29
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "ariaLabel": "音をオンにする",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "aquariumInterceptBack",
+          "cls": "aquarium-holdback-hit aquarium-intercept-back",
+          "text": "Go back",
+          "ariaLabel": "Go back",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 82,
+            "y": 652,
+            "w": 259,
+            "h": 65
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "aquariumInterceptNext",
+          "cls": "aquarium-holdback-hit aquarium-intercept-next",
+          "text": "Keep going",
+          "ariaLabel": "Keep going",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 131,
+            "y": 720,
+            "w": 161,
+            "h": 44
+          },
+          "onScreen": true,
+          "hit": true
+        }
+      ],
+      "artwork": [
+        {
+          "tag": "IMG",
+          "id": "aquariumHoldbackArt",
+          "cls": "",
+          "alt": "LAST WARNING — もふもふと幾重もの立入禁止テープ",
+          "rect": {
+            "x": -25.5,
+            "y": 0,
+            "w": 474.734375,
+            "h": 843.984375
+          }
+        }
+      ],
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "h": 844
+      },
+      "scrollContainers": [],
+      "dialogs": []
+    },
+    {
+      "label": "last-warning",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#unknown",
+      "route": "unknown",
+      "viewportText": "NIKO² ATELIER\nUNASSIGNED SPACE\n???\nNIKO\nENTER TANK",
+      "renderedBodyText": "作品へ移動\nNIKO² ATELIER\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nUNASSIGNED SPACE\n???\n\nNIKO\nENTER TANK",
+      "controls": [
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "skip-link",
+          "text": "作品へ移動",
+          "ariaLabel": null,
+          "type": null,
+          "href": "#main",
+          "disabled": false,
+          "rect": {
+            "x": 8,
+            "y": -61,
+            "w": 108,
+            "h": 43
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "wordmark",
+          "text": "NIKO² ATELIER",
+          "ariaLabel": "NIKO² ATELIER ホームへ",
+          "type": null,
+          "href": "#home",
+          "disabled": false,
+          "rect": {
+            "x": 25,
+            "y": 18,
+            "w": 124,
+            "h": 29
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "ariaLabel": "音をオンにする",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "nikoSubmarine",
+          "cls": "aquarium-entity niko-submarine",
+          "text": "NIKO",
+          "ariaLabel": "水中に浮かぶNIKOの小型潜水艇に触れる",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 40,
+            "y": 287,
+            "w": 146,
+            "h": 126
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "enterTank",
+          "cls": "aquarium-enter",
+          "text": "ENTER TANK",
+          "ariaLabel": null,
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 743,
+            "w": 362,
+            "h": 48
+          },
+          "onScreen": true,
+          "hit": true
+        }
+      ],
+      "artwork": [
+        {
+          "tag": "IMG",
+          "id": "",
+          "cls": "aquarium-art",
+          "alt": "透明な水と淡い珊瑚、真珠色の砂が光る大きな研究用水槽",
+          "rect": {
+            "x": 11,
+            "y": 139,
+            "w": 368,
+            "h": 586.984375
+          }
+        },
+        {
+          "tag": "IMG",
+          "id": "",
+          "cls": "",
+          "alt": "",
+          "rect": {
+            "x": 40.16128158569336,
+            "y": 287.4566955566406,
+            "w": 145.99754333496094,
+            "h": 126.3675537109375
+          }
+        }
+      ],
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "h": 844
+      },
+      "scrollContainers": [],
+      "dialogs": []
+    },
+    {
+      "label": "become-a-specimen",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#unknown",
+      "route": "unknown",
+      "viewportText": "NIKO² ATELIER\nNIKO\n水槽の外へ戻る\nアトリエへ戻る",
+      "renderedBodyText": "作品へ移動\nNIKO² ATELIER\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNIKO\nSPECIMEN U-021\nfloating comfortably\n水槽の外へ戻る\nアトリエへ戻る",
+      "controls": [
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "skip-link",
+          "text": "作品へ移動",
+          "ariaLabel": null,
+          "type": null,
+          "href": "#main",
+          "disabled": false,
+          "rect": {
+            "x": 8,
+            "y": -61,
+            "w": 108,
+            "h": 43
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "wordmark",
+          "text": "NIKO² ATELIER",
+          "ariaLabel": "NIKO² ATELIER ホームへ",
+          "type": null,
+          "href": "#home",
+          "disabled": false,
+          "rect": {
+            "x": 25,
+            "y": 18,
+            "w": 124,
+            "h": 29
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "ariaLabel": "音をオンにする",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "nikoSubmarine",
+          "cls": "aquarium-entity niko-submarine",
+          "text": "NIKO",
+          "ariaLabel": "水中に浮かぶNIKOの小型潜水艇に触れる",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 42,
+            "y": 248,
+            "w": 146,
+            "h": 126
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "aquariumUser",
+          "cls": "aquarium-entity user-specimen",
+          "text": "水槽内の自分の標本に触れる",
+          "ariaLabel": "水槽内の自分の標本に触れる",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 135,
+            "y": 460,
+            "w": 98,
+            "h": 98
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "exitTank",
+          "cls": "aquarium-exit",
+          "text": "水槽の外へ戻る",
+          "ariaLabel": null,
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 4,
+            "y": 689,
+            "w": 382,
+            "h": 48
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "page-back",
+          "text": "アトリエへ戻る",
+          "ariaLabel": null,
+          "type": null,
+          "href": "#home",
+          "disabled": false,
+          "rect": {
+            "x": 237,
+            "y": 787,
+            "w": 149,
+            "h": 41
+          },
+          "onScreen": true,
+          "hit": true
+        }
+      ],
+      "artwork": [
+        {
+          "tag": "IMG",
+          "id": "",
+          "cls": "aquarium-art",
+          "alt": "透明な水と淡い珊瑚、真珠色の砂が光る大きな研究用水槽",
+          "rect": {
+            "x": 14,
+            "y": 78,
+            "w": 362,
+            "h": 684
+          }
+        },
+        {
+          "tag": "IMG",
+          "id": "",
+          "cls": "",
+          "alt": "",
+          "rect": {
+            "x": 41.881752014160156,
+            "y": 247.8335418701172,
+            "w": 145.57321166992188,
+            "h": 125.87351989746094
+          }
+        },
+        {
+          "tag": "IMG",
+          "id": "",
+          "cls": "",
+          "alt": "半透明で白い小さな水生標本",
+          "rect": {
+            "x": 135.125,
+            "y": 459.90625,
+            "w": 97.5,
+            "h": 97.5
+          }
+        }
+      ],
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "h": 844
+      },
+      "scrollContainers": [],
+      "dialogs": []
+    },
+    {
+      "label": "touch-my-own-specimen",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#unknown",
+      "route": "unknown",
+      "viewportText": "NIKO² ATELIER\nNIKO\n水槽の外へ戻る\nアトリエへ戻る",
+      "renderedBodyText": "作品へ移動\nNIKO² ATELIER\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNIKO\nSPECIMEN U-021\nfloating comfortably\n水槽の外へ戻る\nアトリエへ戻る",
+      "controls": [
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "skip-link",
+          "text": "作品へ移動",
+          "ariaLabel": null,
+          "type": null,
+          "href": "#main",
+          "disabled": false,
+          "rect": {
+            "x": 8,
+            "y": -61,
+            "w": 108,
+            "h": 43
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "wordmark",
+          "text": "NIKO² ATELIER",
+          "ariaLabel": "NIKO² ATELIER ホームへ",
+          "type": null,
+          "href": "#home",
+          "disabled": false,
+          "rect": {
+            "x": 25,
+            "y": 18,
+            "w": 124,
+            "h": 29
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "ariaLabel": "音をオンにする",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "nikoSubmarine",
+          "cls": "aquarium-entity niko-submarine",
+          "text": "NIKO",
+          "ariaLabel": "水中に浮かぶNIKOの小型潜水艇に触れる",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 40,
+            "y": 245,
+            "w": 145,
+            "h": 125
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "aquariumUser",
+          "cls": "aquarium-entity user-specimen",
+          "text": "水槽内の自分の標本に触れる",
+          "ariaLabel": "水槽内の自分の標本に触れる",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 135,
+            "y": 460,
+            "w": 98,
+            "h": 98
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "exitTank",
+          "cls": "aquarium-exit",
+          "text": "水槽の外へ戻る",
+          "ariaLabel": null,
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 4,
+            "y": 689,
+            "w": 382,
+            "h": 48
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "page-back",
+          "text": "アトリエへ戻る",
+          "ariaLabel": null,
+          "type": null,
+          "href": "#home",
+          "disabled": false,
+          "rect": {
+            "x": 237,
+            "y": 787,
+            "w": 149,
+            "h": 41
+          },
+          "onScreen": true,
+          "hit": true
+        }
+      ],
+      "artwork": [
+        {
+          "tag": "IMG",
+          "id": "",
+          "cls": "aquarium-art",
+          "alt": "透明な水と淡い珊瑚、真珠色の砂が光る大きな研究用水槽",
+          "rect": {
+            "x": 14,
+            "y": 78,
+            "w": 362,
+            "h": 684
+          }
+        },
+        {
+          "tag": "IMG",
+          "id": "",
+          "cls": "",
+          "alt": "",
+          "rect": {
+            "x": 40.40641403198242,
+            "y": 244.5548095703125,
+            "w": 144.83816528320312,
+            "h": 125.01895141601562
+          }
+        },
+        {
+          "tag": "IMG",
+          "id": "",
+          "cls": "",
+          "alt": "半透明で白い小さな水生標本",
+          "rect": {
+            "x": 135.125,
+            "y": 459.90625,
+            "w": 97.5,
+            "h": 97.5
+          }
+        }
+      ],
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "h": 844
+      },
+      "scrollContainers": [],
+      "dialogs": [],
+      "screenshot": "007-touch-my-own-specimen.jpg"
+    }
+  ],
+  "errors": [],
+  "httpErrors": [
+    {
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/api/identity",
+      "status": 404
+    }
+  ],
+  "startedAt": "2026-10-06T18:55:10.331Z",
+  "startUrl": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+  "httpStatus": 200,
+  "fatal": "page.evaluate: Target page, context or browser has been closed\n    at state (/__w/niko2-atelier-browser-qa/niko2-atelier-browser-qa/qa/genre_critic_continuation.mjs:24:42)\n    at snap (/__w/niko2-atelier-browser-qa/niko2-atelier-browser-qa/qa/genre_critic_continuation.mjs:31:56)\n    at /__w/niko2-atelier-browser-qa/niko2-atelier-browser-qa/qa/genre_critic_continuation.mjs:53:21",
+  "finishedAt": "2026-10-06T18:55:50.269Z"
+}

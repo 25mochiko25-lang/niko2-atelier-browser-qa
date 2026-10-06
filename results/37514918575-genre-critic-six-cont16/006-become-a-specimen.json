@@ -1,0 +1,180 @@
+{
+  "label": "become-a-specimen",
+  "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#unknown",
+  "route": "unknown",
+  "viewportText": "NIKO² ATELIER\nNIKO\n水槽の外へ戻る\nアトリエへ戻る",
+  "renderedBodyText": "作品へ移動\nNIKO² ATELIER\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNIKO\nSPECIMEN U-021\nfloating comfortably\n水槽の外へ戻る\nアトリエへ戻る",
+  "controls": [
+    {
+      "tag": "A",
+      "id": "",
+      "cls": "skip-link",
+      "text": "作品へ移動",
+      "ariaLabel": null,
+      "type": null,
+      "href": "#main",
+      "disabled": false,
+      "rect": {
+        "x": 8,
+        "y": -61,
+        "w": 108,
+        "h": 43
+      },
+      "onScreen": false,
+      "hit": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "cls": "wordmark",
+      "text": "NIKO² ATELIER",
+      "ariaLabel": "NIKO² ATELIER ホームへ",
+      "type": null,
+      "href": "#home",
+      "disabled": false,
+      "rect": {
+        "x": 25,
+        "y": 18,
+        "w": 124,
+        "h": 29
+      },
+      "onScreen": true,
+      "hit": true
+    },
+    {
+      "tag": "BUTTON",
+      "id": "soundToggle",
+      "cls": "sound-toggle",
+      "text": "音をオンにする",
+      "ariaLabel": "音をオンにする",
+      "type": "button",
+      "href": null,
+      "disabled": false,
+      "rect": {
+        "x": 332,
+        "y": 14,
+        "w": 44,
+        "h": 44
+      },
+      "onScreen": true,
+      "hit": true
+    },
+    {
+      "tag": "BUTTON",
+      "id": "nikoSubmarine",
+      "cls": "aquarium-entity niko-submarine",
+      "text": "NIKO",
+      "ariaLabel": "水中に浮かぶNIKOの小型潜水艇に触れる",
+      "type": "button",
+      "href": null,
+      "disabled": false,
+      "rect": {
+        "x": 42,
+        "y": 248,
+        "w": 146,
+        "h": 126
+      },
+      "onScreen": true,
+      "hit": true
+    },
+    {
+      "tag": "BUTTON",
+      "id": "aquariumUser",
+      "cls": "aquarium-entity user-specimen",
+      "text": "水槽内の自分の標本に触れる",
+      "ariaLabel": "水槽内の自分の標本に触れる",
+      "type": "button",
+      "href": null,
+      "disabled": false,
+      "rect": {
+        "x": 135,
+        "y": 460,
+        "w": 98,
+        "h": 98
+      },
+      "onScreen": true,
+      "hit": true
+    },
+    {
+      "tag": "BUTTON",
+      "id": "exitTank",
+      "cls": "aquarium-exit",
+      "text": "水槽の外へ戻る",
+      "ariaLabel": null,
+      "type": "button",
+      "href": null,
+      "disabled": false,
+      "rect": {
+        "x": 4,
+        "y": 689,
+        "w": 382,
+        "h": 48
+      },
+      "onScreen": true,
+      "hit": true
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "cls": "page-back",
+      "text": "アトリエへ戻る",
+      "ariaLabel": null,
+      "type": null,
+      "href": "#home",
+      "disabled": false,
+      "rect": {
+        "x": 237,
+        "y": 787,
+        "w": 149,
+        "h": 41
+      },
+      "onScreen": true,
+      "hit": true
+    }
+  ],
+  "artwork": [
+    {
+      "tag": "IMG",
+      "id": "",
+      "cls": "aquarium-art",
+      "alt": "透明な水と淡い珊瑚、真珠色の砂が光る大きな研究用水槽",
+      "rect": {
+        "x": 14,
+        "y": 78,
+        "w": 362,
+        "h": 684
+      }
+    },
+    {
+      "tag": "IMG",
+      "id": "",
+      "cls": "",
+      "alt": "",
+      "rect": {
+        "x": 41.881752014160156,
+        "y": 247.8335418701172,
+        "w": 145.57321166992188,
+        "h": 125.87351989746094
+      }
+    },
+    {
+      "tag": "IMG",
+      "id": "",
+      "cls": "",
+      "alt": "半透明で白い小さな水生標本",
+      "rect": {
+        "x": 135.125,
+        "y": 459.90625,
+        "w": 97.5,
+        "h": 97.5
+      }
+    }
+  ],
+  "scroll": {
+    "x": 0,
+    "y": 0,
+    "h": 844
+  },
+  "scrollContainers": [],
+  "dialogs": []
+}
