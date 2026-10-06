@@ -1,1 +1,1 @@
-{"id":"24-focus","op":"tap","x":174,"y":767,"wait":500,"note":"The optional note field appeared. I want to record the little mistaken first impression of the tile."}
+{"id":"25-write","op":"type","text":"手紙かと思って触ったら、白い街のタイルだった。","wait":600,"note":"Add one sentence about what I actually mistook and discovered, rather than writing a review inside the diary."}
