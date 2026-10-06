@@ -5,19 +5,19 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-06T18:31:03.762Z",
-  "updatedAt": "2026-10-06T18:36:30.010Z",
-  "lastCommand": "a14",
+  "updatedAt": "2026-10-06T18:36:48.132Z",
+  "lastCommand": "a15",
   "stopReason": null,
   "action": {
-    "id": "a14",
+    "id": "a15",
     "op": "tap",
-    "x": 331,
-    "y": 181,
-    "note": "That faraway glowing gate has been pulling at me since arrival. I want to try it before hunting the final object.",
-    "wait": 1100
+    "x": 10,
+    "y": 426,
+    "note": "The gate did not take me through yet. There is still a glinting object almost off the left edge; I want to touch that sliver.",
+    "wait": 1200
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/eda828fc737c5aa15eb892cf3cf946076896f758/live-results/curious-alpaca-007-20261006-1835/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/8edfc8cd594b7804104deee58590f8c21c2caf89/live-results/curious-alpaca-007-20261006-1835/current.jpg",
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -29,7 +29,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n4 / 5\n見つけたもの\n取っ手の向こうで、鍵穴の光がひとつ消えた。\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n5 / 5\n見つけたもの\n\nあの扉が、こちらを呼んでいる。\n触れて、向こうへ\n取っ手の向こうで、鍵穴の光がひとつ消えた。\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
   "controls": [
     {
       "tag": "BUTTON",
@@ -55,8 +55,8 @@
     },
     {
       "tag": "BUTTON",
-      "text": "止まりかけの砂時計に触れる",
-      "disabled": false,
+      "text": "止まりかけの砂時計（発見済み）",
+      "disabled": true,
       "rect": {
         "x": -72,
         "y": 338,
@@ -67,7 +67,7 @@
     {
       "tag": "BUTTON",
       "text": "N² Eau de rêve（発見済み）",
-      "disabled": false,
+      "disabled": true,
       "rect": {
         "x": 4,
         "y": 498,
@@ -78,7 +78,7 @@
     {
       "tag": "BUTTON",
       "text": "まだあたたかいカップ（発見済み）",
-      "disabled": false,
+      "disabled": true,
       "rect": {
         "x": 167,
         "y": 494,
@@ -89,7 +89,7 @@
     {
       "tag": "BUTTON",
       "text": "置き去りのくま（発見済み）",
-      "disabled": false,
+      "disabled": true,
       "rect": {
         "x": 335,
         "y": 447,
@@ -100,7 +100,7 @@
     {
       "tag": "BUTTON",
       "text": "青いリボンの鍵（発見済み）",
-      "disabled": false,
+      "disabled": true,
       "rect": {
         "x": 89,
         "y": 563,
@@ -179,10 +179,21 @@
       "text": "遠くの白い門に触れる",
       "disabled": false,
       "rect": {
-        "x": 285,
-        "y": 118,
-        "w": 90,
-        "h": 118
+        "x": 217,
+        "y": 84,
+        "w": 236,
+        "h": 405
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "あの扉が、こちらを呼んでいる。\n触れて、向こうへ",
+      "disabled": false,
+      "rect": {
+        "x": 70,
+        "y": 262,
+        "w": 250,
+        "h": 62
       }
     }
   ],
@@ -428,6 +439,22 @@
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/eda828fc737c5aa15eb892cf3cf946076896f758/live-results/curious-alpaca-007-20261006-1835/current.jpg",
       "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n4 / 5\n見つけたもの\n取っ手の向こうで、鍵穴の光がひとつ消えた。\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+      "number": 16,
+      "at": "2026-10-06T18:36:48.132Z",
+      "action": {
+        "id": "a15",
+        "op": "tap",
+        "x": 10,
+        "y": 426,
+        "note": "The gate did not take me through yet. There is still a glinting object almost off the left edge; I want to touch that sliver.",
+        "wait": 1200
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/8edfc8cd594b7804104deee58590f8c21c2caf89/live-results/curious-alpaca-007-20261006-1835/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n5 / 5\n見つけたもの\n\nあの扉が、こちらを呼んでいる。\n触れて、向こうへ\n取っ手の向こうで、鍵穴の光がひとつ消えた。\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
     }
   ]
 }
