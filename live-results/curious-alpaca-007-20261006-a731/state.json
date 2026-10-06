@@ -5,19 +5,19 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-06T18:33:15.438Z",
-  "updatedAt": "2026-10-06T18:49:22.065Z",
-  "lastCommand": "045-reopen-orders",
+  "updatedAt": "2026-10-06T18:49:39.719Z",
+  "lastCommand": "046-check-out",
   "stopReason": null,
   "action": {
-    "id": "045-reopen-orders",
+    "id": "046-check-out",
     "op": "tap",
-    "x": 332,
-    "y": 143,
-    "wait": 650,
-    "note": "The room's background objects did not respond, so I will return to the order list and follow the promise that payment is checked after checkout."
+    "x": 282,
+    "y": 785,
+    "wait": 1300,
+    "note": "I am checking out because the room promised to resolve the one-memory payment afterwards. I want to know what happened to the key."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/0c3e2e2f986efa2ff149b594ea029224dfd15333/live-results/curious-alpaca-007-20261006-a731/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/63d0f5ec1f02674350071eedb5c97b9e1b19f746/live-results/curious-alpaca-007-20261006-a731/current.jpg",
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#hotel",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -29,7 +29,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\nNIKO² ATELIER\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDREAM / ROOM 0317\nHOTEL SOMNIA\nSTAY 0 / 3\n×\nROOM 000\n鍵の刻印は000。今夜の部屋番号とは一致しない。\nもう一品見る\nDiaryを見る\nCHECK OUT\n\n\n",
+  "text": "作品へ移動\nNIKO² ATELIER\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHOTEL SOMNIA / CHECK OUT\nありがとうございました。\n今夜の断片はDiaryへ届きました。部屋はここで、静かに閉じます。\n\nアトリエへ戻る\nDiaryを見る\nDREAM / ROOM 0317\nHOTEL SOMNIA\nSTAY 1 / 3\nFRONT DESK / ROOM 0317\n今夜も、同じ部屋をご用意しました。\n\n今夜の断片はDiaryへ届きました。同じ部屋は、次も少し違います。\n\nCHECK IN\n\n\n",
   "controls": [
     {
       "tag": "A",
@@ -54,14 +54,25 @@
       }
     },
     {
-      "tag": "BUTTON",
-      "text": "丸テーブルのROOM 000の鍵を見る",
+      "tag": "A",
+      "text": "アトリエへ戻る",
       "disabled": false,
       "rect": {
-        "x": 43,
-        "y": 489,
-        "w": 73,
-        "h": 73
+        "x": 65,
+        "y": 450,
+        "w": 137,
+        "h": 64
+      }
+    },
+    {
+      "tag": "A",
+      "text": "Diaryを見る",
+      "disabled": false,
+      "rect": {
+        "x": 214,
+        "y": 450,
+        "w": 111,
+        "h": 64
       }
     },
     {
@@ -77,51 +88,22 @@
     },
     {
       "tag": "BUTTON",
-      "text": "×",
+      "text": "CHECK IN",
       "disabled": false,
       "rect": {
-        "x": 341,
-        "y": 627,
-        "w": 30,
-        "h": 30
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "もう一品見る",
-      "disabled": false,
-      "rect": {
-        "x": 24,
-        "y": 702,
-        "w": 342,
-        "h": 50
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "Diaryを見る",
-      "disabled": false,
-      "rect": {
-        "x": 24,
-        "y": 760,
-        "w": 167,
-        "h": 50
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "CHECK OUT",
-      "disabled": false,
-      "rect": {
-        "x": 199,
-        "y": 760,
-        "w": 167,
-        "h": 50
+        "x": 36,
+        "y": 708,
+        "w": 116,
+        "h": 46
       }
     }
   ],
   "pageErrors": [],
   "httpErrors": [
+    {
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/api/identity",
+      "status": 404
+    },
     {
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/api/identity",
       "status": 404
@@ -869,6 +851,22 @@
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#hotel",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/0c3e2e2f986efa2ff149b594ea029224dfd15333/live-results/curious-alpaca-007-20261006-a731/current.jpg",
       "text": "作品へ移動\nNIKO² ATELIER\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDREAM / ROOM 0317\nHOTEL SOMNIA\nSTAY 0 / 3\n×\nROOM 000\n鍵の刻印は000。今夜の部屋番号とは一致しない。\nもう一品見る\nDiaryを見る\nCHECK OUT\n\n\n"
+    },
+    {
+      "number": 47,
+      "at": "2026-10-06T18:49:39.719Z",
+      "action": {
+        "id": "046-check-out",
+        "op": "tap",
+        "x": 282,
+        "y": 785,
+        "wait": 1300,
+        "note": "I am checking out because the room promised to resolve the one-memory payment afterwards. I want to know what happened to the key."
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#hotel",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/63d0f5ec1f02674350071eedb5c97b9e1b19f746/live-results/curious-alpaca-007-20261006-a731/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHOTEL SOMNIA / CHECK OUT\nありがとうございました。\n今夜の断片はDiaryへ届きました。部屋はここで、静かに閉じます。\n\nアトリエへ戻る\nDiaryを見る\nDREAM / ROOM 0317\nHOTEL SOMNIA\nSTAY 1 / 3\nFRONT DESK / ROOM 0317\n今夜も、同じ部屋をご用意しました。\n\n今夜の断片はDiaryへ届きました。同じ部屋は、次も少し違います。\n\nCHECK IN\n\n\n"
     }
   ]
 }
