@@ -5,19 +5,19 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-06T18:33:15.438Z",
-  "updatedAt": "2026-10-06T19:06:14.191Z",
-  "lastCommand": "092-marshmallow-case",
+  "updatedAt": "2026-10-06T19:06:38.216Z",
+  "lastCommand": "093-close-marshmallow-case",
   "stopReason": null,
   "action": {
-    "id": "092-marshmallow-case",
+    "id": "093-close-marshmallow-case",
     "op": "tap",
-    "x": 113,
-    "y": 493,
-    "wait": 750,
-    "note": "The blue tray holds a research-marshmallow disappearance case. After the moustache review, that strangely specific incident title is irresistible."
+    "x": 352,
+    "y": 163,
+    "wait": 500,
+    "note": "Food must not be labeled CLOUD is a satisfying tiny incident-report punchline. I want to inspect the contrasting orange file about a door knocking first."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/ff144ebd22b0d334d0ef7b8ef33db2eeac27e457/live-results/curious-alpaca-007-20261006-a731/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/aae9a13df906ac01d40cced51bc1a0bb5db31f8d/live-results/curious-alpaca-007-20261006-a731/current.jpg",
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#lab",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -29,7 +29,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\nNIKO² ATELIER\n\n\n\n白と薄水色のガラス研究所。奥へ続く通路と、記録の置かれた観測台があります。\nARCHIVE CHAMBER\n奥の保管室\n\n\n\n\nARCHIVE CHAMBER // RECORD\n\n\nFIELD NOTE / MINOR LABORATORY INCIDENT\n\n研究用マシュマロ消失事件\nINCIDENT REPORT M-00-14\nRESOLVED\nChief Dream Systems Architectが研究用マシュマロをすべて消費。\n\n本人供述\n「クラウドサンプルだと思ったもふ」\n再発防止\n食品にCLOUDと書かない。\n追記：アルパカ分類への異議申立書が同じ引き出しから14枚見つかった。\nRELATED: MOFUMOFU / CANTEEN\nARCHIVE COPY / VIEW ONLY\nINCIDENT REPORT M-00-14を開きました。\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+  "text": "作品へ移動\nNIKO² ATELIER\n\n\n\n白と薄水色のガラス研究所。奥へ続く通路と、記録の置かれた観測台があります。\nARCHIVE CHAMBER\n奥の保管室\n\n\n\n\nINCIDENT REPORT M-00-14を開きました。\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
   "controls": [
     {
       "tag": "A",
@@ -70,9 +70,9 @@
       "disabled": false,
       "rect": {
         "x": 60,
-        "y": 461,
-        "w": 106,
-        "h": 62
+        "y": 462,
+        "w": 108,
+        "h": 63
       }
     },
     {
@@ -95,17 +95,6 @@
         "y": 330,
         "w": 159,
         "h": 136
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "研究資料を閉じる",
-      "disabled": false,
-      "rect": {
-        "x": 330,
-        "y": 141,
-        "w": 44,
-        "h": 44
       }
     }
   ],
@@ -1607,6 +1596,22 @@
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#lab",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/ff144ebd22b0d334d0ef7b8ef33db2eeac27e457/live-results/curious-alpaca-007-20261006-a731/current.jpg",
       "text": "作品へ移動\nNIKO² ATELIER\n\n\n\n白と薄水色のガラス研究所。奥へ続く通路と、記録の置かれた観測台があります。\nARCHIVE CHAMBER\n奥の保管室\n\n\n\n\nARCHIVE CHAMBER // RECORD\n\n\nFIELD NOTE / MINOR LABORATORY INCIDENT\n\n研究用マシュマロ消失事件\nINCIDENT REPORT M-00-14\nRESOLVED\nChief Dream Systems Architectが研究用マシュマロをすべて消費。\n\n本人供述\n「クラウドサンプルだと思ったもふ」\n再発防止\n食品にCLOUDと書かない。\n追記：アルパカ分類への異議申立書が同じ引き出しから14枚見つかった。\nRELATED: MOFUMOFU / CANTEEN\nARCHIVE COPY / VIEW ONLY\nINCIDENT REPORT M-00-14を開きました。\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+      "number": 94,
+      "at": "2026-10-06T19:06:38.216Z",
+      "action": {
+        "id": "093-close-marshmallow-case",
+        "op": "tap",
+        "x": 352,
+        "y": 163,
+        "wait": 500,
+        "note": "Food must not be labeled CLOUD is a satisfying tiny incident-report punchline. I want to inspect the contrasting orange file about a door knocking first."
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#lab",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/aae9a13df906ac01d40cced51bc1a0bb5db31f8d/live-results/curious-alpaca-007-20261006-a731/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\n\n\n\n白と薄水色のガラス研究所。奥へ続く通路と、記録の置かれた観測台があります。\nARCHIVE CHAMBER\n奥の保管室\n\n\n\n\nINCIDENT REPORT M-00-14を開きました。\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
     }
   ]
 }
