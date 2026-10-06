@@ -1,8 +1,8 @@
 {
-  "id": "002-enter",
+  "id": "003-world-next",
   "op": "tap",
-  "x": 195,
-  "y": 529,
-  "wait": 1800,
-  "note": "The long pink jewel is the first thing I wanted to touch. Enter the dream."
+  "x": 335,
+  "y": 770,
+  "wait": 1100,
+  "note": "The note says the dream entrance is a little different every time. I want the next glimpse."
 }
