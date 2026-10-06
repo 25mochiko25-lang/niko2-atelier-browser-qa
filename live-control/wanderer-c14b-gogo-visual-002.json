@@ -1,1 +1,1 @@
-{"id":"18","op":"tap","x":292,"y":279,"wait":1500,"note":"Use the explicit ROOM NULL return link after saving, to see whether the room really is waiting rather than falling back to Home."}
+{"id":"19","op":"tap","x":266,"y":647,"wait":1400,"note":"Reopen the same notebook after returning to the room; check whether the diary still holds what I left."}
