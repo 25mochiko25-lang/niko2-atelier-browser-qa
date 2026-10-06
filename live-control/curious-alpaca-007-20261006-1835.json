@@ -1,8 +1,8 @@
 {
-  "id": "a54",
+  "id": "a55",
   "op": "tap",
-  "x": 203,
-  "y": 347,
-  "note": "The dark reflective hall with several glowing doorways looks like the place to choose a new adventure.",
-  "wait": 1300
+  "x": 328,
+  "y": 407,
+  "note": "The warm room behind the pink curtain on the right draws me more than the laboratory I already visited. I want to enter that doorway.",
+  "wait": 1100
 }
