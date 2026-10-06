@@ -1,0 +1,67 @@
+{
+  "session": "first-time-visual-001",
+  "mode": "observer-driven",
+  "engine": "webkit",
+  "mobile": true,
+  "touch": true,
+  "startedAt": "2026-10-06T18:03:12.114Z",
+  "updatedAt": "2026-10-06T18:03:17.640Z",
+  "lastCommand": null,
+  "stopReason": null,
+  "action": {
+    "op": "arrival"
+  },
+  "error": null,
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/f9c1a2b8e7500c6e64b5a46699f146357c686f68/live-results/first-time-visual-001/current.jpg",
+  "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+  "title": "NIKO² ATELIER",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "documentWidth": 390,
+  "scroll": {
+    "x": 0,
+    "y": 0
+  },
+  "text": "作品へ移動\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+  "controls": [
+    {
+      "tag": "BUTTON",
+      "text": "音をオンにする",
+      "disabled": false,
+      "rect": {
+        "x": 332,
+        "y": 14,
+        "w": 44,
+        "h": 44
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Enter the dream",
+      "disabled": false,
+      "rect": {
+        "x": 90,
+        "y": 494,
+        "w": 210,
+        "h": 70
+      }
+    }
+  ],
+  "pageErrors": [],
+  "httpErrors": [],
+  "events": [
+    {
+      "number": 1,
+      "at": "2026-10-06T18:03:17.639Z",
+      "action": {
+        "op": "arrival"
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/f9c1a2b8e7500c6e64b5a46699f146357c686f68/live-results/first-time-visual-001/current.jpg",
+      "text": "作品へ移動\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    }
+  ]
+}
