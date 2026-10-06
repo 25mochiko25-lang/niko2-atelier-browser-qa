@@ -1,8 +1,8 @@
 {
-  "id": "019-hourglass",
+  "id": "020-through-gate",
   "op": "tap",
-  "x": 10,
-  "y": 429,
-  "wait": 1500,
-  "note": "One object remains, and there is a narrow gold object showing at the extreme left. I want to see what it is."
+  "x": 331,
+  "y": 187,
+  "wait": 1600,
+  "note": "The distant door I touched earlier now calls me onward. I want to open the actual pictured gate and see the other side."
 }
