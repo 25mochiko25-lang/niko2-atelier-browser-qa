@@ -1,8 +1,8 @@
 {
-  "id": "083-observation-book",
+  "id": "084-management-moustache",
   "op": "tap",
-  "x": 99,
-  "y": 549,
+  "x": 196,
+  "y": 561,
   "wait": 750,
-  "note": "The red book on the observation desk feels like a logbook for the impossible things I have been seeing. I want to open it."
+  "note": "Among serious-looking memory research files, Management Moustache says its effect on dignity is unconfirmed. That absurdly formal little subject is the one I want to read first."
 }
