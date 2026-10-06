@@ -1,8 +1,8 @@
 {
-  "id": "005-carry-sample",
+  "id": "006-stow-sample",
   "op": "tap",
-  "x": 195,
+  "x": 272,
   "y": 538,
   "wait": 300,
-  "note": "Touch lit up blue. I want to try Carry home too; perhaps these are samples of what I can do later."
+  "note": "Two little buttons stayed colored after I touched them. I want to complete the set with Stow."
 }
