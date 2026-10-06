@@ -1,8 +1,8 @@
 {
-  "id": "a01",
+  "id": "a02",
   "op": "tap",
-  "x": 195,
-  "y": 530,
-  "note": "The jewel-shaped Enter the dream button catches my eye first; I want to pass through the glowing room.",
-  "wait": 1600
+  "x": 335,
+  "y": 769,
+  "note": "The line about a slightly different entrance each time makes me curious about what comes next.",
+  "wait": 900
 }
