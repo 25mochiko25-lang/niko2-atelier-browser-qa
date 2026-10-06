@@ -1,8 +1,8 @@
 {
-  "id": "046-check-out",
+  "id": "047-hotel-diary",
   "op": "tap",
-  "x": 282,
-  "y": 785,
-  "wait": 1300,
-  "note": "I am checking out because the room promised to resolve the one-memory payment afterwards. I want to know what happened to the key."
+  "x": 270,
+  "y": 480,
+  "wait": 950,
+  "note": "Checkout says tonight's fragments arrived in Diary. I want to read the receipt for Yesterday and ROOM 000."
 }
