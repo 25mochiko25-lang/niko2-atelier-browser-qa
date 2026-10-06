@@ -1,0 +1,10 @@
+{
+  "mode":"guided-continuation",
+  "persona":"genre-fan",
+  "target":"https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+  "storageState":"results/37510390068-genre-critic-six-cont03/storage-state.json",
+  "sessionStorage":"results/37510390068-genre-critic-six-cont03/session-storage.json",
+  "actions":[
+    {"kind":"tap","selector":"#enterGarden","label":"follow-dream-entrance-after-first-visit","wait":2200,"picture":true}
+  ]
+}
