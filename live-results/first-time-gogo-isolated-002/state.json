@@ -5,19 +5,19 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-06T18:42:49.473Z",
-  "updatedAt": "2026-10-06T19:00:16.788Z",
-  "lastCommand": "r16",
+  "updatedAt": "2026-10-06T19:01:22.919Z",
+  "lastCommand": "r17",
   "stopReason": null,
   "action": {
-    "id": "r16",
+    "id": "r17",
     "op": "tap",
-    "x": 220,
-    "y": 355,
-    "wait": 1500,
-    "note": "The reading panel is closed and the room is back. The tall doorway in the middle was visible from the beginning, so I want to see where that leads before leaving the lab."
+    "x": 249,
+    "y": 407,
+    "wait": 1300,
+    "note": "The doorway really leads to another room, not another article list. The old monitor with clouds inside is now the most interesting object; I want to see whether it does something."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/3982d5874280b1691851fb7f0e8fbba03e7e0f33/live-results/first-time-gogo-isolated-002/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/483d4b6586007322078e9439215608675d9f5c0f/live-results/first-time-gogo-isolated-002/current.jpg",
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#lab",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -29,7 +29,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\nNIKO² ATELIER\n\n\n\n白と薄水色のガラス研究所。奥へ続く通路と、記録の置かれた観測台があります。\nARCHIVE CHAMBER\n奥の保管室\n\n\n\n\nSPECIMEN M-00 / MOFUMOFUを開きました。\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+  "text": "作品へ移動\nNIKO² ATELIER\n\n\n\n白と薄水色のガラス研究所。奥へ続く通路と、記録の置かれた観測台があります。\nARCHIVE CHAMBER\n奥の保管室\n\n\n\n\nARCHIVE CHAMBER // N²-Ω\n\n\nN²-Ω\n終了後挙動観測記録\nSTATE\nACTIVE\n終了日\n記録なし\n停止権限\nNONE\n観測終了後も反応を続ける記録\n観測対象：実験 N²-Ω の終了後挙動。\n\n通常記録\n「2026年に観測開始。主任研究員はNIKO、システム監督はMOFUMOFU。」\n異常観測\n「観測終了後も内部の反応が続いている。終了日は記録されず、状態はACTIVEのまま。」\n実験目的\n未記載\nRELATED: OMEGA / ACCESS_NONE\nARCHIVE COPY / VIEW ONLY\nN²-Ωを開きました。\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
   "controls": [
     {
       "tag": "A",
@@ -91,10 +91,21 @@
       "text": "旧端末に触れる",
       "disabled": false,
       "rect": {
-        "x": 172,
-        "y": 330,
-        "w": 159,
-        "h": 136
+        "x": 173,
+        "y": 331,
+        "w": 156,
+        "h": 134
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "研究資料を閉じる",
+      "disabled": false,
+      "rect": {
+        "x": 330,
+        "y": 141,
+        "w": 44,
+        "h": 44
       }
     }
   ],
@@ -635,6 +646,22 @@
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#lab",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/3982d5874280b1691851fb7f0e8fbba03e7e0f33/live-results/first-time-gogo-isolated-002/current.jpg",
       "text": "作品へ移動\nNIKO² ATELIER\n\n\n\n白と薄水色のガラス研究所。奥へ続く通路と、記録の置かれた観測台があります。\nARCHIVE CHAMBER\n奥の保管室\n\n\n\n\nSPECIMEN M-00 / MOFUMOFUを開きました。\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+      "number": 33,
+      "at": "2026-10-06T19:01:22.919Z",
+      "action": {
+        "id": "r17",
+        "op": "tap",
+        "x": 249,
+        "y": 407,
+        "wait": 1300,
+        "note": "The doorway really leads to another room, not another article list. The old monitor with clouds inside is now the most interesting object; I want to see whether it does something."
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#lab",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/483d4b6586007322078e9439215608675d9f5c0f/live-results/first-time-gogo-isolated-002/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\n\n\n\n白と薄水色のガラス研究所。奥へ続く通路と、記録の置かれた観測台があります。\nARCHIVE CHAMBER\n奥の保管室\n\n\n\n\nARCHIVE CHAMBER // N²-Ω\n\n\nN²-Ω\n終了後挙動観測記録\nSTATE\nACTIVE\n終了日\n記録なし\n停止権限\nNONE\n観測終了後も反応を続ける記録\n観測対象：実験 N²-Ω の終了後挙動。\n\n通常記録\n「2026年に観測開始。主任研究員はNIKO、システム監督はMOFUMOFU。」\n異常観測\n「観測終了後も内部の反応が続いている。終了日は記録されず、状態はACTIVEのまま。」\n実験目的\n未記載\nRELATED: OMEGA / ACCESS_NONE\nARCHIVE COPY / VIEW ONLY\nN²-Ωを開きました。\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
     }
   ]
 }
