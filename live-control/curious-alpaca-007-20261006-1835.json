@@ -1,8 +1,8 @@
 {
-  "id": "a20",
+  "id": "a21",
   "op": "tap",
-  "x": 195,
-  "y": 727,
-  "note": "It is a tiny tile from a city that has no address yet. That particular souvenir is something I really want to take.",
-  "wait": 1100
+  "x": 91,
+  "y": 567,
+  "note": "The tile gets its own photograph beside the city photograph. I want to leave a small sentence with this souvenir.",
+  "wait": 700
 }
