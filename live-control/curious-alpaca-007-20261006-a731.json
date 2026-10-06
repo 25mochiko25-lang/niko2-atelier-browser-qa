@@ -1,8 +1,7 @@
 {
-  "id": "067-webring-random",
-  "op": "tap",
-  "x": 195,
-  "y": 378,
-  "wait": 650,
-  "note": "A web ring whose absent owner left it circling is exactly the kind of strange detour I like. I want to let RANDOM choose a page once."
+  "id": "068-channel-lower-links",
+  "op": "key",
+  "key": "PageDown",
+  "wait": 500,
+  "note": "The directory now includes a RESTORED mirror/last_seen.html line below the original links. I want to inspect the newly appeared lower part."
 }
