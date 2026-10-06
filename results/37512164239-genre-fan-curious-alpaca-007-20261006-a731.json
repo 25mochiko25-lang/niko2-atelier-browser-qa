@@ -1,0 +1,1121 @@
+{
+  "target": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+  "persona": "genre-fan",
+  "seed": "genre-fan-curious-alpaca-007-20261006-a731",
+  "maxSteps": 4,
+  "startedAt": "2026-10-06T18:33:35.374Z",
+  "engine": "webkit",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "touch": true,
+  "events": [
+    {
+      "kind": "tap",
+      "label": "step-1-tap",
+      "target": {
+        "text": "Enter the dream",
+        "id": "enterGarden",
+        "cls": "dream-entry home-pink-cta",
+        "href": "",
+        "rect": {
+          "x": 90,
+          "y": 494,
+          "w": 210,
+          "h": 70
+        }
+      },
+      "error": null,
+      "before": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      },
+      "after": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      }
+    },
+    {
+      "kind": "tap",
+      "label": "step-2-tap",
+      "target": {
+        "text": "次へ",
+        "id": "",
+        "cls": "niko2-intro-primary",
+        "href": "",
+        "rect": {
+          "x": 300,
+          "y": 748,
+          "w": 72,
+          "h": 44
+        }
+      },
+      "error": null,
+      "before": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      },
+      "after": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      }
+    },
+    {
+      "kind": "tap",
+      "label": "step-3-tap",
+      "target": {
+        "text": "仕舞う",
+        "id": "",
+        "cls": "niko2-intro-concept-button",
+        "href": "",
+        "rect": {
+          "x": 240,
+          "y": 518,
+          "w": 65,
+          "h": 38
+        }
+      },
+      "error": null,
+      "before": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      },
+      "after": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      }
+    },
+    {
+      "kind": "tap",
+      "label": "step-4-tap",
+      "target": {
+        "text": "次へ",
+        "id": "",
+        "cls": "niko2-intro-primary",
+        "href": "",
+        "rect": {
+          "x": 300,
+          "y": 748,
+          "w": 72,
+          "h": 44
+        }
+      },
+      "error": null,
+      "before": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      },
+      "after": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      }
+    }
+  ],
+  "snapshots": [
+    {
+      "label": "arrival",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-1-choice",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-1-tap:after",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 WORLD 夢の入り口は、毎回すこし違う。 次へ",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "次へ",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 300,
+            "y": 748,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-2-choice",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 WORLD 夢の入り口は、毎回すこし違う。 次へ",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "次へ",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 300,
+            "y": 748,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-2-tap:after",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 INTERACTION Sound On Sound Off 触れる 持ち帰る 仕舞う 次へ戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-sound-button",
+          "text": "Sound On",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 97,
+            "y": 464,
+            "w": 93,
+            "h": 38
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-sound-button is-selected",
+          "text": "Sound Off",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 198,
+            "y": 464,
+            "w": 95,
+            "h": 38
+          }
+        },
+        {
+          "probe": 3,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-concept-button",
+          "text": "触れる",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 86,
+            "y": 518,
+            "w": 65,
+            "h": 38
+          }
+        },
+        {
+          "probe": 4,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-concept-button",
+          "text": "持ち帰る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 157,
+            "y": 518,
+            "w": 76,
+            "h": 38
+          }
+        },
+        {
+          "probe": 5,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-concept-button",
+          "text": "仕舞う",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 240,
+            "y": 518,
+            "w": 65,
+            "h": 38
+          }
+        },
+        {
+          "probe": 6,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "次へ",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 300,
+            "y": 748,
+            "w": 72,
+            "h": 44
+          }
+        },
+        {
+          "probe": 7,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 18,
+            "y": 748,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-3-choice",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 INTERACTION Sound On Sound Off 触れる 持ち帰る 仕舞う 次へ戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-sound-button",
+          "text": "Sound On",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 97,
+            "y": 464,
+            "w": 93,
+            "h": 38
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-sound-button is-selected",
+          "text": "Sound Off",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 198,
+            "y": 464,
+            "w": 95,
+            "h": 38
+          }
+        },
+        {
+          "probe": 3,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-concept-button",
+          "text": "触れる",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 86,
+            "y": 518,
+            "w": 65,
+            "h": 38
+          }
+        },
+        {
+          "probe": 4,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-concept-button",
+          "text": "持ち帰る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 157,
+            "y": 518,
+            "w": 76,
+            "h": 38
+          }
+        },
+        {
+          "probe": 5,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-concept-button",
+          "text": "仕舞う",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 240,
+            "y": 518,
+            "w": 65,
+            "h": 38
+          }
+        },
+        {
+          "probe": 6,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "次へ",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 300,
+            "y": 748,
+            "w": 72,
+            "h": 44
+          }
+        },
+        {
+          "probe": 7,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 18,
+            "y": 748,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-3-tap:after",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 INTERACTION Sound On Sound Off 触れる 持ち帰る 仕舞う 次へ戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-sound-button",
+          "text": "Sound On",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 97,
+            "y": 464,
+            "w": 93,
+            "h": 38
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-sound-button is-selected",
+          "text": "Sound Off",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 198,
+            "y": 464,
+            "w": 95,
+            "h": 38
+          }
+        },
+        {
+          "probe": 3,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-concept-button",
+          "text": "触れる",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 86,
+            "y": 518,
+            "w": 65,
+            "h": 38
+          }
+        },
+        {
+          "probe": 4,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-concept-button",
+          "text": "持ち帰る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 157,
+            "y": 518,
+            "w": 76,
+            "h": 38
+          }
+        },
+        {
+          "probe": 5,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-concept-button is-selected",
+          "text": "仕舞う",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 240,
+            "y": 518,
+            "w": 65,
+            "h": 38
+          }
+        },
+        {
+          "probe": 6,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "次へ",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 300,
+            "y": 748,
+            "w": 72,
+            "h": 44
+          }
+        },
+        {
+          "probe": 7,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 18,
+            "y": 748,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-4-choice",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 INTERACTION Sound On Sound Off 触れる 持ち帰る 仕舞う 次へ戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-sound-button",
+          "text": "Sound On",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 97,
+            "y": 464,
+            "w": 93,
+            "h": 38
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-sound-button is-selected",
+          "text": "Sound Off",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 198,
+            "y": 464,
+            "w": 95,
+            "h": 38
+          }
+        },
+        {
+          "probe": 3,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-concept-button",
+          "text": "触れる",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 86,
+            "y": 518,
+            "w": 65,
+            "h": 38
+          }
+        },
+        {
+          "probe": 4,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-concept-button",
+          "text": "持ち帰る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 157,
+            "y": 518,
+            "w": 76,
+            "h": 38
+          }
+        },
+        {
+          "probe": 5,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-concept-button is-selected",
+          "text": "仕舞う",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 240,
+            "y": 518,
+            "w": 65,
+            "h": 38
+          }
+        },
+        {
+          "probe": 6,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "次へ",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 300,
+            "y": 748,
+            "w": 72,
+            "h": 44
+          }
+        },
+        {
+          "probe": 7,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 18,
+            "y": 748,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-4-tap:after",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 WELCOME ようこそ！ 夢へ入る戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "夢へ入る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 291,
+            "y": 748,
+            "w": 81,
+            "h": 44
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 18,
+            "y": 748,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "final",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 WELCOME ようこそ！ 夢へ入る戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "夢へ入る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 291,
+            "y": 748,
+            "w": 81,
+            "h": 44
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 18,
+            "y": 748,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    }
+  ],
+  "pageErrors": [],
+  "consoleErrors": [],
+  "requestFailures": [],
+  "httpStatus": 200,
+  "final": {
+    "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+    "title": "NIKO² ATELIER",
+    "hash": "",
+    "route": "home",
+    "activeViews": 1,
+    "scroll": {
+      "x": 0,
+      "y": 0,
+      "width": 390,
+      "height": 844
+    },
+    "horizontalOverflow": false,
+    "dialogs": [],
+    "bodyText": "作品へ移動 WELCOME ようこそ！ 夢へ入る戻る",
+    "clickables": [
+      {
+        "probe": 0,
+        "tag": "BUTTON",
+        "id": "soundToggle",
+        "cls": "sound-toggle",
+        "text": "音をオンにする",
+        "href": "",
+        "disabled": false,
+        "rect": {
+          "x": 332,
+          "y": 14,
+          "w": 44,
+          "h": 44
+        }
+      },
+      {
+        "probe": 1,
+        "tag": "BUTTON",
+        "id": "",
+        "cls": "niko2-intro-primary",
+        "text": "夢へ入る",
+        "href": "",
+        "disabled": false,
+        "rect": {
+          "x": 291,
+          "y": 748,
+          "w": 81,
+          "h": 44
+        }
+      },
+      {
+        "probe": 2,
+        "tag": "BUTTON",
+        "id": "",
+        "cls": "niko2-intro-back",
+        "text": "戻る",
+        "href": "",
+        "disabled": false,
+        "rect": {
+          "x": 18,
+          "y": 748,
+          "w": 72,
+          "h": 44
+        }
+      }
+    ]
+  },
+  "finishedAt": "2026-10-06T18:33:42.278Z"
+}
