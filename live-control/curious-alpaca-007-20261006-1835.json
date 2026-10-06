@@ -1,7 +1,6 @@
 {
-  "id": "a82",
-  "op": "key",
-  "key": "PageDown",
-  "note": "Looking at the final two saved memories after check-out; this is the place I want to leave the visit.",
-  "wait": 700
+  "id": "a83",
+  "op": "stop",
+  "reason": "Voluntary end after a complete first visit: collected the addressless tile, added my own sentence, wandered through the laboratory and CHANNEL 00, discovered that the hotel served my sentence back as Yesterday, ordered rain, checked out, and revisited both saved memories. I feel satisfied with this night's journey and want to return after some time for other dishes and unopened personal pages. No operation-count or runtime guard caused this stop.",
+  "wait": 300
 }
