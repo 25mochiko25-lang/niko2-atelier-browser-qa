@@ -5,19 +5,18 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-06T18:31:03.762Z",
-  "updatedAt": "2026-10-06T18:39:10.279Z",
-  "lastCommand": "a22",
+  "updatedAt": "2026-10-06T18:39:22.401Z",
+  "lastCommand": "a23",
   "stopReason": null,
   "action": {
-    "id": "a22",
-    "op": "tap",
-    "x": 161,
-    "y": 565,
-    "note": "Focusing the optional sentence field for the tile.",
-    "wait": 200
+    "id": "a23",
+    "op": "type",
+    "text": "お城より先に、床のかけらを拾ってしまった。",
+    "note": "Leaving my own visitor sentence with the tile, in this isolated test browser.",
+    "wait": 400
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/78cc9ffa5c9d4304b523dfaf30d64f6f4067066d/live-results/curious-alpaca-007-20261006-1835/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/e47037142c8b97231fb745e6165f422c3b43c883/live-results/curious-alpaca-007-20261006-1835/current.jpg",
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#quiet",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -58,8 +57,8 @@
       "text": "白い街の一片に触れる",
       "disabled": false,
       "rect": {
-        "x": 63,
-        "y": 721,
+        "x": 64,
+        "y": 720,
         "w": 69,
         "h": 69
       }
@@ -504,6 +503,21 @@
       "error": null,
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#quiet",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/78cc9ffa5c9d4304b523dfaf30d64f6f4067066d/live-results/curious-alpaca-007-20261006-1835/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n夢を離れる\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDREAM MEMORY\n\n夢から残ったもの\n\nWORLD MEMORY\nTHING THAT REMAINED\nWORLD MEMORY + REMAINS\n住所のない白いタイル\n白い街の一片 — まだ住所を持たない街から、足元へ滑った小さなタイル。\n言葉を閉じる\n夢のあとに残す言葉\n\nアトリエへ戻る\nDiaryへ持ち帰る"
+    },
+    {
+      "number": 24,
+      "at": "2026-10-06T18:39:22.401Z",
+      "action": {
+        "id": "a23",
+        "op": "type",
+        "text": "お城より先に、床のかけらを拾ってしまった。",
+        "note": "Leaving my own visitor sentence with the tile, in this isolated test browser.",
+        "wait": 400
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#quiet",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/e47037142c8b97231fb745e6165f422c3b43c883/live-results/curious-alpaca-007-20261006-1835/current.jpg",
       "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n夢を離れる\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDREAM MEMORY\n\n夢から残ったもの\n\nWORLD MEMORY\nTHING THAT REMAINED\nWORLD MEMORY + REMAINS\n住所のない白いタイル\n白い街の一片 — まだ住所を持たない街から、足元へ滑った小さなタイル。\n言葉を閉じる\n夢のあとに残す言葉\n\nアトリエへ戻る\nDiaryへ持ち帰る"
     }
   ]
