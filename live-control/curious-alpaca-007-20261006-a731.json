@@ -1,8 +1,8 @@
 {
-  "id": "041-room-key",
+  "id": "042-hotel-close-menu",
   "op": "tap",
-  "x": 80,
-  "y": 526,
-  "wait": 850,
-  "note": "The menu actually placed a little key on the table. I want to examine the object itself before checking out."
+  "x": 356,
+  "y": 642,
+  "wait": 600,
+  "note": "I want to look at the room without the menu covering it, especially the telephone and cabinet door."
 }
