@@ -1,8 +1,8 @@
 {
-  "id": "a47",
+  "id": "a48",
   "op": "tap",
-  "x": 195,
-  "y": 387,
-  "note": "The doorway and shelves look like a real next room, so I want to go deeper than the first reading table.",
-  "wait": 900
+  "x": 112,
+  "y": 489,
+  "note": "There is a loose paper propped in a little blue tray beside the old cloud-filled television. I want to read the loose paper.",
+  "wait": 800
 }
