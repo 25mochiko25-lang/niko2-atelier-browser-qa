@@ -1,0 +1,92 @@
+name: Visitor 3 targeted exploration checks
+on:
+  push:
+    branches: [main]
+    paths: ['requests/exploration-c14b-*.json']
+permissions:
+  contents: write
+jobs:
+  explore:
+    runs-on: ubuntu-latest
+    container:
+      image: mcr.microsoft.com/playwright:v1.55.0-noble
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Resolve dedicated request
+        id: req
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config --global --add safe.directory "$GITHUB_WORKSPACE"
+          REQUEST="$(git diff-tree --no-commit-id --name-only -r "$GITHUB_SHA" | grep -E '^requests/exploration-c14b-[^/]+\.json$' | tail -1)"
+          test -n "$REQUEST"
+          echo "path=$REQUEST" >> "$GITHUB_OUTPUT"
+          echo "name=$(basename "$REQUEST" .json)" >> "$GITHUB_OUTPUT"
+      - name: Install browser driver
+        run: npm install --prefix /tmp/niko2-browser-qa --no-save --no-package-lock playwright@1.55.0
+      - name: Run explicitly requested checks
+        shell: bash
+        env:
+          PLAYWRIGHT_BROWSERS_PATH: /ms-playwright
+          OUT: qa-output/result.json
+          REQUEST: ${{ steps.req.outputs.path }}
+        run: |
+          set -euo pipefail
+          mkdir -p qa-output
+          python3 - <<'PY'
+          from pathlib import Path
+          p=Path('qa/exploration_checks_c14b.mjs').read_text()
+          p=p.replace('detail=await fn(before);','detail=await fn(before);if(detail && typeof detail.status === "function")detail={httpStatus:detail.status(),url:detail.url()};')
+          p=p.replace("const next=choose(s,{cls:'niko2-intro-primary'});", "const choices=(s.controls||[]).filter(c=>/niko2-intro-concept-button/.test(c.cls)&&c.points.some(p=>p.own));if(choices.length&&!choices.some(c=>/is-selected/.test(c.cls))){await click({text:'^'+choices[0].name+'$'},'choose intro concept',900);s=await state(p);}const next=choose(s,{cls:'niko2-intro-primary'});")
+          Path('/tmp/exploration-c14b.mjs').write_text(p)
+          PY
+          node --check /tmp/exploration-c14b.mjs
+          node /tmp/exploration-c14b.mjs "$REQUEST"
+      - name: Publish own evidence
+        if: always()
+        shell: bash
+        env:
+          RUN_ID: ${{ github.run_id }}
+          REQUEST_NAME: ${{ steps.req.outputs.name }}
+        run: |
+          set -euo pipefail
+          test -f qa-output/result.json || echo '{"fatal":"runner produced no result"}' > qa-output/result.json
+          python3 - <<'PY'
+          import json
+          from pathlib import Path
+          r=json.loads(Path('qa-output/result.json').read_text())
+          lines=['# Visitor 3 browser evidence',f"Target: {r.get('target')}",f"Started: {r.get('startedAt')}",f"Finished: {r.get('finishedAt')}"]
+          for c in r.get('cases',[]):
+            lines += ['',f"## {c['name']}",f"Viewport: {c['viewport']}; mobile: {c['mobile']}; fatal: {c.get('fatal')}",f"Page errors: {c.get('pageErrors')}",f"HTTP errors: {c.get('httpErrors')}"]
+            for i,e in enumerate(c.get('events',[]),1):
+              b=e.get('before',{});a=e.get('after',{})
+              lines += [f"### {i}. {e['label']}",f"From: {b.get('route')} {b.get('url')} | found={b.get('found')}",f"To: {a.get('route')} {a.get('url')} | found={a.get('found')}",f"Input: {json.dumps(e.get('detail'),ensure_ascii=False)}",f"Error: {e.get('error')}",f"Onscreen before: {b.get('onscreenText','')}",f"Onscreen after: {a.get('onscreenText','')}",f"Rendered text after: {a.get('bodyText','')[:2200]}",f"Received input: {json.dumps(a.get('inputs',[])[-2:],ensure_ascii=False)}"]
+            for s in c.get('checkpoints',[]):
+              lines += [f"### Checkpoint: {s['label']}",f"Route: {s.get('route')}; found: {s.get('found')}; assertion pass: {s.get('pass')}",f"Onscreen: {s.get('onscreenText','')}"]
+              if 'probe' in s['label'].lower() or s['label']=='final':
+                lines += ['Controls: '+json.dumps(s.get('controls',[]),ensure_ascii=False)]
+          Path('qa-output/summary.md').write_text('\n'.join(lines))
+          PY
+          TMP="$(mktemp -d)"
+          cp qa-output/result.json "$TMP/result.json"
+          cp qa-output/summary.md "$TMP/summary.md"
+          git config user.name "niko2-browser-qa"
+          git config user.email "niko2-browser-qa@users.noreply.github.com"
+          for attempt in 1 2 3 4 5; do
+            git fetch origin main
+            git reset --hard origin/main
+            mkdir -p results
+            cp "$TMP/result.json" "results/$RUN_ID-$REQUEST_NAME.json"
+            cp "$TMP/summary.md" "results/$RUN_ID-$REQUEST_NAME-summary.md"
+            git add "results/$RUN_ID-$REQUEST_NAME.json" "results/$RUN_ID-$REQUEST_NAME-summary.md"
+            git commit -m "qa: save visitor 3 $REQUEST_NAME evidence" || exit 0
+            if git push origin HEAD:main; then exit 0; fi
+            sleep $((attempt * 2))
+          done
+          exit 1
