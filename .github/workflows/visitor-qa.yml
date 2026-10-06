@@ -4,7 +4,11 @@ on:
   push:
     branches: [main]
     paths:
-      - 'requests/*.json'
+      - 'requests/first-time-*.json'
+      - 'requests/sloppy-mobile-*.json'
+      - 'requests/wanderer-*.json'
+      - 'requests/outside-critic-*.json'
+      - 'requests/genre-fan-*.json'
   workflow_dispatch:
     inputs:
       persona:
