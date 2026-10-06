@@ -1,8 +1,8 @@
 {
-  "id": "a14",
+  "id": "a15",
   "op": "tap",
-  "x": 331,
-  "y": 181,
-  "note": "That faraway glowing gate has been pulling at me since arrival. I want to try it before hunting the final object.",
-  "wait": 1100
+  "x": 10,
+  "y": 426,
+  "note": "The gate did not take me through yet. There is still a glinting object almost off the left edge; I want to touch that sliver.",
+  "wait": 1200
 }
