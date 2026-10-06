@@ -1,0 +1,318 @@
+{
+  "session": "first-time-gogo-isolated-002",
+  "mode": "observer-driven",
+  "engine": "webkit",
+  "mobile": true,
+  "touch": true,
+  "startedAt": "2026-10-06T18:42:49.473Z",
+  "updatedAt": "2026-10-06T18:43:28.506Z",
+  "lastCommand": null,
+  "stopReason": null,
+  "action": {
+    "op": "reconstructed-arrival",
+    "source": {
+      "path": "live-results/first-time-visual-001/state.json",
+      "ref": "341c1cc83f8b06e165d26a5915eb92f4b311e92d",
+      "through": "14",
+      "expectedHash": "#quiet"
+    }
+  },
+  "error": null,
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/8853b20ab67466a262c9b761fb90b6bec7035e52/live-results/first-time-gogo-isolated-002/current.jpg",
+  "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#quiet",
+  "title": "NIKO² ATELIER",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "documentWidth": 390,
+  "scroll": {
+    "x": 0,
+    "y": 0
+  },
+  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n庭が、空よりも高く昇りはじめた。\n\nひとひらだけ、帰る道を選ぶのを見た。\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+  "controls": [
+    {
+      "tag": "BUTTON",
+      "text": "音をオンにする",
+      "disabled": false,
+      "rect": {
+        "x": 332,
+        "y": 14,
+        "w": 44,
+        "h": 44
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "夢の見覚え ✧︎",
+      "disabled": false,
+      "rect": {
+        "x": 315,
+        "y": 56,
+        "w": 61,
+        "h": 30
+      }
+    }
+  ],
+  "pageErrors": [],
+  "httpErrors": [
+    {
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/api/identity",
+      "status": 404
+    }
+  ],
+  "events": [
+    {
+      "number": 1,
+      "at": "2026-10-06T18:42:55.286Z",
+      "action": {
+        "id": "01",
+        "op": "tap",
+        "x": 195,
+        "y": 528,
+        "wait": 1100,
+        "note": "The jewel button is the clear entrance; I want to see what is inside.",
+        "replayed": true
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+      "screenshotUrl": null,
+      "text": "Recorded UI replay for continuation, not a new first impression."
+    },
+    {
+      "number": 2,
+      "at": "2026-10-06T18:42:56.296Z",
+      "action": {
+        "id": "02",
+        "op": "tap",
+        "x": 335,
+        "y": 773,
+        "wait": 1000,
+        "note": "The opening card repeats the entrance image. The short line suggests different destinations; continue.",
+        "replayed": true
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+      "screenshotUrl": null,
+      "text": "Recorded UI replay for continuation, not a new first impression."
+    },
+    {
+      "number": 3,
+      "at": "2026-10-06T18:42:57.104Z",
+      "action": {
+        "id": "03",
+        "op": "tap",
+        "x": 193,
+        "y": 537,
+        "wait": 800,
+        "note": "Carry home sounds interesting, but it is not clear whether this is an example or a mode choice. Try it; leave sound off.",
+        "replayed": true
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+      "screenshotUrl": null,
+      "text": "Recorded UI replay for continuation, not a new first impression."
+    },
+    {
+      "number": 4,
+      "at": "2026-10-06T18:42:58.114Z",
+      "action": {
+        "id": "04",
+        "op": "tap",
+        "x": 335,
+        "y": 773,
+        "wait": 1000,
+        "note": "The button became pink but I did not see an explanation or object being carried. I will move on rather than work this out here.",
+        "replayed": true
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+      "screenshotUrl": null,
+      "text": "Recorded UI replay for continuation, not a new first impression."
+    },
+    {
+      "number": 5,
+      "at": "2026-10-06T18:42:59.930Z",
+      "action": {
+        "id": "05",
+        "op": "tap",
+        "x": 330,
+        "y": 773,
+        "wait": 1800,
+        "note": "The portal picture is appealing. I have seen enough introduction and want to interact with the place itself.",
+        "replayed": true
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
+      "screenshotUrl": null,
+      "text": "Recorded UI replay for continuation, not a new first impression."
+    },
+    {
+      "number": 6,
+      "at": "2026-10-06T18:43:01.742Z",
+      "action": {
+        "id": "06",
+        "op": "tap",
+        "x": 191,
+        "y": 790,
+        "wait": 1800,
+        "note": "A third enter-style button is a little repetitive, but the table and objects make me want to poke around.",
+        "replayed": true
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
+      "screenshotUrl": null,
+      "text": "Recorded UI replay for continuation, not a new first impression."
+    },
+    {
+      "number": 7,
+      "at": "2026-10-06T18:43:03.282Z",
+      "action": {
+        "id": "07",
+        "op": "tap",
+        "x": 47,
+        "y": 563,
+        "wait": 1500,
+        "note": "The little perfume bottle is the object I notice first. The five-item counter gives me a simple reason to explore.",
+        "replayed": true
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
+      "screenshotUrl": null,
+      "text": "Recorded UI replay for continuation, not a new first impression."
+    },
+    {
+      "number": 8,
+      "at": "2026-10-06T18:43:04.599Z",
+      "action": {
+        "id": "08",
+        "op": "tap",
+        "x": 137,
+        "y": 611,
+        "wait": 1300,
+        "note": "The bottle produced a labelled fragment instead of a generic popup. Now I want to try the key, which looks like it might lead somewhere.",
+        "replayed": true
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
+      "screenshotUrl": null,
+      "text": "Recorded UI replay for continuation, not a new first impression."
+    },
+    {
+      "number": 9,
+      "at": "2026-10-06T18:43:05.818Z",
+      "action": {
+        "id": "09",
+        "op": "tap",
+        "x": 218,
+        "y": 537,
+        "wait": 1200,
+        "note": "The key is another small story, not a usable key. I am enjoying the short object captions and will try the cup next.",
+        "replayed": true
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
+      "screenshotUrl": null,
+      "text": "Recorded UI replay for continuation, not a new first impression."
+    },
+    {
+      "number": 10,
+      "at": "2026-10-06T18:43:07.136Z",
+      "action": {
+        "id": "10",
+        "op": "tap",
+        "x": 370,
+        "y": 566,
+        "wait": 1300,
+        "note": "Three of five found. There seems to be a plush toy partly outside the right edge, so I will try the visible part.",
+        "replayed": true
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
+      "screenshotUrl": null,
+      "text": "Recorded UI replay for continuation, not a new first impression."
+    },
+    {
+      "number": 11,
+      "at": "2026-10-06T18:43:08.756Z",
+      "action": {
+        "id": "11",
+        "op": "tap",
+        "x": 11,
+        "y": 430,
+        "wait": 1600,
+        "note": "Only one remains. The tall gold-and-glass object is mostly cut off at the left, but the visible piece looks worth touching.",
+        "replayed": true
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
+      "screenshotUrl": null,
+      "text": "Recorded UI replay for continuation, not a new first impression."
+    },
+    {
+      "number": 12,
+      "at": "2026-10-06T18:43:15.756Z",
+      "action": {
+        "id": "12",
+        "op": "wait",
+        "wait": 7000,
+        "note": "Five of five. I have read the last fragment and want to see whether finishing the collection changes the scene.",
+        "replayed": true
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
+      "screenshotUrl": null,
+      "text": "Recorded UI replay for continuation, not a new first impression."
+    },
+    {
+      "number": 13,
+      "at": "2026-10-06T18:43:17.969Z",
+      "action": {
+        "id": "13",
+        "op": "tap",
+        "x": 329,
+        "y": 451,
+        "wait": 2200,
+        "note": "The completed collection led to a clear close-up doorway with an invitation to touch it. This reads as the next step, so touch the glowing opening.",
+        "replayed": true
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
+      "screenshotUrl": null,
+      "text": "Recorded UI replay for continuation, not a new first impression."
+    },
+    {
+      "number": 14,
+      "at": "2026-10-06T18:43:24.970Z",
+      "action": {
+        "id": "14",
+        "op": "wait",
+        "wait": 7000,
+        "note": "The doorway reacted and the invitation text disappeared. Let the transition finish rather than repeatedly tapping.",
+        "replayed": true
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#quiet",
+      "screenshotUrl": null,
+      "text": "Recorded UI replay for continuation, not a new first impression."
+    },
+    {
+      "number": 15,
+      "at": "2026-10-06T18:43:28.506Z",
+      "action": {
+        "op": "reconstructed-arrival",
+        "source": {
+          "path": "live-results/first-time-visual-001/state.json",
+          "ref": "341c1cc83f8b06e165d26a5915eb92f4b311e92d",
+          "through": "14",
+          "expectedHash": "#quiet"
+        }
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#quiet",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/8853b20ab67466a262c9b761fb90b6bec7035e52/live-results/first-time-gogo-isolated-002/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n庭が、空よりも高く昇りはじめた。\n\nひとひらだけ、帰る道を選ぶのを見た。\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    }
+  ]
+}
