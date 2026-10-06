@@ -1,10 +1,7 @@
 {
-  "id": "a25",
-  "op": "scroll",
-  "x": 355,
-  "y": 694,
-  "dy": 554,
-  "dx": 0,
-  "note": "The diary opens at today's form. I want to find the tile and my sentence that I just brought back.",
+  "id": "a26",
+  "op": "key",
+  "key": "PageDown",
+  "note": "The harness's wheel operation is unsupported on mobile WebKit; using a normal PageDown key to look below the diary form.",
   "wait": 800
 }
