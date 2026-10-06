@@ -1,8 +1,8 @@
 {
-  "id": "004-touch-sample",
+  "id": "005-carry-sample",
   "op": "tap",
-  "x": 117,
+  "x": 195,
   "y": 538,
   "wait": 300,
-  "note": "The introduction offers a little Touch button; I want to see whether the example itself responds."
+  "note": "Touch lit up blue. I want to try Carry home too; perhaps these are samples of what I can do later."
 }
