@@ -1,0 +1,48 @@
+name: Observer screenshot delivery
+on:
+  push:
+    branches: [main]
+    paths: ['live-control/first-time-visual-001.json']
+permissions:
+  contents: read
+jobs:
+  deliver:
+    runs-on: ubuntu-latest
+    timeout-minutes: 4
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: live-control
+      - name: Copy the requested observer frame
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          node <<'JS'
+          const fs=require('node:fs');
+          const repo=process.env.GITHUB_REPOSITORY;
+          const cmd=JSON.parse(fs.readFileSync('live-control/first-time-visual-001.json','utf8'));
+          const base='https://api.github.com/repos/'+repo+'/contents/';
+          const headers={Authorization:'Bearer '+process.env.GH_TOKEN,Accept:'application/vnd.github+json'};
+          (async()=>{
+            let s;
+            for(let i=0;i<45;i++){
+              const r=await fetch(base+'live-results/first-time-visual-001/state.json?ref=main',{headers});
+              if(!r.ok)throw Error('state fetch '+r.status);
+              const v=await r.json();s=JSON.parse(Buffer.from(v.content,'base64').toString());
+              if(s.lastCommand===cmd.id)break;
+              await new Promise(r=>setTimeout(r,2000));
+            }
+            if(s.lastCommand!==cmd.id)throw Error('observer has not processed '+cmd.id);
+            fs.mkdirSync('frame',{recursive:true});
+            fs.writeFileSync('frame/state.json',JSON.stringify(s,null,2));
+            const r=await fetch(s.screenshotUrl);if(!r.ok)throw Error('image fetch '+r.status);
+            fs.writeFileSync('frame/current.jpg',Buffer.from(await r.arrayBuffer()));
+            console.log('Delivered command '+cmd.id+' '+s.url);
+          })().catch(e=>{console.error(e);process.exitCode=1});
+          JS
+      - uses: actions/upload-artifact@v4
+        with:
+          name: observer-frame
+          path: frame/
+          retention-days: 1
+          if-no-files-found: error
