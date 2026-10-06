@@ -1,1 +1,1 @@
-{"id":"09","op":"reload","wait":1800,"note":"Reload while the discovered teacup card is still open; I want to know whether this interruption leaves me where I was."}
+{"id":"10","op":"tap","x":336,"y":770,"wait":1000,"note":"Check the next page for the teacup found before the reload."}
