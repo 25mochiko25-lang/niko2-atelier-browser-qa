@@ -1,8 +1,8 @@
 {
-  "id": "031-close-memory",
+  "id": "032-home",
   "op": "tap",
-  "x": 337,
-  "y": 40,
-  "wait": 600,
-  "note": "The thread and my words really stayed together. I will close this keepsake and look for other places in the atelier."
+  "x": 72,
+  "y": 79,
+  "wait": 1000,
+  "note": "I want to see what Home contains after bringing something back from the dream."
 }
