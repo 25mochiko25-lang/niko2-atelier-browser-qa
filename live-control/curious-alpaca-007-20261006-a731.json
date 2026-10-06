@@ -1,8 +1,8 @@
 {
-  "id": "037-check-in",
+  "id": "038-order-yesterday",
   "op": "tap",
-  "x": 95,
-  "y": 732,
-  "wait": 900,
-  "note": "The room looks quiet and nocturnal after the pink garden. I want to check in and see whether the empty silver tray or telephone can do something."
+  "x": 149,
+  "y": 312,
+  "wait": 1100,
+  "note": "Yesterday costs zero and its taste depends on storage. That is the first item I genuinely want to order from this impossible menu."
 }
