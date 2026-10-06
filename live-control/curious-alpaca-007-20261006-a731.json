@@ -1,8 +1,7 @@
 {
-  "id": "051-back-to-atelier",
-  "op": "tap",
-  "x": 91,
-  "y": 34,
-  "wait": 1000,
-  "note": "I want the atelier's main room again, to choose a new direction."
+  "id": "052-below-entrance",
+  "op": "key",
+  "key": "PageDown",
+  "wait": 650,
+  "note": "WORLD is peeking out below the jeweled entrance. I want to look below the first screen instead of immediately repeating the garden."
 }
