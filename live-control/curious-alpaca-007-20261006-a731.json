@@ -1,8 +1,8 @@
 {
-  "id": "050-close-hotel-record",
+  "id": "051-back-to-atelier",
   "op": "tap",
-  "x": 337,
-  "y": 77,
-  "wait": 550,
-  "note": "The record contains the room photograph and ROOM 000 key, but I do not yet see what door it opens. I want to explore the wider atelier next."
+  "x": 91,
+  "y": 34,
+  "wait": 1000,
+  "note": "I want the atelier's main room again, to choose a new direction."
 }
