@@ -5,19 +5,18 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-06T18:33:15.438Z",
-  "updatedAt": "2026-10-06T19:01:16.694Z",
-  "lastCommand": "078-hotel-home",
+  "updatedAt": "2026-10-06T19:01:31.652Z",
+  "lastCommand": "079-return-to-world-link",
   "stopReason": null,
   "action": {
-    "id": "078-hotel-home",
-    "op": "tap",
-    "x": 35,
-    "y": 102,
-    "wait": 750,
-    "note": "Dream returned me to Hotel rather than a choice menu. I am going back to the atelier to visit Research Lab, which I noticed earlier but did not choose then."
+    "id": "079-return-to-world-link",
+    "op": "key",
+    "key": "PageDown",
+    "wait": 500,
+    "note": "Return to the visible WORLD entrance below the hero."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/78b67fd2fe2b42f21261dea6b5149d5bf290717a/live-results/curious-alpaca-007-20261006-a731/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/08d7f6fffe135429e18b61bb2414a393bd1df4d0/live-results/curious-alpaca-007-20261006-a731/current.jpg",
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -44,35 +43,24 @@
     },
     {
       "tag": "A",
-      "text": "FROM THE ATELIERを開く",
+      "text": "WORLDを開く",
       "disabled": false,
       "rect": {
-        "x": 279,
-        "y": 274,
-        "w": 91,
-        "h": 92
+        "x": 23,
+        "y": 246,
+        "w": 343,
+        "h": 193
       }
     },
     {
       "tag": "A",
-      "text": "Diaryを開く",
+      "text": "ABOUT\nもふもふはいます。",
       "disabled": false,
       "rect": {
-        "x": 14,
-        "y": 298,
-        "w": 147,
-        "h": 147
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "Enter the dream",
-      "disabled": false,
-      "rect": {
-        "x": 90,
-        "y": 494,
-        "w": 210,
-        "h": 70
+        "x": 43,
+        "y": 723,
+        "w": 304,
+        "h": 252
       }
     }
   ],
@@ -1351,6 +1339,21 @@
       "error": null,
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/78b67fd2fe2b42f21261dea6b5149d5bf290717a/live-results/curious-alpaca-007-20261006-a731/current.jpg",
+      "text": "作品へ移動\n \nWORLD\nWORLD\n水面の向こうに、いくつかの場所がひらいています。\n\n\nABOUT\nもふもふはいます。\nPLAY / SHARE / FAN WORK\nNIKO²での生活について\n好きな形で遊ぶための、小さな境界。\nDEAR ATELIER\nお手紙を送る\nAtelierの受取箱へ。\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+      "number": 80,
+      "at": "2026-10-06T19:01:31.652Z",
+      "action": {
+        "id": "079-return-to-world-link",
+        "op": "key",
+        "key": "PageDown",
+        "wait": 500,
+        "note": "Return to the visible WORLD entrance below the hero."
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/08d7f6fffe135429e18b61bb2414a393bd1df4d0/live-results/curious-alpaca-007-20261006-a731/current.jpg",
       "text": "作品へ移動\n \nWORLD\nWORLD\n水面の向こうに、いくつかの場所がひらいています。\n\n\nABOUT\nもふもふはいます。\nPLAY / SHARE / FAN WORK\nNIKO²での生活について\n好きな形で遊ぶための、小さな境界。\nDEAR ATELIER\nお手紙を送る\nAtelierの受取箱へ。\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
     }
   ]
