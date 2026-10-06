@@ -1,8 +1,7 @@
 {
-  "id": "087-focus-specimen-sheet",
-  "op": "tap",
-  "x": 239,
-  "y": 632,
-  "wait": 200,
-  "note": "The specimen sheet continues below the fold. I want to read the small-print observations."
+  "id": "088-specimen-lower",
+  "op": "key",
+  "key": "PageDown",
+  "wait": 450,
+  "note": "Read the rest of this in-world specimen record."
 }
