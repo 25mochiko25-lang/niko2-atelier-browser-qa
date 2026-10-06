@@ -1,8 +1,8 @@
 {
-  "id": "071-restored-page",
+  "id": "072-restored-directory",
   "op": "tap",
-  "x": 193,
-  "y": 670,
-  "wait": 750,
-  "note": "The restored line is a real new link, in a differently outlined box. I want to open mirror/last_seen.html."
+  "x": 55,
+  "y": 511,
+  "wait": 550,
+  "note": "The restored cache lists Yesterday and ROOM 000, exactly what I ordered. I want to return and inspect the deliberately named lost page before leaving this computer."
 }
