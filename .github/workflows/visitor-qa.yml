@@ -37,9 +37,6 @@ on:
 permissions:
   contents: write
 
-concurrency:
-  group: public-browser-qa-writer
-  cancel-in-progress: false
 
 jobs:
   visitor:
@@ -113,18 +110,30 @@ jobs:
         shell: bash
         run: |
           set -euo pipefail
-          mkdir -p results
           NAME="${{ steps.req.outputs.request }}"
           DEST="results/${{ github.run_id }}-$NAME.json"
+          TMP="$(mktemp)"
           if [ -f qa-output/result.json ]; then
-            cp qa-output/result.json "$DEST"
+            cp qa-output/result.json "$TMP"
           else
-            printf '{"fatal":"runner produced no result","runId":"%s"}\n' "${{ github.run_id }}" > "$DEST"
+            printf '{"fatal":"runner produced no result","runId":"%s"}\n' "${{ github.run_id }}" > "$TMP"
           fi
 
           git config user.name "niko2-browser-qa"
           git config user.email "niko2-browser-qa@users.noreply.github.com"
-          git pull --rebase origin main
-          git add "$DEST"
-          git commit -m "qa: save $NAME browser result" || exit 0
-          git push origin HEAD:main
+
+          for attempt in 1 2 3 4 5; do
+            git fetch origin main
+            git reset --hard origin/main
+            mkdir -p results
+            cp "$TMP" "$DEST"
+            git add "$DEST"
+            git commit -m "qa: save $NAME browser result" || exit 0
+            if git push origin HEAD:main; then
+              exit 0
+            fi
+            sleep $((attempt * 2))
+          done
+
+          echo "Could not publish result after 5 attempts" >&2
+          exit 1
