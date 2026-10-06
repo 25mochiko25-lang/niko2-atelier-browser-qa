@@ -1,8 +1,8 @@
 {
-  "id": "a68",
+  "id": "a69",
   "op": "tap",
-  "x": 75,
-  "y": 517,
-  "note": "The old hotel page links to the current hotel, after a guest review whose stay date has not arrived. I want to cross from this little web page into that place.",
-  "wait": 1300
+  "x": 96,
+  "y": 731,
+  "note": "The old page actually led to a hotel room. The front desk says I can stay for the first three nights, so I want to check in and see the room service.",
+  "wait": 1100
 }
