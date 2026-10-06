@@ -2,7 +2,7 @@ import fs from 'node:fs';
 import path from 'node:path';
 import { createRequire } from 'node:module';
 const require = createRequire(import.meta.url);
-const { webkit } = require(process.env.PLAYWRIGHT_MODULE || 'playwright');
+const { webkit } = require(process.env.PLAYWRIGHT_MODULE || '/tmp/niko2-browser-qa/node_modules/playwright');
 
 const TARGET = process.env.TARGET || 'https://niko2-atelier-combined-preview.25mochiko25.workers.dev/';
 const PERSONA = process.env.PERSONA || 'first-time';
