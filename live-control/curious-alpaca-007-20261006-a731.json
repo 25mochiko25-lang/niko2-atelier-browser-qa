@@ -1,8 +1,8 @@
 {
-  "id": "009-enter-garden",
+  "id": "010-ribbon-key",
   "op": "tap",
-  "x": 195,
-  "y": 790,
-  "wait": 1200,
-  "note": "The abandoned tea table has a key with a ribbon on it. I want to step into this sky and investigate the table."
+  "x": 138,
+  "y": 611,
+  "wait": 1100,
+  "note": "The ribboned key caught my eye before I knew the task. Keys make me wonder what door they belong to."
 }
