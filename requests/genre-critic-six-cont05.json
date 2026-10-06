@@ -1,0 +1,18 @@
+{
+  "mode":"guided-continuation",
+  "persona":"genre-fan",
+  "target":"https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+  "storageState":"results/37510390068-genre-critic-six-cont03/storage-state.json",
+  "sessionStorage":"results/37510390068-genre-critic-six-cont03/session-storage.json",
+  "actions":[
+    {"kind":"tap","selector":".home-diary-entry","label":"return-to-diary","wait":1300},
+    {"kind":"tap","selector":"#openCabinetThreshold","label":"revisit-cabinet","wait":1500},
+    {"kind":"tap","selector":"#enterCabinet","label":"enter-if-threshold-present","timeout":2000,"optional":true,"wait":2000,"picture":true},
+    {"kind":"tap","point":[142,377],"label":"touch-drawer-glass-knot","wait":1600,"picture":true},
+    {"kind":"tap","point":[266,459],"label":"touch-drawer-bottle","wait":1600,"picture":true},
+    {"kind":"tap","point":[212,594],"label":"touch-drawer-disk","wait":1600,"picture":true},
+    {"kind":"tap","selector":".wordmark:visible","label":"leave-cabinet-for-home","wait":1500},
+    {"kind":"tap","selector":".unknown-entry","label":"open-unknown-doorway","wait":2500,"picture":true},
+    {"kind":"wait","ms":5000,"label":"watch-unknown-room","picture":true}
+  ]
+}
