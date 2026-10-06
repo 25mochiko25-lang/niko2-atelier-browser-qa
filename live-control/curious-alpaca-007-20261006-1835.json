@@ -1,8 +1,8 @@
 {
-  "id": "a76",
+  "id": "a77",
   "op": "tap",
-  "x": 196,
-  "y": 315,
-  "note": "The hotel and the garden now sit as two recent cards. I want to open the new hotel record before checking out.",
-  "wait": 800
+  "x": 336,
+  "y": 77,
+  "note": "The hotel record has both Yesterday and Someone Else's Rain attached to it. I want to return and properly check out before finishing this visit.",
+  "wait": 500
 }
