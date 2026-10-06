@@ -1,61 +1,51 @@
 name: Public genre critic browser QA
-
 on:
   push:
     branches: [main]
     paths:
       - 'requests/genre-critic-*.json'
-
 permissions:
   contents: write
-
 concurrency:
-  group: public-browser-qa-genre
+  group: public-browser-qa-genre-container
   cancel-in-progress: false
-
+defaults:
+  run:
+    shell: bash
 jobs:
   genre-critic:
     runs-on: ubuntu-latest
-    timeout-minutes: 12
+    container:
+      image: mcr.microsoft.com/playwright:v1.55.0-noble
+    timeout-minutes: 10
     steps:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 2
-
       - uses: actions/setup-node@v4
         with:
           node-version: 22
-
+      - name: Trust checked-out workspace
+        run: git config --global --add safe.directory "$GITHUB_WORKSPACE"
       - name: Resolve genre critic request
         id: req
-        shell: bash
         run: |
           set -euo pipefail
           REQUEST="$(git diff-tree --no-commit-id --name-only -r "$GITHUB_SHA" | grep -E '^requests/genre-critic-[^/]+\.json$' | tail -n 1 || true)"
-          if [ -z "$REQUEST" ]; then
-            echo "No genre critic request JSON found" >&2
-            exit 1
-          fi
+          test -n "$REQUEST"
           node - "$REQUEST" "$GITHUB_OUTPUT" <<'NODE'
           const fs=require('fs');
           const [,,file,out]=process.argv;
           const x=JSON.parse(fs.readFileSync(file,'utf8'));
           const clean=v=>String(v??'').replace(/[\r\n]/g,' ').trim();
-          fs.appendFileSync(out,
-            'target='+clean(x.target||'https://niko2-atelier-combined-preview.25mochiko25.workers.dev/')+'\n'+
-            'request='+file.replace(/^requests\//,'').replace(/\.json$/,'')+'\n'+
-            'continuation='+(x.mode==='guided-continuation'?'true':'false')+'\n'
-          );
+          fs.appendFileSync(out,'target='+clean(x.target||'https://niko2-atelier-combined-preview.25mochiko25.workers.dev/')+'\n'+'request='+file.replace(/^requests\//,'').replace(/\.json$/,'')+'\n'+'continuation='+(x.mode==='guided-continuation'?'true':'false')+'\n');
           NODE
-
-      - name: Install Playwright WebKit
-        run: |
-          npm install --prefix /tmp/niko2-browser-qa --no-save --no-package-lock playwright@1.55.0
-          /tmp/niko2-browser-qa/node_modules/.bin/playwright install --with-deps webkit
-
+      - name: Install Playwright package
+        run: npm install --prefix /tmp/niko2-browser-qa --no-save --no-package-lock playwright@1.55.0
       - name: Run genre-savvy critic
         env:
           PLAYWRIGHT_MODULE: /tmp/niko2-browser-qa/node_modules/playwright
+          PLAYWRIGHT_BROWSERS_PATH: /ms-playwright
           TARGET: ${{ steps.req.outputs.target }}
           REQUEST: ${{ steps.req.outputs.request }}
           CONTINUATION: ${{ steps.req.outputs.continuation }}
@@ -68,31 +58,24 @@ jobs:
           else
             node qa/genre_critic.mjs | tee qa-output-genre-critic-summary.txt
           fi
-
       - name: Save evidence to public QA repo
         if: always()
-        shell: bash
         run: |
           set -euo pipefail
           NAME="${{ steps.req.outputs.request }}"
           DEST="results/${{ github.run_id }}-$NAME"
           mkdir -p "$DEST"
-          if [ -d qa-output/genre-critic ]; then
-            cp -f qa-output/genre-critic/* "$DEST"/ 2>/dev/null || true
-          fi
-          if [ ! -f "$DEST/observations.json" ]; then
-            printf '{"fatal":"genre critic runner produced no observations","runId":"%s"}\n' "${{ github.run_id }}" > "$DEST/observations.json"
-          fi
+          if [ -d qa-output/genre-critic ]; then cp -f qa-output/genre-critic/* "$DEST"/ 2>/dev/null || true; fi
+          if [ ! -f "$DEST/observations.json" ]; then printf '{"fatal":"genre critic runner produced no observations","runId":"%s"}\n' "${{ github.run_id }}" > "$DEST/observations.json"; fi
           git config user.name "niko2-browser-qa"
           git config user.email "niko2-browser-qa@users.noreply.github.com"
           git add "$DEST"
           git commit -m "qa: save $NAME genre critic evidence" || exit 0
-          for attempt in 1 2 3; do
+          for attempt in 1 2 3 4 5; do
             git pull --rebase origin main
             git push origin HEAD:main && break
             sleep 2
           done
-
       - name: Export critic-six evidence
         if: always() && steps.req.outputs.continuation == 'true'
         continue-on-error: true
