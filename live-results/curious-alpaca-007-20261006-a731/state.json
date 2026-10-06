@@ -5,19 +5,19 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-06T18:33:15.438Z",
-  "updatedAt": "2026-10-06T18:39:36.664Z",
-  "lastCommand": "017-bear",
+  "updatedAt": "2026-10-06T18:39:56.359Z",
+  "lastCommand": "018-bear-book",
   "stopReason": null,
   "action": {
-    "id": "017-bear",
+    "id": "018-bear-book",
     "op": "tap",
-    "x": 367,
-    "y": 575,
-    "wait": 1000,
-    "note": "A soft toy is sitting just at the right edge of the chair. I want to know who has been left at this tea table."
+    "x": 375,
+    "y": 640,
+    "wait": 250,
+    "note": "There is a pale book beside the toy at the right edge. I want its stray sentence before looking for the last counted object."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/0eb784ba35717a11cb314c0336ed70b73f3d955c/live-results/curious-alpaca-007-20261006-a731/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/f2b4f7a4bd0fc98337e6c6df06f28b7e3b519dd5/live-results/curious-alpaca-007-20261006-a731/current.jpg",
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -29,7 +29,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n4 / 5\n見つけたもの\nCG-01-A_04.DRM\n03:39:33\n\nFRAGMENT / 04\n\n置き去りのくま\n名前はもうない。それでも、いつもの方を向いている。\n取っ手の向こうで、鍵穴の光がひとつ消えた。\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n4 / 5\n見つけたもの\n頁のあいだから、まだ枯れていない昨日が滑り落ちた。\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
   "controls": [
     {
       "tag": "BUTTON",
@@ -183,17 +183,6 @@
         "y": 118,
         "w": 90,
         "h": 118
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "見つけた記憶を閉じる",
-      "disabled": false,
-      "rect": {
-        "x": 324,
-        "y": 654,
-        "w": 24,
-        "h": 23
       }
     }
   ],
@@ -485,6 +474,22 @@
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/0eb784ba35717a11cb314c0336ed70b73f3d955c/live-results/curious-alpaca-007-20261006-a731/current.jpg",
       "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n4 / 5\n見つけたもの\nCG-01-A_04.DRM\n03:39:33\n\nFRAGMENT / 04\n\n置き去りのくま\n名前はもうない。それでも、いつもの方を向いている。\n取っ手の向こうで、鍵穴の光がひとつ消えた。\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+      "number": 19,
+      "at": "2026-10-06T18:39:56.359Z",
+      "action": {
+        "id": "018-bear-book",
+        "op": "tap",
+        "x": 375,
+        "y": 640,
+        "wait": 250,
+        "note": "There is a pale book beside the toy at the right edge. I want its stray sentence before looking for the last counted object."
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/f2b4f7a4bd0fc98337e6c6df06f28b7e3b519dd5/live-results/curious-alpaca-007-20261006-a731/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n4 / 5\n見つけたもの\n頁のあいだから、まだ枯れていない昨日が滑り落ちた。\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
     }
   ]
 }
