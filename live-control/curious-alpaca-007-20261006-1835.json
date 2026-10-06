@@ -1,8 +1,7 @@
 {
-  "id": "a77",
-  "op": "tap",
-  "x": 336,
-  "y": 77,
-  "note": "The hotel record has both Yesterday and Someone Else's Rain attached to it. I want to return and properly check out before finishing this visit.",
-  "wait": 500
+  "id": "a78",
+  "op": "key",
+  "key": "PageUp",
+  "note": "Returning to the diary's visible hotel-return banner to finish the stay.",
+  "wait": 700
 }
