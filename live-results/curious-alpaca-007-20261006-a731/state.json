@@ -5,19 +5,19 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-06T18:33:15.438Z",
-  "updatedAt": "2026-10-06T18:39:16.970Z",
-  "lastCommand": "016-warm-cup",
+  "updatedAt": "2026-10-06T18:39:36.664Z",
+  "lastCommand": "017-bear",
   "stopReason": null,
   "action": {
-    "id": "016-warm-cup",
+    "id": "017-bear",
     "op": "tap",
-    "x": 219,
-    "y": 540,
+    "x": 367,
+    "y": 575,
     "wait": 1000,
-    "note": "The empty place setting feels inhabited. I want the cup's fragment after the teapot's departing steam."
+    "note": "A soft toy is sitting just at the right edge of the chair. I want to know who has been left at this tea table."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/474989249023196c6f707c850422606aaeddb360/live-results/curious-alpaca-007-20261006-a731/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/0eb784ba35717a11cb314c0336ed70b73f3d955c/live-results/curious-alpaca-007-20261006-a731/current.jpg",
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -29,7 +29,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n3 / 5\n見つけたもの\nCG-01-A_03.DRM\n03:39:13\n\nFRAGMENT / 03\n\nまだあたたかいカップ\nほんのり湯気が残る。まだ、誰かの気配がする。\n取っ手の向こうで、鍵穴の光がひとつ消えた。\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n4 / 5\n見つけたもの\nCG-01-A_04.DRM\n03:39:33\n\nFRAGMENT / 04\n\n置き去りのくま\n名前はもうない。それでも、いつもの方を向いている。\n取っ手の向こうで、鍵穴の光がひとつ消えた。\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
   "controls": [
     {
       "tag": "BUTTON",
@@ -88,7 +88,7 @@
     },
     {
       "tag": "BUTTON",
-      "text": "置き去りのくまに触れる",
+      "text": "置き去りのくま（発見済み）",
       "disabled": false,
       "rect": {
         "x": 335,
@@ -191,7 +191,7 @@
       "disabled": false,
       "rect": {
         "x": 324,
-        "y": 673,
+        "y": 654,
         "w": 24,
         "h": 23
       }
@@ -469,6 +469,22 @@
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/474989249023196c6f707c850422606aaeddb360/live-results/curious-alpaca-007-20261006-a731/current.jpg",
       "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n3 / 5\n見つけたもの\nCG-01-A_03.DRM\n03:39:13\n\nFRAGMENT / 03\n\nまだあたたかいカップ\nほんのり湯気が残る。まだ、誰かの気配がする。\n取っ手の向こうで、鍵穴の光がひとつ消えた。\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+      "number": 18,
+      "at": "2026-10-06T18:39:36.664Z",
+      "action": {
+        "id": "017-bear",
+        "op": "tap",
+        "x": 367,
+        "y": 575,
+        "wait": 1000,
+        "note": "A soft toy is sitting just at the right edge of the chair. I want to know who has been left at this tea table."
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/0eb784ba35717a11cb314c0336ed70b73f3d955c/live-results/curious-alpaca-007-20261006-a731/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n4 / 5\n見つけたもの\nCG-01-A_04.DRM\n03:39:33\n\nFRAGMENT / 04\n\n置き去りのくま\n名前はもうない。それでも、いつもの方を向いている。\n取っ手の向こうで、鍵穴の光がひとつ消えた。\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
     }
   ]
 }
