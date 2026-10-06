@@ -1,8 +1,8 @@
 {
-  "id": "090-close-reading-table",
+  "id": "091-lab-storage",
   "op": "tap",
-  "x": 359,
-  "y": 159,
-  "wait": 500,
-  "note": "Close the reading table to reach the physical back door."
+  "x": 199,
+  "y": 392,
+  "wait": 850,
+  "note": "The door behind the desk was visible from the start. I want to go farther into the laboratory, rather than read every item on the first table."
 }
