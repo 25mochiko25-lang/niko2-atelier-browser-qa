@@ -1,0 +1,33 @@
+name: First-time GOGO isolated continuation
+on:
+  push:
+    branches: [qa/first-time-gogo-isolated-002]
+    paths: ['.github/workflows/first-time-gogo-isolated.yml']
+permissions:
+  contents: write
+jobs:
+  observe:
+    runs-on: ubuntu-latest
+    container:
+      image: mcr.microsoft.com/playwright:v1.55.0-noble
+    timeout-minutes: 90
+    defaults:
+      run:
+        shell: bash
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Prepare isolated continuation
+        run: |
+          cat > /tmp/session.json <<'JSON'
+          {"session":"first-time-gogo-isolated-002","target":"https://niko2-atelier-combined-preview.25mochiko25.workers.dev/","replay":{"path":"live-results/first-time-visual-001/state.json","ref":"341c1cc83f8b06e165d26a5915eb92f4b311e92d","through":"17","expectedHash":"#diary"}}
+          JSON
+          npm install --prefix /tmp/niko2-live-observer --no-save --no-package-lock playwright@1.55.0
+      - name: Continue until observer chooses to leave
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+          PLAYWRIGHT_BROWSERS_PATH: /ms-playwright
+          SESSION_REQUEST: /tmp/session.json
+        run: node qa/first-time-resume-launcher.mjs
