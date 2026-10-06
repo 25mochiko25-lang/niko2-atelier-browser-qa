@@ -1,7 +1,8 @@
 {
-  "id": "029-diary-page-down",
-  "op": "key",
-  "key": "PageDown",
-  "wait": 500,
-  "note": "The harness cannot send a wheel event to mobile WebKit, so I am using the ordinary PageDown key to continue looking at my saved diary. This is an infrastructure limitation, not a site failure."
+  "id": "030-reopen-keepsake",
+  "op": "tap",
+  "x": 193,
+  "y": 313,
+  "wait": 900,
+  "note": "My sentence is now on a bear photograph under Recent. I want to open it again and see whether the small thread stayed with the scene."
 }
