@@ -5,20 +5,20 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-06T18:33:15.438Z",
-  "updatedAt": "2026-10-06T18:44:15.335Z",
-  "lastCommand": "031-close-memory",
+  "updatedAt": "2026-10-06T18:44:30.468Z",
+  "lastCommand": "032-home",
   "stopReason": null,
   "action": {
-    "id": "031-close-memory",
+    "id": "032-home",
     "op": "tap",
-    "x": 337,
-    "y": 40,
-    "wait": 600,
-    "note": "The thread and my words really stayed together. I will close this keepsake and look for other places in the atelier."
+    "x": 72,
+    "y": 79,
+    "wait": 1000,
+    "note": "I want to see what Home contains after bringing something back from the dream."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/6a5c8c2bf6d22552f08e741c1d44597cd684cc05/live-results/curious-alpaca-007-20261006-a731/current.jpg",
-  "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#diary",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/1ebed760d768a2332dc6afdce2b3c44177fa0e05/live-results/curious-alpaca-007-20261006-a731/current.jpg",
+  "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
   "title": "NIKO² ATELIER",
   "viewport": {
     "width": 390,
@@ -29,30 +29,8 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\nNIKO² ATELIER\nHome\n\n\n\n\nNIKO² DIARY\nDiary\n今日のことを、ひとつだけ。\n10月7日 03:42\n持ち帰った夢が、まだ手元にあります。\n← さっきの空へ戻る\nTODAY\n今日を残す\n✦\nいまの気配\n\n静か\n\nきらきら\n\nぼんやり\n\nざわざわ\n\n甘い\n\n雨っぽい\n\n眠い\n\n何もない\nPHOTO\n写真\n選択なし\n色・モチーフ\nOPTIONAL\n言葉\nOPTIONAL\nこの端末だけに残ります\n残す\nRECENT\n少し前の自分\n\n糸だけ持って帰ってきた。くまはまだ、空を…\n10/7\n2026年10月\nMONTHLY REFLECTION\n今月の景色\nよく残った気配\n静かな余白\nよく残った色\n色のない紙片\nよく残ったモチーフ\n名前のないもの\nまだ記録が少ないので、傾向ではなく、残ったものをそのまま眺めています。\nもう少し見る\nARCHIVE\n前の日々をひらく\n\nWHAT REMAINED\n残ったものを見る\nアトリエへ戻る\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+  "text": "作品へ移動\n \nWORLD\nWORLD\n水面の向こうに、いくつかの場所がひらいています。\n\n\nABOUT\nもふもふはいます。\nPLAY / SHARE / FAN WORK\nNIKO²での生活について\n好きな形で遊ぶための、小さな境界。\nDEAR ATELIER\nお手紙を送る\nAtelierの受取箱へ。\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAFTER THE GARDEN\nいくつかのものに触れ、 最後の景色まで進みました。\n次へ",
   "controls": [
-    {
-      "tag": "A",
-      "text": "NIKO² ATELIER",
-      "disabled": false,
-      "rect": {
-        "x": 25,
-        "y": 13,
-        "w": 124,
-        "h": 44
-      }
-    },
-    {
-      "tag": "A",
-      "text": "Home",
-      "disabled": false,
-      "rect": {
-        "x": 25,
-        "y": 57,
-        "w": 124,
-        "h": 44
-      }
-    },
     {
       "tag": "BUTTON",
       "text": "音をオンにする",
@@ -65,377 +43,47 @@
       }
     },
     {
-      "tag": "BUTTON",
-      "text": "",
+      "tag": "A",
+      "text": "FROM THE ATELIERを開く",
       "disabled": false,
       "rect": {
-        "x": 52,
-        "y": -38,
-        "w": 92,
-        "h": 39
+        "x": 279,
+        "y": 274,
+        "w": 91,
+        "h": 92
+      }
+    },
+    {
+      "tag": "A",
+      "text": "Diaryを開く",
+      "disabled": false,
+      "rect": {
+        "x": 14,
+        "y": 298,
+        "w": 147,
+        "h": 147
       }
     },
     {
       "tag": "BUTTON",
-      "text": "",
+      "text": "Enter the dream",
       "disabled": false,
       "rect": {
-        "x": 149,
-        "y": -38,
-        "w": 92,
-        "h": 39
+        "x": 90,
+        "y": 494,
+        "w": 210,
+        "h": 70
       }
     },
     {
       "tag": "BUTTON",
-      "text": "",
+      "text": "次へ",
       "disabled": false,
       "rect": {
-        "x": 246,
-        "y": -38,
-        "w": 92,
-        "h": 39
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "",
-      "disabled": false,
-      "rect": {
-        "x": 52,
-        "y": 5,
-        "w": 92,
-        "h": 39
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "",
-      "disabled": false,
-      "rect": {
-        "x": 149,
-        "y": 5,
-        "w": 92,
-        "h": 39
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "",
-      "disabled": false,
-      "rect": {
-        "x": 246,
-        "y": 5,
-        "w": 92,
-        "h": 39
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "",
-      "disabled": false,
-      "rect": {
-        "x": 53,
-        "y": 57,
-        "w": 75,
-        "h": 40
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "写真の一覧を左へ",
-      "disabled": true,
-      "rect": {
-        "x": 241,
-        "y": 55,
-        "w": 44,
+        "x": 300,
+        "y": 748,
+        "w": 72,
         "h": 44
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "写真の一覧を右へ",
-      "disabled": false,
-      "rect": {
-        "x": 293,
-        "y": 55,
-        "w": 44,
-        "h": 44
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "自販機・選ぶ",
-      "disabled": false,
-      "rect": {
-        "x": 55,
-        "y": 111,
-        "w": 119,
-        "h": 153
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "駅ホーム・選ぶ",
-      "disabled": false,
-      "rect": {
-        "x": 159,
-        "y": 113,
-        "w": 118,
-        "h": 152
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "改札・選ぶ",
-      "disabled": false,
-      "rect": {
-        "x": 263,
-        "y": 114,
-        "w": 116,
-        "h": 151
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "電車の窓・選ぶ",
-      "disabled": false,
-      "rect": {
-        "x": 365,
-        "y": 114,
-        "w": 118,
-        "h": 152
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "淡いラベンダー",
-      "disabled": false,
-      "rect": {
-        "x": 54,
-        "y": 52,
-        "w": 47,
-        "h": 51
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "花びらのピンク",
-      "disabled": false,
-      "rect": {
-        "x": 112,
-        "y": 52,
-        "w": 48,
-        "h": 51
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "朝の水色",
-      "disabled": false,
-      "rect": {
-        "x": 170,
-        "y": 52,
-        "w": 47,
-        "h": 51
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "真珠色",
-      "disabled": false,
-      "rect": {
-        "x": 228,
-        "y": 52,
-        "w": 48,
-        "h": 51
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "淡いミント",
-      "disabled": false,
-      "rect": {
-        "x": 286,
-        "y": 52,
-        "w": 47,
-        "h": 51
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "淡いパールブルー",
-      "disabled": false,
-      "rect": {
-        "x": 54,
-        "y": 114,
-        "w": 48,
-        "h": 51
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "",
-      "disabled": false,
-      "rect": {
-        "x": 55,
-        "y": 209,
-        "w": 51,
-        "h": 42
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "",
-      "disabled": false,
-      "rect": {
-        "x": 114,
-        "y": 209,
-        "w": 48,
-        "h": 42
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "",
-      "disabled": false,
-      "rect": {
-        "x": 171,
-        "y": 209,
-        "w": 51,
-        "h": 42
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "",
-      "disabled": false,
-      "rect": {
-        "x": 230,
-        "y": 209,
-        "w": 73,
-        "h": 42
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "",
-      "disabled": false,
-      "rect": {
-        "x": 55,
-        "y": 259,
-        "w": 115,
-        "h": 42
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "",
-      "disabled": false,
-      "rect": {
-        "x": 178,
-        "y": 259,
-        "w": 67,
-        "h": 42
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "",
-      "disabled": false,
-      "rect": {
-        "x": 253,
-        "y": 259,
-        "w": 53,
-        "h": 42
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "",
-      "disabled": false,
-      "rect": {
-        "x": 55,
-        "y": 309,
-        "w": 55,
-        "h": 42
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "",
-      "disabled": false,
-      "rect": {
-        "x": 118,
-        "y": 309,
-        "w": 55,
-        "h": 42
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "",
-      "disabled": false,
-      "rect": {
-        "x": 181,
-        "y": 309,
-        "w": 48,
-        "h": 42
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "",
-      "disabled": false,
-      "rect": {
-        "x": 237,
-        "y": 309,
-        "w": 55,
-        "h": 42
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "",
-      "disabled": false,
-      "rect": {
-        "x": 55,
-        "y": 359,
-        "w": 71,
-        "h": 42
-      }
-    },
-    {
-      "tag": "TEXTAREA",
-      "text": "ひとことだけでも、長くても。",
-      "disabled": false,
-      "rect": {
-        "x": 55,
-        "y": 78,
-        "w": 280,
-        "h": 52
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "残す",
-      "disabled": true,
-      "rect": {
-        "x": 220,
-        "y": 84,
-        "w": 128,
-        "h": 48
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "糸だけ持って帰ってきた。くまはまだ、空を…\n10/7",
-      "disabled": false,
-      "rect": {
-        "x": 38,
-        "y": 238,
-        "w": 313,
-        "h": 170
       }
     }
   ],
@@ -956,6 +604,22 @@
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#diary",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/6a5c8c2bf6d22552f08e741c1d44597cd684cc05/live-results/curious-alpaca-007-20261006-a731/current.jpg",
       "text": "作品へ移動\nNIKO² ATELIER\nHome\n\n\n\n\nNIKO² DIARY\nDiary\n今日のことを、ひとつだけ。\n10月7日 03:42\n持ち帰った夢が、まだ手元にあります。\n← さっきの空へ戻る\nTODAY\n今日を残す\n✦\nいまの気配\n\n静か\n\nきらきら\n\nぼんやり\n\nざわざわ\n\n甘い\n\n雨っぽい\n\n眠い\n\n何もない\nPHOTO\n写真\n選択なし\n色・モチーフ\nOPTIONAL\n言葉\nOPTIONAL\nこの端末だけに残ります\n残す\nRECENT\n少し前の自分\n\n糸だけ持って帰ってきた。くまはまだ、空を…\n10/7\n2026年10月\nMONTHLY REFLECTION\n今月の景色\nよく残った気配\n静かな余白\nよく残った色\n色のない紙片\nよく残ったモチーフ\n名前のないもの\nまだ記録が少ないので、傾向ではなく、残ったものをそのまま眺めています。\nもう少し見る\nARCHIVE\n前の日々をひらく\n\nWHAT REMAINED\n残ったものを見る\nアトリエへ戻る\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+      "number": 33,
+      "at": "2026-10-06T18:44:30.468Z",
+      "action": {
+        "id": "032-home",
+        "op": "tap",
+        "x": 72,
+        "y": 79,
+        "wait": 1000,
+        "note": "I want to see what Home contains after bringing something back from the dream."
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/1ebed760d768a2332dc6afdce2b3c44177fa0e05/live-results/curious-alpaca-007-20261006-a731/current.jpg",
+      "text": "作品へ移動\n \nWORLD\nWORLD\n水面の向こうに、いくつかの場所がひらいています。\n\n\nABOUT\nもふもふはいます。\nPLAY / SHARE / FAN WORK\nNIKO²での生活について\n好きな形で遊ぶための、小さな境界。\nDEAR ATELIER\nお手紙を送る\nAtelierの受取箱へ。\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAFTER THE GARDEN\nいくつかのものに触れ、 最後の景色まで進みました。\n次へ"
     }
   ]
 }
