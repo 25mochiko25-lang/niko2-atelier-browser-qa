@@ -1,1 +1,1 @@
-{"id":"33-key","op":"tap","x":264,"y":564,"wait":1300,"note":"The blue drop did not visibly open anything. Try the ribboned key once. I am beginning to wonder whether the whole drawer is only an illustration rather than something I can use."}
+{"id":"34-cabinet-lower","op":"key","key":"PageDown","wait":900,"note":"A second object also did not open anything. Before leaving, check once whether the actual belongings are below this illustration. I do not want to hunt arbitrary invisible click points."}
