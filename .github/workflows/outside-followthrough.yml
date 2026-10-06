@@ -1,0 +1,69 @@
+name: Outside critic followthrough
+on:
+  push:
+    branches: [main]
+    paths: ['requests/outside-followthrough-*.json']
+permissions:
+  contents: write
+jobs:
+  review:
+    runs-on: ubuntu-latest
+    container:
+      image: mcr.microsoft.com/playwright:v1.55.0-noble
+    defaults:
+      run:
+        shell: bash
+    timeout-minutes: 9
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Resolve the new review request
+        id: req
+        run: |
+          git config --global --add safe.directory "$GITHUB_WORKSPACE"
+          FILE="$(git diff-tree --no-commit-id --name-only -r "$GITHUB_SHA" | grep -E '^requests/outside-followthrough-[^/]+\.json$' | head -n 1)"
+          test -n "$FILE"
+          echo "file=$FILE" >> "$GITHUB_OUTPUT"
+      - name: Install browser client and validate script
+        run: |
+          npm install --prefix /tmp/niko2-browser-qa --no-save --no-package-lock playwright@1.55.0
+          node --check qa/outside_followthrough.mjs
+      - name: Follow visible choices and complete their outcomes
+        env:
+          REQUEST_FILE: ${{ steps.req.outputs.file }}
+          PLAYWRIGHT_BROWSERS_PATH: /ms-playwright
+        run: node qa/outside_followthrough.mjs "$REQUEST_FILE"
+      - name: Save review text without product source or browser storage
+        if: always()
+        run: |
+          test -f qa-output/outside-followthrough/evidence.md || exit 0
+          cp qa-output/outside-followthrough/evidence.md /tmp/outside-evidence.md
+          cp qa-output/outside-followthrough/observations.json /tmp/outside-observations.json
+          git config user.name 'niko2-browser-qa'
+          git config user.email 'niko2-browser-qa@users.noreply.github.com'
+          for n in 1 2 3 4 5; do
+            git fetch origin main
+            git reset --hard origin/main
+            DEST="results/${GITHUB_RUN_ID}-outside-followthrough"
+            mkdir -p "$DEST"
+            cp /tmp/outside-evidence.md "$DEST/evidence.md"
+            cp /tmp/outside-observations.json "$DEST/observations.json"
+            git add "$DEST"
+            git commit -m 'qa: save outside-critic continuation evidence' || exit 0
+            if git push origin HEAD:main; then exit 0; fi
+            sleep $((n*2))
+          done
+          exit 1
+      - name: Retain rendered screens temporarily
+        if: always()
+        continue-on-error: true
+        uses: actions/upload-artifact@v4
+        with:
+          name: outside-review-screens
+          path: qa-output/outside-followthrough/*.jpg
+          if-no-files-found: ignore
+          retention-days: 1
