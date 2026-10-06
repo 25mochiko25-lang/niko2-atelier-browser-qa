@@ -5,19 +5,18 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-06T18:31:03.762Z",
-  "updatedAt": "2026-10-06T18:57:54.160Z",
-  "lastCommand": "a77",
+  "updatedAt": "2026-10-06T18:58:11.557Z",
+  "lastCommand": "a78",
   "stopReason": null,
   "action": {
-    "id": "a77",
-    "op": "tap",
-    "x": 336,
-    "y": 77,
-    "note": "The hotel record has both Yesterday and Someone Else's Rain attached to it. I want to return and properly check out before finishing this visit.",
-    "wait": 500
+    "id": "a78",
+    "op": "key",
+    "key": "PageUp",
+    "note": "Returning to the diary's visible hotel-return banner to finish the stay.",
+    "wait": 700
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/89fe2a95e0024527018d7ecce913280d5757c532/live-results/curious-alpaca-007-20261006-1835/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/7933d5ea6cd8930c1a4f1c6977df968a9e004cc5/live-results/curious-alpaca-007-20261006-1835/current.jpg",
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#diary",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -88,11 +87,110 @@
     },
     {
       "tag": "BUTTON",
+      "text": "← HOTEL SOMNIAへ戻る",
+      "disabled": false,
+      "rect": {
+        "x": 216,
+        "y": 258,
+        "w": 140,
+        "h": 40
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "静か",
+      "disabled": false,
+      "rect": {
+        "x": 42,
+        "y": 428,
+        "w": 84,
+        "h": 44
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "きらきら",
+      "disabled": false,
+      "rect": {
+        "x": 133,
+        "y": 428,
+        "w": 99,
+        "h": 44
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "ぼんやり",
+      "disabled": false,
+      "rect": {
+        "x": 239,
+        "y": 428,
+        "w": 109,
+        "h": 44
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "ざわざわ",
+      "disabled": false,
+      "rect": {
+        "x": 42,
+        "y": 481,
+        "w": 99,
+        "h": 44
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "甘い",
+      "disabled": false,
+      "rect": {
+        "x": 148,
+        "y": 481,
+        "w": 81,
+        "h": 44
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "雨っぽい",
+      "disabled": false,
+      "rect": {
+        "x": 236,
+        "y": 481,
+        "w": 112,
+        "h": 44
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "眠い",
+      "disabled": false,
+      "rect": {
+        "x": 42,
+        "y": 534,
+        "w": 91,
+        "h": 44
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "何もない",
+      "disabled": false,
+      "rect": {
+        "x": 140,
+        "y": 534,
+        "w": 112,
+        "h": 44
+      }
+    },
+    {
+      "tag": "BUTTON",
       "text": "",
       "disabled": false,
       "rect": {
         "x": 52,
-        "y": -38,
+        "y": 637,
         "w": 92,
         "h": 39
       }
@@ -103,7 +201,7 @@
       "disabled": false,
       "rect": {
         "x": 149,
-        "y": -38,
+        "y": 637,
         "w": 92,
         "h": 39
       }
@@ -114,7 +212,7 @@
       "disabled": false,
       "rect": {
         "x": 246,
-        "y": -38,
+        "y": 637,
         "w": 92,
         "h": 39
       }
@@ -125,7 +223,7 @@
       "disabled": false,
       "rect": {
         "x": 52,
-        "y": 5,
+        "y": 680,
         "w": 92,
         "h": 39
       }
@@ -136,7 +234,7 @@
       "disabled": false,
       "rect": {
         "x": 149,
-        "y": 5,
+        "y": 680,
         "w": 92,
         "h": 39
       }
@@ -147,7 +245,7 @@
       "disabled": false,
       "rect": {
         "x": 246,
-        "y": 5,
+        "y": 680,
         "w": 92,
         "h": 39
       }
@@ -158,7 +256,7 @@
       "disabled": false,
       "rect": {
         "x": 53,
-        "y": 57,
+        "y": 732,
         "w": 75,
         "h": 40
       }
@@ -169,7 +267,7 @@
       "disabled": true,
       "rect": {
         "x": 241,
-        "y": 55,
+        "y": 730,
         "w": 44,
         "h": 44
       }
@@ -180,7 +278,7 @@
       "disabled": false,
       "rect": {
         "x": 293,
-        "y": 55,
+        "y": 730,
         "w": 44,
         "h": 44
       }
@@ -191,7 +289,7 @@
       "disabled": false,
       "rect": {
         "x": 55,
-        "y": 111,
+        "y": 786,
         "w": 119,
         "h": 153
       }
@@ -202,7 +300,7 @@
       "disabled": false,
       "rect": {
         "x": 159,
-        "y": 113,
+        "y": 788,
         "w": 118,
         "h": 152
       }
@@ -213,7 +311,7 @@
       "disabled": false,
       "rect": {
         "x": 263,
-        "y": 114,
+        "y": 789,
         "w": 116,
         "h": 151
       }
@@ -224,7 +322,7 @@
       "disabled": false,
       "rect": {
         "x": 365,
-        "y": 114,
+        "y": 789,
         "w": 118,
         "h": 152
       }
@@ -235,7 +333,7 @@
       "disabled": false,
       "rect": {
         "x": 54,
-        "y": 52,
+        "y": 727,
         "w": 47,
         "h": 51
       }
@@ -246,7 +344,7 @@
       "disabled": false,
       "rect": {
         "x": 112,
-        "y": 52,
+        "y": 727,
         "w": 48,
         "h": 51
       }
@@ -257,7 +355,7 @@
       "disabled": false,
       "rect": {
         "x": 170,
-        "y": 52,
+        "y": 727,
         "w": 47,
         "h": 51
       }
@@ -268,7 +366,7 @@
       "disabled": false,
       "rect": {
         "x": 228,
-        "y": 52,
+        "y": 727,
         "w": 48,
         "h": 51
       }
@@ -279,7 +377,7 @@
       "disabled": false,
       "rect": {
         "x": 286,
-        "y": 52,
+        "y": 727,
         "w": 47,
         "h": 51
       }
@@ -290,141 +388,9 @@
       "disabled": false,
       "rect": {
         "x": 54,
-        "y": 114,
+        "y": 789,
         "w": 48,
         "h": 51
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "",
-      "disabled": false,
-      "rect": {
-        "x": 55,
-        "y": 209,
-        "w": 51,
-        "h": 42
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "",
-      "disabled": false,
-      "rect": {
-        "x": 114,
-        "y": 209,
-        "w": 48,
-        "h": 42
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "",
-      "disabled": false,
-      "rect": {
-        "x": 171,
-        "y": 209,
-        "w": 51,
-        "h": 42
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "",
-      "disabled": false,
-      "rect": {
-        "x": 230,
-        "y": 209,
-        "w": 73,
-        "h": 42
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "",
-      "disabled": false,
-      "rect": {
-        "x": 55,
-        "y": 259,
-        "w": 115,
-        "h": 42
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "",
-      "disabled": false,
-      "rect": {
-        "x": 178,
-        "y": 259,
-        "w": 67,
-        "h": 42
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "",
-      "disabled": false,
-      "rect": {
-        "x": 253,
-        "y": 259,
-        "w": 53,
-        "h": 42
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "",
-      "disabled": false,
-      "rect": {
-        "x": 55,
-        "y": 309,
-        "w": 55,
-        "h": 42
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "",
-      "disabled": false,
-      "rect": {
-        "x": 118,
-        "y": 309,
-        "w": 55,
-        "h": 42
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "",
-      "disabled": false,
-      "rect": {
-        "x": 181,
-        "y": 309,
-        "w": 48,
-        "h": 42
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "",
-      "disabled": false,
-      "rect": {
-        "x": 237,
-        "y": 309,
-        "w": 55,
-        "h": 42
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "",
-      "disabled": false,
-      "rect": {
-        "x": 55,
-        "y": 359,
-        "w": 71,
-        "h": 42
       }
     },
     {
@@ -433,7 +399,7 @@
       "disabled": false,
       "rect": {
         "x": 55,
-        "y": 78,
+        "y": 753,
         "w": 280,
         "h": 52
       }
@@ -444,31 +410,9 @@
       "disabled": true,
       "rect": {
         "x": 220,
-        "y": 84,
+        "y": 759,
         "w": 128,
         "h": 48
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "HOTEL SOMNIA\n10/7",
-      "disabled": false,
-      "rect": {
-        "x": 39,
-        "y": 239,
-        "w": 312,
-        "h": 168
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "お城より先に、床のかけらを拾ってしまった…\n10/7",
-      "disabled": false,
-      "rect": {
-        "x": 38,
-        "y": 421,
-        "w": 313,
-        "h": 170
       }
     }
   ],
@@ -1728,6 +1672,21 @@
       "error": null,
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#diary",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/89fe2a95e0024527018d7ecce913280d5757c532/live-results/curious-alpaca-007-20261006-1835/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\nDream\nDiary\nAbout\n\n\n\n\nNIKO² DIARY\nDiary\n今日のことを、ひとつだけ。\n10月7日 03:56\nROOM 0317は、まだチェックアウトしていません。\n← HOTEL SOMNIAへ戻る\nTODAY\n今日を残す\n✦\nいまの気配\n\n静か\n\nきらきら\n\nぼんやり\n\nざわざわ\n\n甘い\n\n雨っぽい\n\n眠い\n\n何もない\nPHOTO\n写真\n選択なし\n色・モチーフ\nOPTIONAL\n言葉\nOPTIONAL\nこの端末だけに残ります\n残す\nRECENT\n少し前の自分\n\nHOTEL SOMNIA\n10/7\n\nお城より先に、床のかけらを拾ってしまった…\n10/7\n2026年10月\nMONTHLY REFLECTION\n今月の景色\nよく残った気配\n雨っぽい\nよく残った色\n色のない紙片\nよく残ったモチーフ\nSomeone Else's Rain\nまだ記録が少ないので、傾向ではなく、残ったものをそのまま眺めています。\nもう少し見る\nARCHIVE\n前の日々をひらく\n\nWHAT REMAINED\n残ったものを見る\nアトリエへ戻る\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+      "number": 79,
+      "at": "2026-10-06T18:58:11.556Z",
+      "action": {
+        "id": "a78",
+        "op": "key",
+        "key": "PageUp",
+        "note": "Returning to the diary's visible hotel-return banner to finish the stay.",
+        "wait": 700
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#diary",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/7933d5ea6cd8930c1a4f1c6977df968a9e004cc5/live-results/curious-alpaca-007-20261006-1835/current.jpg",
       "text": "作品へ移動\nNIKO² ATELIER\nDream\nDiary\nAbout\n\n\n\n\nNIKO² DIARY\nDiary\n今日のことを、ひとつだけ。\n10月7日 03:56\nROOM 0317は、まだチェックアウトしていません。\n← HOTEL SOMNIAへ戻る\nTODAY\n今日を残す\n✦\nいまの気配\n\n静か\n\nきらきら\n\nぼんやり\n\nざわざわ\n\n甘い\n\n雨っぽい\n\n眠い\n\n何もない\nPHOTO\n写真\n選択なし\n色・モチーフ\nOPTIONAL\n言葉\nOPTIONAL\nこの端末だけに残ります\n残す\nRECENT\n少し前の自分\n\nHOTEL SOMNIA\n10/7\n\nお城より先に、床のかけらを拾ってしまった…\n10/7\n2026年10月\nMONTHLY REFLECTION\n今月の景色\nよく残った気配\n雨っぽい\nよく残った色\n色のない紙片\nよく残ったモチーフ\nSomeone Else's Rain\nまだ記録が少ないので、傾向ではなく、残ったものをそのまま眺めています。\nもう少し見る\nARCHIVE\n前の日々をひらく\n\nWHAT REMAINED\n残ったものを見る\nアトリエへ戻る\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
     }
   ]
