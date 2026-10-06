@@ -1,7 +1,8 @@
 {
-  "id": "048-hotel-record-down",
-  "op": "key",
-  "key": "PageDown",
-  "wait": 450,
-  "note": "I want to open the new hotel entry under Recent."
+  "id": "049-read-hotel-record",
+  "op": "tap",
+  "x": 190,
+  "y": 253,
+  "wait": 850,
+  "note": "I want the hotel entry itself; the original bear memory is still visible beneath it."
 }
