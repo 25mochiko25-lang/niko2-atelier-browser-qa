@@ -1,1 +1,1 @@
-{"id":"07","op":"tap","x":50,"y":417,"wait":1300,"note":"Touch the pale flowers in the vase on the left of the tea table, chosen from the image rather than hidden hitboxes."}
+{"id":"08","op":"tap","x":220,"y":536,"wait":1800,"note":"The vase flowers produced no persistent visible response. The teacup is a clearer object, so inspect it next."}
