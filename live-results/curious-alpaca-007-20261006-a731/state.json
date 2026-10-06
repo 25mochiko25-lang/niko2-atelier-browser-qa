@@ -5,19 +5,19 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-06T18:33:15.438Z",
-  "updatedAt": "2026-10-06T18:58:34.230Z",
-  "lastCommand": "071-restored-page",
+  "updatedAt": "2026-10-06T18:59:18.407Z",
+  "lastCommand": "072-restored-directory",
   "stopReason": null,
   "action": {
-    "id": "071-restored-page",
+    "id": "072-restored-directory",
     "op": "tap",
-    "x": 193,
-    "y": 670,
-    "wait": 750,
-    "note": "The restored line is a real new link, in a differently outlined box. I want to open mirror/last_seen.html."
+    "x": 55,
+    "y": 511,
+    "wait": 550,
+    "note": "The restored cache lists Yesterday and ROOM 000, exactly what I ordered. I want to return and inspect the deliberately named lost page before leaving this computer."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/f88b1abbcc551a062cf69d80ae471c2dd460715f/live-results/curious-alpaca-007-20261006-a731/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/13eb807531f48315dd7a011b582c396055bf466f/live-results/curious-alpaca-007-20261006-a731/current.jpg",
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#channel0",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -29,7 +29,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\nNIKO² ATELIER\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCHANNEL / CH-00\nCHANNEL 00\n6 pages\n‹\n›\n⌂\nhttp://mirror.channel00/last_seen.html\n×\nLAST SEEN / CACHE\nこの頁は前回と同じではありません。\n\n巡った頁：6\n\n古いキャッシュは、閲覧された順番だけを覚えています。\n\nLOCAL CACHE / SOURCE UNKNOWN\nYesterday / ROOM 000\ndirectory\ncached page changed / connection stable\n閲覧の断片を持ち帰る\n\n\n\n\n\n",
+  "text": "作品へ移動\nNIKO² ATELIER\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCHANNEL / CH-00\nCHANNEL 00\n6 pages\n‹\n›\n⌂\nchannel00://home/index.html\n×\nCHANNEL 00 LINK DIRECTORY\nYOU ARE VISITOR No. 0001\n\nようこそ、存在しなかったインターネットへ。\n\n好きなリンクからどうぞ。戻れなくなることは、たぶんありません。\n\nMARI'S PRESSED FLOWERS\nsodaの日記\nCloud Garden Weather\nHotel Somnia 公式頁\nLavender BBS\nMoonlight Web Ring\nNIKO² ATELIER / old\nlost_page.html\nRESTORED: mirror/last_seen.html\n\ncached page changed / connection stable\n閲覧の断片を持ち帰る\n\n\n\n\n\n",
   "controls": [
     {
       "tag": "A",
@@ -110,13 +110,90 @@
     },
     {
       "tag": "BUTTON",
-      "text": "directory",
+      "text": "MARI'S PRESSED FLOWERS",
       "disabled": false,
       "rect": {
         "x": 25,
-        "y": 494,
-        "w": 60,
-        "h": 35
+        "y": 412,
+        "w": 340,
+        "h": 46
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "sodaの日記",
+      "disabled": false,
+      "rect": {
+        "x": 25,
+        "y": 471,
+        "w": 340,
+        "h": 46
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Cloud Garden Weather",
+      "disabled": false,
+      "rect": {
+        "x": 25,
+        "y": 530,
+        "w": 340,
+        "h": 46
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Hotel Somnia 公式頁",
+      "disabled": false,
+      "rect": {
+        "x": 25,
+        "y": 589,
+        "w": 340,
+        "h": 46
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Lavender BBS",
+      "disabled": false,
+      "rect": {
+        "x": 25,
+        "y": 648,
+        "w": 340,
+        "h": 46
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Moonlight Web Ring",
+      "disabled": false,
+      "rect": {
+        "x": 25,
+        "y": 707,
+        "w": 340,
+        "h": 46
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "NIKO² ATELIER / old",
+      "disabled": false,
+      "rect": {
+        "x": 25,
+        "y": 766,
+        "w": 340,
+        "h": 46
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "lost_page.html",
+      "disabled": false,
+      "rect": {
+        "x": 25,
+        "y": 825,
+        "w": 340,
+        "h": 46
       }
     },
     {
@@ -1296,6 +1373,22 @@
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#channel0",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/f88b1abbcc551a062cf69d80ae471c2dd460715f/live-results/curious-alpaca-007-20261006-a731/current.jpg",
       "text": "作品へ移動\nNIKO² ATELIER\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCHANNEL / CH-00\nCHANNEL 00\n6 pages\n‹\n›\n⌂\nhttp://mirror.channel00/last_seen.html\n×\nLAST SEEN / CACHE\nこの頁は前回と同じではありません。\n\n巡った頁：6\n\n古いキャッシュは、閲覧された順番だけを覚えています。\n\nLOCAL CACHE / SOURCE UNKNOWN\nYesterday / ROOM 000\ndirectory\ncached page changed / connection stable\n閲覧の断片を持ち帰る\n\n\n\n\n\n"
+    },
+    {
+      "number": 73,
+      "at": "2026-10-06T18:59:18.407Z",
+      "action": {
+        "id": "072-restored-directory",
+        "op": "tap",
+        "x": 55,
+        "y": 511,
+        "wait": 550,
+        "note": "The restored cache lists Yesterday and ROOM 000, exactly what I ordered. I want to return and inspect the deliberately named lost page before leaving this computer."
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#channel0",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/13eb807531f48315dd7a011b582c396055bf466f/live-results/curious-alpaca-007-20261006-a731/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCHANNEL / CH-00\nCHANNEL 00\n6 pages\n‹\n›\n⌂\nchannel00://home/index.html\n×\nCHANNEL 00 LINK DIRECTORY\nYOU ARE VISITOR No. 0001\n\nようこそ、存在しなかったインターネットへ。\n\n好きなリンクからどうぞ。戻れなくなることは、たぶんありません。\n\nMARI'S PRESSED FLOWERS\nsodaの日記\nCloud Garden Weather\nHotel Somnia 公式頁\nLavender BBS\nMoonlight Web Ring\nNIKO² ATELIER / old\nlost_page.html\nRESTORED: mirror/last_seen.html\n\ncached page changed / connection stable\n閲覧の断片を持ち帰る\n\n\n\n\n\n"
     }
   ]
 }
