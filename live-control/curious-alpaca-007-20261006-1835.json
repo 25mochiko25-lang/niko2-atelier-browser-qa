@@ -1,7 +1,8 @@
 {
-  "id": "a53",
-  "op": "key",
-  "key": "PageDown",
-  "note": "I see WORLD beginning below the entrance, so I want to look farther down the Home page.",
-  "wait": 800
+  "id": "a54",
+  "op": "tap",
+  "x": 203,
+  "y": 347,
+  "note": "The dark reflective hall with several glowing doorways looks like the place to choose a new adventure.",
+  "wait": 1300
 }
