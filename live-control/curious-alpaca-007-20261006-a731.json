@@ -1,8 +1,8 @@
 {
-  "id": "063-lavender-bbs",
+  "id": "064-browser-back",
   "op": "tap",
-  "x": 196,
-  "y": 671,
-  "wait": 650,
-  "note": "An old-fashioned bulletin board suggests little conversations or traces of other visitors. I want to read Lavender BBS."
+  "x": 31,
+  "y": 132,
+  "wait": 550,
+  "note": "The BBS jumps from ordinary 2001 greetings to someone in 2031 saying this place still exists. I want to go back within this little browser and visit mari's flowers."
 }
