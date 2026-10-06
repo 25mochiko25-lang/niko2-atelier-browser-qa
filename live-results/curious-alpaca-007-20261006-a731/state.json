@@ -5,18 +5,19 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-06T18:33:15.438Z",
-  "updatedAt": "2026-10-06T18:59:50.452Z",
-  "lastCommand": "074-directory-lower",
+  "updatedAt": "2026-10-06T19:00:07.930Z",
+  "lastCommand": "075-lost-page",
   "stopReason": null,
   "action": {
-    "id": "074-directory-lower",
-    "op": "key",
-    "key": "PageDown",
-    "wait": 450,
-    "note": "Move to the lower directory links, where lost_page.html was seen."
+    "id": "075-lost-page",
+    "op": "tap",
+    "x": 195,
+    "y": 586,
+    "wait": 650,
+    "note": "A link named lost_page.html in an internet that never existed is too tempting to ignore. I want to see whether the missing page has something to say."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/00f98e0babda717f385e667989b205a29dbe58a2/live-results/curious-alpaca-007-20261006-a731/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/3d7715fdc9f0f1dd46cb42c1425dbfbad2793290/live-results/curious-alpaca-007-20261006-a731/current.jpg",
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#channel0",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -28,7 +29,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\nNIKO² ATELIER\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCHANNEL / CH-00\nCHANNEL 00\n6 pages\n‹\n›\n⌂\nchannel00://home/index.html\n×\nCHANNEL 00 LINK DIRECTORY\nYOU ARE VISITOR No. 0001\n\nようこそ、存在しなかったインターネットへ。\n\n好きなリンクからどうぞ。戻れなくなることは、たぶんありません。\n\nMARI'S PRESSED FLOWERS\nsodaの日記\nCloud Garden Weather\nHotel Somnia 公式頁\nLavender BBS\nMoonlight Web Ring\nNIKO² ATELIER / old\nlost_page.html\nRESTORED: mirror/last_seen.html\n\ncached page changed / connection stable\n閲覧の断片を持ち帰る\n\n\n\n\n\n",
+  "text": "作品へ移動\nNIKO² ATELIER\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCHANNEL / CH-00\nCHANNEL 00\n7 pages\n‹\n›\n⌂\nhttp://channel00.invalid/lost_page.html\n×\n404 / DREAM NOT FOUND\nページは見つかりません。\n\nリンク先は昨日まで存在していました。\n\n安全な頁へ戻る\ncached page changed / connection stable\n閲覧の断片を持ち帰る\n\n\n\n\n\n",
   "controls": [
     {
       "tag": "A",
@@ -109,100 +110,12 @@
     },
     {
       "tag": "BUTTON",
-      "text": "MARI'S PRESSED FLOWERS",
+      "text": "安全な頁へ戻る",
       "disabled": false,
       "rect": {
-        "x": 25,
-        "y": 151,
-        "w": 340,
-        "h": 46
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "sodaの日記",
-      "disabled": false,
-      "rect": {
-        "x": 25,
-        "y": 210,
-        "w": 340,
-        "h": 46
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "Cloud Garden Weather",
-      "disabled": false,
-      "rect": {
-        "x": 25,
-        "y": 269,
-        "w": 340,
-        "h": 46
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "Hotel Somnia 公式頁",
-      "disabled": false,
-      "rect": {
-        "x": 25,
-        "y": 328,
-        "w": 340,
-        "h": 46
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "Lavender BBS",
-      "disabled": false,
-      "rect": {
-        "x": 25,
-        "y": 387,
-        "w": 340,
-        "h": 46
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "Moonlight Web Ring",
-      "disabled": false,
-      "rect": {
-        "x": 25,
-        "y": 446,
-        "w": 340,
-        "h": 46
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "NIKO² ATELIER / old",
-      "disabled": false,
-      "rect": {
-        "x": 25,
-        "y": 505,
-        "w": 340,
-        "h": 46
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "lost_page.html",
-      "disabled": false,
-      "rect": {
-        "x": 25,
-        "y": 564,
-        "w": 340,
-        "h": 46
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "mirror/last_seen.html",
-      "disabled": false,
-      "rect": {
-        "x": 129,
-        "y": 653,
-        "w": 126,
+        "x": 26,
+        "y": 354,
+        "w": 99,
         "h": 35
       }
     },
@@ -1430,6 +1343,22 @@
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#channel0",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/00f98e0babda717f385e667989b205a29dbe58a2/live-results/curious-alpaca-007-20261006-a731/current.jpg",
       "text": "作品へ移動\nNIKO² ATELIER\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCHANNEL / CH-00\nCHANNEL 00\n6 pages\n‹\n›\n⌂\nchannel00://home/index.html\n×\nCHANNEL 00 LINK DIRECTORY\nYOU ARE VISITOR No. 0001\n\nようこそ、存在しなかったインターネットへ。\n\n好きなリンクからどうぞ。戻れなくなることは、たぶんありません。\n\nMARI'S PRESSED FLOWERS\nsodaの日記\nCloud Garden Weather\nHotel Somnia 公式頁\nLavender BBS\nMoonlight Web Ring\nNIKO² ATELIER / old\nlost_page.html\nRESTORED: mirror/last_seen.html\n\ncached page changed / connection stable\n閲覧の断片を持ち帰る\n\n\n\n\n\n"
+    },
+    {
+      "number": 76,
+      "at": "2026-10-06T19:00:07.930Z",
+      "action": {
+        "id": "075-lost-page",
+        "op": "tap",
+        "x": 195,
+        "y": 586,
+        "wait": 650,
+        "note": "A link named lost_page.html in an internet that never existed is too tempting to ignore. I want to see whether the missing page has something to say."
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#channel0",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/3d7715fdc9f0f1dd46cb42c1425dbfbad2793290/live-results/curious-alpaca-007-20261006-a731/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCHANNEL / CH-00\nCHANNEL 00\n7 pages\n‹\n›\n⌂\nhttp://channel00.invalid/lost_page.html\n×\n404 / DREAM NOT FOUND\nページは見つかりません。\n\nリンク先は昨日まで存在していました。\n\n安全な頁へ戻る\ncached page changed / connection stable\n閲覧の断片を持ち帰る\n\n\n\n\n\n"
     }
   ]
 }
