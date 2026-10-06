@@ -1,8 +1,8 @@
 {
-  "id": "082-lab-enter",
+  "id": "083-observation-book",
   "op": "tap",
-  "x": 102,
-  "y": 646,
-  "wait": 800,
-  "note": "The laboratory is studying a cloud in a glass vessel. I want to enter and find what the observation desk contains."
+  "x": 99,
+  "y": 549,
+  "wait": 750,
+  "note": "The red book on the observation desk feels like a logbook for the impossible things I have been seeing. I want to open it."
 }
