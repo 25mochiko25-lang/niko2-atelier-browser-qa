@@ -1,8 +1,10 @@
 {
-  "id": "a24",
-  "op": "tap",
-  "x": 198,
-  "y": 754,
-  "note": "I want to keep the tile together with the sentence I just wrote.",
-  "wait": 1600
+  "id": "a25",
+  "op": "scroll",
+  "x": 355,
+  "y": 694,
+  "dy": 554,
+  "dx": 0,
+  "note": "The diary opens at today's form. I want to find the tile and my sentence that I just brought back.",
+  "wait": 800
 }
