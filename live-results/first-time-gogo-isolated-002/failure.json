@@ -1,11 +1,11 @@
 {
   "session": "first-time-gogo-isolated-002",
   "stopReason": "infrastructure_error",
-  "error": "Error: Replay did not reach expected page: https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#quiet",
+  "error": "Error: GitHub 409: {\"message\":\"is at 4d849dfccd438c846ace538699fd5f69f570a754 but expected 5a519d19585e7ac7bd885dc9f0dcdd8dd7bf847e\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"409\"}",
   "events": [
     {
       "number": 1,
-      "at": "2026-10-06T18:36:11.231Z",
+      "at": "2026-10-06T18:37:58.811Z",
       "action": {
         "id": "01",
         "op": "tap",
@@ -22,7 +22,7 @@
     },
     {
       "number": 2,
-      "at": "2026-10-06T18:36:12.237Z",
+      "at": "2026-10-06T18:37:59.821Z",
       "action": {
         "id": "02",
         "op": "tap",
@@ -39,7 +39,7 @@
     },
     {
       "number": 3,
-      "at": "2026-10-06T18:36:13.044Z",
+      "at": "2026-10-06T18:38:00.628Z",
       "action": {
         "id": "03",
         "op": "tap",
@@ -56,7 +56,7 @@
     },
     {
       "number": 4,
-      "at": "2026-10-06T18:36:14.050Z",
+      "at": "2026-10-06T18:38:01.637Z",
       "action": {
         "id": "04",
         "op": "tap",
@@ -73,7 +73,7 @@
     },
     {
       "number": 5,
-      "at": "2026-10-06T18:36:15.862Z",
+      "at": "2026-10-06T18:38:03.454Z",
       "action": {
         "id": "05",
         "op": "tap",
@@ -90,7 +90,7 @@
     },
     {
       "number": 6,
-      "at": "2026-10-06T18:36:17.669Z",
+      "at": "2026-10-06T18:38:05.265Z",
       "action": {
         "id": "06",
         "op": "tap",
@@ -107,7 +107,7 @@
     },
     {
       "number": 7,
-      "at": "2026-10-06T18:36:19.195Z",
+      "at": "2026-10-06T18:38:06.805Z",
       "action": {
         "id": "07",
         "op": "tap",
@@ -124,7 +124,7 @@
     },
     {
       "number": 8,
-      "at": "2026-10-06T18:36:20.508Z",
+      "at": "2026-10-06T18:38:08.122Z",
       "action": {
         "id": "08",
         "op": "tap",
@@ -141,7 +141,7 @@
     },
     {
       "number": 9,
-      "at": "2026-10-06T18:36:21.719Z",
+      "at": "2026-10-06T18:38:09.340Z",
       "action": {
         "id": "09",
         "op": "tap",
@@ -158,7 +158,7 @@
     },
     {
       "number": 10,
-      "at": "2026-10-06T18:36:23.028Z",
+      "at": "2026-10-06T18:38:10.659Z",
       "action": {
         "id": "10",
         "op": "tap",
@@ -175,7 +175,7 @@
     },
     {
       "number": 11,
-      "at": "2026-10-06T18:36:24.643Z",
+      "at": "2026-10-06T18:38:12.275Z",
       "action": {
         "id": "11",
         "op": "tap",
@@ -192,7 +192,7 @@
     },
     {
       "number": 12,
-      "at": "2026-10-06T18:36:31.644Z",
+      "at": "2026-10-06T18:38:19.276Z",
       "action": {
         "id": "12",
         "op": "wait",
@@ -207,7 +207,7 @@
     },
     {
       "number": 13,
-      "at": "2026-10-06T18:36:33.855Z",
+      "at": "2026-10-06T18:38:21.484Z",
       "action": {
         "id": "13",
         "op": "tap",
@@ -224,7 +224,7 @@
     },
     {
       "number": 14,
-      "at": "2026-10-06T18:36:40.856Z",
+      "at": "2026-10-06T18:38:28.484Z",
       "action": {
         "id": "14",
         "op": "wait",
@@ -239,54 +239,20 @@
     },
     {
       "number": 15,
-      "at": "2026-10-06T18:36:42.166Z",
+      "at": "2026-10-06T18:38:31.424Z",
       "action": {
-        "id": "15",
-        "op": "tap",
-        "x": 105,
-        "y": 775,
-        "wait": 1300,
-        "note": "The bright cathedral is a satisfying reveal after the intimate table. The small envelope near the bottom looks deliberately placed, so I want to see if it holds something.",
-        "replayed": true
+        "op": "reconstructed-arrival",
+        "source": {
+          "path": "live-results/first-time-visual-001/state.json",
+          "ref": "341c1cc83f8b06e165d26a5915eb92f4b311e92d",
+          "through": "14",
+          "expectedHash": "#quiet"
+        }
       },
       "error": null,
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#quiet",
-      "screenshotUrl": null,
-      "text": "Recorded UI replay for continuation, not a new first impression."
-    },
-    {
-      "number": 16,
-      "at": "2026-10-06T18:36:43.772Z",
-      "action": {
-        "id": "16",
-        "op": "tap",
-        "x": 197,
-        "y": 728,
-        "wait": 1600,
-        "note": "It was a tile, not an envelope. A piece of a city without an address is a more interesting souvenir than a completion badge; I want to take it.",
-        "replayed": true
-      },
-      "error": null,
-      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#quiet",
-      "screenshotUrl": null,
-      "text": "Recorded UI replay for continuation, not a new first impression."
-    },
-    {
-      "number": 17,
-      "at": "2026-10-06T18:36:45.580Z",
-      "action": {
-        "id": "17",
-        "op": "tap",
-        "x": 197,
-        "y": 648,
-        "wait": 1800,
-        "note": "The two little photographs connect the scenery and the tile. This is the first moment the idea of carrying something back feels concrete. Open Diary to see where it goes.",
-        "replayed": true
-      },
-      "error": null,
-      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#quiet",
-      "screenshotUrl": null,
-      "text": "Recorded UI replay for continuation, not a new first impression."
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/ac1968339d3d18630333bc66b3180186cfebc7b6/live-results/first-time-gogo-isolated-002/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n白い街が、門の向こうで一斉に組み上がった。\n\n最後のひとつだけが、街に加われず、足元に残った。\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
     }
   ],
   "pageErrors": [],
