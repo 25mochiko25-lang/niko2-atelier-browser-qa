@@ -1,0 +1,64 @@
+name: Encode browser QA screenshots
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'requests/encode-images-*.json'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: public-browser-qa-image-encode
+  cancel-in-progress: false
+
+jobs:
+  encode:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - name: Encode selected screenshots
+        id: enc
+        shell: bash
+        run: |
+          set -euo pipefail
+          REQUEST="$(git diff-tree --no-commit-id --name-only -r "$GITHUB_SHA" | grep -E '^requests/encode-images-[^/]+\.json$' | tail -n 1 || true)"
+          test -n "$REQUEST"
+          node - "$REQUEST" <<'NODE'
+          const fs=require('fs'), path=require('path'), cp=require('child_process');
+          const file=process.argv[2];
+          const x=JSON.parse(fs.readFileSync(file,'utf8'));
+          const folder=String(x.folder||'').replace(/^\/+|\/+$/g,'');
+          const files=Array.isArray(x.files)?x.files:[];
+          if(!/^results\/[A-Za-z0-9_.\\/-]+$/.test(folder)) throw new Error('bad folder');
+          const outDir='encoded/'+path.basename(folder);
+          fs.mkdirSync(outDir,{recursive:true});
+          const manifest=[];
+          for(const name of files){
+            if(!/^[A-Za-z0-9_.-]+\.jpg$/.test(name)) throw new Error('bad filename '+name);
+            const src=path.join(folder,name);
+            if(!fs.existsSync(src)) continue;
+            const b64=fs.readFileSync(src).toString('base64');
+            const dest=path.join(outDir,name+'.b64.txt');
+            fs.writeFileSync(dest,b64);
+            manifest.push({name,source:src,encoded:dest,bytes:fs.statSync(src).size});
+          }
+          fs.writeFileSync(path.join(outDir,'manifest.json'),JSON.stringify({folder,manifest},null,2));
+          console.log(JSON.stringify({outDir,count:manifest.length}));
+          NODE
+
+      - name: Save encoded screenshots
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "niko2-browser-qa"
+          git config user.email "niko2-browser-qa@users.noreply.github.com"
+          git pull --rebase origin main
+          git add encoded
+          git commit -m "qa: encode selected critic screenshots" || exit 0
+          git push origin HEAD:main
