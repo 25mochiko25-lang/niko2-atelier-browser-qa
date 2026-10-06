@@ -1,8 +1,8 @@
 {
-  "id": "035-atelier-next",
+  "id": "036-hotel",
   "op": "tap",
-  "x": 335,
-  "y": 770,
-  "wait": 650,
-  "note": "I have seen the short reflection; now I want the actual atelier choices."
+  "x": 211,
+  "y": 530,
+  "wait": 1200,
+  "note": "Of the two offered places, the small dark hotel room catches me. A hotel that opens for only one night is stranger and more tempting than the record room right now."
 }
