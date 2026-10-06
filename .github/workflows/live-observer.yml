@@ -1,0 +1,37 @@
+name: Observer-driven live browser
+on:
+  push:
+    branches: [main]
+    paths: ['live-requests/*.json']
+permissions:
+  contents: write
+jobs:
+  observe:
+    runs-on: ubuntu-latest
+    container:
+      image: mcr.microsoft.com/playwright:v1.55.0-noble
+    timeout-minutes: 90
+    defaults:
+      run:
+        shell: bash
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Resolve observer session
+        run: |
+          set -euo pipefail
+          git config --global --add safe.directory "$GITHUB_WORKSPACE"
+          SESSION_REQUEST="$(git diff-tree --no-commit-id --name-only -r "$GITHUB_SHA" | grep -E '^live-requests/[a-z0-9-]+\.json$' | head -n1)"
+          test -n "$SESSION_REQUEST"
+          printf 'SESSION_REQUEST=%s\n' "$SESSION_REQUEST" >> "$GITHUB_ENV"
+      - name: Install matching Playwright package
+        run: npm install --prefix /tmp/niko2-live-observer --no-save --no-package-lock playwright@1.55.0
+      - name: Observe until visitor explicitly finishes
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+          PLAYWRIGHT_BROWSERS_PATH: /ms-playwright
+        run: node qa/live-observer.mjs
