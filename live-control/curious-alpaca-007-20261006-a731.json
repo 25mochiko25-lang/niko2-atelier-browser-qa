@@ -1,8 +1,8 @@
 {
-  "id": "065-mari-flowers",
+  "id": "066-next-garden-link",
   "op": "tap",
-  "x": 195,
-  "y": 435,
+  "x": 152,
+  "y": 667,
   "wait": 650,
-  "note": "The BBS made mari and soda feel connected. I want to see MARI'S PRESSED FLOWERS now because of that little exchange."
+  "note": "The pressed-flower page casually says flowers fell upwards in Cloud Garden. I want to follow its Next garden link instead of returning to the directory."
 }
