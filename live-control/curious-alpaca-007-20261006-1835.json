@@ -1,8 +1,8 @@
 {
-  "id": "a34",
+  "id": "a35",
   "op": "tap",
-  "x": 112,
-  "y": 645,
-  "note": "A cloud in a bell jar and cloud diagrams on a monitor make this room look like someone is seriously studying something absurd. Entering.",
-  "wait": 1000
+  "x": 343,
+  "y": 355,
+  "note": "The cloud trapped in the glass bell jar is what I want to poke first, even though I do not know if it is interactive.",
+  "wait": 800
 }
