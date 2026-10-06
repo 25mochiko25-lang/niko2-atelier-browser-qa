@@ -1,8 +1,7 @@
 {
-  "id": "047-hotel-diary",
-  "op": "tap",
-  "x": 270,
-  "y": 480,
-  "wait": 950,
-  "note": "Checkout says tonight's fragments arrived in Diary. I want to read the receipt for Yesterday and ROOM 000."
+  "id": "048-hotel-record-down",
+  "op": "key",
+  "key": "PageDown",
+  "wait": 450,
+  "note": "I want to open the new hotel entry under Recent."
 }
