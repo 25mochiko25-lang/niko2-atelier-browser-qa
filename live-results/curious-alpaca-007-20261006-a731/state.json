@@ -5,19 +5,19 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-06T18:33:15.438Z",
-  "updatedAt": "2026-10-06T18:35:34.770Z",
-  "lastCommand": "006-stow-sample",
+  "updatedAt": "2026-10-06T18:35:49.777Z",
+  "lastCommand": "007-intro-next",
   "stopReason": null,
   "action": {
-    "id": "006-stow-sample",
+    "id": "007-intro-next",
     "op": "tap",
-    "x": 272,
-    "y": 538,
-    "wait": 300,
-    "note": "Two little buttons stayed colored after I touched them. I want to complete the set with Stow."
+    "x": 335,
+    "y": 770,
+    "wait": 1000,
+    "note": "The three samples now have their own colors; I am ready to see the next page."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/a9a5eb99c17f955862a6afeadfdd3e33b7b70f92/live-results/curious-alpaca-007-20261006-a731/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/50f2d038a21c4656ddcc1359bceb613be749b68c/live-results/curious-alpaca-007-20261006-a731/current.jpg",
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -29,7 +29,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nINTERACTION\n\nSound On\n\nSound Off\n触れる\n持ち帰る\n仕舞う\n次へ戻る",
+  "text": "作品へ移動\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWELCOME\nようこそ！\n夢へ入る戻る",
   "controls": [
     {
       "tag": "BUTTON",
@@ -55,67 +55,12 @@
     },
     {
       "tag": "BUTTON",
-      "text": "Sound On",
+      "text": "夢へ入る",
       "disabled": false,
       "rect": {
-        "x": 97,
-        "y": 464,
-        "w": 93,
-        "h": 38
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "Sound Off",
-      "disabled": false,
-      "rect": {
-        "x": 198,
-        "y": 464,
-        "w": 95,
-        "h": 38
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "触れる",
-      "disabled": false,
-      "rect": {
-        "x": 86,
-        "y": 518,
-        "w": 65,
-        "h": 38
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "持ち帰る",
-      "disabled": false,
-      "rect": {
-        "x": 157,
-        "y": 518,
-        "w": 76,
-        "h": 38
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "仕舞う",
-      "disabled": false,
-      "rect": {
-        "x": 240,
-        "y": 518,
-        "w": 65,
-        "h": 38
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "次へ",
-      "disabled": false,
-      "rect": {
-        "x": 300,
+        "x": 291,
         "y": 748,
-        "w": 72,
+        "w": 81,
         "h": 44
       }
     },
@@ -238,6 +183,22 @@
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/a9a5eb99c17f955862a6afeadfdd3e33b7b70f92/live-results/curious-alpaca-007-20261006-a731/current.jpg",
       "text": "作品へ移動\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nINTERACTION\n\nSound On\n\nSound Off\n触れる\n持ち帰る\n仕舞う\n次へ戻る"
+    },
+    {
+      "number": 8,
+      "at": "2026-10-06T18:35:49.777Z",
+      "action": {
+        "id": "007-intro-next",
+        "op": "tap",
+        "x": 335,
+        "y": 770,
+        "wait": 1000,
+        "note": "The three samples now have their own colors; I am ready to see the next page."
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/50f2d038a21c4656ddcc1359bceb613be749b68c/live-results/curious-alpaca-007-20261006-a731/current.jpg",
+      "text": "作品へ移動\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWELCOME\nようこそ！\n夢へ入る戻る"
     }
   ]
 }
