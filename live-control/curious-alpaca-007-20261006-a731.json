@@ -1,8 +1,8 @@
 {
-  "id": "036-hotel",
+  "id": "037-check-in",
   "op": "tap",
-  "x": 211,
-  "y": 530,
-  "wait": 1200,
-  "note": "Of the two offered places, the small dark hotel room catches me. A hotel that opens for only one night is stranger and more tempting than the record room right now."
+  "x": 95,
+  "y": 732,
+  "wait": 900,
+  "note": "The room looks quiet and nocturnal after the pink garden. I want to check in and see whether the empty silver tray or telephone can do something."
 }
