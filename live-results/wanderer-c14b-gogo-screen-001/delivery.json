@@ -1,6 +1,6 @@
 {
   "session": "wanderer-c14b-gogo-screen-001",
-  "command": "02",
-  "runId": 37512934871,
-  "artifactId": 11435870328
+  "command": "stop-infrastructure",
+  "runId": 37513285302,
+  "artifactId": 11434999694
 }
