@@ -41,6 +41,8 @@ permissions:
 jobs:
   visitor:
     runs-on: ubuntu-latest
+    container:
+      image: mcr.microsoft.com/playwright:v1.55.0-noble
     timeout-minutes: 15
     steps:
       - uses: actions/checkout@v4
@@ -87,14 +89,14 @@ jobs:
           NODE
           fi
 
-      - name: Install Playwright WebKit
+      - name: Install Playwright package
         run: |
           npm install --prefix /tmp/niko2-browser-qa --no-save --no-package-lock playwright@1.55.0
-          /tmp/niko2-browser-qa/node_modules/.bin/playwright install webkit
 
       - name: Run visitor
         env:
           NODE_PATH: /tmp/niko2-browser-qa/node_modules
+          PLAYWRIGHT_BROWSERS_PATH: /ms-playwright
           TARGET: ${{ steps.req.outputs.target }}
           PERSONA: ${{ steps.req.outputs.persona }}
           SEED: ${{ steps.req.outputs.seed }}
