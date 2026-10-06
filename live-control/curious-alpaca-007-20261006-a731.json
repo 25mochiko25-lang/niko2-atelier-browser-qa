@@ -1,8 +1,8 @@
 {
-  "id": "012-teapot",
+  "id": "013-water",
   "op": "tap",
-  "x": 145,
-  "y": 481,
-  "wait": 300,
-  "note": "The uncounted paper answered. Now the teapot looks touchable too, even though it is not one of the glowing objects."
+  "x": 300,
+  "y": 356,
+  "wait": 200,
+  "note": "The distant water is part of the picture, but after the paper and teapot answered I wonder whether the scenery also responds."
 }
