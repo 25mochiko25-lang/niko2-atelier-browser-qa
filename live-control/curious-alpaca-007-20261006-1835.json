@@ -1,8 +1,8 @@
 {
-  "id": "a66",
+  "id": "a67",
   "op": "tap",
-  "x": 70,
-  "y": 484,
-  "note": "The diary says a hotel key was returned but is still in the writer's pocket. I want to follow that odd little connection to the hotel page.",
-  "wait": 500
+  "x": 195,
+  "y": 611,
+  "note": "Choosing the hotel's official page because soda's diary made its returned-but-still-present key intriguing.",
+  "wait": 800
 }
