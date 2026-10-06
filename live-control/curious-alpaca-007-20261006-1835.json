@@ -1,8 +1,8 @@
 {
-  "id": "a57",
+  "id": "a58",
   "op": "tap",
-  "x": 330,
-  "y": 326,
-  "note": "A cabinet of drawers feels like the natural place to look for the little thing I brought back.",
-  "wait": 1000
+  "x": 215,
+  "y": 573,
+  "note": "A lavender floppy disk in the open drawer catches my eye. I want to know whether it holds something.",
+  "wait": 900
 }
