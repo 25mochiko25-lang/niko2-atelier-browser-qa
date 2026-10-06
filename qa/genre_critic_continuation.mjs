@@ -45,6 +45,7 @@ try{
    else if(a.kind==='fill'){const l=await resolve(a);await l.fill(a.value);}
    else if(a.kind==='back')await page.goBack({waitUntil:'domcontentloaded',timeout:10000});
    else if(a.kind==='forward')await page.goForward({waitUntil:'domcontentloaded',timeout:10000});
+   else if(a.kind==='navigate'){const u=new URL(a.url,origin);if(u.origin!==origin||!(req.knownVisitedUrls||[]).includes(u.href))throw Error('Only a recorded previously visited same-origin URL is allowed');await page.goto(u.href,{waitUntil:'domcontentloaded',timeout:20000});result={url:u.href,method:'normal address-bar revisit of recorded visited URL'};}
    else if(a.kind==='reload')await page.reload({waitUntil:'domcontentloaded',timeout:20000});
    else if(a.kind!=='observe')throw Error('Unsupported action');
    await wait(a.wait??1000);
