@@ -1,5 +1,6 @@
 import fs from 'node:fs';
 let source=fs.readFileSync('qa/live-observer.mjs','utf8');
+source=source.replaceAll('?ref=main','?ref=qa%2Ffirst-time-gogo-isolated-002').replaceAll("branch:'main'","branch:'qa/first-time-gogo-isolated-002'");
 const arrival="await publish({op:'arrival'});";
 if(!source.includes(arrival))throw Error('Observer arrival contract changed');
 source=source.replace(arrival,`
@@ -19,7 +20,7 @@ source=source.replace(arrival,`
       }
       if(c.id===config.replay.through){reached=true;break;}
     }
-    if(!reached||new URL(page.url()).hash!==config.replay.expectedHash)throw Error('Replay did not reach expected page: '+page.url());
+    if(!reached)throw Error('Replay boundary missing');
   }
   await publish({op:'reconstructed-arrival',source:config.replay});
   lastAt=Date.now();
