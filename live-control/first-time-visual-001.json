@@ -1,1 +1,1 @@
-{"id":"19","op":"tap","x":67,"y":278,"wait":1000,"note":"The scroll did not reveal anything else. The top strip says the carried dream is at hand, so I will try its thumbnail to find the saved memory."}
+{"id":"20","op":"key","key":"PageDown","wait":1000,"note":"Technical correction: the earlier wheel attempt was rejected by mobile WebKit, not blocked by the website. Use PageDown to inspect the lower part; exclude the wheel failure from visitor complaints."}
