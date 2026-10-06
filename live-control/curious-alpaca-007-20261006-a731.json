@@ -1,8 +1,8 @@
 {
-  "id": "095-close-door-record",
+  "id": "096-old-terminal",
   "op": "tap",
-  "x": 352,
-  "y": 164,
-  "wait": 500,
-  "note": "The researcher wanting to open the unanswered door again is a good final sentence. I want to see what the old terminal beside these files does."
+  "x": 245,
+  "y": 400,
+  "wait": 850,
+  "note": "The little rounded terminal is still showing a cloud in the storage room. I want to touch its screen."
 }
