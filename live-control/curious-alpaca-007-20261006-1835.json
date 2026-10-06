@@ -1,8 +1,8 @@
 {
-  "id": "a56",
+  "id": "a57",
   "op": "tap",
-  "x": 194,
-  "y": 475,
-  "note": "ROOM NULL says the room remembers me and grows from things that remain. I want to see whether my tile has a place here.",
+  "x": 330,
+  "y": 326,
+  "note": "A cabinet of drawers feels like the natural place to look for the little thing I brought back.",
   "wait": 1000
 }
