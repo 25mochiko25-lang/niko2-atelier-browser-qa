@@ -199,6 +199,7 @@ async function returnHome(page, label='return Home') {
 
 async function openWorld(page) {
   await returnHome(page,'head Home before WORLD');
+  await clearPostGardenResponse(page,'advance pending AFTER THE GARDEN before WORLD');
   const direct = await firstVisible(page,['.home-world-lab','[data-route="world"]']);
   if (direct) {
     await event(page,'open WORLD',()=>direct.tap({timeout:6000}),650);
@@ -257,7 +258,10 @@ async function firstDream(page) {
     await snap(page,'ending-artifact');
 
     if(await visible(page,'#quietArtifact')){
-      await event(page,'touch ending artifact',()=>page.locator('#quietArtifact').tap({timeout:5000}),400);
+      const r = await event(page,'touch ending artifact',()=>page.locator('#quietArtifact').tap({timeout:5000}),400);
+      if (r.error && /not stable|TimeoutError/i.test(r.error)) {
+        await event(page,'touch ending artifact traversal fallback',()=>page.locator('#quietArtifact').tap({force:true,timeout:3000}),450);
+      }
       await snap(page,'ending-artifact-note');
     }
     if(await visible(page,'#bringArtifact')){
@@ -269,19 +273,9 @@ async function firstDream(page) {
 
   if(await visible(page,'#journalDialog')){
     await snap(page,'dream-memory-dialog');
-    const buttons = page.locator('#journalDialog button:visible');
-    const n = await buttons.count();
-    let chosen = null;
-    for(let i=0;i<n;i++){
-      const b=buttons.nth(i);
-      const id=await b.getAttribute('id');
-      const txt=compact(await b.innerText().catch(()=>''),120);
-      if(id!=='leaveJournalWithoutSaving' && !/保存せず|WITHOUT SAVING|SKIP/i.test(txt)){
-        chosen={b,txt,id}; break;
-      }
-    }
-    if(chosen){
-      await event(page,'choose to keep dream memory ['+compact(chosen.txt,80)+']',()=>chosen.b.tap({timeout:5000}),650);
+    const carry = await visibleActionMatching(page,/Diaryへ持ち帰る|DIARY.*持ち帰る/i,/保存せず|WITHOUT SAVING/i);
+    if(carry){
+      await event(page,'carry dream memory to Diary',()=>carry.loc.tap({timeout:5000}),750);
     } else if(await visible(page,'#leaveJournalWithoutSaving')){
       await event(page,'leave journal without saving fallback',()=>page.locator('#leaveJournalWithoutSaving').tap({timeout:5000}),650);
     }
@@ -302,8 +296,20 @@ async function firstDream(page) {
   await snap(page,'home-after-first-dream');
 }
 
+async function clearPostGardenResponse(page,label='advance AFTER THE GARDEN'){
+  for(let i=0;i<6;i++){
+    const shell=page.locator('#niko2FirstGardenResponse').first();
+    if(!await shell.isVisible().catch(()=>false)) return;
+    await snap(page,'after-garden-guide-'+(i+1));
+    const next=shell.locator('.niko2-intro-primary:visible').first();
+    if(!await next.isVisible().catch(()=>false)) return;
+    await event(page,label+' '+(i+1),()=>next.tap({timeout:5000}),450);
+  }
+}
+
 async function exploreDiary(page){
   await returnHome(page,'return Home for Diary');
+  await clearPostGardenResponse(page,'advance pending AFTER THE GARDEN before Diary');
   if(!await visible(page,'.home-diary-entry')){
     await snap(page,'home-no-diary-entry');
     return;
@@ -395,6 +401,9 @@ async function exploreHomeLetter(page){
     await snap(page,'fresh-first-impression');
 
     await firstDream(page);
+    await returnHome(page,'return Home after first Dream');
+    await clearPostGardenResponse(page);
+    await snap(page,'home-after-post-garden-guide');
     await exploreHomeLetter(page);
     await exploreDiary(page);
     await exploreLab(page);
