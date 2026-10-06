@@ -1,6 +1,8 @@
 {
-  "id": "a16",
-  "op": "look",
-  "note": "I want to let the last object's record finish before following the gate.",
-  "wait": 800
+  "id": "a17",
+  "op": "tap",
+  "x": 325,
+  "y": 402,
+  "note": "The distant arch has come close. I want to step into the bright opening itself.",
+  "wait": 1600
 }
