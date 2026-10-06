@@ -5,18 +5,18 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-06T18:03:12.114Z",
-  "updatedAt": "2026-10-06T18:45:18.874Z",
-  "lastCommand": "34-cabinet-lower",
-  "stopReason": null,
+  "updatedAt": "2026-10-06T18:48:07.132Z",
+  "lastCommand": "35-finish",
+  "stopReason": "visitor_finished: I enjoyed discovering the garden objects, seeing the white city, carrying a tile into Diary and adding my own sentence. In the Cabinet, I could not locate that tile or get the pictured blue drop or key to respond, and looking lower revealed nothing else. I do not want to keep hunting invisible interactions or begin a new dream now. I am leaving after one satisfying souvenir loop with a disappointing final shelf, not because of an action or time limit.",
   "action": {
-    "id": "34-cabinet-lower",
-    "op": "key",
-    "key": "PageDown",
-    "wait": 900,
-    "note": "A second object also did not open anything. Before leaving, check once whether the actual belongings are below this illustration. I do not want to hunt arbitrary invisible click points."
+    "id": "35-finish",
+    "op": "stop",
+    "wait": 0,
+    "reason": "visitor_finished: I enjoyed discovering the garden objects, seeing the white city, carrying a tile into Diary and adding my own sentence. In the Cabinet, I could not locate that tile or get the pictured blue drop or key to respond, and looking lower revealed nothing else. I do not want to keep hunting invisible interactions or begin a new dream now. I am leaving after one satisfying souvenir loop with a disappointing final shelf, not because of an action or time limit.",
+    "note": "End this visitor session here. Unvisited maps remain unassessed. Tool latency and the unsupported mobile-WebKit wheel operation are not visitor dissatisfaction."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/b3ae2c03118883555db90665c5e8ef0db7a3eae1/live-results/first-time-visual-001/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/8f4d76fbbf8ddc1515a2f8698eeb1424f33a14fd/live-results/first-time-visual-001/current.jpg",
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#cabinet",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -637,6 +637,21 @@
       "error": null,
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#cabinet",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/b3ae2c03118883555db90665c5e8ef0db7a3eae1/live-results/first-time-visual-001/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWHAT REMAINED\nTHE CABINET\n\n"
+    },
+    {
+      "number": 37,
+      "at": "2026-10-06T18:48:07.132Z",
+      "action": {
+        "id": "35-finish",
+        "op": "stop",
+        "wait": 0,
+        "reason": "visitor_finished: I enjoyed discovering the garden objects, seeing the white city, carrying a tile into Diary and adding my own sentence. In the Cabinet, I could not locate that tile or get the pictured blue drop or key to respond, and looking lower revealed nothing else. I do not want to keep hunting invisible interactions or begin a new dream now. I am leaving after one satisfying souvenir loop with a disappointing final shelf, not because of an action or time limit.",
+        "note": "End this visitor session here. Unvisited maps remain unassessed. Tool latency and the unsupported mobile-WebKit wheel operation are not visitor dissatisfaction."
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#cabinet",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/8f4d76fbbf8ddc1515a2f8698eeb1424f33a14fd/live-results/first-time-visual-001/current.jpg",
       "text": "作品へ移動\nNIKO² ATELIER\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWHAT REMAINED\nTHE CABINET\n\n"
     }
   ]
