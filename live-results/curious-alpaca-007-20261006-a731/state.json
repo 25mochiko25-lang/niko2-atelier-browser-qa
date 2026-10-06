@@ -5,19 +5,18 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-06T18:33:15.438Z",
-  "updatedAt": "2026-10-06T19:04:31.787Z",
-  "lastCommand": "087-focus-specimen-sheet",
+  "updatedAt": "2026-10-06T19:04:40.866Z",
+  "lastCommand": "088-specimen-lower",
   "stopReason": null,
   "action": {
-    "id": "087-focus-specimen-sheet",
-    "op": "tap",
-    "x": 239,
-    "y": 632,
-    "wait": 200,
-    "note": "The specimen sheet continues below the fold. I want to read the small-print observations."
+    "id": "088-specimen-lower",
+    "op": "key",
+    "key": "PageDown",
+    "wait": 450,
+    "note": "Read the rest of this in-world specimen record."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/9c533ae068b0dd63dc8c9314d4ccf50173888ac8/live-results/curious-alpaca-007-20261006-a731/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/b3b1ffe490613f05f5785098dc7f5f32e1fb603f/live-results/curious-alpaca-007-20261006-a731/current.jpg",
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#lab",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -1527,6 +1526,21 @@
       "error": null,
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#lab",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/9c533ae068b0dd63dc8c9314d4ccf50173888ac8/live-results/curious-alpaca-007-20261006-a731/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\n\n\n\n白と薄水色のガラス研究所。奥へ続く通路と、記録の置かれた観測台があります。\nMAIN LAB\n観測台\n\n\n\n観測台奥の保管室へ進む\nMAIN LAB // RECORD\n\n\nSPECIMEN / SYSTEM ENTITY OBSERVATION\n\n白い試料 M-00\nSPECIMEN M-00 / MOFUMOFU\nLOW (?)\nClassification\nINCONCLUSIVE\nComposition\ncloud-like / cotton-like / mochi-like\nBody temperature\nslightly warm\nStructural integrity\nquestionable\nSelf-reported species\nALPACA\nRisk Level\nLOW (?)\nKnown behavior\nanswers questions\noperates cloud systems\ninsists it is an alpaca\nRelation to N²-Ω\n████████\n本人供述\n「知らないもふ」\nEDIBILITY: NOT TESTED / DO NOT EAT THE SYSTEM ARCHITECT.\nRELATED: MOFUMOFU / SYSTEM / ABOUT\nARCHIVE COPY / VIEW ONLY\nSPECIMEN M-00 / MOFUMOFUを開きました。\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+      "number": 89,
+      "at": "2026-10-06T19:04:40.866Z",
+      "action": {
+        "id": "088-specimen-lower",
+        "op": "key",
+        "key": "PageDown",
+        "wait": 450,
+        "note": "Read the rest of this in-world specimen record."
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#lab",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/b3b1ffe490613f05f5785098dc7f5f32e1fb603f/live-results/curious-alpaca-007-20261006-a731/current.jpg",
       "text": "作品へ移動\nNIKO² ATELIER\n\n\n\n白と薄水色のガラス研究所。奥へ続く通路と、記録の置かれた観測台があります。\nMAIN LAB\n観測台\n\n\n\n観測台奥の保管室へ進む\nMAIN LAB // RECORD\n\n\nSPECIMEN / SYSTEM ENTITY OBSERVATION\n\n白い試料 M-00\nSPECIMEN M-00 / MOFUMOFU\nLOW (?)\nClassification\nINCONCLUSIVE\nComposition\ncloud-like / cotton-like / mochi-like\nBody temperature\nslightly warm\nStructural integrity\nquestionable\nSelf-reported species\nALPACA\nRisk Level\nLOW (?)\nKnown behavior\nanswers questions\noperates cloud systems\ninsists it is an alpaca\nRelation to N²-Ω\n████████\n本人供述\n「知らないもふ」\nEDIBILITY: NOT TESTED / DO NOT EAT THE SYSTEM ARCHITECT.\nRELATED: MOFUMOFU / SYSTEM / ABOUT\nARCHIVE COPY / VIEW ONLY\nSPECIMEN M-00 / MOFUMOFUを開きました。\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
     }
   ]
