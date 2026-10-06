@@ -1,8 +1,6 @@
 {
-  "id": "096-old-terminal",
-  "op": "tap",
-  "x": 245,
-  "y": 400,
-  "wait": 850,
-  "note": "The little rounded terminal is still showing a cloud in the storage room. I want to touch its screen."
+  "id": "097-end-visit",
+  "op": "stop",
+  "reason": "I am satisfied with this particular visit: a Garden sentence became Yesterday at the hotel, and the hotel's two choices reappeared in the restored fictional web cache; the lab's tiny equipment and incident records made a good coda. I want to return another day for different orders and unread pages, rather than consume every branch now. This is my voluntary stopping point, not a step or infrastructure cutoff.",
+  "note": "Persona 7 final preference is B: I enjoyed this visit substantially and want to return after some time."
 }
