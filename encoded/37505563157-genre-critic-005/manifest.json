@@ -1,0 +1,113 @@
+{
+  "folder": "results/37505563157-genre-critic-005",
+  "manifest": [
+    {
+      "name": "01-fresh-first-impression.jpg",
+      "source": "results/37505563157-genre-critic-005/01-fresh-first-impression.jpg",
+      "encoded": "encoded/37505563157-genre-critic-005/01-fresh-first-impression.jpg.b64.txt",
+      "bytes": 270574
+    },
+    {
+      "name": "04-first-dream-interaction-selected.jpg",
+      "source": "results/37505563157-genre-critic-005/04-first-dream-interaction-selected.jpg",
+      "encoded": "encoded/37505563157-genre-critic-005/04-first-dream-interaction-selected.jpg.b64.txt",
+      "bytes": 356169
+    },
+    {
+      "name": "07-garden-start.jpg",
+      "source": "results/37505563157-genre-critic-005/07-garden-start.jpg",
+      "encoded": "encoded/37505563157-genre-critic-005/07-garden-start.jpg.b64.txt",
+      "bytes": 437894
+    },
+    {
+      "name": "08-garden-memory-1.jpg",
+      "source": "results/37505563157-genre-critic-005/08-garden-memory-1.jpg",
+      "encoded": "encoded/37505563157-genre-critic-005/08-garden-memory-1.jpg.b64.txt",
+      "bytes": 449622
+    },
+    {
+      "name": "10-garden-memory-5.jpg",
+      "source": "results/37505563157-genre-critic-005/10-garden-memory-5.jpg",
+      "encoded": "encoded/37505563157-genre-critic-005/10-garden-memory-5.jpg.b64.txt",
+      "bytes": 364206
+    },
+    {
+      "name": "13-ending-artifact.jpg",
+      "source": "results/37505563157-genre-critic-005/13-ending-artifact.jpg",
+      "encoded": "encoded/37505563157-genre-critic-005/13-ending-artifact.jpg.b64.txt",
+      "bytes": 493401
+    },
+    {
+      "name": "14-ending-artifact-note.jpg",
+      "source": "results/37505563157-genre-critic-005/14-ending-artifact-note.jpg",
+      "encoded": "encoded/37505563157-genre-critic-005/14-ending-artifact-note.jpg.b64.txt",
+      "bytes": 504397
+    },
+    {
+      "name": "15-dream-memory-dialog.jpg",
+      "source": "results/37505563157-genre-critic-005/15-dream-memory-dialog.jpg",
+      "encoded": "encoded/37505563157-genre-critic-005/15-dream-memory-dialog.jpg.b64.txt",
+      "bytes": 405944
+    },
+    {
+      "name": "17-after-garden-guide-1.jpg",
+      "source": "results/37505563157-genre-critic-005/17-after-garden-guide-1.jpg",
+      "encoded": "encoded/37505563157-genre-critic-005/17-after-garden-guide-1.jpg.b64.txt",
+      "bytes": 468204
+    },
+    {
+      "name": "21-home-after-post-garden-guide.jpg",
+      "source": "results/37505563157-genre-critic-005/21-home-after-post-garden-guide.jpg",
+      "encoded": "encoded/37505563157-genre-critic-005/21-home-after-post-garden-guide.jpg.b64.txt",
+      "bytes": 268026
+    },
+    {
+      "name": "23-from-the-atelier.jpg",
+      "source": "results/37505563157-genre-critic-005/23-from-the-atelier.jpg",
+      "encoded": "encoded/37505563157-genre-critic-005/23-from-the-atelier.jpg.b64.txt",
+      "bytes": 325662
+    },
+    {
+      "name": "24-diary-top.jpg",
+      "source": "results/37505563157-genre-critic-005/24-diary-top.jpg",
+      "encoded": "encoded/37505563157-genre-critic-005/24-diary-top.jpg.b64.txt",
+      "bytes": 199011
+    },
+    {
+      "name": "26-diary-detail.jpg",
+      "source": "results/37505563157-genre-critic-005/26-diary-detail.jpg",
+      "encoded": "encoded/37505563157-genre-critic-005/26-diary-detail.jpg.b64.txt",
+      "bytes": 254499
+    },
+    {
+      "name": "27-world-first-look.jpg",
+      "source": "results/37505563157-genre-critic-005/27-world-first-look.jpg",
+      "encoded": "encoded/37505563157-genre-critic-005/27-world-first-look.jpg.b64.txt",
+      "bytes": 441180
+    },
+    {
+      "name": "29-lab-main.jpg",
+      "source": "results/37505563157-genre-critic-005/29-lab-main.jpg",
+      "encoded": "encoded/37505563157-genre-critic-005/29-lab-main.jpg.b64.txt",
+      "bytes": 319072
+    },
+    {
+      "name": "30-lab-reading-table.jpg",
+      "source": "results/37505563157-genre-critic-005/30-lab-reading-table.jpg",
+      "encoded": "encoded/37505563157-genre-critic-005/30-lab-reading-table.jpg.b64.txt",
+      "bytes": 262034
+    },
+    {
+      "name": "31-lab-first-record.jpg",
+      "source": "results/37505563157-genre-critic-005/31-lab-first-record.jpg",
+      "encoded": "encoded/37505563157-genre-critic-005/31-lab-first-record.jpg.b64.txt",
+      "bytes": 333862
+    },
+    {
+      "name": "41-late-dream-revisit.jpg",
+      "source": "results/37505563157-genre-critic-005/41-late-dream-revisit.jpg",
+      "encoded": "encoded/37505563157-genre-critic-005/41-late-dream-revisit.jpg.b64.txt",
+      "bytes": 393146
+    }
+  ]
+}
