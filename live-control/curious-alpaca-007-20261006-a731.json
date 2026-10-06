@@ -1,8 +1,8 @@
 {
-  "id": "060-power-on",
+  "id": "061-soda-diary",
   "op": "tap",
-  "x": 194,
-  "y": 483,
-  "wait": 1300,
-  "note": "An internet that never existed, on a translucent old monitor: I want to switch it on and see what pages live there."
+  "x": 191,
+  "y": 493,
+  "wait": 700,
+  "note": "Among these fictional old-web links, soda's diary draws me first. I have just left my own diary entry, and now I want to read someone else's."
 }
