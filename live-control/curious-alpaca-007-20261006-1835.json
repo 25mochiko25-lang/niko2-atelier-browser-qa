@@ -1,8 +1,8 @@
 {
-  "id": "a10",
+  "id": "a11",
   "op": "tap",
-  "x": 141,
-  "y": 489,
-  "note": "I found a key that opens a memory rather than a door. Now I want to see whether the teapot does anything small.",
-  "wait": 1000
+  "x": 219,
+  "y": 534,
+  "note": "The teapot's response is hard to see in the captured image. The still-set cup looks like something I might collect.",
+  "wait": 1100
 }
