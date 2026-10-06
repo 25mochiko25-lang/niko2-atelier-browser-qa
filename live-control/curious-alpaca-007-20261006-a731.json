@@ -1,8 +1,8 @@
 {
-  "id": "014-distant-door",
+  "id": "015-garden-perfume",
   "op": "tap",
-  "x": 331,
-  "y": 187,
-  "wait": 450,
-  "note": "There is a luminous doorway at the far end of the stairs. I want to know whether I can visit it already."
+  "x": 47,
+  "y": 551,
+  "wait": 1000,
+  "note": "The large faceted perfume bottle on the left is too inviting to leave untouched. I want to read what memory belongs to it."
 }
