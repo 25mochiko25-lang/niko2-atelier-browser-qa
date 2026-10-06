@@ -1,0 +1,126 @@
+{
+  "request": "genre-critic-six-cont08",
+  "startUrl": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+  "startedAt": "2026-10-06T18:31:12.319Z",
+  "finishedAt": "2026-10-06T18:31:39.640Z",
+  "httpStatus": 200,
+  "events": [
+    {
+      "step": 1,
+      "action": {
+        "kind": "tap",
+        "selector": "#enterGarden",
+        "label": "enter-next-dream-perfume",
+        "wait": 2200
+      },
+      "result": {
+        "x": 195,
+        "y": 528.71875,
+        "label": "Enter the dream",
+        "id": "enterGarden"
+      },
+      "error": null,
+      "before": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+        "route": "home"
+      },
+      "after": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#perfume",
+        "route": "perfume"
+      }
+    },
+    {
+      "step": 2,
+      "action": {
+        "kind": "tap",
+        "selector": "#enterPerfumeWorkbench",
+        "label": "open-perfume-workbench",
+        "wait": 2200,
+        "picture": true
+      },
+      "result": {
+        "x": 195,
+        "y": 531.5,
+        "label": "調香台へ",
+        "id": "enterPerfumeWorkbench"
+      },
+      "error": null,
+      "before": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#perfume",
+        "route": "perfume"
+      },
+      "after": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#perfume",
+        "route": "perfume"
+      }
+    },
+    {
+      "step": 3,
+      "action": {
+        "kind": "scroll",
+        "dy": 500,
+        "label": "read-lower-workbench-controls",
+        "picture": true
+      },
+      "result": {
+        "tag": "SECTION",
+        "id": "",
+        "cls": "view perfume-view prototype-view is-active",
+        "before": 0,
+        "after": 269
+      },
+      "error": null,
+      "before": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#perfume",
+        "route": "perfume"
+      },
+      "after": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#perfume",
+        "route": "perfume"
+      }
+    }
+  ],
+  "observations": [
+    {
+      "label": "arrival",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+      "route": "home",
+      "viewportText": "WORLD\nWORLD",
+      "screenshot": "001-arrival.jpg"
+    },
+    {
+      "label": "enter-next-dream-perfume",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#perfume",
+      "route": "perfume",
+      "viewportText": "NIKO² ATELIER\nFORMULA / TWELVE TRILLION\n三つの層に、記憶を落とす。\n十二兆通りの数式のうち、今日の一本だけが、あなたの手で閉じる。\nときどき、こちらの記録にはない香りも届きます。\n調香台へ"
+    },
+    {
+      "label": "open-perfume-workbench",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#perfume",
+      "route": "perfume",
+      "viewportText": "NIKO² ATELIER\n香りになれなかった記憶。\n素材を選び、三つの層へ落としてください。順番と濃度で、同じ記憶も別の香りになります。\n雨\n古いぬいぐるみ\n燃えた砂糖\nホテルの白いシーツ\n甘い夢\n紅茶の渋み\n煙の名残\n花\nMIXING BOTTLE / EMPTY\nIN BOTTLE / EMPTY\n01\nTOP\n02\nMIDDLE\n03\nLAST\nTOP\nこの層には、まだ何も落ちていない。\nMIDDLE\nこの層には、まだ何も落ちていない。\nLAST\nこの層には、まだ何も落ちていない。",
+      "screenshot": "003-open-perfume-workbench.jpg"
+    },
+    {
+      "label": "read-lower-workbench-controls",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#perfume",
+      "route": "perfume",
+      "viewportText": "NIKO² ATELIER\n雨\n古いぬいぐるみ\n燃えた砂糖\nホテルの白いシーツ\n甘い夢\n紅茶の渋み\n煙の名残\n花\nMIXING BOTTLE / EMPTY\nIN BOTTLE / EMPTY\n01\nTOP\n02\nMIDDLE\n03\nLAST\nTOP\nこの層には、まだ何も落ちていない。\nMIDDLE\nこの層には、まだ何も落ちていない。\nLAST\nこの層には、まだ何も落ちていない。\nCONCENTRATION\nEAU DE TOILETTE / 肌に近い\nEau Fraîche\n水のあと\nCologne\n風の輪郭\nToilette\n肌に近い\nParfum\n記憶の濃度\nExtrait\n最後まで残る\n香りを定着させる",
+      "screenshot": "004-read-lower-workbench-controls.jpg"
+    },
+    {
+      "label": "final",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#perfume",
+      "route": "perfume",
+      "viewportText": "NIKO² ATELIER\n雨\n古いぬいぐるみ\n燃えた砂糖\nホテルの白いシーツ\n甘い夢\n紅茶の渋み\n煙の名残\n花\nMIXING BOTTLE / EMPTY\nIN BOTTLE / EMPTY\n01\nTOP\n02\nMIDDLE\n03\nLAST\nTOP\nこの層には、まだ何も落ちていない。\nMIDDLE\nこの層には、まだ何も落ちていない。\nLAST\nこの層には、まだ何も落ちていない。\nCONCENTRATION\nEAU DE TOILETTE / 肌に近い\nEau Fraîche\n水のあと\nCologne\n風の輪郭\nToilette\n肌に近い\nParfum\n記憶の濃度\nExtrait\n最後まで残る\n香りを定着させる",
+      "screenshot": "005-final.jpg"
+    }
+  ],
+  "errors": [],
+  "httpErrors": [
+    {
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/api/identity",
+      "status": 404
+    }
+  ]
+}
