@@ -1,0 +1,69 @@
+name: Mobile followthrough QA
+on:
+  push:
+    branches: [main]
+    paths: ['requests/mobile-follow-*.json']
+permissions:
+  contents: write
+jobs:
+  followthrough:
+    runs-on: ubuntu-latest
+    container:
+      image: mcr.microsoft.com/playwright:v1.55.0-noble
+    timeout-minutes: 9
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Resolve independent request
+        id: req
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config --global --add safe.directory "$GITHUB_WORKSPACE"
+          REQUEST="$(git diff-tree --no-commit-id --name-only -r "$GITHUB_SHA" | grep -E '^requests/mobile-follow-[^/]+\.json$' | head -n 1)"
+          test -n "$REQUEST"
+          echo "path=$REQUEST" >> "$GITHUB_OUTPUT"
+          echo "name=$(basename "$REQUEST" .json)" >> "$GITHUB_OUTPUT"
+          node --check qa/mobile_followthrough.mjs
+      - name: Install pinned browser client
+        run: npm install --prefix /tmp/niko2-browser-qa --no-save --no-package-lock playwright@1.55.0
+      - name: Follow through visible public UI
+        env:
+          PLAYWRIGHT_BROWSERS_PATH: /ms-playwright
+        run: node qa/mobile_followthrough.mjs '${{ steps.req.outputs.path }}'
+      - name: Save only compact text evidence in repository
+        if: always()
+        shell: bash
+        run: |
+          set -euo pipefail
+          TMP=$(mktemp -d)
+          cp qa-output/mobile-follow/observations.json "$TMP/result.json"
+          cp qa-output/mobile-follow/evidence.md "$TMP/evidence.md"
+          DEST="results/${{ github.run_id }}-${{ steps.req.outputs.name }}"
+          git config user.name "niko2-browser-qa"
+          git config user.email "niko2-browser-qa@users.noreply.github.com"
+          for attempt in 1 2 3 4 5; do
+            git fetch origin main
+            git reset --hard origin/main
+            mkdir -p results
+            cp "$TMP/result.json" "$DEST.json"
+            cp "$TMP/evidence.md" "$DEST.md"
+            git add "$DEST.json" "$DEST.md"
+            git commit -m 'qa: save mobile followthrough evidence' || exit 0
+            if git push origin HEAD:main; then exit 0; fi
+            sleep $((attempt * 2))
+          done
+          exit 1
+      - name: Temporary visual evidence, not repository source
+        if: always()
+        continue-on-error: true
+        uses: actions/upload-artifact@v4
+        with:
+          name: mobile-follow-visual-${{ github.run_id }}
+          path: qa-output/mobile-follow/
+          retention-days: 1
+          if-no-files-found: warn
