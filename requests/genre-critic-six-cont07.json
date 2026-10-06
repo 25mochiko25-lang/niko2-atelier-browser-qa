@@ -1,0 +1,12 @@
+{
+  "mode":"guided-continuation",
+  "persona":"genre-fan",
+  "target":"https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+  "storageState":"results/37511044387-genre-critic-six-cont05/storage-state.json",
+  "sessionStorage":"results/37511044387-genre-critic-six-cont05/session-storage.json",
+  "actions":[
+    {"kind":"tap","selector":".unknown-entry","label":"return-to-unknown-doorway","wait":1500},
+    {"kind":"tap","selector":"#aquariumInterceptNext","label":"choose-keep-going","wait":2500,"picture":true},
+    {"kind":"wait","ms":5000,"label":"watch-beyond-the-sign","picture":true}
+  ]
+}
