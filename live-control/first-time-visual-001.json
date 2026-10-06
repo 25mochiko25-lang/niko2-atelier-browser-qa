@@ -1,1 +1,1 @@
-{"id":"14","op":"wait","wait":7000,"note":"The doorway reacted and the invitation text disappeared. Let the transition finish rather than repeatedly tapping."}
+{"id":"15","op":"tap","x":105,"y":775,"wait":1300,"note":"The bright cathedral is a satisfying reveal after the intimate table. The small envelope near the bottom looks deliberately placed, so I want to see if it holds something."}
