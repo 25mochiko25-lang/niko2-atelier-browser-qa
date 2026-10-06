@@ -5,20 +5,20 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-06T18:33:15.438Z",
-  "updatedAt": "2026-10-06T18:53:53.523Z",
-  "lastCommand": "058-cabinet-back",
+  "updatedAt": "2026-10-06T18:54:11.160Z",
+  "lastCommand": "059-channel00",
   "stopReason": null,
   "action": {
-    "id": "058-cabinet-back",
+    "id": "059-channel00",
     "op": "tap",
-    "x": 36,
-    "y": 110,
-    "wait": 700,
-    "note": "The key did not open any detail here. The drawer is pleasant to look at, but I was hoping to handle its objects. I want to try the room's computer next."
+    "x": 56,
+    "y": 365,
+    "wait": 950,
+    "note": "A laptop inside this dream room has CHANNEL 00 on its screen. I want to open the computer inside the website."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/a232f7b1ebf3578e8e080c836f933e1e6e23162e/live-results/curious-alpaca-007-20261006-a731/current.jpg",
-  "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#room0",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/666a5a10587e7ecc38b59287697e8d902173dfce/live-results/curious-alpaca-007-20261006-a731/current.jpg",
+  "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#channel0",
   "title": "NIKO² ATELIER",
   "viewport": {
     "width": 390,
@@ -29,7 +29,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\nNIKO² ATELIER\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \nWORLD / RN-00\nROOM NULL\na room that remembers you.\nRN-00\n\n\n\n\n\n\n\n",
+  "text": "作品へ移動\nNIKO² ATELIER\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCHANNEL / CH-00\nCHANNEL 00\n0 pages\n存在しなかったインターネット。\n\nPOWER / 接続する\n\n\n\n\n\n",
   "controls": [
     {
       "tag": "A",
@@ -37,7 +37,7 @@
       "disabled": false,
       "rect": {
         "x": 25,
-        "y": 23,
+        "y": 18,
         "w": 124,
         "h": 29
       }
@@ -54,47 +54,25 @@
       }
     },
     {
-      "tag": "A",
-      "text": "WORLDへ戻る",
+      "tag": "BUTTON",
+      "text": "ROOM NULLへ戻る",
       "disabled": false,
       "rect": {
         "x": 14,
-        "y": 86,
+        "y": 82,
         "w": 40,
         "h": 40
       }
     },
     {
       "tag": "BUTTON",
-      "text": "CHANNEL 00を開く",
+      "text": "POWER / 接続する",
       "disabled": false,
       "rect": {
-        "x": 14,
-        "y": 317,
-        "w": 156,
-        "h": 139
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "Cabinetを開く",
-      "disabled": false,
-      "rect": {
-        "x": 261,
-        "y": 203,
-        "w": 125,
-        "h": 219
-      }
-    },
-    {
-      "tag": "A",
-      "text": "Diaryを開く",
-      "disabled": false,
-      "rect": {
-        "x": 176,
-        "y": 540,
-        "w": 187,
-        "h": 211
+        "x": 113,
+        "y": 460,
+        "w": 164,
+        "h": 47
       }
     }
   ],
@@ -1057,6 +1035,22 @@
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#room0",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/a232f7b1ebf3578e8e080c836f933e1e6e23162e/live-results/curious-alpaca-007-20261006-a731/current.jpg",
       "text": "作品へ移動\nNIKO² ATELIER\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \nWORLD / RN-00\nROOM NULL\na room that remembers you.\nRN-00\n\n\n\n\n\n\n\n"
+    },
+    {
+      "number": 60,
+      "at": "2026-10-06T18:54:11.160Z",
+      "action": {
+        "id": "059-channel00",
+        "op": "tap",
+        "x": 56,
+        "y": 365,
+        "wait": 950,
+        "note": "A laptop inside this dream room has CHANNEL 00 on its screen. I want to open the computer inside the website."
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#channel0",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/666a5a10587e7ecc38b59287697e8d902173dfce/live-results/curious-alpaca-007-20261006-a731/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCHANNEL / CH-00\nCHANNEL 00\n0 pages\n存在しなかったインターネット。\n\nPOWER / 接続する\n\n\n\n\n\n"
     }
   ]
 }
