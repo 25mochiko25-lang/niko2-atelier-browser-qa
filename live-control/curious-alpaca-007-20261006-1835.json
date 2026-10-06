@@ -1,8 +1,8 @@
 {
-  "id": "a55",
+  "id": "a56",
   "op": "tap",
-  "x": 328,
-  "y": 407,
-  "note": "The warm room behind the pink curtain on the right draws me more than the laboratory I already visited. I want to enter that doorway.",
-  "wait": 1100
+  "x": 194,
+  "y": 475,
+  "note": "ROOM NULL says the room remembers me and grows from things that remain. I want to see whether my tile has a place here.",
+  "wait": 1000
 }
