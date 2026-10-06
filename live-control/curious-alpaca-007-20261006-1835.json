@@ -1,8 +1,7 @@
 {
-  "id": "a41",
-  "op": "tap",
-  "x": 190,
-  "y": 695,
-  "note": "Putting the reading focus inside the specimen document so I can move down within the document, rather than the close button.",
-  "wait": 150
+  "id": "a42",
+  "op": "key",
+  "key": "PageDown",
+  "note": "Reading farther down the specimen file after touching its content area.",
+  "wait": 700
 }
