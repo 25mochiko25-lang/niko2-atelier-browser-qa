@@ -1,8 +1,8 @@
 {
-  "id": "017-bear",
+  "id": "018-bear-book",
   "op": "tap",
-  "x": 367,
-  "y": 575,
-  "wait": 1000,
-  "note": "A soft toy is sitting just at the right edge of the chair. I want to know who has been left at this tea table."
+  "x": 375,
+  "y": 640,
+  "wait": 250,
+  "note": "There is a pale book beside the toy at the right edge. I want its stray sentence before looking for the last counted object."
 }
