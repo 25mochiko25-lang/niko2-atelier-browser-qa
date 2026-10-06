@@ -1,8 +1,8 @@
 {
-  "id": "a46",
+  "id": "a47",
   "op": "tap",
-  "x": 359,
-  "y": 160,
-  "note": "Leaving the reading table to explore the doorway I could see behind it.",
-  "wait": 500
+  "x": 195,
+  "y": 387,
+  "note": "The doorway and shelves look like a real next room, so I want to go deeper than the first reading table.",
+  "wait": 900
 }
