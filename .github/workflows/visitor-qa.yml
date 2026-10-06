@@ -41,7 +41,7 @@ permissions:
 jobs:
   visitor:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 15
     steps:
       - uses: actions/checkout@v4
         with:
@@ -90,7 +90,7 @@ jobs:
       - name: Install Playwright WebKit
         run: |
           npm install --prefix /tmp/niko2-browser-qa --no-save --no-package-lock playwright@1.55.0
-          /tmp/niko2-browser-qa/node_modules/.bin/playwright install --with-deps webkit
+          /tmp/niko2-browser-qa/node_modules/.bin/playwright install webkit
 
       - name: Run visitor
         env:
