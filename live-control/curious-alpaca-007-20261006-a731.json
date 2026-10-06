@@ -1,8 +1,8 @@
 {
-  "id": "008-into-dream",
+  "id": "009-enter-garden",
   "op": "tap",
-  "x": 331,
-  "y": 770,
-  "wait": 1700,
-  "note": "The pearly circular doorway looks like a place I want to pass through. Enter the dream."
+  "x": 195,
+  "y": 790,
+  "wait": 1200,
+  "note": "The abandoned tea table has a key with a ribbon on it. I want to step into this sky and investigate the table."
 }
