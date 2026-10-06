@@ -1,8 +1,8 @@
 {
-  "id": "a60",
+  "id": "a61",
   "op": "tap",
-  "x": 35,
-  "y": 111,
-  "note": "The cabinet stayed as a drawer image, and I did not find my tile or an object response here. Returning to try the laptop instead.",
-  "wait": 900
+  "x": 60,
+  "y": 367,
+  "note": "The little laptop on the bedside table says CHANNEL 00. I want to turn toward that little screen.",
+  "wait": 1100
 }
