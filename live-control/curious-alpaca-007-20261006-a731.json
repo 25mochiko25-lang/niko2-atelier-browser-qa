@@ -1,8 +1,8 @@
 {
-  "id": "006-stow-sample",
+  "id": "007-intro-next",
   "op": "tap",
-  "x": 272,
-  "y": 538,
-  "wait": 300,
-  "note": "Two little buttons stayed colored after I touched them. I want to complete the set with Stow."
+  "x": 335,
+  "y": 770,
+  "wait": 1000,
+  "note": "The three samples now have their own colors; I am ready to see the next page."
 }
