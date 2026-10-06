@@ -1,8 +1,7 @@
 {
-  "id": "a74",
-  "op": "tap",
-  "x": 107,
-  "y": 786,
-  "note": "I have enjoyed my two impossible room-service dishes and want to keep this stay beside the tile in my diary.",
-  "wait": 1100
+  "id": "a75",
+  "op": "key",
+  "key": "PageDown",
+  "note": "The diary says the room is not checked out yet. I want to see what the 'bring tonight back' action has left in the recent records.",
+  "wait": 800
 }
