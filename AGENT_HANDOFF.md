@@ -76,3 +76,14 @@ For each:
 - why it stood out
 
 Do not add redesign proposals unless explicitly asked.
+
+
+## Shared-infrastructure rule
+
+This repository is a shared browser harness. In normal use, **do not create another workflow** and do not edit the runner just to start a new visitor. Create a uniquely named request JSON instead.
+
+Use a fresh suffix for every visitor, for example `first-time-017` or `wanderer-006`. Multiple ChatGPT QA instances may be using this repository at the same time, so never overwrite another agent's request or result.
+
+The generic visitor workflow handles `first-time`, `sloppy-mobile`, `wanderer`, `outside-critic`, and `genre-fan`. A specialized workflow may exist for a deliberately different browser method; do not duplicate it unless the existing harness truly cannot express the test.
+
+Use the combined Preview URL unless the Founder explicitly tells you to test the production domain.
