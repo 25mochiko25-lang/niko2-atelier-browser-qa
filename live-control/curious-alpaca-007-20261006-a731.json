@@ -1,8 +1,8 @@
 {
-  "id": "055-see-room",
+  "id": "056-cabinet",
   "op": "tap",
-  "x": 195,
-  "y": 476,
-  "wait": 850,
-  "note": "This room says it remembers me and grows from what remains. I want to see whether my thread and hotel key have a place here."
+  "x": 334,
+  "y": 346,
+  "wait": 1000,
+  "note": "I want to open the actual drawers on the right, because this room explicitly invited me to touch the Cabinet and I have two keepsakes now."
 }
