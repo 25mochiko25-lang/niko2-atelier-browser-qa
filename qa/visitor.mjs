@@ -66,11 +66,16 @@ async function snapshot(page, label) {
         cs.display !== 'none' && cs.visibility !== 'hidden' &&
         Number(cs.opacity || 1) > 0.01 && !e.closest('[hidden]');
     };
+    document.querySelectorAll('[data-qa-probe-id]').forEach(e => e.removeAttribute('data-qa-probe-id'));
     const els = [...document.querySelectorAll('button,a,[role="button"],summary,input[type="button"],input[type="submit"]')]
       .filter(visible)
       .filter(e => {
         const r = e.getBoundingClientRect();
-        return r.bottom > 0 && r.top < innerHeight && r.right > 0 && r.left < innerWidth;
+        if (!(r.bottom > 0 && r.top < innerHeight && r.right > 0 && r.left < innerWidth)) return false;
+        const x = Math.max(0, Math.min(innerWidth - 1, r.left + r.width / 2));
+        const y = Math.max(0, Math.min(innerHeight - 1, r.top + r.height / 2));
+        const hit = document.elementFromPoint(x, y);
+        return Boolean(hit && (hit === e || e.contains(hit)));
       });
     els.forEach((e, i) => e.setAttribute('data-qa-probe-id', String(i)));
     const clickables = els.slice(0, 40).map((e, i) => {
