@@ -170,15 +170,28 @@ function chooseCandidate(s) {
       let v = score(c, PERSONA, i);
       const key = targetKey(c);
       const repeats = recentTargetKeys.filter(x => x === key).length;
+      const cls = String(c.cls || '');
       v -= repeats * 1800;
-      if (/\bis-selected\b/.test(c.cls || '')) v -= 2400;
+      if (/\bis-selected\b/.test(cls)) v -= 2400;
+
+      // A first-time human is strongly drawn to explicit visual hints and,
+      // after discovering a fragment, normally closes the card to keep exploring.
+      if (PERSONA === 'first-time') {
+        if (/\bis-first-run-hinting\b/.test(cls)) v += 2200;
+        if (/\bcollectible\b/.test(cls) && !/\bis-found\b/.test(cls)) v += 900;
+        if (/\bambient\b/.test(cls)) v -= 350;
+        if (c.id === 'closeMemory') v += 6000;
+        if (c.id === 'doorHotspot' && /5\s*\/\s*5/.test(s.bodyText || '')) v += 5000;
+      }
       return { c, v };
     })
     .sort((a, b) => b.v - a.v)[0]?.c || null;
 }
 
-async function tapCandidate(page, c, label, extra = {}) {
-  const before = await snapshot(page, label + ':before');
+async function tapCandidate(page, c, label, before, extra = {}) {
+  // Do not take another snapshot before tapping. Snapshotting re-labels dynamic
+  // DOM nodes; on moving scenes that could make a probe ID point at a different
+  // control than the one actually chosen.
   let error = null;
   try {
     const loc = page.locator('[data-qa-probe-id="' + c.probe + '"]').first();
@@ -308,13 +321,13 @@ function scheduledAction(step) {
         continue;
       }
 
-      await tapCandidate(page, c, 'step-' + step + '-tap');
+      await tapCandidate(page, c, 'step-' + step + '-tap', s);
 
       if (PERSONA === 'sloppy-mobile' && (step === 2 || step === 7) && rand() > 0.25) {
         const post = await snapshot(page, 'step-' + step + '-impatient-choice');
         const sameish = (post.clickables || []).find(x => x.text && x.text === c.text);
         if (sameish) {
-          await tapCandidate(page, sameish, 'step-' + step + '-impatient-second-tap', { wait: 220 });
+          await tapCandidate(page, sameish, 'step-' + step + '-impatient-second-tap', post, { wait: 220 });
         }
       }
     }
