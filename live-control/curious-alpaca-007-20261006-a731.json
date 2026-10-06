@@ -1,8 +1,8 @@
 {
-  "id": "018-bear-book",
+  "id": "019-hourglass",
   "op": "tap",
-  "x": 375,
-  "y": 640,
-  "wait": 250,
-  "note": "There is a pale book beside the toy at the right edge. I want its stray sentence before looking for the last counted object."
+  "x": 10,
+  "y": 429,
+  "wait": 1500,
+  "note": "One object remains, and there is a narrow gold object showing at the extreme left. I want to see what it is."
 }
