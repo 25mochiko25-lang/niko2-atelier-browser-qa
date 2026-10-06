@@ -1,0 +1,120 @@
+{
+  "request": "genre-critic-six-cont07",
+  "startUrl": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+  "startedAt": "2026-10-06T18:29:51.047Z",
+  "finishedAt": "2026-10-06T18:30:09.612Z",
+  "httpStatus": 200,
+  "events": [
+    {
+      "step": 1,
+      "action": {
+        "kind": "tap",
+        "selector": ".unknown-entry",
+        "label": "return-to-unknown-doorway",
+        "wait": 1500
+      },
+      "result": {
+        "x": 194.5,
+        "y": 767.328125,
+        "label": "???",
+        "id": ""
+      },
+      "error": null,
+      "before": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+        "route": "home"
+      },
+      "after": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#unknown",
+        "route": "unknown"
+      }
+    },
+    {
+      "step": 2,
+      "action": {
+        "kind": "tap",
+        "selector": "#aquariumInterceptNext",
+        "label": "choose-keep-going",
+        "wait": 2500,
+        "picture": true
+      },
+      "result": {
+        "x": 194.8984375,
+        "y": 755.53125,
+        "label": "Keep going",
+        "id": "aquariumInterceptNext"
+      },
+      "error": null,
+      "before": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#unknown",
+        "route": "unknown"
+      },
+      "after": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#unknown",
+        "route": "unknown"
+      }
+    },
+    {
+      "step": 3,
+      "action": {
+        "kind": "wait",
+        "ms": 5000,
+        "label": "watch-beyond-the-sign",
+        "picture": true
+      },
+      "result": null,
+      "error": null,
+      "before": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#unknown",
+        "route": "unknown"
+      },
+      "after": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#unknown",
+        "route": "unknown"
+      }
+    }
+  ],
+  "observations": [
+    {
+      "label": "arrival",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+      "route": "home",
+      "viewportText": "WORLD\nWORLD",
+      "screenshot": "001-arrival.jpg"
+    },
+    {
+      "label": "return-to-unknown-doorway",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#unknown",
+      "route": "unknown",
+      "viewportText": "NIKO² ATELIER"
+    },
+    {
+      "label": "choose-keep-going",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#unknown",
+      "route": "unknown",
+      "viewportText": "NIKO² ATELIER",
+      "screenshot": "003-choose-keep-going.jpg"
+    },
+    {
+      "label": "watch-beyond-the-sign",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#unknown",
+      "route": "unknown",
+      "viewportText": "NIKO² ATELIER",
+      "screenshot": "004-watch-beyond-the-sign.jpg"
+    },
+    {
+      "label": "final",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#unknown",
+      "route": "unknown",
+      "viewportText": "NIKO² ATELIER",
+      "screenshot": "005-final.jpg"
+    }
+  ],
+  "errors": [],
+  "httpErrors": [
+    {
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/api/identity",
+      "status": 404
+    }
+  ]
+}
