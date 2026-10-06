@@ -1,0 +1,40 @@
+name: Live observer image delivery
+on:
+  push:
+    branches: [main]
+    paths: ['live-control/*.json']
+permissions:
+  contents: read
+jobs:
+  export:
+    runs-on: ubuntu-latest
+    timeout-minutes: 4
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+      - name: Wait for requested visible state
+        env:
+          GH_TOKEN: ${{ github.token }}
+        shell: bash
+        run: |
+          set -euo pipefail
+          CONTROL="$(git diff-tree --no-commit-id --name-only -r "$GITHUB_SHA" | grep -E '^live-control/[a-z0-9-]+\.json$' | head -n1)"
+          SESSION="$(basename "$CONTROL" .json)"
+          COMMAND="$(jq -r '.id' "$CONTROL")"
+          mkdir -p observation
+          for attempt in $(seq 1 40); do
+            curl -fsS -H "Authorization: Bearer $GH_TOKEN" -H 'Accept: application/vnd.github.raw+json' "https://api.github.com/repos/$GITHUB_REPOSITORY/contents/live-results/$SESSION/state.json?ref=main" > observation/state.json
+            if [ "$(jq -r '.lastCommand' observation/state.json)" = "$COMMAND" ]; then
+              curl -fsSL "$(jq -r '.screenshotUrl' observation/state.json)" -o observation/current.jpg
+              exit 0
+            fi
+            sleep 2
+          done
+          echo 'Observer state did not arrive in time' >&2
+          exit 1
+      - uses: actions/upload-artifact@v4
+        with:
+          name: live-observation
+          path: observation/
+          retention-days: 1
