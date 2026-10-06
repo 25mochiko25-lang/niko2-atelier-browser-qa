@@ -1,0 +1,8 @@
+{
+  "persona": "sloppy-mobile",
+  "target": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+  "seed": "qa2-saved-object-004",
+  "focus": "saved-object",
+  "reason": "Prior extra run reached Lab interiors and Hotel order/save/check-out. Perfume driver stopped because accessible names differed from visible labels; correct that driver only and finish the remaining path.",
+  "previousOwnRun": 37508503682
+}
