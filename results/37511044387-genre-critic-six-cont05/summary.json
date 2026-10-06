@@ -1,0 +1,334 @@
+{
+  "request": "genre-critic-six-cont05",
+  "startUrl": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+  "startedAt": "2026-10-06T18:25:46.035Z",
+  "finishedAt": "2026-10-06T18:26:21.501Z",
+  "httpStatus": 200,
+  "events": [
+    {
+      "step": 1,
+      "action": {
+        "kind": "tap",
+        "selector": ".home-diary-entry",
+        "label": "return-to-diary",
+        "wait": 1300
+      },
+      "result": {
+        "x": 87.43749904632568,
+        "y": 371.515625,
+        "label": "Diaryを開く",
+        "id": ""
+      },
+      "error": null,
+      "before": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+        "route": "home"
+      },
+      "after": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#diary",
+        "route": "diary"
+      }
+    },
+    {
+      "step": 2,
+      "action": {
+        "kind": "tap",
+        "selector": "#openCabinetThreshold",
+        "label": "revisit-cabinet",
+        "wait": 1500
+      },
+      "result": {
+        "x": 195,
+        "y": 696.734375,
+        "label": "WHAT REMAINED\n残ったものを見る",
+        "id": "openCabinetThreshold"
+      },
+      "error": null,
+      "before": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#diary",
+        "route": "diary"
+      },
+      "after": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#diary",
+        "route": "diary"
+      }
+    },
+    {
+      "step": 3,
+      "action": {
+        "kind": "tap",
+        "selector": "#enterCabinet",
+        "label": "enter-if-threshold-present",
+        "timeout": 2000,
+        "optional": true,
+        "wait": 2000,
+        "picture": true
+      },
+      "result": {
+        "x": 194.984375,
+        "y": 456,
+        "label": "中を見る",
+        "id": "enterCabinet"
+      },
+      "error": null,
+      "before": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#diary",
+        "route": "diary"
+      },
+      "after": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#cabinet",
+        "route": "cabinet"
+      }
+    },
+    {
+      "step": 4,
+      "action": {
+        "kind": "tap",
+        "point": [
+          142,
+          377
+        ],
+        "label": "touch-drawer-glass-knot",
+        "wait": 1600,
+        "picture": true
+      },
+      "result": {
+        "x": 142,
+        "y": 377,
+        "hit": {
+          "tag": "DIV",
+          "id": "",
+          "cls": "cabinet-master-shell",
+          "label": ""
+        },
+        "method": "viewport coordinate selected from screenshot"
+      },
+      "error": null,
+      "before": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#cabinet",
+        "route": "cabinet"
+      },
+      "after": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#cabinet",
+        "route": "cabinet"
+      }
+    },
+    {
+      "step": 5,
+      "action": {
+        "kind": "tap",
+        "point": [
+          266,
+          459
+        ],
+        "label": "touch-drawer-bottle",
+        "wait": 1600,
+        "picture": true
+      },
+      "result": {
+        "x": 266,
+        "y": 459,
+        "hit": {
+          "tag": "DIV",
+          "id": "",
+          "cls": "cabinet-master-shell",
+          "label": ""
+        },
+        "method": "viewport coordinate selected from screenshot"
+      },
+      "error": null,
+      "before": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#cabinet",
+        "route": "cabinet"
+      },
+      "after": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#cabinet",
+        "route": "cabinet"
+      }
+    },
+    {
+      "step": 6,
+      "action": {
+        "kind": "tap",
+        "point": [
+          212,
+          594
+        ],
+        "label": "touch-drawer-disk",
+        "wait": 1600,
+        "picture": true
+      },
+      "result": {
+        "x": 212,
+        "y": 594,
+        "hit": {
+          "tag": "DIV",
+          "id": "",
+          "cls": "cabinet-master-shell",
+          "label": ""
+        },
+        "method": "viewport coordinate selected from screenshot"
+      },
+      "error": null,
+      "before": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#cabinet",
+        "route": "cabinet"
+      },
+      "after": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#cabinet",
+        "route": "cabinet"
+      }
+    },
+    {
+      "step": 7,
+      "action": {
+        "kind": "tap",
+        "selector": ".wordmark:visible",
+        "label": "leave-cabinet-for-home",
+        "wait": 1500
+      },
+      "result": {
+        "x": 86.875,
+        "y": 32.5,
+        "label": "NIKO² ATELIER",
+        "id": ""
+      },
+      "error": null,
+      "before": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#cabinet",
+        "route": "cabinet"
+      },
+      "after": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+        "route": "home"
+      }
+    },
+    {
+      "step": 8,
+      "action": {
+        "kind": "tap",
+        "selector": ".unknown-entry",
+        "label": "open-unknown-doorway",
+        "wait": 2500,
+        "picture": true
+      },
+      "result": {
+        "x": 194.5,
+        "y": 767.328125,
+        "label": "???",
+        "id": ""
+      },
+      "error": null,
+      "before": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+        "route": "home"
+      },
+      "after": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#unknown",
+        "route": "unknown"
+      }
+    },
+    {
+      "step": 9,
+      "action": {
+        "kind": "wait",
+        "ms": 5000,
+        "label": "watch-unknown-room",
+        "picture": true
+      },
+      "result": null,
+      "error": null,
+      "before": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#unknown",
+        "route": "unknown"
+      },
+      "after": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#unknown",
+        "route": "unknown"
+      }
+    }
+  ],
+  "observations": [
+    {
+      "label": "arrival",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+      "route": "home",
+      "viewportText": "WORLD\nWORLD",
+      "screenshot": "001-arrival.jpg"
+    },
+    {
+      "label": "return-to-diary",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#diary",
+      "route": "diary",
+      "viewportText": "NIKO² ATELIER\nDream\nDiary\nAbout\nNIKO² DIARY\nDiary\n今日のことを、ひとつだけ。\n10月7日 03:25\nTODAY\n今日を残す\n✦\nいまの気配\n静か\nきらきら\nぼんやり\nざわざわ\n甘い\n雨っぽい\n眠い\n何もない\nPHOTO\n選択なし\n色・モチーフ\nOPTIONAL\n言葉\nOPTIONAL\nこの端末だけに残ります\n残す\nRECENT\n少し前の自分"
+    },
+    {
+      "label": "revisit-cabinet",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#diary",
+      "route": "diary",
+      "viewportText": "持ち帰ったものは、ここに残る。\n増えるほど、棚の景色も少しずつ変わる。\n中を見る"
+    },
+    {
+      "label": "enter-if-threshold-present",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#cabinet",
+      "route": "cabinet",
+      "viewportText": "NIKO² ATELIER\nWHAT REMAINED\nTHE CABINET",
+      "screenshot": "004-enter-if-threshold-present.jpg"
+    },
+    {
+      "label": "touch-drawer-glass-knot",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#cabinet",
+      "route": "cabinet",
+      "viewportText": "NIKO² ATELIER\nWHAT REMAINED\nTHE CABINET",
+      "screenshot": "005-touch-drawer-glass-knot.jpg"
+    },
+    {
+      "label": "touch-drawer-bottle",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#cabinet",
+      "route": "cabinet",
+      "viewportText": "NIKO² ATELIER\nWHAT REMAINED\nTHE CABINET",
+      "screenshot": "006-touch-drawer-bottle.jpg"
+    },
+    {
+      "label": "touch-drawer-disk",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#cabinet",
+      "route": "cabinet",
+      "viewportText": "NIKO² ATELIER\nWHAT REMAINED\nTHE CABINET",
+      "screenshot": "007-touch-drawer-disk.jpg"
+    },
+    {
+      "label": "leave-cabinet-for-home",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+      "route": "home",
+      "viewportText": "WORLD\nWORLD"
+    },
+    {
+      "label": "open-unknown-doorway",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#unknown",
+      "route": "unknown",
+      "viewportText": "NIKO² ATELIER",
+      "screenshot": "009-open-unknown-doorway.jpg"
+    },
+    {
+      "label": "watch-unknown-room",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#unknown",
+      "route": "unknown",
+      "viewportText": "NIKO² ATELIER",
+      "screenshot": "010-watch-unknown-room.jpg"
+    },
+    {
+      "label": "final",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#unknown",
+      "route": "unknown",
+      "viewportText": "NIKO² ATELIER",
+      "screenshot": "011-final.jpg"
+    }
+  ],
+  "errors": [],
+  "httpErrors": [
+    {
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/api/identity",
+      "status": 404
+    }
+  ]
+}

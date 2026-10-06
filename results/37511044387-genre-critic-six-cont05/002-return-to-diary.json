@@ -1,0 +1,1370 @@
+{
+  "label": "return-to-diary",
+  "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#diary",
+  "route": "diary",
+  "viewportText": "NIKO² ATELIER\nDream\nDiary\nAbout\nNIKO² DIARY\nDiary\n今日のことを、ひとつだけ。\n10月7日 03:25\nTODAY\n今日を残す\n✦\nいまの気配\n静か\nきらきら\nぼんやり\nざわざわ\n甘い\n雨っぽい\n眠い\n何もない\nPHOTO\n選択なし\n色・モチーフ\nOPTIONAL\n言葉\nOPTIONAL\nこの端末だけに残ります\n残す\nRECENT\n少し前の自分",
+  "renderedBodyText": "作品へ移動\nNIKO² ATELIER\nDream\nDiary\nAbout\n\n\n\n\nNIKO² DIARY\nDiary\n今日のことを、ひとつだけ。\n10月7日 03:25\nTODAY\n今日を残す\n✦\nいまの気配\n\n静か\n\nきらきら\n\nぼんやり\n\nざわざわ\n\n甘い\n\n雨っぽい\n\n眠い\n\n何もない\nPHOTO\n写真\n選択なし\n色・モチーフ\nOPTIONAL\n言葉\nOPTIONAL\nこの端末だけに残ります\n残す\nRECENT\n少し前の自分\n\n空を見ているくまの横顔\n10/7\n2026年10月\nMONTHLY REFLECTION\n今月の景色\nよく残った気配\n静かな余白\nよく残った色\n色のない紙片\nよく残ったモチーフ\n名前のないもの\nまだ記録が少ないので、傾向ではなく、残ったものをそのまま眺めています。\nもう少し見る\nARCHIVE\n前の日々をひらく\n\nWHAT REMAINED\n残ったものを見る\nアトリエへ戻る\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+  "controls": [
+    {
+      "tag": "A",
+      "id": "",
+      "cls": "skip-link",
+      "text": "作品へ移動",
+      "ariaLabel": null,
+      "type": null,
+      "href": "#main",
+      "disabled": false,
+      "rect": {
+        "x": 8,
+        "y": -61,
+        "w": 108,
+        "h": 43
+      },
+      "onScreen": false,
+      "hit": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "cls": "wordmark",
+      "text": "NIKO² ATELIER",
+      "ariaLabel": "NIKO² ATELIER ホームへ",
+      "type": null,
+      "href": "#home",
+      "disabled": false,
+      "rect": {
+        "x": 25,
+        "y": 13,
+        "w": 124,
+        "h": 44
+      },
+      "onScreen": true,
+      "hit": true
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "cls": "",
+      "text": "Dream",
+      "ariaLabel": null,
+      "type": "button",
+      "href": null,
+      "disabled": false,
+      "rect": {
+        "x": 86,
+        "y": 58,
+        "w": 64,
+        "h": 44
+      },
+      "onScreen": true,
+      "hit": true
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "cls": "",
+      "text": "Diary",
+      "ariaLabel": null,
+      "type": null,
+      "href": "#diary",
+      "disabled": false,
+      "rect": {
+        "x": 166,
+        "y": 58,
+        "w": 64,
+        "h": 44
+      },
+      "onScreen": true,
+      "hit": true
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "cls": "",
+      "text": "About",
+      "ariaLabel": null,
+      "type": null,
+      "href": "#about",
+      "disabled": false,
+      "rect": {
+        "x": 246,
+        "y": 58,
+        "w": 64,
+        "h": 44
+      },
+      "onScreen": true,
+      "hit": true
+    },
+    {
+      "tag": "BUTTON",
+      "id": "soundToggle",
+      "cls": "sound-toggle",
+      "text": "音をオンにする",
+      "ariaLabel": "音をオンにする",
+      "type": "button",
+      "href": null,
+      "disabled": false,
+      "rect": {
+        "x": 332,
+        "y": 14,
+        "w": 44,
+        "h": 44
+      },
+      "onScreen": true,
+      "hit": true
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "cls": "mood-fragment mood-quiet",
+      "text": "静か",
+      "ariaLabel": null,
+      "type": "button",
+      "href": null,
+      "disabled": false,
+      "rect": {
+        "x": 42,
+        "y": 363,
+        "w": 84,
+        "h": 44
+      },
+      "onScreen": true,
+      "hit": true
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "cls": "mood-fragment mood-sparkle",
+      "text": "きらきら",
+      "ariaLabel": null,
+      "type": "button",
+      "href": null,
+      "disabled": false,
+      "rect": {
+        "x": 133,
+        "y": 363,
+        "w": 99,
+        "h": 44
+      },
+      "onScreen": true,
+      "hit": true
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "cls": "mood-fragment mood-haze",
+      "text": "ぼんやり",
+      "ariaLabel": null,
+      "type": "button",
+      "href": null,
+      "disabled": false,
+      "rect": {
+        "x": 239,
+        "y": 363,
+        "w": 109,
+        "h": 44
+      },
+      "onScreen": true,
+      "hit": true
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "cls": "mood-fragment mood-restless",
+      "text": "ざわざわ",
+      "ariaLabel": null,
+      "type": "button",
+      "href": null,
+      "disabled": false,
+      "rect": {
+        "x": 42,
+        "y": 416,
+        "w": 99,
+        "h": 44
+      },
+      "onScreen": true,
+      "hit": true
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "cls": "mood-fragment mood-sweet",
+      "text": "甘い",
+      "ariaLabel": null,
+      "type": "button",
+      "href": null,
+      "disabled": false,
+      "rect": {
+        "x": 148,
+        "y": 416,
+        "w": 81,
+        "h": 44
+      },
+      "onScreen": true,
+      "hit": true
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "cls": "mood-fragment mood-rain",
+      "text": "雨っぽい",
+      "ariaLabel": null,
+      "type": "button",
+      "href": null,
+      "disabled": false,
+      "rect": {
+        "x": 236,
+        "y": 416,
+        "w": 112,
+        "h": 44
+      },
+      "onScreen": true,
+      "hit": true
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "cls": "mood-fragment mood-sleepy",
+      "text": "眠い",
+      "ariaLabel": null,
+      "type": "button",
+      "href": null,
+      "disabled": false,
+      "rect": {
+        "x": 42,
+        "y": 469,
+        "w": 91,
+        "h": 44
+      },
+      "onScreen": true,
+      "hit": true
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "cls": "mood-fragment mood-empty",
+      "text": "何もない",
+      "ariaLabel": null,
+      "type": "button",
+      "href": null,
+      "disabled": false,
+      "rect": {
+        "x": 140,
+        "y": 469,
+        "w": 112,
+        "h": 44
+      },
+      "onScreen": true,
+      "hit": true
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "cls": "",
+      "text": "PHOTO 写真 選択なし",
+      "ariaLabel": null,
+      "type": null,
+      "href": null,
+      "disabled": false,
+      "rect": {
+        "x": 43,
+        "y": 524,
+        "w": 304,
+        "h": 44
+      },
+      "onScreen": true,
+      "hit": true
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "cls": "",
+      "text": "",
+      "ariaLabel": null,
+      "type": "button",
+      "href": null,
+      "disabled": false,
+      "rect": {
+        "x": 52,
+        "y": 572,
+        "w": 92,
+        "h": 39
+      },
+      "onScreen": true,
+      "hit": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "cls": "",
+      "text": "",
+      "ariaLabel": null,
+      "type": "button",
+      "href": null,
+      "disabled": false,
+      "rect": {
+        "x": 149,
+        "y": 572,
+        "w": 92,
+        "h": 39
+      },
+      "onScreen": true,
+      "hit": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "cls": "",
+      "text": "",
+      "ariaLabel": null,
+      "type": "button",
+      "href": null,
+      "disabled": false,
+      "rect": {
+        "x": 246,
+        "y": 572,
+        "w": 92,
+        "h": 39
+      },
+      "onScreen": true,
+      "hit": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "cls": "",
+      "text": "",
+      "ariaLabel": null,
+      "type": "button",
+      "href": null,
+      "disabled": false,
+      "rect": {
+        "x": 52,
+        "y": 615,
+        "w": 92,
+        "h": 39
+      },
+      "onScreen": true,
+      "hit": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "cls": "",
+      "text": "",
+      "ariaLabel": null,
+      "type": "button",
+      "href": null,
+      "disabled": false,
+      "rect": {
+        "x": 149,
+        "y": 615,
+        "w": 92,
+        "h": 39
+      },
+      "onScreen": true,
+      "hit": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "cls": "",
+      "text": "",
+      "ariaLabel": null,
+      "type": "button",
+      "href": null,
+      "disabled": false,
+      "rect": {
+        "x": 246,
+        "y": 615,
+        "w": 92,
+        "h": 39
+      },
+      "onScreen": true,
+      "hit": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "diaryPhotoBrowse",
+      "cls": "diary-photo-browse",
+      "text": "",
+      "ariaLabel": null,
+      "type": "button",
+      "href": null,
+      "disabled": false,
+      "rect": {
+        "x": 53,
+        "y": 667,
+        "w": 75,
+        "h": 40
+      },
+      "onScreen": true,
+      "hit": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "diaryPhotoRailPrev",
+      "cls": "",
+      "text": "写真の一覧を左へ",
+      "ariaLabel": "写真の一覧を左へ",
+      "type": "button",
+      "href": null,
+      "disabled": true,
+      "rect": {
+        "x": 241,
+        "y": 665,
+        "w": 44,
+        "h": 44
+      },
+      "onScreen": true,
+      "hit": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "diaryPhotoRailNext",
+      "cls": "",
+      "text": "写真の一覧を右へ",
+      "ariaLabel": "写真の一覧を右へ",
+      "type": "button",
+      "href": null,
+      "disabled": false,
+      "rect": {
+        "x": 293,
+        "y": 665,
+        "w": 44,
+        "h": 44
+      },
+      "onScreen": true,
+      "hit": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "cls": "diary-photo-choice",
+      "text": "自販機・選ぶ",
+      "ariaLabel": "自販機・選ぶ",
+      "type": "button",
+      "href": null,
+      "disabled": false,
+      "rect": {
+        "x": 55,
+        "y": 721,
+        "w": 119,
+        "h": 153
+      },
+      "onScreen": true,
+      "hit": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "cls": "diary-photo-choice",
+      "text": "駅ホーム・選ぶ",
+      "ariaLabel": "駅ホーム・選ぶ",
+      "type": "button",
+      "href": null,
+      "disabled": false,
+      "rect": {
+        "x": 159,
+        "y": 723,
+        "w": 118,
+        "h": 152
+      },
+      "onScreen": true,
+      "hit": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "cls": "diary-photo-choice",
+      "text": "改札・選ぶ",
+      "ariaLabel": "改札・選ぶ",
+      "type": "button",
+      "href": null,
+      "disabled": false,
+      "rect": {
+        "x": 263,
+        "y": 724,
+        "w": 116,
+        "h": 151
+      },
+      "onScreen": true,
+      "hit": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "cls": "diary-photo-choice",
+      "text": "電車の窓・選ぶ",
+      "ariaLabel": "電車の窓・選ぶ",
+      "type": "button",
+      "href": null,
+      "disabled": false,
+      "rect": {
+        "x": 365,
+        "y": 724,
+        "w": 118,
+        "h": 152
+      },
+      "onScreen": true,
+      "hit": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "cls": "diary-photo-choice",
+      "text": "コインロッカー・選ぶ",
+      "ariaLabel": "コインロッカー・選ぶ",
+      "type": "button",
+      "href": null,
+      "disabled": false,
+      "rect": {
+        "x": 467,
+        "y": 724,
+        "w": 119,
+        "h": 153
+      },
+      "onScreen": false,
+      "hit": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "cls": "diary-photo-choice",
+      "text": "エレベーター・選ぶ",
+      "ariaLabel": "エレベーター・選ぶ",
+      "type": "button",
+      "href": null,
+      "disabled": false,
+      "rect": {
+        "x": 570,
+        "y": 724,
+        "w": 121,
+        "h": 155
+      },
+      "onScreen": false,
+      "hit": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "cls": "diary-photo-choice",
+      "text": "街中のガラス扉・選ぶ",
+      "ariaLabel": "街中のガラス扉・選ぶ",
+      "type": "button",
+      "href": null,
+      "disabled": false,
+      "rect": {
+        "x": 673,
+        "y": 721,
+        "w": 119,
+        "h": 153
+      },
+      "onScreen": false,
+      "hit": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "cls": "diary-photo-choice",
+      "text": "帰りの空席・選ぶ",
+      "ariaLabel": "帰りの空席・選ぶ",
+      "type": "button",
+      "href": null,
+      "disabled": false,
+      "rect": {
+        "x": 777,
+        "y": 723,
+        "w": 118,
+        "h": 152
+      },
+      "onScreen": false,
+      "hit": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "cls": "diary-photo-choice",
+      "text": "雨あがりの改札・選ぶ",
+      "ariaLabel": "雨あがりの改札・選ぶ",
+      "type": "button",
+      "href": null,
+      "disabled": false,
+      "rect": {
+        "x": 881,
+        "y": 724,
+        "w": 116,
+        "h": 151
+      },
+      "onScreen": false,
+      "hit": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "cls": "diary-photo-choice",
+      "text": "淡い水色とラベンダーの光が残る、遅い時間の無人バス車内・選ぶ",
+      "ariaLabel": "淡い水色とラベンダーの光が残る、遅い時間の無人バス車内・選ぶ",
+      "type": "button",
+      "href": null,
+      "disabled": false,
+      "rect": {
+        "x": 983,
+        "y": 724,
+        "w": 118,
+        "h": 152
+      },
+      "onScreen": false,
+      "hit": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "cls": "diary-photo-choice",
+      "text": "都会の青空・選ぶ",
+      "ariaLabel": "都会の青空・選ぶ",
+      "type": "button",
+      "href": null,
+      "disabled": false,
+      "rect": {
+        "x": 1085,
+        "y": 724,
+        "w": 119,
+        "h": 153
+      },
+      "onScreen": false,
+      "hit": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "cls": "diary-photo-choice",
+      "text": "ビル越しの夕方・選ぶ",
+      "ariaLabel": "ビル越しの夕方・選ぶ",
+      "type": "button",
+      "href": null,
+      "disabled": false,
+      "rect": {
+        "x": 1188,
+        "y": 724,
+        "w": 121,
+        "h": 155
+      },
+      "onScreen": false,
+      "hit": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "cls": "diary-photo-choice",
+      "text": "都会の夜空・選ぶ",
+      "ariaLabel": "都会の夜空・選ぶ",
+      "type": "button",
+      "href": null,
+      "disabled": false,
+      "rect": {
+        "x": 1291,
+        "y": 721,
+        "w": 119,
+        "h": 153
+      },
+      "onScreen": false,
+      "hit": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "cls": "diary-photo-choice",
+      "text": "建物のあいだの青空・選ぶ",
+      "ariaLabel": "建物のあいだの青空・選ぶ",
+      "type": "button",
+      "href": null,
+      "disabled": false,
+      "rect": {
+        "x": 1395,
+        "y": 723,
+        "w": 118,
+        "h": 152
+      },
+      "onScreen": false,
+      "hit": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "cls": "diary-photo-choice",
+      "text": "夕方の壁・選ぶ",
+      "ariaLabel": "夕方の壁・選ぶ",
+      "type": "button",
+      "href": null,
+      "disabled": false,
+      "rect": {
+        "x": 1499,
+        "y": 724,
+        "w": 116,
+        "h": 151
+      },
+      "onScreen": false,
+      "hit": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "cls": "diary-photo-choice",
+      "text": "雨あがりの透明傘・選ぶ",
+      "ariaLabel": "雨あがりの透明傘・選ぶ",
+      "type": "button",
+      "href": null,
+      "disabled": false,
+      "rect": {
+        "x": 1601,
+        "y": 724,
+        "w": 118,
+        "h": 152
+      },
+      "onScreen": false,
+      "hit": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "cls": "",
+      "text": "色・モチーフ OPTIONAL",
+      "ariaLabel": null,
+      "type": null,
+      "href": null,
+      "disabled": false,
+      "rect": {
+        "x": 43,
+        "y": 580,
+        "w": 304,
+        "h": 44
+      },
+      "onScreen": true,
+      "hit": true
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "cls": "",
+      "text": "淡いラベンダー",
+      "ariaLabel": "淡いラベンダー",
+      "type": "button",
+      "href": null,
+      "disabled": false,
+      "rect": {
+        "x": 54,
+        "y": 662,
+        "w": 47,
+        "h": 51
+      },
+      "onScreen": true,
+      "hit": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "cls": "",
+      "text": "花びらのピンク",
+      "ariaLabel": "花びらのピンク",
+      "type": "button",
+      "href": null,
+      "disabled": false,
+      "rect": {
+        "x": 112,
+        "y": 662,
+        "w": 48,
+        "h": 51
+      },
+      "onScreen": true,
+      "hit": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "cls": "",
+      "text": "朝の水色",
+      "ariaLabel": "朝の水色",
+      "type": "button",
+      "href": null,
+      "disabled": false,
+      "rect": {
+        "x": 170,
+        "y": 662,
+        "w": 47,
+        "h": 51
+      },
+      "onScreen": true,
+      "hit": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "cls": "",
+      "text": "真珠色",
+      "ariaLabel": "真珠色",
+      "type": "button",
+      "href": null,
+      "disabled": false,
+      "rect": {
+        "x": 228,
+        "y": 662,
+        "w": 48,
+        "h": 51
+      },
+      "onScreen": true,
+      "hit": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "cls": "",
+      "text": "淡いミント",
+      "ariaLabel": "淡いミント",
+      "type": "button",
+      "href": null,
+      "disabled": false,
+      "rect": {
+        "x": 286,
+        "y": 662,
+        "w": 47,
+        "h": 51
+      },
+      "onScreen": true,
+      "hit": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "cls": "",
+      "text": "淡いパールブルー",
+      "ariaLabel": "淡いパールブルー",
+      "type": "button",
+      "href": null,
+      "disabled": false,
+      "rect": {
+        "x": 54,
+        "y": 724,
+        "w": 48,
+        "h": 51
+      },
+      "onScreen": true,
+      "hit": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "cls": "",
+      "text": "",
+      "ariaLabel": null,
+      "type": "button",
+      "href": null,
+      "disabled": false,
+      "rect": {
+        "x": 55,
+        "y": 819,
+        "w": 53,
+        "h": 42
+      },
+      "onScreen": true,
+      "hit": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "cls": "",
+      "text": "",
+      "ariaLabel": null,
+      "type": "button",
+      "href": null,
+      "disabled": false,
+      "rect": {
+        "x": 116,
+        "y": 819,
+        "w": 50,
+        "h": 42
+      },
+      "onScreen": true,
+      "hit": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "cls": "",
+      "text": "",
+      "ariaLabel": null,
+      "type": "button",
+      "href": null,
+      "disabled": false,
+      "rect": {
+        "x": 174,
+        "y": 819,
+        "w": 54,
+        "h": 42
+      },
+      "onScreen": true,
+      "hit": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "cls": "",
+      "text": "",
+      "ariaLabel": null,
+      "type": "button",
+      "href": null,
+      "disabled": false,
+      "rect": {
+        "x": 236,
+        "y": 819,
+        "w": 74,
+        "h": 42
+      },
+      "onScreen": true,
+      "hit": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "cls": "",
+      "text": "",
+      "ariaLabel": null,
+      "type": "button",
+      "href": null,
+      "disabled": false,
+      "rect": {
+        "x": 55,
+        "y": 869,
+        "w": 114,
+        "h": 42
+      },
+      "onScreen": false,
+      "hit": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "cls": "",
+      "text": "",
+      "ariaLabel": null,
+      "type": "button",
+      "href": null,
+      "disabled": false,
+      "rect": {
+        "x": 177,
+        "y": 869,
+        "w": 66,
+        "h": 42
+      },
+      "onScreen": false,
+      "hit": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "cls": "",
+      "text": "",
+      "ariaLabel": null,
+      "type": "button",
+      "href": null,
+      "disabled": false,
+      "rect": {
+        "x": 251,
+        "y": 869,
+        "w": 53,
+        "h": 42
+      },
+      "onScreen": false,
+      "hit": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "cls": "",
+      "text": "",
+      "ariaLabel": null,
+      "type": "button",
+      "href": null,
+      "disabled": false,
+      "rect": {
+        "x": 55,
+        "y": 919,
+        "w": 55,
+        "h": 42
+      },
+      "onScreen": false,
+      "hit": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "cls": "",
+      "text": "",
+      "ariaLabel": null,
+      "type": "button",
+      "href": null,
+      "disabled": false,
+      "rect": {
+        "x": 118,
+        "y": 919,
+        "w": 54,
+        "h": 42
+      },
+      "onScreen": false,
+      "hit": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "cls": "",
+      "text": "",
+      "ariaLabel": null,
+      "type": "button",
+      "href": null,
+      "disabled": false,
+      "rect": {
+        "x": 180,
+        "y": 919,
+        "w": 49,
+        "h": 42
+      },
+      "onScreen": false,
+      "hit": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "cls": "",
+      "text": "",
+      "ariaLabel": null,
+      "type": "button",
+      "href": null,
+      "disabled": false,
+      "rect": {
+        "x": 237,
+        "y": 919,
+        "w": 52,
+        "h": 42
+      },
+      "onScreen": false,
+      "hit": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "cls": "",
+      "text": "",
+      "ariaLabel": null,
+      "type": "button",
+      "href": null,
+      "disabled": false,
+      "rect": {
+        "x": 55,
+        "y": 969,
+        "w": 72,
+        "h": 42
+      },
+      "onScreen": false,
+      "hit": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "cls": "",
+      "text": "言葉 OPTIONAL",
+      "ariaLabel": null,
+      "type": null,
+      "href": null,
+      "disabled": false,
+      "rect": {
+        "x": 43,
+        "y": 636,
+        "w": 304,
+        "h": 44
+      },
+      "onScreen": true,
+      "hit": true
+    },
+    {
+      "tag": "TEXTAREA",
+      "id": "quickDiaryText",
+      "cls": "",
+      "text": "ひとことだけでも、長くても。",
+      "ariaLabel": null,
+      "type": null,
+      "href": null,
+      "disabled": false,
+      "rect": {
+        "x": 55,
+        "y": 688,
+        "w": 280,
+        "h": 52
+      },
+      "onScreen": true,
+      "hit": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "quickDiarySave",
+      "cls": "",
+      "text": "残す",
+      "ariaLabel": null,
+      "type": "submit",
+      "href": null,
+      "disabled": true,
+      "rect": {
+        "x": 220,
+        "y": 694,
+        "w": 128,
+        "h": 48
+      },
+      "onScreen": true,
+      "hit": true
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "cls": "diary-recent-piece is-photo-fragment is-image-ready",
+      "text": "空を見ているくまの横顔 10/7",
+      "ariaLabel": "空を見ているくまの横顔をひらく",
+      "type": "button",
+      "href": null,
+      "disabled": false,
+      "rect": {
+        "x": 38,
+        "y": 848,
+        "w": 313,
+        "h": 170
+      },
+      "onScreen": false,
+      "hit": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "cls": "",
+      "text": "もう少し見る",
+      "ariaLabel": null,
+      "type": null,
+      "href": null,
+      "disabled": false,
+      "rect": {
+        "x": 40,
+        "y": 1650,
+        "w": 126,
+        "h": 45
+      },
+      "onScreen": false,
+      "hit": false
+    },
+    {
+      "tag": "SUMMARY",
+      "id": "",
+      "cls": "",
+      "text": "ARCHIVE 前の日々をひらく",
+      "ariaLabel": null,
+      "type": null,
+      "href": null,
+      "disabled": false,
+      "rect": {
+        "x": 26,
+        "y": 1775,
+        "w": 338,
+        "h": 68
+      },
+      "onScreen": false,
+      "hit": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "cls": "is-active",
+      "text": "",
+      "ariaLabel": null,
+      "type": "button",
+      "href": null,
+      "disabled": false,
+      "rect": {
+        "x": 73,
+        "y": 1856,
+        "w": 54,
+        "h": 42
+      },
+      "onScreen": false,
+      "hit": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "cls": "",
+      "text": "",
+      "ariaLabel": null,
+      "type": "button",
+      "href": null,
+      "disabled": false,
+      "rect": {
+        "x": 131,
+        "y": 1856,
+        "w": 54,
+        "h": 42
+      },
+      "onScreen": false,
+      "hit": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "cls": "",
+      "text": "",
+      "ariaLabel": null,
+      "type": "button",
+      "href": null,
+      "disabled": false,
+      "rect": {
+        "x": 189,
+        "y": 1856,
+        "w": 54,
+        "h": 42
+      },
+      "onScreen": false,
+      "hit": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "diaryPrev",
+      "cls": "",
+      "text": "前日",
+      "ariaLabel": "前日",
+      "type": "button",
+      "href": null,
+      "disabled": false,
+      "rect": {
+        "x": 46,
+        "y": 1906,
+        "w": 44,
+        "h": 44
+      },
+      "onScreen": false,
+      "hit": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "diaryNext",
+      "cls": "",
+      "text": "翌日",
+      "ariaLabel": "翌日",
+      "type": "button",
+      "href": null,
+      "disabled": true,
+      "rect": {
+        "x": 226,
+        "y": 1906,
+        "w": 44,
+        "h": 44
+      },
+      "onScreen": false,
+      "hit": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "cls": "day-detail-return",
+      "text": "",
+      "ariaLabel": null,
+      "type": "button",
+      "href": null,
+      "disabled": false,
+      "rect": {
+        "x": 37,
+        "y": 1977,
+        "w": 74,
+        "h": 40
+      },
+      "onScreen": false,
+      "hit": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "cls": "diary-entry",
+      "text": "空を見ているくまの横顔をひらく",
+      "ariaLabel": "空を見ているくまの横顔をひらく",
+      "type": "button",
+      "href": null,
+      "disabled": false,
+      "rect": {
+        "x": 37,
+        "y": 2072,
+        "w": 317,
+        "h": 171
+      },
+      "onScreen": false,
+      "hit": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "openCabinetThreshold",
+      "cls": "diary-cabinet-link",
+      "text": "WHAT REMAINED 残ったものを見る",
+      "ariaLabel": null,
+      "type": "button",
+      "href": null,
+      "disabled": false,
+      "rect": {
+        "x": 26,
+        "y": 1867,
+        "w": 338,
+        "h": 48
+      },
+      "onScreen": false,
+      "hit": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "cls": "page-back",
+      "text": "アトリエへ戻る",
+      "ariaLabel": null,
+      "type": null,
+      "href": "#home",
+      "disabled": false,
+      "rect": {
+        "x": 26,
+        "y": 1927,
+        "w": 338,
+        "h": 48
+      },
+      "onScreen": false,
+      "hit": false
+    }
+  ],
+  "artwork": [
+    {
+      "tag": "IMG",
+      "id": "",
+      "cls": "reflection-monthly-image",
+      "alt": "",
+      "rect": {
+        "x": 40,
+        "y": 1124,
+        "w": 310,
+        "h": 206.65625
+      }
+    }
+  ],
+  "scroll": {
+    "x": 0,
+    "y": 0,
+    "h": 844
+  },
+  "scrollContainers": [
+    {
+      "id": "",
+      "cls": "view diary-view is-active",
+      "top": 0,
+      "height": 844,
+      "scrollHeight": 2038
+    }
+  ],
+  "dialogs": []
+}

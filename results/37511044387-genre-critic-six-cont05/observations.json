@@ -1,0 +1,3220 @@
+{
+  "request": "genre-critic-six-cont05",
+  "target": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+  "mode": "human-selected actions through remote WebKit",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "engine": "webkit",
+  "events": [
+    {
+      "step": 1,
+      "action": {
+        "kind": "tap",
+        "selector": ".home-diary-entry",
+        "label": "return-to-diary",
+        "wait": 1300
+      },
+      "result": {
+        "x": 87.43749904632568,
+        "y": 371.515625,
+        "label": "Diaryを開く",
+        "id": ""
+      },
+      "error": null,
+      "before": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+        "route": "home"
+      },
+      "after": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#diary",
+        "route": "diary"
+      }
+    },
+    {
+      "step": 2,
+      "action": {
+        "kind": "tap",
+        "selector": "#openCabinetThreshold",
+        "label": "revisit-cabinet",
+        "wait": 1500
+      },
+      "result": {
+        "x": 195,
+        "y": 696.734375,
+        "label": "WHAT REMAINED\n残ったものを見る",
+        "id": "openCabinetThreshold"
+      },
+      "error": null,
+      "before": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#diary",
+        "route": "diary"
+      },
+      "after": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#diary",
+        "route": "diary"
+      }
+    },
+    {
+      "step": 3,
+      "action": {
+        "kind": "tap",
+        "selector": "#enterCabinet",
+        "label": "enter-if-threshold-present",
+        "timeout": 2000,
+        "optional": true,
+        "wait": 2000,
+        "picture": true
+      },
+      "result": {
+        "x": 194.984375,
+        "y": 456,
+        "label": "中を見る",
+        "id": "enterCabinet"
+      },
+      "error": null,
+      "before": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#diary",
+        "route": "diary"
+      },
+      "after": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#cabinet",
+        "route": "cabinet"
+      }
+    },
+    {
+      "step": 4,
+      "action": {
+        "kind": "tap",
+        "point": [
+          142,
+          377
+        ],
+        "label": "touch-drawer-glass-knot",
+        "wait": 1600,
+        "picture": true
+      },
+      "result": {
+        "x": 142,
+        "y": 377,
+        "hit": {
+          "tag": "DIV",
+          "id": "",
+          "cls": "cabinet-master-shell",
+          "label": ""
+        },
+        "method": "viewport coordinate selected from screenshot"
+      },
+      "error": null,
+      "before": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#cabinet",
+        "route": "cabinet"
+      },
+      "after": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#cabinet",
+        "route": "cabinet"
+      }
+    },
+    {
+      "step": 5,
+      "action": {
+        "kind": "tap",
+        "point": [
+          266,
+          459
+        ],
+        "label": "touch-drawer-bottle",
+        "wait": 1600,
+        "picture": true
+      },
+      "result": {
+        "x": 266,
+        "y": 459,
+        "hit": {
+          "tag": "DIV",
+          "id": "",
+          "cls": "cabinet-master-shell",
+          "label": ""
+        },
+        "method": "viewport coordinate selected from screenshot"
+      },
+      "error": null,
+      "before": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#cabinet",
+        "route": "cabinet"
+      },
+      "after": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#cabinet",
+        "route": "cabinet"
+      }
+    },
+    {
+      "step": 6,
+      "action": {
+        "kind": "tap",
+        "point": [
+          212,
+          594
+        ],
+        "label": "touch-drawer-disk",
+        "wait": 1600,
+        "picture": true
+      },
+      "result": {
+        "x": 212,
+        "y": 594,
+        "hit": {
+          "tag": "DIV",
+          "id": "",
+          "cls": "cabinet-master-shell",
+          "label": ""
+        },
+        "method": "viewport coordinate selected from screenshot"
+      },
+      "error": null,
+      "before": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#cabinet",
+        "route": "cabinet"
+      },
+      "after": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#cabinet",
+        "route": "cabinet"
+      }
+    },
+    {
+      "step": 7,
+      "action": {
+        "kind": "tap",
+        "selector": ".wordmark:visible",
+        "label": "leave-cabinet-for-home",
+        "wait": 1500
+      },
+      "result": {
+        "x": 86.875,
+        "y": 32.5,
+        "label": "NIKO² ATELIER",
+        "id": ""
+      },
+      "error": null,
+      "before": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#cabinet",
+        "route": "cabinet"
+      },
+      "after": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+        "route": "home"
+      }
+    },
+    {
+      "step": 8,
+      "action": {
+        "kind": "tap",
+        "selector": ".unknown-entry",
+        "label": "open-unknown-doorway",
+        "wait": 2500,
+        "picture": true
+      },
+      "result": {
+        "x": 194.5,
+        "y": 767.328125,
+        "label": "???",
+        "id": ""
+      },
+      "error": null,
+      "before": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+        "route": "home"
+      },
+      "after": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#unknown",
+        "route": "unknown"
+      }
+    },
+    {
+      "step": 9,
+      "action": {
+        "kind": "wait",
+        "ms": 5000,
+        "label": "watch-unknown-room",
+        "picture": true
+      },
+      "result": null,
+      "error": null,
+      "before": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#unknown",
+        "route": "unknown"
+      },
+      "after": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#unknown",
+        "route": "unknown"
+      }
+    }
+  ],
+  "observations": [
+    {
+      "label": "arrival",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+      "route": "home",
+      "viewportText": "WORLD\nWORLD",
+      "renderedBodyText": "作品へ移動\n \nWORLD\nWORLD\n水面の向こうに、いくつかの場所がひらいています。\n\n\nABOUT\nもふもふはいます。\nPLAY / SHARE / FAN WORK\nNIKO²での生活について\n好きな形で遊ぶための、小さな境界。\nDEAR ATELIER\nお手紙を送る\nAtelierの受取箱へ。\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+      "controls": [
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "skip-link",
+          "text": "作品へ移動",
+          "ariaLabel": null,
+          "type": null,
+          "href": "#main",
+          "disabled": false,
+          "rect": {
+            "x": 8,
+            "y": -61,
+            "w": 108,
+            "h": 43
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "ariaLabel": "音をオンにする",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "home-letter-entry",
+          "text": "FROM THE ATELIERを開く",
+          "ariaLabel": "FROM THE ATELIERを開く",
+          "type": null,
+          "href": "#notes",
+          "disabled": false,
+          "rect": {
+            "x": 279,
+            "y": 274,
+            "w": 91,
+            "h": 92
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "home-diary-entry",
+          "text": "Diaryを開く",
+          "ariaLabel": "Diaryを開く",
+          "type": null,
+          "href": "#diary",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 298,
+            "w": 147,
+            "h": 147
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "ariaLabel": "Enter the dream",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "home-world-lab",
+          "text": "WORLDを開く",
+          "ariaLabel": "WORLDを開く",
+          "type": null,
+          "href": "#world",
+          "disabled": false,
+          "rect": {
+            "x": 23,
+            "y": 921,
+            "w": 343,
+            "h": 193
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "home-about-window",
+          "text": "ABOUT もふもふはいます。",
+          "ariaLabel": "Aboutを開く",
+          "type": null,
+          "href": "#about",
+          "disabled": false,
+          "rect": {
+            "x": 43,
+            "y": 1398,
+            "w": 304,
+            "h": 252
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "home-quiet-link home-rights-entry",
+          "text": "PLAY / SHARE / FAN WORK NIKO²での生活について 好きな形で遊ぶための、小さな境界。",
+          "ariaLabel": null,
+          "type": null,
+          "href": "#rights",
+          "disabled": false,
+          "rect": {
+            "x": 31,
+            "y": 1798,
+            "w": 328,
+            "h": 124
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "home-quiet-link home-dear-entry",
+          "text": "DEAR ATELIER お手紙を送る Atelierの受取箱へ。",
+          "ariaLabel": null,
+          "type": null,
+          "href": "#dear",
+          "disabled": false,
+          "rect": {
+            "x": 31,
+            "y": 1936,
+            "w": 328,
+            "h": 124
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "unknown-entry",
+          "text": "???",
+          "ariaLabel": "用途不明の部屋を開く",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 0,
+            "y": 2110,
+            "w": 390,
+            "h": 58
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "",
+          "text": "Rights",
+          "ariaLabel": null,
+          "type": null,
+          "href": "#rights",
+          "disabled": false,
+          "rect": {
+            "x": 176,
+            "y": 2179,
+            "w": 37,
+            "h": 13
+          },
+          "onScreen": false,
+          "hit": false
+        }
+      ],
+      "artwork": [
+        {
+          "tag": "IMG",
+          "id": "",
+          "cls": "home-art",
+          "alt": "虹色の薄布と月明かりに包まれたNIKO² ATELIERの入口",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "w": 390,
+            "h": 843.984375
+          }
+        },
+        {
+          "tag": "IMG",
+          "id": "",
+          "cls": "",
+          "alt": "",
+          "rect": {
+            "x": 282.0892028808594,
+            "y": 273.550537109375,
+            "w": 88.18991088867188,
+            "h": 88.18991088867188
+          }
+        },
+        {
+          "tag": "IMG",
+          "id": "homeTitle",
+          "cls": "home-logo-master",
+          "alt": "NIKO² ATELIER",
+          "rect": {
+            "x": 58.5,
+            "y": 130.8125,
+            "w": 273,
+            "h": 182
+          }
+        },
+        {
+          "tag": "IMG",
+          "id": "",
+          "cls": "",
+          "alt": "",
+          "rect": {
+            "x": 13.886076927185059,
+            "y": 297.9642028808594,
+            "w": 147.10284423828125,
+            "h": 147.10284423828125
+          }
+        },
+        {
+          "tag": "IMG",
+          "id": "",
+          "cls": "",
+          "alt": "Enter the dream",
+          "rect": {
+            "x": 90,
+            "y": 493.71875,
+            "w": 210,
+            "h": 70
+          }
+        },
+        {
+          "tag": "IMG",
+          "id": "",
+          "cls": "",
+          "alt": "",
+          "rect": {
+            "x": 23.40625,
+            "y": 920.5625,
+            "w": 343.1875,
+            "h": 193.03125
+          }
+        },
+        {
+          "tag": "IMG",
+          "id": "",
+          "cls": "",
+          "alt": "もふもふのいるAbout",
+          "rect": {
+            "x": 42.90625,
+            "y": 1397.515625,
+            "w": 304.1875,
+            "h": 202.78125
+          }
+        }
+      ],
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "h": 844
+      },
+      "scrollContainers": [
+        {
+          "id": "",
+          "cls": "view home-view is-active",
+          "top": 0,
+          "height": 844,
+          "scrollHeight": 2216
+        }
+      ],
+      "dialogs": [],
+      "screenshot": "001-arrival.jpg"
+    },
+    {
+      "label": "return-to-diary",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#diary",
+      "route": "diary",
+      "viewportText": "NIKO² ATELIER\nDream\nDiary\nAbout\nNIKO² DIARY\nDiary\n今日のことを、ひとつだけ。\n10月7日 03:25\nTODAY\n今日を残す\n✦\nいまの気配\n静か\nきらきら\nぼんやり\nざわざわ\n甘い\n雨っぽい\n眠い\n何もない\nPHOTO\n選択なし\n色・モチーフ\nOPTIONAL\n言葉\nOPTIONAL\nこの端末だけに残ります\n残す\nRECENT\n少し前の自分",
+      "renderedBodyText": "作品へ移動\nNIKO² ATELIER\nDream\nDiary\nAbout\n\n\n\n\nNIKO² DIARY\nDiary\n今日のことを、ひとつだけ。\n10月7日 03:25\nTODAY\n今日を残す\n✦\nいまの気配\n\n静か\n\nきらきら\n\nぼんやり\n\nざわざわ\n\n甘い\n\n雨っぽい\n\n眠い\n\n何もない\nPHOTO\n写真\n選択なし\n色・モチーフ\nOPTIONAL\n言葉\nOPTIONAL\nこの端末だけに残ります\n残す\nRECENT\n少し前の自分\n\n空を見ているくまの横顔\n10/7\n2026年10月\nMONTHLY REFLECTION\n今月の景色\nよく残った気配\n静かな余白\nよく残った色\n色のない紙片\nよく残ったモチーフ\n名前のないもの\nまだ記録が少ないので、傾向ではなく、残ったものをそのまま眺めています。\nもう少し見る\nARCHIVE\n前の日々をひらく\n\nWHAT REMAINED\n残ったものを見る\nアトリエへ戻る\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+      "controls": [
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "skip-link",
+          "text": "作品へ移動",
+          "ariaLabel": null,
+          "type": null,
+          "href": "#main",
+          "disabled": false,
+          "rect": {
+            "x": 8,
+            "y": -61,
+            "w": 108,
+            "h": 43
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "wordmark",
+          "text": "NIKO² ATELIER",
+          "ariaLabel": "NIKO² ATELIER ホームへ",
+          "type": null,
+          "href": "#home",
+          "disabled": false,
+          "rect": {
+            "x": 25,
+            "y": 13,
+            "w": 124,
+            "h": 44
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "",
+          "text": "Dream",
+          "ariaLabel": null,
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 86,
+            "y": 58,
+            "w": 64,
+            "h": 44
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "",
+          "text": "Diary",
+          "ariaLabel": null,
+          "type": null,
+          "href": "#diary",
+          "disabled": false,
+          "rect": {
+            "x": 166,
+            "y": 58,
+            "w": 64,
+            "h": 44
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "",
+          "text": "About",
+          "ariaLabel": null,
+          "type": null,
+          "href": "#about",
+          "disabled": false,
+          "rect": {
+            "x": 246,
+            "y": 58,
+            "w": 64,
+            "h": 44
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "ariaLabel": "音をオンにする",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "mood-fragment mood-quiet",
+          "text": "静か",
+          "ariaLabel": null,
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 42,
+            "y": 363,
+            "w": 84,
+            "h": 44
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "mood-fragment mood-sparkle",
+          "text": "きらきら",
+          "ariaLabel": null,
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 133,
+            "y": 363,
+            "w": 99,
+            "h": 44
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "mood-fragment mood-haze",
+          "text": "ぼんやり",
+          "ariaLabel": null,
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 239,
+            "y": 363,
+            "w": 109,
+            "h": 44
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "mood-fragment mood-restless",
+          "text": "ざわざわ",
+          "ariaLabel": null,
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 42,
+            "y": 416,
+            "w": 99,
+            "h": 44
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "mood-fragment mood-sweet",
+          "text": "甘い",
+          "ariaLabel": null,
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 148,
+            "y": 416,
+            "w": 81,
+            "h": 44
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "mood-fragment mood-rain",
+          "text": "雨っぽい",
+          "ariaLabel": null,
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 236,
+            "y": 416,
+            "w": 112,
+            "h": 44
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "mood-fragment mood-sleepy",
+          "text": "眠い",
+          "ariaLabel": null,
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 42,
+            "y": 469,
+            "w": 91,
+            "h": 44
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "mood-fragment mood-empty",
+          "text": "何もない",
+          "ariaLabel": null,
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 140,
+            "y": 469,
+            "w": 112,
+            "h": 44
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "SUMMARY",
+          "id": "",
+          "cls": "",
+          "text": "PHOTO 写真 選択なし",
+          "ariaLabel": null,
+          "type": null,
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 43,
+            "y": 524,
+            "w": 304,
+            "h": 44
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "",
+          "text": "",
+          "ariaLabel": null,
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 52,
+            "y": 572,
+            "w": 92,
+            "h": 39
+          },
+          "onScreen": true,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "",
+          "text": "",
+          "ariaLabel": null,
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 149,
+            "y": 572,
+            "w": 92,
+            "h": 39
+          },
+          "onScreen": true,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "",
+          "text": "",
+          "ariaLabel": null,
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 246,
+            "y": 572,
+            "w": 92,
+            "h": 39
+          },
+          "onScreen": true,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "",
+          "text": "",
+          "ariaLabel": null,
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 52,
+            "y": 615,
+            "w": 92,
+            "h": 39
+          },
+          "onScreen": true,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "",
+          "text": "",
+          "ariaLabel": null,
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 149,
+            "y": 615,
+            "w": 92,
+            "h": 39
+          },
+          "onScreen": true,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "",
+          "text": "",
+          "ariaLabel": null,
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 246,
+            "y": 615,
+            "w": 92,
+            "h": 39
+          },
+          "onScreen": true,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "diaryPhotoBrowse",
+          "cls": "diary-photo-browse",
+          "text": "",
+          "ariaLabel": null,
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 53,
+            "y": 667,
+            "w": 75,
+            "h": 40
+          },
+          "onScreen": true,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "diaryPhotoRailPrev",
+          "cls": "",
+          "text": "写真の一覧を左へ",
+          "ariaLabel": "写真の一覧を左へ",
+          "type": "button",
+          "href": null,
+          "disabled": true,
+          "rect": {
+            "x": 241,
+            "y": 665,
+            "w": 44,
+            "h": 44
+          },
+          "onScreen": true,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "diaryPhotoRailNext",
+          "cls": "",
+          "text": "写真の一覧を右へ",
+          "ariaLabel": "写真の一覧を右へ",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 293,
+            "y": 665,
+            "w": 44,
+            "h": 44
+          },
+          "onScreen": true,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "diary-photo-choice",
+          "text": "自販機・選ぶ",
+          "ariaLabel": "自販機・選ぶ",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 55,
+            "y": 721,
+            "w": 119,
+            "h": 153
+          },
+          "onScreen": true,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "diary-photo-choice",
+          "text": "駅ホーム・選ぶ",
+          "ariaLabel": "駅ホーム・選ぶ",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 159,
+            "y": 723,
+            "w": 118,
+            "h": 152
+          },
+          "onScreen": true,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "diary-photo-choice",
+          "text": "改札・選ぶ",
+          "ariaLabel": "改札・選ぶ",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 263,
+            "y": 724,
+            "w": 116,
+            "h": 151
+          },
+          "onScreen": true,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "diary-photo-choice",
+          "text": "電車の窓・選ぶ",
+          "ariaLabel": "電車の窓・選ぶ",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 365,
+            "y": 724,
+            "w": 118,
+            "h": 152
+          },
+          "onScreen": true,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "diary-photo-choice",
+          "text": "コインロッカー・選ぶ",
+          "ariaLabel": "コインロッカー・選ぶ",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 467,
+            "y": 724,
+            "w": 119,
+            "h": 153
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "diary-photo-choice",
+          "text": "エレベーター・選ぶ",
+          "ariaLabel": "エレベーター・選ぶ",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 570,
+            "y": 724,
+            "w": 121,
+            "h": 155
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "diary-photo-choice",
+          "text": "街中のガラス扉・選ぶ",
+          "ariaLabel": "街中のガラス扉・選ぶ",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 673,
+            "y": 721,
+            "w": 119,
+            "h": 153
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "diary-photo-choice",
+          "text": "帰りの空席・選ぶ",
+          "ariaLabel": "帰りの空席・選ぶ",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 777,
+            "y": 723,
+            "w": 118,
+            "h": 152
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "diary-photo-choice",
+          "text": "雨あがりの改札・選ぶ",
+          "ariaLabel": "雨あがりの改札・選ぶ",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 881,
+            "y": 724,
+            "w": 116,
+            "h": 151
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "diary-photo-choice",
+          "text": "淡い水色とラベンダーの光が残る、遅い時間の無人バス車内・選ぶ",
+          "ariaLabel": "淡い水色とラベンダーの光が残る、遅い時間の無人バス車内・選ぶ",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 983,
+            "y": 724,
+            "w": 118,
+            "h": 152
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "diary-photo-choice",
+          "text": "都会の青空・選ぶ",
+          "ariaLabel": "都会の青空・選ぶ",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 1085,
+            "y": 724,
+            "w": 119,
+            "h": 153
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "diary-photo-choice",
+          "text": "ビル越しの夕方・選ぶ",
+          "ariaLabel": "ビル越しの夕方・選ぶ",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 1188,
+            "y": 724,
+            "w": 121,
+            "h": 155
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "diary-photo-choice",
+          "text": "都会の夜空・選ぶ",
+          "ariaLabel": "都会の夜空・選ぶ",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 1291,
+            "y": 721,
+            "w": 119,
+            "h": 153
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "diary-photo-choice",
+          "text": "建物のあいだの青空・選ぶ",
+          "ariaLabel": "建物のあいだの青空・選ぶ",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 1395,
+            "y": 723,
+            "w": 118,
+            "h": 152
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "diary-photo-choice",
+          "text": "夕方の壁・選ぶ",
+          "ariaLabel": "夕方の壁・選ぶ",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 1499,
+            "y": 724,
+            "w": 116,
+            "h": 151
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "diary-photo-choice",
+          "text": "雨あがりの透明傘・選ぶ",
+          "ariaLabel": "雨あがりの透明傘・選ぶ",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 1601,
+            "y": 724,
+            "w": 118,
+            "h": 152
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "SUMMARY",
+          "id": "",
+          "cls": "",
+          "text": "色・モチーフ OPTIONAL",
+          "ariaLabel": null,
+          "type": null,
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 43,
+            "y": 580,
+            "w": 304,
+            "h": 44
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "",
+          "text": "淡いラベンダー",
+          "ariaLabel": "淡いラベンダー",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 54,
+            "y": 662,
+            "w": 47,
+            "h": 51
+          },
+          "onScreen": true,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "",
+          "text": "花びらのピンク",
+          "ariaLabel": "花びらのピンク",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 112,
+            "y": 662,
+            "w": 48,
+            "h": 51
+          },
+          "onScreen": true,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "",
+          "text": "朝の水色",
+          "ariaLabel": "朝の水色",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 170,
+            "y": 662,
+            "w": 47,
+            "h": 51
+          },
+          "onScreen": true,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "",
+          "text": "真珠色",
+          "ariaLabel": "真珠色",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 228,
+            "y": 662,
+            "w": 48,
+            "h": 51
+          },
+          "onScreen": true,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "",
+          "text": "淡いミント",
+          "ariaLabel": "淡いミント",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 286,
+            "y": 662,
+            "w": 47,
+            "h": 51
+          },
+          "onScreen": true,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "",
+          "text": "淡いパールブルー",
+          "ariaLabel": "淡いパールブルー",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 54,
+            "y": 724,
+            "w": 48,
+            "h": 51
+          },
+          "onScreen": true,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "",
+          "text": "",
+          "ariaLabel": null,
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 55,
+            "y": 819,
+            "w": 53,
+            "h": 42
+          },
+          "onScreen": true,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "",
+          "text": "",
+          "ariaLabel": null,
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 116,
+            "y": 819,
+            "w": 50,
+            "h": 42
+          },
+          "onScreen": true,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "",
+          "text": "",
+          "ariaLabel": null,
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 174,
+            "y": 819,
+            "w": 54,
+            "h": 42
+          },
+          "onScreen": true,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "",
+          "text": "",
+          "ariaLabel": null,
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 236,
+            "y": 819,
+            "w": 74,
+            "h": 42
+          },
+          "onScreen": true,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "",
+          "text": "",
+          "ariaLabel": null,
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 55,
+            "y": 869,
+            "w": 114,
+            "h": 42
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "",
+          "text": "",
+          "ariaLabel": null,
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 177,
+            "y": 869,
+            "w": 66,
+            "h": 42
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "",
+          "text": "",
+          "ariaLabel": null,
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 251,
+            "y": 869,
+            "w": 53,
+            "h": 42
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "",
+          "text": "",
+          "ariaLabel": null,
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 55,
+            "y": 919,
+            "w": 55,
+            "h": 42
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "",
+          "text": "",
+          "ariaLabel": null,
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 118,
+            "y": 919,
+            "w": 54,
+            "h": 42
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "",
+          "text": "",
+          "ariaLabel": null,
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 180,
+            "y": 919,
+            "w": 49,
+            "h": 42
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "",
+          "text": "",
+          "ariaLabel": null,
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 237,
+            "y": 919,
+            "w": 52,
+            "h": 42
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "",
+          "text": "",
+          "ariaLabel": null,
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 55,
+            "y": 969,
+            "w": 72,
+            "h": 42
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "SUMMARY",
+          "id": "",
+          "cls": "",
+          "text": "言葉 OPTIONAL",
+          "ariaLabel": null,
+          "type": null,
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 43,
+            "y": 636,
+            "w": 304,
+            "h": 44
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "TEXTAREA",
+          "id": "quickDiaryText",
+          "cls": "",
+          "text": "ひとことだけでも、長くても。",
+          "ariaLabel": null,
+          "type": null,
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 55,
+            "y": 688,
+            "w": 280,
+            "h": 52
+          },
+          "onScreen": true,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "quickDiarySave",
+          "cls": "",
+          "text": "残す",
+          "ariaLabel": null,
+          "type": "submit",
+          "href": null,
+          "disabled": true,
+          "rect": {
+            "x": 220,
+            "y": 694,
+            "w": 128,
+            "h": 48
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "diary-recent-piece is-photo-fragment is-image-ready",
+          "text": "空を見ているくまの横顔 10/7",
+          "ariaLabel": "空を見ているくまの横顔をひらく",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 38,
+            "y": 848,
+            "w": 313,
+            "h": 170
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "SUMMARY",
+          "id": "",
+          "cls": "",
+          "text": "もう少し見る",
+          "ariaLabel": null,
+          "type": null,
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 40,
+            "y": 1650,
+            "w": 126,
+            "h": 45
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "SUMMARY",
+          "id": "",
+          "cls": "",
+          "text": "ARCHIVE 前の日々をひらく",
+          "ariaLabel": null,
+          "type": null,
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 26,
+            "y": 1775,
+            "w": 338,
+            "h": 68
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "is-active",
+          "text": "",
+          "ariaLabel": null,
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 73,
+            "y": 1856,
+            "w": 54,
+            "h": 42
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "",
+          "text": "",
+          "ariaLabel": null,
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 131,
+            "y": 1856,
+            "w": 54,
+            "h": 42
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "",
+          "text": "",
+          "ariaLabel": null,
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 189,
+            "y": 1856,
+            "w": 54,
+            "h": 42
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "diaryPrev",
+          "cls": "",
+          "text": "前日",
+          "ariaLabel": "前日",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 46,
+            "y": 1906,
+            "w": 44,
+            "h": 44
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "diaryNext",
+          "cls": "",
+          "text": "翌日",
+          "ariaLabel": "翌日",
+          "type": "button",
+          "href": null,
+          "disabled": true,
+          "rect": {
+            "x": 226,
+            "y": 1906,
+            "w": 44,
+            "h": 44
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "day-detail-return",
+          "text": "",
+          "ariaLabel": null,
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 37,
+            "y": 1977,
+            "w": 74,
+            "h": 40
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "diary-entry",
+          "text": "空を見ているくまの横顔をひらく",
+          "ariaLabel": "空を見ているくまの横顔をひらく",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 37,
+            "y": 2072,
+            "w": 317,
+            "h": 171
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "openCabinetThreshold",
+          "cls": "diary-cabinet-link",
+          "text": "WHAT REMAINED 残ったものを見る",
+          "ariaLabel": null,
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 26,
+            "y": 1867,
+            "w": 338,
+            "h": 48
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "page-back",
+          "text": "アトリエへ戻る",
+          "ariaLabel": null,
+          "type": null,
+          "href": "#home",
+          "disabled": false,
+          "rect": {
+            "x": 26,
+            "y": 1927,
+            "w": 338,
+            "h": 48
+          },
+          "onScreen": false,
+          "hit": false
+        }
+      ],
+      "artwork": [
+        {
+          "tag": "IMG",
+          "id": "",
+          "cls": "reflection-monthly-image",
+          "alt": "",
+          "rect": {
+            "x": 40,
+            "y": 1124,
+            "w": 310,
+            "h": 206.65625
+          }
+        }
+      ],
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "h": 844
+      },
+      "scrollContainers": [
+        {
+          "id": "",
+          "cls": "view diary-view is-active",
+          "top": 0,
+          "height": 844,
+          "scrollHeight": 2038
+        }
+      ],
+      "dialogs": []
+    },
+    {
+      "label": "revisit-cabinet",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#diary",
+      "route": "diary",
+      "viewportText": "持ち帰ったものは、ここに残る。\n増えるほど、棚の景色も少しずつ変わる。\n中を見る",
+      "renderedBodyText": "作品へ移動\n\n\n\nNIKO² DIARY\nDiary\n今日のことを、ひとつだけ。\n10月7日 03:25\nTODAY\n今日を残す\n✦\nいまの気配\n\n静か\n\nきらきら\n\nぼんやり\n\nざわざわ\n\n甘い\n\n雨っぽい\n\n眠い\n\n何もない\nPHOTO\n写真\n選択なし\n色・モチーフ\nOPTIONAL\n言葉\nOPTIONAL\nこの端末だけに残ります\n残す\nRECENT\n少し前の自分\n\n空を見ているくまの横顔\n10/7\n2026年10月\nMONTHLY REFLECTION\n今月の景色\nよく残った気配\n静かな余白\nよく残った色\n色のない紙片\nよく残ったモチーフ\n名前のないもの\nまだ記録が少ないので、傾向ではなく、残ったものをそのまま眺めています。\nもう少し見る\nARCHIVE\n前の日々をひらく\n\nWHAT REMAINED\n残ったものを見る\nアトリエへ戻る\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n持ち帰ったものは、ここに残る。\n増えるほど、棚の景色も少しずつ変わる。\n中を見る\n",
+      "controls": [
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "skip-link",
+          "text": "作品へ移動",
+          "ariaLabel": null,
+          "type": null,
+          "href": "#main",
+          "disabled": false,
+          "rect": {
+            "x": 8,
+            "y": -61,
+            "w": 108,
+            "h": 43
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "ariaLabel": "音をオンにする",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "enterCabinet",
+          "cls": "",
+          "text": "中を見る",
+          "ariaLabel": null,
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 135,
+            "y": 434,
+            "w": 120,
+            "h": 44
+          },
+          "onScreen": true,
+          "hit": true
+        }
+      ],
+      "artwork": [],
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "h": 844
+      },
+      "scrollContainers": [],
+      "dialogs": []
+    },
+    {
+      "label": "enter-if-threshold-present",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#cabinet",
+      "route": "cabinet",
+      "viewportText": "NIKO² ATELIER\nWHAT REMAINED\nTHE CABINET",
+      "renderedBodyText": "作品へ移動\nNIKO² ATELIER\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWHAT REMAINED\nTHE CABINET\n\n",
+      "controls": [
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "skip-link",
+          "text": "作品へ移動",
+          "ariaLabel": null,
+          "type": null,
+          "href": "#main",
+          "disabled": false,
+          "rect": {
+            "x": 8,
+            "y": -61,
+            "w": 108,
+            "h": 43
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "wordmark",
+          "text": "NIKO² ATELIER",
+          "ariaLabel": "NIKO² ATELIER ホームへ",
+          "type": null,
+          "href": "#home",
+          "disabled": false,
+          "rect": {
+            "x": 25,
+            "y": 18,
+            "w": 124,
+            "h": 29
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "ariaLabel": "音をオンにする",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "cabinetBack",
+          "cls": "cabinet-back",
+          "text": "前の場所へ戻る",
+          "ariaLabel": "前の場所へ戻る",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 88,
+            "w": 46,
+            "h": 46
+          },
+          "onScreen": true,
+          "hit": true
+        }
+      ],
+      "artwork": [
+        {
+          "tag": "IMG",
+          "id": "",
+          "cls": "cabinet-master-wall",
+          "alt": "",
+          "rect": {
+            "x": 23,
+            "y": 274.828125,
+            "w": 344,
+            "h": 447.328125
+          }
+        }
+      ],
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "h": 844
+      },
+      "scrollContainers": [],
+      "dialogs": [],
+      "screenshot": "004-enter-if-threshold-present.jpg"
+    },
+    {
+      "label": "touch-drawer-glass-knot",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#cabinet",
+      "route": "cabinet",
+      "viewportText": "NIKO² ATELIER\nWHAT REMAINED\nTHE CABINET",
+      "renderedBodyText": "作品へ移動\nNIKO² ATELIER\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWHAT REMAINED\nTHE CABINET\n\n",
+      "controls": [
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "skip-link",
+          "text": "作品へ移動",
+          "ariaLabel": null,
+          "type": null,
+          "href": "#main",
+          "disabled": false,
+          "rect": {
+            "x": 8,
+            "y": -61,
+            "w": 108,
+            "h": 43
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "wordmark",
+          "text": "NIKO² ATELIER",
+          "ariaLabel": "NIKO² ATELIER ホームへ",
+          "type": null,
+          "href": "#home",
+          "disabled": false,
+          "rect": {
+            "x": 25,
+            "y": 18,
+            "w": 124,
+            "h": 29
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "ariaLabel": "音をオンにする",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "cabinetBack",
+          "cls": "cabinet-back",
+          "text": "前の場所へ戻る",
+          "ariaLabel": "前の場所へ戻る",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 88,
+            "w": 46,
+            "h": 46
+          },
+          "onScreen": true,
+          "hit": true
+        }
+      ],
+      "artwork": [
+        {
+          "tag": "IMG",
+          "id": "",
+          "cls": "cabinet-master-wall",
+          "alt": "",
+          "rect": {
+            "x": 23,
+            "y": 274.828125,
+            "w": 344,
+            "h": 447.328125
+          }
+        }
+      ],
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "h": 844
+      },
+      "scrollContainers": [],
+      "dialogs": [],
+      "screenshot": "005-touch-drawer-glass-knot.jpg"
+    },
+    {
+      "label": "touch-drawer-bottle",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#cabinet",
+      "route": "cabinet",
+      "viewportText": "NIKO² ATELIER\nWHAT REMAINED\nTHE CABINET",
+      "renderedBodyText": "作品へ移動\nNIKO² ATELIER\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWHAT REMAINED\nTHE CABINET\n\n",
+      "controls": [
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "skip-link",
+          "text": "作品へ移動",
+          "ariaLabel": null,
+          "type": null,
+          "href": "#main",
+          "disabled": false,
+          "rect": {
+            "x": 8,
+            "y": -61,
+            "w": 108,
+            "h": 43
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "wordmark",
+          "text": "NIKO² ATELIER",
+          "ariaLabel": "NIKO² ATELIER ホームへ",
+          "type": null,
+          "href": "#home",
+          "disabled": false,
+          "rect": {
+            "x": 25,
+            "y": 18,
+            "w": 124,
+            "h": 29
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "ariaLabel": "音をオンにする",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "cabinetBack",
+          "cls": "cabinet-back",
+          "text": "前の場所へ戻る",
+          "ariaLabel": "前の場所へ戻る",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 88,
+            "w": 46,
+            "h": 46
+          },
+          "onScreen": true,
+          "hit": true
+        }
+      ],
+      "artwork": [
+        {
+          "tag": "IMG",
+          "id": "",
+          "cls": "cabinet-master-wall",
+          "alt": "",
+          "rect": {
+            "x": 23,
+            "y": 274.828125,
+            "w": 344,
+            "h": 447.328125
+          }
+        }
+      ],
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "h": 844
+      },
+      "scrollContainers": [],
+      "dialogs": [],
+      "screenshot": "006-touch-drawer-bottle.jpg"
+    },
+    {
+      "label": "touch-drawer-disk",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#cabinet",
+      "route": "cabinet",
+      "viewportText": "NIKO² ATELIER\nWHAT REMAINED\nTHE CABINET",
+      "renderedBodyText": "作品へ移動\nNIKO² ATELIER\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWHAT REMAINED\nTHE CABINET\n\n",
+      "controls": [
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "skip-link",
+          "text": "作品へ移動",
+          "ariaLabel": null,
+          "type": null,
+          "href": "#main",
+          "disabled": false,
+          "rect": {
+            "x": 8,
+            "y": -61,
+            "w": 108,
+            "h": 43
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "wordmark",
+          "text": "NIKO² ATELIER",
+          "ariaLabel": "NIKO² ATELIER ホームへ",
+          "type": null,
+          "href": "#home",
+          "disabled": false,
+          "rect": {
+            "x": 25,
+            "y": 18,
+            "w": 124,
+            "h": 29
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "ariaLabel": "音をオンにする",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "cabinetBack",
+          "cls": "cabinet-back",
+          "text": "前の場所へ戻る",
+          "ariaLabel": "前の場所へ戻る",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 88,
+            "w": 46,
+            "h": 46
+          },
+          "onScreen": true,
+          "hit": true
+        }
+      ],
+      "artwork": [
+        {
+          "tag": "IMG",
+          "id": "",
+          "cls": "cabinet-master-wall",
+          "alt": "",
+          "rect": {
+            "x": 23,
+            "y": 274.828125,
+            "w": 344,
+            "h": 447.328125
+          }
+        }
+      ],
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "h": 844
+      },
+      "scrollContainers": [],
+      "dialogs": [],
+      "screenshot": "007-touch-drawer-disk.jpg"
+    },
+    {
+      "label": "leave-cabinet-for-home",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+      "route": "home",
+      "viewportText": "WORLD\nWORLD",
+      "renderedBodyText": "作品へ移動\n \nWORLD\nWORLD\n水面の向こうに、いくつかの場所がひらいています。\n\n\nABOUT\nもふもふはいます。\nPLAY / SHARE / FAN WORK\nNIKO²での生活について\n好きな形で遊ぶための、小さな境界。\nDEAR ATELIER\nお手紙を送る\nAtelierの受取箱へ。\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+      "controls": [
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "skip-link",
+          "text": "作品へ移動",
+          "ariaLabel": null,
+          "type": null,
+          "href": "#main",
+          "disabled": false,
+          "rect": {
+            "x": 8,
+            "y": -61,
+            "w": 108,
+            "h": 43
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "ariaLabel": "音をオンにする",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "home-letter-entry",
+          "text": "FROM THE ATELIERを開く",
+          "ariaLabel": "FROM THE ATELIERを開く",
+          "type": null,
+          "href": "#notes",
+          "disabled": false,
+          "rect": {
+            "x": 279,
+            "y": 274,
+            "w": 91,
+            "h": 92
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "home-diary-entry",
+          "text": "Diaryを開く",
+          "ariaLabel": "Diaryを開く",
+          "type": null,
+          "href": "#diary",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 298,
+            "w": 147,
+            "h": 147
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "ariaLabel": "Enter the dream",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "home-world-lab",
+          "text": "WORLDを開く",
+          "ariaLabel": "WORLDを開く",
+          "type": null,
+          "href": "#world",
+          "disabled": false,
+          "rect": {
+            "x": 23,
+            "y": 921,
+            "w": 343,
+            "h": 193
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "home-about-window",
+          "text": "ABOUT もふもふはいます。",
+          "ariaLabel": "Aboutを開く",
+          "type": null,
+          "href": "#about",
+          "disabled": false,
+          "rect": {
+            "x": 43,
+            "y": 1398,
+            "w": 304,
+            "h": 252
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "home-quiet-link home-rights-entry",
+          "text": "PLAY / SHARE / FAN WORK NIKO²での生活について 好きな形で遊ぶための、小さな境界。",
+          "ariaLabel": null,
+          "type": null,
+          "href": "#rights",
+          "disabled": false,
+          "rect": {
+            "x": 31,
+            "y": 1798,
+            "w": 328,
+            "h": 124
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "home-quiet-link home-dear-entry",
+          "text": "DEAR ATELIER お手紙を送る Atelierの受取箱へ。",
+          "ariaLabel": null,
+          "type": null,
+          "href": "#dear",
+          "disabled": false,
+          "rect": {
+            "x": 31,
+            "y": 1936,
+            "w": 328,
+            "h": 124
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "unknown-entry",
+          "text": "???",
+          "ariaLabel": "用途不明の部屋を開く",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 0,
+            "y": 2110,
+            "w": 390,
+            "h": 58
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "",
+          "text": "Rights",
+          "ariaLabel": null,
+          "type": null,
+          "href": "#rights",
+          "disabled": false,
+          "rect": {
+            "x": 176,
+            "y": 2179,
+            "w": 37,
+            "h": 13
+          },
+          "onScreen": false,
+          "hit": false
+        }
+      ],
+      "artwork": [
+        {
+          "tag": "IMG",
+          "id": "",
+          "cls": "home-art",
+          "alt": "虹色の薄布と月明かりに包まれたNIKO² ATELIERの入口",
+          "rect": {
+            "x": 0,
+            "y": 0,
+            "w": 390,
+            "h": 843.984375
+          }
+        },
+        {
+          "tag": "IMG",
+          "id": "",
+          "cls": "",
+          "alt": "",
+          "rect": {
+            "x": 282.0892028808594,
+            "y": 273.550537109375,
+            "w": 88.18991088867188,
+            "h": 88.18991088867188
+          }
+        },
+        {
+          "tag": "IMG",
+          "id": "homeTitle",
+          "cls": "home-logo-master",
+          "alt": "NIKO² ATELIER",
+          "rect": {
+            "x": 58.5,
+            "y": 130.8125,
+            "w": 273,
+            "h": 182
+          }
+        },
+        {
+          "tag": "IMG",
+          "id": "",
+          "cls": "",
+          "alt": "",
+          "rect": {
+            "x": 13.886076927185059,
+            "y": 297.9642028808594,
+            "w": 147.10284423828125,
+            "h": 147.10284423828125
+          }
+        },
+        {
+          "tag": "IMG",
+          "id": "",
+          "cls": "",
+          "alt": "Enter the dream",
+          "rect": {
+            "x": 90,
+            "y": 493.71875,
+            "w": 210,
+            "h": 70
+          }
+        },
+        {
+          "tag": "IMG",
+          "id": "",
+          "cls": "",
+          "alt": "",
+          "rect": {
+            "x": 23.40625,
+            "y": 920.5625,
+            "w": 343.1875,
+            "h": 193.03125
+          }
+        },
+        {
+          "tag": "IMG",
+          "id": "",
+          "cls": "",
+          "alt": "もふもふのいるAbout",
+          "rect": {
+            "x": 42.90625,
+            "y": 1397.515625,
+            "w": 304.1875,
+            "h": 202.78125
+          }
+        }
+      ],
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "h": 844
+      },
+      "scrollContainers": [
+        {
+          "id": "",
+          "cls": "view home-view is-active",
+          "top": 0,
+          "height": 844,
+          "scrollHeight": 2216
+        }
+      ],
+      "dialogs": []
+    },
+    {
+      "label": "open-unknown-doorway",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#unknown",
+      "route": "unknown",
+      "viewportText": "NIKO² ATELIER",
+      "renderedBodyText": "作品へ移動\nNIKO² ATELIER\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n",
+      "controls": [
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "skip-link",
+          "text": "作品へ移動",
+          "ariaLabel": null,
+          "type": null,
+          "href": "#main",
+          "disabled": false,
+          "rect": {
+            "x": 8,
+            "y": -61,
+            "w": 108,
+            "h": 43
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "wordmark",
+          "text": "NIKO² ATELIER",
+          "ariaLabel": "NIKO² ATELIER ホームへ",
+          "type": null,
+          "href": "#home",
+          "disabled": false,
+          "rect": {
+            "x": 25,
+            "y": 18,
+            "w": 124,
+            "h": 29
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "ariaLabel": "音をオンにする",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "aquariumInterceptBack",
+          "cls": "aquarium-holdback-hit aquarium-intercept-back",
+          "text": "Go back",
+          "ariaLabel": "Go back",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 73,
+            "y": 668,
+            "w": 244,
+            "h": 62
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "aquariumInterceptNext",
+          "cls": "aquarium-holdback-hit aquarium-intercept-next",
+          "text": "Keep going",
+          "ariaLabel": "Keep going",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 122,
+            "y": 734,
+            "w": 145,
+            "h": 44
+          },
+          "onScreen": true,
+          "hit": true
+        }
+      ],
+      "artwork": [
+        {
+          "tag": "IMG",
+          "id": "aquariumHoldbackArt",
+          "cls": "",
+          "alt": "NOT YET — ヘルメット姿のもふもふが通路を引き止める",
+          "rect": {
+            "x": -42.5,
+            "y": 0,
+            "w": 474.734375,
+            "h": 843.984375
+          }
+        }
+      ],
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "h": 844
+      },
+      "scrollContainers": [],
+      "dialogs": [],
+      "screenshot": "009-open-unknown-doorway.jpg"
+    },
+    {
+      "label": "watch-unknown-room",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#unknown",
+      "route": "unknown",
+      "viewportText": "NIKO² ATELIER",
+      "renderedBodyText": "作品へ移動\nNIKO² ATELIER\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n",
+      "controls": [
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "skip-link",
+          "text": "作品へ移動",
+          "ariaLabel": null,
+          "type": null,
+          "href": "#main",
+          "disabled": false,
+          "rect": {
+            "x": 8,
+            "y": -61,
+            "w": 108,
+            "h": 43
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "wordmark",
+          "text": "NIKO² ATELIER",
+          "ariaLabel": "NIKO² ATELIER ホームへ",
+          "type": null,
+          "href": "#home",
+          "disabled": false,
+          "rect": {
+            "x": 25,
+            "y": 18,
+            "w": 124,
+            "h": 29
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "ariaLabel": "音をオンにする",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "aquariumInterceptBack",
+          "cls": "aquarium-holdback-hit aquarium-intercept-back",
+          "text": "Go back",
+          "ariaLabel": "Go back",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 73,
+            "y": 668,
+            "w": 244,
+            "h": 62
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "aquariumInterceptNext",
+          "cls": "aquarium-holdback-hit aquarium-intercept-next",
+          "text": "Keep going",
+          "ariaLabel": "Keep going",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 122,
+            "y": 734,
+            "w": 145,
+            "h": 44
+          },
+          "onScreen": true,
+          "hit": true
+        }
+      ],
+      "artwork": [
+        {
+          "tag": "IMG",
+          "id": "aquariumHoldbackArt",
+          "cls": "",
+          "alt": "NOT YET — ヘルメット姿のもふもふが通路を引き止める",
+          "rect": {
+            "x": -42.5,
+            "y": 0,
+            "w": 474.734375,
+            "h": 843.984375
+          }
+        }
+      ],
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "h": 844
+      },
+      "scrollContainers": [],
+      "dialogs": [],
+      "screenshot": "010-watch-unknown-room.jpg"
+    },
+    {
+      "label": "final",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#unknown",
+      "route": "unknown",
+      "viewportText": "NIKO² ATELIER",
+      "renderedBodyText": "作品へ移動\nNIKO² ATELIER\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n",
+      "controls": [
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "skip-link",
+          "text": "作品へ移動",
+          "ariaLabel": null,
+          "type": null,
+          "href": "#main",
+          "disabled": false,
+          "rect": {
+            "x": 8,
+            "y": -61,
+            "w": 108,
+            "h": 43
+          },
+          "onScreen": false,
+          "hit": false
+        },
+        {
+          "tag": "A",
+          "id": "",
+          "cls": "wordmark",
+          "text": "NIKO² ATELIER",
+          "ariaLabel": "NIKO² ATELIER ホームへ",
+          "type": null,
+          "href": "#home",
+          "disabled": false,
+          "rect": {
+            "x": 25,
+            "y": 18,
+            "w": 124,
+            "h": 29
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "ariaLabel": "音をオンにする",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "aquariumInterceptBack",
+          "cls": "aquarium-holdback-hit aquarium-intercept-back",
+          "text": "Go back",
+          "ariaLabel": "Go back",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 73,
+            "y": 668,
+            "w": 244,
+            "h": 62
+          },
+          "onScreen": true,
+          "hit": true
+        },
+        {
+          "tag": "BUTTON",
+          "id": "aquariumInterceptNext",
+          "cls": "aquarium-holdback-hit aquarium-intercept-next",
+          "text": "Keep going",
+          "ariaLabel": "Keep going",
+          "type": "button",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 122,
+            "y": 734,
+            "w": 145,
+            "h": 44
+          },
+          "onScreen": true,
+          "hit": true
+        }
+      ],
+      "artwork": [
+        {
+          "tag": "IMG",
+          "id": "aquariumHoldbackArt",
+          "cls": "",
+          "alt": "NOT YET — ヘルメット姿のもふもふが通路を引き止める",
+          "rect": {
+            "x": -42.5,
+            "y": 0,
+            "w": 474.734375,
+            "h": 843.984375
+          }
+        }
+      ],
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "h": 844
+      },
+      "scrollContainers": [],
+      "dialogs": [],
+      "screenshot": "011-final.jpg"
+    }
+  ],
+  "errors": [],
+  "httpErrors": [
+    {
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/api/identity",
+      "status": 404
+    }
+  ],
+  "startedAt": "2026-10-06T18:25:46.035Z",
+  "startUrl": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+  "httpStatus": 200,
+  "final": {
+    "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#unknown",
+    "route": "unknown",
+    "viewportText": "NIKO² ATELIER",
+    "renderedBodyText": "作品へ移動\nNIKO² ATELIER\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n",
+    "controls": [
+      {
+        "tag": "A",
+        "id": "",
+        "cls": "skip-link",
+        "text": "作品へ移動",
+        "ariaLabel": null,
+        "type": null,
+        "href": "#main",
+        "disabled": false,
+        "rect": {
+          "x": 8,
+          "y": -61,
+          "w": 108,
+          "h": 43
+        },
+        "onScreen": false,
+        "hit": false
+      },
+      {
+        "tag": "A",
+        "id": "",
+        "cls": "wordmark",
+        "text": "NIKO² ATELIER",
+        "ariaLabel": "NIKO² ATELIER ホームへ",
+        "type": null,
+        "href": "#home",
+        "disabled": false,
+        "rect": {
+          "x": 25,
+          "y": 18,
+          "w": 124,
+          "h": 29
+        },
+        "onScreen": true,
+        "hit": true
+      },
+      {
+        "tag": "BUTTON",
+        "id": "soundToggle",
+        "cls": "sound-toggle",
+        "text": "音をオンにする",
+        "ariaLabel": "音をオンにする",
+        "type": "button",
+        "href": null,
+        "disabled": false,
+        "rect": {
+          "x": 332,
+          "y": 14,
+          "w": 44,
+          "h": 44
+        },
+        "onScreen": true,
+        "hit": true
+      },
+      {
+        "tag": "BUTTON",
+        "id": "aquariumInterceptBack",
+        "cls": "aquarium-holdback-hit aquarium-intercept-back",
+        "text": "Go back",
+        "ariaLabel": "Go back",
+        "type": "button",
+        "href": null,
+        "disabled": false,
+        "rect": {
+          "x": 73,
+          "y": 668,
+          "w": 244,
+          "h": 62
+        },
+        "onScreen": true,
+        "hit": true
+      },
+      {
+        "tag": "BUTTON",
+        "id": "aquariumInterceptNext",
+        "cls": "aquarium-holdback-hit aquarium-intercept-next",
+        "text": "Keep going",
+        "ariaLabel": "Keep going",
+        "type": "button",
+        "href": null,
+        "disabled": false,
+        "rect": {
+          "x": 122,
+          "y": 734,
+          "w": 145,
+          "h": 44
+        },
+        "onScreen": true,
+        "hit": true
+      }
+    ],
+    "artwork": [
+      {
+        "tag": "IMG",
+        "id": "aquariumHoldbackArt",
+        "cls": "",
+        "alt": "NOT YET — ヘルメット姿のもふもふが通路を引き止める",
+        "rect": {
+          "x": -42.5,
+          "y": 0,
+          "w": 474.734375,
+          "h": 843.984375
+        }
+      }
+    ],
+    "scroll": {
+      "x": 0,
+      "y": 0,
+      "h": 844
+    },
+    "scrollContainers": [],
+    "dialogs": [],
+    "screenshot": "011-final.jpg"
+  },
+  "finishedAt": "2026-10-06T18:26:21.501Z"
+}

@@ -1,0 +1,121 @@
+{
+  "label": "final",
+  "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#unknown",
+  "route": "unknown",
+  "viewportText": "NIKO² ATELIER",
+  "renderedBodyText": "作品へ移動\nNIKO² ATELIER\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \n\n",
+  "controls": [
+    {
+      "tag": "A",
+      "id": "",
+      "cls": "skip-link",
+      "text": "作品へ移動",
+      "ariaLabel": null,
+      "type": null,
+      "href": "#main",
+      "disabled": false,
+      "rect": {
+        "x": 8,
+        "y": -61,
+        "w": 108,
+        "h": 43
+      },
+      "onScreen": false,
+      "hit": false
+    },
+    {
+      "tag": "A",
+      "id": "",
+      "cls": "wordmark",
+      "text": "NIKO² ATELIER",
+      "ariaLabel": "NIKO² ATELIER ホームへ",
+      "type": null,
+      "href": "#home",
+      "disabled": false,
+      "rect": {
+        "x": 25,
+        "y": 18,
+        "w": 124,
+        "h": 29
+      },
+      "onScreen": true,
+      "hit": true
+    },
+    {
+      "tag": "BUTTON",
+      "id": "soundToggle",
+      "cls": "sound-toggle",
+      "text": "音をオンにする",
+      "ariaLabel": "音をオンにする",
+      "type": "button",
+      "href": null,
+      "disabled": false,
+      "rect": {
+        "x": 332,
+        "y": 14,
+        "w": 44,
+        "h": 44
+      },
+      "onScreen": true,
+      "hit": true
+    },
+    {
+      "tag": "BUTTON",
+      "id": "aquariumInterceptBack",
+      "cls": "aquarium-holdback-hit aquarium-intercept-back",
+      "text": "Go back",
+      "ariaLabel": "Go back",
+      "type": "button",
+      "href": null,
+      "disabled": false,
+      "rect": {
+        "x": 73,
+        "y": 668,
+        "w": 244,
+        "h": 62
+      },
+      "onScreen": true,
+      "hit": true
+    },
+    {
+      "tag": "BUTTON",
+      "id": "aquariumInterceptNext",
+      "cls": "aquarium-holdback-hit aquarium-intercept-next",
+      "text": "Keep going",
+      "ariaLabel": "Keep going",
+      "type": "button",
+      "href": null,
+      "disabled": false,
+      "rect": {
+        "x": 122,
+        "y": 734,
+        "w": 145,
+        "h": 44
+      },
+      "onScreen": true,
+      "hit": true
+    }
+  ],
+  "artwork": [
+    {
+      "tag": "IMG",
+      "id": "aquariumHoldbackArt",
+      "cls": "",
+      "alt": "NOT YET — ヘルメット姿のもふもふが通路を引き止める",
+      "rect": {
+        "x": -42.5,
+        "y": 0,
+        "w": 474.734375,
+        "h": 843.984375
+      }
+    }
+  ],
+  "scroll": {
+    "x": 0,
+    "y": 0,
+    "h": 844
+  },
+  "scrollContainers": [],
+  "dialogs": [],
+  "screenshot": "011-final.jpg"
+}
