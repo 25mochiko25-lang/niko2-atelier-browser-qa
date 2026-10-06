@@ -1,0 +1,6403 @@
+{
+  "target": "https://niko2atelier.com/",
+  "persona": "outside-critic",
+  "seed": "outside-critic-004",
+  "maxSteps": 28,
+  "startedAt": "2026-10-06T17:34:16.727Z",
+  "engine": "webkit",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "touch": true,
+  "events": [
+    {
+      "kind": "tap",
+      "label": "step-1-tap",
+      "target": {
+        "text": "次へ",
+        "id": "",
+        "cls": "niko2-intro-primary",
+        "href": "",
+        "rect": {
+          "x": 304,
+          "y": 780,
+          "w": 72,
+          "h": 44
+        }
+      },
+      "error": null,
+      "before": {
+        "url": "https://niko2atelier.com/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      },
+      "after": {
+        "url": "https://niko2atelier.com/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      }
+    },
+    {
+      "kind": "tap",
+      "label": "step-2-tap",
+      "target": {
+        "text": "持ち帰る",
+        "id": "",
+        "cls": "niko2-intro-concept-button",
+        "href": "",
+        "rect": {
+          "x": 151,
+          "y": 422,
+          "w": 88,
+          "h": 46
+        }
+      },
+      "error": null,
+      "before": {
+        "url": "https://niko2atelier.com/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      },
+      "after": {
+        "url": "https://niko2atelier.com/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      }
+    },
+    {
+      "kind": "tap",
+      "label": "step-3-tap",
+      "target": {
+        "text": "次へ",
+        "id": "",
+        "cls": "niko2-intro-primary",
+        "href": "",
+        "rect": {
+          "x": 304,
+          "y": 780,
+          "w": 72,
+          "h": 44
+        }
+      },
+      "error": null,
+      "before": {
+        "url": "https://niko2atelier.com/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      },
+      "after": {
+        "url": "https://niko2atelier.com/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      }
+    },
+    {
+      "kind": "scroll-4",
+      "error": null,
+      "before": {
+        "url": "https://niko2atelier.com/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      },
+      "after": {
+        "url": "https://niko2atelier.com/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      }
+    },
+    {
+      "kind": "tap",
+      "label": "step-5-tap",
+      "target": {
+        "text": "夢へ入る",
+        "id": "",
+        "cls": "niko2-intro-primary",
+        "href": "",
+        "rect": {
+          "x": 295,
+          "y": 780,
+          "w": 81,
+          "h": 44
+        }
+      },
+      "error": null,
+      "before": {
+        "url": "https://niko2atelier.com/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      },
+      "after": {
+        "url": "https://niko2atelier.com/#garden",
+        "route": "garden",
+        "hash": "#garden",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      }
+    },
+    {
+      "kind": "tap",
+      "label": "step-6-tap",
+      "target": {
+        "text": "水面に触れる",
+        "id": "",
+        "cls": "scene-hotspot ambient",
+        "href": "",
+        "rect": {
+          "x": 187,
+          "y": 305,
+          "w": 164,
+          "h": 129
+        }
+      },
+      "error": "TimeoutError: locator.tap: Timeout 4500ms exceeded.\nCall log:\n  - waiting for locator('[data-qa-probe-id=\"6\"]').first()\n    - locator resolved to <button type=\"button\" aria-label=\"水面に触れる\" data-ambient=\"water\" data-qa-probe-id=\"6\" data-interactive=\"true\" data-input-state=\"ready\" data-stage=\"memory-garden\" class=\"scene-hotspot ambient\"></button>\n  - attempting tap action\n    2 × waiting for element to be visible, enabled and stable\n      - element is visible, enabled and stable\n      - scrolling into view if needed\n      - done scrolling\n      - <div id=\"gardenIntro\" class=\"garden-intro\">…</div> intercepts pointer events\n    - retrying tap action\n    - waiting 20ms\n    2 × waiting for element to be visible, enabled and stable\n      - element is visible, enabled and stable\n      - scrolling into view if needed\n      - done scrolling\n      - <div id=\"gardenIntro\" class=\"garden-intro\">…</div> intercepts pointer events\n    - retrying tap action\n      - waiting 100ms\n    7 × waiting for element to be visible, enabled and stable\n      - element is visible, enabled and stable\n      - scrolling into view if needed\n      - done scrolling\n      - <div id=\"gardenIntro\" class=\"garden-intro\">…</div> intercepts pointer events\n    - retrying tap action\n      - waiting 500ms\n",
+      "before": {
+        "url": "https://niko2atelier.com/#garden",
+        "route": "garden",
+        "hash": "#garden",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      },
+      "after": {
+        "url": "https://niko2atelier.com/#garden",
+        "route": "garden",
+        "hash": "#garden",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      }
+    },
+    {
+      "kind": "tap",
+      "label": "step-7-tap",
+      "target": {
+        "text": "この空へ入る",
+        "id": "beginGarden",
+        "cls": "",
+        "href": "",
+        "rect": {
+          "x": 44,
+          "y": 764,
+          "w": 154,
+          "h": 48
+        }
+      },
+      "error": null,
+      "before": {
+        "url": "https://niko2atelier.com/#garden",
+        "route": "garden",
+        "hash": "#garden",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      },
+      "after": {
+        "url": "https://niko2atelier.com/#garden",
+        "route": "garden",
+        "hash": "#garden",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      }
+    },
+    {
+      "kind": "scroll-8",
+      "error": null,
+      "before": {
+        "url": "https://niko2atelier.com/#garden",
+        "route": "garden",
+        "hash": "#garden",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      },
+      "after": {
+        "url": "https://niko2atelier.com/#garden",
+        "route": "garden",
+        "hash": "#garden",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      }
+    },
+    {
+      "kind": "tap",
+      "label": "step-9-tap",
+      "target": {
+        "text": "石の柱を軽く叩く",
+        "id": "",
+        "cls": "scene-hotspot ambient",
+        "href": "",
+        "rect": {
+          "x": -4,
+          "y": 223,
+          "w": 90,
+          "h": 181
+        }
+      },
+      "error": null,
+      "before": {
+        "url": "https://niko2atelier.com/#garden",
+        "route": "garden",
+        "hash": "#garden",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      },
+      "after": {
+        "url": "https://niko2atelier.com/#garden",
+        "route": "garden",
+        "hash": "#garden",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      }
+    },
+    {
+      "kind": "back-10",
+      "error": null,
+      "before": {
+        "url": "https://niko2atelier.com/#garden",
+        "route": "garden",
+        "hash": "#garden",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      },
+      "after": {
+        "url": "https://niko2atelier.com/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      }
+    },
+    {
+      "kind": "tap",
+      "label": "step-11-tap",
+      "target": {
+        "text": "Enter the dream",
+        "id": "enterGarden",
+        "cls": "dream-entry home-pink-cta",
+        "href": "",
+        "rect": {
+          "x": 90,
+          "y": 494,
+          "w": 210,
+          "h": 70
+        }
+      },
+      "error": null,
+      "before": {
+        "url": "https://niko2atelier.com/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      },
+      "after": {
+        "url": "https://niko2atelier.com/#garden",
+        "route": "garden",
+        "hash": "#garden",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      }
+    },
+    {
+      "kind": "scroll-12",
+      "error": null,
+      "before": {
+        "url": "https://niko2atelier.com/#garden",
+        "route": "garden",
+        "hash": "#garden",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      },
+      "after": {
+        "url": "https://niko2atelier.com/#garden",
+        "route": "garden",
+        "hash": "#garden",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      }
+    },
+    {
+      "kind": "tap",
+      "label": "step-13-tap",
+      "target": {
+        "text": "夢の見覚え ✧︎",
+        "id": "gardenSkipControl",
+        "cls": "garden-skip-control",
+        "href": "",
+        "rect": {
+          "x": 315,
+          "y": 56,
+          "w": 61,
+          "h": 30
+        }
+      },
+      "error": null,
+      "before": {
+        "url": "https://niko2atelier.com/#garden",
+        "route": "garden",
+        "hash": "#garden",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      },
+      "after": {
+        "url": "https://niko2atelier.com/#garden",
+        "route": "garden",
+        "hash": "#garden",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      }
+    },
+    {
+      "kind": "tap",
+      "label": "step-14-tap",
+      "target": {
+        "text": "この空へ入る",
+        "id": "beginGarden",
+        "cls": "",
+        "href": "",
+        "rect": {
+          "x": 48,
+          "y": 764,
+          "w": 154,
+          "h": 48
+        }
+      },
+      "error": "TimeoutError: locator.tap: Timeout 4500ms exceeded.\nCall log:\n  - waiting for locator('[data-qa-probe-id=\"2\"]').first()\n    - locator resolved to <button type=\"button\" id=\"beginGarden\" data-qa-probe-id=\"2\">この空へ入る</button>\n  - attempting tap action\n    2 × waiting for element to be visible, enabled and stable\n      - element is not visible\n    - retrying tap action\n    - waiting 20ms\n    2 × waiting for element to be visible, enabled and stable\n      - element is not visible\n    - retrying tap action\n      - waiting 100ms\n    4 × waiting for element to be visible, enabled and stable\n      - element is not visible\n    - retrying tap action\n      - waiting 500ms\n",
+      "before": {
+        "url": "https://niko2atelier.com/#garden",
+        "route": "garden",
+        "hash": "#garden",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      },
+      "after": {
+        "url": "https://niko2atelier.com/#quiet",
+        "route": "quiet",
+        "hash": "#quiet",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      }
+    },
+    {
+      "kind": "tap",
+      "label": "step-15-tap",
+      "target": {
+        "text": "夢の見覚え ✧︎",
+        "id": "gardenSkipControl",
+        "cls": "garden-skip-control",
+        "href": "",
+        "rect": {
+          "x": 315,
+          "y": 56,
+          "w": 61,
+          "h": 30
+        }
+      },
+      "error": null,
+      "before": {
+        "url": "https://niko2atelier.com/#quiet",
+        "route": "quiet",
+        "hash": "#quiet",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      },
+      "after": {
+        "url": "https://niko2atelier.com/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      }
+    },
+    {
+      "kind": "tap",
+      "label": "step-16-tap",
+      "target": {
+        "text": "次へ",
+        "id": "",
+        "cls": "niko2-intro-primary",
+        "href": "",
+        "rect": {
+          "x": 304,
+          "y": 780,
+          "w": 72,
+          "h": 44
+        }
+      },
+      "error": null,
+      "before": {
+        "url": "https://niko2atelier.com/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      },
+      "after": {
+        "url": "https://niko2atelier.com/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      }
+    },
+    {
+      "kind": "tap",
+      "label": "step-17-tap",
+      "target": {
+        "text": "戻る",
+        "id": "",
+        "cls": "niko2-intro-back",
+        "href": "",
+        "rect": {
+          "x": 14,
+          "y": 780,
+          "w": 72,
+          "h": 44
+        }
+      },
+      "error": null,
+      "before": {
+        "url": "https://niko2atelier.com/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      },
+      "after": {
+        "url": "https://niko2atelier.com/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      }
+    },
+    {
+      "kind": "tap",
+      "label": "step-18-tap",
+      "target": {
+        "text": "次へ",
+        "id": "",
+        "cls": "niko2-intro-primary",
+        "href": "",
+        "rect": {
+          "x": 304,
+          "y": 780,
+          "w": 72,
+          "h": 44
+        }
+      },
+      "error": null,
+      "before": {
+        "url": "https://niko2atelier.com/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      },
+      "after": {
+        "url": "https://niko2atelier.com/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      }
+    },
+    {
+      "kind": "tap",
+      "label": "step-19-tap",
+      "target": {
+        "text": "戻る",
+        "id": "",
+        "cls": "niko2-intro-back",
+        "href": "",
+        "rect": {
+          "x": 14,
+          "y": 780,
+          "w": 72,
+          "h": 44
+        }
+      },
+      "error": null,
+      "before": {
+        "url": "https://niko2atelier.com/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      },
+      "after": {
+        "url": "https://niko2atelier.com/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      }
+    },
+    {
+      "kind": "tap",
+      "label": "step-20-tap",
+      "target": {
+        "text": "次へ",
+        "id": "",
+        "cls": "niko2-intro-primary",
+        "href": "",
+        "rect": {
+          "x": 304,
+          "y": 780,
+          "w": 72,
+          "h": 44
+        }
+      },
+      "error": null,
+      "before": {
+        "url": "https://niko2atelier.com/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      },
+      "after": {
+        "url": "https://niko2atelier.com/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      }
+    },
+    {
+      "kind": "tap",
+      "label": "step-21-tap",
+      "target": {
+        "text": "戻る",
+        "id": "",
+        "cls": "niko2-intro-back",
+        "href": "",
+        "rect": {
+          "x": 14,
+          "y": 780,
+          "w": 72,
+          "h": 44
+        }
+      },
+      "error": null,
+      "before": {
+        "url": "https://niko2atelier.com/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      },
+      "after": {
+        "url": "https://niko2atelier.com/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      }
+    },
+    {
+      "kind": "tap",
+      "label": "step-22-tap",
+      "target": {
+        "text": "次へ",
+        "id": "",
+        "cls": "niko2-intro-primary",
+        "href": "",
+        "rect": {
+          "x": 304,
+          "y": 780,
+          "w": 72,
+          "h": 44
+        }
+      },
+      "error": null,
+      "before": {
+        "url": "https://niko2atelier.com/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      },
+      "after": {
+        "url": "https://niko2atelier.com/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      }
+    },
+    {
+      "kind": "tap",
+      "label": "step-23-tap",
+      "target": {
+        "text": "次へ",
+        "id": "",
+        "cls": "niko2-intro-primary",
+        "href": "",
+        "rect": {
+          "x": 304,
+          "y": 780,
+          "w": 72,
+          "h": 44
+        }
+      },
+      "error": null,
+      "before": {
+        "url": "https://niko2atelier.com/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      },
+      "after": {
+        "url": "https://niko2atelier.com/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      }
+    },
+    {
+      "kind": "tap",
+      "label": "step-24-tap",
+      "target": {
+        "text": "戻る",
+        "id": "",
+        "cls": "niko2-intro-back",
+        "href": "",
+        "rect": {
+          "x": 14,
+          "y": 780,
+          "w": 72,
+          "h": 44
+        }
+      },
+      "error": null,
+      "before": {
+        "url": "https://niko2atelier.com/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      },
+      "after": {
+        "url": "https://niko2atelier.com/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      }
+    },
+    {
+      "kind": "tap",
+      "label": "step-25-tap",
+      "target": {
+        "text": "次へ",
+        "id": "",
+        "cls": "niko2-intro-primary",
+        "href": "",
+        "rect": {
+          "x": 304,
+          "y": 780,
+          "w": 72,
+          "h": 44
+        }
+      },
+      "error": null,
+      "before": {
+        "url": "https://niko2atelier.com/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      },
+      "after": {
+        "url": "https://niko2atelier.com/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      }
+    },
+    {
+      "kind": "tap",
+      "label": "step-26-tap",
+      "target": {
+        "text": "戻る",
+        "id": "",
+        "cls": "niko2-intro-back",
+        "href": "",
+        "rect": {
+          "x": 14,
+          "y": 780,
+          "w": 72,
+          "h": 44
+        }
+      },
+      "error": null,
+      "before": {
+        "url": "https://niko2atelier.com/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      },
+      "after": {
+        "url": "https://niko2atelier.com/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      }
+    },
+    {
+      "kind": "tap",
+      "label": "step-27-tap",
+      "target": {
+        "text": "次へ",
+        "id": "",
+        "cls": "niko2-intro-primary",
+        "href": "",
+        "rect": {
+          "x": 304,
+          "y": 780,
+          "w": 72,
+          "h": 44
+        }
+      },
+      "error": null,
+      "before": {
+        "url": "https://niko2atelier.com/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      },
+      "after": {
+        "url": "https://niko2atelier.com/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      }
+    },
+    {
+      "kind": "tap",
+      "label": "step-28-tap",
+      "target": {
+        "text": "戻る",
+        "id": "",
+        "cls": "niko2-intro-back",
+        "href": "",
+        "rect": {
+          "x": 14,
+          "y": 780,
+          "w": 72,
+          "h": 44
+        }
+      },
+      "error": null,
+      "before": {
+        "url": "https://niko2atelier.com/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      },
+      "after": {
+        "url": "https://niko2atelier.com/",
+        "route": "home",
+        "hash": "",
+        "scroll": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 844
+        }
+      }
+    }
+  ],
+  "snapshots": [
+    {
+      "label": "arrival",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 WORLD 夢の入り口は、毎回すこし違う。 次へ",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "次へ",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 304,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-1-choice",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 WORLD 夢の入り口は、毎回すこし違う。 次へ",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "次へ",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 304,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-1-tap:before",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 WORLD 夢の入り口は、毎回すこし違う。 次へ",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "次へ",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 304,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-1-tap:after",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 INTERACTION 触れる 持ち帰る 仕舞う 次へ戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-concept-button",
+          "text": "触れる",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 55,
+            "y": 422,
+            "w": 88,
+            "h": 46
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-concept-button",
+          "text": "持ち帰る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 151,
+            "y": 422,
+            "w": 88,
+            "h": 46
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-concept-button",
+          "text": "仕舞う",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 247,
+            "y": 422,
+            "w": 88,
+            "h": 46
+          }
+        },
+        {
+          "probe": 3,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "次へ",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 304,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        },
+        {
+          "probe": 4,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-2-choice",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 INTERACTION 触れる 持ち帰る 仕舞う 次へ戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-concept-button",
+          "text": "触れる",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 55,
+            "y": 422,
+            "w": 88,
+            "h": 46
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-concept-button",
+          "text": "持ち帰る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 151,
+            "y": 422,
+            "w": 88,
+            "h": 46
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-concept-button",
+          "text": "仕舞う",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 247,
+            "y": 422,
+            "w": 88,
+            "h": 46
+          }
+        },
+        {
+          "probe": 3,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "次へ",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 304,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        },
+        {
+          "probe": 4,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-2-tap:before",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 INTERACTION 触れる 持ち帰る 仕舞う 次へ戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-concept-button",
+          "text": "触れる",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 55,
+            "y": 422,
+            "w": 88,
+            "h": 46
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-concept-button",
+          "text": "持ち帰る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 151,
+            "y": 422,
+            "w": 88,
+            "h": 46
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-concept-button",
+          "text": "仕舞う",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 247,
+            "y": 422,
+            "w": 88,
+            "h": 46
+          }
+        },
+        {
+          "probe": 3,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "次へ",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 304,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        },
+        {
+          "probe": 4,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-2-tap:after",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 INTERACTION 触れる 持ち帰る 仕舞う 次へ戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-concept-button",
+          "text": "触れる",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 55,
+            "y": 422,
+            "w": 88,
+            "h": 46
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-concept-button is-selected",
+          "text": "持ち帰る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 151,
+            "y": 422,
+            "w": 88,
+            "h": 46
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-concept-button",
+          "text": "仕舞う",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 247,
+            "y": 422,
+            "w": 88,
+            "h": 46
+          }
+        },
+        {
+          "probe": 3,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "次へ",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 304,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        },
+        {
+          "probe": 4,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-3-choice",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 INTERACTION 触れる 持ち帰る 仕舞う 次へ戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-concept-button",
+          "text": "触れる",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 55,
+            "y": 422,
+            "w": 88,
+            "h": 46
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-concept-button is-selected",
+          "text": "持ち帰る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 151,
+            "y": 422,
+            "w": 88,
+            "h": 46
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-concept-button",
+          "text": "仕舞う",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 247,
+            "y": 422,
+            "w": 88,
+            "h": 46
+          }
+        },
+        {
+          "probe": 3,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "次へ",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 304,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        },
+        {
+          "probe": 4,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-3-tap:before",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 INTERACTION 触れる 持ち帰る 仕舞う 次へ戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-concept-button",
+          "text": "触れる",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 55,
+            "y": 422,
+            "w": 88,
+            "h": 46
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-concept-button is-selected",
+          "text": "持ち帰る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 151,
+            "y": 422,
+            "w": 88,
+            "h": 46
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-concept-button",
+          "text": "仕舞う",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 247,
+            "y": 422,
+            "w": 88,
+            "h": 46
+          }
+        },
+        {
+          "probe": 3,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "次へ",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 304,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        },
+        {
+          "probe": 4,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-3-tap:after",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 WELCOME ようこそ！ 夢へ入る戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "夢へ入る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 295,
+            "y": 780,
+            "w": 81,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "scroll-4:before",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 WELCOME ようこそ！ 夢へ入る戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "夢へ入る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 295,
+            "y": 780,
+            "w": 81,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "scroll-4:after",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 WELCOME ようこそ！ 夢へ入る戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "夢へ入る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 295,
+            "y": 780,
+            "w": 81,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-5-choice",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 WELCOME ようこそ！ 夢へ入る戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "夢へ入る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 295,
+            "y": 780,
+            "w": 81,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-5-tap:before",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 WELCOME ようこそ！ 夢へ入る戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "夢へ入る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 295,
+            "y": 780,
+            "w": 81,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-5-tap:after",
+      "url": "https://niko2atelier.com/#garden",
+      "title": "NIKO² ATELIER",
+      "hash": "#garden",
+      "route": "garden",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 夢の見覚え ✧︎ 0 / 5 見つけたもの",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "gardenSkipControl",
+          "cls": "garden-skip-control",
+          "text": "夢の見覚え ✧︎",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 315,
+            "y": 56,
+            "w": 61,
+            "h": 30
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot ambient",
+          "text": "テーブルのメモをめくる",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 177,
+            "y": 523,
+            "w": 72,
+            "h": 56
+          }
+        },
+        {
+          "probe": 3,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot ambient",
+          "text": "くまのそばの本を開く",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 296,
+            "y": 522,
+            "w": 94,
+            "h": 76
+          }
+        },
+        {
+          "probe": 4,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot ambient",
+          "text": "ティーポットに触れる",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 117,
+            "y": 431,
+            "w": 82,
+            "h": 85
+          }
+        },
+        {
+          "probe": 5,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot ambient",
+          "text": "花に触れる",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 12,
+            "y": 311,
+            "w": 121,
+            "h": 105
+          }
+        },
+        {
+          "probe": 6,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot ambient",
+          "text": "水面に触れる",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 187,
+            "y": 305,
+            "w": 164,
+            "h": 129
+          }
+        },
+        {
+          "probe": 7,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot ambient",
+          "text": "レースのカーテンに触れる",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 0,
+            "y": 194,
+            "w": 59,
+            "h": 199
+          }
+        },
+        {
+          "probe": 8,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot ambient",
+          "text": "石の柱を軽く叩く",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 70,
+            "y": 223,
+            "w": 90,
+            "h": 181
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-6-choice",
+      "url": "https://niko2atelier.com/#garden",
+      "title": "NIKO² ATELIER",
+      "hash": "#garden",
+      "route": "garden",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 夢の見覚え ✧︎ 0 / 5 見つけたもの",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "gardenSkipControl",
+          "cls": "garden-skip-control",
+          "text": "夢の見覚え ✧︎",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 315,
+            "y": 56,
+            "w": 61,
+            "h": 30
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot ambient",
+          "text": "テーブルのメモをめくる",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 177,
+            "y": 523,
+            "w": 72,
+            "h": 56
+          }
+        },
+        {
+          "probe": 3,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot ambient",
+          "text": "くまのそばの本を開く",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 296,
+            "y": 522,
+            "w": 94,
+            "h": 76
+          }
+        },
+        {
+          "probe": 4,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot ambient",
+          "text": "ティーポットに触れる",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 117,
+            "y": 431,
+            "w": 82,
+            "h": 85
+          }
+        },
+        {
+          "probe": 5,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot ambient",
+          "text": "花に触れる",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 12,
+            "y": 311,
+            "w": 121,
+            "h": 105
+          }
+        },
+        {
+          "probe": 6,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot ambient",
+          "text": "水面に触れる",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 187,
+            "y": 305,
+            "w": 164,
+            "h": 129
+          }
+        },
+        {
+          "probe": 7,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot ambient",
+          "text": "レースのカーテンに触れる",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 0,
+            "y": 194,
+            "w": 59,
+            "h": 199
+          }
+        },
+        {
+          "probe": 8,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot ambient",
+          "text": "石の柱を軽く叩く",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 70,
+            "y": 223,
+            "w": 90,
+            "h": 181
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-6-tap:before",
+      "url": "https://niko2atelier.com/#garden",
+      "title": "NIKO² ATELIER",
+      "hash": "#garden",
+      "route": "garden",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 夢の見覚え ✧︎ 0 / 5 見つけたもの",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "gardenSkipControl",
+          "cls": "garden-skip-control",
+          "text": "夢の見覚え ✧︎",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 315,
+            "y": 56,
+            "w": 61,
+            "h": 30
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot ambient",
+          "text": "テーブルのメモをめくる",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 177,
+            "y": 523,
+            "w": 72,
+            "h": 56
+          }
+        },
+        {
+          "probe": 3,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot ambient",
+          "text": "くまのそばの本を開く",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 296,
+            "y": 522,
+            "w": 94,
+            "h": 76
+          }
+        },
+        {
+          "probe": 4,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot ambient",
+          "text": "ティーポットに触れる",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 117,
+            "y": 431,
+            "w": 82,
+            "h": 85
+          }
+        },
+        {
+          "probe": 5,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot ambient",
+          "text": "花に触れる",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 12,
+            "y": 311,
+            "w": 121,
+            "h": 105
+          }
+        },
+        {
+          "probe": 6,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot ambient",
+          "text": "水面に触れる",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 187,
+            "y": 305,
+            "w": 164,
+            "h": 129
+          }
+        },
+        {
+          "probe": 7,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot ambient",
+          "text": "レースのカーテンに触れる",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 0,
+            "y": 194,
+            "w": 59,
+            "h": 199
+          }
+        },
+        {
+          "probe": 8,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot ambient",
+          "text": "石の柱を軽く叩く",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 70,
+            "y": 223,
+            "w": 90,
+            "h": 181
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-6-tap:after",
+      "url": "https://niko2atelier.com/#garden",
+      "title": "NIKO² ATELIER",
+      "hash": "#garden",
+      "route": "garden",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 夢の見覚え ✧︎ 席を立ったあとの庭にも、 持ち主より長く夢を見るものがいる。 この空へ入る 0 / 5 見つけたもの",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "gardenSkipControl",
+          "cls": "garden-skip-control",
+          "text": "夢の見覚え ✧︎",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 315,
+            "y": 56,
+            "w": 61,
+            "h": 30
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "beginGarden",
+          "cls": "",
+          "text": "この空へ入る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 44,
+            "y": 764,
+            "w": 154,
+            "h": 48
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-7-choice",
+      "url": "https://niko2atelier.com/#garden",
+      "title": "NIKO² ATELIER",
+      "hash": "#garden",
+      "route": "garden",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 夢の見覚え ✧︎ 席を立ったあとの庭にも、 持ち主より長く夢を見るものがいる。 この空へ入る 0 / 5 見つけたもの",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "gardenSkipControl",
+          "cls": "garden-skip-control",
+          "text": "夢の見覚え ✧︎",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 315,
+            "y": 56,
+            "w": 61,
+            "h": 30
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "beginGarden",
+          "cls": "",
+          "text": "この空へ入る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 44,
+            "y": 764,
+            "w": 154,
+            "h": 48
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-7-tap:before",
+      "url": "https://niko2atelier.com/#garden",
+      "title": "NIKO² ATELIER",
+      "hash": "#garden",
+      "route": "garden",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 夢の見覚え ✧︎ 席を立ったあとの庭にも、 持ち主より長く夢を見るものがいる。 この空へ入る 0 / 5 見つけたもの",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "gardenSkipControl",
+          "cls": "garden-skip-control",
+          "text": "夢の見覚え ✧︎",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 315,
+            "y": 56,
+            "w": 61,
+            "h": 30
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "beginGarden",
+          "cls": "",
+          "text": "この空へ入る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 44,
+            "y": 764,
+            "w": 154,
+            "h": 48
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-7-tap:after",
+      "url": "https://niko2atelier.com/#garden",
+      "title": "NIKO² ATELIER",
+      "hash": "#garden",
+      "route": "garden",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 夢の見覚え ✧︎ 席を立ったあとの庭にも、 持ち主より長く夢を見るものがいる。 この空へ入る 0 / 5 見つけたもの",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "gardenSkipControl",
+          "cls": "garden-skip-control",
+          "text": "夢の見覚え ✧︎",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 315,
+            "y": 56,
+            "w": 61,
+            "h": 30
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot ambient",
+          "text": "テーブルのメモをめくる",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 103,
+            "y": 523,
+            "w": 72,
+            "h": 56
+          }
+        },
+        {
+          "probe": 3,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot ambient",
+          "text": "くまのそばの本を開く",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 222,
+            "y": 522,
+            "w": 94,
+            "h": 76
+          }
+        },
+        {
+          "probe": 4,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot ambient",
+          "text": "ティーポットに触れる",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 43,
+            "y": 431,
+            "w": 82,
+            "h": 85
+          }
+        },
+        {
+          "probe": 5,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot ambient",
+          "text": "花に触れる",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": -62,
+            "y": 311,
+            "w": 121,
+            "h": 105
+          }
+        },
+        {
+          "probe": 6,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot ambient",
+          "text": "水面に触れる",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 113,
+            "y": 305,
+            "w": 164,
+            "h": 129
+          }
+        },
+        {
+          "probe": 7,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot ambient",
+          "text": "石の柱を軽く叩く",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": -4,
+            "y": 223,
+            "w": 90,
+            "h": 181
+          }
+        }
+      ]
+    },
+    {
+      "label": "scroll-8:before",
+      "url": "https://niko2atelier.com/#garden",
+      "title": "NIKO² ATELIER",
+      "hash": "#garden",
+      "route": "garden",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 夢の見覚え ✧︎ 席を立ったあとの庭にも、 持ち主より長く夢を見るものがいる。 この空へ入る 0 / 5 見つけたもの",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "gardenSkipControl",
+          "cls": "garden-skip-control",
+          "text": "夢の見覚え ✧︎",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 315,
+            "y": 56,
+            "w": 61,
+            "h": 30
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot ambient",
+          "text": "テーブルのメモをめくる",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 103,
+            "y": 523,
+            "w": 72,
+            "h": 56
+          }
+        },
+        {
+          "probe": 3,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot ambient",
+          "text": "くまのそばの本を開く",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 222,
+            "y": 522,
+            "w": 94,
+            "h": 76
+          }
+        },
+        {
+          "probe": 4,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot ambient",
+          "text": "ティーポットに触れる",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 43,
+            "y": 431,
+            "w": 82,
+            "h": 85
+          }
+        },
+        {
+          "probe": 5,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot ambient",
+          "text": "花に触れる",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": -62,
+            "y": 311,
+            "w": 121,
+            "h": 105
+          }
+        },
+        {
+          "probe": 6,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot ambient",
+          "text": "水面に触れる",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 113,
+            "y": 305,
+            "w": 164,
+            "h": 129
+          }
+        },
+        {
+          "probe": 7,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot ambient",
+          "text": "石の柱を軽く叩く",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": -4,
+            "y": 223,
+            "w": 90,
+            "h": 181
+          }
+        }
+      ]
+    },
+    {
+      "label": "scroll-8:after",
+      "url": "https://niko2atelier.com/#garden",
+      "title": "NIKO² ATELIER",
+      "hash": "#garden",
+      "route": "garden",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 夢の見覚え ✧︎ 0 / 5 見つけたもの",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "gardenSkipControl",
+          "cls": "garden-skip-control",
+          "text": "夢の見覚え ✧︎",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 315,
+            "y": 56,
+            "w": 61,
+            "h": 30
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot ambient",
+          "text": "テーブルのメモをめくる",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 103,
+            "y": 523,
+            "w": 72,
+            "h": 56
+          }
+        },
+        {
+          "probe": 3,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot ambient",
+          "text": "くまのそばの本を開く",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 222,
+            "y": 522,
+            "w": 94,
+            "h": 76
+          }
+        },
+        {
+          "probe": 4,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot ambient",
+          "text": "ティーポットに触れる",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 43,
+            "y": 431,
+            "w": 82,
+            "h": 85
+          }
+        },
+        {
+          "probe": 5,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot ambient",
+          "text": "花に触れる",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": -62,
+            "y": 311,
+            "w": 121,
+            "h": 105
+          }
+        },
+        {
+          "probe": 6,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot ambient",
+          "text": "水面に触れる",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 113,
+            "y": 305,
+            "w": 164,
+            "h": 129
+          }
+        },
+        {
+          "probe": 7,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot ambient",
+          "text": "石の柱を軽く叩く",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": -4,
+            "y": 223,
+            "w": 90,
+            "h": 181
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-9-choice",
+      "url": "https://niko2atelier.com/#garden",
+      "title": "NIKO² ATELIER",
+      "hash": "#garden",
+      "route": "garden",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 夢の見覚え ✧︎ 0 / 5 見つけたもの",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "gardenSkipControl",
+          "cls": "garden-skip-control",
+          "text": "夢の見覚え ✧︎",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 315,
+            "y": 56,
+            "w": 61,
+            "h": 30
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot ambient",
+          "text": "テーブルのメモをめくる",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 103,
+            "y": 523,
+            "w": 72,
+            "h": 56
+          }
+        },
+        {
+          "probe": 3,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot ambient",
+          "text": "くまのそばの本を開く",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 222,
+            "y": 522,
+            "w": 94,
+            "h": 76
+          }
+        },
+        {
+          "probe": 4,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot ambient",
+          "text": "ティーポットに触れる",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 43,
+            "y": 431,
+            "w": 82,
+            "h": 85
+          }
+        },
+        {
+          "probe": 5,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot ambient",
+          "text": "花に触れる",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": -62,
+            "y": 311,
+            "w": 121,
+            "h": 105
+          }
+        },
+        {
+          "probe": 6,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot ambient",
+          "text": "水面に触れる",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 113,
+            "y": 305,
+            "w": 164,
+            "h": 129
+          }
+        },
+        {
+          "probe": 7,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot ambient",
+          "text": "石の柱を軽く叩く",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": -4,
+            "y": 223,
+            "w": 90,
+            "h": 181
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-9-tap:before",
+      "url": "https://niko2atelier.com/#garden",
+      "title": "NIKO² ATELIER",
+      "hash": "#garden",
+      "route": "garden",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 夢の見覚え ✧︎ 0 / 5 見つけたもの",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "gardenSkipControl",
+          "cls": "garden-skip-control",
+          "text": "夢の見覚え ✧︎",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 315,
+            "y": 56,
+            "w": 61,
+            "h": 30
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot ambient",
+          "text": "テーブルのメモをめくる",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 103,
+            "y": 523,
+            "w": 72,
+            "h": 56
+          }
+        },
+        {
+          "probe": 3,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot ambient",
+          "text": "くまのそばの本を開く",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 222,
+            "y": 522,
+            "w": 94,
+            "h": 76
+          }
+        },
+        {
+          "probe": 4,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot ambient",
+          "text": "ティーポットに触れる",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 43,
+            "y": 431,
+            "w": 82,
+            "h": 85
+          }
+        },
+        {
+          "probe": 5,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot ambient",
+          "text": "花に触れる",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": -62,
+            "y": 311,
+            "w": 121,
+            "h": 105
+          }
+        },
+        {
+          "probe": 6,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot ambient",
+          "text": "水面に触れる",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 113,
+            "y": 305,
+            "w": 164,
+            "h": 129
+          }
+        },
+        {
+          "probe": 7,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot ambient",
+          "text": "石の柱を軽く叩く",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": -4,
+            "y": 223,
+            "w": 90,
+            "h": 181
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-9-tap:after",
+      "url": "https://niko2atelier.com/#garden",
+      "title": "NIKO² ATELIER",
+      "hash": "#garden",
+      "route": "garden",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 夢の見覚え ✧︎ 0 / 5 見つけたもの 石の奥から、誰も使っていない食器の音が返った。",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "gardenSkipControl",
+          "cls": "garden-skip-control",
+          "text": "夢の見覚え ✧︎",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 315,
+            "y": 56,
+            "w": 61,
+            "h": 30
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot collectible is-first-run-hinting",
+          "text": "止まりかけの砂時計に触れる",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": -60,
+            "y": 363,
+            "w": 70,
+            "h": 123
+          }
+        },
+        {
+          "probe": 3,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot collectible is-first-run-hinting",
+          "text": "N² Eau de rêveに触れる",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": -8,
+            "y": 475,
+            "w": 62,
+            "h": 76
+          }
+        },
+        {
+          "probe": 4,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot collectible is-first-run-hinting",
+          "text": "まだあたたかいカップに触れる",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 106,
+            "y": 472,
+            "w": 74,
+            "h": 59
+          }
+        },
+        {
+          "probe": 5,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot collectible is-first-run-hinting",
+          "text": "置き去りのくまに触れる",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 223,
+            "y": 440,
+            "w": 94,
+            "h": 123
+          }
+        },
+        {
+          "probe": 6,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot collectible is-first-run-hinting",
+          "text": "青いリボンの鍵に触れる",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 51,
+            "y": 520,
+            "w": 77,
+            "h": 62
+          }
+        },
+        {
+          "probe": 7,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot ambient",
+          "text": "テーブルのメモをめくる",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 107,
+            "y": 523,
+            "w": 72,
+            "h": 56
+          }
+        },
+        {
+          "probe": 8,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot ambient",
+          "text": "ティーポットに触れる",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 47,
+            "y": 431,
+            "w": 82,
+            "h": 85
+          }
+        },
+        {
+          "probe": 9,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot ambient",
+          "text": "花に触れる",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": -58,
+            "y": 311,
+            "w": 121,
+            "h": 105
+          }
+        },
+        {
+          "probe": 10,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot ambient",
+          "text": "水面に触れる",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 117,
+            "y": 305,
+            "w": 164,
+            "h": 129
+          }
+        },
+        {
+          "probe": 11,
+          "tag": "BUTTON",
+          "id": "doorHotspot",
+          "cls": "scene-hotspot ambient hotspot-door",
+          "text": "遠くの白い門に触れる",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 187,
+            "y": 211,
+            "w": 62,
+            "h": 82
+          }
+        }
+      ]
+    },
+    {
+      "label": "back-10:before",
+      "url": "https://niko2atelier.com/#garden",
+      "title": "NIKO² ATELIER",
+      "hash": "#garden",
+      "route": "garden",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 夢の見覚え ✧︎ 0 / 5 見つけたもの 石の奥から、誰も使っていない食器の音が返った。",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "gardenSkipControl",
+          "cls": "garden-skip-control",
+          "text": "夢の見覚え ✧︎",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 315,
+            "y": 56,
+            "w": 61,
+            "h": 30
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot collectible is-first-run-hinting",
+          "text": "止まりかけの砂時計に触れる",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": -60,
+            "y": 363,
+            "w": 70,
+            "h": 123
+          }
+        },
+        {
+          "probe": 3,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot collectible is-first-run-hinting",
+          "text": "N² Eau de rêveに触れる",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": -8,
+            "y": 475,
+            "w": 62,
+            "h": 76
+          }
+        },
+        {
+          "probe": 4,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot collectible is-first-run-hinting",
+          "text": "まだあたたかいカップに触れる",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 106,
+            "y": 472,
+            "w": 74,
+            "h": 59
+          }
+        },
+        {
+          "probe": 5,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot collectible is-first-run-hinting",
+          "text": "置き去りのくまに触れる",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 223,
+            "y": 440,
+            "w": 94,
+            "h": 123
+          }
+        },
+        {
+          "probe": 6,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot collectible is-first-run-hinting",
+          "text": "青いリボンの鍵に触れる",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 51,
+            "y": 520,
+            "w": 77,
+            "h": 62
+          }
+        },
+        {
+          "probe": 7,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot ambient",
+          "text": "テーブルのメモをめくる",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 107,
+            "y": 523,
+            "w": 72,
+            "h": 56
+          }
+        },
+        {
+          "probe": 8,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot ambient",
+          "text": "ティーポットに触れる",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 47,
+            "y": 431,
+            "w": 82,
+            "h": 85
+          }
+        },
+        {
+          "probe": 9,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot ambient",
+          "text": "花に触れる",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": -58,
+            "y": 311,
+            "w": 121,
+            "h": 105
+          }
+        },
+        {
+          "probe": 10,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "scene-hotspot ambient",
+          "text": "水面に触れる",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 117,
+            "y": 305,
+            "w": 164,
+            "h": 129
+          }
+        },
+        {
+          "probe": 11,
+          "tag": "BUTTON",
+          "id": "doorHotspot",
+          "cls": "scene-hotspot ambient hotspot-door",
+          "text": "遠くの白い門に触れる",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 187,
+            "y": 211,
+            "w": 62,
+            "h": 82
+          }
+        }
+      ]
+    },
+    {
+      "label": "back-10:after",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-11-choice",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-11-tap:before",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "enterGarden",
+          "cls": "dream-entry home-pink-cta",
+          "text": "Enter the dream",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-11-tap:after",
+      "url": "https://niko2atelier.com/#garden",
+      "title": "NIKO² ATELIER",
+      "hash": "#garden",
+      "route": "garden",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 夢の見覚え ✧︎ 席を立ったあとの庭にも、 持ち主より長く夢を見るものがいる。 この空へ入る 0 / 5 見つけたもの 石の奥から、誰も使っていない食器の音が返った。",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "gardenSkipControl",
+          "cls": "garden-skip-control",
+          "text": "夢の見覚え ✧︎",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 315,
+            "y": 56,
+            "w": 61,
+            "h": 30
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "beginGarden",
+          "cls": "",
+          "text": "この空へ入る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 48,
+            "y": 764,
+            "w": 154,
+            "h": 48
+          }
+        }
+      ]
+    },
+    {
+      "label": "scroll-12:before",
+      "url": "https://niko2atelier.com/#garden",
+      "title": "NIKO² ATELIER",
+      "hash": "#garden",
+      "route": "garden",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 夢の見覚え ✧︎ 席を立ったあとの庭にも、 持ち主より長く夢を見るものがいる。 この空へ入る 0 / 5 見つけたもの 石の奥から、誰も使っていない食器の音が返った。",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "gardenSkipControl",
+          "cls": "garden-skip-control",
+          "text": "夢の見覚え ✧︎",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 315,
+            "y": 56,
+            "w": 61,
+            "h": 30
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "beginGarden",
+          "cls": "",
+          "text": "この空へ入る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 48,
+            "y": 764,
+            "w": 154,
+            "h": 48
+          }
+        }
+      ]
+    },
+    {
+      "label": "scroll-12:after",
+      "url": "https://niko2atelier.com/#garden",
+      "title": "NIKO² ATELIER",
+      "hash": "#garden",
+      "route": "garden",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 夢の見覚え ✧︎ 席を立ったあとの庭にも、 持ち主より長く夢を見るものがいる。 この空へ入る 0 / 5 見つけたもの 石の奥から、誰も使っていない食器の音が返った。",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "gardenSkipControl",
+          "cls": "garden-skip-control",
+          "text": "夢の見覚え ✧︎",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 315,
+            "y": 56,
+            "w": 61,
+            "h": 30
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "beginGarden",
+          "cls": "",
+          "text": "この空へ入る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 48,
+            "y": 764,
+            "w": 154,
+            "h": 48
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-13-choice",
+      "url": "https://niko2atelier.com/#garden",
+      "title": "NIKO² ATELIER",
+      "hash": "#garden",
+      "route": "garden",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 夢の見覚え ✧︎ 席を立ったあとの庭にも、 持ち主より長く夢を見るものがいる。 この空へ入る 0 / 5 見つけたもの 石の奥から、誰も使っていない食器の音が返った。",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "gardenSkipControl",
+          "cls": "garden-skip-control",
+          "text": "夢の見覚え ✧︎",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 315,
+            "y": 56,
+            "w": 61,
+            "h": 30
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "beginGarden",
+          "cls": "",
+          "text": "この空へ入る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 48,
+            "y": 764,
+            "w": 154,
+            "h": 48
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-13-tap:before",
+      "url": "https://niko2atelier.com/#garden",
+      "title": "NIKO² ATELIER",
+      "hash": "#garden",
+      "route": "garden",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 夢の見覚え ✧︎ 席を立ったあとの庭にも、 持ち主より長く夢を見るものがいる。 この空へ入る 0 / 5 見つけたもの 石の奥から、誰も使っていない食器の音が返った。",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "gardenSkipControl",
+          "cls": "garden-skip-control",
+          "text": "夢の見覚え ✧︎",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 315,
+            "y": 56,
+            "w": 61,
+            "h": 30
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "beginGarden",
+          "cls": "",
+          "text": "この空へ入る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 48,
+            "y": 764,
+            "w": 154,
+            "h": 48
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-13-tap:after",
+      "url": "https://niko2atelier.com/#garden",
+      "title": "NIKO² ATELIER",
+      "hash": "#garden",
+      "route": "garden",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 夢の見覚え ✧︎ 席を立ったあとの庭にも、 持ち主より長く夢を見るものがいる。 この空へ入る 5 / 5 見つけたもの 石の奥から、誰も使っていない食器の音が返った。",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "gardenSkipControl",
+          "cls": "garden-skip-control",
+          "text": "夢の見覚え ✧︎",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 315,
+            "y": 56,
+            "w": 61,
+            "h": 30
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "beginGarden",
+          "cls": "",
+          "text": "この空へ入る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 48,
+            "y": 764,
+            "w": 154,
+            "h": 48
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-14-choice",
+      "url": "https://niko2atelier.com/#garden",
+      "title": "NIKO² ATELIER",
+      "hash": "#garden",
+      "route": "garden",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 夢の見覚え ✧︎ 席を立ったあとの庭にも、 持ち主より長く夢を見るものがいる。 この空へ入る 5 / 5 見つけたもの 石の奥から、誰も使っていない食器の音が返った。",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "gardenSkipControl",
+          "cls": "garden-skip-control",
+          "text": "夢の見覚え ✧︎",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 315,
+            "y": 56,
+            "w": 61,
+            "h": 30
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "beginGarden",
+          "cls": "",
+          "text": "この空へ入る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 48,
+            "y": 764,
+            "w": 154,
+            "h": 48
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-14-tap:before",
+      "url": "https://niko2atelier.com/#garden",
+      "title": "NIKO² ATELIER",
+      "hash": "#garden",
+      "route": "garden",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 夢の見覚え ✧︎ 席を立ったあとの庭にも、 持ち主より長く夢を見るものがいる。 この空へ入る 5 / 5 見つけたもの 石の奥から、誰も使っていない食器の音が返った。",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "gardenSkipControl",
+          "cls": "garden-skip-control",
+          "text": "夢の見覚え ✧︎",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 315,
+            "y": 56,
+            "w": 61,
+            "h": 30
+          }
+        },
+        {
+          "probe": 2,
+          "tag": "BUTTON",
+          "id": "beginGarden",
+          "cls": "",
+          "text": "この空へ入る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 48,
+            "y": 764,
+            "w": 154,
+            "h": 48
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-14-tap:after",
+      "url": "https://niko2atelier.com/#quiet",
+      "title": "NIKO² ATELIER",
+      "hash": "#quiet",
+      "route": "quiet",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 夢の見覚え ✧︎ 遠のいていく庭の中で、見覚えのあるくまと椅子だけが座っている。 こちらを見ても、何も言わない。 特別な言葉はいらない。",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "gardenSkipControl",
+          "cls": "garden-skip-control",
+          "text": "夢の見覚え ✧︎",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 315,
+            "y": 56,
+            "w": 61,
+            "h": 30
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-15-choice",
+      "url": "https://niko2atelier.com/#quiet",
+      "title": "NIKO² ATELIER",
+      "hash": "#quiet",
+      "route": "quiet",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 夢の見覚え ✧︎ 遠のいていく庭の中で、見覚えのあるくまと椅子だけが座っている。 こちらを見ても、何も言わない。 特別な言葉はいらない。",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "gardenSkipControl",
+          "cls": "garden-skip-control",
+          "text": "夢の見覚え ✧︎",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 315,
+            "y": 56,
+            "w": 61,
+            "h": 30
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-15-tap:before",
+      "url": "https://niko2atelier.com/#quiet",
+      "title": "NIKO² ATELIER",
+      "hash": "#quiet",
+      "route": "quiet",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 夢の見覚え ✧︎ 遠のいていく庭の中で、見覚えのあるくまと椅子だけが座っている。 こちらを見ても、何も言わない。 特別な言葉はいらない。",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "soundToggle",
+          "cls": "sound-toggle",
+          "text": "音をオンにする",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 332,
+            "y": 14,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "gardenSkipControl",
+          "cls": "garden-skip-control",
+          "text": "夢の見覚え ✧︎",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 315,
+            "y": 56,
+            "w": 61,
+            "h": 30
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-15-tap:after",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 WORLD WORLD 水面の向こうに、いくつかの場所がひらいています。 ABOUT もふもふはいます。 PLAY / SHARE / FAN WORK NIKO²での生活について 好きな形で遊ぶための、小さな境界。 DEAR ATELIER お手紙を送る Atelierの受取箱へ。 ??? © 2026 NIKO² ATELIER / NIKO Rights AFTER THE GARDEN この庭を、短く通り抜けました。 次へ",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "次へ",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 304,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-16-choice",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 WORLD WORLD 水面の向こうに、いくつかの場所がひらいています。 ABOUT もふもふはいます。 PLAY / SHARE / FAN WORK NIKO²での生活について 好きな形で遊ぶための、小さな境界。 DEAR ATELIER お手紙を送る Atelierの受取箱へ。 ??? © 2026 NIKO² ATELIER / NIKO Rights AFTER THE GARDEN この庭を、短く通り抜けました。 次へ",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "次へ",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 304,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-16-tap:before",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 WORLD WORLD 水面の向こうに、いくつかの場所がひらいています。 ABOUT もふもふはいます。 PLAY / SHARE / FAN WORK NIKO²での生活について 好きな形で遊ぶための、小さな境界。 DEAR ATELIER お手紙を送る Atelierの受取箱へ。 ??? © 2026 NIKO² ATELIER / NIKO Rights AFTER THE GARDEN この庭を、短く通り抜けました。 次へ",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "次へ",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 304,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-16-tap:after",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 WORLD WORLD 水面の向こうに、いくつかの場所がひらいています。 ABOUT もふもふはいます。 PLAY / SHARE / FAN WORK NIKO²での生活について 好きな形で遊ぶための、小さな境界。 DEAR ATELIER お手紙を送る Atelierの受取箱へ。 ??? © 2026 NIKO² ATELIER / NIKO Rights WHAT REMAINED 最後に見た景色が、 ここに残りました。 次へ戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "次へ",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 304,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-17-choice",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 WORLD WORLD 水面の向こうに、いくつかの場所がひらいています。 ABOUT もふもふはいます。 PLAY / SHARE / FAN WORK NIKO²での生活について 好きな形で遊ぶための、小さな境界。 DEAR ATELIER お手紙を送る Atelierの受取箱へ。 ??? © 2026 NIKO² ATELIER / NIKO Rights WHAT REMAINED 最後に見た景色が、 ここに残りました。 次へ戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "次へ",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 304,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-17-tap:before",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 WORLD WORLD 水面の向こうに、いくつかの場所がひらいています。 ABOUT もふもふはいます。 PLAY / SHARE / FAN WORK NIKO²での生活について 好きな形で遊ぶための、小さな境界。 DEAR ATELIER お手紙を送る Atelierの受取箱へ。 ??? © 2026 NIKO² ATELIER / NIKO Rights WHAT REMAINED 最後に見た景色が、 ここに残りました。 次へ戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "次へ",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 304,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-17-tap:after",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 WORLD WORLD 水面の向こうに、いくつかの場所がひらいています。 ABOUT もふもふはいます。 PLAY / SHARE / FAN WORK NIKO²での生活について 好きな形で遊ぶための、小さな境界。 DEAR ATELIER お手紙を送る Atelierの受取箱へ。 ??? © 2026 NIKO² ATELIER / NIKO Rights AFTER THE GARDEN この庭を、短く通り抜けました。 次へ",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "次へ",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 304,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-18-choice",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 WORLD WORLD 水面の向こうに、いくつかの場所がひらいています。 ABOUT もふもふはいます。 PLAY / SHARE / FAN WORK NIKO²での生活について 好きな形で遊ぶための、小さな境界。 DEAR ATELIER お手紙を送る Atelierの受取箱へ。 ??? © 2026 NIKO² ATELIER / NIKO Rights AFTER THE GARDEN この庭を、短く通り抜けました。 次へ",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "次へ",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 304,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-18-tap:before",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 WORLD WORLD 水面の向こうに、いくつかの場所がひらいています。 ABOUT もふもふはいます。 PLAY / SHARE / FAN WORK NIKO²での生活について 好きな形で遊ぶための、小さな境界。 DEAR ATELIER お手紙を送る Atelierの受取箱へ。 ??? © 2026 NIKO² ATELIER / NIKO Rights AFTER THE GARDEN この庭を、短く通り抜けました。 次へ",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "次へ",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 304,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-18-tap:after",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 WORLD WORLD 水面の向こうに、いくつかの場所がひらいています。 ABOUT もふもふはいます。 PLAY / SHARE / FAN WORK NIKO²での生活について 好きな形で遊ぶための、小さな境界。 DEAR ATELIER お手紙を送る Atelierの受取箱へ。 ??? © 2026 NIKO² ATELIER / NIKO Rights WHAT REMAINED 最後に見た景色が、 ここに残りました。 次へ戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "次へ",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 304,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-19-choice",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 WORLD WORLD 水面の向こうに、いくつかの場所がひらいています。 ABOUT もふもふはいます。 PLAY / SHARE / FAN WORK NIKO²での生活について 好きな形で遊ぶための、小さな境界。 DEAR ATELIER お手紙を送る Atelierの受取箱へ。 ??? © 2026 NIKO² ATELIER / NIKO Rights WHAT REMAINED 最後に見た景色が、 ここに残りました。 次へ戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "次へ",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 304,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-19-tap:before",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 WORLD WORLD 水面の向こうに、いくつかの場所がひらいています。 ABOUT もふもふはいます。 PLAY / SHARE / FAN WORK NIKO²での生活について 好きな形で遊ぶための、小さな境界。 DEAR ATELIER お手紙を送る Atelierの受取箱へ。 ??? © 2026 NIKO² ATELIER / NIKO Rights WHAT REMAINED 最後に見た景色が、 ここに残りました。 次へ戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "次へ",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 304,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-19-tap:after",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 WORLD WORLD 水面の向こうに、いくつかの場所がひらいています。 ABOUT もふもふはいます。 PLAY / SHARE / FAN WORK NIKO²での生活について 好きな形で遊ぶための、小さな境界。 DEAR ATELIER お手紙を送る Atelierの受取箱へ。 ??? © 2026 NIKO² ATELIER / NIKO Rights AFTER THE GARDEN この庭を、短く通り抜けました。 次へ",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "次へ",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 304,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-20-choice",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 WORLD WORLD 水面の向こうに、いくつかの場所がひらいています。 ABOUT もふもふはいます。 PLAY / SHARE / FAN WORK NIKO²での生活について 好きな形で遊ぶための、小さな境界。 DEAR ATELIER お手紙を送る Atelierの受取箱へ。 ??? © 2026 NIKO² ATELIER / NIKO Rights AFTER THE GARDEN この庭を、短く通り抜けました。 次へ",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "次へ",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 304,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-20-tap:before",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 WORLD WORLD 水面の向こうに、いくつかの場所がひらいています。 ABOUT もふもふはいます。 PLAY / SHARE / FAN WORK NIKO²での生活について 好きな形で遊ぶための、小さな境界。 DEAR ATELIER お手紙を送る Atelierの受取箱へ。 ??? © 2026 NIKO² ATELIER / NIKO Rights AFTER THE GARDEN この庭を、短く通り抜けました。 次へ",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "次へ",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 304,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-20-tap:after",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 WORLD WORLD 水面の向こうに、いくつかの場所がひらいています。 ABOUT もふもふはいます。 PLAY / SHARE / FAN WORK NIKO²での生活について 好きな形で遊ぶための、小さな境界。 DEAR ATELIER お手紙を送る Atelierの受取箱へ。 ??? © 2026 NIKO² ATELIER / NIKO Rights WHAT REMAINED 最後に見た景色が、 ここに残りました。 次へ戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "次へ",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 304,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-21-choice",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 WORLD WORLD 水面の向こうに、いくつかの場所がひらいています。 ABOUT もふもふはいます。 PLAY / SHARE / FAN WORK NIKO²での生活について 好きな形で遊ぶための、小さな境界。 DEAR ATELIER お手紙を送る Atelierの受取箱へ。 ??? © 2026 NIKO² ATELIER / NIKO Rights WHAT REMAINED 最後に見た景色が、 ここに残りました。 次へ戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "次へ",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 304,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-21-tap:before",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 WORLD WORLD 水面の向こうに、いくつかの場所がひらいています。 ABOUT もふもふはいます。 PLAY / SHARE / FAN WORK NIKO²での生活について 好きな形で遊ぶための、小さな境界。 DEAR ATELIER お手紙を送る Atelierの受取箱へ。 ??? © 2026 NIKO² ATELIER / NIKO Rights WHAT REMAINED 最後に見た景色が、 ここに残りました。 次へ戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "次へ",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 304,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-21-tap:after",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 WORLD WORLD 水面の向こうに、いくつかの場所がひらいています。 ABOUT もふもふはいます。 PLAY / SHARE / FAN WORK NIKO²での生活について 好きな形で遊ぶための、小さな境界。 DEAR ATELIER お手紙を送る Atelierの受取箱へ。 ??? © 2026 NIKO² ATELIER / NIKO Rights AFTER THE GARDEN この庭を、短く通り抜けました。 次へ",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "次へ",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 304,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-22-choice",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 WORLD WORLD 水面の向こうに、いくつかの場所がひらいています。 ABOUT もふもふはいます。 PLAY / SHARE / FAN WORK NIKO²での生活について 好きな形で遊ぶための、小さな境界。 DEAR ATELIER お手紙を送る Atelierの受取箱へ。 ??? © 2026 NIKO² ATELIER / NIKO Rights AFTER THE GARDEN この庭を、短く通り抜けました。 次へ",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "次へ",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 304,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-22-tap:before",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 WORLD WORLD 水面の向こうに、いくつかの場所がひらいています。 ABOUT もふもふはいます。 PLAY / SHARE / FAN WORK NIKO²での生活について 好きな形で遊ぶための、小さな境界。 DEAR ATELIER お手紙を送る Atelierの受取箱へ。 ??? © 2026 NIKO² ATELIER / NIKO Rights AFTER THE GARDEN この庭を、短く通り抜けました。 次へ",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "次へ",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 304,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-22-tap:after",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 WORLD WORLD 水面の向こうに、いくつかの場所がひらいています。 ABOUT もふもふはいます。 PLAY / SHARE / FAN WORK NIKO²での生活について 好きな形で遊ぶための、小さな境界。 DEAR ATELIER お手紙を送る Atelierの受取箱へ。 ??? © 2026 NIKO² ATELIER / NIKO Rights WHAT REMAINED 最後に見た景色が、 ここに残りました。 次へ戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "次へ",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 304,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-23-choice",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 WORLD WORLD 水面の向こうに、いくつかの場所がひらいています。 ABOUT もふもふはいます。 PLAY / SHARE / FAN WORK NIKO²での生活について 好きな形で遊ぶための、小さな境界。 DEAR ATELIER お手紙を送る Atelierの受取箱へ。 ??? © 2026 NIKO² ATELIER / NIKO Rights WHAT REMAINED 最後に見た景色が、 ここに残りました。 次へ戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "次へ",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 304,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-23-tap:before",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 WORLD WORLD 水面の向こうに、いくつかの場所がひらいています。 ABOUT もふもふはいます。 PLAY / SHARE / FAN WORK NIKO²での生活について 好きな形で遊ぶための、小さな境界。 DEAR ATELIER お手紙を送る Atelierの受取箱へ。 ??? © 2026 NIKO² ATELIER / NIKO Rights WHAT REMAINED 最後に見た景色が、 ここに残りました。 次へ戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "次へ",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 304,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-23-tap:after",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 WORLD WORLD 水面の向こうに、いくつかの場所がひらいています。 ABOUT もふもふはいます。 PLAY / SHARE / FAN WORK NIKO²での生活について 好きな形で遊ぶための、小さな境界。 DEAR ATELIER お手紙を送る Atelierの受取箱へ。 ??? © 2026 NIKO² ATELIER / NIKO Rights NIKO² ATELIER あなたの夢は、NIKO² ATELIERとともに、 この世界を少しずつ広げていきます。 次へ戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "次へ",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 304,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-24-choice",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 WORLD WORLD 水面の向こうに、いくつかの場所がひらいています。 ABOUT もふもふはいます。 PLAY / SHARE / FAN WORK NIKO²での生活について 好きな形で遊ぶための、小さな境界。 DEAR ATELIER お手紙を送る Atelierの受取箱へ。 ??? © 2026 NIKO² ATELIER / NIKO Rights NIKO² ATELIER あなたの夢は、NIKO² ATELIERとともに、 この世界を少しずつ広げていきます。 次へ戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "次へ",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 304,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-24-tap:before",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 WORLD WORLD 水面の向こうに、いくつかの場所がひらいています。 ABOUT もふもふはいます。 PLAY / SHARE / FAN WORK NIKO²での生活について 好きな形で遊ぶための、小さな境界。 DEAR ATELIER お手紙を送る Atelierの受取箱へ。 ??? © 2026 NIKO² ATELIER / NIKO Rights NIKO² ATELIER あなたの夢は、NIKO² ATELIERとともに、 この世界を少しずつ広げていきます。 次へ戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "次へ",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 304,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-24-tap:after",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 WORLD WORLD 水面の向こうに、いくつかの場所がひらいています。 ABOUT もふもふはいます。 PLAY / SHARE / FAN WORK NIKO²での生活について 好きな形で遊ぶための、小さな境界。 DEAR ATELIER お手紙を送る Atelierの受取箱へ。 ??? © 2026 NIKO² ATELIER / NIKO Rights WHAT REMAINED 最後に見た景色が、 ここに残りました。 次へ戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "次へ",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 304,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-25-choice",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 WORLD WORLD 水面の向こうに、いくつかの場所がひらいています。 ABOUT もふもふはいます。 PLAY / SHARE / FAN WORK NIKO²での生活について 好きな形で遊ぶための、小さな境界。 DEAR ATELIER お手紙を送る Atelierの受取箱へ。 ??? © 2026 NIKO² ATELIER / NIKO Rights WHAT REMAINED 最後に見た景色が、 ここに残りました。 次へ戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "次へ",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 304,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-25-tap:before",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 WORLD WORLD 水面の向こうに、いくつかの場所がひらいています。 ABOUT もふもふはいます。 PLAY / SHARE / FAN WORK NIKO²での生活について 好きな形で遊ぶための、小さな境界。 DEAR ATELIER お手紙を送る Atelierの受取箱へ。 ??? © 2026 NIKO² ATELIER / NIKO Rights WHAT REMAINED 最後に見た景色が、 ここに残りました。 次へ戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "次へ",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 304,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-25-tap:after",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 WORLD WORLD 水面の向こうに、いくつかの場所がひらいています。 ABOUT もふもふはいます。 PLAY / SHARE / FAN WORK NIKO²での生活について 好きな形で遊ぶための、小さな境界。 DEAR ATELIER お手紙を送る Atelierの受取箱へ。 ??? © 2026 NIKO² ATELIER / NIKO Rights NIKO² ATELIER あなたの夢は、NIKO² ATELIERとともに、 この世界を少しずつ広げていきます。 次へ戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "次へ",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 304,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-26-choice",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 WORLD WORLD 水面の向こうに、いくつかの場所がひらいています。 ABOUT もふもふはいます。 PLAY / SHARE / FAN WORK NIKO²での生活について 好きな形で遊ぶための、小さな境界。 DEAR ATELIER お手紙を送る Atelierの受取箱へ。 ??? © 2026 NIKO² ATELIER / NIKO Rights NIKO² ATELIER あなたの夢は、NIKO² ATELIERとともに、 この世界を少しずつ広げていきます。 次へ戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "次へ",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 304,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-26-tap:before",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 WORLD WORLD 水面の向こうに、いくつかの場所がひらいています。 ABOUT もふもふはいます。 PLAY / SHARE / FAN WORK NIKO²での生活について 好きな形で遊ぶための、小さな境界。 DEAR ATELIER お手紙を送る Atelierの受取箱へ。 ??? © 2026 NIKO² ATELIER / NIKO Rights NIKO² ATELIER あなたの夢は、NIKO² ATELIERとともに、 この世界を少しずつ広げていきます。 次へ戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "次へ",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 304,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-26-tap:after",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 WORLD WORLD 水面の向こうに、いくつかの場所がひらいています。 ABOUT もふもふはいます。 PLAY / SHARE / FAN WORK NIKO²での生活について 好きな形で遊ぶための、小さな境界。 DEAR ATELIER お手紙を送る Atelierの受取箱へ。 ??? © 2026 NIKO² ATELIER / NIKO Rights WHAT REMAINED 最後に見た景色が、 ここに残りました。 次へ戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "次へ",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 304,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-27-choice",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 WORLD WORLD 水面の向こうに、いくつかの場所がひらいています。 ABOUT もふもふはいます。 PLAY / SHARE / FAN WORK NIKO²での生活について 好きな形で遊ぶための、小さな境界。 DEAR ATELIER お手紙を送る Atelierの受取箱へ。 ??? © 2026 NIKO² ATELIER / NIKO Rights WHAT REMAINED 最後に見た景色が、 ここに残りました。 次へ戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "次へ",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 304,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-27-tap:before",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 WORLD WORLD 水面の向こうに、いくつかの場所がひらいています。 ABOUT もふもふはいます。 PLAY / SHARE / FAN WORK NIKO²での生活について 好きな形で遊ぶための、小さな境界。 DEAR ATELIER お手紙を送る Atelierの受取箱へ。 ??? © 2026 NIKO² ATELIER / NIKO Rights WHAT REMAINED 最後に見た景色が、 ここに残りました。 次へ戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "次へ",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 304,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-27-tap:after",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 WORLD WORLD 水面の向こうに、いくつかの場所がひらいています。 ABOUT もふもふはいます。 PLAY / SHARE / FAN WORK NIKO²での生活について 好きな形で遊ぶための、小さな境界。 DEAR ATELIER お手紙を送る Atelierの受取箱へ。 ??? © 2026 NIKO² ATELIER / NIKO Rights NIKO² ATELIER あなたの夢は、NIKO² ATELIERとともに、 この世界を少しずつ広げていきます。 次へ戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "次へ",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 304,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-28-choice",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 WORLD WORLD 水面の向こうに、いくつかの場所がひらいています。 ABOUT もふもふはいます。 PLAY / SHARE / FAN WORK NIKO²での生活について 好きな形で遊ぶための、小さな境界。 DEAR ATELIER お手紙を送る Atelierの受取箱へ。 ??? © 2026 NIKO² ATELIER / NIKO Rights NIKO² ATELIER あなたの夢は、NIKO² ATELIERとともに、 この世界を少しずつ広げていきます。 次へ戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "次へ",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 304,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-28-tap:before",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 WORLD WORLD 水面の向こうに、いくつかの場所がひらいています。 ABOUT もふもふはいます。 PLAY / SHARE / FAN WORK NIKO²での生活について 好きな形で遊ぶための、小さな境界。 DEAR ATELIER お手紙を送る Atelierの受取箱へ。 ??? © 2026 NIKO² ATELIER / NIKO Rights NIKO² ATELIER あなたの夢は、NIKO² ATELIERとともに、 この世界を少しずつ広げていきます。 次へ戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "次へ",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 304,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "step-28-tap:after",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 WORLD WORLD 水面の向こうに、いくつかの場所がひらいています。 ABOUT もふもふはいます。 PLAY / SHARE / FAN WORK NIKO²での生活について 好きな形で遊ぶための、小さな境界。 DEAR ATELIER お手紙を送る Atelierの受取箱へ。 ??? © 2026 NIKO² ATELIER / NIKO Rights WHAT REMAINED 最後に見た景色が、 ここに残りました。 次へ戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "次へ",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 304,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    },
+    {
+      "label": "final",
+      "url": "https://niko2atelier.com/",
+      "title": "NIKO² ATELIER",
+      "hash": "",
+      "route": "home",
+      "activeViews": 1,
+      "scroll": {
+        "x": 0,
+        "y": 0,
+        "width": 390,
+        "height": 844
+      },
+      "horizontalOverflow": false,
+      "dialogs": [],
+      "bodyText": "作品へ移動 WORLD WORLD 水面の向こうに、いくつかの場所がひらいています。 ABOUT もふもふはいます。 PLAY / SHARE / FAN WORK NIKO²での生活について 好きな形で遊ぶための、小さな境界。 DEAR ATELIER お手紙を送る Atelierの受取箱へ。 ??? © 2026 NIKO² ATELIER / NIKO Rights WHAT REMAINED 最後に見た景色が、 ここに残りました。 次へ戻る",
+      "clickables": [
+        {
+          "probe": 0,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-primary",
+          "text": "次へ",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 304,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        },
+        {
+          "probe": 1,
+          "tag": "BUTTON",
+          "id": "",
+          "cls": "niko2-intro-back",
+          "text": "戻る",
+          "href": "",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ]
+    }
+  ],
+  "pageErrors": [],
+  "consoleErrors": [],
+  "requestFailures": [],
+  "httpStatus": 200,
+  "final": {
+    "url": "https://niko2atelier.com/",
+    "title": "NIKO² ATELIER",
+    "hash": "",
+    "route": "home",
+    "activeViews": 1,
+    "scroll": {
+      "x": 0,
+      "y": 0,
+      "width": 390,
+      "height": 844
+    },
+    "horizontalOverflow": false,
+    "dialogs": [],
+    "bodyText": "作品へ移動 WORLD WORLD 水面の向こうに、いくつかの場所がひらいています。 ABOUT もふもふはいます。 PLAY / SHARE / FAN WORK NIKO²での生活について 好きな形で遊ぶための、小さな境界。 DEAR ATELIER お手紙を送る Atelierの受取箱へ。 ??? © 2026 NIKO² ATELIER / NIKO Rights WHAT REMAINED 最後に見た景色が、 ここに残りました。 次へ戻る",
+    "clickables": [
+      {
+        "probe": 0,
+        "tag": "BUTTON",
+        "id": "",
+        "cls": "niko2-intro-primary",
+        "text": "次へ",
+        "href": "",
+        "disabled": false,
+        "rect": {
+          "x": 304,
+          "y": 780,
+          "w": 72,
+          "h": 44
+        }
+      },
+      {
+        "probe": 1,
+        "tag": "BUTTON",
+        "id": "",
+        "cls": "niko2-intro-back",
+        "text": "戻る",
+        "href": "",
+        "disabled": false,
+        "rect": {
+          "x": 14,
+          "y": 780,
+          "w": 72,
+          "h": 44
+        }
+      }
+    ]
+  },
+  "finishedAt": "2026-10-06T17:34:49.018Z"
+}
