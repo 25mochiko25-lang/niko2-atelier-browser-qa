@@ -1,8 +1,8 @@
 {
-  "id": "a07",
+  "id": "a08",
   "op": "tap",
-  "x": 195,
-  "y": 789,
-  "note": "An abandoned tea setting, a key, and a little note are more interesting than a conventional menu; I want to inspect the table.",
-  "wait": 1300
+  "x": 221,
+  "y": 607,
+  "note": "The small note beside the key draws me off the obvious glowing objects. I want to turn it over first.",
+  "wait": 400
 }
