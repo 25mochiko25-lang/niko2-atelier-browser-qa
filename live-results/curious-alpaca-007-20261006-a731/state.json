@@ -5,19 +5,17 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-06T18:33:15.438Z",
-  "updatedAt": "2026-10-06T19:07:46.805Z",
-  "lastCommand": "096-old-terminal",
-  "stopReason": null,
+  "updatedAt": "2026-10-06T19:09:18.936Z",
+  "lastCommand": "097-end-visit",
+  "stopReason": "I am satisfied with this particular visit: a Garden sentence became Yesterday at the hotel, and the hotel's two choices reappeared in the restored fictional web cache; the lab's tiny equipment and incident records made a good coda. I want to return another day for different orders and unread pages, rather than consume every branch now. This is my voluntary stopping point, not a step or infrastructure cutoff.",
   "action": {
-    "id": "096-old-terminal",
-    "op": "tap",
-    "x": 245,
-    "y": 400,
-    "wait": 850,
-    "note": "The little rounded terminal is still showing a cloud in the storage room. I want to touch its screen."
+    "id": "097-end-visit",
+    "op": "stop",
+    "reason": "I am satisfied with this particular visit: a Garden sentence became Yesterday at the hotel, and the hotel's two choices reappeared in the restored fictional web cache; the lab's tiny equipment and incident records made a good coda. I want to return another day for different orders and unread pages, rather than consume every branch now. This is my voluntary stopping point, not a step or infrastructure cutoff.",
+    "note": "Persona 7 final preference is B: I enjoyed this visit substantially and want to return after some time."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/1a50e4d602f4f4918b04ca4df5d5ce90d9bc5b7c/live-results/curious-alpaca-007-20261006-a731/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/e9520b325bbbc9c4fce99d00d92b4c11b511c478/live-results/curious-alpaca-007-20261006-a731/current.jpg",
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#lab",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -1670,6 +1668,20 @@
       "error": null,
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#lab",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/1a50e4d602f4f4918b04ca4df5d5ce90d9bc5b7c/live-results/curious-alpaca-007-20261006-a731/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\n\n\n\n白と薄水色のガラス研究所。奥へ続く通路と、記録の置かれた観測台があります。\nARCHIVE CHAMBER\n奥の保管室\n\n\n\n\nARCHIVE CHAMBER // N²-Ω\n\n\nN²-Ω\n終了後挙動観測記録\nSTATE\nACTIVE\n終了日\n記録なし\n停止権限\nNONE\n観測終了後も反応を続ける記録\n観測対象：実験 N²-Ω の終了後挙動。\n\n通常記録\n「2026年に観測開始。主任研究員はNIKO、システム監督はMOFUMOFU。」\n異常観測\n「観測終了後も内部の反応が続いている。終了日は記録されず、状態はACTIVEのまま。」\n実験目的\n未記載\nRELATED: OMEGA / ACCESS_NONE\nARCHIVE COPY / VIEW ONLY\nN²-Ωを開きました。\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+      "number": 98,
+      "at": "2026-10-06T19:09:18.936Z",
+      "action": {
+        "id": "097-end-visit",
+        "op": "stop",
+        "reason": "I am satisfied with this particular visit: a Garden sentence became Yesterday at the hotel, and the hotel's two choices reappeared in the restored fictional web cache; the lab's tiny equipment and incident records made a good coda. I want to return another day for different orders and unread pages, rather than consume every branch now. This is my voluntary stopping point, not a step or infrastructure cutoff.",
+        "note": "Persona 7 final preference is B: I enjoyed this visit substantially and want to return after some time."
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#lab",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/e9520b325bbbc9c4fce99d00d92b4c11b511c478/live-results/curious-alpaca-007-20261006-a731/current.jpg",
       "text": "作品へ移動\nNIKO² ATELIER\n\n\n\n白と薄水色のガラス研究所。奥へ続く通路と、記録の置かれた観測台があります。\nARCHIVE CHAMBER\n奥の保管室\n\n\n\n\nARCHIVE CHAMBER // N²-Ω\n\n\nN²-Ω\n終了後挙動観測記録\nSTATE\nACTIVE\n終了日\n記録なし\n停止権限\nNONE\n観測終了後も反応を続ける記録\n観測対象：実験 N²-Ω の終了後挙動。\n\n通常記録\n「2026年に観測開始。主任研究員はNIKO、システム監督はMOFUMOFU。」\n異常観測\n「観測終了後も内部の反応が続いている。終了日は記録されず、状態はACTIVEのまま。」\n実験目的\n未記載\nRELATED: OMEGA / ACCESS_NONE\nARCHIVE COPY / VIEW ONLY\nN²-Ωを開きました。\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
     }
   ]
