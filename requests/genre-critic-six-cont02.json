@@ -1,0 +1,13 @@
+{
+  "mode":"guided-continuation",
+  "persona":"genre-fan",
+  "target":"https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+  "storageState":"results/37509529523-genre-critic-six-cont01/storage-state.json",
+  "sessionStorage":"results/37509529523-genre-critic-six-cont01/session-storage.json",
+  "resume":"results/37509529523-genre-critic-six-cont01/resume.json",
+  "actions":[
+    {"kind":"tap","selector":"#openCabinetThreshold","label":"reopen-cabinet-threshold","wait":1200},
+    {"kind":"tap","name":"中を見る","label":"enter-cabinet","wait":2200,"picture":true},
+    {"kind":"scroll","dy":480,"label":"look-lower-in-cabinet","picture":true}
+  ]
+}
