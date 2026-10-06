@@ -1,0 +1,3223 @@
+{
+  "target": "https://niko2atelier.com/",
+  "method": "Fresh browser; ordinary UI replay followed by deliberately chosen follow-up actions. Not autonomous human behavior.",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "engine": "WebKit",
+  "startedAt": "2026-10-06T17:55:17.700Z",
+  "events": [
+    {
+      "label": "advance visible guide: 次へ",
+      "before": "home",
+      "after": "home",
+      "error": null
+    },
+    {
+      "label": "select introductory interaction concept",
+      "before": "home",
+      "after": "home",
+      "error": null
+    },
+    {
+      "label": "advance visible guide: 次へ",
+      "before": "home",
+      "after": "home",
+      "error": null
+    },
+    {
+      "label": "advance visible guide: 夢へ入る",
+      "before": "home",
+      "after": "garden",
+      "error": null
+    },
+    {
+      "label": "enter the Garden scene",
+      "before": "garden",
+      "after": "garden",
+      "error": null
+    },
+    {
+      "label": "touch 止まりかけの砂時計に触れる",
+      "before": "garden",
+      "after": "garden",
+      "error": null
+    },
+    {
+      "label": "close memory card",
+      "before": "garden",
+      "after": "garden",
+      "error": null
+    },
+    {
+      "label": "touch N² Eau de rêveに触れる",
+      "before": "garden",
+      "after": "garden",
+      "error": null
+    },
+    {
+      "label": "close memory card",
+      "before": "garden",
+      "after": "garden",
+      "error": null
+    },
+    {
+      "label": "touch まだあたたかいカップに触れる",
+      "before": "garden",
+      "after": "garden",
+      "error": null
+    },
+    {
+      "label": "close memory card",
+      "before": "garden",
+      "after": "garden",
+      "error": null
+    },
+    {
+      "label": "touch 置き去りのくまに触れる",
+      "before": "garden",
+      "after": "garden",
+      "error": null
+    },
+    {
+      "label": "close memory card",
+      "before": "garden",
+      "after": "garden",
+      "error": null
+    },
+    {
+      "label": "touch 青いリボンの鍵に触れる",
+      "before": "garden",
+      "after": "garden",
+      "error": null
+    },
+    {
+      "label": "close memory card",
+      "before": "garden",
+      "after": "garden",
+      "error": null
+    },
+    {
+      "label": "open the Garden gate",
+      "before": "garden",
+      "after": "garden",
+      "error": null
+    },
+    {
+      "label": "touch floating souvenir at its on-screen centre",
+      "before": "quiet",
+      "after": "quiet",
+      "error": null
+    },
+    {
+      "label": "bring souvenir back",
+      "before": "quiet",
+      "after": "quiet",
+      "error": null
+    },
+    {
+      "label": "carry dream memory to Diary",
+      "before": "quiet",
+      "after": "diary",
+      "error": null
+    },
+    {
+      "label": "return Home after the Garden",
+      "before": "diary",
+      "after": "home",
+      "error": null
+    },
+    {
+      "label": "advance visible guide: 次へ",
+      "before": "home",
+      "after": "home",
+      "error": null
+    },
+    {
+      "label": "advance visible guide: 次へ",
+      "before": "home",
+      "after": "home",
+      "error": null
+    },
+    {
+      "label": "advance visible guide: 次へ",
+      "before": "home",
+      "after": "home",
+      "error": null
+    },
+    {
+      "label": "advance visible guide: 完了",
+      "before": "home",
+      "after": "home",
+      "error": null
+    },
+    {
+      "label": "open another dream from Home",
+      "before": "home",
+      "after": "hotel",
+      "error": null
+    },
+    {
+      "label": "check into the offered hotel room",
+      "before": "hotel",
+      "after": "hotel",
+      "error": null
+    },
+    {
+      "label": "order the first offered room service: Tea for Nobody\nカップを二つ。来客の予定は不要です。\n¥600\n",
+      "before": "hotel",
+      "after": "hotel",
+      "error": null
+    },
+    {
+      "label": "check out after room service",
+      "before": "hotel",
+      "after": "hotel",
+      "error": null
+    },
+    {
+      "label": "return Home by visible link",
+      "before": "hotel",
+      "after": "hotel",
+      "error": null
+    },
+    {
+      "label": "return Home by visible link",
+      "before": "hotel",
+      "after": "hotel",
+      "error": null
+    },
+    {
+      "label": "return Home by visible link",
+      "before": "hotel",
+      "after": "hotel",
+      "error": null
+    }
+  ],
+  "observations": [
+    {
+      "label": "arrival",
+      "file": "01-arrival.jpg",
+      "url": "https://niko2atelier.com/",
+      "route": "home",
+      "text": "WORLD\n夢の入り口は、毎回すこし違う。\n次へ",
+      "actions": [
+        {
+          "id": "",
+          "text": "次へ",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 304,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ],
+      "images": [
+        {
+          "alt": "",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "label": "guide-1",
+      "file": null,
+      "url": "https://niko2atelier.com/",
+      "route": "home",
+      "text": "WORLD\n夢の入り口は、毎回すこし違う。\n次へ",
+      "actions": [
+        {
+          "id": "",
+          "text": "次へ",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 304,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ],
+      "images": [
+        {
+          "alt": "",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "label": "guide-2",
+      "file": null,
+      "url": "https://niko2atelier.com/",
+      "route": "home",
+      "text": "INTERACTION\n触れる\n持ち帰る\n仕舞う\n次へ戻る",
+      "actions": [
+        {
+          "id": "",
+          "text": "触れる",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 55,
+            "y": 422,
+            "w": 88,
+            "h": 46
+          }
+        },
+        {
+          "id": "",
+          "text": "持ち帰る",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 151,
+            "y": 422,
+            "w": 88,
+            "h": 46
+          }
+        },
+        {
+          "id": "",
+          "text": "仕舞う",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 247,
+            "y": 422,
+            "w": 88,
+            "h": 46
+          }
+        },
+        {
+          "id": "",
+          "text": "次へ",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 304,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        },
+        {
+          "id": "",
+          "text": "戻る",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ],
+      "images": [
+        {
+          "alt": "",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "label": "guide-3",
+      "file": null,
+      "url": "https://niko2atelier.com/",
+      "route": "home",
+      "text": "WELCOME\nようこそ！\n夢へ入る戻る",
+      "actions": [
+        {
+          "id": "",
+          "text": "夢へ入る",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 295,
+            "y": 780,
+            "w": 81,
+            "h": 44
+          }
+        },
+        {
+          "id": "",
+          "text": "戻る",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ],
+      "images": [
+        {
+          "alt": "",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "label": "garden-open",
+      "file": "02-garden-open.jpg",
+      "url": "https://niko2atelier.com/#garden",
+      "route": "garden",
+      "text": "0 / 5\n見つけたもの",
+      "actions": [
+        {
+          "id": "",
+          "text": "止まりかけの砂時計に触れる",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 10,
+            "y": 363,
+            "w": 70,
+            "h": 123
+          }
+        },
+        {
+          "id": "",
+          "text": "N² Eau de rêveに触れる",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 62,
+            "y": 475,
+            "w": 62,
+            "h": 76
+          }
+        },
+        {
+          "id": "",
+          "text": "まだあたたかいカップに触れる",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 176,
+            "y": 472,
+            "w": 74,
+            "h": 59
+          }
+        },
+        {
+          "id": "",
+          "text": "置き去りのくまに触れる",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 293,
+            "y": 440,
+            "w": 94,
+            "h": 123
+          }
+        },
+        {
+          "id": "",
+          "text": "青いリボンの鍵に触れる",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 121,
+            "y": 520,
+            "w": 77,
+            "h": 62
+          }
+        },
+        {
+          "id": "",
+          "text": "テーブルのメモをめくる",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 177,
+            "y": 523,
+            "w": 72,
+            "h": 56
+          }
+        },
+        {
+          "id": "",
+          "text": "くまのそばの本を開く",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 296,
+            "y": 522,
+            "w": 94,
+            "h": 76
+          }
+        },
+        {
+          "id": "",
+          "text": "ティーポットに触れる",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 117,
+            "y": 431,
+            "w": 82,
+            "h": 85
+          }
+        },
+        {
+          "id": "",
+          "text": "花に触れる",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 12,
+            "y": 311,
+            "w": 121,
+            "h": 105
+          }
+        },
+        {
+          "id": "",
+          "text": "水面に触れる",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 187,
+            "y": 305,
+            "w": 164,
+            "h": 129
+          }
+        },
+        {
+          "id": "",
+          "text": "レースのカーテンに触れる",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 0,
+            "y": 194,
+            "w": 59,
+            "h": 199
+          }
+        },
+        {
+          "id": "",
+          "text": "石の柱を軽く叩く",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 70,
+            "y": 223,
+            "w": 90,
+            "h": 181
+          }
+        },
+        {
+          "id": "doorHotspot",
+          "text": "遠くの白い門に触れる",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 257,
+            "y": 211,
+            "w": 62,
+            "h": 82
+          }
+        }
+      ],
+      "images": [
+        {
+          "alt": "雲上の記憶の庭。花とレースに囲まれたテーブルにティーセット、香水、鍵、砂時計があり、椅子にはくまのぬいぐるみが残されている",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "label": "garden-memory-1",
+      "file": "03-garden-memory-1.jpg",
+      "url": "https://niko2atelier.com/#garden",
+      "route": "garden",
+      "text": "1 / 5\n見つけたもの\nCG-01-A_01.DRM\n02:55:27\n\nFRAGMENT / 01\n\n止まりかけの砂時計\n砂は落ちていく。 逆さまに。巻き戻るように。",
+      "actions": [
+        {
+          "id": "",
+          "text": "止まりかけの砂時計（発見済み）",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 10,
+            "y": 363,
+            "w": 70,
+            "h": 123
+          }
+        },
+        {
+          "id": "",
+          "text": "N² Eau de rêveに触れる",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 62,
+            "y": 475,
+            "w": 62,
+            "h": 76
+          }
+        },
+        {
+          "id": "",
+          "text": "まだあたたかいカップに触れる",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 176,
+            "y": 472,
+            "w": 74,
+            "h": 59
+          }
+        },
+        {
+          "id": "",
+          "text": "置き去りのくまに触れる",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 293,
+            "y": 440,
+            "w": 94,
+            "h": 123
+          }
+        },
+        {
+          "id": "",
+          "text": "青いリボンの鍵に触れる",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 121,
+            "y": 520,
+            "w": 77,
+            "h": 62
+          }
+        },
+        {
+          "id": "",
+          "text": "テーブルのメモをめくる",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 177,
+            "y": 523,
+            "w": 72,
+            "h": 56
+          }
+        },
+        {
+          "id": "",
+          "text": "くまのそばの本を開く",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 296,
+            "y": 522,
+            "w": 94,
+            "h": 76
+          }
+        },
+        {
+          "id": "",
+          "text": "ティーポットに触れる",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 117,
+            "y": 431,
+            "w": 82,
+            "h": 85
+          }
+        },
+        {
+          "id": "",
+          "text": "花に触れる",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 12,
+            "y": 311,
+            "w": 121,
+            "h": 105
+          }
+        },
+        {
+          "id": "",
+          "text": "水面に触れる",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 187,
+            "y": 305,
+            "w": 164,
+            "h": 129
+          }
+        },
+        {
+          "id": "",
+          "text": "レースのカーテンに触れる",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 0,
+            "y": 194,
+            "w": 59,
+            "h": 199
+          }
+        },
+        {
+          "id": "",
+          "text": "石の柱を軽く叩く",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 70,
+            "y": 223,
+            "w": 90,
+            "h": 181
+          }
+        },
+        {
+          "id": "doorHotspot",
+          "text": "遠くの白い門に触れる",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 257,
+            "y": 211,
+            "w": 62,
+            "h": 82
+          }
+        },
+        {
+          "id": "closeMemory",
+          "text": "見つけた記憶を閉じる",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 324,
+            "y": 673,
+            "w": 24,
+            "h": 23
+          }
+        }
+      ],
+      "images": [
+        {
+          "alt": "雲上の記憶の庭。花とレースに囲まれたテーブルにティーセット、香水、鍵、砂時計があり、椅子にはくまのぬいぐるみが残されている",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "label": "garden-memory-2",
+      "file": null,
+      "url": "https://niko2atelier.com/#garden",
+      "route": "garden",
+      "text": "2 / 5\n見つけたもの\nCG-01-A_02.DRM\n02:55:29\n\nFRAGMENT / 02\n\nN² Eau de rêve\nキャップは常に閉じているのに、帰らない部屋の香りがした。",
+      "actions": [
+        {
+          "id": "",
+          "text": "止まりかけの砂時計（発見済み）",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 10,
+            "y": 363,
+            "w": 70,
+            "h": 123
+          }
+        },
+        {
+          "id": "",
+          "text": "N² Eau de rêve（発見済み）",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 62,
+            "y": 475,
+            "w": 62,
+            "h": 76
+          }
+        },
+        {
+          "id": "",
+          "text": "まだあたたかいカップに触れる",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 176,
+            "y": 472,
+            "w": 74,
+            "h": 59
+          }
+        },
+        {
+          "id": "",
+          "text": "置き去りのくまに触れる",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 293,
+            "y": 440,
+            "w": 94,
+            "h": 123
+          }
+        },
+        {
+          "id": "",
+          "text": "青いリボンの鍵に触れる",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 121,
+            "y": 520,
+            "w": 77,
+            "h": 62
+          }
+        },
+        {
+          "id": "",
+          "text": "テーブルのメモをめくる",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 177,
+            "y": 523,
+            "w": 72,
+            "h": 56
+          }
+        },
+        {
+          "id": "",
+          "text": "くまのそばの本を開く",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 296,
+            "y": 522,
+            "w": 94,
+            "h": 76
+          }
+        },
+        {
+          "id": "",
+          "text": "ティーポットに触れる",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 117,
+            "y": 431,
+            "w": 82,
+            "h": 85
+          }
+        },
+        {
+          "id": "",
+          "text": "花に触れる",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 12,
+            "y": 311,
+            "w": 121,
+            "h": 105
+          }
+        },
+        {
+          "id": "",
+          "text": "水面に触れる",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 187,
+            "y": 305,
+            "w": 164,
+            "h": 129
+          }
+        },
+        {
+          "id": "",
+          "text": "レースのカーテンに触れる",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 0,
+            "y": 194,
+            "w": 59,
+            "h": 199
+          }
+        },
+        {
+          "id": "",
+          "text": "石の柱を軽く叩く",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 70,
+            "y": 223,
+            "w": 90,
+            "h": 181
+          }
+        },
+        {
+          "id": "doorHotspot",
+          "text": "遠くの白い門に触れる",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 257,
+            "y": 211,
+            "w": 62,
+            "h": 82
+          }
+        },
+        {
+          "id": "closeMemory",
+          "text": "見つけた記憶を閉じる",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 324,
+            "y": 654,
+            "w": 24,
+            "h": 23
+          }
+        }
+      ],
+      "images": [
+        {
+          "alt": "雲上の記憶の庭。花とレースに囲まれたテーブルにティーセット、香水、鍵、砂時計があり、椅子にはくまのぬいぐるみが残されている",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "label": "garden-memory-3",
+      "file": null,
+      "url": "https://niko2atelier.com/#garden",
+      "route": "garden",
+      "text": "3 / 5\n見つけたもの\nCG-01-A_03.DRM\n02:55:30\n\nFRAGMENT / 03\n\nまだあたたかいカップ\nほんのり湯気が残る。まだ、誰かの気配がする。",
+      "actions": [
+        {
+          "id": "",
+          "text": "止まりかけの砂時計（発見済み）",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 10,
+            "y": 363,
+            "w": 70,
+            "h": 123
+          }
+        },
+        {
+          "id": "",
+          "text": "N² Eau de rêve（発見済み）",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 62,
+            "y": 475,
+            "w": 62,
+            "h": 76
+          }
+        },
+        {
+          "id": "",
+          "text": "まだあたたかいカップ（発見済み）",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 176,
+            "y": 472,
+            "w": 74,
+            "h": 59
+          }
+        },
+        {
+          "id": "",
+          "text": "置き去りのくまに触れる",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 293,
+            "y": 440,
+            "w": 94,
+            "h": 123
+          }
+        },
+        {
+          "id": "",
+          "text": "青いリボンの鍵に触れる",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 121,
+            "y": 520,
+            "w": 77,
+            "h": 62
+          }
+        },
+        {
+          "id": "",
+          "text": "テーブルのメモをめくる",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 177,
+            "y": 523,
+            "w": 72,
+            "h": 56
+          }
+        },
+        {
+          "id": "",
+          "text": "くまのそばの本を開く",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 296,
+            "y": 522,
+            "w": 94,
+            "h": 76
+          }
+        },
+        {
+          "id": "",
+          "text": "ティーポットに触れる",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 117,
+            "y": 431,
+            "w": 82,
+            "h": 85
+          }
+        },
+        {
+          "id": "",
+          "text": "花に触れる",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 12,
+            "y": 311,
+            "w": 121,
+            "h": 105
+          }
+        },
+        {
+          "id": "",
+          "text": "水面に触れる",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 187,
+            "y": 305,
+            "w": 164,
+            "h": 129
+          }
+        },
+        {
+          "id": "",
+          "text": "レースのカーテンに触れる",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 0,
+            "y": 194,
+            "w": 59,
+            "h": 199
+          }
+        },
+        {
+          "id": "",
+          "text": "石の柱を軽く叩く",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 70,
+            "y": 223,
+            "w": 90,
+            "h": 181
+          }
+        },
+        {
+          "id": "doorHotspot",
+          "text": "遠くの白い門に触れる",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 257,
+            "y": 211,
+            "w": 62,
+            "h": 82
+          }
+        },
+        {
+          "id": "closeMemory",
+          "text": "見つけた記憶を閉じる",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 324,
+            "y": 673,
+            "w": 24,
+            "h": 23
+          }
+        }
+      ],
+      "images": [
+        {
+          "alt": "雲上の記憶の庭。花とレースに囲まれたテーブルにティーセット、香水、鍵、砂時計があり、椅子にはくまのぬいぐるみが残されている",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "label": "garden-memory-4",
+      "file": null,
+      "url": "https://niko2atelier.com/#garden",
+      "route": "garden",
+      "text": "4 / 5\n見つけたもの\nCG-01-A_04.DRM\n02:55:32\n\nFRAGMENT / 04\n\n置き去りのくま\n名前はもうない。それでも、いつもの方を向いている。",
+      "actions": [
+        {
+          "id": "",
+          "text": "止まりかけの砂時計（発見済み）",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 10,
+            "y": 363,
+            "w": 70,
+            "h": 123
+          }
+        },
+        {
+          "id": "",
+          "text": "N² Eau de rêve（発見済み）",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 62,
+            "y": 475,
+            "w": 62,
+            "h": 76
+          }
+        },
+        {
+          "id": "",
+          "text": "まだあたたかいカップ（発見済み）",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 176,
+            "y": 472,
+            "w": 74,
+            "h": 59
+          }
+        },
+        {
+          "id": "",
+          "text": "置き去りのくま（発見済み）",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 293,
+            "y": 440,
+            "w": 94,
+            "h": 123
+          }
+        },
+        {
+          "id": "",
+          "text": "青いリボンの鍵に触れる",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 121,
+            "y": 520,
+            "w": 77,
+            "h": 62
+          }
+        },
+        {
+          "id": "",
+          "text": "テーブルのメモをめくる",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 177,
+            "y": 523,
+            "w": 72,
+            "h": 56
+          }
+        },
+        {
+          "id": "",
+          "text": "くまのそばの本を開く",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 296,
+            "y": 522,
+            "w": 94,
+            "h": 76
+          }
+        },
+        {
+          "id": "",
+          "text": "ティーポットに触れる",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 117,
+            "y": 431,
+            "w": 82,
+            "h": 85
+          }
+        },
+        {
+          "id": "",
+          "text": "花に触れる",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 12,
+            "y": 311,
+            "w": 121,
+            "h": 105
+          }
+        },
+        {
+          "id": "",
+          "text": "水面に触れる",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 187,
+            "y": 305,
+            "w": 164,
+            "h": 129
+          }
+        },
+        {
+          "id": "",
+          "text": "レースのカーテンに触れる",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 0,
+            "y": 194,
+            "w": 59,
+            "h": 199
+          }
+        },
+        {
+          "id": "",
+          "text": "石の柱を軽く叩く",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 70,
+            "y": 223,
+            "w": 90,
+            "h": 181
+          }
+        },
+        {
+          "id": "doorHotspot",
+          "text": "遠くの白い門に触れる",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 257,
+            "y": 211,
+            "w": 62,
+            "h": 82
+          }
+        },
+        {
+          "id": "closeMemory",
+          "text": "見つけた記憶を閉じる",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 324,
+            "y": 654,
+            "w": 24,
+            "h": 23
+          }
+        }
+      ],
+      "images": [
+        {
+          "alt": "雲上の記憶の庭。花とレースに囲まれたテーブルにティーセット、香水、鍵、砂時計があり、椅子にはくまのぬいぐるみが残されている",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "label": "garden-memory-5",
+      "file": "04-garden-memory-5.jpg",
+      "url": "https://niko2atelier.com/#garden",
+      "route": "garden",
+      "text": "5 / 5\n見つけたもの\nCG-01-A_05.DRM\n02:55:33\n\nFRAGMENT / 05\n\n青いリボンの鍵\nどの扉にも合わない。ただ、ひとつの記憶だけが開いた。",
+      "actions": [
+        {
+          "id": "",
+          "text": "止まりかけの砂時計（発見済み）",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 10,
+            "y": 363,
+            "w": 70,
+            "h": 123
+          }
+        },
+        {
+          "id": "",
+          "text": "N² Eau de rêve（発見済み）",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 62,
+            "y": 475,
+            "w": 62,
+            "h": 76
+          }
+        },
+        {
+          "id": "",
+          "text": "まだあたたかいカップ（発見済み）",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 176,
+            "y": 472,
+            "w": 74,
+            "h": 59
+          }
+        },
+        {
+          "id": "",
+          "text": "置き去りのくま（発見済み）",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 293,
+            "y": 440,
+            "w": 94,
+            "h": 123
+          }
+        },
+        {
+          "id": "",
+          "text": "青いリボンの鍵（発見済み）",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 121,
+            "y": 520,
+            "w": 77,
+            "h": 62
+          }
+        },
+        {
+          "id": "",
+          "text": "テーブルのメモをめくる",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 177,
+            "y": 523,
+            "w": 72,
+            "h": 56
+          }
+        },
+        {
+          "id": "",
+          "text": "くまのそばの本を開く",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 296,
+            "y": 522,
+            "w": 94,
+            "h": 76
+          }
+        },
+        {
+          "id": "",
+          "text": "ティーポットに触れる",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 117,
+            "y": 431,
+            "w": 82,
+            "h": 85
+          }
+        },
+        {
+          "id": "",
+          "text": "花に触れる",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 12,
+            "y": 311,
+            "w": 121,
+            "h": 105
+          }
+        },
+        {
+          "id": "",
+          "text": "水面に触れる",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 187,
+            "y": 305,
+            "w": 164,
+            "h": 129
+          }
+        },
+        {
+          "id": "",
+          "text": "レースのカーテンに触れる",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 0,
+            "y": 194,
+            "w": 59,
+            "h": 199
+          }
+        },
+        {
+          "id": "",
+          "text": "石の柱を軽く叩く",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 70,
+            "y": 223,
+            "w": 90,
+            "h": 181
+          }
+        },
+        {
+          "id": "doorHotspot",
+          "text": "遠くの白い門に触れる",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 257,
+            "y": 211,
+            "w": 62,
+            "h": 82
+          }
+        },
+        {
+          "id": "closeMemory",
+          "text": "見つけた記憶を閉じる",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 324,
+            "y": 654,
+            "w": 24,
+            "h": 23
+          }
+        }
+      ],
+      "images": [
+        {
+          "alt": "雲上の記憶の庭。花とレースに囲まれたテーブルにティーセット、香水、鍵、砂時計があり、椅子にはくまのぬいぐるみが残されている",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "label": "garden-gate",
+      "file": "05-garden-gate.jpg",
+      "url": "https://niko2atelier.com/#garden",
+      "route": "garden",
+      "text": "5 / 5\n見つけたもの\n\nあの扉が、こちらを呼んでいる。\n触れて、向こうへ",
+      "actions": [
+        {
+          "id": "",
+          "text": "テーブルのメモをめくる",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 177,
+            "y": 523,
+            "w": 72,
+            "h": 56
+          }
+        },
+        {
+          "id": "",
+          "text": "くまのそばの本を開く",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 296,
+            "y": 522,
+            "w": 94,
+            "h": 76
+          }
+        },
+        {
+          "id": "",
+          "text": "ティーポットに触れる",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 117,
+            "y": 431,
+            "w": 82,
+            "h": 85
+          }
+        },
+        {
+          "id": "",
+          "text": "花に触れる",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 12,
+            "y": 311,
+            "w": 121,
+            "h": 105
+          }
+        },
+        {
+          "id": "",
+          "text": "水面に触れる",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 187,
+            "y": 305,
+            "w": 164,
+            "h": 129
+          }
+        },
+        {
+          "id": "",
+          "text": "レースのカーテンに触れる",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 0,
+            "y": 194,
+            "w": 59,
+            "h": 199
+          }
+        },
+        {
+          "id": "",
+          "text": "石の柱を軽く叩く",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 70,
+            "y": 223,
+            "w": 90,
+            "h": 181
+          }
+        },
+        {
+          "id": "doorHotspot",
+          "text": "遠くの白い門に触れる",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 211,
+            "y": 188,
+            "w": 164,
+            "h": 281
+          }
+        }
+      ],
+      "images": [
+        {
+          "alt": "雲上の記憶の庭。花とレースに囲まれたテーブルにティーセット、香水、鍵、砂時計があり、椅子にはくまのぬいぐるみが残されている",
+          "loaded": true
+        },
+        {
+          "alt": "",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "label": "garden-ending",
+      "file": "06-garden-ending.jpg",
+      "url": "https://niko2atelier.com/#quiet",
+      "route": "quiet",
+      "text": "夢を離れる",
+      "actions": [],
+      "images": []
+    },
+    {
+      "label": "garden-souvenir-note",
+      "file": "07-garden-souvenir-note.jpg",
+      "url": "https://niko2atelier.com/#quiet",
+      "route": "quiet",
+      "text": "くまの右手に、青い糸がひとつだけほどけていた。\n\n持ち帰る 夢を離れる",
+      "actions": [
+        {
+          "id": "quietArtifact",
+          "text": "待っていた糸結びに触れる",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 274,
+            "y": 558,
+            "w": 69,
+            "h": 69
+          }
+        },
+        {
+          "id": "bringArtifact",
+          "text": "持ち帰る",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 139,
+            "y": 705,
+            "w": 112,
+            "h": 44
+          }
+        },
+        {
+          "id": "leaveQuiet",
+          "text": "夢を離れる",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 22,
+            "y": 782,
+            "w": 100,
+            "h": 44
+          }
+        }
+      ],
+      "images": []
+    },
+    {
+      "label": "garden-carry-dialog",
+      "file": "08-garden-carry-dialog.jpg",
+      "url": "https://niko2atelier.com/#quiet",
+      "route": "quiet",
+      "text": "DREAM MEMORY\n\n夢から残ったもの\n\nWORLD MEMORY\nTHING THAT REMAINED\nWORLD MEMORY + REMAINS\nくまがいた椅子\n待っていた糸結び — くまの右手に、青い糸がひとつだけほどけていた。\n言葉を添える\nアトリエへ戻る\nDiaryへ持ち帰る",
+      "actions": [
+        {
+          "id": "closeJournal",
+          "text": "日記を閉じる",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 313,
+            "y": 125,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "id": "revealWords",
+          "text": "言葉を添える",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 38,
+            "y": 545,
+            "w": 103,
+            "h": 44
+          }
+        },
+        {
+          "id": "leaveJournalWithoutSaving",
+          "text": "アトリエへ戻る",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 38,
+            "y": 679,
+            "w": 314,
+            "h": 40
+          }
+        },
+        {
+          "id": "",
+          "text": "Diaryへ持ち帰る",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 38,
+            "y": 624,
+            "w": 314,
+            "h": 48
+          }
+        }
+      ],
+      "images": []
+    },
+    {
+      "label": "after-Garden",
+      "file": null,
+      "url": "https://niko2atelier.com/#diary",
+      "route": "diary",
+      "text": "NIKO² DIARY\nDiary\n今日のことを、ひとつだけ。\n10月7日 02:55\n夢の続きが、まだ近くにあります。\n← さっきの空へ戻る\nTODAY\n今日を残す\n✦\nいまの気配\n\n静か\n\nきらきら\n\nぼんやり\n\nざわざわ\n\n甘い\n\n雨っぽい\n\n眠い\n\n何もない\nPHOTO\n写真\n選択なし\n色・モチーフ\nOPTIONAL\n言葉\nOPTIONAL\nこの端末だけに残ります\n残す\nRECENT\n少し前の自分\n\nくまがいた椅子\n10/7\n2026年10月\nMONTHLY REFLECTION\n今月の景色\nよく残った気配\n静かな余白\nよく残った色\n色のない紙片\nよく残ったモチーフ\n名前のないもの\nまだ記録が少ないので、傾向ではなく、残ったものをそのまま眺めています。\nもう少し見る\nARCHIVE\n前の日々をひらく\n\nWHAT REMAINED\n残ったものを見る\nアトリエへ戻る",
+      "actions": [
+        {
+          "id": "returnToDream",
+          "text": "← さっきの空へ戻る",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 234,
+            "y": 258,
+            "w": 122,
+            "h": 40
+          }
+        },
+        {
+          "id": "",
+          "text": "静か",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 42,
+            "y": 428,
+            "w": 84,
+            "h": 44
+          }
+        },
+        {
+          "id": "",
+          "text": "きらきら",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 133,
+            "y": 428,
+            "w": 99,
+            "h": 44
+          }
+        },
+        {
+          "id": "",
+          "text": "ぼんやり",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 239,
+            "y": 428,
+            "w": 109,
+            "h": 44
+          }
+        },
+        {
+          "id": "",
+          "text": "ざわざわ",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 42,
+            "y": 481,
+            "w": 99,
+            "h": 44
+          }
+        },
+        {
+          "id": "",
+          "text": "甘い",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 148,
+            "y": 481,
+            "w": 81,
+            "h": 44
+          }
+        },
+        {
+          "id": "",
+          "text": "雨っぽい",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 236,
+            "y": 481,
+            "w": 112,
+            "h": 44
+          }
+        },
+        {
+          "id": "",
+          "text": "眠い",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 42,
+            "y": 534,
+            "w": 91,
+            "h": 44
+          }
+        },
+        {
+          "id": "",
+          "text": "何もない",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 140,
+            "y": 534,
+            "w": 112,
+            "h": 44
+          }
+        },
+        {
+          "id": "",
+          "text": "PHOTO\n写真\n選択なし",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 43,
+            "y": 589,
+            "w": 304,
+            "h": 44
+          }
+        },
+        {
+          "id": "",
+          "text": "",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 52,
+            "y": 637,
+            "w": 92,
+            "h": 39
+          }
+        },
+        {
+          "id": "",
+          "text": "",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 149,
+            "y": 637,
+            "w": 92,
+            "h": 39
+          }
+        },
+        {
+          "id": "",
+          "text": "",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 246,
+            "y": 637,
+            "w": 92,
+            "h": 39
+          }
+        },
+        {
+          "id": "",
+          "text": "",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 52,
+            "y": 680,
+            "w": 92,
+            "h": 39
+          }
+        },
+        {
+          "id": "",
+          "text": "",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 149,
+            "y": 680,
+            "w": 92,
+            "h": 39
+          }
+        },
+        {
+          "id": "",
+          "text": "",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 246,
+            "y": 680,
+            "w": 92,
+            "h": 39
+          }
+        },
+        {
+          "id": "diaryPhotoBrowse",
+          "text": "",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 53,
+            "y": 732,
+            "w": 75,
+            "h": 40
+          }
+        },
+        {
+          "id": "diaryPhotoRailPrev",
+          "text": "写真の一覧を左へ",
+          "href": null,
+          "disabled": true,
+          "rect": {
+            "x": 241,
+            "y": 730,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "id": "diaryPhotoRailNext",
+          "text": "写真の一覧を右へ",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 293,
+            "y": 730,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "id": "",
+          "text": "自販機・選ぶ",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 55,
+            "y": 786,
+            "w": 119,
+            "h": 153
+          }
+        },
+        {
+          "id": "",
+          "text": "駅ホーム・選ぶ",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 159,
+            "y": 788,
+            "w": 118,
+            "h": 152
+          }
+        },
+        {
+          "id": "",
+          "text": "改札・選ぶ",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 263,
+            "y": 789,
+            "w": 116,
+            "h": 151
+          }
+        },
+        {
+          "id": "",
+          "text": "電車の窓・選ぶ",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 365,
+            "y": 789,
+            "w": 118,
+            "h": 152
+          }
+        },
+        {
+          "id": "",
+          "text": "コインロッカー・選ぶ",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 467,
+            "y": 789,
+            "w": 119,
+            "h": 153
+          }
+        },
+        {
+          "id": "",
+          "text": "エレベーター・選ぶ",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 570,
+            "y": 789,
+            "w": 121,
+            "h": 155
+          }
+        },
+        {
+          "id": "",
+          "text": "街中のガラス扉・選ぶ",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 673,
+            "y": 786,
+            "w": 119,
+            "h": 153
+          }
+        },
+        {
+          "id": "",
+          "text": "帰りの空席・選ぶ",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 777,
+            "y": 788,
+            "w": 118,
+            "h": 152
+          }
+        },
+        {
+          "id": "",
+          "text": "雨あがりの改札・選ぶ",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 881,
+            "y": 789,
+            "w": 116,
+            "h": 151
+          }
+        },
+        {
+          "id": "",
+          "text": "淡い水色とラベンダーの光が残る、遅い時間の無人バス車内・選ぶ",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 983,
+            "y": 789,
+            "w": 118,
+            "h": 152
+          }
+        },
+        {
+          "id": "",
+          "text": "都会の青空・選ぶ",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 1085,
+            "y": 789,
+            "w": 119,
+            "h": 153
+          }
+        },
+        {
+          "id": "",
+          "text": "ビル越しの夕方・選ぶ",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 1188,
+            "y": 789,
+            "w": 121,
+            "h": 155
+          }
+        },
+        {
+          "id": "",
+          "text": "都会の夜空・選ぶ",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 1291,
+            "y": 786,
+            "w": 119,
+            "h": 153
+          }
+        },
+        {
+          "id": "",
+          "text": "建物のあいだの青空・選ぶ",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 1395,
+            "y": 788,
+            "w": 118,
+            "h": 152
+          }
+        },
+        {
+          "id": "",
+          "text": "夕方の壁・選ぶ",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 1499,
+            "y": 789,
+            "w": 116,
+            "h": 151
+          }
+        },
+        {
+          "id": "",
+          "text": "雨あがりの透明傘・選ぶ",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 1601,
+            "y": 789,
+            "w": 118,
+            "h": 152
+          }
+        },
+        {
+          "id": "",
+          "text": "色・モチーフ\nOPTIONAL",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 43,
+            "y": 645,
+            "w": 304,
+            "h": 44
+          }
+        },
+        {
+          "id": "",
+          "text": "淡いラベンダー",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 54,
+            "y": 727,
+            "w": 47,
+            "h": 51
+          }
+        },
+        {
+          "id": "",
+          "text": "花びらのピンク",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 112,
+            "y": 727,
+            "w": 48,
+            "h": 51
+          }
+        },
+        {
+          "id": "",
+          "text": "朝の水色",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 170,
+            "y": 727,
+            "w": 47,
+            "h": 51
+          }
+        },
+        {
+          "id": "",
+          "text": "真珠色",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 228,
+            "y": 727,
+            "w": 48,
+            "h": 51
+          }
+        },
+        {
+          "id": "",
+          "text": "淡いミント",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 286,
+            "y": 727,
+            "w": 47,
+            "h": 51
+          }
+        },
+        {
+          "id": "",
+          "text": "淡いパールブルー",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 54,
+            "y": 789,
+            "w": 48,
+            "h": 51
+          }
+        },
+        {
+          "id": "",
+          "text": "",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 55,
+            "y": 884,
+            "w": 51,
+            "h": 42
+          }
+        },
+        {
+          "id": "",
+          "text": "",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 114,
+            "y": 884,
+            "w": 48,
+            "h": 42
+          }
+        },
+        {
+          "id": "",
+          "text": "",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 171,
+            "y": 884,
+            "w": 51,
+            "h": 42
+          }
+        },
+        {
+          "id": "",
+          "text": "",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 230,
+            "y": 884,
+            "w": 73,
+            "h": 42
+          }
+        },
+        {
+          "id": "",
+          "text": "",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 55,
+            "y": 934,
+            "w": 115,
+            "h": 42
+          }
+        },
+        {
+          "id": "",
+          "text": "",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 178,
+            "y": 934,
+            "w": 67,
+            "h": 42
+          }
+        },
+        {
+          "id": "",
+          "text": "",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 253,
+            "y": 934,
+            "w": 53,
+            "h": 42
+          }
+        },
+        {
+          "id": "",
+          "text": "",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 55,
+            "y": 984,
+            "w": 55,
+            "h": 42
+          }
+        },
+        {
+          "id": "",
+          "text": "",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 118,
+            "y": 984,
+            "w": 55,
+            "h": 42
+          }
+        },
+        {
+          "id": "",
+          "text": "",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 181,
+            "y": 984,
+            "w": 48,
+            "h": 42
+          }
+        },
+        {
+          "id": "",
+          "text": "",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 237,
+            "y": 984,
+            "w": 55,
+            "h": 42
+          }
+        },
+        {
+          "id": "",
+          "text": "",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 55,
+            "y": 1034,
+            "w": 71,
+            "h": 42
+          }
+        },
+        {
+          "id": "",
+          "text": "言葉\nOPTIONAL",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 43,
+            "y": 701,
+            "w": 304,
+            "h": 44
+          }
+        },
+        {
+          "id": "quickDiarySave",
+          "text": "残す",
+          "href": null,
+          "disabled": true,
+          "rect": {
+            "x": 220,
+            "y": 759,
+            "w": 128,
+            "h": 48
+          }
+        },
+        {
+          "id": "",
+          "text": "くまがいた椅子\n10/7",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 38,
+            "y": 913,
+            "w": 313,
+            "h": 170
+          }
+        },
+        {
+          "id": "",
+          "text": "もう少し見る",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 40,
+            "y": 1717,
+            "w": 123,
+            "h": 45
+          }
+        },
+        {
+          "id": "",
+          "text": "ARCHIVE\n前の日々をひらく",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 26,
+            "y": 1842,
+            "w": 338,
+            "h": 68
+          }
+        },
+        {
+          "id": "",
+          "text": "",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 73,
+            "y": 1919,
+            "w": 54,
+            "h": 42
+          }
+        },
+        {
+          "id": "",
+          "text": "",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 131,
+            "y": 1919,
+            "w": 54,
+            "h": 42
+          }
+        },
+        {
+          "id": "",
+          "text": "",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 189,
+            "y": 1919,
+            "w": 54,
+            "h": 42
+          }
+        },
+        {
+          "id": "diaryPrev",
+          "text": "前日",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 46,
+            "y": 1969,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "id": "diaryNext",
+          "text": "翌日",
+          "href": null,
+          "disabled": true,
+          "rect": {
+            "x": 226,
+            "y": 1969,
+            "w": 44,
+            "h": 44
+          }
+        },
+        {
+          "id": "",
+          "text": "",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 37,
+            "y": 2040,
+            "w": 74,
+            "h": 40
+          }
+        },
+        {
+          "id": "",
+          "text": "くまがいた椅子をひらく",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 37,
+            "y": 2135,
+            "w": 317,
+            "h": 174
+          }
+        },
+        {
+          "id": "openCabinetThreshold",
+          "text": "WHAT REMAINED\n残ったものを見る",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 26,
+            "y": 1934,
+            "w": 338,
+            "h": 49
+          }
+        },
+        {
+          "id": "",
+          "text": "アトリエへ戻る",
+          "href": "#home",
+          "disabled": false,
+          "rect": {
+            "x": 26,
+            "y": 1995,
+            "w": 338,
+            "h": 48
+          }
+        }
+      ],
+      "images": [
+        {
+          "alt": "",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "label": "guide-15",
+      "file": null,
+      "url": "https://niko2atelier.com/",
+      "route": "home",
+      "text": "AFTER THE GARDEN\nいくつかのものに触れ、 最後の景色まで進みました。\n次へ",
+      "actions": [
+        {
+          "id": "",
+          "text": "次へ",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 304,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ],
+      "images": [
+        {
+          "alt": "",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "label": "guide-16",
+      "file": null,
+      "url": "https://niko2atelier.com/",
+      "route": "home",
+      "text": "WHAT REMAINED\nひとつ、持ち帰ったものがあります。 それは、この先にも残ります。\n次へ戻る",
+      "actions": [
+        {
+          "id": "",
+          "text": "次へ",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 304,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        },
+        {
+          "id": "",
+          "text": "戻る",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ],
+      "images": [
+        {
+          "alt": "",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "label": "guide-17",
+      "file": null,
+      "url": "https://niko2atelier.com/",
+      "route": "home",
+      "text": "NIKO² ATELIER\nあなたの夢は、NIKO² ATELIERとともに、 この世界を少しずつ広げていきます。\n次へ戻る",
+      "actions": [
+        {
+          "id": "",
+          "text": "次へ",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 304,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        },
+        {
+          "id": "",
+          "text": "戻る",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ],
+      "images": [
+        {
+          "alt": "",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "label": "guide-18",
+      "file": null,
+      "url": "https://niko2atelier.com/",
+      "route": "home",
+      "text": "NEXT PLACES\nこの先に、二つの場所がひらいています。\nどちらを選んでも、選ばなくても大丈夫です。\n\n\nさっきの夢について、残された記録があるから。\nResearch Lab\nこの世界について残された記録を読む場所。\nここへ行く\n\n\nさっき残した夢を、あとから見返せるから。\nDiary\n夢も現も、その日に残った断片をしまっておく場所。\nここへ行く\n戻る完了",
+      "actions": [
+        {
+          "id": "",
+          "text": "さっきの夢について、残された記録があるから。\nResearch Lab\nこの世界について残された記録を読む場所。\nここへ行く",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 27,
+            "y": 355,
+            "w": 336,
+            "h": 172
+          }
+        },
+        {
+          "id": "",
+          "text": "さっき残した夢を、あとから見返せるから。\nDiary\n夢も現も、その日に残った断片をしまっておく場所。\nここへ行く",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 27,
+            "y": 535,
+            "w": 336,
+            "h": 144
+          }
+        },
+        {
+          "id": "",
+          "text": "戻る",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        },
+        {
+          "id": "",
+          "text": "完了",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 304,
+            "y": 780,
+            "w": 72,
+            "h": 44
+          }
+        }
+      ],
+      "images": [
+        {
+          "alt": "",
+          "loaded": true
+        },
+        {
+          "alt": "",
+          "loaded": true
+        },
+        {
+          "alt": "",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "label": "home-after-first-dream",
+      "file": "09-home-after-first-dream.jpg",
+      "url": "https://niko2atelier.com/",
+      "route": "home",
+      "text": "WORLD\nWORLD\n水面の向こうに、いくつかの場所がひらいています。\n\n\nABOUT\nもふもふはいます。\nPLAY / SHARE / FAN WORK\nNIKO²での生活について\n好きな形で遊ぶための、小さな境界。\nDEAR ATELIER\nお手紙を送る\nAtelierの受取箱へ。\n???\n© 2026 NIKO² ATELIER / NIKO\nRights",
+      "actions": [
+        {
+          "id": "",
+          "text": "FROM THE ATELIERを開く",
+          "href": "#notes",
+          "disabled": false,
+          "rect": {
+            "x": 279,
+            "y": 274,
+            "w": 91,
+            "h": 92
+          }
+        },
+        {
+          "id": "",
+          "text": "Diaryを開く",
+          "href": "#diary",
+          "disabled": false,
+          "rect": {
+            "x": 14,
+            "y": 298,
+            "w": 147,
+            "h": 147
+          }
+        },
+        {
+          "id": "enterGarden",
+          "text": "Enter the dream",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 90,
+            "y": 494,
+            "w": 210,
+            "h": 70
+          }
+        },
+        {
+          "id": "",
+          "text": "WORLDを開く",
+          "href": "#world",
+          "disabled": false,
+          "rect": {
+            "x": 23,
+            "y": 1119,
+            "w": 343,
+            "h": 193
+          }
+        },
+        {
+          "id": "",
+          "text": "ABOUT\nもふもふはいます。",
+          "href": "#about",
+          "disabled": false,
+          "rect": {
+            "x": 43,
+            "y": 1583,
+            "w": 304,
+            "h": 252
+          }
+        },
+        {
+          "id": "",
+          "text": "PLAY / SHARE / FAN WORK\nNIKO²での生活について\n好きな形で遊ぶための、小さな境界。",
+          "href": "#rights",
+          "disabled": false,
+          "rect": {
+            "x": 31,
+            "y": 1983,
+            "w": 328,
+            "h": 124
+          }
+        },
+        {
+          "id": "",
+          "text": "DEAR ATELIER\nお手紙を送る\nAtelierの受取箱へ。",
+          "href": "#dear",
+          "disabled": false,
+          "rect": {
+            "x": 31,
+            "y": 2121,
+            "w": 328,
+            "h": 124
+          }
+        },
+        {
+          "id": "",
+          "text": "???",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 0,
+            "y": 2296,
+            "w": 390,
+            "h": 58
+          }
+        },
+        {
+          "id": "",
+          "text": "Rights",
+          "href": "#rights",
+          "disabled": false,
+          "rect": {
+            "x": 179,
+            "y": 2365,
+            "w": 32,
+            "h": 13
+          }
+        }
+      ],
+      "images": [
+        {
+          "alt": "虹色の薄布と月明かりに包まれたNIKO² ATELIERの入口",
+          "loaded": true
+        },
+        {
+          "alt": "",
+          "loaded": true
+        },
+        {
+          "alt": "NIKO² ATELIER",
+          "loaded": true
+        },
+        {
+          "alt": "",
+          "loaded": true
+        },
+        {
+          "alt": "Enter the dream",
+          "loaded": true
+        },
+        {
+          "alt": "",
+          "loaded": true
+        },
+        {
+          "alt": "もふもふのいるAbout",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "label": "next-dream-1",
+      "file": "10-next-dream-1.jpg",
+      "url": "https://niko2atelier.com/#hotel",
+      "route": "hotel",
+      "text": "DREAM / ROOM 0317\nHOTEL SOMNIA\nSTAY 0 / 3\nFRONT DESK / ROOM 0317\n今夜も、同じ部屋をご用意しました。\n\n最初の三泊は、いつでもお越しいただけます。あと3泊。\n\nCHECK IN",
+      "actions": [
+        {
+          "id": "hotelCheckIn",
+          "text": "CHECK IN",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 36,
+            "y": 708,
+            "w": 116,
+            "h": 46
+          }
+        }
+      ],
+      "images": [
+        {
+          "alt": "雨の夜空を望む青紫のホテル客室。銀のトレイ、電話、封筒が静かに置かれている",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "label": "hotel-service-menu",
+      "file": "11-hotel-service-menu.jpg",
+      "url": "https://niko2atelier.com/#hotel",
+      "route": "hotel",
+      "text": "DREAM / ROOM 0317\nHOTEL SOMNIA\nSTAY 0 / 3\n×\nROOM SERVICE / TONIGHT\n存在しないものを、お二つまで。\n0 / 2\n\nTea for Nobody\nカップを二つ。来客の予定は不要です。\n¥600\n\nYesterday\n保存状態によって、味が異なります。\n¥0\n\nBlue Hour\n日没後、夜になる前だけのお色です。\n¥400\n\nA Sunday You Forgot\n次回入荷日は、先週の日曜日です。\nSOLD OUT\n\nSomeone Else's Rain\n窓は閉じたままでお召し上がりください。\nCOMPLIMENTARY\n銀の蓋は、まだ閉じている。\n今夜をDiaryへ持ち帰る\nCHECK OUT",
+      "actions": [
+        {
+          "id": "hotelServiceClose",
+          "text": "×",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 341,
+            "y": 148,
+            "w": 30,
+            "h": 30
+          }
+        },
+        {
+          "id": "",
+          "text": "Tea for Nobody\nカップを二つ。来客の予定は不要です。\n¥600",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 28,
+            "y": 225,
+            "w": 334,
+            "h": 61
+          }
+        },
+        {
+          "id": "",
+          "text": "Yesterday\n保存状態によって、味が異なります。\n¥0",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 28,
+            "y": 286,
+            "w": 334,
+            "h": 61
+          }
+        },
+        {
+          "id": "",
+          "text": "Blue Hour\n日没後、夜になる前だけのお色です。\n¥400",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 28,
+            "y": 347,
+            "w": 334,
+            "h": 61
+          }
+        },
+        {
+          "id": "",
+          "text": "A Sunday You Forgot\n次回入荷日は、先週の日曜日です。\nSOLD OUT",
+          "href": null,
+          "disabled": true,
+          "rect": {
+            "x": 28,
+            "y": 408,
+            "w": 334,
+            "h": 61
+          }
+        },
+        {
+          "id": "",
+          "text": "Someone Else's Rain\n窓は閉じたままでお召し上がりください。\nCOMPLIMENTARY",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 28,
+            "y": 469,
+            "w": 334,
+            "h": 61
+          }
+        },
+        {
+          "id": "hotelSaveNight",
+          "text": "今夜をDiaryへ持ち帰る",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 27,
+            "y": 621,
+            "w": 164,
+            "h": 43
+          }
+        },
+        {
+          "id": "hotelCheckout",
+          "text": "CHECK OUT",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 199,
+            "y": 621,
+            "w": 164,
+            "h": 43
+          }
+        }
+      ],
+      "images": [
+        {
+          "alt": "雨の夜空を望む青紫のホテル客室。銀のトレイ、電話、封筒が静かに置かれている",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "label": "hotel-delivery",
+      "file": "12-hotel-delivery.jpg",
+      "url": "https://niko2atelier.com/#hotel",
+      "route": "hotel",
+      "text": "DREAM / ROOM 0317\nHOTEL SOMNIA\nSTAY 0 / 3\n×\nTea for Nobody\nティーカップが二つ届いた。誰も来なかったし、最後まで二つだった。\nもう一品見る\n今夜をDiaryへ持ち帰る\nCHECK OUT",
+      "actions": [
+        {
+          "id": "",
+          "text": "銀のトレイに届いた二つのカップへ触れる",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 16,
+            "y": 489,
+            "w": 183,
+            "h": 102
+          }
+        },
+        {
+          "id": "hotelServiceClose",
+          "text": "×",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 341,
+            "y": 621,
+            "w": 30,
+            "h": 30
+          }
+        },
+        {
+          "id": "hotelMenuReturn",
+          "text": "もう一品見る",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 24,
+            "y": 715,
+            "w": 342,
+            "h": 50
+          }
+        },
+        {
+          "id": "hotelSaveNight",
+          "text": "今夜をDiaryへ持ち帰る",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 24,
+            "y": 773,
+            "w": 167,
+            "h": 50
+          }
+        },
+        {
+          "id": "hotelCheckout",
+          "text": "CHECK OUT",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 199,
+            "y": 773,
+            "w": 167,
+            "h": 50
+          }
+        }
+      ],
+      "images": [
+        {
+          "alt": "雨の夜空を望む青紫のホテル客室。銀のトレイ、電話、封筒が静かに置かれている",
+          "loaded": true
+        },
+        {
+          "alt": "",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "label": "hotel-checkout",
+      "file": "13-hotel-checkout.jpg",
+      "url": "https://niko2atelier.com/#hotel",
+      "route": "hotel",
+      "text": "DREAM / ROOM 0317\nHOTEL SOMNIA\nSTAY 0 / 3\n×\nTea for Nobody\nティーカップが二つ届いた。誰も来なかったし、最後まで二つだった。\nもう一品見る\n今夜をDiaryへ持ち帰る\nCHECK OUT",
+      "actions": [
+        {
+          "id": "",
+          "text": "銀のトレイに届いた二つのカップへ触れる",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 16,
+            "y": 489,
+            "w": 183,
+            "h": 102
+          }
+        },
+        {
+          "id": "hotelServiceClose",
+          "text": "×",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 341,
+            "y": 621,
+            "w": 30,
+            "h": 30
+          }
+        },
+        {
+          "id": "hotelMenuReturn",
+          "text": "もう一品見る",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 24,
+            "y": 715,
+            "w": 342,
+            "h": 50
+          }
+        },
+        {
+          "id": "hotelSaveNight",
+          "text": "今夜をDiaryへ持ち帰る",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 24,
+            "y": 773,
+            "w": 167,
+            "h": 50
+          }
+        },
+        {
+          "id": "hotelCheckout",
+          "text": "CHECK OUT",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 199,
+            "y": 773,
+            "w": 167,
+            "h": 50
+          }
+        }
+      ],
+      "images": [
+        {
+          "alt": "雨の夜空を望む青紫のホテル客室。銀のトレイ、電話、封筒が静かに置かれている",
+          "loaded": true
+        },
+        {
+          "alt": "",
+          "loaded": true
+        }
+      ]
+    },
+    {
+      "label": "last-state",
+      "file": null,
+      "url": "https://niko2atelier.com/#hotel",
+      "route": "hotel",
+      "text": "DREAM / ROOM 0317\nHOTEL SOMNIA\nSTAY 0 / 3\n×\nTea for Nobody\nティーカップが二つ届いた。誰も来なかったし、最後まで二つだった。\nもう一品見る\n今夜をDiaryへ持ち帰る\nCHECK OUT",
+      "actions": [
+        {
+          "id": "",
+          "text": "銀のトレイに届いた二つのカップへ触れる",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 16,
+            "y": 489,
+            "w": 183,
+            "h": 102
+          }
+        },
+        {
+          "id": "hotelServiceClose",
+          "text": "×",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 341,
+            "y": 621,
+            "w": 30,
+            "h": 30
+          }
+        },
+        {
+          "id": "hotelMenuReturn",
+          "text": "もう一品見る",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 24,
+            "y": 715,
+            "w": 342,
+            "h": 50
+          }
+        },
+        {
+          "id": "hotelSaveNight",
+          "text": "今夜をDiaryへ持ち帰る",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 24,
+            "y": 773,
+            "w": 167,
+            "h": 50
+          }
+        },
+        {
+          "id": "hotelCheckout",
+          "text": "CHECK OUT",
+          "href": null,
+          "disabled": false,
+          "rect": {
+            "x": 199,
+            "y": 773,
+            "w": 167,
+            "h": 50
+          }
+        }
+      ],
+      "images": [
+        {
+          "alt": "雨の夜空を望む青紫のホテル客室。銀のトレイ、電話、封筒が静かに置かれている",
+          "loaded": true
+        },
+        {
+          "alt": "",
+          "loaded": true
+        }
+      ]
+    }
+  ],
+  "errors": [
+    "ReferenceError: Can't find variable: finalizingHotelStayId",
+    "ReferenceError: Can't find variable: finalizingHotelStayId"
+  ],
+  "limits": [
+    {
+      "label": "Perfume continuation",
+      "reason": "A finished perfume was not reached by the bounded public UI path"
+    }
+  ],
+  "httpStatus": 200,
+  "finishedAt": "2026-10-06T17:56:21.637Z"
+}
