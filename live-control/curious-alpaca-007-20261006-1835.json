@@ -1,6 +1,8 @@
 {
-  "id": "a18",
-  "op": "look",
-  "note": "Letting the passage through the bright gate settle.",
-  "wait": 1200
+  "id": "a19",
+  "op": "tap",
+  "x": 101,
+  "y": 759,
+  "note": "The enormous white city is lovely, but the tiny crystal on the floor is what I want to pick up before leaving.",
+  "wait": 1100
 }
