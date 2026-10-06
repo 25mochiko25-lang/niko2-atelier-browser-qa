@@ -1,1 +1,1 @@
-{"id":"13","op":"tap","x":329,"y":451,"wait":2200,"note":"The completed collection led to a clear close-up doorway with an invitation to touch it. This reads as the next step, so touch the glowing opening."}
+{"id":"14","op":"wait","wait":7000,"note":"The doorway reacted and the invitation text disappeared. Let the transition finish rather than repeatedly tapping."}
