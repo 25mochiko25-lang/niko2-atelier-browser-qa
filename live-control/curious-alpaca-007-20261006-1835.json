@@ -1,8 +1,8 @@
 {
-  "id": "a51",
+  "id": "a52",
   "op": "tap",
-  "x": 352,
-  "y": 163,
-  "note": "The television opened another intriguing archive file. I have had a satisfying reading detour and now want a different kind of play.",
-  "wait": 500
+  "x": 91,
+  "y": 37,
+  "note": "Returning through the visible atelier title to find another room.",
+  "wait": 1000
 }
