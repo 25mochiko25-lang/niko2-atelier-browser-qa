@@ -1,1 +1,1 @@
-{"id":"17","op":"tap","x":284,"y":781,"wait":1600,"note":"Save the sparkly mood once, then return to the room rather than filling every optional field."}
+{"id":"18","op":"tap","x":292,"y":279,"wait":1500,"note":"Use the explicit ROOM NULL return link after saving, to see whether the room really is waiting rather than falling back to Home."}
