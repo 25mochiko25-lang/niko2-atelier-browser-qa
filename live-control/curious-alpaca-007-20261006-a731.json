@@ -1,7 +1,8 @@
 {
-  "id": "026-write-note",
-  "op": "type",
-  "text": "糸だけ持って帰ってきた。くまはまだ、空を見ている。",
-  "wait": 400,
-  "note": "A short voluntary note, prompted by the keepsake rather than by a test checklist."
+  "id": "027-save-diary",
+  "op": "tap",
+  "x": 195,
+  "y": 755,
+  "wait": 1500,
+  "note": "I want to keep these two photographs and the sentence in Diary."
 }
