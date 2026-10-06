@@ -10,6 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     container:
       image: mcr.microsoft.com/playwright:v1.55.0-noble
+      options: --ipc=host
     timeout-minutes: 20
     steps:
       - uses: actions/checkout@v4
@@ -39,6 +40,7 @@ jobs:
         run: |
           set -euo pipefail
           mkdir -p qa-output
+          df -h /dev/shm
           node qa/exploration_c14b_support.cjs prepare
           node --check /tmp/exploration-c14b.mjs
           node /tmp/exploration-c14b.mjs "$REQUEST"
