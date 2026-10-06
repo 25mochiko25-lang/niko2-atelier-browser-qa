@@ -1,7 +1,8 @@
 {
-  "id": "a23",
-  "op": "type",
-  "text": "お城より先に、床のかけらを拾ってしまった。",
-  "note": "Leaving my own visitor sentence with the tile, in this isolated test browser.",
-  "wait": 400
+  "id": "a24",
+  "op": "tap",
+  "x": 198,
+  "y": 754,
+  "note": "I want to keep the tile together with the sentence I just wrote.",
+  "wait": 1600
 }
