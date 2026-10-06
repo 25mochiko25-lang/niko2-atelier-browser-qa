@@ -1,8 +1,9 @@
 {
-  "id": "027-save-diary",
-  "op": "tap",
-  "x": 195,
-  "y": 755,
-  "wait": 1500,
-  "note": "I want to keep these two photographs and the sentence in Diary."
+  "id": "028-diary-down",
+  "op": "scroll",
+  "x": 194,
+  "y": 667,
+  "dy": 560,
+  "wait": 600,
+  "note": "I can see that my note was added further down. I want to find the keepsake I just brought back, rather than make a second daily entry."
 }
