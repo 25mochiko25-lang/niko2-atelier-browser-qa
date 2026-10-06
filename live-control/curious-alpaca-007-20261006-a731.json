@@ -1,8 +1,8 @@
 {
-  "id": "089-close-specimen",
+  "id": "090-close-reading-table",
   "op": "tap",
-  "x": 352,
-  "y": 164,
+  "x": 359,
+  "y": 159,
   "wait": 500,
-  "note": "I have enjoyed the specimen and equipment files. I want to leave the reading table and follow the door at the back of the laboratory."
+  "note": "Close the reading table to reach the physical back door."
 }
