@@ -1,1 +1,1 @@
-{"id":"08","op":"tap","x":220,"y":536,"wait":1800,"note":"The vase flowers produced no persistent visible response. The teacup is a clearer object, so inspect it next."}
+{"id":"09","op":"reload","wait":1800,"note":"Reload while the discovered teacup card is still open; I want to know whether this interruption leaves me where I was."}
