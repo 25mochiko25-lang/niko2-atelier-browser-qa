@@ -1,8 +1,8 @@
 {
-  "id": "040-order-room000",
+  "id": "041-room-key",
   "op": "tap",
-  "x": 180,
-  "y": 559,
-  "wait": 1100,
-  "note": "ROOM 000 is listed as a dish and costs one memory. After Yesterday actually used my diary, I cannot leave that unexplored."
+  "x": 80,
+  "y": 526,
+  "wait": 850,
+  "note": "The menu actually placed a little key on the table. I want to examine the object itself before checking out."
 }
