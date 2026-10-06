@@ -1,8 +1,7 @@
 {
-  "id": "025-focus-note",
-  "op": "tap",
-  "x": 185,
-  "y": 576,
-  "wait": 250,
-  "note": "I am choosing the visible field to write my own small memory of the thread."
+  "id": "026-write-note",
+  "op": "type",
+  "text": "糸だけ持って帰ってきた。くまはまだ、空を見ている。",
+  "wait": 400,
+  "note": "A short voluntary note, prompted by the keepsake rather than by a test checklist."
 }
