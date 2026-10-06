@@ -1,0 +1,306 @@
+{
+  "label": "perfume-object-discovery",
+  "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
+  "route": "garden",
+  "viewportText": "夢の見覚え\n2\n/ 5\n見つけたもの",
+  "renderedBodyText": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n2 / 5\n見つけたもの\nCG-01-A_02.DRM\n03:13:50\n\nFRAGMENT / 02\n\nN² Eau de rêve\nキャップは常に閉じているのに、帰らない部屋の香りがした。\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+  "controls": [
+    {
+      "tag": "A",
+      "id": "",
+      "cls": "skip-link",
+      "text": "作品へ移動",
+      "type": null,
+      "href": "#main",
+      "disabled": false,
+      "rect": {
+        "x": 8,
+        "y": -61,
+        "w": 108,
+        "h": 43
+      },
+      "onScreen": false,
+      "hit": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "soundToggle",
+      "cls": "sound-toggle",
+      "text": "音をオンにする",
+      "type": "button",
+      "href": null,
+      "disabled": false,
+      "rect": {
+        "x": 332,
+        "y": 14,
+        "w": 44,
+        "h": 44
+      },
+      "onScreen": true,
+      "hit": true
+    },
+    {
+      "tag": "BUTTON",
+      "id": "gardenSkipControl",
+      "cls": "garden-skip-control",
+      "text": "夢の見覚え ✧︎",
+      "type": "button",
+      "href": null,
+      "disabled": false,
+      "rect": {
+        "x": 315,
+        "y": 56,
+        "w": 61,
+        "h": 30
+      },
+      "onScreen": true,
+      "hit": true
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "cls": "scene-hotspot collectible is-first-run-hinting",
+      "text": "止まりかけの砂時計に触れる",
+      "type": "button",
+      "href": null,
+      "disabled": false,
+      "rect": {
+        "x": -75,
+        "y": 338,
+        "w": 101,
+        "h": 177
+      },
+      "onScreen": true,
+      "hit": true
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "cls": "scene-hotspot collectible is-found",
+      "text": "N² Eau de rêve（発見済み）",
+      "type": "button",
+      "href": null,
+      "disabled": false,
+      "rect": {
+        "x": 1,
+        "y": 498,
+        "w": 90,
+        "h": 110
+      },
+      "onScreen": true,
+      "hit": true
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "cls": "scene-hotspot collectible is-first-run-hinting",
+      "text": "まだあたたかいカップに触れる",
+      "type": "button",
+      "href": null,
+      "disabled": false,
+      "rect": {
+        "x": 164,
+        "y": 494,
+        "w": 107,
+        "h": 84
+      },
+      "onScreen": true,
+      "hit": true
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "cls": "scene-hotspot collectible is-found",
+      "text": "置き去りのくま（発見済み）",
+      "type": "button",
+      "href": null,
+      "disabled": false,
+      "rect": {
+        "x": 332,
+        "y": 447,
+        "w": 135,
+        "h": 177
+      },
+      "onScreen": true,
+      "hit": true
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "cls": "scene-hotspot collectible is-first-run-hinting",
+      "text": "青いリボンの鍵に触れる",
+      "type": "button",
+      "href": null,
+      "disabled": false,
+      "rect": {
+        "x": 86,
+        "y": 563,
+        "w": 111,
+        "h": 89
+      },
+      "onScreen": true,
+      "hit": true
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "cls": "scene-hotspot ambient",
+      "text": "テーブルのメモをめくる",
+      "type": "button",
+      "href": null,
+      "disabled": false,
+      "rect": {
+        "x": 166,
+        "y": 568,
+        "w": 103,
+        "h": 79
+      },
+      "onScreen": true,
+      "hit": true
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "cls": "scene-hotspot ambient",
+      "text": "くまのそばの本を開く",
+      "type": "button",
+      "href": null,
+      "disabled": false,
+      "rect": {
+        "x": 338,
+        "y": 566,
+        "w": 135,
+        "h": 109
+      },
+      "onScreen": true,
+      "hit": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "cls": "scene-hotspot ambient",
+      "text": "ティーポットに触れる",
+      "type": "button",
+      "href": null,
+      "disabled": false,
+      "rect": {
+        "x": 79,
+        "y": 435,
+        "w": 118,
+        "h": 122
+      },
+      "onScreen": true,
+      "hit": true
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "cls": "scene-hotspot ambient",
+      "text": "花に触れる",
+      "type": "button",
+      "href": null,
+      "disabled": false,
+      "rect": {
+        "x": -73,
+        "y": 262,
+        "w": 174,
+        "h": 152
+      },
+      "onScreen": true,
+      "hit": true
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "cls": "scene-hotspot ambient",
+      "text": "水面に触れる",
+      "type": "button",
+      "href": null,
+      "disabled": false,
+      "rect": {
+        "x": 181,
+        "y": 253,
+        "w": 236,
+        "h": 186
+      },
+      "onScreen": true,
+      "hit": true
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "cls": "scene-hotspot ambient",
+      "text": "レースのカーテンに触れる",
+      "type": "button",
+      "href": null,
+      "disabled": false,
+      "rect": {
+        "x": -89,
+        "y": 93,
+        "w": 84,
+        "h": 287
+      },
+      "onScreen": false,
+      "hit": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "cls": "scene-hotspot ambient",
+      "text": "石の柱を軽く叩く",
+      "type": "button",
+      "href": null,
+      "disabled": false,
+      "rect": {
+        "x": 12,
+        "y": 135,
+        "w": 129,
+        "h": 262
+      },
+      "onScreen": true,
+      "hit": true
+    },
+    {
+      "tag": "BUTTON",
+      "id": "doorHotspot",
+      "cls": "scene-hotspot ambient hotspot-door",
+      "text": "遠くの白い門に触れる",
+      "type": "button",
+      "href": null,
+      "disabled": false,
+      "rect": {
+        "x": 282,
+        "y": 118,
+        "w": 90,
+        "h": 118
+      },
+      "onScreen": true,
+      "hit": true
+    },
+    {
+      "tag": "BUTTON",
+      "id": "closeMemory",
+      "cls": "",
+      "text": "見つけた記憶を閉じる",
+      "type": "button",
+      "href": null,
+      "disabled": false,
+      "rect": {
+        "x": 324,
+        "y": 654,
+        "w": 24,
+        "h": 23
+      },
+      "onScreen": true,
+      "hit": true
+    }
+  ],
+  "scroll": {
+    "x": 0,
+    "y": 0,
+    "h": 844
+  },
+  "scrollContainers": [],
+  "dialogs": [],
+  "screenshot": "010-perfume-object-discovery.jpg"
+}

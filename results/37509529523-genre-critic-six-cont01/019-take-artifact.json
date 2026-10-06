@@ -1,0 +1,174 @@
+{
+  "label": "take-artifact",
+  "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#quiet",
+  "route": "quiet",
+  "viewportText": "DREAM MEMORY\n夢から残ったもの\nWORLD MEMORY\nTHING THAT REMAINED\nWORLD MEMORY + REMAINS\n空を見ているくまの横顔\n待っていた糸結び — くまの右手に、青い糸がひとつだけほどけていた。\n言葉を添える\nアトリエへ戻る\nDiaryへ持ち帰る",
+  "renderedBodyText": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n夢を離れる\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDREAM MEMORY\n\n夢から残ったもの\n\nWORLD MEMORY\nTHING THAT REMAINED\nWORLD MEMORY + REMAINS\n空を見ているくまの横顔\n待っていた糸結び — くまの右手に、青い糸がひとつだけほどけていた。\n言葉を添える\nアトリエへ戻る\nDiaryへ持ち帰る",
+  "controls": [
+    {
+      "tag": "A",
+      "id": "",
+      "cls": "skip-link",
+      "text": "作品へ移動",
+      "type": null,
+      "href": "#main",
+      "disabled": false,
+      "rect": {
+        "x": 8,
+        "y": -61,
+        "w": 108,
+        "h": 43
+      },
+      "onScreen": false,
+      "hit": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "soundToggle",
+      "cls": "sound-toggle",
+      "text": "音をオンにする",
+      "type": "button",
+      "href": null,
+      "disabled": false,
+      "rect": {
+        "x": 332,
+        "y": 14,
+        "w": 44,
+        "h": 44
+      },
+      "onScreen": true,
+      "hit": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "gardenSkipControl",
+      "cls": "garden-skip-control",
+      "text": "夢の見覚え ✧︎",
+      "type": "button",
+      "href": null,
+      "disabled": false,
+      "rect": {
+        "x": 315,
+        "y": 56,
+        "w": 61,
+        "h": 30
+      },
+      "onScreen": true,
+      "hit": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "quietArtifact",
+      "cls": "quiet-artifact is-embedded is-revealed is-noticed is-retrieved",
+      "text": "待っていた糸結びに触れる",
+      "type": "button",
+      "href": null,
+      "disabled": false,
+      "rect": {
+        "x": 258,
+        "y": 549,
+        "w": 69,
+        "h": 69
+      },
+      "onScreen": true,
+      "hit": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "leaveQuiet",
+      "cls": "quiet-leave",
+      "text": "夢を離れる",
+      "type": "button",
+      "href": null,
+      "disabled": false,
+      "rect": {
+        "x": 22,
+        "y": 782,
+        "w": 100,
+        "h": 44
+      },
+      "onScreen": true,
+      "hit": false
+    },
+    {
+      "tag": "BUTTON",
+      "id": "closeJournal",
+      "cls": "dialog-close",
+      "text": "日記を閉じる",
+      "type": "button",
+      "href": null,
+      "disabled": false,
+      "rect": {
+        "x": 313,
+        "y": 125,
+        "w": 44,
+        "h": 44
+      },
+      "onScreen": true,
+      "hit": true
+    },
+    {
+      "tag": "BUTTON",
+      "id": "revealWords",
+      "cls": "reveal-words",
+      "text": "言葉を添える",
+      "type": "button",
+      "href": null,
+      "disabled": false,
+      "rect": {
+        "x": 38,
+        "y": 545,
+        "w": 103,
+        "h": 44
+      },
+      "onScreen": true,
+      "hit": true
+    },
+    {
+      "tag": "BUTTON",
+      "id": "leaveJournalWithoutSaving",
+      "cls": "journal-exit-secondary",
+      "text": "アトリエへ戻る",
+      "type": "button",
+      "href": null,
+      "disabled": false,
+      "rect": {
+        "x": 38,
+        "y": 679,
+        "w": 314,
+        "h": 40
+      },
+      "onScreen": true,
+      "hit": true
+    },
+    {
+      "tag": "BUTTON",
+      "id": "",
+      "cls": "",
+      "text": "Diaryへ持ち帰る",
+      "type": "submit",
+      "href": null,
+      "disabled": false,
+      "rect": {
+        "x": 38,
+        "y": 624,
+        "w": 314,
+        "h": 48
+      },
+      "onScreen": true,
+      "hit": true
+    }
+  ],
+  "scroll": {
+    "x": 0,
+    "y": 0,
+    "h": 844
+  },
+  "scrollContainers": [],
+  "dialogs": [
+    {
+      "id": "journalDialog",
+      "text": "DREAM MEMORY 夢から残ったもの WORLD MEMORY THING THAT REMAINED WORLD MEMORY + REMAINS 空を見ているくまの横顔 待っていた糸結び — くまの右手に、青い糸がひとつだけほどけていた。 言葉を添える アトリエへ戻る Diaryへ持ち帰る"
+    }
+  ]
+}

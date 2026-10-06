@@ -1,0 +1,815 @@
+{
+  "request": "genre-critic-six-cont01",
+  "startUrl": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+  "startedAt": "2026-10-06T18:13:25.282Z",
+  "finishedAt": "2026-10-06T18:14:56.235Z",
+  "httpStatus": 200,
+  "events": [
+    {
+      "step": 1,
+      "action": {
+        "kind": "tap",
+        "name": "Enter the dream",
+        "label": "enter-dream"
+      },
+      "result": {
+        "x": 195,
+        "y": 528.71875,
+        "label": "Enter the dream",
+        "id": "enterGarden"
+      },
+      "error": null,
+      "before": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+        "route": "home"
+      },
+      "after": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+        "route": "home"
+      }
+    },
+    {
+      "step": 2,
+      "action": {
+        "kind": "tap",
+        "selector": "#niko2FirstDreamIntro .niko2-intro-primary:visible",
+        "label": "intro-next"
+      },
+      "result": {
+        "x": 336,
+        "y": 770,
+        "label": "次へ",
+        "id": ""
+      },
+      "error": null,
+      "before": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+        "route": "home"
+      },
+      "after": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+        "route": "home"
+      }
+    },
+    {
+      "step": 3,
+      "action": {
+        "kind": "tap",
+        "name": "持ち帰る",
+        "label": "choose-carry"
+      },
+      "result": {
+        "x": 195.15625,
+        "y": 536.875,
+        "label": "持ち帰る",
+        "id": ""
+      },
+      "error": null,
+      "before": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+        "route": "home"
+      },
+      "after": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+        "route": "home"
+      }
+    },
+    {
+      "step": 4,
+      "action": {
+        "kind": "tap",
+        "selector": "#niko2FirstDreamIntro .niko2-intro-primary:visible",
+        "label": "interaction-next"
+      },
+      "result": {
+        "x": 336,
+        "y": 770,
+        "label": "次へ",
+        "id": ""
+      },
+      "error": null,
+      "before": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+        "route": "home"
+      },
+      "after": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+        "route": "home"
+      }
+    },
+    {
+      "step": 5,
+      "action": {
+        "kind": "tap",
+        "name": "夢へ入る",
+        "label": "welcome-enter",
+        "wait": 1800
+      },
+      "result": {
+        "x": 331.6796875,
+        "y": 770,
+        "label": "夢へ入る",
+        "id": ""
+      },
+      "error": null,
+      "before": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+        "route": "home"
+      },
+      "after": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
+        "route": "garden"
+      }
+    },
+    {
+      "step": 6,
+      "action": {
+        "kind": "tap",
+        "name": "この空へ入る",
+        "label": "begin-garden",
+        "wait": 1500
+      },
+      "result": {
+        "x": 195,
+        "y": 787.984375,
+        "label": "この空へ入る",
+        "id": "beginGarden"
+      },
+      "error": null,
+      "before": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
+        "route": "garden"
+      },
+      "after": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
+        "route": "garden"
+      }
+    },
+    {
+      "step": 7,
+      "action": {
+        "kind": "tap",
+        "name": "置き去りのくまに触れる",
+        "label": "bear-discovery",
+        "picture": true
+      },
+      "result": {
+        "x": 321.2421875,
+        "y": 535.8984375,
+        "label": "置き去りのくまに触れる",
+        "id": ""
+      },
+      "error": null,
+      "before": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
+        "route": "garden"
+      },
+      "after": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
+        "route": "garden"
+      }
+    },
+    {
+      "step": 8,
+      "action": {
+        "kind": "tap",
+        "name": "見つけた記憶を閉じる",
+        "label": "close-bear"
+      },
+      "result": {
+        "x": 336.30955505371094,
+        "y": 665.1389465332031,
+        "label": "見つけた記憶を閉じる",
+        "id": "closeMemory"
+      },
+      "error": null,
+      "before": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
+        "route": "garden"
+      },
+      "after": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
+        "route": "garden"
+      }
+    },
+    {
+      "step": 9,
+      "action": {
+        "kind": "tap",
+        "name": "N² Eau de rêveに触れる",
+        "label": "perfume-object-discovery",
+        "picture": true
+      },
+      "result": {
+        "x": 45.765625,
+        "y": 552.7734375,
+        "label": "N² Eau de rêveに触れる",
+        "id": ""
+      },
+      "error": null,
+      "before": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
+        "route": "garden"
+      },
+      "after": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
+        "route": "garden"
+      }
+    },
+    {
+      "step": 10,
+      "action": {
+        "kind": "tap",
+        "name": "見つけた記憶を閉じる",
+        "label": "close-perfume-object"
+      },
+      "result": {
+        "x": 336.30955505371094,
+        "y": 665.1389465332031,
+        "label": "見つけた記憶を閉じる",
+        "id": "closeMemory"
+      },
+      "error": null,
+      "before": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
+        "route": "garden"
+      },
+      "after": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
+        "route": "garden"
+      }
+    },
+    {
+      "step": 11,
+      "action": {
+        "kind": "tap",
+        "name": "まだあたたかいカップに触れる",
+        "label": "cup-discovery"
+      },
+      "result": {
+        "x": 217.1328125,
+        "y": 535.8984375,
+        "label": "まだあたたかいカップに触れる",
+        "id": ""
+      },
+      "error": null,
+      "before": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
+        "route": "garden"
+      },
+      "after": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
+        "route": "garden"
+      }
+    },
+    {
+      "step": 12,
+      "action": {
+        "kind": "tap",
+        "name": "見つけた記憶を閉じる",
+        "label": "close-cup"
+      },
+      "result": {
+        "x": 336.2515869140625,
+        "y": 684.1138610839844,
+        "label": "見つけた記憶を閉じる",
+        "id": "closeMemory"
+      },
+      "error": null,
+      "before": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
+        "route": "garden"
+      },
+      "after": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
+        "route": "garden"
+      }
+    },
+    {
+      "step": 13,
+      "action": {
+        "kind": "tap",
+        "name": "青いリボンの鍵に触れる",
+        "label": "key-discovery"
+      },
+      "result": {
+        "x": 141.1751365661621,
+        "y": 607.6301879882812,
+        "label": "青いリボンの鍵に触れる",
+        "id": ""
+      },
+      "error": null,
+      "before": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
+        "route": "garden"
+      },
+      "after": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
+        "route": "garden"
+      }
+    },
+    {
+      "step": 14,
+      "action": {
+        "kind": "tap",
+        "name": "見つけた記憶を閉じる",
+        "label": "close-key"
+      },
+      "result": {
+        "x": 336.30955505371094,
+        "y": 665.1389465332031,
+        "label": "見つけた記憶を閉じる",
+        "id": "closeMemory"
+      },
+      "error": null,
+      "before": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
+        "route": "garden"
+      },
+      "after": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
+        "route": "garden"
+      }
+    },
+    {
+      "step": 15,
+      "action": {
+        "kind": "tap",
+        "name": "止まりかけの砂時計に触れる",
+        "label": "hourglass-discovery",
+        "wait": 6500,
+        "picture": true
+      },
+      "result": {
+        "x": 14.9140625,
+        "y": 426.1953125,
+        "label": "止まりかけの砂時計に触れる",
+        "id": ""
+      },
+      "error": null,
+      "before": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
+        "route": "garden"
+      },
+      "after": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
+        "route": "garden"
+      }
+    },
+    {
+      "step": 16,
+      "action": {
+        "kind": "tap",
+        "selector": "#doorAwake",
+        "label": "garden-gate",
+        "wait": 25000,
+        "picture": true
+      },
+      "result": {
+        "x": 194.8515625,
+        "y": 292.625,
+        "label": "あの扉が、こちらを呼んでいる。\n触れて、向こうへ",
+        "id": "doorAwake"
+      },
+      "error": null,
+      "before": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
+        "route": "garden"
+      },
+      "after": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#quiet",
+        "route": "quiet"
+      }
+    },
+    {
+      "step": 17,
+      "action": {
+        "kind": "tap",
+        "selector": "#quietArtifact",
+        "label": "touch-remaining-artifact",
+        "wait": 1800,
+        "picture": true
+      },
+      "result": {
+        "x": 291.9503479003906,
+        "y": 583.6747131347656,
+        "label": "待っていた糸結びに触れる",
+        "id": "quietArtifact"
+      },
+      "error": null,
+      "before": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#quiet",
+        "route": "quiet"
+      },
+      "after": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#quiet",
+        "route": "quiet"
+      }
+    },
+    {
+      "step": 18,
+      "action": {
+        "kind": "tap",
+        "selector": "#bringArtifact",
+        "label": "take-artifact",
+        "wait": 1800
+      },
+      "result": {
+        "x": 195,
+        "y": 727,
+        "label": "持ち帰る",
+        "id": "bringArtifact"
+      },
+      "error": null,
+      "before": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#quiet",
+        "route": "quiet"
+      },
+      "after": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#quiet",
+        "route": "quiet"
+      }
+    },
+    {
+      "step": 19,
+      "action": {
+        "kind": "tap",
+        "name": "Diaryへ持ち帰る",
+        "label": "carry-to-diary",
+        "wait": 1800,
+        "picture": true
+      },
+      "result": {
+        "x": 195,
+        "y": 647.5,
+        "label": "Diaryへ持ち帰る",
+        "id": ""
+      },
+      "error": null,
+      "before": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#quiet",
+        "route": "quiet"
+      },
+      "after": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#diary",
+        "route": "diary"
+      }
+    },
+    {
+      "step": 20,
+      "action": {
+        "kind": "tap",
+        "selector": ".wordmark:visible",
+        "label": "return-home",
+        "wait": 1500
+      },
+      "result": {
+        "x": 86.875,
+        "y": 35,
+        "label": "NIKO² ATELIER",
+        "id": ""
+      },
+      "error": null,
+      "before": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#diary",
+        "route": "diary"
+      },
+      "after": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+        "route": "home"
+      }
+    },
+    {
+      "step": 21,
+      "action": {
+        "kind": "tap",
+        "selector": "#niko2FirstGardenResponse .niko2-intro-primary:visible",
+        "label": "after-garden-1"
+      },
+      "result": {
+        "x": 336,
+        "y": 770,
+        "label": "次へ",
+        "id": ""
+      },
+      "error": null,
+      "before": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+        "route": "home"
+      },
+      "after": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+        "route": "home"
+      }
+    },
+    {
+      "step": 22,
+      "action": {
+        "kind": "tap",
+        "selector": "#niko2FirstGardenResponse .niko2-intro-primary:visible",
+        "label": "after-garden-2"
+      },
+      "result": {
+        "x": 336,
+        "y": 770,
+        "label": "次へ",
+        "id": ""
+      },
+      "error": null,
+      "before": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+        "route": "home"
+      },
+      "after": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+        "route": "home"
+      }
+    },
+    {
+      "step": 23,
+      "action": {
+        "kind": "tap",
+        "selector": "#niko2FirstGardenResponse .niko2-intro-primary:visible",
+        "label": "after-garden-3"
+      },
+      "result": {
+        "x": 336,
+        "y": 770,
+        "label": "次へ",
+        "id": ""
+      },
+      "error": null,
+      "before": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+        "route": "home"
+      },
+      "after": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+        "route": "home"
+      }
+    },
+    {
+      "step": 24,
+      "action": {
+        "kind": "tap",
+        "selector": "#niko2FirstGardenResponse .niko2-intro-primary:visible",
+        "label": "after-garden-complete",
+        "wait": 1500
+      },
+      "result": {
+        "x": 336,
+        "y": 770,
+        "label": "完了",
+        "id": ""
+      },
+      "error": null,
+      "before": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+        "route": "home"
+      },
+      "after": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+        "route": "home"
+      }
+    },
+    {
+      "step": 25,
+      "action": {
+        "kind": "tap",
+        "selector": ".home-diary-entry",
+        "label": "diary-revisit",
+        "wait": 1500
+      },
+      "result": {
+        "x": 87.43749904632568,
+        "y": 371.515625,
+        "label": "Diaryを開く",
+        "id": ""
+      },
+      "error": null,
+      "before": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+        "route": "home"
+      },
+      "after": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#diary",
+        "route": "diary"
+      }
+    },
+    {
+      "step": 26,
+      "action": {
+        "kind": "tap",
+        "selector": "#openCabinetThreshold",
+        "label": "cabinet-threshold",
+        "wait": 2000,
+        "picture": true
+      },
+      "result": {
+        "x": 195,
+        "y": 696.734375,
+        "label": "WHAT REMAINED\n残ったものを見る",
+        "id": "openCabinetThreshold"
+      },
+      "error": null,
+      "before": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#diary",
+        "route": "diary"
+      },
+      "after": {
+        "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#diary",
+        "route": "diary"
+      }
+    }
+  ],
+  "observations": [
+    {
+      "label": "arrival",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+      "route": "home",
+      "viewportText": "",
+      "screenshot": "001-arrival.jpg"
+    },
+    {
+      "label": "enter-dream",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+      "route": "home",
+      "viewportText": "WORLD\n夢の入り口は、毎回すこし違う。\n次へ"
+    },
+    {
+      "label": "intro-next",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+      "route": "home",
+      "viewportText": "INTERACTION\nSound On\nSound Off\n触れる\n持ち帰る\n仕舞う\n次へ\n戻る"
+    },
+    {
+      "label": "choose-carry",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+      "route": "home",
+      "viewportText": "INTERACTION\nSound On\nSound Off\n触れる\n持ち帰る\n仕舞う\n次へ\n戻る"
+    },
+    {
+      "label": "interaction-next",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+      "route": "home",
+      "viewportText": "WELCOME\nようこそ！\n夢へ入る\n戻る"
+    },
+    {
+      "label": "welcome-enter",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
+      "route": "garden",
+      "viewportText": "夢の見覚え\n席を立ったあとの庭にも、\n持ち主より長く夢を見るものがいる。\nこの空へ入る"
+    },
+    {
+      "label": "begin-garden",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
+      "route": "garden",
+      "viewportText": "夢の見覚え\n0\n/ 5\n見つけたもの"
+    },
+    {
+      "label": "bear-discovery",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
+      "route": "garden",
+      "viewportText": "夢の見覚え\n1\n/ 5\n見つけたもの",
+      "screenshot": "008-bear-discovery.jpg"
+    },
+    {
+      "label": "close-bear",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
+      "route": "garden",
+      "viewportText": "夢の見覚え\n1\n/ 5\n見つけたもの"
+    },
+    {
+      "label": "perfume-object-discovery",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
+      "route": "garden",
+      "viewportText": "夢の見覚え\n2\n/ 5\n見つけたもの",
+      "screenshot": "010-perfume-object-discovery.jpg"
+    },
+    {
+      "label": "close-perfume-object",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
+      "route": "garden",
+      "viewportText": "夢の見覚え\n2\n/ 5\n見つけたもの"
+    },
+    {
+      "label": "cup-discovery",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
+      "route": "garden",
+      "viewportText": "夢の見覚え\n3\n/ 5\n見つけたもの"
+    },
+    {
+      "label": "close-cup",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
+      "route": "garden",
+      "viewportText": "夢の見覚え\n3\n/ 5\n見つけたもの"
+    },
+    {
+      "label": "key-discovery",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
+      "route": "garden",
+      "viewportText": "夢の見覚え\n4\n/ 5\n見つけたもの"
+    },
+    {
+      "label": "close-key",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
+      "route": "garden",
+      "viewportText": "夢の見覚え\n4\n/ 5\n見つけたもの"
+    },
+    {
+      "label": "hourglass-discovery",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
+      "route": "garden",
+      "viewportText": "夢の見覚え\n5\n/ 5\n見つけたもの\nあの扉が、こちらを呼んでいる。\n触れて、向こうへ",
+      "screenshot": "016-hourglass-discovery.jpg"
+    },
+    {
+      "label": "garden-gate",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#quiet",
+      "route": "quiet",
+      "viewportText": "夢の見覚え\n夢を離れる",
+      "screenshot": "017-garden-gate.jpg"
+    },
+    {
+      "label": "touch-remaining-artifact",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#quiet",
+      "route": "quiet",
+      "viewportText": "夢の見覚え\nくまの右手に、青い糸がひとつだけほどけていた。\n持ち帰る\n夢を離れる",
+      "screenshot": "018-touch-remaining-artifact.jpg"
+    },
+    {
+      "label": "take-artifact",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#quiet",
+      "route": "quiet",
+      "viewportText": "DREAM MEMORY\n夢から残ったもの\nWORLD MEMORY\nTHING THAT REMAINED\nWORLD MEMORY + REMAINS\n空を見ているくまの横顔\n待っていた糸結び — くまの右手に、青い糸がひとつだけほどけていた。\n言葉を添える\nアトリエへ戻る\nDiaryへ持ち帰る"
+    },
+    {
+      "label": "carry-to-diary",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#diary",
+      "route": "diary",
+      "viewportText": "NIKO² ATELIER\nHome\nNIKO² DIARY\nDiary\n今日のことを、ひとつだけ。\n10月7日 03:14\n夢の続きが、まだ近くにあります。\n← さっきの空へ戻る\nTODAY\n今日を残す\n✦\nいまの気配\n静か\nきらきら\nぼんやり\nざわざわ\n甘い\n雨っぽい\n眠い\n何もない\nPHOTO\n選択なし\n色・モチーフ\nOPTIONAL\n言葉\nOPTIONAL\nこの端末だけに残ります\n残す",
+      "screenshot": "020-carry-to-diary.jpg"
+    },
+    {
+      "label": "return-home",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+      "route": "home",
+      "viewportText": "AFTER THE GARDEN\nいくつかのものに触れ、\n最後の景色まで進みました。\n次へ"
+    },
+    {
+      "label": "after-garden-1",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+      "route": "home",
+      "viewportText": "WHAT REMAINED\nひとつ、持ち帰ったものがあります。\nそれは、この先にも残ります。\n次へ\n戻る"
+    },
+    {
+      "label": "after-garden-2",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+      "route": "home",
+      "viewportText": "NIKO² ATELIER\nあなたの夢は、NIKO² ATELIERとともに、\nこの世界を少しずつ広げていきます。\n次へ\n戻る"
+    },
+    {
+      "label": "after-garden-3",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+      "route": "home",
+      "viewportText": "NEXT PLACES\nこの先に、二つの場所がひらいています。\nどちらを選んでも、選ばなくても大丈夫です。\nResearch Lab\nこの世界について残された記録を読む場所。\nPERFUME MORGUE\n12兆通りの記憶から、あなたのためだけの香りをつくる場所。\n戻る\n完了"
+    },
+    {
+      "label": "after-garden-complete",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+      "route": "home",
+      "viewportText": "WORLD\nWORLD"
+    },
+    {
+      "label": "diary-revisit",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#diary",
+      "route": "diary",
+      "viewportText": "NIKO² ATELIER\nDream\nDiary\nAbout\nNIKO² DIARY\nDiary\n今日のことを、ひとつだけ。\n10月7日 03:14\nTODAY\n今日を残す\n✦\nいまの気配\n静か\nきらきら\nぼんやり\nざわざわ\n甘い\n雨っぽい\n眠い\n何もない\nPHOTO\n選択なし\n色・モチーフ\nOPTIONAL\n言葉\nOPTIONAL\nこの端末だけに残ります\n残す\nRECENT\n少し前の自分"
+    },
+    {
+      "label": "cabinet-threshold",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#diary",
+      "route": "diary",
+      "viewportText": "持ち帰ったものは、ここに残る。\n増えるほど、棚の景色も少しずつ変わる。\n中を見る",
+      "screenshot": "027-cabinet-threshold.jpg"
+    },
+    {
+      "label": "final",
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#diary",
+      "route": "diary",
+      "viewportText": "持ち帰ったものは、ここに残る。\n増えるほど、棚の景色も少しずつ変わる。\n中を見る",
+      "screenshot": "028-final.jpg"
+    }
+  ],
+  "errors": [],
+  "httpErrors": [
+    {
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/api/identity",
+      "status": 404
+    },
+    {
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/api/identity",
+      "status": 404
+    }
+  ]
+}
