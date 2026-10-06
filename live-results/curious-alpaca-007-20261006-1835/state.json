@@ -5,19 +5,19 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-06T18:31:03.762Z",
-  "updatedAt": "2026-10-06T18:36:06.874Z",
-  "lastCommand": "a13",
+  "updatedAt": "2026-10-06T18:36:30.010Z",
+  "lastCommand": "a14",
   "stopReason": null,
   "action": {
-    "id": "a13",
+    "id": "a14",
     "op": "tap",
-    "x": 372,
-    "y": 535,
-    "note": "A bear is partly peeking in from the right edge. I want to know whether it has been waiting here too.",
+    "x": 331,
+    "y": 181,
+    "note": "That faraway glowing gate has been pulling at me since arrival. I want to try it before hunting the final object.",
     "wait": 1100
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/e12c6c83c9ff45afc25f5064871294b3fbc64d3f/live-results/curious-alpaca-007-20261006-1835/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/eda828fc737c5aa15eb892cf3cf946076896f758/live-results/curious-alpaca-007-20261006-1835/current.jpg",
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -29,7 +29,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n4 / 5\n見つけたもの\nCG-01-A_04.DRM\n03:36:03\n\nFRAGMENT / 04\n\n置き去りのくま\n名前はもうない。それでも、いつもの方を向いている。\n蓋が小さく鳴った。湯気だけが、席を立とうとしている。\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n4 / 5\n見つけたもの\n取っ手の向こうで、鍵穴の光がひとつ消えた。\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
   "controls": [
     {
       "tag": "BUTTON",
@@ -183,17 +183,6 @@
         "y": 118,
         "w": 90,
         "h": 118
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "見つけた記憶を閉じる",
-      "disabled": false,
-      "rect": {
-        "x": 324,
-        "y": 654,
-        "w": 24,
-        "h": 23
       }
     }
   ],
@@ -423,6 +412,22 @@
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/e12c6c83c9ff45afc25f5064871294b3fbc64d3f/live-results/curious-alpaca-007-20261006-1835/current.jpg",
       "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n4 / 5\n見つけたもの\nCG-01-A_04.DRM\n03:36:03\n\nFRAGMENT / 04\n\n置き去りのくま\n名前はもうない。それでも、いつもの方を向いている。\n蓋が小さく鳴った。湯気だけが、席を立とうとしている。\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+      "number": 15,
+      "at": "2026-10-06T18:36:30.010Z",
+      "action": {
+        "id": "a14",
+        "op": "tap",
+        "x": 331,
+        "y": 181,
+        "note": "That faraway glowing gate has been pulling at me since arrival. I want to try it before hunting the final object.",
+        "wait": 1100
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/eda828fc737c5aa15eb892cf3cf946076896f758/live-results/curious-alpaca-007-20261006-1835/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n4 / 5\n見つけたもの\n取っ手の向こうで、鍵穴の光がひとつ消えた。\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
     }
   ]
 }
