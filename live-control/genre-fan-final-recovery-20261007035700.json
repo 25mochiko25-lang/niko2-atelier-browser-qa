@@ -1,7 +1,7 @@
 {
-  "id": "r02-intro-next",
+  "id": "r03-intro-next",
   "op": "tap",
-  "x": 334,
+  "x": 335,
   "y": 770,
-  "note": "Recovery traversal of the already-seen first intro page using its visible Next."
+  "note": "Recovery: proceed past the interaction examples already viewed in the initial session."
 }
