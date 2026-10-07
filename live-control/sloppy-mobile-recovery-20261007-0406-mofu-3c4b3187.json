@@ -1,8 +1,8 @@
 {
-  "id": "r02",
+  "id": "r03",
   "op": "tap",
   "x": 335,
   "y": 771,
   "wait": 350,
-  "note": "INFRA_RECOVERY: 既に見た導入1の次へ。"
+  "note": "INFRA_RECOVERY: 既に見た導入2の次へ。"
 }
