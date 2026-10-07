@@ -5,19 +5,18 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-07T04:05:38.933Z",
-  "updatedAt": "2026-10-07T04:25:35.492Z",
-  "lastCommand": "r48",
+  "updatedAt": "2026-10-07T04:26:00.206Z",
+  "lastCommand": "r49",
   "stopReason": null,
   "action": {
-    "id": "r48",
-    "op": "tap",
-    "x": 83,
-    "y": 366,
-    "wait": 500,
-    "note": "さっき見た日記の本を開き、作った二本が残っているか見る。"
+    "id": "r49",
+    "op": "key",
+    "key": "PageDown",
+    "wait": 450,
+    "note": "今日の日記は書かず、下に見えている『少し前の自分』を開くつもりで下を見る。PageDownはスワイプ代行。"
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/83cedb7c95458c4fd728df6a82d2dfbd74a27981/live-results/sloppy-mobile-recovery-20261007-0406-mofu-3c4b3187/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/45a1ed10000c0bc2a0b99c59ede67a1b8c9f26d2/live-results/sloppy-mobile-recovery-20261007-0406-mofu-3c4b3187/current.jpg",
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#diary",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -88,165 +87,11 @@
     },
     {
       "tag": "BUTTON",
-      "text": "静か",
-      "disabled": false,
-      "rect": {
-        "x": 42,
-        "y": 365,
-        "w": 84,
-        "h": 44
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "きらきら",
-      "disabled": false,
-      "rect": {
-        "x": 133,
-        "y": 365,
-        "w": 99,
-        "h": 44
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "ぼんやり",
-      "disabled": false,
-      "rect": {
-        "x": 239,
-        "y": 365,
-        "w": 109,
-        "h": 44
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "ざわざわ",
-      "disabled": false,
-      "rect": {
-        "x": 42,
-        "y": 418,
-        "w": 99,
-        "h": 44
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "甘い",
-      "disabled": false,
-      "rect": {
-        "x": 148,
-        "y": 418,
-        "w": 81,
-        "h": 44
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "雨っぽい",
-      "disabled": false,
-      "rect": {
-        "x": 236,
-        "y": 418,
-        "w": 112,
-        "h": 44
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "眠い",
-      "disabled": false,
-      "rect": {
-        "x": 42,
-        "y": 471,
-        "w": 91,
-        "h": 44
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "何もない",
-      "disabled": false,
-      "rect": {
-        "x": 140,
-        "y": 471,
-        "w": 112,
-        "h": 44
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "",
-      "disabled": false,
-      "rect": {
-        "x": 52,
-        "y": 574,
-        "w": 92,
-        "h": 39
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "",
-      "disabled": false,
-      "rect": {
-        "x": 149,
-        "y": 574,
-        "w": 92,
-        "h": 39
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "",
-      "disabled": false,
-      "rect": {
-        "x": 246,
-        "y": 574,
-        "w": 92,
-        "h": 39
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "",
-      "disabled": false,
-      "rect": {
-        "x": 52,
-        "y": 617,
-        "w": 92,
-        "h": 39
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "",
-      "disabled": false,
-      "rect": {
-        "x": 149,
-        "y": 617,
-        "w": 92,
-        "h": 39
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "",
-      "disabled": false,
-      "rect": {
-        "x": 246,
-        "y": 617,
-        "w": 92,
-        "h": 39
-      }
-    },
-    {
-      "tag": "BUTTON",
       "text": "",
       "disabled": false,
       "rect": {
         "x": 53,
-        "y": 669,
+        "y": -6,
         "w": 75,
         "h": 40
       }
@@ -257,7 +102,7 @@
       "disabled": true,
       "rect": {
         "x": 241,
-        "y": 667,
+        "y": -8,
         "w": 44,
         "h": 44
       }
@@ -268,7 +113,7 @@
       "disabled": false,
       "rect": {
         "x": 293,
-        "y": 667,
+        "y": -8,
         "w": 44,
         "h": 44
       }
@@ -279,7 +124,7 @@
       "disabled": false,
       "rect": {
         "x": 55,
-        "y": 723,
+        "y": 48,
         "w": 119,
         "h": 153
       }
@@ -290,7 +135,7 @@
       "disabled": false,
       "rect": {
         "x": 159,
-        "y": 725,
+        "y": 50,
         "w": 118,
         "h": 152
       }
@@ -301,7 +146,7 @@
       "disabled": false,
       "rect": {
         "x": 263,
-        "y": 726,
+        "y": 51,
         "w": 116,
         "h": 151
       }
@@ -312,7 +157,7 @@
       "disabled": false,
       "rect": {
         "x": 365,
-        "y": 726,
+        "y": 51,
         "w": 118,
         "h": 152
       }
@@ -323,7 +168,7 @@
       "disabled": false,
       "rect": {
         "x": 54,
-        "y": 664,
+        "y": -11,
         "w": 47,
         "h": 51
       }
@@ -334,7 +179,7 @@
       "disabled": false,
       "rect": {
         "x": 112,
-        "y": 664,
+        "y": -11,
         "w": 48,
         "h": 51
       }
@@ -345,7 +190,7 @@
       "disabled": false,
       "rect": {
         "x": 170,
-        "y": 664,
+        "y": -11,
         "w": 47,
         "h": 51
       }
@@ -356,7 +201,7 @@
       "disabled": false,
       "rect": {
         "x": 228,
-        "y": 664,
+        "y": -11,
         "w": 48,
         "h": 51
       }
@@ -367,7 +212,7 @@
       "disabled": false,
       "rect": {
         "x": 286,
-        "y": 664,
+        "y": -11,
         "w": 47,
         "h": 51
       }
@@ -378,7 +223,7 @@
       "disabled": false,
       "rect": {
         "x": 54,
-        "y": 726,
+        "y": 51,
         "w": 48,
         "h": 51
       }
@@ -389,7 +234,7 @@
       "disabled": false,
       "rect": {
         "x": 55,
-        "y": 821,
+        "y": 146,
         "w": 51,
         "h": 42
       }
@@ -400,7 +245,7 @@
       "disabled": false,
       "rect": {
         "x": 114,
-        "y": 821,
+        "y": 146,
         "w": 48,
         "h": 42
       }
@@ -411,7 +256,7 @@
       "disabled": false,
       "rect": {
         "x": 171,
-        "y": 821,
+        "y": 146,
         "w": 51,
         "h": 42
       }
@@ -422,8 +267,96 @@
       "disabled": false,
       "rect": {
         "x": 230,
-        "y": 821,
+        "y": 146,
         "w": 73,
+        "h": 42
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "",
+      "disabled": false,
+      "rect": {
+        "x": 55,
+        "y": 196,
+        "w": 115,
+        "h": 42
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "",
+      "disabled": false,
+      "rect": {
+        "x": 178,
+        "y": 196,
+        "w": 67,
+        "h": 42
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "",
+      "disabled": false,
+      "rect": {
+        "x": 253,
+        "y": 196,
+        "w": 53,
+        "h": 42
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "",
+      "disabled": false,
+      "rect": {
+        "x": 55,
+        "y": 246,
+        "w": 55,
+        "h": 42
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "",
+      "disabled": false,
+      "rect": {
+        "x": 118,
+        "y": 246,
+        "w": 55,
+        "h": 42
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "",
+      "disabled": false,
+      "rect": {
+        "x": 181,
+        "y": 246,
+        "w": 48,
+        "h": 42
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "",
+      "disabled": false,
+      "rect": {
+        "x": 237,
+        "y": 246,
+        "w": 55,
+        "h": 42
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "",
+      "disabled": false,
+      "rect": {
+        "x": 55,
+        "y": 296,
+        "w": 71,
         "h": 42
       }
     },
@@ -433,7 +366,7 @@
       "disabled": false,
       "rect": {
         "x": 55,
-        "y": 690,
+        "y": 15,
         "w": 280,
         "h": 52
       }
@@ -444,9 +377,42 @@
       "disabled": true,
       "rect": {
         "x": 220,
-        "y": 696,
+        "y": 21,
         "w": 128,
         "h": 48
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Mineral No. 01\n10/7",
+      "disabled": false,
+      "rect": {
+        "x": 38,
+        "y": 175,
+        "w": 313,
+        "h": 170
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Second Skin\n10/7",
+      "disabled": false,
+      "rect": {
+        "x": 38,
+        "y": 358,
+        "w": 313,
+        "h": 170
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "白い街の一片\n10/7",
+      "disabled": false,
+      "rect": {
+        "x": 39,
+        "y": 532,
+        "w": 312,
+        "h": 168
       }
     }
   ],
@@ -1216,6 +1182,21 @@
       "error": null,
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#diary",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/83cedb7c95458c4fd728df6a82d2dfbd74a27981/live-results/sloppy-mobile-recovery-20261007-0406-mofu-3c4b3187/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\nDream\nDiary\nAbout\n\n\n\n\nNIKO² DIARY\nDiary\n今日のことを、ひとつだけ。\n10月7日 13:25\nTODAY\n今日を残す\n✦\nいまの気配\n\n静か\n\nきらきら\n\nぼんやり\n\nざわざわ\n\n甘い\n\n雨っぽい\n\n眠い\n\n何もない\nPHOTO\n写真\n選択なし\n色・モチーフ\nOPTIONAL\n言葉\nOPTIONAL\nこの端末だけに残ります\n残す\nRECENT\n少し前の自分\n\nMineral No. 01\n10/7\n\nSecond Skin\n10/7\n\n白い街の一片\n10/7\n2026年10月\nMONTHLY REFLECTION\n今月の景色\nよく残った気配\n静かな余白\nよく残った色\nCold silver\nよく残ったモチーフ\n香水\nまだ記録が少ないので、傾向ではなく、残ったものをそのまま眺めています。\nもう少し見る\nARCHIVE\n前の日々をひらく\n\nWHAT REMAINED\n残ったものを見る\nアトリエへ戻る\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+      "number": 50,
+      "at": "2026-10-07T04:26:00.206Z",
+      "action": {
+        "id": "r49",
+        "op": "key",
+        "key": "PageDown",
+        "wait": 450,
+        "note": "今日の日記は書かず、下に見えている『少し前の自分』を開くつもりで下を見る。PageDownはスワイプ代行。"
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#diary",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/45a1ed10000c0bc2a0b99c59ede67a1b8c9f26d2/live-results/sloppy-mobile-recovery-20261007-0406-mofu-3c4b3187/current.jpg",
       "text": "作品へ移動\nNIKO² ATELIER\nDream\nDiary\nAbout\n\n\n\n\nNIKO² DIARY\nDiary\n今日のことを、ひとつだけ。\n10月7日 13:25\nTODAY\n今日を残す\n✦\nいまの気配\n\n静か\n\nきらきら\n\nぼんやり\n\nざわざわ\n\n甘い\n\n雨っぽい\n\n眠い\n\n何もない\nPHOTO\n写真\n選択なし\n色・モチーフ\nOPTIONAL\n言葉\nOPTIONAL\nこの端末だけに残ります\n残す\nRECENT\n少し前の自分\n\nMineral No. 01\n10/7\n\nSecond Skin\n10/7\n\n白い街の一片\n10/7\n2026年10月\nMONTHLY REFLECTION\n今月の景色\nよく残った気配\n静かな余白\nよく残った色\nCold silver\nよく残ったモチーフ\n香水\nまだ記録が少ないので、傾向ではなく、残ったものをそのまま眺めています。\nもう少し見る\nARCHIVE\n前の日々をひらく\n\nWHAT REMAINED\n残ったものを見る\nアトリエへ戻る\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
     }
   ]
