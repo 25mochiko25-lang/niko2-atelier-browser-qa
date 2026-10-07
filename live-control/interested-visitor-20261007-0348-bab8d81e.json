@@ -1,7 +1,5 @@
 {
-  "id": "15",
-  "op": "tap",
-  "x": 311,
-  "y": 393,
-  "note": "遠くの扉が近づいてきて、触れて向こうへと誘われた。白く光る扉の中を押す。"
+  "id": "infrastructure-end",
+  "op": "stop",
+  "reason": "Infrastructure interruption: observer job 112621209423 exited on GitHub 409 while publishing command 15. Visitor remained interested; this is not voluntary departure."
 }
