@@ -1,7 +1,7 @@
 {
-  "id": "r01-enter",
+  "id": "r02-intro-next",
   "op": "tap",
-  "x": 196,
-  "y": 529,
-  "note": "Fresh recovery session after the observer publishing failure. Re-entering already-seen entrance through visible controls; this is not a second first impression."
+  "x": 334,
+  "y": 770,
+  "note": "Recovery traversal of the already-seen first intro page using its visible Next."
 }
