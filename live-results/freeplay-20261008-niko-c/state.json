@@ -5,19 +5,19 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-07T15:21:45.028Z",
-  "updatedAt": "2026-10-07T15:36:45.281Z",
-  "lastCommand": "24",
+  "updatedAt": "2026-10-07T15:37:11.853Z",
+  "lastCommand": "25",
   "stopReason": null,
   "action": {
-    "id": "24",
+    "id": "25",
     "op": "tap",
-    "x": 335,
-    "y": 771,
-    "note": "Continue the post-garden explanation."
+    "x": 195,
+    "y": 527,
+    "note": "Perfume Morgue sounds much more tempting than reading production notes right now."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/3095654625220721c96ec30ad172b48142b7131a/live-results/freeplay-20261008-niko-c/current.jpg",
-  "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/1c5e087a1a4b79ce8a2e629a5f10e62094ff5feb/live-results/freeplay-20261008-niko-c/current.jpg",
+  "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#perfume",
   "title": "NIKO² ATELIER",
   "viewport": {
     "width": 390,
@@ -28,8 +28,19 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n \nWORLD\nWORLD\n水面の向こうに、いくつかの場所がひらいています。\n\n\nABOUT\nもふもふはいます。\nPLAY / SHARE / FAN WORK\nNIKO²での生活について\n好きな形で遊ぶための、小さな境界。\nDEAR ATELIER\nお手紙を送る\nAtelierの受取箱へ。\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNEXT PLACES\nこの先に、二つの場所がひらいています。\nどちらを選んでも、選ばなくても大丈夫です。\n\n\nFROM THE ATELIER\nこの世界の制作記録を読む場所。\n\n\nPERFUME MORGUE\n12兆通りの記憶から、あなたのためだけの香りをつくる場所。\n戻る完了",
+  "text": "作品へ移動\nNIKO² ATELIER\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDREAM / PM-01\nPERFUME MORGUE\nFORMULA / EMPTY\nFORMULA / TWELVE TRILLION\n三つの層に、記憶を落とす。\n十二兆通りの数式のうち、今日の一本だけが、あなたの手で閉じる。\nときどき、こちらの記録にはない香りも届きます。\n\n調香台へ\n",
   "controls": [
+    {
+      "tag": "A",
+      "text": "NIKO² ATELIER",
+      "disabled": false,
+      "rect": {
+        "x": 25,
+        "y": 23,
+        "w": 124,
+        "h": 29
+      }
+    },
     {
       "tag": "BUTTON",
       "text": "音をオンにする",
@@ -42,79 +53,24 @@
       }
     },
     {
-      "tag": "A",
-      "text": "FROM THE ATELIERを開く",
-      "disabled": false,
-      "rect": {
-        "x": 279,
-        "y": 274,
-        "w": 91,
-        "h": 92
-      }
-    },
-    {
-      "tag": "A",
-      "text": "Diaryを開く",
+      "tag": "BUTTON",
+      "text": "アトリエへ戻る",
       "disabled": false,
       "rect": {
         "x": 14,
-        "y": 298,
-        "w": 147,
-        "h": 147
+        "y": 82,
+        "w": 40,
+        "h": 40
       }
     },
     {
       "tag": "BUTTON",
-      "text": "Enter the dream",
+      "text": "調香台へ",
       "disabled": false,
       "rect": {
-        "x": 90,
-        "y": 494,
-        "w": 210,
-        "h": 70
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "FROM THE ATELIER\nこの世界の制作記録を読む場所。",
-      "disabled": false,
-      "rect": {
-        "x": 46,
-        "y": 316,
-        "w": 298,
-        "h": 134
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "PERFUME MORGUE\n12兆通りの記憶から、あなたのためだけの香りをつくる場所。",
-      "disabled": false,
-      "rect": {
-        "x": 46,
-        "y": 460,
-        "w": 298,
-        "h": 134
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "戻る",
-      "disabled": false,
-      "rect": {
-        "x": 18,
-        "y": 748,
-        "w": 72,
-        "h": 44
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "完了",
-      "disabled": false,
-      "rect": {
-        "x": 300,
-        "y": 748,
-        "w": 72,
+        "x": 34,
+        "y": 510,
+        "w": 322,
         "h": 44
       }
     }
@@ -492,6 +448,21 @@
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/3095654625220721c96ec30ad172b48142b7131a/live-results/freeplay-20261008-niko-c/current.jpg",
       "text": "作品へ移動\n \nWORLD\nWORLD\n水面の向こうに、いくつかの場所がひらいています。\n\n\nABOUT\nもふもふはいます。\nPLAY / SHARE / FAN WORK\nNIKO²での生活について\n好きな形で遊ぶための、小さな境界。\nDEAR ATELIER\nお手紙を送る\nAtelierの受取箱へ。\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNEXT PLACES\nこの先に、二つの場所がひらいています。\nどちらを選んでも、選ばなくても大丈夫です。\n\n\nFROM THE ATELIER\nこの世界の制作記録を読む場所。\n\n\nPERFUME MORGUE\n12兆通りの記憶から、あなたのためだけの香りをつくる場所。\n戻る完了"
+    },
+    {
+      "number": 26,
+      "at": "2026-10-07T15:37:11.853Z",
+      "action": {
+        "id": "25",
+        "op": "tap",
+        "x": 195,
+        "y": 527,
+        "note": "Perfume Morgue sounds much more tempting than reading production notes right now."
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#perfume",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/1c5e087a1a4b79ce8a2e629a5f10e62094ff5feb/live-results/freeplay-20261008-niko-c/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDREAM / PM-01\nPERFUME MORGUE\nFORMULA / EMPTY\nFORMULA / TWELVE TRILLION\n三つの層に、記憶を落とす。\n十二兆通りの数式のうち、今日の一本だけが、あなたの手で閉じる。\nときどき、こちらの記録にはない香りも届きます。\n\n調香台へ\n"
     }
   ]
 }
