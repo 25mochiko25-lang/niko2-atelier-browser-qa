@@ -1,6 +1,6 @@
 {
-  "id": "23",
+  "id": "24",
   "op": "key",
-  "key": "Tab",
-  "note": "Infrastructure fallback: PageDown did not move the viewport. Use the contract-permitted Tab once to inspect the next focusable lower content. Do not count this as mobile finger-scroll evidence."
+  "key": "Shift+Tab",
+  "note": "Infrastructure fallback: Tab focused the first skip link at the top. Reverse-Tab once to inspect the page-end focus target. The visitor still wants the saved entries; this is not a finger-swipe test."
 }
