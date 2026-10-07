@@ -1,6 +1,7 @@
 {
-  "id": "36",
-  "op": "key",
-  "key": "PageDown",
-  "note": "Continue down within the perfume mixer to the concentration controls."
+  "id": "37",
+  "op": "tap",
+  "x": 263,
+  "y": 639,
+  "note": "Choose Parfum / 記憶の濃度."
 }
