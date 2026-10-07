@@ -5,19 +5,19 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-07T03:57:39.491Z",
-  "updatedAt": "2026-10-07T04:23:12.621Z",
-  "lastCommand": "r58-hotel-check-out",
+  "updatedAt": "2026-10-07T04:23:42.902Z",
+  "lastCommand": "r59-checkout-diary",
   "stopReason": null,
   "action": {
-    "id": "r58-hotel-check-out",
+    "id": "r59-checkout-diary",
     "op": "tap",
-    "x": 281,
-    "y": 785,
-    "note": "The key is labeled 000 rather than tonight's room number. The menu said payment is checked after checkout, so I check out to see the consequence."
+    "x": 268,
+    "y": 482,
+    "note": "Checkout completed and says tonight's fragment reached Diary. I want to see what was kept and whether the mysterious memory payment is explained there."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/940181c44c0a6b301c06c41db35d63ef611b8f48/live-results/genre-fan-final-recovery-20261007035700/current.jpg",
-  "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#hotel",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/5aec794da7916f1460cecfdae2e2ffb94a0f5545/live-results/genre-fan-final-recovery-20261007035700/current.jpg",
+  "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#diary",
   "title": "NIKO² ATELIER",
   "viewport": {
     "width": 390,
@@ -28,7 +28,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\nNIKO² ATELIER\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHOTEL SOMNIA / CHECK OUT\nありがとうございました。\n今夜の断片はDiaryへ届きました。部屋はここで、静かに閉じます。\n\nアトリエへ戻る\nDiaryを見る\nDREAM / ROOM 0317\nHOTEL SOMNIA\nSTAY 1 / 3\nFRONT DESK / ROOM 0317\n今夜も、同じ部屋をご用意しました。\n\n今夜の断片はDiaryへ届きました。同じ部屋は、次も少し違います。\n\nCHECK IN\n\n\n",
+  "text": "作品へ移動\nNIKO² ATELIER\nDream\nDiary\nAbout\n\n\n\n\nNIKO² DIARY\nDiary\n今日のことを、ひとつだけ。\n10月7日 13:23\nTODAY\n今日を残す\n✦\nいまの気配\n\n静か\n\nきらきら\n\nぼんやり\n\nざわざわ\n\n甘い\n\n雨っぽい\n\n眠い\n\n何もない\nPHOTO\n写真\n選択なし\n色・モチーフ\nOPTIONAL\n言葉\nOPTIONAL\nこの端末だけに残ります\n残す\nRECENT\n少し前の自分\n\nROOM 000 / KEY\n10/7\n\n帰る花弁\n10/7\n2026年10月\nMONTHLY REFLECTION\n今月の景色\nよく残った気配\n静か\nよく残った色\n色のない紙片\nよく残ったモチーフ\nROOM 000\nまだ記録が少ないので、傾向ではなく、残ったものをそのまま眺めています。\nもう少し見る\nARCHIVE\n前の日々をひらく\n\nWHAT REMAINED\n残ったものを見る\nアトリエへ戻る\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
   "controls": [
     {
       "tag": "A",
@@ -36,9 +36,42 @@
       "disabled": false,
       "rect": {
         "x": 25,
-        "y": 23,
+        "y": 13,
         "w": 124,
-        "h": 29
+        "h": 44
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Dream",
+      "disabled": false,
+      "rect": {
+        "x": 86,
+        "y": 58,
+        "w": 64,
+        "h": 44
+      }
+    },
+    {
+      "tag": "A",
+      "text": "Diary",
+      "disabled": false,
+      "rect": {
+        "x": 166,
+        "y": 58,
+        "w": 64,
+        "h": 44
+      }
+    },
+    {
+      "tag": "A",
+      "text": "About",
+      "disabled": false,
+      "rect": {
+        "x": 246,
+        "y": 58,
+        "w": 64,
+        "h": 44
       }
     },
     {
@@ -53,47 +86,366 @@
       }
     },
     {
-      "tag": "A",
-      "text": "アトリエへ戻る",
+      "tag": "BUTTON",
+      "text": "静か",
       "disabled": false,
       "rect": {
-        "x": 65,
-        "y": 450,
-        "w": 137,
-        "h": 64
+        "x": 42,
+        "y": 365,
+        "w": 84,
+        "h": 44
       }
     },
     {
-      "tag": "A",
-      "text": "Diaryを見る",
+      "tag": "BUTTON",
+      "text": "きらきら",
       "disabled": false,
       "rect": {
-        "x": 214,
-        "y": 450,
-        "w": 111,
-        "h": 64
+        "x": 133,
+        "y": 365,
+        "w": 99,
+        "h": 44
       }
     },
     {
-      "tag": "A",
-      "text": "アトリエへ戻る",
+      "tag": "BUTTON",
+      "text": "ぼんやり",
       "disabled": false,
       "rect": {
-        "x": 14,
-        "y": 82,
-        "w": 40,
+        "x": 239,
+        "y": 365,
+        "w": 109,
+        "h": 44
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "ざわざわ",
+      "disabled": false,
+      "rect": {
+        "x": 42,
+        "y": 418,
+        "w": 99,
+        "h": 44
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "甘い",
+      "disabled": false,
+      "rect": {
+        "x": 148,
+        "y": 418,
+        "w": 81,
+        "h": 44
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "雨っぽい",
+      "disabled": false,
+      "rect": {
+        "x": 236,
+        "y": 418,
+        "w": 112,
+        "h": 44
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "眠い",
+      "disabled": false,
+      "rect": {
+        "x": 42,
+        "y": 471,
+        "w": 91,
+        "h": 44
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "何もない",
+      "disabled": false,
+      "rect": {
+        "x": 140,
+        "y": 471,
+        "w": 112,
+        "h": 44
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "",
+      "disabled": false,
+      "rect": {
+        "x": 52,
+        "y": 574,
+        "w": 92,
+        "h": 39
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "",
+      "disabled": false,
+      "rect": {
+        "x": 149,
+        "y": 574,
+        "w": 92,
+        "h": 39
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "",
+      "disabled": false,
+      "rect": {
+        "x": 246,
+        "y": 574,
+        "w": 92,
+        "h": 39
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "",
+      "disabled": false,
+      "rect": {
+        "x": 52,
+        "y": 617,
+        "w": 92,
+        "h": 39
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "",
+      "disabled": false,
+      "rect": {
+        "x": 149,
+        "y": 617,
+        "w": 92,
+        "h": 39
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "",
+      "disabled": false,
+      "rect": {
+        "x": 246,
+        "y": 617,
+        "w": 92,
+        "h": 39
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "",
+      "disabled": false,
+      "rect": {
+        "x": 53,
+        "y": 669,
+        "w": 75,
         "h": 40
       }
     },
     {
       "tag": "BUTTON",
-      "text": "CHECK IN",
+      "text": "写真の一覧を左へ",
+      "disabled": true,
+      "rect": {
+        "x": 241,
+        "y": 667,
+        "w": 44,
+        "h": 44
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "写真の一覧を右へ",
       "disabled": false,
       "rect": {
-        "x": 36,
-        "y": 708,
+        "x": 293,
+        "y": 667,
+        "w": 44,
+        "h": 44
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "自販機・選ぶ",
+      "disabled": false,
+      "rect": {
+        "x": 55,
+        "y": 723,
+        "w": 119,
+        "h": 153
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "駅ホーム・選ぶ",
+      "disabled": false,
+      "rect": {
+        "x": 159,
+        "y": 725,
+        "w": 118,
+        "h": 152
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "改札・選ぶ",
+      "disabled": false,
+      "rect": {
+        "x": 263,
+        "y": 726,
         "w": 116,
-        "h": 46
+        "h": 151
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "電車の窓・選ぶ",
+      "disabled": false,
+      "rect": {
+        "x": 365,
+        "y": 726,
+        "w": 118,
+        "h": 152
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "淡いラベンダー",
+      "disabled": false,
+      "rect": {
+        "x": 54,
+        "y": 664,
+        "w": 47,
+        "h": 51
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "花びらのピンク",
+      "disabled": false,
+      "rect": {
+        "x": 112,
+        "y": 664,
+        "w": 48,
+        "h": 51
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "朝の水色",
+      "disabled": false,
+      "rect": {
+        "x": 170,
+        "y": 664,
+        "w": 47,
+        "h": 51
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "真珠色",
+      "disabled": false,
+      "rect": {
+        "x": 228,
+        "y": 664,
+        "w": 48,
+        "h": 51
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "淡いミント",
+      "disabled": false,
+      "rect": {
+        "x": 286,
+        "y": 664,
+        "w": 47,
+        "h": 51
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "淡いパールブルー",
+      "disabled": false,
+      "rect": {
+        "x": 54,
+        "y": 726,
+        "w": 48,
+        "h": 51
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "",
+      "disabled": false,
+      "rect": {
+        "x": 55,
+        "y": 821,
+        "w": 51,
+        "h": 42
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "",
+      "disabled": false,
+      "rect": {
+        "x": 114,
+        "y": 821,
+        "w": 48,
+        "h": 42
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "",
+      "disabled": false,
+      "rect": {
+        "x": 171,
+        "y": 821,
+        "w": 51,
+        "h": 42
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "",
+      "disabled": false,
+      "rect": {
+        "x": 230,
+        "y": 821,
+        "w": 73,
+        "h": 42
+      }
+    },
+    {
+      "tag": "TEXTAREA",
+      "text": "ひとことだけでも、長くても。",
+      "disabled": false,
+      "rect": {
+        "x": 55,
+        "y": 690,
+        "w": 280,
+        "h": 52
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "残す",
+      "disabled": true,
+      "rect": {
+        "x": 220,
+        "y": 696,
+        "w": 128,
+        "h": 48
       }
     }
   ],
@@ -977,6 +1329,21 @@
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#hotel",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/940181c44c0a6b301c06c41db35d63ef611b8f48/live-results/genre-fan-final-recovery-20261007035700/current.jpg",
       "text": "作品へ移動\nNIKO² ATELIER\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHOTEL SOMNIA / CHECK OUT\nありがとうございました。\n今夜の断片はDiaryへ届きました。部屋はここで、静かに閉じます。\n\nアトリエへ戻る\nDiaryを見る\nDREAM / ROOM 0317\nHOTEL SOMNIA\nSTAY 1 / 3\nFRONT DESK / ROOM 0317\n今夜も、同じ部屋をご用意しました。\n\n今夜の断片はDiaryへ届きました。同じ部屋は、次も少し違います。\n\nCHECK IN\n\n\n"
+    },
+    {
+      "number": 60,
+      "at": "2026-10-07T04:23:42.902Z",
+      "action": {
+        "id": "r59-checkout-diary",
+        "op": "tap",
+        "x": 268,
+        "y": 482,
+        "note": "Checkout completed and says tonight's fragment reached Diary. I want to see what was kept and whether the mysterious memory payment is explained there."
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#diary",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/5aec794da7916f1460cecfdae2e2ffb94a0f5545/live-results/genre-fan-final-recovery-20261007035700/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\nDream\nDiary\nAbout\n\n\n\n\nNIKO² DIARY\nDiary\n今日のことを、ひとつだけ。\n10月7日 13:23\nTODAY\n今日を残す\n✦\nいまの気配\n\n静か\n\nきらきら\n\nぼんやり\n\nざわざわ\n\n甘い\n\n雨っぽい\n\n眠い\n\n何もない\nPHOTO\n写真\n選択なし\n色・モチーフ\nOPTIONAL\n言葉\nOPTIONAL\nこの端末だけに残ります\n残す\nRECENT\n少し前の自分\n\nROOM 000 / KEY\n10/7\n\n帰る花弁\n10/7\n2026年10月\nMONTHLY REFLECTION\n今月の景色\nよく残った気配\n静か\nよく残った色\n色のない紙片\nよく残ったモチーフ\nROOM 000\nまだ記録が少ないので、傾向ではなく、残ったものをそのまま眺めています。\nもう少し見る\nARCHIVE\n前の日々をひらく\n\nWHAT REMAINED\n残ったものを見る\nアトリエへ戻る\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
     }
   ]
 }
