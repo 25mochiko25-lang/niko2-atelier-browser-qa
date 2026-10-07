@@ -1,6 +1,7 @@
 {
-  "id": "r20-diary-pagedown",
-  "op": "key",
-  "key": "PageDown",
-  "note": "The harness reports mobile WebKit does not support its mouse wheel. Use the contract's PageDown fallback to view lower content; this cannot validate a finger swipe."
+  "id": "r21-open-petal-record",
+  "op": "tap",
+  "x": 197,
+  "y": 319,
+  "note": "A Recent card for the returning petal is now visible below the form. I open it to see whether my souvenir and words are there."
 }
