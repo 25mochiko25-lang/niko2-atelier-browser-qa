@@ -1,6 +1,7 @@
 {
-  "id": "r17-write-words",
-  "op": "type",
-  "text": "どの扉にも合わない鍵と、帰ってきた花びら。",
-  "note": "Record the contrast between the key and the petal, which is what stayed with me from the garden."
+  "id": "r18-save-petal-diary",
+  "op": "tap",
+  "x": 196,
+  "y": 743,
+  "note": "My note is visible in the field. I press Diaryへ持ち帰る to keep the scene and petal."
 }
