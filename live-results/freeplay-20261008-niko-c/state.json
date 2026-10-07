@@ -5,17 +5,17 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-07T15:21:45.028Z",
-  "updatedAt": "2026-10-07T15:43:04.943Z",
-  "lastCommand": "34",
+  "updatedAt": "2026-10-07T15:43:33.948Z",
+  "lastCommand": "35",
   "stopReason": null,
   "action": {
-    "id": "34",
+    "id": "35",
     "op": "key",
     "key": "PageDown",
-    "note": "Use keyboard PageDown only to inspect the lower part of the long mixer because wheel is unsupported by the QA harness."
+    "note": "Continue down the mixer to concentration and finalize controls."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/d2ed3c16c8f358fc8214df15ca68780a2ad55cc9/live-results/freeplay-20261008-niko-c/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/32327562946e215692e383a37ca7a923d6ecd5df/live-results/freeplay-20261008-niko-c/current.jpg",
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#perfume",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -68,7 +68,7 @@
       "disabled": false,
       "rect": {
         "x": 26,
-        "y": 64,
+        "y": -30,
         "w": 166,
         "h": 56
       }
@@ -79,7 +79,7 @@
       "disabled": false,
       "rect": {
         "x": 199,
-        "y": 64,
+        "y": -30,
         "w": 166,
         "h": 56
       }
@@ -90,7 +90,7 @@
       "disabled": false,
       "rect": {
         "x": 26,
-        "y": 127,
+        "y": 33,
         "w": 166,
         "h": 56
       }
@@ -101,7 +101,7 @@
       "disabled": false,
       "rect": {
         "x": 199,
-        "y": 127,
+        "y": 33,
         "w": 166,
         "h": 56
       }
@@ -112,7 +112,7 @@
       "disabled": false,
       "rect": {
         "x": 26,
-        "y": 190,
+        "y": 96,
         "w": 166,
         "h": 56
       }
@@ -123,7 +123,7 @@
       "disabled": false,
       "rect": {
         "x": 199,
-        "y": 190,
+        "y": 96,
         "w": 166,
         "h": 56
       }
@@ -134,7 +134,7 @@
       "disabled": false,
       "rect": {
         "x": 26,
-        "y": 253,
+        "y": 159,
         "w": 166,
         "h": 56
       }
@@ -145,7 +145,7 @@
       "disabled": false,
       "rect": {
         "x": 199,
-        "y": 253,
+        "y": 159,
         "w": 166,
         "h": 56
       }
@@ -156,7 +156,7 @@
       "disabled": false,
       "rect": {
         "x": 26,
-        "y": 316,
+        "y": 222,
         "w": 166,
         "h": 56
       }
@@ -167,7 +167,7 @@
       "disabled": false,
       "rect": {
         "x": 199,
-        "y": 316,
+        "y": 222,
         "w": 166,
         "h": 56
       }
@@ -178,7 +178,7 @@
       "disabled": false,
       "rect": {
         "x": 26,
-        "y": 379,
+        "y": 285,
         "w": 166,
         "h": 56
       }
@@ -189,7 +189,7 @@
       "disabled": false,
       "rect": {
         "x": 199,
-        "y": 379,
+        "y": 285,
         "w": 166,
         "h": 56
       }
@@ -200,7 +200,7 @@
       "disabled": false,
       "rect": {
         "x": 26,
-        "y": 442,
+        "y": 348,
         "w": 166,
         "h": 56
       }
@@ -211,7 +211,7 @@
       "disabled": false,
       "rect": {
         "x": 199,
-        "y": 442,
+        "y": 348,
         "w": 166,
         "h": 56
       }
@@ -222,7 +222,7 @@
       "disabled": false,
       "rect": {
         "x": 26,
-        "y": 505,
+        "y": 411,
         "w": 166,
         "h": 56
       }
@@ -233,7 +233,7 @@
       "disabled": false,
       "rect": {
         "x": 199,
-        "y": 505,
+        "y": 411,
         "w": 166,
         "h": 56
       }
@@ -861,6 +861,20 @@
       "error": null,
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#perfume",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/d2ed3c16c8f358fc8214df15ca68780a2ad55cc9/live-results/freeplay-20261008-niko-c/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDREAM / PM-01\nPERFUME MORGUE\nFORMULA / 3 MATERIALS\n香りになれなかった記憶。\n素材を選び、三つの層へ落としてください。順番と濃度で、同じ記憶も別の香りになります。\n雨\n古いぬいぐるみ\n燃えた砂糖\nホテルの白いシーツ\n甘い夢\n紅茶の渋み\n煙の名残\n花\n濡れた石\n乾いた木\n生の果実\n夜更け\n海水\n古い本\n化粧の粉\n冷たい金属\n\nMIXING BOTTLE / 3 MATERIALS\nIN BOTTLE / 甘い夢 ×1 · 紅茶の渋み ×1 · 花 ×1\n\n01\nTOP\n\n02\nMIDDLE\n\n03\nLAST\nTOP\n甘い夢 ×1\n×\n−\n＋\nMIDDLE\n紅茶の渋み ×1\n×\n−\n＋\nLAST\n花 ×1\n×\n−\n＋\nCONCENTRATION\nEAU DE TOILETTE / 肌に近い\n\nEau Fraîche\n水のあと\n\nCologne\n風の輪郭\n\nToilette\n肌に近い\n\nParfum\n記憶の濃度\n\nExtrait\n最後まで残る\n\n香りを定着させる\n"
+    },
+    {
+      "number": 36,
+      "at": "2026-10-07T15:43:33.948Z",
+      "action": {
+        "id": "35",
+        "op": "key",
+        "key": "PageDown",
+        "note": "Continue down the mixer to concentration and finalize controls."
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#perfume",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/32327562946e215692e383a37ca7a923d6ecd5df/live-results/freeplay-20261008-niko-c/current.jpg",
       "text": "作品へ移動\nNIKO² ATELIER\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDREAM / PM-01\nPERFUME MORGUE\nFORMULA / 3 MATERIALS\n香りになれなかった記憶。\n素材を選び、三つの層へ落としてください。順番と濃度で、同じ記憶も別の香りになります。\n雨\n古いぬいぐるみ\n燃えた砂糖\nホテルの白いシーツ\n甘い夢\n紅茶の渋み\n煙の名残\n花\n濡れた石\n乾いた木\n生の果実\n夜更け\n海水\n古い本\n化粧の粉\n冷たい金属\n\nMIXING BOTTLE / 3 MATERIALS\nIN BOTTLE / 甘い夢 ×1 · 紅茶の渋み ×1 · 花 ×1\n\n01\nTOP\n\n02\nMIDDLE\n\n03\nLAST\nTOP\n甘い夢 ×1\n×\n−\n＋\nMIDDLE\n紅茶の渋み ×1\n×\n−\n＋\nLAST\n花 ×1\n×\n−\n＋\nCONCENTRATION\nEAU DE TOILETTE / 肌に近い\n\nEau Fraîche\n水のあと\n\nCologne\n風の輪郭\n\nToilette\n肌に近い\n\nParfum\n記憶の濃度\n\nExtrait\n最後まで残る\n\n香りを定着させる\n"
     }
   ]
