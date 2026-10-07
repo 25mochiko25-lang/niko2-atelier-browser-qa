@@ -1,7 +1,6 @@
 {
-  "id": "r79-visible-diary-route",
-  "op": "tap",
-  "x": 91,
-  "y": 371,
-  "note": "I stop trying to scroll Home and take the visible floating Diary instead, as an ordinary alternate route to my saved objects."
+  "id": "r80-diary-lower-route",
+  "op": "key",
+  "key": "PageDown",
+  "note": "Look lower in Diary for the saved objects and any route onward."
 }
