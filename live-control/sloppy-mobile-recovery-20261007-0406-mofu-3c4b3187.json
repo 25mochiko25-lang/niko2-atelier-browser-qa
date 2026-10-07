@@ -1,8 +1,8 @@
 {
-  "id": "r16",
+  "id": "r17",
   "op": "tap",
-  "x": 74,
-  "y": 78,
-  "wait": 400,
-  "note": "INFRA_RECOVERY: 日記のHomeで前の到達地点へ向かう。"
+  "x": 335,
+  "y": 771,
+  "wait": 350,
+  "note": "INFRA_RECOVERY: 一度目と同じ案内を送る。"
 }
