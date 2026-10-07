@@ -1,7 +1,7 @@
 {
-  "id": "r10-hourglass",
+  "id": "r11-gate",
   "op": "tap",
-  "x": 11,
-  "y": 438,
-  "note": "Recovery: collect the visible edge of the hourglass. Knowing it from the interrupted visit, I do not treat this quicker discovery as first-time ease."
+  "x": 340,
+  "y": 192,
+  "note": "Recovery has reached 5/5. I still want to see the distant gate's destination, which was never observed in the original session."
 }
