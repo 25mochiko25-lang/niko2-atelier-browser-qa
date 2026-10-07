@@ -5,19 +5,19 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-07T03:48:35.799Z",
-  "updatedAt": "2026-10-07T03:55:09.901Z",
-  "lastCommand": "12",
+  "updatedAt": "2026-10-07T03:55:34.892Z",
+  "lastCommand": "13",
   "stopReason": null,
   "action": {
-    "id": "12",
+    "id": "13",
     "op": "tap",
-    "x": 363,
-    "y": 556,
+    "x": 10,
+    "y": 425,
     "wait": 650,
-    "note": "紙でも数は増えなかった。右端にぬいぐるみらしいものが少し見えるので、そこを触ってみる。"
+    "note": "くまで4/5になった。右のくまはほとんど画面外で見つけにくかった。残り一つなので、左端で切れている金色のものも触ってみる。"
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/a0a99f5d1b6427b262eedf80689a43fb84d5ab75/live-results/friend-referral-20261007-0347-mofu/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/96b449e0f29b46b4982f61d93d33a9c41b929a86/live-results/friend-referral-20261007-0347-mofu/current.jpg",
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -29,7 +29,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n4 / 5\n見つけたもの\nCG-01-A_04.DRM\n12:55:02\n\nFRAGMENT / 04\n\n置き去りのくま\n名前はもうない。それでも、いつもの方を向いている。\n紙の裏に、消したはずの時刻がひとつ残っている。\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n5 / 5\n見つけたもの\n\nあの扉が、こちらを呼んでいる。\n触れて、向こうへ\n紙の裏に、消したはずの時刻がひとつ残っている。\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
   "controls": [
     {
       "tag": "BUTTON",
@@ -55,8 +55,8 @@
     },
     {
       "tag": "BUTTON",
-      "text": "止まりかけの砂時計に触れる",
-      "disabled": false,
+      "text": "止まりかけの砂時計（発見済み）",
+      "disabled": true,
       "rect": {
         "x": -72,
         "y": 338,
@@ -67,7 +67,7 @@
     {
       "tag": "BUTTON",
       "text": "N² Eau de rêve（発見済み）",
-      "disabled": false,
+      "disabled": true,
       "rect": {
         "x": 4,
         "y": 498,
@@ -78,7 +78,7 @@
     {
       "tag": "BUTTON",
       "text": "まだあたたかいカップ（発見済み）",
-      "disabled": false,
+      "disabled": true,
       "rect": {
         "x": 167,
         "y": 494,
@@ -89,7 +89,7 @@
     {
       "tag": "BUTTON",
       "text": "置き去りのくま（発見済み）",
-      "disabled": false,
+      "disabled": true,
       "rect": {
         "x": 335,
         "y": 447,
@@ -100,7 +100,7 @@
     {
       "tag": "BUTTON",
       "text": "青いリボンの鍵（発見済み）",
-      "disabled": false,
+      "disabled": true,
       "rect": {
         "x": 89,
         "y": 563,
@@ -179,21 +179,10 @@
       "text": "遠くの白い門に触れる",
       "disabled": false,
       "rect": {
-        "x": 285,
-        "y": 118,
-        "w": 90,
-        "h": 118
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "見つけた記憶を閉じる",
-      "disabled": false,
-      "rect": {
-        "x": 324,
-        "y": 654,
-        "w": 24,
-        "h": 23
+        "x": 217,
+        "y": 84,
+        "w": 236,
+        "h": 405
       }
     }
   ],
@@ -391,6 +380,22 @@
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/a0a99f5d1b6427b262eedf80689a43fb84d5ab75/live-results/friend-referral-20261007-0347-mofu/current.jpg",
       "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n4 / 5\n見つけたもの\nCG-01-A_04.DRM\n12:55:02\n\nFRAGMENT / 04\n\n置き去りのくま\n名前はもうない。それでも、いつもの方を向いている。\n紙の裏に、消したはずの時刻がひとつ残っている。\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+      "number": 14,
+      "at": "2026-10-07T03:55:34.892Z",
+      "action": {
+        "id": "13",
+        "op": "tap",
+        "x": 10,
+        "y": 425,
+        "wait": 650,
+        "note": "くまで4/5になった。右のくまはほとんど画面外で見つけにくかった。残り一つなので、左端で切れている金色のものも触ってみる。"
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/96b449e0f29b46b4982f61d93d33a9c41b929a86/live-results/friend-referral-20261007-0347-mofu/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n5 / 5\n見つけたもの\n\nあの扉が、こちらを呼んでいる。\n触れて、向こうへ\n紙の裏に、消したはずの時刻がひとつ残っている。\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
     }
   ]
 }
