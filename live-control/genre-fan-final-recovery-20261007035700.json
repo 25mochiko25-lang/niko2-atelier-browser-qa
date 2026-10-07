@@ -1,7 +1,7 @@
 {
-  "id": "r26-research-lab",
+  "id": "r27-lab-enter",
   "op": "tap",
-  "x": 227,
-  "y": 382,
-  "note": "Research Lab promises records about this world. That sounds more intriguing than repeating the garden now, so I choose it from the visible recommendation."
+  "x": 115,
+  "y": 647,
+  "note": "The lab has a distinct workspace image. I use its visible Enter button to reach the promised records."
 }
