@@ -5,17 +5,18 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-07T04:05:38.933Z",
-  "updatedAt": "2026-10-07T04:19:42.254Z",
-  "lastCommand": "r35",
+  "updatedAt": "2026-10-07T04:20:10.715Z",
+  "lastCommand": "r36",
   "stopReason": null,
   "action": {
-    "id": "r35",
-    "op": "back",
-    "wait": 450,
-    "note": "SCROLL_INFRA: 補助操作の『作品へ移動』で香水本文ではなくHomeへ移った。客としてHomeを選んだわけではないので、通常のブラウザ戻るで結果へ戻す。"
+    "id": "r36",
+    "op": "key",
+    "key": "Shift+Tab",
+    "wait": 350,
+    "note": "SCROLL_INFRA: 結果へ戻れた。今度は逆順のTabで画面下の操作へ移る。スクロール基盤の代行だけで、サイトの操作感の採点には使わない。"
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/8d4b59cb8f358690c2d6d03e30185fe537c3598c/live-results/sloppy-mobile-recovery-20261007-0406-mofu-3c4b3187/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/de383a9038c2f37331e735ac611f178d71699567/live-results/sloppy-mobile-recovery-20261007-0406-mofu-3c4b3187/current.jpg",
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#perfume",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -624,6 +625,21 @@
       "error": null,
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#perfume",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/8d4b59cb8f358690c2d6d03e30185fe537c3598c/live-results/sloppy-mobile-recovery-20261007-0406-mofu-3c4b3187/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDREAM / PM-01\nPERFUME MORGUE\nFRAGRANCE / KEPT\nSKIN / あなたの痕跡\nF-20261007-3654\nSecond Skin\nSKIN / あなたの痕跡\nPARFUM / EXTRAIT / 最後まで残る\nTOP\n1. 甘い夢 ×1\nMIDDLE\n1. 燃えた砂糖 ×1\nLAST\n1. 古いぬいぐるみ ×1\nFORMULA / SCENT CHARACTER\n最初に甘い夢。 少し遅れて燃えた砂糖。 最後に古いぬいぐるみが残る。 密度のある長い残香へ着地する。\nDiaryに持ち帰る\nもう一度調合する\nSTEP1 かわいい笑顔に、甘い声。 STEP2 シルクのように整えた髪。 STEP3 流行りのドレスに、アクセサリー。 STEP4 仕上げに、香りをひと吹き。  これで、きっと完璧。 何度も何度も、鏡をチェックしたんだから。\nREAL WORLD ECHOES\nREAL WORLD / TRACE ONLY\nこの香りには、現実にも近い夢がある。\nいまはまだ、名前ではなく三つの手掛かりだけ。\n\nECHO / AIR\nピスタチオ\nECHO / HEART\nカプチーノ\nECHO / TRACE\nココアバター / バニラ\n"
+    },
+    {
+      "number": 37,
+      "at": "2026-10-07T04:20:10.715Z",
+      "action": {
+        "id": "r36",
+        "op": "key",
+        "key": "Shift+Tab",
+        "wait": 350,
+        "note": "SCROLL_INFRA: 結果へ戻れた。今度は逆順のTabで画面下の操作へ移る。スクロール基盤の代行だけで、サイトの操作感の採点には使わない。"
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#perfume",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/de383a9038c2f37331e735ac611f178d71699567/live-results/sloppy-mobile-recovery-20261007-0406-mofu-3c4b3187/current.jpg",
       "text": "作品へ移動\nNIKO² ATELIER\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDREAM / PM-01\nPERFUME MORGUE\nFRAGRANCE / KEPT\nSKIN / あなたの痕跡\nF-20261007-3654\nSecond Skin\nSKIN / あなたの痕跡\nPARFUM / EXTRAIT / 最後まで残る\nTOP\n1. 甘い夢 ×1\nMIDDLE\n1. 燃えた砂糖 ×1\nLAST\n1. 古いぬいぐるみ ×1\nFORMULA / SCENT CHARACTER\n最初に甘い夢。 少し遅れて燃えた砂糖。 最後に古いぬいぐるみが残る。 密度のある長い残香へ着地する。\nDiaryに持ち帰る\nもう一度調合する\nSTEP1 かわいい笑顔に、甘い声。 STEP2 シルクのように整えた髪。 STEP3 流行りのドレスに、アクセサリー。 STEP4 仕上げに、香りをひと吹き。  これで、きっと完璧。 何度も何度も、鏡をチェックしたんだから。\nREAL WORLD ECHOES\nREAL WORLD / TRACE ONLY\nこの香りには、現実にも近い夢がある。\nいまはまだ、名前ではなく三つの手掛かりだけ。\n\nECHO / AIR\nピスタチオ\nECHO / HEART\nカプチーノ\nECHO / TRACE\nココアバター / バニラ\n"
     }
   ]
