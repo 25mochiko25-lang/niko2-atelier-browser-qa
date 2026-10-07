@@ -5,19 +5,19 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-07T03:48:35.799Z",
-  "updatedAt": "2026-10-07T04:01:51.135Z",
-  "lastCommand": "26",
+  "updatedAt": "2026-10-07T04:02:19.984Z",
+  "lastCommand": "27",
   "stopReason": null,
   "action": {
-    "id": "26",
+    "id": "27",
     "op": "tap",
-    "x": 196,
-    "y": 704,
-    "note": "下の内容が見えた。今月の景色にきらきらが反映されている。探していた目的に合う残ったものを見るがあるので、それを開く。"
+    "x": 195,
+    "y": 457,
+    "note": "持ち帰った物の棚だと案内された。目的の場所だと思うので中を見る。入る確認がまた一枚挟まるのは少しもどかしい。"
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/2632185da7347c7a41bb40fa46218e284ad51f23/live-results/friend-referral-20261007-0347-mofu/current.jpg",
-  "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#diary",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/ab2ac19e0f1f69701804b0f0f103656036dd4421/live-results/friend-referral-20261007-0347-mofu/current.jpg",
+  "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#cabinet",
   "title": "NIKO² ATELIER",
   "viewport": {
     "width": 390,
@@ -28,8 +28,19 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n\n\n\nNIKO² DIARY\nDiary\n今日のことを、ひとつだけ。\n10月7日 12:58\n夢の続きが、まだ近くにあります。\n← さっきの空へ戻る\nTODAY\n今日を残す\n✦\nいまの気配\n\n静か\n\nきらきら\n\nぼんやり\n\nざわざわ\n\n甘い\n\n雨っぽい\n\n眠い\n\n何もない\nPHOTO\n写真\n選択なし\n色・モチーフ\nOPTIONAL\n言葉\nOPTIONAL\nこの端末だけに残ります\n残す\nRECENT\n少し前の自分\n\nきらきら\n10/7\n\n白い街の一片\n10/7\n2026年10月\nMONTHLY REFLECTION\n今月の景色\nよく残った気配\nきらきら\nよく残った色\n色のない紙片\nよく残ったモチーフ\n名前のないもの\nまだ記録が少ないので、傾向ではなく、残ったものをそのまま眺めています。\nもう少し見る\nARCHIVE\n前の日々をひらく\n\nWHAT REMAINED\n残ったものを見る\nアトリエへ戻る\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n持ち帰ったものは、ここに残る。\n増えるほど、棚の景色も少しずつ変わる。\n中を見る\n",
+  "text": "作品へ移動\nNIKO² ATELIER\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWHAT REMAINED\nTHE CABINET\n\n",
   "controls": [
+    {
+      "tag": "A",
+      "text": "NIKO² ATELIER",
+      "disabled": false,
+      "rect": {
+        "x": 25,
+        "y": 18,
+        "w": 124,
+        "h": 29
+      }
+    },
     {
       "tag": "BUTTON",
       "text": "音をオンにする",
@@ -43,101 +54,13 @@
     },
     {
       "tag": "BUTTON",
-      "text": "",
+      "text": "前の場所へ戻る",
       "disabled": false,
       "rect": {
-        "x": 73,
-        "y": 661,
-        "w": 54,
-        "h": 42
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "",
-      "disabled": false,
-      "rect": {
-        "x": 131,
-        "y": 661,
-        "w": 54,
-        "h": 42
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "",
-      "disabled": false,
-      "rect": {
-        "x": 189,
-        "y": 661,
-        "w": 54,
-        "h": 42
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "前日",
-      "disabled": false,
-      "rect": {
-        "x": 46,
-        "y": 711,
-        "w": 44,
-        "h": 44
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "翌日",
-      "disabled": true,
-      "rect": {
-        "x": 226,
-        "y": 711,
-        "w": 44,
-        "h": 44
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "",
-      "disabled": false,
-      "rect": {
-        "x": 37,
-        "y": 782,
-        "w": 74,
-        "h": 40
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "WHAT REMAINED\n残ったものを見る",
-      "disabled": false,
-      "rect": {
-        "x": 26,
-        "y": 672,
-        "w": 338,
-        "h": 49
-      }
-    },
-    {
-      "tag": "A",
-      "text": "アトリエへ戻る",
-      "disabled": false,
-      "rect": {
-        "x": 26,
-        "y": 733,
-        "w": 338,
-        "h": 48
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "中を見る",
-      "disabled": false,
-      "rect": {
-        "x": 135,
-        "y": 434,
-        "w": 120,
-        "h": 44
+        "x": 14,
+        "y": 88,
+        "w": 46,
+        "h": 46
       }
     }
   ],
@@ -544,6 +467,21 @@
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#diary",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/2632185da7347c7a41bb40fa46218e284ad51f23/live-results/friend-referral-20261007-0347-mofu/current.jpg",
       "text": "作品へ移動\n\n\n\nNIKO² DIARY\nDiary\n今日のことを、ひとつだけ。\n10月7日 12:58\n夢の続きが、まだ近くにあります。\n← さっきの空へ戻る\nTODAY\n今日を残す\n✦\nいまの気配\n\n静か\n\nきらきら\n\nぼんやり\n\nざわざわ\n\n甘い\n\n雨っぽい\n\n眠い\n\n何もない\nPHOTO\n写真\n選択なし\n色・モチーフ\nOPTIONAL\n言葉\nOPTIONAL\nこの端末だけに残ります\n残す\nRECENT\n少し前の自分\n\nきらきら\n10/7\n\n白い街の一片\n10/7\n2026年10月\nMONTHLY REFLECTION\n今月の景色\nよく残った気配\nきらきら\nよく残った色\n色のない紙片\nよく残ったモチーフ\n名前のないもの\nまだ記録が少ないので、傾向ではなく、残ったものをそのまま眺めています。\nもう少し見る\nARCHIVE\n前の日々をひらく\n\nWHAT REMAINED\n残ったものを見る\nアトリエへ戻る\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n持ち帰ったものは、ここに残る。\n増えるほど、棚の景色も少しずつ変わる。\n中を見る\n"
+    },
+    {
+      "number": 28,
+      "at": "2026-10-07T04:02:19.984Z",
+      "action": {
+        "id": "27",
+        "op": "tap",
+        "x": 195,
+        "y": 457,
+        "note": "持ち帰った物の棚だと案内された。目的の場所だと思うので中を見る。入る確認がまた一枚挟まるのは少しもどかしい。"
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#cabinet",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/ab2ac19e0f1f69701804b0f0f103656036dd4421/live-results/friend-referral-20261007-0347-mofu/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWHAT REMAINED\nTHE CABINET\n\n"
     }
   ]
 }
