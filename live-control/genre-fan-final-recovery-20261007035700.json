@@ -1,6 +1,7 @@
 {
-  "id": "r71-world-return-down",
-  "op": "key",
-  "key": "PageDown",
-  "note": "Go back down to the visible WORLD entrance to revisit my room and inspect the Cabinet."
+  "id": "r72-home-focus",
+  "op": "tap",
+  "x": 294,
+  "y": 694,
+  "note": "PageDown did not move the returned Home view. I tap an empty visible part of the page to focus it before trying the viewing fallback again; this is not evidence about touch scrolling."
 }
