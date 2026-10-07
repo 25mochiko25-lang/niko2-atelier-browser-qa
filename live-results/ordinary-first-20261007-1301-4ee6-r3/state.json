@@ -5,19 +5,19 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-07T04:01:41.272Z",
-  "updatedAt": "2026-10-07T04:25:21.874Z",
-  "lastCommand": "62",
+  "updatedAt": "2026-10-07T04:25:42.815Z",
+  "lastCommand": "63",
   "stopReason": null,
   "action": {
-    "id": "62",
+    "id": "63",
     "op": "tap",
-    "x": 337,
-    "y": 40,
-    "note": "黒い瓶も詩も素材も保存されたカードに入っていた。見返せることは確認できて満足したので閉じる。"
+    "x": 117,
+    "y": 79,
+    "note": "お土産と2本の香水を見返せた。他にどんな入口が並ぶのか知りたいので、上のDreamを押す。"
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/774569ed7b4eecc11a0ed78fe2d2551f3aaa5db4/live-results/ordinary-first-20261007-1301-4ee6-r3/current.jpg",
-  "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#diary",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/13c73d0d3a12f2e6959203b77b77cd1b54fe5daf/live-results/ordinary-first-20261007-1301-4ee6-r3/current.jpg",
+  "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#hotel",
   "title": "NIKO² ATELIER",
   "viewport": {
     "width": 390,
@@ -28,7 +28,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\nNIKO² ATELIER\nDream\nDiary\nAbout\n\n\n\n\nNIKO² DIARY\nDiary\n今日のことを、ひとつだけ。\n10月7日 13:24\n夢の続きが、まだ近くにあります。\n← 調香室へ戻る\nTODAY\n今日を残す\n✦\nいまの気配\n\n静か\n\nきらきら\n\nぼんやり\n\nざわざわ\n\n甘い\n\n雨っぽい\n\n眠い\n\n何もない\nPHOTO\n写真\n選択なし\n色・モチーフ\nOPTIONAL\n言葉\nOPTIONAL\nこの端末だけに残ります\n残す\nRECENT\n少し前の自分\n\nAfter 02:30\n10/7\n\nPrivate Cotton\n10/7\n\n白い街の一片\n10/7\n2026年10月\nMONTHLY REFLECTION\n今月の景色\nよく残った気配\n静かな余白\nよく残った色\n淡いパウダー色\nよく残ったモチーフ\n香水\nまだ記録が少ないので、傾向ではなく、残ったものをそのまま眺めています。\nもう少し見る\nARCHIVE\n前の日々をひらく\n\nWHAT REMAINED\n残ったものを見る\nアトリエへ戻る\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+  "text": "作品へ移動\nNIKO² ATELIER\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDREAM / ROOM 0317\nHOTEL SOMNIA\nSTAY 0 / 3\nFRONT DESK / ROOM 0317\n今夜も、同じ部屋をご用意しました。\n\n最初の三泊は、いつでもお越しいただけます。あと3泊。\n\nCHECK IN\n\n\n",
   "controls": [
     {
       "tag": "A",
@@ -36,42 +36,9 @@
       "disabled": false,
       "rect": {
         "x": 25,
-        "y": 13,
+        "y": 23,
         "w": 124,
-        "h": 44
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "Dream",
-      "disabled": false,
-      "rect": {
-        "x": 86,
-        "y": 58,
-        "w": 64,
-        "h": 44
-      }
-    },
-    {
-      "tag": "A",
-      "text": "Diary",
-      "disabled": false,
-      "rect": {
-        "x": 166,
-        "y": 58,
-        "w": 64,
-        "h": 44
-      }
-    },
-    {
-      "tag": "A",
-      "text": "About",
-      "disabled": false,
-      "rect": {
-        "x": 246,
-        "y": 58,
-        "w": 64,
-        "h": 44
+        "h": 29
       }
     },
     {
@@ -86,399 +53,25 @@
       }
     },
     {
-      "tag": "BUTTON",
-      "text": "",
+      "tag": "A",
+      "text": "アトリエへ戻る",
       "disabled": false,
       "rect": {
-        "x": 52,
-        "y": -38,
-        "w": 92,
-        "h": 39
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "",
-      "disabled": false,
-      "rect": {
-        "x": 149,
-        "y": -38,
-        "w": 92,
-        "h": 39
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "",
-      "disabled": false,
-      "rect": {
-        "x": 246,
-        "y": -38,
-        "w": 92,
-        "h": 39
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "",
-      "disabled": false,
-      "rect": {
-        "x": 52,
-        "y": 5,
-        "w": 92,
-        "h": 39
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "",
-      "disabled": false,
-      "rect": {
-        "x": 149,
-        "y": 5,
-        "w": 92,
-        "h": 39
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "",
-      "disabled": false,
-      "rect": {
-        "x": 246,
-        "y": 5,
-        "w": 92,
-        "h": 39
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "",
-      "disabled": false,
-      "rect": {
-        "x": 53,
-        "y": 57,
-        "w": 75,
+        "x": 14,
+        "y": 82,
+        "w": 40,
         "h": 40
       }
     },
     {
       "tag": "BUTTON",
-      "text": "写真の一覧を左へ",
-      "disabled": true,
-      "rect": {
-        "x": 241,
-        "y": 55,
-        "w": 44,
-        "h": 44
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "写真の一覧を右へ",
+      "text": "CHECK IN",
       "disabled": false,
       "rect": {
-        "x": 293,
-        "y": 55,
-        "w": 44,
-        "h": 44
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "自販機・選ぶ",
-      "disabled": false,
-      "rect": {
-        "x": 55,
-        "y": 111,
-        "w": 119,
-        "h": 153
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "駅ホーム・選ぶ",
-      "disabled": false,
-      "rect": {
-        "x": 159,
-        "y": 113,
-        "w": 118,
-        "h": 152
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "改札・選ぶ",
-      "disabled": false,
-      "rect": {
-        "x": 263,
-        "y": 114,
+        "x": 36,
+        "y": 708,
         "w": 116,
-        "h": 151
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "電車の窓・選ぶ",
-      "disabled": false,
-      "rect": {
-        "x": 365,
-        "y": 114,
-        "w": 118,
-        "h": 152
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "淡いラベンダー",
-      "disabled": false,
-      "rect": {
-        "x": 54,
-        "y": 52,
-        "w": 47,
-        "h": 51
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "花びらのピンク",
-      "disabled": false,
-      "rect": {
-        "x": 112,
-        "y": 52,
-        "w": 48,
-        "h": 51
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "朝の水色",
-      "disabled": false,
-      "rect": {
-        "x": 170,
-        "y": 52,
-        "w": 47,
-        "h": 51
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "真珠色",
-      "disabled": false,
-      "rect": {
-        "x": 228,
-        "y": 52,
-        "w": 48,
-        "h": 51
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "淡いミント",
-      "disabled": false,
-      "rect": {
-        "x": 286,
-        "y": 52,
-        "w": 47,
-        "h": 51
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "淡いパールブルー",
-      "disabled": false,
-      "rect": {
-        "x": 54,
-        "y": 114,
-        "w": 48,
-        "h": 51
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "",
-      "disabled": false,
-      "rect": {
-        "x": 55,
-        "y": 209,
-        "w": 51,
-        "h": 42
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "",
-      "disabled": false,
-      "rect": {
-        "x": 114,
-        "y": 209,
-        "w": 48,
-        "h": 42
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "",
-      "disabled": false,
-      "rect": {
-        "x": 171,
-        "y": 209,
-        "w": 51,
-        "h": 42
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "",
-      "disabled": false,
-      "rect": {
-        "x": 230,
-        "y": 209,
-        "w": 73,
-        "h": 42
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "",
-      "disabled": false,
-      "rect": {
-        "x": 55,
-        "y": 259,
-        "w": 115,
-        "h": 42
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "",
-      "disabled": false,
-      "rect": {
-        "x": 178,
-        "y": 259,
-        "w": 67,
-        "h": 42
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "",
-      "disabled": false,
-      "rect": {
-        "x": 253,
-        "y": 259,
-        "w": 53,
-        "h": 42
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "",
-      "disabled": false,
-      "rect": {
-        "x": 55,
-        "y": 309,
-        "w": 55,
-        "h": 42
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "",
-      "disabled": false,
-      "rect": {
-        "x": 118,
-        "y": 309,
-        "w": 55,
-        "h": 42
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "",
-      "disabled": false,
-      "rect": {
-        "x": 181,
-        "y": 309,
-        "w": 48,
-        "h": 42
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "",
-      "disabled": false,
-      "rect": {
-        "x": 237,
-        "y": 309,
-        "w": 55,
-        "h": 42
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "",
-      "disabled": false,
-      "rect": {
-        "x": 55,
-        "y": 359,
-        "w": 71,
-        "h": 42
-      }
-    },
-    {
-      "tag": "TEXTAREA",
-      "text": "ひとことだけでも、長くても。",
-      "disabled": false,
-      "rect": {
-        "x": 55,
-        "y": 78,
-        "w": 280,
-        "h": 52
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "残す",
-      "disabled": true,
-      "rect": {
-        "x": 220,
-        "y": 84,
-        "w": 128,
-        "h": 48
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "After 02:30\n10/7",
-      "disabled": false,
-      "rect": {
-        "x": 39,
-        "y": 239,
-        "w": 312,
-        "h": 168
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "Private Cotton\n10/7",
-      "disabled": false,
-      "rect": {
-        "x": 38,
-        "y": 421,
-        "w": 313,
-        "h": 170
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "白い街の一片\n10/7",
-      "disabled": false,
-      "rect": {
-        "x": 39,
-        "y": 595,
-        "w": 312,
-        "h": 168
+        "h": 46
       }
     }
   ],
@@ -1407,6 +1000,21 @@
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#diary",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/774569ed7b4eecc11a0ed78fe2d2551f3aaa5db4/live-results/ordinary-first-20261007-1301-4ee6-r3/current.jpg",
       "text": "作品へ移動\nNIKO² ATELIER\nDream\nDiary\nAbout\n\n\n\n\nNIKO² DIARY\nDiary\n今日のことを、ひとつだけ。\n10月7日 13:24\n夢の続きが、まだ近くにあります。\n← 調香室へ戻る\nTODAY\n今日を残す\n✦\nいまの気配\n\n静か\n\nきらきら\n\nぼんやり\n\nざわざわ\n\n甘い\n\n雨っぽい\n\n眠い\n\n何もない\nPHOTO\n写真\n選択なし\n色・モチーフ\nOPTIONAL\n言葉\nOPTIONAL\nこの端末だけに残ります\n残す\nRECENT\n少し前の自分\n\nAfter 02:30\n10/7\n\nPrivate Cotton\n10/7\n\n白い街の一片\n10/7\n2026年10月\nMONTHLY REFLECTION\n今月の景色\nよく残った気配\n静かな余白\nよく残った色\n淡いパウダー色\nよく残ったモチーフ\n香水\nまだ記録が少ないので、傾向ではなく、残ったものをそのまま眺めています。\nもう少し見る\nARCHIVE\n前の日々をひらく\n\nWHAT REMAINED\n残ったものを見る\nアトリエへ戻る\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+      "number": 64,
+      "at": "2026-10-07T04:25:42.814Z",
+      "action": {
+        "id": "63",
+        "op": "tap",
+        "x": 117,
+        "y": 79,
+        "note": "お土産と2本の香水を見返せた。他にどんな入口が並ぶのか知りたいので、上のDreamを押す。"
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#hotel",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/13c73d0d3a12f2e6959203b77b77cd1b54fe5daf/live-results/ordinary-first-20261007-1301-4ee6-r3/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDREAM / ROOM 0317\nHOTEL SOMNIA\nSTAY 0 / 3\nFRONT DESK / ROOM 0317\n今夜も、同じ部屋をご用意しました。\n\n最初の三泊は、いつでもお越しいただけます。あと3泊。\n\nCHECK IN\n\n\n"
     }
   ]
 }
