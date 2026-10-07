@@ -1,7 +1,7 @@
 {
-  "id": "04-touch-example",
+  "id": "05-intro-next",
   "op": "tap",
-  "x": 119,
-  "y": 537,
-  "note": "Touch, take home, and put away look like example buttons, but their relationship is not yet clear. I try Touch to see what it teaches."
+  "x": 336,
+  "y": 770,
+  "note": "Touch changed its color. That seems to be an interaction sample; I would rather reach the actual work than exhaust these examples."
 }
