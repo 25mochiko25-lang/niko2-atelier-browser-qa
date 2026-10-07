@@ -1,7 +1,7 @@
 {
-  "id": "r08-bottle",
+  "id": "r09-bear",
   "op": "tap",
-  "x": 49,
-  "y": 557,
-  "note": "Recovery: collect the visible perfume bottle."
+  "x": 367,
+  "y": 551,
+  "note": "Recovery: the same partial bear is visible at the right edge; collect it normally."
 }
