@@ -5,18 +5,18 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-07T04:05:38.933Z",
-  "updatedAt": "2026-10-07T04:18:15.527Z",
-  "lastCommand": "r32",
+  "updatedAt": "2026-10-07T04:18:46.093Z",
+  "lastCommand": "r33",
   "stopReason": null,
   "action": {
-    "id": "r32",
+    "id": "r33",
     "op": "key",
-    "key": "PageDown",
-    "wait": 450,
-    "note": "Second Skinのピンクの瓶が予想より豪華で、一本出した達成感がある。もう一本まったく違うのが出るか気になったので、結果の下の操作を見る。PageDownはスワイプ代行。"
+    "key": "Tab",
+    "wait": 350,
+    "note": "SCROLL_INFRA: 結果画面のPageDownが動かなかったので、手順書で許されたTabで下部の操作を探す。指スクロール不良と判断しない。"
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/3d215a4aba8b542cc474a350ec5ddf85b52d7f67/live-results/sloppy-mobile-recovery-20261007-0406-mofu-3c4b3187/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/41cbcbd678813ecba0fa37a49770f1cacaed410f/live-results/sloppy-mobile-recovery-20261007-0406-mofu-3c4b3187/current.jpg",
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#perfume",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -30,6 +30,17 @@
   },
   "text": "作品へ移動\nNIKO² ATELIER\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDREAM / PM-01\nPERFUME MORGUE\nFRAGRANCE / KEPT\nSKIN / あなたの痕跡\nF-20261007-3654\nSecond Skin\nSKIN / あなたの痕跡\nPARFUM / EXTRAIT / 最後まで残る\nTOP\n1. 甘い夢 ×1\nMIDDLE\n1. 燃えた砂糖 ×1\nLAST\n1. 古いぬいぐるみ ×1\nFORMULA / SCENT CHARACTER\n最初に甘い夢。 少し遅れて燃えた砂糖。 最後に古いぬいぐるみが残る。 密度のある長い残香へ着地する。\nDiaryに持ち帰る\nもう一度調合する\nSTEP1 かわいい笑顔に、甘い声。 STEP2 シルクのように整えた髪。 STEP3 流行りのドレスに、アクセサリー。 STEP4 仕上げに、香りをひと吹き。  これで、きっと完璧。 何度も何度も、鏡をチェックしたんだから。\nREAL WORLD ECHOES\nREAL WORLD / TRACE ONLY\nこの香りには、現実にも近い夢がある。\nいまはまだ、名前ではなく三つの手掛かりだけ。\n\nECHO / AIR\nピスタチオ\nECHO / HEART\nカプチーノ\nECHO / TRACE\nココアバター / バニラ\n",
   "controls": [
+    {
+      "tag": "A",
+      "text": "作品へ移動",
+      "disabled": false,
+      "rect": {
+        "x": 8,
+        "y": 8,
+        "w": 108,
+        "h": 43
+      }
+    },
     {
       "tag": "A",
       "text": "NIKO² ATELIER",
@@ -581,6 +592,21 @@
       "error": null,
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#perfume",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/3d215a4aba8b542cc474a350ec5ddf85b52d7f67/live-results/sloppy-mobile-recovery-20261007-0406-mofu-3c4b3187/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDREAM / PM-01\nPERFUME MORGUE\nFRAGRANCE / KEPT\nSKIN / あなたの痕跡\nF-20261007-3654\nSecond Skin\nSKIN / あなたの痕跡\nPARFUM / EXTRAIT / 最後まで残る\nTOP\n1. 甘い夢 ×1\nMIDDLE\n1. 燃えた砂糖 ×1\nLAST\n1. 古いぬいぐるみ ×1\nFORMULA / SCENT CHARACTER\n最初に甘い夢。 少し遅れて燃えた砂糖。 最後に古いぬいぐるみが残る。 密度のある長い残香へ着地する。\nDiaryに持ち帰る\nもう一度調合する\nSTEP1 かわいい笑顔に、甘い声。 STEP2 シルクのように整えた髪。 STEP3 流行りのドレスに、アクセサリー。 STEP4 仕上げに、香りをひと吹き。  これで、きっと完璧。 何度も何度も、鏡をチェックしたんだから。\nREAL WORLD ECHOES\nREAL WORLD / TRACE ONLY\nこの香りには、現実にも近い夢がある。\nいまはまだ、名前ではなく三つの手掛かりだけ。\n\nECHO / AIR\nピスタチオ\nECHO / HEART\nカプチーノ\nECHO / TRACE\nココアバター / バニラ\n"
+    },
+    {
+      "number": 34,
+      "at": "2026-10-07T04:18:46.093Z",
+      "action": {
+        "id": "r33",
+        "op": "key",
+        "key": "Tab",
+        "wait": 350,
+        "note": "SCROLL_INFRA: 結果画面のPageDownが動かなかったので、手順書で許されたTabで下部の操作を探す。指スクロール不良と判断しない。"
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#perfume",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/41cbcbd678813ecba0fa37a49770f1cacaed410f/live-results/sloppy-mobile-recovery-20261007-0406-mofu-3c4b3187/current.jpg",
       "text": "作品へ移動\nNIKO² ATELIER\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDREAM / PM-01\nPERFUME MORGUE\nFRAGRANCE / KEPT\nSKIN / あなたの痕跡\nF-20261007-3654\nSecond Skin\nSKIN / あなたの痕跡\nPARFUM / EXTRAIT / 最後まで残る\nTOP\n1. 甘い夢 ×1\nMIDDLE\n1. 燃えた砂糖 ×1\nLAST\n1. 古いぬいぐるみ ×1\nFORMULA / SCENT CHARACTER\n最初に甘い夢。 少し遅れて燃えた砂糖。 最後に古いぬいぐるみが残る。 密度のある長い残香へ着地する。\nDiaryに持ち帰る\nもう一度調合する\nSTEP1 かわいい笑顔に、甘い声。 STEP2 シルクのように整えた髪。 STEP3 流行りのドレスに、アクセサリー。 STEP4 仕上げに、香りをひと吹き。  これで、きっと完璧。 何度も何度も、鏡をチェックしたんだから。\nREAL WORLD ECHOES\nREAL WORLD / TRACE ONLY\nこの香りには、現実にも近い夢がある。\nいまはまだ、名前ではなく三つの手掛かりだけ。\n\nECHO / AIR\nピスタチオ\nECHO / HEART\nカプチーノ\nECHO / TRACE\nココアバター / バニラ\n"
     }
   ]
