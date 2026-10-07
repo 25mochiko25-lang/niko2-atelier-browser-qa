@@ -1,7 +1,5 @@
 {
-  "id": "08",
-  "op": "tap",
-  "x": 47,
-  "y": 552,
-  "note": "再入場：香水瓶を触る。"
+  "id": "infrastructure-end",
+  "op": "stop",
+  "reason": "Infrastructure interruption: observer process exited on GitHub 409 during evidence publication. No voluntary visitor departure; interest in the gate beyond the garden remains. Do not label this run a completed visitor evaluation."
 }
