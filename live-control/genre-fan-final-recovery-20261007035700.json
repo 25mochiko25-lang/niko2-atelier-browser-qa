@@ -1,6 +1,6 @@
 {
-  "id": "r80-diary-lower-route",
+  "id": "r81-diary-further-down",
   "op": "key",
   "key": "PageDown",
-  "note": "Look lower in Diary for the saved objects and any route onward."
+  "note": "The diary scrolls and both souvenirs survived the reload. Continue below the recent cards to inspect what else the diary offers."
 }
