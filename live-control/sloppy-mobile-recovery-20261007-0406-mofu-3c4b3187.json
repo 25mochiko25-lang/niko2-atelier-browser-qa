@@ -1,7 +1,7 @@
 {
-  "id": "r37",
+  "id": "r38",
   "op": "key",
   "key": "Tab",
   "wait": 350,
-  "note": "SCROLL_INFRA: 音ボタンにフォーカスがあるので、次の通常操作へTabで移る。"
+  "note": "SCROLL_INFRA: 戻る矢印の次の操作へ移り、結果の下部を表示する。"
 }
