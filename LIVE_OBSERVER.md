@@ -4,7 +4,11 @@ Use this mode for visitor reactions. `qa/visitor.mjs` remains a synthetic diagno
 
 ## No interaction-count cutoff
 
-Create `live-requests/<unique-session>.json` containing `session`, the approved public `target`, and `mode: "observer-driven"`. The separate `live-observer.yml` workflow starts a fresh 390x844 touch-enabled WebKit context and keeps it alive between observations. There is no 18/30-step cutoff.
+Create `live-requests/<unique-session>.json` containing `session`, the approved public `target`, and `mode: "observer-driven"`. The separate `live-observer.yml` workflow starts a fresh WebKit context and keeps it alive between observations. There is no 18/30-step cutoff.
+
+Default is the existing mobile profile: 390x844, mobile=true, touch=true.
+
+For a desktop check, add `"device": "desktop"` to the request. Desktop uses 1440x900, mobile=false, touch=false in the same WebKit observer. The same `tap` command works in both modes; the harness uses touch on mobile and mouse click on desktop.
 
 Read `live-results/<session>/state.json`, then view the image at its `screenshotUrl`. This is an actual screenshot, not a screenshot the Founder must supply. The URL is pinned to the image commit, avoiding stale screenshots.
 
@@ -26,6 +30,6 @@ Stop explicitly:
 
 A five-second voluntary departure is valid. A longer visit is valid. Completion of all maps is not required. Record a concrete reason, not a post-hoc excuse for a cap.
 
-Safety guards remain: 20 minutes without an observer command and the workflow's 90-minute runtime guard. These are infrastructure interruptions and must never be reported as boredom or a completed visitor evaluation. WebKit mobile emulation is not physical iPhone testing. Screenshots do not establish audio or frame-by-frame animation quality.
+Safety guards remain: 20 minutes without an observer command and the workflow's 90-minute runtime guard. These are infrastructure interruptions and must never be reported as boredom or a completed visitor evaluation. WebKit mobile emulation is not physical iPhone testing. Desktop WebKit is a viewport/input comparison, not proof of every desktop browser. Screenshots do not establish audio or frame-by-frame animation quality.
 
 Read only your own session before forming the first-time report. Keep ordinary reactions first, then clear failures, then uncertain friction. Distinguish actual observed behavior from your interpretation. This mode does not write to the product repository or deploy the site.
