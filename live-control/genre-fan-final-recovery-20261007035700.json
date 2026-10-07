@@ -1,7 +1,7 @@
 {
-  "id": "r27-lab-enter",
+  "id": "r28-lab-red-book",
   "op": "tap",
-  "x": 115,
-  "y": 647,
-  "note": "The lab has a distinct workspace image. I use its visible Enter button to reach the promised records."
+  "x": 99,
+  "y": 558,
+  "note": "The large red notebook on the observation table is the clearest object to inspect. I tap it to read."
 }
