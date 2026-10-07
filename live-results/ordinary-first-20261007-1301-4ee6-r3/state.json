@@ -5,18 +5,16 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-07T04:01:41.272Z",
-  "updatedAt": "2026-10-07T04:30:43.244Z",
-  "lastCommand": "75",
-  "stopReason": null,
+  "updatedAt": "2026-10-07T04:31:08.878Z",
+  "lastCommand": "end",
+  "stopReason": "庭を最後まで見てタイルを持ち帰り、香水を2本作って違いを読み、ホテルで二品のルームサービスと前の香水が現れる体験を楽しんだ。Diaryで四つの記録が残っているのを見返して、一回の訪問として満足した。今はさらに別の夢や三本目の香水を増やしたいほどではないので、この一覧を見たところで自分から帰る。接続環境の制限や操作回数上限による終了ではない。",
   "action": {
-    "id": "75",
-    "op": "tap",
-    "x": 337,
-    "y": 77,
-    "note": "ホテルの記録に部屋の写真とTea for Nobody・Yesterdayが残っていた。庭、香水2本、ホテルを楽しみ、見返せるものも揃ったので今日は一区切りにしたい。記録を閉じてDiaryの一覧で帰る。"
+    "id": "end",
+    "op": "stop",
+    "reason": "庭を最後まで見てタイルを持ち帰り、香水を2本作って違いを読み、ホテルで二品のルームサービスと前の香水が現れる体験を楽しんだ。Diaryで四つの記録が残っているのを見返して、一回の訪問として満足した。今はさらに別の夢や三本目の香水を増やしたいほどではないので、この一覧を見たところで自分から帰る。接続環境の制限や操作回数上限による終了ではない。"
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/73b7a7527daf67bdf0b6a3c399f56b0f2c2a1a58/live-results/ordinary-first-20261007-1301-4ee6-r3/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/d96920aa01a5fe1af16476cb3a396a20ab33c5ca/live-results/ordinary-first-20261007-1301-4ee6-r3/current.jpg",
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#diary",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -1541,6 +1539,19 @@
       "error": null,
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#diary",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/73b7a7527daf67bdf0b6a3c399f56b0f2c2a1a58/live-results/ordinary-first-20261007-1301-4ee6-r3/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\nDream\nDiary\nAbout\n\n\n\n\nNIKO² DIARY\nDiary\n今日のことを、ひとつだけ。\n10月7日 13:29\nTODAY\n今日を残す\n✦\nいまの気配\n\n静か\n\nきらきら\n\nぼんやり\n\nざわざわ\n\n甘い\n\n雨っぽい\n\n眠い\n\n何もない\nPHOTO\n写真\n選択なし\n色・モチーフ\nOPTIONAL\n言葉\nOPTIONAL\nこの端末だけに残ります\n残す\nRECENT\n少し前の自分\n\nROOM 0317 / NIGHT\n10/7\n\nAfter 02:30\n10/7\n\nPrivate Cotton\n10/7\n\n白い街の一片\n10/7\n2026年10月\nMONTHLY REFLECTION\n今月の景色\nよく残った気配\n静か\nよく残った色\n淡いパウダー色\nよく残ったモチーフ\n香水\n言葉のない記録も、色やモチーフ、Dreamの断片として残っています。\nもう少し見る\nARCHIVE\n前の日々をひらく\n\nWHAT REMAINED\n残ったものを見る\nアトリエへ戻る\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+      "number": 77,
+      "at": "2026-10-07T04:31:08.878Z",
+      "action": {
+        "id": "end",
+        "op": "stop",
+        "reason": "庭を最後まで見てタイルを持ち帰り、香水を2本作って違いを読み、ホテルで二品のルームサービスと前の香水が現れる体験を楽しんだ。Diaryで四つの記録が残っているのを見返して、一回の訪問として満足した。今はさらに別の夢や三本目の香水を増やしたいほどではないので、この一覧を見たところで自分から帰る。接続環境の制限や操作回数上限による終了ではない。"
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#diary",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/d96920aa01a5fe1af16476cb3a396a20ab33c5ca/live-results/ordinary-first-20261007-1301-4ee6-r3/current.jpg",
       "text": "作品へ移動\nNIKO² ATELIER\nDream\nDiary\nAbout\n\n\n\n\nNIKO² DIARY\nDiary\n今日のことを、ひとつだけ。\n10月7日 13:29\nTODAY\n今日を残す\n✦\nいまの気配\n\n静か\n\nきらきら\n\nぼんやり\n\nざわざわ\n\n甘い\n\n雨っぽい\n\n眠い\n\n何もない\nPHOTO\n写真\n選択なし\n色・モチーフ\nOPTIONAL\n言葉\nOPTIONAL\nこの端末だけに残ります\n残す\nRECENT\n少し前の自分\n\nROOM 0317 / NIGHT\n10/7\n\nAfter 02:30\n10/7\n\nPrivate Cotton\n10/7\n\n白い街の一片\n10/7\n2026年10月\nMONTHLY REFLECTION\n今月の景色\nよく残った気配\n静か\nよく残った色\n淡いパウダー色\nよく残ったモチーフ\n香水\n言葉のない記録も、色やモチーフ、Dreamの断片として残っています。\nもう少し見る\nARCHIVE\n前の日々をひらく\n\nWHAT REMAINED\n残ったものを見る\nアトリエへ戻る\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
     }
   ]
