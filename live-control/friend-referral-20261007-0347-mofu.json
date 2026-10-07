@@ -1,6 +1,6 @@
 {
-  "id": "24",
+  "id": "25",
   "op": "key",
   "key": "Shift+Tab",
-  "note": "Infrastructure fallback: Tab focused the first skip link at the top. Reverse-Tab once to inspect the page-end focus target. The visitor still wants the saved entries; this is not a finger-swipe test."
+  "note": "Infrastructure fallback: reverse-Tab once more after leaving the first focus target, to reach page-end content if supported. Stop this recovery path if it still gives no lower content."
 }
