@@ -1,7 +1,6 @@
 {
-  "id": "33",
-  "op": "tap",
-  "x": 282,
-  "y": 460,
-  "note": "Use the visible '花' for LAST after the harness could not swipe to lower ingredients."
+  "id": "34",
+  "op": "key",
+  "key": "PageDown",
+  "note": "Use keyboard PageDown only to inspect the lower part of the long mixer because wheel is unsupported by the QA harness."
 }
