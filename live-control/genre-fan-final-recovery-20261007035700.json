@@ -1,5 +1,6 @@
 {
-  "id": "r70-leave-second-garden",
-  "op": "back",
-  "note": "Voluntary departure from the second garden at 1/5: I have seen the collection pattern, and two conspicuous features produced no new fragment. I am more curious about how my souvenirs affect the room than completing another hunt."
+  "id": "r71-world-return-down",
+  "op": "key",
+  "key": "PageDown",
+  "note": "Go back down to the visible WORLD entrance to revisit my room and inspect the Cabinet."
 }
