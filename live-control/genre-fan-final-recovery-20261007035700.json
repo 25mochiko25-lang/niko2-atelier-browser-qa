@@ -1,6 +1,5 @@
 {
-  "id": "r73-world-page-down",
-  "op": "key",
-  "key": "PageDown",
-  "note": "Retry the documented PageDown viewing fallback after focusing the visible Home page."
+  "id": "r74-reload-home",
+  "op": "reload",
+  "note": "After browser Back, PageDown no longer moves Home even after focusing empty space. Finger scrolling is unavailable in this harness, so the cause is uncertain. I reload the visible Home page once to continue viewing."
 }
