@@ -1,6 +1,6 @@
 {
-  "id": "34",
+  "id": "35",
   "op": "key",
   "key": "PageDown",
-  "note": "Use keyboard PageDown only to inspect the lower part of the long mixer because wheel is unsupported by the QA harness."
+  "note": "Continue down the mixer to concentration and finalize controls."
 }
