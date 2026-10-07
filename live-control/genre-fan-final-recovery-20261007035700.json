@@ -1,0 +1,7 @@
+{
+  "id": "r01-enter",
+  "op": "tap",
+  "x": 196,
+  "y": 529,
+  "note": "Fresh recovery session after the observer publishing failure. Re-entering already-seen entrance through visible controls; this is not a second first impression."
+}
