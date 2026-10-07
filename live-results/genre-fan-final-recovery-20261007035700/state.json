@@ -5,18 +5,18 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-07T03:57:39.491Z",
-  "updatedAt": "2026-10-07T04:15:50.500Z",
-  "lastCommand": "r42-warm-door",
+  "updatedAt": "2026-10-07T04:16:22.558Z",
+  "lastCommand": "r43-view-room",
   "stopReason": null,
   "action": {
-    "id": "r42-warm-door",
+    "id": "r43-view-room",
     "op": "tap",
-    "x": 326,
-    "y": 409,
-    "note": "The warm room inside the right-hand arched door contrasts with the cold hall and looks habitable. I choose that visible door."
+    "x": 195,
+    "y": 475,
+    "note": "A room that remembers me and grows from what remains is a stronger promise than another static scene. I dismiss the brief introduction and look at its objects."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/3a96f9929592a082460aec59fd586d47a003334b/live-results/genre-fan-final-recovery-20261007035700/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/b296c917d76387e85fbba8b4b72ed4306141da4c/live-results/genre-fan-final-recovery-20261007035700/current.jpg",
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#room0",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -28,7 +28,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\nNIKO² ATELIER\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \nWORLD / RN-00\nROOM NULL\na room that remembers you.\nRN-00\nこの部屋では、気になるものに触れられます。\n\nPC、Cabinet、Diary。残ったものから、部屋は少しずつ育ちます。\n部屋を見る\n\n\n\n\n\n",
+  "text": "作品へ移動\nNIKO² ATELIER\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \nWORLD / RN-00\nROOM NULL\na room that remembers you.\nRN-00\n\n\n\n\n\n\n",
   "controls": [
     {
       "tag": "A",
@@ -65,13 +65,35 @@
     },
     {
       "tag": "BUTTON",
-      "text": "部屋を見る",
+      "text": "CHANNEL 00を開く",
       "disabled": false,
       "rect": {
-        "x": 124,
-        "y": 452,
-        "w": 142,
-        "h": 46
+        "x": 14,
+        "y": 317,
+        "w": 156,
+        "h": 139
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Cabinetを開く",
+      "disabled": false,
+      "rect": {
+        "x": 261,
+        "y": 203,
+        "w": 125,
+        "h": 219
+      }
+    },
+    {
+      "tag": "A",
+      "text": "Diaryを開く",
+      "disabled": false,
+      "rect": {
+        "x": 176,
+        "y": 540,
+        "w": 187,
+        "h": 211
       }
     }
   ],
@@ -715,6 +737,21 @@
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#room0",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/3a96f9929592a082460aec59fd586d47a003334b/live-results/genre-fan-final-recovery-20261007035700/current.jpg",
       "text": "作品へ移動\nNIKO² ATELIER\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \nWORLD / RN-00\nROOM NULL\na room that remembers you.\nRN-00\nこの部屋では、気になるものに触れられます。\n\nPC、Cabinet、Diary。残ったものから、部屋は少しずつ育ちます。\n部屋を見る\n\n\n\n\n\n"
+    },
+    {
+      "number": 44,
+      "at": "2026-10-07T04:16:22.558Z",
+      "action": {
+        "id": "r43-view-room",
+        "op": "tap",
+        "x": 195,
+        "y": 475,
+        "note": "A room that remembers me and grows from what remains is a stronger promise than another static scene. I dismiss the brief introduction and look at its objects."
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#room0",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/b296c917d76387e85fbba8b4b72ed4306141da4c/live-results/genre-fan-final-recovery-20261007035700/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n \nWORLD / RN-00\nROOM NULL\na room that remembers you.\nRN-00\n\n\n\n\n\n\n"
     }
   ]
 }
