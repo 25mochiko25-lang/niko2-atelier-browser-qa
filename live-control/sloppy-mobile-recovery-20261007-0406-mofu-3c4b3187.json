@@ -1,8 +1,8 @@
 {
-  "id": "r15",
+  "id": "r16",
   "op": "tap",
-  "x": 196,
-  "y": 649,
+  "x": 74,
+  "y": 78,
   "wait": 400,
-  "note": "INFRA_RECOVERY: 新規ブラウザ側のタイルをDiaryへ持ち帰ってから、部屋の到達地点へ戻る。"
+  "note": "INFRA_RECOVERY: 日記のHomeで前の到達地点へ向かう。"
 }
