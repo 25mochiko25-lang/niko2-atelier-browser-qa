@@ -10,10 +10,12 @@ if (!/^[a-z0-9-]+$/.test(session)) throw new Error('Invalid session ID');
 const target = new URL(config.target);
 if (target.protocol !== 'https:' || !['niko2-atelier-combined-preview.25mochiko25.workers.dev','niko2atelier.com'].includes(target.hostname)) throw new Error('Unapproved target');
 const device = config.device || 'mobile';
-if (!['mobile','desktop'].includes(device)) throw new Error('Unsupported device profile');
+if (!['mobile','founder','desktop'].includes(device)) throw new Error('Unsupported device profile');
 const profile = device === 'desktop'
   ? { viewport:{width:1440,height:900}, isMobile:false, hasTouch:false }
-  : { viewport:{width:390,height:844}, isMobile:true, hasTouch:true };
+  : device === 'founder'
+    ? { viewport:{width:430,height:932}, isMobile:true, hasTouch:true }
+    : { viewport:{width:390,height:844}, isMobile:true, hasTouch:true };
 
 const controlPath = `live-control/${session}.json`;
 const root = `live-results/${session}`;
