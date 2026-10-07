@@ -5,17 +5,18 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-07T04:01:41.272Z",
-  "updatedAt": "2026-10-07T04:10:01.638Z",
-  "lastCommand": "21",
+  "updatedAt": "2026-10-07T04:10:21.791Z",
+  "lastCommand": "22",
   "stopReason": null,
   "action": {
-    "id": "21",
-    "op": "key",
-    "key": "PageDown",
-    "note": "Diaryに来たが、最初に見えるのは『今日を残す』入力欄。持ち帰った景色やタイルがどこに並ぶのか見たいので下の内容を探す。接続契約で案内されたPageDownを使用し、指スワイプ検証とはしない。"
+    "id": "22",
+    "op": "tap",
+    "x": 193,
+    "y": 323,
+    "note": "下に『少し前の自分』と『白い街の一片』のカードがあった。さっきの景色が保存されているようなので開いて、中身やタイルを見てみる。"
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/f75351df16736401d53c27807817890f03c1cce2/live-results/ordinary-first-20261007-1301-4ee6-r3/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/bbd20cb734ffd19d7737fb19d7c5426cf5ccaf63/live-results/ordinary-first-20261007-1301-4ee6-r3/current.jpg",
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#diary",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -27,7 +28,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\nNIKO² ATELIER\nHome\n\n\n\n\nNIKO² DIARY\nDiary\n今日のことを、ひとつだけ。\n10月7日 13:09\n持ち帰った夢が、まだ手元にあります。\n← さっきの空へ戻る\nTODAY\n今日を残す\n✦\nいまの気配\n\n静か\n\nきらきら\n\nぼんやり\n\nざわざわ\n\n甘い\n\n雨っぽい\n\n眠い\n\n何もない\nPHOTO\n写真\n選択なし\n色・モチーフ\nOPTIONAL\n言葉\nOPTIONAL\nこの端末だけに残ります\n残す\nRECENT\n少し前の自分\n\n白い街の一片\n10/7\n2026年10月\nMONTHLY REFLECTION\n今月の景色\nよく残った気配\n静かな余白\nよく残った色\n色のない紙片\nよく残ったモチーフ\n名前のないもの\nまだ記録が少ないので、傾向ではなく、残ったものをそのまま眺めています。\nもう少し見る\nARCHIVE\n前の日々をひらく\n\nWHAT REMAINED\n残ったものを見る\nアトリエへ戻る\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+  "text": "作品へ移動\nNIKO² ATELIER\nHome\n\n\n\n\nNIKO² DIARY\nDiary\n今日のことを、ひとつだけ。\n10月7日 13:09\n持ち帰った夢が、まだ手元にあります。\n← さっきの空へ戻る\nTODAY\n今日を残す\n✦\nいまの気配\n\n静か\n\nきらきら\n\nぼんやり\n\nざわざわ\n\n甘い\n\n雨っぽい\n\n眠い\n\n何もない\nPHOTO\n写真\n選択なし\n色・モチーフ\nOPTIONAL\n言葉\nOPTIONAL\nこの端末だけに残ります\n残す\nRECENT\n少し前の自分\n\n白い街の一片\n10/7\n2026年10月\nMONTHLY REFLECTION\n今月の景色\nよく残った気配\n静かな余白\nよく残った色\n色のない紙片\nよく残ったモチーフ\n名前のないもの\nまだ記録が少ないので、傾向ではなく、残ったものをそのまま眺めています。\nもう少し見る\nARCHIVE\n前の日々をひらく\n\nWHAT REMAINED\n残ったものを見る\nアトリエへ戻る\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDREAM MEMORY\n2026年10月7日 13:07\n白い街の一片\n\n\nWORLD MEMORY\n\nTHING THAT REMAINED\nCloud Garden · 午後 · 晴れと柔らかい雲 · 白い街の一片\n言葉を添える\n",
   "controls": [
     {
       "tag": "A",
@@ -435,6 +436,28 @@
         "w": 313,
         "h": 170
       }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "記録を閉じる",
+      "disabled": false,
+      "rect": {
+        "x": 315,
+        "y": 76,
+        "w": 44,
+        "h": 44
+      }
+    },
+    {
+      "tag": "TEXTAREA",
+      "text": "",
+      "disabled": false,
+      "rect": {
+        "x": 36,
+        "y": 791,
+        "w": 318,
+        "h": 123
+      }
     }
   ],
   "pageErrors": [],
@@ -760,6 +783,21 @@
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#diary",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/f75351df16736401d53c27807817890f03c1cce2/live-results/ordinary-first-20261007-1301-4ee6-r3/current.jpg",
       "text": "作品へ移動\nNIKO² ATELIER\nHome\n\n\n\n\nNIKO² DIARY\nDiary\n今日のことを、ひとつだけ。\n10月7日 13:09\n持ち帰った夢が、まだ手元にあります。\n← さっきの空へ戻る\nTODAY\n今日を残す\n✦\nいまの気配\n\n静か\n\nきらきら\n\nぼんやり\n\nざわざわ\n\n甘い\n\n雨っぽい\n\n眠い\n\n何もない\nPHOTO\n写真\n選択なし\n色・モチーフ\nOPTIONAL\n言葉\nOPTIONAL\nこの端末だけに残ります\n残す\nRECENT\n少し前の自分\n\n白い街の一片\n10/7\n2026年10月\nMONTHLY REFLECTION\n今月の景色\nよく残った気配\n静かな余白\nよく残った色\n色のない紙片\nよく残ったモチーフ\n名前のないもの\nまだ記録が少ないので、傾向ではなく、残ったものをそのまま眺めています。\nもう少し見る\nARCHIVE\n前の日々をひらく\n\nWHAT REMAINED\n残ったものを見る\nアトリエへ戻る\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+      "number": 23,
+      "at": "2026-10-07T04:10:21.791Z",
+      "action": {
+        "id": "22",
+        "op": "tap",
+        "x": 193,
+        "y": 323,
+        "note": "下に『少し前の自分』と『白い街の一片』のカードがあった。さっきの景色が保存されているようなので開いて、中身やタイルを見てみる。"
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#diary",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/bbd20cb734ffd19d7737fb19d7c5426cf5ccaf63/live-results/ordinary-first-20261007-1301-4ee6-r3/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\nHome\n\n\n\n\nNIKO² DIARY\nDiary\n今日のことを、ひとつだけ。\n10月7日 13:09\n持ち帰った夢が、まだ手元にあります。\n← さっきの空へ戻る\nTODAY\n今日を残す\n✦\nいまの気配\n\n静か\n\nきらきら\n\nぼんやり\n\nざわざわ\n\n甘い\n\n雨っぽい\n\n眠い\n\n何もない\nPHOTO\n写真\n選択なし\n色・モチーフ\nOPTIONAL\n言葉\nOPTIONAL\nこの端末だけに残ります\n残す\nRECENT\n少し前の自分\n\n白い街の一片\n10/7\n2026年10月\nMONTHLY REFLECTION\n今月の景色\nよく残った気配\n静かな余白\nよく残った色\n色のない紙片\nよく残ったモチーフ\n名前のないもの\nまだ記録が少ないので、傾向ではなく、残ったものをそのまま眺めています。\nもう少し見る\nARCHIVE\n前の日々をひらく\n\nWHAT REMAINED\n残ったものを見る\nアトリエへ戻る\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDREAM MEMORY\n2026年10月7日 13:07\n白い街の一片\n\n\nWORLD MEMORY\n\nTHING THAT REMAINED\nCloud Garden · 午後 · 晴れと柔らかい雲 · 白い街の一片\n言葉を添える\n"
     }
   ]
 }
