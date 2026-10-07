@@ -1,7 +1,6 @@
 {
-  "id": "r77-skip-to-work",
-  "op": "tap",
-  "x": 59,
-  "y": 28,
-  "note": "Tab exposes a visible Skip to work link. I use that normal accessibility link to move focus into the page content."
+  "id": "r78-page-content-down",
+  "op": "key",
+  "key": "PageDown",
+  "note": "After moving focus with the visible skip link, try the page-content PageDown fallback. If it remains unavailable, use a different visible route rather than interpreting it as visitor boredom."
 }
