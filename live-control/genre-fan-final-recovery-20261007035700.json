@@ -1,7 +1,7 @@
 {
-  "id": "r64-leave-hotel",
+  "id": "r65-enter-another-dream",
   "op": "tap",
-  "x": 32,
-  "y": 102,
-  "note": "Dream returned me to the hotel instead of showing destinations. That was not what I expected from the label. I use the visible back arrow to return to the atelier."
+  "x": 195,
+  "y": 530,
+  "note": "I try Enter the dream from Home to see whether it offers a new dream after finishing the first garden and hotel stay."
 }
