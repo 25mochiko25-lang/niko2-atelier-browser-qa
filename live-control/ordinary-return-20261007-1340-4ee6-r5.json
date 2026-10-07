@@ -1,0 +1,5 @@
+{
+  "id": "infra-stop",
+  "op": "stop",
+  "reason": "Infrastructure interruption: the previous observer failed with GitHub 403 API rate limit exceeded for installation. This request had already been queued before the error type was inspected. Stop this observer to avoid repeated requests against the rate limit. This is not a visitor boredom or satisfaction stop."
+}
