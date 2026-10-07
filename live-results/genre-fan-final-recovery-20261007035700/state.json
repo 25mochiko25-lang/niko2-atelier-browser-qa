@@ -5,17 +5,18 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-07T03:57:39.491Z",
-  "updatedAt": "2026-10-07T04:35:04.526Z",
-  "lastCommand": "r81-diary-further-down",
+  "updatedAt": "2026-10-07T04:35:31.343Z",
+  "lastCommand": "r82-what-remained",
   "stopReason": null,
   "action": {
-    "id": "r81-diary-further-down",
-    "op": "key",
-    "key": "PageDown",
-    "note": "The diary scrolls and both souvenirs survived the reload. Continue below the recent cards to inspect what else the diary offers."
+    "id": "r82-what-remained",
+    "op": "tap",
+    "x": 193,
+    "y": 732,
+    "note": "At the bottom I find 'View what remained'. This looks like the collection view I wanted, so I open it."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/4bd49ecac33ff28d5dbd312b28d6ef8de359f7fa/live-results/genre-fan-final-recovery-20261007035700/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/1a7900530bf2b1101bc405c329bc027e463c8fba/live-results/genre-fan-final-recovery-20261007035700/current.jpg",
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#diary",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -27,52 +28,8 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\nNIKO² ATELIER\nDream\nDiary\nAbout\n\n\n\n\nNIKO² DIARY\nDiary\n今日のことを、ひとつだけ。\n10月7日 13:34\nTODAY\n今日を残す\n✦\nいまの気配\n\n静か\n\nきらきら\n\nぼんやり\n\nざわざわ\n\n甘い\n\n雨っぽい\n\n眠い\n\n何もない\nPHOTO\n写真\n選択なし\n色・モチーフ\nOPTIONAL\n言葉\nOPTIONAL\nこの端末だけに残ります\n残す\nRECENT\n少し前の自分\n\nROOM 000 / KEY\n10/7\n\n帰る花弁\n10/7\n2026年10月\nMONTHLY REFLECTION\n今月の景色\nよく残った気配\n静か\nよく残った色\n色のない紙片\nよく残ったモチーフ\nROOM 000\nまだ記録が少ないので、傾向ではなく、残ったものをそのまま眺めています。\nもう少し見る\nARCHIVE\n前の日々をひらく\n\nWHAT REMAINED\n残ったものを見る\nアトリエへ戻る\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+  "text": "作品へ移動\n\n\n\nNIKO² DIARY\nDiary\n今日のことを、ひとつだけ。\n10月7日 13:34\nTODAY\n今日を残す\n✦\nいまの気配\n\n静か\n\nきらきら\n\nぼんやり\n\nざわざわ\n\n甘い\n\n雨っぽい\n\n眠い\n\n何もない\nPHOTO\n写真\n選択なし\n色・モチーフ\nOPTIONAL\n言葉\nOPTIONAL\nこの端末だけに残ります\n残す\nRECENT\n少し前の自分\n\nROOM 000 / KEY\n10/7\n\n帰る花弁\n10/7\n2026年10月\nMONTHLY REFLECTION\n今月の景色\nよく残った気配\n静か\nよく残った色\n色のない紙片\nよく残ったモチーフ\nROOM 000\nまだ記録が少ないので、傾向ではなく、残ったものをそのまま眺めています。\nもう少し見る\nARCHIVE\n前の日々をひらく\n\nWHAT REMAINED\n残ったものを見る\nアトリエへ戻る\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n持ち帰ったものは、ここに残る。\n増えるほど、棚の景色も少しずつ変わる。\n中を見る\n",
   "controls": [
-    {
-      "tag": "A",
-      "text": "NIKO² ATELIER",
-      "disabled": false,
-      "rect": {
-        "x": 25,
-        "y": 13,
-        "w": 124,
-        "h": 44
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "Dream",
-      "disabled": false,
-      "rect": {
-        "x": 86,
-        "y": 58,
-        "w": 64,
-        "h": 44
-      }
-    },
-    {
-      "tag": "A",
-      "text": "Diary",
-      "disabled": false,
-      "rect": {
-        "x": 166,
-        "y": 58,
-        "w": 64,
-        "h": 44
-      }
-    },
-    {
-      "tag": "A",
-      "text": "About",
-      "disabled": false,
-      "rect": {
-        "x": 246,
-        "y": 58,
-        "w": 64,
-        "h": 44
-      }
-    },
     {
       "tag": "BUTTON",
       "text": "音をオンにする",
@@ -170,6 +127,17 @@
         "y": 760,
         "w": 338,
         "h": 48
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "中を見る",
+      "disabled": false,
+      "rect": {
+        "x": 135,
+        "y": 434,
+        "w": 120,
+        "h": 44
       }
     }
   ],
@@ -1386,6 +1354,21 @@
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#diary",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/4bd49ecac33ff28d5dbd312b28d6ef8de359f7fa/live-results/genre-fan-final-recovery-20261007035700/current.jpg",
       "text": "作品へ移動\nNIKO² ATELIER\nDream\nDiary\nAbout\n\n\n\n\nNIKO² DIARY\nDiary\n今日のことを、ひとつだけ。\n10月7日 13:34\nTODAY\n今日を残す\n✦\nいまの気配\n\n静か\n\nきらきら\n\nぼんやり\n\nざわざわ\n\n甘い\n\n雨っぽい\n\n眠い\n\n何もない\nPHOTO\n写真\n選択なし\n色・モチーフ\nOPTIONAL\n言葉\nOPTIONAL\nこの端末だけに残ります\n残す\nRECENT\n少し前の自分\n\nROOM 000 / KEY\n10/7\n\n帰る花弁\n10/7\n2026年10月\nMONTHLY REFLECTION\n今月の景色\nよく残った気配\n静か\nよく残った色\n色のない紙片\nよく残ったモチーフ\nROOM 000\nまだ記録が少ないので、傾向ではなく、残ったものをそのまま眺めています。\nもう少し見る\nARCHIVE\n前の日々をひらく\n\nWHAT REMAINED\n残ったものを見る\nアトリエへ戻る\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+      "number": 83,
+      "at": "2026-10-07T04:35:31.343Z",
+      "action": {
+        "id": "r82-what-remained",
+        "op": "tap",
+        "x": 193,
+        "y": 732,
+        "note": "At the bottom I find 'View what remained'. This looks like the collection view I wanted, so I open it."
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#diary",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/1a7900530bf2b1101bc405c329bc027e463c8fba/live-results/genre-fan-final-recovery-20261007035700/current.jpg",
+      "text": "作品へ移動\n\n\n\nNIKO² DIARY\nDiary\n今日のことを、ひとつだけ。\n10月7日 13:34\nTODAY\n今日を残す\n✦\nいまの気配\n\n静か\n\nきらきら\n\nぼんやり\n\nざわざわ\n\n甘い\n\n雨っぽい\n\n眠い\n\n何もない\nPHOTO\n写真\n選択なし\n色・モチーフ\nOPTIONAL\n言葉\nOPTIONAL\nこの端末だけに残ります\n残す\nRECENT\n少し前の自分\n\nROOM 000 / KEY\n10/7\n\n帰る花弁\n10/7\n2026年10月\nMONTHLY REFLECTION\n今月の景色\nよく残った気配\n静か\nよく残った色\n色のない紙片\nよく残ったモチーフ\nROOM 000\nまだ記録が少ないので、傾向ではなく、残ったものをそのまま眺めています。\nもう少し見る\nARCHIVE\n前の日々をひらく\n\nWHAT REMAINED\n残ったものを見る\nアトリエへ戻る\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n持ち帰ったものは、ここに残る。\n増えるほど、棚の景色も少しずつ変わる。\n中を見る\n"
     }
   ]
 }
