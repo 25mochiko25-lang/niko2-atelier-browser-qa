@@ -1,7 +1,9 @@
 {
-  "id": "r18-save-petal-diary",
-  "op": "tap",
-  "x": 196,
-  "y": 743,
-  "note": "My note is visible in the field. I press Diaryへ持ち帰る to keep the scene and petal."
+  "id": "r19-diary-scroll",
+  "op": "scroll",
+  "x": 347,
+  "y": 691,
+  "dx": 0,
+  "dy": 612,
+  "note": "I want to see the souvenir that was just saved, rather than start another diary entry, so I move down the visible diary page."
 }
