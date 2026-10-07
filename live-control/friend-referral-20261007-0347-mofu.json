@@ -1,6 +1,6 @@
 {
-  "id": "22",
+  "id": "23",
   "op": "key",
-  "key": "PageDown",
-  "note": "Infrastructure fallback only: mobile WebKit rejects mouse.wheel. Use documented PageDown to inspect the lower Diary content; this does not validate a finger swipe. Visitor intent is unchanged: see the saved entry."
+  "key": "Tab",
+  "note": "Infrastructure fallback: PageDown did not move the viewport. Use the contract-permitted Tab once to inspect the next focusable lower content. Do not count this as mobile finger-scroll evidence."
 }
