@@ -1,7 +1,7 @@
 {
-  "id": "r09-bear",
+  "id": "r10-hourglass",
   "op": "tap",
-  "x": 367,
-  "y": 551,
-  "note": "Recovery: the same partial bear is visible at the right edge; collect it normally."
+  "x": 11,
+  "y": 438,
+  "note": "Recovery: collect the visible edge of the hourglass. Knowing it from the interrupted visit, I do not treat this quicker discovery as first-time ease."
 }
