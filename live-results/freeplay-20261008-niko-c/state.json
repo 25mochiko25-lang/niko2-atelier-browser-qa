@@ -5,17 +5,17 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-07T15:21:45.028Z",
-  "updatedAt": "2026-10-07T15:43:33.948Z",
-  "lastCommand": "35",
+  "updatedAt": "2026-10-07T15:44:13.814Z",
+  "lastCommand": "36",
   "stopReason": null,
   "action": {
-    "id": "35",
+    "id": "36",
     "op": "key",
     "key": "PageDown",
-    "note": "Continue down the mixer to concentration and finalize controls."
+    "note": "Continue down within the perfume mixer to the concentration controls."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/32327562946e215692e383a37ca7a923d6ecd5df/live-results/freeplay-20261008-niko-c/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/78e7fe6dc659076f012f5e14c796d531e2e76614/live-results/freeplay-20261008-niko-c/current.jpg",
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#perfume",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -53,132 +53,11 @@
     },
     {
       "tag": "BUTTON",
-      "text": "香りの入口へ",
-      "disabled": false,
-      "rect": {
-        "x": 14,
-        "y": 88,
-        "w": 40,
-        "h": 40
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "雨",
-      "disabled": false,
-      "rect": {
-        "x": 26,
-        "y": -30,
-        "w": 166,
-        "h": 56
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "古いぬいぐるみ",
-      "disabled": false,
-      "rect": {
-        "x": 199,
-        "y": -30,
-        "w": 166,
-        "h": 56
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "燃えた砂糖",
-      "disabled": false,
-      "rect": {
-        "x": 26,
-        "y": 33,
-        "w": 166,
-        "h": 56
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "ホテルの白いシーツ",
-      "disabled": false,
-      "rect": {
-        "x": 199,
-        "y": 33,
-        "w": 166,
-        "h": 56
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "甘い夢",
-      "disabled": false,
-      "rect": {
-        "x": 26,
-        "y": 96,
-        "w": 166,
-        "h": 56
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "紅茶の渋み",
-      "disabled": false,
-      "rect": {
-        "x": 199,
-        "y": 96,
-        "w": 166,
-        "h": 56
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "煙の名残",
-      "disabled": false,
-      "rect": {
-        "x": 26,
-        "y": 159,
-        "w": 166,
-        "h": 56
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "花",
-      "disabled": false,
-      "rect": {
-        "x": 199,
-        "y": 159,
-        "w": 166,
-        "h": 56
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "濡れた石",
-      "disabled": false,
-      "rect": {
-        "x": 26,
-        "y": 222,
-        "w": 166,
-        "h": 56
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "乾いた木",
-      "disabled": false,
-      "rect": {
-        "x": 199,
-        "y": 222,
-        "w": 166,
-        "h": 56
-      }
-    },
-    {
-      "tag": "BUTTON",
       "text": "生の果実",
       "disabled": false,
       "rect": {
         "x": 26,
-        "y": 285,
+        "y": -46,
         "w": 166,
         "h": 56
       }
@@ -189,7 +68,7 @@
       "disabled": false,
       "rect": {
         "x": 199,
-        "y": 285,
+        "y": -46,
         "w": 166,
         "h": 56
       }
@@ -200,7 +79,7 @@
       "disabled": false,
       "rect": {
         "x": 26,
-        "y": 348,
+        "y": 17,
         "w": 166,
         "h": 56
       }
@@ -211,7 +90,7 @@
       "disabled": false,
       "rect": {
         "x": 199,
-        "y": 348,
+        "y": 17,
         "w": 166,
         "h": 56
       }
@@ -222,7 +101,7 @@
       "disabled": false,
       "rect": {
         "x": 26,
-        "y": 411,
+        "y": 80,
         "w": 166,
         "h": 56
       }
@@ -233,7 +112,7 @@
       "disabled": false,
       "rect": {
         "x": 199,
-        "y": 411,
+        "y": 80,
         "w": 166,
         "h": 56
       }
@@ -244,7 +123,7 @@
       "disabled": false,
       "rect": {
         "x": 26,
-        "y": 630,
+        "y": 299,
         "w": 109,
         "h": 44
       }
@@ -255,7 +134,7 @@
       "disabled": false,
       "rect": {
         "x": 140,
-        "y": 630,
+        "y": 299,
         "w": 109,
         "h": 44
       }
@@ -266,7 +145,7 @@
       "disabled": false,
       "rect": {
         "x": 255,
-        "y": 630,
+        "y": 299,
         "w": 109,
         "h": 44
       }
@@ -277,7 +156,7 @@
       "disabled": false,
       "rect": {
         "x": 74,
-        "y": 712,
+        "y": 381,
         "w": 26,
         "h": 32
       }
@@ -288,7 +167,7 @@
       "disabled": true,
       "rect": {
         "x": 103,
-        "y": 712,
+        "y": 381,
         "w": 26,
         "h": 32
       }
@@ -299,7 +178,7 @@
       "disabled": false,
       "rect": {
         "x": 132,
-        "y": 712,
+        "y": 381,
         "w": 26,
         "h": 32
       }
@@ -310,7 +189,7 @@
       "disabled": false,
       "rect": {
         "x": 74,
-        "y": 787,
+        "y": 456,
         "w": 26,
         "h": 32
       }
@@ -321,7 +200,7 @@
       "disabled": true,
       "rect": {
         "x": 103,
-        "y": 787,
+        "y": 456,
         "w": 26,
         "h": 32
       }
@@ -332,9 +211,119 @@
       "disabled": false,
       "rect": {
         "x": 132,
-        "y": 787,
+        "y": 456,
         "w": 26,
         "h": 32
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "×",
+      "disabled": false,
+      "rect": {
+        "x": 74,
+        "y": 531,
+        "w": 26,
+        "h": 32
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "−",
+      "disabled": true,
+      "rect": {
+        "x": 103,
+        "y": 531,
+        "w": 26,
+        "h": 32
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "＋",
+      "disabled": false,
+      "rect": {
+        "x": 132,
+        "y": 531,
+        "w": 26,
+        "h": 32
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Eau Fraîche\n水のあと",
+      "disabled": false,
+      "rect": {
+        "x": 26,
+        "y": 604,
+        "w": 63,
+        "h": 70
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Cologne\n風の輪郭",
+      "disabled": false,
+      "rect": {
+        "x": 95,
+        "y": 604,
+        "w": 63,
+        "h": 70
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Toilette\n肌に近い",
+      "disabled": false,
+      "rect": {
+        "x": 164,
+        "y": 604,
+        "w": 63,
+        "h": 70
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Parfum\n記憶の濃度",
+      "disabled": false,
+      "rect": {
+        "x": 232,
+        "y": 604,
+        "w": 63,
+        "h": 70
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Extrait\n最後まで残る",
+      "disabled": false,
+      "rect": {
+        "x": 301,
+        "y": 604,
+        "w": 63,
+        "h": 70
+      }
+    },
+    {
+      "tag": "INPUT",
+      "text": "香りの濃度",
+      "disabled": false,
+      "rect": {
+        "x": 28,
+        "y": 684,
+        "w": 338,
+        "h": 32
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "香りを定着させる",
+      "disabled": false,
+      "rect": {
+        "x": 26,
+        "y": 728,
+        "w": 338,
+        "h": 48
       }
     }
   ],
@@ -875,6 +864,20 @@
       "error": null,
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#perfume",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/32327562946e215692e383a37ca7a923d6ecd5df/live-results/freeplay-20261008-niko-c/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDREAM / PM-01\nPERFUME MORGUE\nFORMULA / 3 MATERIALS\n香りになれなかった記憶。\n素材を選び、三つの層へ落としてください。順番と濃度で、同じ記憶も別の香りになります。\n雨\n古いぬいぐるみ\n燃えた砂糖\nホテルの白いシーツ\n甘い夢\n紅茶の渋み\n煙の名残\n花\n濡れた石\n乾いた木\n生の果実\n夜更け\n海水\n古い本\n化粧の粉\n冷たい金属\n\nMIXING BOTTLE / 3 MATERIALS\nIN BOTTLE / 甘い夢 ×1 · 紅茶の渋み ×1 · 花 ×1\n\n01\nTOP\n\n02\nMIDDLE\n\n03\nLAST\nTOP\n甘い夢 ×1\n×\n−\n＋\nMIDDLE\n紅茶の渋み ×1\n×\n−\n＋\nLAST\n花 ×1\n×\n−\n＋\nCONCENTRATION\nEAU DE TOILETTE / 肌に近い\n\nEau Fraîche\n水のあと\n\nCologne\n風の輪郭\n\nToilette\n肌に近い\n\nParfum\n記憶の濃度\n\nExtrait\n最後まで残る\n\n香りを定着させる\n"
+    },
+    {
+      "number": 37,
+      "at": "2026-10-07T15:44:13.814Z",
+      "action": {
+        "id": "36",
+        "op": "key",
+        "key": "PageDown",
+        "note": "Continue down within the perfume mixer to the concentration controls."
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#perfume",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/78e7fe6dc659076f012f5e14c796d531e2e76614/live-results/freeplay-20261008-niko-c/current.jpg",
       "text": "作品へ移動\nNIKO² ATELIER\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDREAM / PM-01\nPERFUME MORGUE\nFORMULA / 3 MATERIALS\n香りになれなかった記憶。\n素材を選び、三つの層へ落としてください。順番と濃度で、同じ記憶も別の香りになります。\n雨\n古いぬいぐるみ\n燃えた砂糖\nホテルの白いシーツ\n甘い夢\n紅茶の渋み\n煙の名残\n花\n濡れた石\n乾いた木\n生の果実\n夜更け\n海水\n古い本\n化粧の粉\n冷たい金属\n\nMIXING BOTTLE / 3 MATERIALS\nIN BOTTLE / 甘い夢 ×1 · 紅茶の渋み ×1 · 花 ×1\n\n01\nTOP\n\n02\nMIDDLE\n\n03\nLAST\nTOP\n甘い夢 ×1\n×\n−\n＋\nMIDDLE\n紅茶の渋み ×1\n×\n−\n＋\nLAST\n花 ×1\n×\n−\n＋\nCONCENTRATION\nEAU DE TOILETTE / 肌に近い\n\nEau Fraîche\n水のあと\n\nCologne\n風の輪郭\n\nToilette\n肌に近い\n\nParfum\n記憶の濃度\n\nExtrait\n最後まで残る\n\n香りを定着させる\n"
     }
   ]
