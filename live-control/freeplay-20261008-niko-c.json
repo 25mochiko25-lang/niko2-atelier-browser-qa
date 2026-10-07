@@ -1,9 +1,7 @@
 {
-  "id": "32",
-  "op": "scroll",
-  "x": 195,
-  "y": 700,
-  "dx": 0,
-  "dy": 430,
-  "note": "Scroll down to the lower ingredients and concentration controls."
+  "id": "33",
+  "op": "tap",
+  "x": 282,
+  "y": 460,
+  "note": "Use the visible '花' for LAST after the harness could not swipe to lower ingredients."
 }
