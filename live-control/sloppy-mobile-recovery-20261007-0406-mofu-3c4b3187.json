@@ -1,7 +1,8 @@
 {
-  "id": "r28",
-  "op": "key",
-  "key": "PageDown",
-  "wait": 500,
-  "note": "SCROLL_INFRA: 層タブを起点にPageDownで下の完成操作を確認。"
+  "id": "r29",
+  "op": "tap",
+  "x": 333,
+  "y": 639,
+  "wait": 350,
+  "note": "濃度は『最後まで残る』が一番強そう。細かい差は読まず、一番右のExtraitにする。"
 }
