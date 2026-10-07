@@ -1,7 +1,5 @@
 {
-  "id": "02",
-  "op": "tap",
-  "x": 333,
-  "y": 771,
-  "note": "再入場：WORLD案内の次へを押す。"
+  "id": "infrastructure-end",
+  "op": "stop",
+  "reason": "Infrastructure interruption: observer process exited on GitHub 409 during evidence publication. No voluntary visitor departure; interest in the gate beyond the garden remains. Do not label this run a completed visitor evaluation."
 }
