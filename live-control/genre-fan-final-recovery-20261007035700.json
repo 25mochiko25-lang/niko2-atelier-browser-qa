@@ -1,7 +1,6 @@
 {
-  "id": "r59-checkout-diary",
-  "op": "tap",
-  "x": 268,
-  "y": 482,
-  "note": "Checkout completed and says tonight's fragment reached Diary. I want to see what was kept and whether the mysterious memory payment is explained there."
+  "id": "r60-hotel-record-down",
+  "op": "key",
+  "key": "PageDown",
+  "note": "Move down to the recent records to inspect the hotel key left by checkout."
 }
