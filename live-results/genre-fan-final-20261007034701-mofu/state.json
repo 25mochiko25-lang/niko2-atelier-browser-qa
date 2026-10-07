@@ -5,18 +5,18 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-07T03:47:40.287Z",
-  "updatedAt": "2026-10-07T03:50:06.928Z",
-  "lastCommand": "04-touch-example",
+  "updatedAt": "2026-10-07T03:50:24.210Z",
+  "lastCommand": "05-intro-next",
   "stopReason": null,
   "action": {
-    "id": "04-touch-example",
+    "id": "05-intro-next",
     "op": "tap",
-    "x": 119,
-    "y": 537,
-    "note": "Touch, take home, and put away look like example buttons, but their relationship is not yet clear. I try Touch to see what it teaches."
+    "x": 336,
+    "y": 770,
+    "note": "Touch changed its color. That seems to be an interaction sample; I would rather reach the actual work than exhaust these examples."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/75db3498583075679670e5288f358441d49d296e/live-results/genre-fan-final-20261007034701-mofu/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/1da5325b72ee6199608d6f9f89d9a960fecc540e/live-results/genre-fan-final-20261007034701-mofu/current.jpg",
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -28,7 +28,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nINTERACTION\n\nSound On\n\nSound Off\n触れる\n持ち帰る\n仕舞う\n次へ戻る",
+  "text": "作品へ移動\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWELCOME\nようこそ！\n夢へ入る戻る",
   "controls": [
     {
       "tag": "BUTTON",
@@ -54,67 +54,12 @@
     },
     {
       "tag": "BUTTON",
-      "text": "Sound On",
+      "text": "夢へ入る",
       "disabled": false,
       "rect": {
-        "x": 97,
-        "y": 464,
-        "w": 93,
-        "h": 38
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "Sound Off",
-      "disabled": false,
-      "rect": {
-        "x": 198,
-        "y": 464,
-        "w": 95,
-        "h": 38
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "触れる",
-      "disabled": false,
-      "rect": {
-        "x": 86,
-        "y": 518,
-        "w": 65,
-        "h": 38
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "持ち帰る",
-      "disabled": false,
-      "rect": {
-        "x": 157,
-        "y": 518,
-        "w": 76,
-        "h": 38
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "仕舞う",
-      "disabled": false,
-      "rect": {
-        "x": 240,
-        "y": 518,
-        "w": 65,
-        "h": 38
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "次へ",
-      "disabled": false,
-      "rect": {
-        "x": 300,
+        "x": 291,
         "y": 748,
-        "w": 72,
+        "w": 81,
         "h": 44
       }
     },
@@ -203,6 +148,21 @@
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/75db3498583075679670e5288f358441d49d296e/live-results/genre-fan-final-20261007034701-mofu/current.jpg",
       "text": "作品へ移動\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nINTERACTION\n\nSound On\n\nSound Off\n触れる\n持ち帰る\n仕舞う\n次へ戻る"
+    },
+    {
+      "number": 6,
+      "at": "2026-10-07T03:50:24.210Z",
+      "action": {
+        "id": "05-intro-next",
+        "op": "tap",
+        "x": 336,
+        "y": 770,
+        "note": "Touch changed its color. That seems to be an interaction sample; I would rather reach the actual work than exhaust these examples."
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/1da5325b72ee6199608d6f9f89d9a960fecc540e/live-results/genre-fan-final-20261007034701-mofu/current.jpg",
+      "text": "作品へ移動\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWELCOME\nようこそ！\n夢へ入る戻る"
     }
   ]
 }
