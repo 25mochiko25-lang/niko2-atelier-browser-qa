@@ -5,16 +5,18 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-07T04:01:41.272Z",
-  "updatedAt": "2026-10-07T04:26:59.669Z",
-  "lastCommand": "66",
+  "updatedAt": "2026-10-07T04:27:21.889Z",
+  "lastCommand": "67",
   "stopReason": null,
   "action": {
-    "id": "66",
-    "op": "look",
-    "note": "Tea for Nobodyを選ぶと『ティーカップが二つ届いた』という短い文章が出た。部屋の表示が切り替わっているようなので、届いた様子を少し眺める。"
+    "id": "67",
+    "op": "tap",
+    "x": 194,
+    "y": 741,
+    "note": "部屋のテーブルにカップが二つ現れた。文章に合わせて置かれている物が変わるのが良い。二つまで選べるので、もう一品を見たい。"
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/9b2defcde9ed0188071347f22fe779de8131c325/live-results/ordinary-first-20261007-1301-4ee6-r3/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/84c3a21a5ea674af3f83de2f5d29aeba40e62d84/live-results/ordinary-first-20261007-1301-4ee6-r3/current.jpg",
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#hotel",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -26,7 +28,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\nNIKO² ATELIER\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDREAM / ROOM 0317\nHOTEL SOMNIA\nSTAY 0 / 3\n×\nTea for Nobody\nティーカップが二つ届いた。誰も来なかったし、最後まで二つだった。\nもう一品見る\n今夜をDiaryへ持ち帰る\nCHECK OUT\n\n\n",
+  "text": "作品へ移動\nNIKO² ATELIER\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDREAM / ROOM 0317\nHOTEL SOMNIA\nSTAY 0 / 3\n×\nROOM SERVICE / TONIGHT\n存在しないものを、お二つまで。\n1 / 2\n\nTea for Nobody\nカップを二つ。来客の予定は不要です。\n¥600\n\nYesterday\n保存状態によって、味が異なります。\n¥0\n\nBlue Hour\n日没後、夜になる前だけのお色です。\n¥400\n\nA Sunday You Forgot\n次回入荷日は、先週の日曜日です。\nSOLD OUT\n\nSomeone Else's Rain\n窓は閉じたままでお召し上がりください。\nCOMPLIMENTARY\nTea for Nobody\nティーカップが二つ届いた。誰も来なかったし、最後まで二つだった。\n今夜をDiaryへ持ち帰る\nCHECK OUT\n\n\n",
   "controls": [
     {
       "tag": "A",
@@ -78,20 +80,64 @@
       "disabled": false,
       "rect": {
         "x": 341,
-        "y": 621,
+        "y": 148,
         "w": 30,
         "h": 30
       }
     },
     {
       "tag": "BUTTON",
-      "text": "もう一品見る",
+      "text": "Tea for Nobody\nカップを二つ。来客の予定は不要です。\n¥600",
+      "disabled": true,
+      "rect": {
+        "x": 28,
+        "y": 225,
+        "w": 334,
+        "h": 61
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Yesterday\n保存状態によって、味が異なります。\n¥0",
       "disabled": false,
       "rect": {
-        "x": 24,
-        "y": 715,
-        "w": 342,
-        "h": 50
+        "x": 28,
+        "y": 286,
+        "w": 334,
+        "h": 61
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Blue Hour\n日没後、夜になる前だけのお色です。\n¥400",
+      "disabled": false,
+      "rect": {
+        "x": 28,
+        "y": 347,
+        "w": 334,
+        "h": 61
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "A Sunday You Forgot\n次回入荷日は、先週の日曜日です。\nSOLD OUT",
+      "disabled": true,
+      "rect": {
+        "x": 28,
+        "y": 408,
+        "w": 334,
+        "h": 61
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Someone Else's Rain\n窓は閉じたままでお召し上がりください。\nCOMPLIMENTARY",
+      "disabled": false,
+      "rect": {
+        "x": 28,
+        "y": 469,
+        "w": 334,
+        "h": 61
       }
     },
     {
@@ -99,10 +145,10 @@
       "text": "今夜をDiaryへ持ち帰る",
       "disabled": false,
       "rect": {
-        "x": 24,
-        "y": 773,
-        "w": 167,
-        "h": 50
+        "x": 27,
+        "y": 639,
+        "w": 164,
+        "h": 43
       }
     },
     {
@@ -111,9 +157,9 @@
       "disabled": false,
       "rect": {
         "x": 199,
-        "y": 773,
-        "w": 167,
-        "h": 50
+        "y": 639,
+        "w": 164,
+        "h": 43
       }
     }
   ],
@@ -1100,6 +1146,21 @@
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#hotel",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/9b2defcde9ed0188071347f22fe779de8131c325/live-results/ordinary-first-20261007-1301-4ee6-r3/current.jpg",
       "text": "作品へ移動\nNIKO² ATELIER\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDREAM / ROOM 0317\nHOTEL SOMNIA\nSTAY 0 / 3\n×\nTea for Nobody\nティーカップが二つ届いた。誰も来なかったし、最後まで二つだった。\nもう一品見る\n今夜をDiaryへ持ち帰る\nCHECK OUT\n\n\n"
+    },
+    {
+      "number": 68,
+      "at": "2026-10-07T04:27:21.889Z",
+      "action": {
+        "id": "67",
+        "op": "tap",
+        "x": 194,
+        "y": 741,
+        "note": "部屋のテーブルにカップが二つ現れた。文章に合わせて置かれている物が変わるのが良い。二つまで選べるので、もう一品を見たい。"
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#hotel",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/84c3a21a5ea674af3f83de2f5d29aeba40e62d84/live-results/ordinary-first-20261007-1301-4ee6-r3/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDREAM / ROOM 0317\nHOTEL SOMNIA\nSTAY 0 / 3\n×\nROOM SERVICE / TONIGHT\n存在しないものを、お二つまで。\n1 / 2\n\nTea for Nobody\nカップを二つ。来客の予定は不要です。\n¥600\n\nYesterday\n保存状態によって、味が異なります。\n¥0\n\nBlue Hour\n日没後、夜になる前だけのお色です。\n¥400\n\nA Sunday You Forgot\n次回入荷日は、先週の日曜日です。\nSOLD OUT\n\nSomeone Else's Rain\n窓は閉じたままでお召し上がりください。\nCOMPLIMENTARY\nTea for Nobody\nティーカップが二つ届いた。誰も来なかったし、最後まで二つだった。\n今夜をDiaryへ持ち帰る\nCHECK OUT\n\n\n"
     }
   ]
 }
