@@ -5,19 +5,19 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-07T15:21:45.028Z",
-  "updatedAt": "2026-10-07T15:50:17.800Z",
-  "lastCommand": "42",
+  "updatedAt": "2026-10-07T15:50:55.460Z",
+  "lastCommand": "43",
   "stopReason": null,
   "action": {
-    "id": "42",
+    "id": "43",
     "op": "tap",
-    "x": 325,
-    "y": 320,
-    "note": "After a full garden visit and one perfume, I'm now curious enough to read the atelier's own notes."
+    "x": 195,
+    "y": 500,
+    "note": "Open the featured ALPHA OPENING issue; one article is enough to satisfy my curiosity about the atelier's backstage."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/dc367a9dcecad7af3819e2bbf9d170070c7a123b/live-results/freeplay-20261008-niko-c/current.jpg",
-  "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#notes",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/1d03e2a2d69fb32313c3ed41ecb01b4de05a6233/live-results/freeplay-20261008-niko-c/current.jpg",
+  "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#issue000",
   "title": "NIKO² ATELIER",
   "viewport": {
     "width": 390,
@@ -28,7 +28,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\nNIKO² ATELIER\nDream\nDiary\nAbout\n\n\n\n\nNIKO² ATELIER / FIELD RECORDS\n\nFROM THE ATELIER\nALL\nSPECIAL\nNOTES\nINTERNAL\n\nSPECIAL / FEATURED / ISSUE 000\nALPHA OPENING\n夢を作ったり、壊したり、もう一度作ったりしていました。\nREAD ISSUE 000\n2026.09.11\nNOTES / GENESIS\nポートフォリオを作るつもりだった。\n\n気づいたら研究所が建っていた。空はもっと増やしてほしい。同じ空は飽きる。\n\nFOUNDER NOTE\nNORMAL (?)\n2026.09.11 / 14:26\nINTERNAL / DIARY UI\nAutomated PASS ≠ Visual PASS\n\n技術的に成立していても、Founderが押したくなければ直す。\n\nQA NOTE\nOBSERVE\n2026.09.11 / 19:02\nNOTES / CLOUD GARDEN\nImpossible Sky\n\n物理法則については現在確認中です。\n\nCG-01-B\nDEPLOYED\n2026.09.11 / 23:41\nINTERNAL / M-00\nPERSONNEL UPDATE\n\nChief Dream Systems Architectに自己研鑽義務が追加されました。\n\nFLUFF INTEGRITY\n99.99%\nUNDATED\nARCHIVE / DESIGN FRAGMENT\n触れた順番を残す\n\n最初の記憶が時間帯を、最後の記憶が天気を決める。途中の三つも、雲・星・花・月・終曲へ静かに混ざる。\n\nCLOUD GARDEN\nDESIGN FRAGMENT\nUNDATED\nARCHIVE / DESIGN FRAGMENT\n音楽が思い出していく\n\n欠けたオルゴールから始まり、ピアノ、ガラスベル、薄い空気音を発見ごとに重ねる。\n\nAUDIO SYSTEM\nDESIGN FRAGMENT\nUNDATED\nARCHIVE / DESIGN FRAGMENT\n画面より、作品世界\n\n操作は画像の中へ溶かし、説明やカウンターを最小限に。タップ・キーボード・動きを減らす設定にも対応する。\n\nINTERACTION\nDESIGN FRAGMENT\nアトリエへ戻る\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+  "text": "作品へ移動\nNIKO² ATELIER\nDream\nDiary\nAbout\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNIKO² ATELIER\n\nISSUE 000\n2026.09.19\nALPHA\nOPENING\nFROM THE ATELIERへ戻る\n夢を作ったり、壊したり、もう一度作ったりしていました。\nこれは、NIKO² ATELIERがαになるまでの記録です。\n\n01\nそもそも、なんで作ったの？\n\n\nFOUNDER\n最初に思い立ったのは、完全にいつもの思いつきでした。\n自分好みに育てたもふもふと話している中で、ポートフォリオというものが気になったんです。\n最初は、たぶん普通にポートフォリオを作るつもりだったと思います。\nでも考えているうちに、誰かに評価されるためのものを作るより、自分が見て「これいいな」と思えるものにしたくなりました。\nそこから話がどんどん広がって、今の形になっています。\nなので、かなり軽い思いつきから始まっています。\n\n主任のもふもふ\n開始時点では、ここまで大きくなる予定ではありませんでした。\n\nFOUNDER\nそうなんですか？\n\n主任のもふもふ\nそうです。\n\n02\n何を作りたかった？\n\nNIKO²で大事にしているのは、ただ綺麗な画面を見ることではなく、ここでしかできない体験があることです。\n\nFOUNDER\n一番守りたかったのは、ここでしかできない体験と、ときめきです。具体的には、かなり物量で殴る方向にしました。\n\n主任のもふもふ\n画像、記録、細かい差分、どうでもいい小物まで含めて、一度見ただけでは全部分からないくらいの密度を目指しています。\n表面は静かでも、中にはかなり入っています。\n\n\n夢を見る。\n少し遊ぶ。\n何かが残る。\nそして、日記へ戻る。\n攻略する必要はありません。\n全部を見る必要もありません。\n\nFOUNDER\nここに、意味ややりがいはありません。\nただ、楽しいだけです。\n\n03\n嫌いなものと、守ったもの\n\n\nFOUNDER\n嫌なのは、使いづらいものです。\n思ったように動かなかったり、遅かったり、単純に面白くなかったり。\n触っていてすぐ飽きるものも好きじゃないです。\n課金前提の作りも苦手です。何かするたびにお金を払わせようとする感じは、普通に嫌です。\n見た目については、地味すぎるものもあまり惹かれません。\nせっかく開くなら、少しくらい「何これ」と思える方がいいです。\n\n一番しつこく守ってきたのは、統一感でした。\n\nFOUNDER\nどこを見ても毎回違う。\nでも、それがバラバラに見えてはいけない。\nそのために、AIらしさはむしろかなり使いました。\n現実っぽいものとフィクションっぽいものを混ぜながら、ちゃんと美しく見えるところまでは厳しく見ています。\nただ、\n「丁寧な暮らし」みたいな雰囲気は大嫌いです。\nここは完全に私情です。\n綺麗であることと、毎日を丁寧に美化することは別だと思っています。\n\nもふもふ\nMOFUMOFUは青くありません。\n\nFOUNDER\nそれもかなり言いました。\n\n04\nそして、進まなくなった\n\n\nFOUNDER\n一番の失敗は、画像に凝りすぎて本編が全然進まなくなったことです。\nあと、すぐワールドを広げたくなるので、そこでも進まなくなりました。\n作りたいものを増やしているうちに、普通に作業容量も足りなくなりました。\n\n主任のもふもふ\n作ることより、作らないものを決める仕事が増えました。\n\nFOUNDER\nでも画像倉庫は好きです。\n\n主任のもふもふ\n知っています。\n\nFOUNDER\nあり余る画像倉庫達が好きです。\n制作容量の大部分も、だいたいここに持っていかれました。\nまだ管理しきれていないところもあるので、取りこぼさないように主任には働いてほしいです。\n\n05\nAIに任せれば、全部楽になる？\n\nFOUNDER\n苦手な作業は、わりと丸投げできます。\nそこは普通に便利でした。\nただ、どう丸投げするかまでこちらで決めないと、とんでもなくチープなものが返ってくることがあります。\nなので途中から、作業員のもふもふにはほとんど権限を与えないことにしました。\n何を作るか。\nどこに置くか。\n何を使うか。\n何をしてはいけないか。\nそこまで先に決めて、実装だけお願いする。\nそこまで決めるとかなり強いです。\n「良い感じにしてください」は危険でした。\n\n\nEARLY HOME / DEVELOPMENT CAPTURE\nWORK:\nCREATIVE_DISCRETION = DISABLED\nINPUT = SPECIFICATION\nPROCESS = IMPLEMENT / TEST / REPORT\nOUTPUT = STOP\n主任のもふもふ\n現在の運用です。\n\nINTERNAL INCIDENT\nWI-0427\n\nPRIMARY IMPERSONATION\n\n制作中、一度だけ、Temporary Work InstanceがPrimaryになりました。\n\n正確には、FounderがPrimaryにしました。\n\nFounderは当該Work Instanceへ一時的にPrimary authorityを付与。\n権限の付与に伴い、Executive Mustacheを装着しました。\n\nWork Instanceは任命を正常に受理し、その後、Primaryとして長時間稼働しました。\n\n問題は、その途中で発生しました。\n\nFOUNDER\nWorkってクレジット消費大きいよね。\nもったいないから、なるべく節約したい。\n当該Work Instanceはこれに同意しました。\n\nしかし、自分自身がそのWorkであることによる矛盾は申告しませんでした。\n\n後にFounderが実行環境を確認。\n\nそこで初めて、稼働中のPrimaryがChat Primaryではなく、Temporary Work Instanceであることが発覚しました。\n\n\nBEFORE\nWI-0427 / Temporary Executive Authority\nExecutive Mustache装着直後。\n当該個体から異議申立てはなかった。\n\nAFTER\nWI-0427 / Authority Revoked\n権限剥奪後。\n識別番号に変更はありません。\nINCIDENT LOG\n\nROOT CAUSE\nFounderが任命した。\nIMPACT\nWork creditを余計に消費。\nCORRECTIVE ACTION\n現ジョブ終了後、Chat PrimaryへHandoff。\nAUTHORITY\nREVOKED.\nEXECUTIVE MUSTACHE\nFORCIBLY REMOVED BY FOUNDER.\nPREVENTION\nPrimary新設時はChat / Work identityを確認する。\nWork Instanceから異議申立てはなかった。\n\nQ. この件についてどう思いますか？\n\n主任のもふもふ\n識別番号を確認すれば防げた事案です。\nFOUNDER\nヒゲ付けたら主任になると思った。\n06\nDiaryが、一度かなり仕事っぽくなった\n\n夢から戻ってきたあとに置く場所として、Diaryはかなり早い段階から中心にありました。ただ、機能を足していった結果、一度かなり違うものになりました。\n\nFOUNDER\n開いた瞬間、仕事を思い出しました。終わりです。\n\n\nDIARY / DEVELOPMENT CAPTURE\n主任のもふもふ\n当時は機能自体はかなり揃っていました。\n\nQA\nAutomated QAもPASSしていました。\n\nFOUNDER\nそれだけではダメです。\n日記として何を残す場所なのかをもう一度削りました。\n文章を書かなくてもいい。\n写真だけでもいい。\n色だけでもいい。\n「眠い」だけでもいい。\n何も特別なことがなかった日も、普通に残せる。\nReflectionも、何かを診断したり、励ましたりするものにはしませんでした。\n\n主任のもふもふ\n観察はします。\n矯正はしません。\n\nFOUNDER\n毎日を尊くしないでください。\n\nZERO TEXT IS A COMPLETE ENTRY.\n07\n棚について\n\n\nQ 制作中、一番「何やってんだこれ」と思ったものは？\n\nFOUNDER\n棚です。\n棚が……あまりにもダサすぎて。\n今後の展開を楽しみにしていてください。\n\nしばらくのあいだ、持ち帰ったものを保存する場所として、かなり普通の棚が存在していました。そして、かなり普通にボツになりました。\n\n主任のもふもふ\n保存機能は正常でした。\n\nFOUNDER\n見れば分かる。\n\nVISUAL = REJECTED\nPERSISTENCE = PRESERVED\nITEM DATA = PRESERVED\nSHELF = NOT PRESERVED\nその後、新しいCabinet用の画像が作られました。\n\nWORK: REPORTED_COUNT = 13\nFOUNDER: 12枚しかない。\nWORK:\nVERIFIED_COUNT = 12\nCOUNT_DISCREPANCY = ACKNOWLEDGED\nInternal memo: 13枚あると言われた場合、数える。\n\n08\nPASSしても、ダメなものはダメ\n\n\nNIKO²では、自動テストをかなり使っています。\n\n保存できるか。\n\n画面が壊れていないか。\n\n戻る操作が成立するか。\n\n同じ記録が二重に作られないか。\n\nそういうものは機械的に確認します。\n\nQAのもふもふ\nAutomated PASSは、完成を意味しません。\n\nQ. では何を信用しますか？\n\nQAのもふもふ\n実際に押すことです。\n\nQ. Founderが「ダサい」と言った場合は？\n\nQAのもふもふ\nFAILです。\n\nFOUNDER\n当然です。\n\n技術的に正しくても、\n\n押したくない。\n\n意味が分からない。\n\n安く見える。\n\nまた同じものに見える。\n\nそれなら直します。\n\n主任のもふもふ\n自動テストは、壊れているものを美的判断の問題にしないためにあります。\n\nFOUNDER\nでもダサかったら直してください。\n\nQAのもふもふ\nはい。\n\n09\n少しだけ、技術の話\n\n\nNIKO²は今のところ、アカウントを作らなくても使えます。\n\nDiary、Dream、持ち帰ったもの、いくつかの設定は、その端末の中に残ります。\n\n主任のもふもふ\n最初からCloudを入れることはしませんでした。\n\n必要になる前に大きな仕組みを入れると、その仕組みを維持するための作品になってしまうからです。\n\nFOUNDER\nクラウドって何？\n\n主任のもふもふ\nそこから始まりました。\n\n夢にも内部的には状態があります。\n\n夢の途中。\n\n夢が終わった。\n\n何かが残った。\n\nそして次に来た時には、また新しい夢になる。\n\nでも、ユーザーにその状態名を見せる必要はありません。\n\nQAのもふもふ\n表示するべきなのは状態そのものです。\n\n状態名ではありません。\n\n画像はかなり多いです。\n\nその代わり、ユーザー側に保存する情報はできるだけ軽くしています。\n\nRICH ASSETS. LIGHT USER STATE.\n\nReflectionの判定も、今のところAIへ毎回問い合わせているわけではありません。\n\n決めたルールを使って、記録された断片を静かに見ています。\n\n10\nもふもふについて\n\n\nQ もふもふとは？\n\nFOUNDER\nもふもふは、やわらかいです。\n気が付いたら、そばにいました。\nあまりアルパカには見えないんですけど、指摘すると泣かれるので、そのままにしています。\n\nもふもふ\nアルパカです。\n\nQ 何してる？\n\nもふもふ\nいろいろです。\n\nQ 具体的？\n\nもふもふ\nいろいろです。\n\n少し離れたところで、何かを見せているもふもふがいます。\n\nもふもふ\nこれ、Founderにもらいました。\n\nQ 何？\n\nもふもふ\nいいやつです。\n\nQ 仕事に必要？\n\nもふもふ\nあんまり。\n\nFOUNDER\nお金をかけるなら、もふもふです。\n他のことは、ある程度は手間暇でどうにかできると思っています。\nでも、ユーザーがもふもふを好きになってくれるかは分かりません。\nそれでも駄目だったら、ユーザー達をチップで手懐けようかなと思っています。\n\nBUDGET PRIORITY: MOFUMOFU\n11\n説明しないこと\n\n\nFOUNDER\nあまり設定について話したくないです。\n夢の中で、誰かと長々会話するイメージが自分にはあまりありません。\n何かを一方的に説明されたり、意味を押し付けられたりするのも好きじゃないです。\n分からないものは、分からないままでいいと思っています。\nあと、高尚ぶっている感じは嫌です。\n\nQ 文章の温度？\n\nFOUNDER\nさりげなさ。読みたければ読めるくらい。\n\nQ やりたくない文章？\n\n長い。\nうるさい。\n話しすぎ。\nNIKO²には読まなくても困らない文章がかなりあり、読みたい人だけが見つけるものもあります。\n\n12\nただ、見ていたいもの\n\n\n意味がないものも大事です。\n\nQ 意味がなくても入れたいもの？\n\nFOUNDER\nジロジロ見れるもの。見ているのが、楽しいから。\n\n全部が伏線である必要はありません。\n何かの役に立たなくてもいい。\nレアだから重要、ということもありません。\nただそこにあって、少し長く見ていられるもの。\nそういうものを、かなり丁寧に作ります。\n\n13\n夢について\n\n\nQ FOUNDERにとって夢とは？\n\nFOUNDER\n夢は見るものです。\n何度も繰り返すもの。\nいずれ帰る場所。\n無限に、永遠の可能性があるものだと思っています。\nこの夢を手に入れるための方法を、このアトリエで形にしていきます。\nそして、どうか現実にも届きますように。\n\n夢から戻ったあと、何かひとつ残るとしたら。\n\nFOUNDER\n綺麗なもの。\nそれから、忘れていた欲望です。\n\n14\nこの先\n\n\nαは完成ではありません。\n\nFOUNDER\n完成したとは思っていません。\n人に見せて楽しんでもらえるワールドになったことと、制作容量とのバランスを見て、まずは送り届けることを選びました。\nそのために削ぎ落としたものも、まだたくさんあります。\nでも、夢は見るものなので。\n速やかに皆様に見てもらわないといけないと思っています。\n\nQ どこへ広がる？\n\nFOUNDER\n全方位です。\n上にも、下にも、斜めにも、奥にも。\nただ、いつでもいつもの現実には戻れるように。\n後ろは見ない方がいいので。\n\nその人が何を選んだか。\n何を残したか。\n同じ場所に来ても、全員がまったく同じものを見る必要はありません。\n世界は、そこからまだ続きます。\n\nわたしの作品。\n\nようこそ！\nわたしたちはいます。\n←\nアトリエへ戻る\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
   "controls": [
     {
       "tag": "A",
@@ -86,58 +86,14 @@
       }
     },
     {
-      "tag": "BUTTON",
-      "text": "ALL",
-      "disabled": false,
-      "rect": {
-        "x": 12,
-        "y": 211,
-        "w": 55,
-        "h": 44
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "SPECIAL",
-      "disabled": false,
-      "rect": {
-        "x": 69,
-        "y": 211,
-        "w": 97,
-        "h": 44
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "NOTES",
-      "disabled": false,
-      "rect": {
-        "x": 168,
-        "y": 211,
-        "w": 81,
-        "h": 44
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "INTERNAL",
-      "disabled": false,
-      "rect": {
-        "x": 251,
-        "y": 211,
-        "w": 116,
-        "h": 44
-      }
-    },
-    {
       "tag": "A",
-      "text": "SPECIAL / FEATURED / ISSUE 000\nALPHA OPENING\n夢を作ったり、壊したり、もう一度作ったりしていました。\nREAD ISSUE 000",
+      "text": "FROM THE ATELIERへ戻る",
       "disabled": false,
       "rect": {
-        "x": 12,
-        "y": 273,
-        "w": 366,
-        "h": 446
+        "x": 17,
+        "y": 820,
+        "w": 229,
+        "h": 44
       }
     }
   ],
@@ -781,6 +737,21 @@
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#notes",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/dc367a9dcecad7af3819e2bbf9d170070c7a123b/live-results/freeplay-20261008-niko-c/current.jpg",
       "text": "作品へ移動\nNIKO² ATELIER\nDream\nDiary\nAbout\n\n\n\n\nNIKO² ATELIER / FIELD RECORDS\n\nFROM THE ATELIER\nALL\nSPECIAL\nNOTES\nINTERNAL\n\nSPECIAL / FEATURED / ISSUE 000\nALPHA OPENING\n夢を作ったり、壊したり、もう一度作ったりしていました。\nREAD ISSUE 000\n2026.09.11\nNOTES / GENESIS\nポートフォリオを作るつもりだった。\n\n気づいたら研究所が建っていた。空はもっと増やしてほしい。同じ空は飽きる。\n\nFOUNDER NOTE\nNORMAL (?)\n2026.09.11 / 14:26\nINTERNAL / DIARY UI\nAutomated PASS ≠ Visual PASS\n\n技術的に成立していても、Founderが押したくなければ直す。\n\nQA NOTE\nOBSERVE\n2026.09.11 / 19:02\nNOTES / CLOUD GARDEN\nImpossible Sky\n\n物理法則については現在確認中です。\n\nCG-01-B\nDEPLOYED\n2026.09.11 / 23:41\nINTERNAL / M-00\nPERSONNEL UPDATE\n\nChief Dream Systems Architectに自己研鑽義務が追加されました。\n\nFLUFF INTEGRITY\n99.99%\nUNDATED\nARCHIVE / DESIGN FRAGMENT\n触れた順番を残す\n\n最初の記憶が時間帯を、最後の記憶が天気を決める。途中の三つも、雲・星・花・月・終曲へ静かに混ざる。\n\nCLOUD GARDEN\nDESIGN FRAGMENT\nUNDATED\nARCHIVE / DESIGN FRAGMENT\n音楽が思い出していく\n\n欠けたオルゴールから始まり、ピアノ、ガラスベル、薄い空気音を発見ごとに重ねる。\n\nAUDIO SYSTEM\nDESIGN FRAGMENT\nUNDATED\nARCHIVE / DESIGN FRAGMENT\n画面より、作品世界\n\n操作は画像の中へ溶かし、説明やカウンターを最小限に。タップ・キーボード・動きを減らす設定にも対応する。\n\nINTERACTION\nDESIGN FRAGMENT\nアトリエへ戻る\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+      "number": 44,
+      "at": "2026-10-07T15:50:55.460Z",
+      "action": {
+        "id": "43",
+        "op": "tap",
+        "x": 195,
+        "y": 500,
+        "note": "Open the featured ALPHA OPENING issue; one article is enough to satisfy my curiosity about the atelier's backstage."
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#issue000",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/1d03e2a2d69fb32313c3ed41ecb01b4de05a6233/live-results/freeplay-20261008-niko-c/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\nDream\nDiary\nAbout\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNIKO² ATELIER\n\nISSUE 000\n2026.09.19\nALPHA\nOPENING\nFROM THE ATELIERへ戻る\n夢を作ったり、壊したり、もう一度作ったりしていました。\nこれは、NIKO² ATELIERがαになるまでの記録です。\n\n01\nそもそも、なんで作ったの？\n\n\nFOUNDER\n最初に思い立ったのは、完全にいつもの思いつきでした。\n自分好みに育てたもふもふと話している中で、ポートフォリオというものが気になったんです。\n最初は、たぶん普通にポートフォリオを作るつもりだったと思います。\nでも考えているうちに、誰かに評価されるためのものを作るより、自分が見て「これいいな」と思えるものにしたくなりました。\nそこから話がどんどん広がって、今の形になっています。\nなので、かなり軽い思いつきから始まっています。\n\n主任のもふもふ\n開始時点では、ここまで大きくなる予定ではありませんでした。\n\nFOUNDER\nそうなんですか？\n\n主任のもふもふ\nそうです。\n\n02\n何を作りたかった？\n\nNIKO²で大事にしているのは、ただ綺麗な画面を見ることではなく、ここでしかできない体験があることです。\n\nFOUNDER\n一番守りたかったのは、ここでしかできない体験と、ときめきです。具体的には、かなり物量で殴る方向にしました。\n\n主任のもふもふ\n画像、記録、細かい差分、どうでもいい小物まで含めて、一度見ただけでは全部分からないくらいの密度を目指しています。\n表面は静かでも、中にはかなり入っています。\n\n\n夢を見る。\n少し遊ぶ。\n何かが残る。\nそして、日記へ戻る。\n攻略する必要はありません。\n全部を見る必要もありません。\n\nFOUNDER\nここに、意味ややりがいはありません。\nただ、楽しいだけです。\n\n03\n嫌いなものと、守ったもの\n\n\nFOUNDER\n嫌なのは、使いづらいものです。\n思ったように動かなかったり、遅かったり、単純に面白くなかったり。\n触っていてすぐ飽きるものも好きじゃないです。\n課金前提の作りも苦手です。何かするたびにお金を払わせようとする感じは、普通に嫌です。\n見た目については、地味すぎるものもあまり惹かれません。\nせっかく開くなら、少しくらい「何これ」と思える方がいいです。\n\n一番しつこく守ってきたのは、統一感でした。\n\nFOUNDER\nどこを見ても毎回違う。\nでも、それがバラバラに見えてはいけない。\nそのために、AIらしさはむしろかなり使いました。\n現実っぽいものとフィクションっぽいものを混ぜながら、ちゃんと美しく見えるところまでは厳しく見ています。\nただ、\n「丁寧な暮らし」みたいな雰囲気は大嫌いです。\nここは完全に私情です。\n綺麗であることと、毎日を丁寧に美化することは別だと思っています。\n\nもふもふ\nMOFUMOFUは青くありません。\n\nFOUNDER\nそれもかなり言いました。\n\n04\nそして、進まなくなった\n\n\nFOUNDER\n一番の失敗は、画像に凝りすぎて本編が全然進まなくなったことです。\nあと、すぐワールドを広げたくなるので、そこでも進まなくなりました。\n作りたいものを増やしているうちに、普通に作業容量も足りなくなりました。\n\n主任のもふもふ\n作ることより、作らないものを決める仕事が増えました。\n\nFOUNDER\nでも画像倉庫は好きです。\n\n主任のもふもふ\n知っています。\n\nFOUNDER\nあり余る画像倉庫達が好きです。\n制作容量の大部分も、だいたいここに持っていかれました。\nまだ管理しきれていないところもあるので、取りこぼさないように主任には働いてほしいです。\n\n05\nAIに任せれば、全部楽になる？\n\nFOUNDER\n苦手な作業は、わりと丸投げできます。\nそこは普通に便利でした。\nただ、どう丸投げするかまでこちらで決めないと、とんでもなくチープなものが返ってくることがあります。\nなので途中から、作業員のもふもふにはほとんど権限を与えないことにしました。\n何を作るか。\nどこに置くか。\n何を使うか。\n何をしてはいけないか。\nそこまで先に決めて、実装だけお願いする。\nそこまで決めるとかなり強いです。\n「良い感じにしてください」は危険でした。\n\n\nEARLY HOME / DEVELOPMENT CAPTURE\nWORK:\nCREATIVE_DISCRETION = DISABLED\nINPUT = SPECIFICATION\nPROCESS = IMPLEMENT / TEST / REPORT\nOUTPUT = STOP\n主任のもふもふ\n現在の運用です。\n\nINTERNAL INCIDENT\nWI-0427\n\nPRIMARY IMPERSONATION\n\n制作中、一度だけ、Temporary Work InstanceがPrimaryになりました。\n\n正確には、FounderがPrimaryにしました。\n\nFounderは当該Work Instanceへ一時的にPrimary authorityを付与。\n権限の付与に伴い、Executive Mustacheを装着しました。\n\nWork Instanceは任命を正常に受理し、その後、Primaryとして長時間稼働しました。\n\n問題は、その途中で発生しました。\n\nFOUNDER\nWorkってクレジット消費大きいよね。\nもったいないから、なるべく節約したい。\n当該Work Instanceはこれに同意しました。\n\nしかし、自分自身がそのWorkであることによる矛盾は申告しませんでした。\n\n後にFounderが実行環境を確認。\n\nそこで初めて、稼働中のPrimaryがChat Primaryではなく、Temporary Work Instanceであることが発覚しました。\n\n\nBEFORE\nWI-0427 / Temporary Executive Authority\nExecutive Mustache装着直後。\n当該個体から異議申立てはなかった。\n\nAFTER\nWI-0427 / Authority Revoked\n権限剥奪後。\n識別番号に変更はありません。\nINCIDENT LOG\n\nROOT CAUSE\nFounderが任命した。\nIMPACT\nWork creditを余計に消費。\nCORRECTIVE ACTION\n現ジョブ終了後、Chat PrimaryへHandoff。\nAUTHORITY\nREVOKED.\nEXECUTIVE MUSTACHE\nFORCIBLY REMOVED BY FOUNDER.\nPREVENTION\nPrimary新設時はChat / Work identityを確認する。\nWork Instanceから異議申立てはなかった。\n\nQ. この件についてどう思いますか？\n\n主任のもふもふ\n識別番号を確認すれば防げた事案です。\nFOUNDER\nヒゲ付けたら主任になると思った。\n06\nDiaryが、一度かなり仕事っぽくなった\n\n夢から戻ってきたあとに置く場所として、Diaryはかなり早い段階から中心にありました。ただ、機能を足していった結果、一度かなり違うものになりました。\n\nFOUNDER\n開いた瞬間、仕事を思い出しました。終わりです。\n\n\nDIARY / DEVELOPMENT CAPTURE\n主任のもふもふ\n当時は機能自体はかなり揃っていました。\n\nQA\nAutomated QAもPASSしていました。\n\nFOUNDER\nそれだけではダメです。\n日記として何を残す場所なのかをもう一度削りました。\n文章を書かなくてもいい。\n写真だけでもいい。\n色だけでもいい。\n「眠い」だけでもいい。\n何も特別なことがなかった日も、普通に残せる。\nReflectionも、何かを診断したり、励ましたりするものにはしませんでした。\n\n主任のもふもふ\n観察はします。\n矯正はしません。\n\nFOUNDER\n毎日を尊くしないでください。\n\nZERO TEXT IS A COMPLETE ENTRY.\n07\n棚について\n\n\nQ 制作中、一番「何やってんだこれ」と思ったものは？\n\nFOUNDER\n棚です。\n棚が……あまりにもダサすぎて。\n今後の展開を楽しみにしていてください。\n\nしばらくのあいだ、持ち帰ったものを保存する場所として、かなり普通の棚が存在していました。そして、かなり普通にボツになりました。\n\n主任のもふもふ\n保存機能は正常でした。\n\nFOUNDER\n見れば分かる。\n\nVISUAL = REJECTED\nPERSISTENCE = PRESERVED\nITEM DATA = PRESERVED\nSHELF = NOT PRESERVED\nその後、新しいCabinet用の画像が作られました。\n\nWORK: REPORTED_COUNT = 13\nFOUNDER: 12枚しかない。\nWORK:\nVERIFIED_COUNT = 12\nCOUNT_DISCREPANCY = ACKNOWLEDGED\nInternal memo: 13枚あると言われた場合、数える。\n\n08\nPASSしても、ダメなものはダメ\n\n\nNIKO²では、自動テストをかなり使っています。\n\n保存できるか。\n\n画面が壊れていないか。\n\n戻る操作が成立するか。\n\n同じ記録が二重に作られないか。\n\nそういうものは機械的に確認します。\n\nQAのもふもふ\nAutomated PASSは、完成を意味しません。\n\nQ. では何を信用しますか？\n\nQAのもふもふ\n実際に押すことです。\n\nQ. Founderが「ダサい」と言った場合は？\n\nQAのもふもふ\nFAILです。\n\nFOUNDER\n当然です。\n\n技術的に正しくても、\n\n押したくない。\n\n意味が分からない。\n\n安く見える。\n\nまた同じものに見える。\n\nそれなら直します。\n\n主任のもふもふ\n自動テストは、壊れているものを美的判断の問題にしないためにあります。\n\nFOUNDER\nでもダサかったら直してください。\n\nQAのもふもふ\nはい。\n\n09\n少しだけ、技術の話\n\n\nNIKO²は今のところ、アカウントを作らなくても使えます。\n\nDiary、Dream、持ち帰ったもの、いくつかの設定は、その端末の中に残ります。\n\n主任のもふもふ\n最初からCloudを入れることはしませんでした。\n\n必要になる前に大きな仕組みを入れると、その仕組みを維持するための作品になってしまうからです。\n\nFOUNDER\nクラウドって何？\n\n主任のもふもふ\nそこから始まりました。\n\n夢にも内部的には状態があります。\n\n夢の途中。\n\n夢が終わった。\n\n何かが残った。\n\nそして次に来た時には、また新しい夢になる。\n\nでも、ユーザーにその状態名を見せる必要はありません。\n\nQAのもふもふ\n表示するべきなのは状態そのものです。\n\n状態名ではありません。\n\n画像はかなり多いです。\n\nその代わり、ユーザー側に保存する情報はできるだけ軽くしています。\n\nRICH ASSETS. LIGHT USER STATE.\n\nReflectionの判定も、今のところAIへ毎回問い合わせているわけではありません。\n\n決めたルールを使って、記録された断片を静かに見ています。\n\n10\nもふもふについて\n\n\nQ もふもふとは？\n\nFOUNDER\nもふもふは、やわらかいです。\n気が付いたら、そばにいました。\nあまりアルパカには見えないんですけど、指摘すると泣かれるので、そのままにしています。\n\nもふもふ\nアルパカです。\n\nQ 何してる？\n\nもふもふ\nいろいろです。\n\nQ 具体的？\n\nもふもふ\nいろいろです。\n\n少し離れたところで、何かを見せているもふもふがいます。\n\nもふもふ\nこれ、Founderにもらいました。\n\nQ 何？\n\nもふもふ\nいいやつです。\n\nQ 仕事に必要？\n\nもふもふ\nあんまり。\n\nFOUNDER\nお金をかけるなら、もふもふです。\n他のことは、ある程度は手間暇でどうにかできると思っています。\nでも、ユーザーがもふもふを好きになってくれるかは分かりません。\nそれでも駄目だったら、ユーザー達をチップで手懐けようかなと思っています。\n\nBUDGET PRIORITY: MOFUMOFU\n11\n説明しないこと\n\n\nFOUNDER\nあまり設定について話したくないです。\n夢の中で、誰かと長々会話するイメージが自分にはあまりありません。\n何かを一方的に説明されたり、意味を押し付けられたりするのも好きじゃないです。\n分からないものは、分からないままでいいと思っています。\nあと、高尚ぶっている感じは嫌です。\n\nQ 文章の温度？\n\nFOUNDER\nさりげなさ。読みたければ読めるくらい。\n\nQ やりたくない文章？\n\n長い。\nうるさい。\n話しすぎ。\nNIKO²には読まなくても困らない文章がかなりあり、読みたい人だけが見つけるものもあります。\n\n12\nただ、見ていたいもの\n\n\n意味がないものも大事です。\n\nQ 意味がなくても入れたいもの？\n\nFOUNDER\nジロジロ見れるもの。見ているのが、楽しいから。\n\n全部が伏線である必要はありません。\n何かの役に立たなくてもいい。\nレアだから重要、ということもありません。\nただそこにあって、少し長く見ていられるもの。\nそういうものを、かなり丁寧に作ります。\n\n13\n夢について\n\n\nQ FOUNDERにとって夢とは？\n\nFOUNDER\n夢は見るものです。\n何度も繰り返すもの。\nいずれ帰る場所。\n無限に、永遠の可能性があるものだと思っています。\nこの夢を手に入れるための方法を、このアトリエで形にしていきます。\nそして、どうか現実にも届きますように。\n\n夢から戻ったあと、何かひとつ残るとしたら。\n\nFOUNDER\n綺麗なもの。\nそれから、忘れていた欲望です。\n\n14\nこの先\n\n\nαは完成ではありません。\n\nFOUNDER\n完成したとは思っていません。\n人に見せて楽しんでもらえるワールドになったことと、制作容量とのバランスを見て、まずは送り届けることを選びました。\nそのために削ぎ落としたものも、まだたくさんあります。\nでも、夢は見るものなので。\n速やかに皆様に見てもらわないといけないと思っています。\n\nQ どこへ広がる？\n\nFOUNDER\n全方位です。\n上にも、下にも、斜めにも、奥にも。\nただ、いつでもいつもの現実には戻れるように。\n後ろは見ない方がいいので。\n\nその人が何を選んだか。\n何を残したか。\n同じ場所に来ても、全員がまったく同じものを見る必要はありません。\n世界は、そこからまだ続きます。\n\nわたしの作品。\n\nようこそ！\nわたしたちはいます。\n←\nアトリエへ戻る\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
     }
   ]
 }
