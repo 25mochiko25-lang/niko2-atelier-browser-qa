@@ -1,7 +1,7 @@
 {
-  "id": "r63-dream-menu",
+  "id": "r64-leave-hotel",
   "op": "tap",
-  "x": 118,
-  "y": 80,
-  "note": "One hotel stay was enough for now; I am more interested in variety than repeating nights. The Diary header now offers Dream, so I open it."
+  "x": 32,
+  "y": 102,
+  "note": "Dream returned me to the hotel instead of showing destinations. That was not what I expected from the label. I use the visible back arrow to return to the atelier."
 }
