@@ -1,7 +1,6 @@
 {
-  "id": "38",
-  "op": "tap",
-  "x": 195,
-  "y": 752,
-  "note": "Finalize the perfume."
+  "id": "39",
+  "op": "key",
+  "key": "PageDown",
+  "note": "Read further down the finished perfume result and reach its save controls."
 }
