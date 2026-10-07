@@ -5,19 +5,19 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-07T04:05:38.933Z",
-  "updatedAt": "2026-10-07T04:22:30.265Z",
-  "lastCommand": "r41",
+  "updatedAt": "2026-10-07T04:22:57.521Z",
+  "lastCommand": "r42",
   "stopReason": null,
   "action": {
-    "id": "r41",
+    "id": "r42",
     "op": "tap",
-    "x": 193,
-    "y": 384,
+    "x": 107,
+    "y": 74,
     "wait": 350,
-    "note": "一本目で分かった層の切り替えを使い、次はMIDDLE。"
+    "note": "二本目のMIDDLEは『濡れた石』。冷たい雰囲気で揃える。"
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/462e65833984f8d5718aa969836bd1a1a688f0d0/live-results/sloppy-mobile-recovery-20261007-0406-mofu-3c4b3187/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/c14d6a2a22e5b9c3c9417d8b1c36e95d33550281/live-results/sloppy-mobile-recovery-20261007-0406-mofu-3c4b3187/current.jpg",
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#perfume",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -29,7 +29,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\nNIKO² ATELIER\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDREAM / PM-01\nPERFUME MORGUE\nFORMULA / 1 MATERIAL\n香りになれなかった記憶。\n素材を選び、三つの層へ落としてください。順番と濃度で、同じ記憶も別の香りになります。\n雨\n古いぬいぐるみ\n燃えた砂糖\nホテルの白いシーツ\n甘い夢\n紅茶の渋み\n煙の名残\n花\n濡れた石\n乾いた木\n生の果実\n夜更け\n海水\n古い本\n化粧の粉\n冷たい金属\n\nMIXING BOTTLE / 1 MATERIAL\nIN BOTTLE / 夜更け ×1\n\n01\nTOP\n\n02\nMIDDLE\n\n03\nLAST\nTOP\n夜更け ×1\n×\n−\n＋\nMIDDLE\nこの層には、まだ何も落ちていない。\nLAST\nこの層には、まだ何も落ちていない。\nCONCENTRATION\nEAU DE TOILETTE / 肌に近い\n\nEau Fraîche\n水のあと\n\nCologne\n風の輪郭\n\nToilette\n肌に近い\n\nParfum\n記憶の濃度\n\nExtrait\n最後まで残る\n\n香りを定着させる\n",
+  "text": "作品へ移動\nNIKO² ATELIER\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDREAM / PM-01\nPERFUME MORGUE\nFORMULA / 2 MATERIALS\n香りになれなかった記憶。\n素材を選び、三つの層へ落としてください。順番と濃度で、同じ記憶も別の香りになります。\n雨\n古いぬいぐるみ\n燃えた砂糖\nホテルの白いシーツ\n甘い夢\n紅茶の渋み\n煙の名残\n花\n濡れた石\n乾いた木\n生の果実\n夜更け\n海水\n古い本\n化粧の粉\n冷たい金属\n\nMIXING BOTTLE / 2 MATERIALS\nIN BOTTLE / 夜更け ×1 · 濡れた石 ×1\n\n01\nTOP\n\n02\nMIDDLE\n\n03\nLAST\nTOP\n夜更け ×1\n×\n−\n＋\nMIDDLE\n濡れた石 ×1\n×\n−\n＋\nLAST\nこの層には、まだ何も落ちていない。\nCONCENTRATION\nEAU DE TOILETTE / 肌に近い\n\nEau Fraîche\n水のあと\n\nCologne\n風の輪郭\n\nToilette\n肌に近い\n\nParfum\n記憶の濃度\n\nExtrait\n最後まで残る\n\n香りを定着させる\n",
   "controls": [
     {
       "tag": "A",
@@ -231,11 +231,44 @@
     },
     {
       "tag": "BUTTON",
+      "text": "×",
+      "disabled": false,
+      "rect": {
+        "x": 74,
+        "y": 518,
+        "w": 26,
+        "h": 32
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "−",
+      "disabled": true,
+      "rect": {
+        "x": 103,
+        "y": 518,
+        "w": 26,
+        "h": 32
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "＋",
+      "disabled": false,
+      "rect": {
+        "x": 132,
+        "y": 518,
+        "w": 26,
+        "h": 32
+      }
+    },
+    {
+      "tag": "BUTTON",
       "text": "Eau Fraîche\n水のあと",
       "disabled": false,
       "rect": {
         "x": 26,
-        "y": 604,
+        "y": 621,
         "w": 63,
         "h": 70
       }
@@ -246,7 +279,7 @@
       "disabled": false,
       "rect": {
         "x": 95,
-        "y": 604,
+        "y": 621,
         "w": 63,
         "h": 70
       }
@@ -257,7 +290,7 @@
       "disabled": false,
       "rect": {
         "x": 164,
-        "y": 604,
+        "y": 621,
         "w": 63,
         "h": 70
       }
@@ -268,7 +301,7 @@
       "disabled": false,
       "rect": {
         "x": 232,
-        "y": 604,
+        "y": 621,
         "w": 63,
         "h": 70
       }
@@ -279,7 +312,7 @@
       "disabled": false,
       "rect": {
         "x": 301,
-        "y": 604,
+        "y": 621,
         "w": 63,
         "h": 70
       }
@@ -290,7 +323,7 @@
       "disabled": false,
       "rect": {
         "x": 28,
-        "y": 684,
+        "y": 701,
         "w": 338,
         "h": 32
       }
@@ -301,7 +334,7 @@
       "disabled": true,
       "rect": {
         "x": 26,
-        "y": 728,
+        "y": 745,
         "w": 338,
         "h": 48
       }
@@ -962,6 +995,22 @@
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#perfume",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/462e65833984f8d5718aa969836bd1a1a688f0d0/live-results/sloppy-mobile-recovery-20261007-0406-mofu-3c4b3187/current.jpg",
       "text": "作品へ移動\nNIKO² ATELIER\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDREAM / PM-01\nPERFUME MORGUE\nFORMULA / 1 MATERIAL\n香りになれなかった記憶。\n素材を選び、三つの層へ落としてください。順番と濃度で、同じ記憶も別の香りになります。\n雨\n古いぬいぐるみ\n燃えた砂糖\nホテルの白いシーツ\n甘い夢\n紅茶の渋み\n煙の名残\n花\n濡れた石\n乾いた木\n生の果実\n夜更け\n海水\n古い本\n化粧の粉\n冷たい金属\n\nMIXING BOTTLE / 1 MATERIAL\nIN BOTTLE / 夜更け ×1\n\n01\nTOP\n\n02\nMIDDLE\n\n03\nLAST\nTOP\n夜更け ×1\n×\n−\n＋\nMIDDLE\nこの層には、まだ何も落ちていない。\nLAST\nこの層には、まだ何も落ちていない。\nCONCENTRATION\nEAU DE TOILETTE / 肌に近い\n\nEau Fraîche\n水のあと\n\nCologne\n風の輪郭\n\nToilette\n肌に近い\n\nParfum\n記憶の濃度\n\nExtrait\n最後まで残る\n\n香りを定着させる\n"
+    },
+    {
+      "number": 43,
+      "at": "2026-10-07T04:22:57.521Z",
+      "action": {
+        "id": "r42",
+        "op": "tap",
+        "x": 107,
+        "y": 74,
+        "wait": 350,
+        "note": "二本目のMIDDLEは『濡れた石』。冷たい雰囲気で揃える。"
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#perfume",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/c14d6a2a22e5b9c3c9417d8b1c36e95d33550281/live-results/sloppy-mobile-recovery-20261007-0406-mofu-3c4b3187/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDREAM / PM-01\nPERFUME MORGUE\nFORMULA / 2 MATERIALS\n香りになれなかった記憶。\n素材を選び、三つの層へ落としてください。順番と濃度で、同じ記憶も別の香りになります。\n雨\n古いぬいぐるみ\n燃えた砂糖\nホテルの白いシーツ\n甘い夢\n紅茶の渋み\n煙の名残\n花\n濡れた石\n乾いた木\n生の果実\n夜更け\n海水\n古い本\n化粧の粉\n冷たい金属\n\nMIXING BOTTLE / 2 MATERIALS\nIN BOTTLE / 夜更け ×1 · 濡れた石 ×1\n\n01\nTOP\n\n02\nMIDDLE\n\n03\nLAST\nTOP\n夜更け ×1\n×\n−\n＋\nMIDDLE\n濡れた石 ×1\n×\n−\n＋\nLAST\nこの層には、まだ何も落ちていない。\nCONCENTRATION\nEAU DE TOILETTE / 肌に近い\n\nEau Fraîche\n水のあと\n\nCologne\n風の輪郭\n\nToilette\n肌に近い\n\nParfum\n記憶の濃度\n\nExtrait\n最後まで残る\n\n香りを定着させる\n"
     }
   ]
 }
