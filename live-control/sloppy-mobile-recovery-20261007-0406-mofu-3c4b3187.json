@@ -1,8 +1,7 @@
 {
-  "id": "r27",
-  "op": "tap",
-  "x": 307,
-  "y": 652,
-  "wait": 350,
-  "note": "SCROLL_INFRA: PageDownは素材一覧だけを送った。スワイプ代行の対象を下の層タブへ移すため、既に選択済みのLASTを押す。サイトへの不満とは数えない。"
+  "id": "r28",
+  "op": "key",
+  "key": "PageDown",
+  "wait": 500,
+  "note": "SCROLL_INFRA: 層タブを起点にPageDownで下の完成操作を確認。"
 }
