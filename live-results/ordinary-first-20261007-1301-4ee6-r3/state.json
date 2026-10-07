@@ -5,18 +5,16 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-07T04:01:41.272Z",
-  "updatedAt": "2026-10-07T04:26:36.882Z",
-  "lastCommand": "65",
+  "updatedAt": "2026-10-07T04:26:59.669Z",
+  "lastCommand": "66",
   "stopReason": null,
   "action": {
-    "id": "65",
-    "op": "tap",
-    "x": 131,
-    "y": 250,
-    "note": "『存在しないものを、お二つまで。』というルームサービスだった。『Tea for Nobody』のカップを二つという説明が気になるので選ぶ。"
+    "id": "66",
+    "op": "look",
+    "note": "Tea for Nobodyを選ぶと『ティーカップが二つ届いた』という短い文章が出た。部屋の表示が切り替わっているようなので、届いた様子を少し眺める。"
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/f2f2c47dc91f06638858df5875779acab8e082b9/live-results/ordinary-first-20261007-1301-4ee6-r3/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/9b2defcde9ed0188071347f22fe779de8131c325/live-results/ordinary-first-20261007-1301-4ee6-r3/current.jpg",
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#hotel",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -1088,6 +1086,19 @@
       "error": null,
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#hotel",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/f2f2c47dc91f06638858df5875779acab8e082b9/live-results/ordinary-first-20261007-1301-4ee6-r3/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDREAM / ROOM 0317\nHOTEL SOMNIA\nSTAY 0 / 3\n×\nTea for Nobody\nティーカップが二つ届いた。誰も来なかったし、最後まで二つだった。\nもう一品見る\n今夜をDiaryへ持ち帰る\nCHECK OUT\n\n\n"
+    },
+    {
+      "number": 67,
+      "at": "2026-10-07T04:26:59.669Z",
+      "action": {
+        "id": "66",
+        "op": "look",
+        "note": "Tea for Nobodyを選ぶと『ティーカップが二つ届いた』という短い文章が出た。部屋の表示が切り替わっているようなので、届いた様子を少し眺める。"
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#hotel",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/9b2defcde9ed0188071347f22fe779de8131c325/live-results/ordinary-first-20261007-1301-4ee6-r3/current.jpg",
       "text": "作品へ移動\nNIKO² ATELIER\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDREAM / ROOM 0317\nHOTEL SOMNIA\nSTAY 0 / 3\n×\nTea for Nobody\nティーカップが二つ届いた。誰も来なかったし、最後まで二つだった。\nもう一品見る\n今夜をDiaryへ持ち帰る\nCHECK OUT\n\n\n"
     }
   ]
