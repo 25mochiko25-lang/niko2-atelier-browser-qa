@@ -1,6 +1,7 @@
 {
-  "id": "r60-hotel-record-down",
-  "op": "key",
-  "key": "PageDown",
-  "note": "Move down to the recent records to inspect the hotel key left by checkout."
+  "id": "r61-open-room000-memory",
+  "op": "tap",
+  "x": 193,
+  "y": 252,
+  "note": "The recent list now contains ROOM 000 / KEY and still shows the petal card. I open the key record to look for its consequence."
 }
