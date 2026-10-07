@@ -5,18 +5,17 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-07T15:21:45.028Z",
-  "updatedAt": "2026-10-07T15:45:09.521Z",
-  "lastCommand": "38",
+  "updatedAt": "2026-10-07T15:46:56.502Z",
+  "lastCommand": "39",
   "stopReason": null,
   "action": {
-    "id": "38",
-    "op": "tap",
-    "x": 195,
-    "y": 752,
-    "note": "Finalize the perfume."
+    "id": "39",
+    "op": "key",
+    "key": "PageDown",
+    "note": "Read further down the finished perfume result and reach its save controls."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/482dafb35c39600e0f6d89ad3783591fc3c6c668/live-results/freeplay-20261008-niko-c/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/e5787b9d2ad780c120391d5cf6c7529da6a839c2/live-results/freeplay-20261008-niko-c/current.jpg",
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#perfume",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -645,6 +644,20 @@
       "error": null,
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#perfume",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/482dafb35c39600e0f6d89ad3783591fc3c6c668/live-results/freeplay-20261008-niko-c/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDREAM / PM-01\nPERFUME MORGUE\nFRAGRANCE / KEPT\nFRESH / 太陽の方へ\nF-20261007-B70F\nFalse Morning\nFRESH / 太陽の方へ\nEAU DE PARFUM / 記憶の濃度\nTOP\n1. 甘い夢 ×1\nMIDDLE\n1. 紅茶の渋み ×1\nLAST\n1. 花 ×1\nFORMULA / SCENT CHARACTER\n最初に甘い夢。 少し遅れて紅茶の渋み。 最後に花が残る。 密度のある長い残香へ着地する。\nDiaryに持ち帰る\nもう一度調合する\nカーテンを開けた。  朝日が眩しい。 鳥もうるさく鳴いてる。 冷えたレモン水まで用意されている。  午前4時12分。  誰が朝にしたの？\nREAL WORLD ECHOES\nREAL WORLD / TRACE ONLY\nこの香りには、現実にも近い夢がある。\nいまはまだ、名前ではなく三つの手掛かりだけ。\n\nECHO / AIR\nオレンジブロッサム\nECHO / HEART\nラベンダー\nECHO / TRACE\nチュベローズ / ジャスミン\n"
+    },
+    {
+      "number": 40,
+      "at": "2026-10-07T15:46:56.502Z",
+      "action": {
+        "id": "39",
+        "op": "key",
+        "key": "PageDown",
+        "note": "Read further down the finished perfume result and reach its save controls."
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#perfume",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/e5787b9d2ad780c120391d5cf6c7529da6a839c2/live-results/freeplay-20261008-niko-c/current.jpg",
       "text": "作品へ移動\nNIKO² ATELIER\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDREAM / PM-01\nPERFUME MORGUE\nFRAGRANCE / KEPT\nFRESH / 太陽の方へ\nF-20261007-B70F\nFalse Morning\nFRESH / 太陽の方へ\nEAU DE PARFUM / 記憶の濃度\nTOP\n1. 甘い夢 ×1\nMIDDLE\n1. 紅茶の渋み ×1\nLAST\n1. 花 ×1\nFORMULA / SCENT CHARACTER\n最初に甘い夢。 少し遅れて紅茶の渋み。 最後に花が残る。 密度のある長い残香へ着地する。\nDiaryに持ち帰る\nもう一度調合する\nカーテンを開けた。  朝日が眩しい。 鳥もうるさく鳴いてる。 冷えたレモン水まで用意されている。  午前4時12分。  誰が朝にしたの？\nREAL WORLD ECHOES\nREAL WORLD / TRACE ONLY\nこの香りには、現実にも近い夢がある。\nいまはまだ、名前ではなく三つの手掛かりだけ。\n\nECHO / AIR\nオレンジブロッサム\nECHO / HEART\nラベンダー\nECHO / TRACE\nチュベローズ / ジャスミン\n"
     }
   ]
