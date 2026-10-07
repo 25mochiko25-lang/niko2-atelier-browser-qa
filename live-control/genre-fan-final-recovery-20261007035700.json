@@ -1,7 +1,7 @@
 {
-  "id": "r03-intro-next",
+  "id": "r04-enter-garden",
   "op": "tap",
-  "x": 335,
-  "y": 770,
-  "note": "Recovery: proceed past the interaction examples already viewed in the initial session."
+  "x": 330,
+  "y": 771,
+  "note": "Recovery traversal: enter the garden from the visible welcome page."
 }
