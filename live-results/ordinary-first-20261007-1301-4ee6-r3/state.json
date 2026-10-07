@@ -5,17 +5,17 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-07T04:01:41.272Z",
-  "updatedAt": "2026-10-07T04:23:25.589Z",
-  "lastCommand": "57",
+  "updatedAt": "2026-10-07T04:23:43.622Z",
+  "lastCommand": "58",
   "stopReason": null,
   "action": {
-    "id": "57",
+    "id": "58",
     "op": "key",
     "key": "Tab",
-    "note": "音ボタンから次へTab移動。結果下部の閲覧を続ける。"
+    "note": "戻るボタンの次へTab移動して結果下部を表示する。"
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/258c0bcee13a7b03ae9bd6552f9d91be7e4b831b/live-results/ordinary-first-20261007-1301-4ee6-r3/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/d4b9c1d1250379c657d972da61e4b35700ccc05e/live-results/ordinary-first-20261007-1301-4ee6-r3/current.jpg",
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#perfume",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -53,13 +53,24 @@
     },
     {
       "tag": "BUTTON",
-      "text": "アトリエへ戻る",
+      "text": "Diaryに持ち帰る",
       "disabled": false,
       "rect": {
-        "x": 14,
-        "y": 82,
-        "w": 40,
-        "h": 40
+        "x": 46,
+        "y": 400,
+        "w": 145,
+        "h": 44
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "もう一度調合する",
+      "disabled": false,
+      "rect": {
+        "x": 199,
+        "y": 400,
+        "w": 145,
+        "h": 44
       }
     }
   ],
@@ -914,6 +925,20 @@
       "error": null,
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#perfume",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/258c0bcee13a7b03ae9bd6552f9d91be7e4b831b/live-results/ordinary-first-20261007-1301-4ee6-r3/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDREAM / PM-01\nPERFUME MORGUE\nFRAGRANCE / KEPT\nDARK / AM02:30\nF-20261007-93C9\nAfter 02:30\nDARK / AM02:30\nEAU DE TOILETTE / 肌に近い\nTOP\n1. 生の果実 ×1\nMIDDLE\n1. 乾いた木 ×1\nLAST\n1. 夜更け ×1\nFORMULA / SCENT CHARACTER\n最初に生の果実。 少し遅れて乾いた木。 最後に夜更けが残る。 肌の近くで続く輪郭へ着地する。\nDiaryに持ち帰る\nもう一度調合する\n02:30。 02:30。 02:30。  時計は壊れていない。 部屋も、香りも、あなたも正常に動いている。 朝だけ、まだ来ない。\nREAL WORLD ECHOES\nREAL WORLD / TRACE ONLY\nこの香りには、現実にも近い夢がある。\nいまはまだ、名前ではなく三つの手掛かりだけ。\n\nECHO / AIR\nプラムリキュール\nECHO / HEART\nウード\nECHO / TRACE\nアンブロキサン / パチョリ\n"
+    },
+    {
+      "number": 59,
+      "at": "2026-10-07T04:23:43.622Z",
+      "action": {
+        "id": "58",
+        "op": "key",
+        "key": "Tab",
+        "note": "戻るボタンの次へTab移動して結果下部を表示する。"
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#perfume",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/d4b9c1d1250379c657d972da61e4b35700ccc05e/live-results/ordinary-first-20261007-1301-4ee6-r3/current.jpg",
       "text": "作品へ移動\nNIKO² ATELIER\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDREAM / PM-01\nPERFUME MORGUE\nFRAGRANCE / KEPT\nDARK / AM02:30\nF-20261007-93C9\nAfter 02:30\nDARK / AM02:30\nEAU DE TOILETTE / 肌に近い\nTOP\n1. 生の果実 ×1\nMIDDLE\n1. 乾いた木 ×1\nLAST\n1. 夜更け ×1\nFORMULA / SCENT CHARACTER\n最初に生の果実。 少し遅れて乾いた木。 最後に夜更けが残る。 肌の近くで続く輪郭へ着地する。\nDiaryに持ち帰る\nもう一度調合する\n02:30。 02:30。 02:30。  時計は壊れていない。 部屋も、香りも、あなたも正常に動いている。 朝だけ、まだ来ない。\nREAL WORLD ECHOES\nREAL WORLD / TRACE ONLY\nこの香りには、現実にも近い夢がある。\nいまはまだ、名前ではなく三つの手掛かりだけ。\n\nECHO / AIR\nプラムリキュール\nECHO / HEART\nウード\nECHO / TRACE\nアンブロキサン / パチョリ\n"
     }
   ]
