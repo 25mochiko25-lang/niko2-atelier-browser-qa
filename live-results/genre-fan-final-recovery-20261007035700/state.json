@@ -5,19 +5,17 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-07T03:57:39.491Z",
-  "updatedAt": "2026-10-07T04:28:51.071Z",
-  "lastCommand": "r69-large-moon",
+  "updatedAt": "2026-10-07T04:29:30.252Z",
+  "lastCommand": "r70-leave-second-garden",
   "stopReason": null,
   "action": {
-    "id": "r69-large-moon",
-    "op": "tap",
-    "x": 72,
-    "y": 71,
-    "note": "The droplets did not produce a visible new fragment. I try the oversized moon near the top-left, another conspicuous feature."
+    "id": "r70-leave-second-garden",
+    "op": "back",
+    "note": "Voluntary departure from the second garden at 1/5: I have seen the collection pattern, and two conspicuous features produced no new fragment. I am more curious about how my souvenirs affect the room than completing another hunt."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/0b9d1e39dd0768d788cc3e4f9782ff1cc8159d47/live-results/genre-fan-final-recovery-20261007035700/current.jpg",
-  "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/ab576179a2ab614f7875ebf0a4efe04f6eea5d1a/live-results/genre-fan-final-recovery-20261007035700/current.jpg",
+  "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
   "title": "NIKO² ATELIER",
   "viewport": {
     "width": 390,
@@ -28,7 +26,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n1 / 5\n見つけた異常\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+  "text": "作品へ移動\n \nWORLD\nWORLD\n水面の向こうに、いくつかの場所がひらいています。\n\n\nABOUT\nもふもふはいます。\nPLAY / SHARE / FAN WORK\nNIKO²での生活について\n好きな形で遊ぶための、小さな境界。\nDEAR ATELIER\nお手紙を送る\nAtelierの受取箱へ。\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
   "controls": [
     {
       "tag": "BUTTON",
@@ -42,80 +40,36 @@
       }
     },
     {
-      "tag": "BUTTON",
-      "text": "夢の見覚え ✧︎",
+      "tag": "A",
+      "text": "FROM THE ATELIERを開く",
       "disabled": false,
       "rect": {
-        "x": 315,
-        "y": 56,
-        "w": 61,
-        "h": 30
+        "x": 279,
+        "y": 274,
+        "w": 91,
+        "h": 92
+      }
+    },
+    {
+      "tag": "A",
+      "text": "Diaryを開く",
+      "disabled": false,
+      "rect": {
+        "x": 14,
+        "y": 298,
+        "w": 147,
+        "h": 147
       }
     },
     {
       "tag": "BUTTON",
-      "text": "沈む、二つ目の月に触れる",
+      "text": "Enter the dream",
       "disabled": false,
       "rect": {
-        "x": 240,
-        "y": 76,
-        "w": 129,
-        "h": 152
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "上へ落ちる雨に触れる",
-      "disabled": false,
-      "rect": {
-        "x": 54,
-        "y": 152,
-        "w": 107,
-        "h": 236
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "雲の向こうの夜に触れる",
-      "disabled": false,
-      "rect": {
-        "x": 347,
-        "y": 17,
-        "w": 113,
-        "h": 135
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "ほどけない星座に触れる",
-      "disabled": false,
-      "rect": {
-        "x": 234,
-        "y": 203,
-        "w": 101,
-        "h": 160
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "頭上の水面（発見済み）",
-      "disabled": false,
-      "rect": {
-        "x": 20,
-        "y": 84,
-        "w": 270,
-        "h": 101
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "星座の門に触れる",
-      "disabled": false,
-      "rect": {
-        "x": 296,
-        "y": 219,
-        "w": 141,
-        "h": 211
+        "x": 90,
+        "y": 494,
+        "w": 210,
+        "h": 70
       }
     }
   ],
@@ -1163,6 +1117,19 @@
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/0b9d1e39dd0768d788cc3e4f9782ff1cc8159d47/live-results/genre-fan-final-recovery-20261007035700/current.jpg",
       "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n1 / 5\n見つけた異常\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+      "number": 71,
+      "at": "2026-10-07T04:29:30.252Z",
+      "action": {
+        "id": "r70-leave-second-garden",
+        "op": "back",
+        "note": "Voluntary departure from the second garden at 1/5: I have seen the collection pattern, and two conspicuous features produced no new fragment. I am more curious about how my souvenirs affect the room than completing another hunt."
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/ab576179a2ab614f7875ebf0a4efe04f6eea5d1a/live-results/genre-fan-final-recovery-20261007035700/current.jpg",
+      "text": "作品へ移動\n \nWORLD\nWORLD\n水面の向こうに、いくつかの場所がひらいています。\n\n\nABOUT\nもふもふはいます。\nPLAY / SHARE / FAN WORK\nNIKO²での生活について\n好きな形で遊ぶための、小さな境界。\nDEAR ATELIER\nお手紙を送る\nAtelierの受取箱へ。\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
     }
   ]
 }
