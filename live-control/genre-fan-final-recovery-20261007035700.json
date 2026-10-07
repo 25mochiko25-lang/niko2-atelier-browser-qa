@@ -1,6 +1,7 @@
 {
-  "id": "r76-home-tab",
-  "op": "key",
-  "key": "Tab",
-  "note": "PageDown is still ineffective after reload. Use the visitor contract's Tab fallback to move focus through ordinary page links, without clicking any offscreen target."
+  "id": "r77-skip-to-work",
+  "op": "tap",
+  "x": 59,
+  "y": 28,
+  "note": "Tab exposes a visible Skip to work link. I use that normal accessibility link to move focus into the page content."
 }
