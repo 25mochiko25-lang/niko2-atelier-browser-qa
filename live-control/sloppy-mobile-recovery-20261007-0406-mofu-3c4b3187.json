@@ -1,8 +1,8 @@
 {
-  "id": "r04",
+  "id": "r05",
   "op": "tap",
-  "x": 333,
-  "y": 771,
-  "wait": 500,
-  "note": "INFRA_RECOVERY: 導入の『夢へ入る』を押す。"
+  "x": 195,
+  "y": 789,
+  "wait": 400,
+  "note": "INFRA_RECOVERY: 既に訪れた庭へ入る。"
 }
