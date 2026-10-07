@@ -1,7 +1,6 @@
 {
-  "id": "r16-focus-words",
-  "op": "tap",
-  "x": 181,
-  "y": 552,
-  "note": "Focus the visible note field to write my reaction to this garden."
+  "id": "r17-write-words",
+  "op": "type",
+  "text": "どの扉にも合わない鍵と、帰ってきた花びら。",
+  "note": "Record the contrast between the key and the petal, which is what stayed with me from the garden."
 }
