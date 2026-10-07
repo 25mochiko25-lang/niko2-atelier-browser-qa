@@ -1,7 +1,7 @@
 {
-  "id": "r53-hotel-check-in",
+  "id": "r54-order-yesterday",
   "op": "tap",
-  "x": 94,
-  "y": 730,
-  "note": "The fictional hotel says the first three stays are open and offers CHECK IN. I take the first stay to try its room service."
+  "x": 163,
+  "y": 313,
+  "note": "Up to two impossible items are offered. Yesterday at zero yen, with a taste depending on preservation, is the first thing I want to see delivered."
 }
