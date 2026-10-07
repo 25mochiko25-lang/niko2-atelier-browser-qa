@@ -1,7 +1,7 @@
 {
-  "id": "02-intro-next",
+  "id": "03-sound-on",
   "op": "tap",
-  "x": 334,
-  "y": 770,
-  "note": "A three-page introduction appeared after entering. I will read it once; this first line is brief."
+  "x": 146,
+  "y": 484,
+  "note": "The intro offers sound, so I enable it before entering. Audio itself cannot be judged from this screenshot channel."
 }
