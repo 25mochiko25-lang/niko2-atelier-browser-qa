@@ -1,5 +1,6 @@
 {
-  "id": "r74-reload-home",
-  "op": "reload",
-  "note": "After browser Back, PageDown no longer moves Home even after focusing empty space. Finger scrolling is unavailable in this harness, so the cause is uncertain. I reload the visible Home page once to continue viewing."
+  "id": "r75-world-after-reload",
+  "op": "key",
+  "key": "PageDown",
+  "note": "Try PageDown once after the normal reload to reach the WORLD section and continue the visit."
 }
