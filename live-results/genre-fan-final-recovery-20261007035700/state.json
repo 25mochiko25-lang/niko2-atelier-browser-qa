@@ -5,18 +5,18 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-07T03:57:39.491Z",
-  "updatedAt": "2026-10-07T04:11:42.769Z",
-  "lastCommand": "r33-close-reading-table",
+  "updatedAt": "2026-10-07T04:12:14.456Z",
+  "lastCommand": "r34-lab-corridor",
   "stopReason": null,
   "action": {
-    "id": "r33-close-reading-table",
+    "id": "r34-lab-corridor",
     "op": "tap",
-    "x": 359,
-    "y": 159,
-    "note": "Close the reading list to return to the room and choose a different visible object."
+    "x": 199,
+    "y": 374,
+    "note": "The open arch and shelves at the back look like a traversable space. I try going farther in."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/2830d8bf86d0fdfe3634d6d2949641ab8f971d69/live-results/genre-fan-final-recovery-20261007035700/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/5eb56273ccc2307d05ae4d7b757d53b42eb0a0ec/live-results/genre-fan-final-recovery-20261007035700/current.jpg",
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#lab",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -28,7 +28,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\nNIKO² ATELIER\n\n\n\n白と薄水色のガラス研究所。奥へ続く通路と、記録の置かれた観測台があります。\nMAIN LAB\n観測台\n\n\n\n観測台奥の保管室へ進む\nM-00 MANAGEMENT EQUIPMENTを開きました。\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+  "text": "作品へ移動\nNIKO² ATELIER\n\n\n\n白と薄水色のガラス研究所。奥へ続く通路と、記録の置かれた観測台があります。\nARCHIVE CHAMBER\n奥の保管室\n\n\n\n\nM-00 MANAGEMENT EQUIPMENTを開きました。\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
   "controls": [
     {
       "tag": "A",
@@ -65,35 +65,35 @@
     },
     {
       "tag": "BUTTON",
-      "text": "観測台",
+      "text": "青い返却トレイの仮留め資料、研究用マシュマロ消失事件を読む",
       "disabled": false,
       "rect": {
         "x": 60,
-        "y": 355,
+        "y": 462,
+        "w": 108,
+        "h": 63
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "オレンジの保留ポッドに入った保管スリーブ、向こうから先にノックされた扉を読む",
+      "disabled": false,
+      "rect": {
+        "x": 250,
+        "y": 486,
         "w": 81,
-        "h": 275
+        "h": 73
       }
     },
     {
       "tag": "BUTTON",
-      "text": "奥の保管室へ進む",
+      "text": "旧端末に触れる",
       "disabled": false,
       "rect": {
-        "x": 148,
-        "y": 305,
-        "w": 98,
-        "h": 170
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "障害シミュレーション／運用モードを開く",
-      "disabled": false,
-      "rect": {
-        "x": 265,
-        "y": 574,
-        "w": 65,
-        "h": 88
+        "x": 172,
+        "y": 330,
+        "w": 159,
+        "h": 136
       }
     }
   ],
@@ -603,6 +603,21 @@
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#lab",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/2830d8bf86d0fdfe3634d6d2949641ab8f971d69/live-results/genre-fan-final-recovery-20261007035700/current.jpg",
       "text": "作品へ移動\nNIKO² ATELIER\n\n\n\n白と薄水色のガラス研究所。奥へ続く通路と、記録の置かれた観測台があります。\nMAIN LAB\n観測台\n\n\n\n観測台奥の保管室へ進む\nM-00 MANAGEMENT EQUIPMENTを開きました。\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+      "number": 35,
+      "at": "2026-10-07T04:12:14.456Z",
+      "action": {
+        "id": "r34-lab-corridor",
+        "op": "tap",
+        "x": 199,
+        "y": 374,
+        "note": "The open arch and shelves at the back look like a traversable space. I try going farther in."
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#lab",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/5eb56273ccc2307d05ae4d7b757d53b42eb0a0ec/live-results/genre-fan-final-recovery-20261007035700/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\n\n\n\n白と薄水色のガラス研究所。奥へ続く通路と、記録の置かれた観測台があります。\nARCHIVE CHAMBER\n奥の保管室\n\n\n\n\nM-00 MANAGEMENT EQUIPMENTを開きました。\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
     }
   ]
 }
