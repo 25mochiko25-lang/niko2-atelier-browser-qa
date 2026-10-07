@@ -26,7 +26,7 @@ Unless the Founder explicitly overrides it, automatically:
 
 The Founder does not need to provide a Preview URL, browser method, session name, screenshots, action script, or step count for an ordinary visitor-QA request.
 
-A technical interruption or workflow limit is infrastructure, not visitor boredom. If the Founder explicitly asks for production, desktop, synthetic diagnostics, a fixed operation sequence, or another environment, that instruction overrides this default. For desktop, use the same live observer with `device: "desktop"`; do not switch browser systems just to obtain a desktop viewport.
+A technical interruption or workflow limit is infrastructure, not visitor boredom. If the Founder explicitly asks for production, desktop, synthetic diagnostics, a fixed operation sequence, or another environment, that instruction overrides this default. For Founder-device visual verification, use the same live observer with `device: "founder"` (430x932 touch mobile WebKit). For desktop, use `device: "desktop"`; do not switch browser systems just to obtain another viewport.
 
 ## Visitor roles
 
