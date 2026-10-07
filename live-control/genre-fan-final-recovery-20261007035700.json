@@ -1,6 +1,7 @@
 {
-  "id": "r78-page-content-down",
-  "op": "key",
-  "key": "PageDown",
-  "note": "After moving focus with the visible skip link, try the page-content PageDown fallback. If it remains unavailable, use a different visible route rather than interpreting it as visitor boredom."
+  "id": "r79-visible-diary-route",
+  "op": "tap",
+  "x": 91,
+  "y": 371,
+  "note": "I stop trying to scroll Home and take the visible floating Diary instead, as an ordinary alternate route to my saved objects."
 }
