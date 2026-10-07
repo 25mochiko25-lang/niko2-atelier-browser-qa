@@ -9,6 +9,12 @@ const session = config.session;
 if (!/^[a-z0-9-]+$/.test(session)) throw new Error('Invalid session ID');
 const target = new URL(config.target);
 if (target.protocol !== 'https:' || !['niko2-atelier-combined-preview.25mochiko25.workers.dev','niko2atelier.com'].includes(target.hostname)) throw new Error('Unapproved target');
+const device = config.device || 'mobile';
+if (!['mobile','desktop'].includes(device)) throw new Error('Unsupported device profile');
+const profile = device === 'desktop'
+  ? { viewport:{width:1440,height:900}, isMobile:false, hasTouch:false }
+  : { viewport:{width:390,height:844}, isMobile:true, hasTouch:true };
+
 const controlPath = `live-control/${session}.json`;
 const root = `live-results/${session}`;
 const headers = {Authorization:`Bearer ${token}`,Accept:'application/vnd.github+json','X-GitHub-Api-Version':'2022-11-28','Content-Type':'application/json'};
@@ -43,12 +49,12 @@ async function publish(action,error=null) {
     return {url:location.href,title:document.title,viewport:{width:innerWidth,height:innerHeight},documentWidth:document.documentElement.scrollWidth,scroll:{x:scrollX,y:scrollY},text:document.body.innerText.slice(0,12000),controls:[...document.querySelectorAll('button,a,input,textarea,select,[role="button"]')].filter(isVisible).map(e=>{const r=e.getBoundingClientRect();return {tag:e.tagName,text:(e.innerText||e.getAttribute('aria-label')||e.getAttribute('title')||e.getAttribute('placeholder')||'').trim().slice(0,160),disabled:!!e.disabled,rect:{x:Math.round(r.x),y:Math.round(r.y),w:Math.round(r.width),h:Math.round(r.height)}};}).slice(0,60)};
   });
   events.push({number:events.length+1,at:new Date().toISOString(),action,error,url:page.url(),screenshotUrl,text:visible.text});
-  await write(`${root}/state.json`,JSON.stringify({session,mode:'observer-driven',engine:'webkit',mobile:true,touch:true,startedAt,updatedAt:new Date().toISOString(),lastCommand,stopReason,action,error,screenshotUrl,...visible,pageErrors,httpErrors,events},null,2));
-  console.log(JSON.stringify({session,number:events.length,lastCommand,action:action.op,url:page.url(),stopReason}));
+  await write(`${root}/state.json`,JSON.stringify({session,mode:'observer-driven',device,engine:'webkit',mobile:profile.isMobile,touch:profile.hasTouch,startedAt,updatedAt:new Date().toISOString(),lastCommand,stopReason,action,error,screenshotUrl,...visible,pageErrors,httpErrors,events},null,2));
+  console.log(JSON.stringify({session,device,number:events.length,lastCommand,action:action.op,url:page.url(),stopReason}));
 }
 try {
   browser=await webkit.launch({headless:true});
-  context=await browser.newContext({viewport:{width:390,height:844},isMobile:true,hasTouch:true,locale:'ja-JP',timezoneId:'Asia/Tokyo'});
+  context=await browser.newContext({...profile,locale:'ja-JP',timezoneId:'Asia/Tokyo'});
   page=await context.newPage();
   page.on('pageerror',e=>pageErrors.push(String(e)));
   page.on('response',r=>{if(r.status()>=400)httpErrors.push({url:r.url(),status:r.status()});});
@@ -62,8 +68,17 @@ try {
     if(!command || command.id===lastCommand){await sleep(2500);continue;}
     lastCommand=command.id;lastAt=Date.now();let error=null;
     try {
-      if(command.op==='tap') await page.touchscreen.tap(Number(command.x),Number(command.y));
-      else if(command.op==='scroll'){await page.mouse.move(Number(command.x??195),Number(command.y??600));await page.mouse.wheel(Number(command.dx??0),Number(command.dy??500));}
+      if(command.op==='tap') {
+        const x=Number(command.x), y=Number(command.y);
+        if(profile.hasTouch) await page.touchscreen.tap(x,y);
+        else await page.mouse.click(x,y);
+      }
+      else if(command.op==='scroll'){
+        const defaultX=Math.round(profile.viewport.width/2);
+        const defaultY=Math.round(profile.viewport.height*0.72);
+        await page.mouse.move(Number(command.x??defaultX),Number(command.y??defaultY));
+        await page.mouse.wheel(Number(command.dx??0),Number(command.dy??500));
+      }
       else if(command.op==='type') await page.keyboard.insertText(String(command.text));
       else if(command.op==='key') await page.keyboard.press(String(command.key));
       else if(command.op==='back') await page.goBack({waitUntil:'domcontentloaded',timeout:15000});
@@ -77,6 +92,6 @@ try {
   }
 }catch(e){
   stopReason='infrastructure_error';
-  await write(`${root}/failure.json`,JSON.stringify({session,stopReason,error:String(e),events,pageErrors,httpErrors},null,2)).catch(()=>{});
+  await write(`${root}/failure.json`,JSON.stringify({session,device,stopReason,error:String(e),events,pageErrors,httpErrors},null,2)).catch(()=>{});
   throw e;
 }finally{await context?.close();await browser?.close();}
