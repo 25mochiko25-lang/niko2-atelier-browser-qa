@@ -5,17 +5,17 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-07T04:01:41.272Z",
-  "updatedAt": "2026-10-07T04:18:10.641Z",
-  "lastCommand": "43",
+  "updatedAt": "2026-10-07T04:18:35.664Z",
+  "lastCommand": "44",
   "stopReason": null,
   "action": {
-    "id": "43",
+    "id": "44",
     "op": "key",
     "key": "Tab",
-    "note": "Tabで画面上部の『作品へ移動』にフォーカスが来た。通常のフォーカス順で次の操作対象へ進め、下部の続きが見えるか確認する。"
+    "note": "フォーカスがブランドのリンクへ移った。次の操作対象へ進む。下部を読むための接続環境上の代替操作。"
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/6e7b88cdff7a9e120166e5134b507304b088646b/live-results/ordinary-first-20261007-1301-4ee6-r3/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/cdd6c10172940217f914c9267e944d39d7b2c846/live-results/ordinary-first-20261007-1301-4ee6-r3/current.jpg",
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#perfume",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -711,6 +711,20 @@
       "error": null,
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#perfume",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/6e7b88cdff7a9e120166e5134b507304b088646b/live-results/ordinary-first-20261007-1301-4ee6-r3/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDREAM / PM-01\nPERFUME MORGUE\nFRAGRANCE / KEPT\nSKIN / あなたの痕跡\nF-20261007-9635\nPrivate Cotton\nSKIN / あなたの痕跡\nEAU DE TOILETTE / 肌に近い\nTOP\n1. 雨 ×1\nMIDDLE\n1. 紅茶の渋み ×1\nLAST\n1. 古いぬいぐるみ ×1\nFORMULA / SCENT CHARACTER\n最初に雨。 少し遅れて紅茶の渋み。 最後に古いぬいぐるみが残る。 肌の近くで続く輪郭へ着地する。\nDiaryに持ち帰る\nもう一度調合する\nコットンで、 彼女の頬をそっと拭く。  近い。  息がかかる。  なのに、 目だけは合わせない。\nREAL WORLD ECHOES\nREAL WORLD / TRACE ONLY\nこの香りには、現実にも近い夢がある。\nいまはまだ、名前ではなく三つの手掛かりだけ。\n\nECHO / AIR\nオゾニック\nECHO / HEART\nラベンダー\nECHO / TRACE\nホワイトムスク / カシミア\n"
+    },
+    {
+      "number": 45,
+      "at": "2026-10-07T04:18:35.664Z",
+      "action": {
+        "id": "44",
+        "op": "key",
+        "key": "Tab",
+        "note": "フォーカスがブランドのリンクへ移った。次の操作対象へ進む。下部を読むための接続環境上の代替操作。"
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#perfume",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/cdd6c10172940217f914c9267e944d39d7b2c846/live-results/ordinary-first-20261007-1301-4ee6-r3/current.jpg",
       "text": "作品へ移動\nNIKO² ATELIER\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDREAM / PM-01\nPERFUME MORGUE\nFRAGRANCE / KEPT\nSKIN / あなたの痕跡\nF-20261007-9635\nPrivate Cotton\nSKIN / あなたの痕跡\nEAU DE TOILETTE / 肌に近い\nTOP\n1. 雨 ×1\nMIDDLE\n1. 紅茶の渋み ×1\nLAST\n1. 古いぬいぐるみ ×1\nFORMULA / SCENT CHARACTER\n最初に雨。 少し遅れて紅茶の渋み。 最後に古いぬいぐるみが残る。 肌の近くで続く輪郭へ着地する。\nDiaryに持ち帰る\nもう一度調合する\nコットンで、 彼女の頬をそっと拭く。  近い。  息がかかる。  なのに、 目だけは合わせない。\nREAL WORLD ECHOES\nREAL WORLD / TRACE ONLY\nこの香りには、現実にも近い夢がある。\nいまはまだ、名前ではなく三つの手掛かりだけ。\n\nECHO / AIR\nオゾニック\nECHO / HEART\nラベンダー\nECHO / TRACE\nホワイトムスク / カシミア\n"
     }
   ]
