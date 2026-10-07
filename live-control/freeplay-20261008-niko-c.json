@@ -1,7 +1,6 @@
 {
-  "id": "43",
-  "op": "tap",
-  "x": 195,
-  "y": 500,
-  "note": "Open the featured ALPHA OPENING issue; one article is enough to satisfy my curiosity about the atelier's backstage."
+  "id": "44",
+  "op": "key",
+  "key": "PageDown",
+  "note": "Read the opening portion of the featured article; this is reading, not a scroll-quality test."
 }
