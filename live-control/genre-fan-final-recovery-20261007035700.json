@@ -1,7 +1,7 @@
 {
-  "id": "r04-enter-garden",
+  "id": "r05-open-sky",
   "op": "tap",
-  "x": 330,
-  "y": 771,
-  "note": "Recovery traversal: enter the garden from the visible welcome page."
+  "x": 196,
+  "y": 789,
+  "note": "Recovery: the same tea garden is visible. Enter through the normal button."
 }
