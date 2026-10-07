@@ -1,8 +1,8 @@
 {
-  "id": "r05",
+  "id": "r06",
   "op": "tap",
-  "x": 195,
-  "y": 789,
-  "wait": 400,
-  "note": "INFRA_RECOVERY: 既に訪れた庭へ入る。"
+  "x": 43,
+  "y": 555,
+  "wait": 350,
+  "note": "INFRA_RECOVERY: 既知の瓶を画面上で取り直す。"
 }
