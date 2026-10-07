@@ -1,7 +1,5 @@
 {
-  "id": "r85-cabinet-drop",
-  "op": "tap",
-  "x": 181,
-  "y": 383,
-  "note": "The key did not show a visible explanation. I try the prominent blue drop once to understand whether the drawer objects are inspectable or purely a display."
+  "id": "r86-end-visit",
+  "op": "stop",
+  "reason": "Voluntary visitor stop at THE CABINET. The garden souvenir -> my written diary note -> Yesterday returning that exact note was a satisfying personal loop, and browsing the fictional old web sustained my curiosity. In the second garden I no longer wanted another five-object hunt, and in the Cabinet I could not identify my particular souvenirs by tapping the key and blue drop. I have seen enough for today and do not presently want another hotel stay, diary entry, or collection loop. Earlier GitHub 409 termination and Home keyboard-scroll access problems were technical interruptions, not this stopping reason."
 }
