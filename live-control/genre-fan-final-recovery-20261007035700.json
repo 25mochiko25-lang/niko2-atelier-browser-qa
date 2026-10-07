@@ -1,6 +1,6 @@
 {
-  "id": "r75-world-after-reload",
+  "id": "r76-home-tab",
   "op": "key",
-  "key": "PageDown",
-  "note": "Try PageDown once after the normal reload to reach the WORLD section and continue the visit."
+  "key": "Tab",
+  "note": "PageDown is still ineffective after reload. Use the visitor contract's Tab fallback to move focus through ordinary page links, without clicking any offscreen target."
 }
