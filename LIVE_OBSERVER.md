@@ -8,6 +8,8 @@ Create `live-requests/<unique-session>.json` containing `session`, the approved 
 
 Default is the existing mobile profile: 390x844, mobile=true, touch=true.
 
+For the Founder reference device, add `"device": "founder"`. This uses a 430x932 touch-enabled mobile WebKit viewport, matching the iPhone 15 Plus CSS viewport used as the visual reference point.
+
 For a desktop check, add `"device": "desktop"` to the request. Desktop uses 1440x900, mobile=false, touch=false in the same WebKit observer. The same `tap` command works in both modes; the harness uses touch on mobile and mouse click on desktop.
 
 Read `live-results/<session>/state.json`, then view the image at its `screenshotUrl`. This is an actual screenshot, not a screenshot the Founder must supply. The URL is pinned to the image commit, avoiding stale screenshots.
