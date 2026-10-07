@@ -5,18 +5,18 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-07T03:57:39.491Z",
-  "updatedAt": "2026-10-07T04:09:58.516Z",
-  "lastCommand": "r29-unstopped-garden-record",
+  "updatedAt": "2026-10-07T04:10:27.134Z",
+  "lastCommand": "r30-close-garden-record",
   "stopReason": null,
   "action": {
-    "id": "r29-unstopped-garden-record",
+    "id": "r30-close-garden-record",
     "op": "tap",
-    "x": 206,
-    "y": 384,
-    "note": "A record titled The garden that was not stopped connects directly to the place I just visited. Its claim that the environment keeps blooming after the experiment interests me most."
+    "x": 350,
+    "y": 164,
+    "note": "The reason for continuing the experiment, 'because it is still blooming,' is a good concise payoff. It recontextualizes the garden without a long explanation. I want to sample another record."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/ce40162a5974e6d2c7d8c23fb66057f87fb49283/live-results/genre-fan-final-recovery-20261007035700/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/b8914c854f48b0cfac7d0ef7de6d3ca615dcb53d/live-results/genre-fan-final-recovery-20261007035700/current.jpg",
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#lab",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -28,7 +28,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\nNIKO² ATELIER\n\n\n\n白と薄水色のガラス研究所。奥へ続く通路と、記録の置かれた観測台があります。\nMAIN LAB\n観測台\n\n\n\n観測台奥の保管室へ進む\nMAIN LAB // RECORD\n\n\nARCHIVE / CLOUD ENVIRONMENT // CLOSED PROJECT\n\n停止されなかった庭\nCG-00 / ARCHIVED\nARCHIVED\n実験終了後も夢環境が自律稼働。\n\n推奨処置\n停止\n実施処置\n継続観察\n研究員メモ\n「まだ咲いているので。」\nRELATED: CLOUD_GARDEN / ATMOSPHERE\nARCHIVE COPY / VIEW ONLY\nCG-00 / ARCHIVEDを開きました。\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+  "text": "作品へ移動\nNIKO² ATELIER\n\n\n\n白と薄水色のガラス研究所。奥へ続く通路と、記録の置かれた観測台があります。\nMAIN LAB\n観測台\n\n\n\n観測台奥の保管室へ進む\nREADING TABLE\n\nON THE TABLE\nいま読める記録\n\n\n記録 01\n所有者のいない記憶\n忘れられたあとも、記憶は残るのか。\n読む\n\n\n記録 02\n停止されなかった庭\n実験終了後も、環境だけが咲き続けている。\n既読\n\n\n記録 03\n白い試料 M-00\n本人は、アルパカだと報告している。\n読む\n\n\n記録 04\n管理業務用の付け髭\n威厳への効果は、まだ確認されていない。\n読む\nCG-00 / ARCHIVEDを開きました。\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
   "controls": [
     {
       "tag": "A",
@@ -98,13 +98,57 @@
     },
     {
       "tag": "BUTTON",
-      "text": "研究資料を閉じる",
+      "text": "観測台を閉じる",
       "disabled": false,
       "rect": {
-        "x": 330,
-        "y": 141,
+        "x": 337,
+        "y": 137,
         "w": 44,
         "h": 44
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "記録 01\n所有者のいない記憶\n忘れられたあとも、記憶は残るのか。\n読む",
+      "disabled": false,
+      "rect": {
+        "x": 23,
+        "y": 260,
+        "w": 344,
+        "h": 86
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "記録 02\n停止されなかった庭\n実験終了後も、環境だけが咲き続けている。\n既読",
+      "disabled": false,
+      "rect": {
+        "x": 23,
+        "y": 346,
+        "w": 344,
+        "h": 86
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "記録 03\n白い試料 M-00\n本人は、アルパカだと報告している。\n読む",
+      "disabled": false,
+      "rect": {
+        "x": 23,
+        "y": 432,
+        "w": 344,
+        "h": 86
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "記録 04\n管理業務用の付け髭\n威厳への効果は、まだ確認されていない。\n読む",
+      "disabled": false,
+      "rect": {
+        "x": 23,
+        "y": 518,
+        "w": 344,
+        "h": 86
       }
     }
   ],
@@ -554,6 +598,21 @@
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#lab",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/ce40162a5974e6d2c7d8c23fb66057f87fb49283/live-results/genre-fan-final-recovery-20261007035700/current.jpg",
       "text": "作品へ移動\nNIKO² ATELIER\n\n\n\n白と薄水色のガラス研究所。奥へ続く通路と、記録の置かれた観測台があります。\nMAIN LAB\n観測台\n\n\n\n観測台奥の保管室へ進む\nMAIN LAB // RECORD\n\n\nARCHIVE / CLOUD ENVIRONMENT // CLOSED PROJECT\n\n停止されなかった庭\nCG-00 / ARCHIVED\nARCHIVED\n実験終了後も夢環境が自律稼働。\n\n推奨処置\n停止\n実施処置\n継続観察\n研究員メモ\n「まだ咲いているので。」\nRELATED: CLOUD_GARDEN / ATMOSPHERE\nARCHIVE COPY / VIEW ONLY\nCG-00 / ARCHIVEDを開きました。\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+      "number": 31,
+      "at": "2026-10-07T04:10:27.134Z",
+      "action": {
+        "id": "r30-close-garden-record",
+        "op": "tap",
+        "x": 350,
+        "y": 164,
+        "note": "The reason for continuing the experiment, 'because it is still blooming,' is a good concise payoff. It recontextualizes the garden without a long explanation. I want to sample another record."
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#lab",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/b8914c854f48b0cfac7d0ef7de6d3ca615dcb53d/live-results/genre-fan-final-recovery-20261007035700/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\n\n\n\n白と薄水色のガラス研究所。奥へ続く通路と、記録の置かれた観測台があります。\nMAIN LAB\n観測台\n\n\n\n観測台奥の保管室へ進む\nREADING TABLE\n\nON THE TABLE\nいま読める記録\n\n\n記録 01\n所有者のいない記憶\n忘れられたあとも、記憶は残るのか。\n読む\n\n\n記録 02\n停止されなかった庭\n実験終了後も、環境だけが咲き続けている。\n既読\n\n\n記録 03\n白い試料 M-00\n本人は、アルパカだと報告している。\n読む\n\n\n記録 04\n管理業務用の付け髭\n威厳への効果は、まだ確認されていない。\n読む\nCG-00 / ARCHIVEDを開きました。\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
     }
   ]
 }
