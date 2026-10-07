@@ -1,7 +1,7 @@
 {
-  "id": "r07-cup",
+  "id": "r08-bottle",
   "op": "tap",
-  "x": 220,
-  "y": 537,
-  "note": "Recovery: collect the visible cup through a normal tap."
+  "x": 49,
+  "y": 557,
+  "note": "Recovery: collect the visible perfume bottle."
 }
