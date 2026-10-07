@@ -5,18 +5,16 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-07T04:01:41.272Z",
-  "updatedAt": "2026-10-07T04:07:12.774Z",
-  "lastCommand": "14",
+  "updatedAt": "2026-10-07T04:07:35.453Z",
+  "lastCommand": "15",
   "stopReason": null,
   "action": {
-    "id": "14",
-    "op": "tap",
-    "x": 10,
-    "y": 438,
-    "note": "ティーポットでは数が変わらなかった。左端の金色の灯りらしい物もまだ触っていないので試す。残り1つがどれなのか探している。"
+    "id": "15",
+    "op": "look",
+    "note": "左端は砂時計で5/5になった。砂が逆に落ちるという短い文章を読み、全部見つけた後に画面がどうなるか見る。"
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/03c1f5c56548e4dafc1a28ae15bfe61f6486e894/live-results/ordinary-first-20261007-1301-4ee6-r3/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/7c07d4af038766d94c328605bc9d1d1a24c26b17/live-results/ordinary-first-20261007-1301-4ee6-r3/current.jpg",
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -182,6 +180,17 @@
         "y": 84,
         "w": 236,
         "h": 405
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "あの扉が、こちらを呼んでいる。\n触れて、向こうへ",
+      "disabled": false,
+      "rect": {
+        "x": 70,
+        "y": 262,
+        "w": 250,
+        "h": 62
       }
     }
   ],
@@ -407,6 +416,19 @@
       "error": null,
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/03c1f5c56548e4dafc1a28ae15bfe61f6486e894/live-results/ordinary-first-20261007-1301-4ee6-r3/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n5 / 5\n見つけたもの\n\nあの扉が、こちらを呼んでいる。\n触れて、向こうへ\n蓋が小さく鳴った。湯気だけが、席を立とうとしている。\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+      "number": 16,
+      "at": "2026-10-07T04:07:35.453Z",
+      "action": {
+        "id": "15",
+        "op": "look",
+        "note": "左端は砂時計で5/5になった。砂が逆に落ちるという短い文章を読み、全部見つけた後に画面がどうなるか見る。"
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/7c07d4af038766d94c328605bc9d1d1a24c26b17/live-results/ordinary-first-20261007-1301-4ee6-r3/current.jpg",
       "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n5 / 5\n見つけたもの\n\nあの扉が、こちらを呼んでいる。\n触れて、向こうへ\n蓋が小さく鳴った。湯気だけが、席を立とうとしている。\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
     }
   ]
