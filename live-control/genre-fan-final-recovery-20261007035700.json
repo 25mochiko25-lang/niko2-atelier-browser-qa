@@ -1,7 +1,6 @@
 {
-  "id": "r72-home-focus",
-  "op": "tap",
-  "x": 294,
-  "y": 694,
-  "note": "PageDown did not move the returned Home view. I tap an empty visible part of the page to focus it before trying the viewing fallback again; this is not evidence about touch scrolling."
+  "id": "r73-world-page-down",
+  "op": "key",
+  "key": "PageDown",
+  "note": "Retry the documented PageDown viewing fallback after focusing the visible Home page."
 }
