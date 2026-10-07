@@ -1,7 +1,7 @@
 {
-  "id": "20",
+  "id": "21",
   "op": "tap",
   "x": 195,
-  "y": 727,
-  "note": "Take the petal home."
+  "y": 637,
+  "note": "Save the petal to Diary without adding text on the first visit."
 }
