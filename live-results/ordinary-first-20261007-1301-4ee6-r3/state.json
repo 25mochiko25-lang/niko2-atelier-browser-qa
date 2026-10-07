@@ -5,17 +5,17 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-07T04:01:41.272Z",
-  "updatedAt": "2026-10-07T04:22:48.339Z",
-  "lastCommand": "55",
+  "updatedAt": "2026-10-07T04:23:08.493Z",
+  "lastCommand": "56",
   "stopReason": null,
   "action": {
-    "id": "55",
+    "id": "56",
     "op": "key",
     "key": "Tab",
-    "note": "結果下部を読むため通常のTab順で進む。接続環境上の代替閲覧。"
+    "note": "ブランドリンクから次へTab移動。結果の詩と保存操作を読むための閲覧操作。"
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/c3cd68a80d3c797f9fb4fc1a5e7331841a73d7f2/live-results/ordinary-first-20261007-1301-4ee6-r3/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/465483ba7d9d65276eb0ef6588cd03b0d131e185/live-results/ordinary-first-20261007-1301-4ee6-r3/current.jpg",
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#perfume",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -886,6 +886,20 @@
       "error": null,
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#perfume",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/c3cd68a80d3c797f9fb4fc1a5e7331841a73d7f2/live-results/ordinary-first-20261007-1301-4ee6-r3/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDREAM / PM-01\nPERFUME MORGUE\nFRAGRANCE / KEPT\nDARK / AM02:30\nF-20261007-93C9\nAfter 02:30\nDARK / AM02:30\nEAU DE TOILETTE / 肌に近い\nTOP\n1. 生の果実 ×1\nMIDDLE\n1. 乾いた木 ×1\nLAST\n1. 夜更け ×1\nFORMULA / SCENT CHARACTER\n最初に生の果実。 少し遅れて乾いた木。 最後に夜更けが残る。 肌の近くで続く輪郭へ着地する。\nDiaryに持ち帰る\nもう一度調合する\n02:30。 02:30。 02:30。  時計は壊れていない。 部屋も、香りも、あなたも正常に動いている。 朝だけ、まだ来ない。\nREAL WORLD ECHOES\nREAL WORLD / TRACE ONLY\nこの香りには、現実にも近い夢がある。\nいまはまだ、名前ではなく三つの手掛かりだけ。\n\nECHO / AIR\nプラムリキュール\nECHO / HEART\nウード\nECHO / TRACE\nアンブロキサン / パチョリ\n"
+    },
+    {
+      "number": 57,
+      "at": "2026-10-07T04:23:08.493Z",
+      "action": {
+        "id": "56",
+        "op": "key",
+        "key": "Tab",
+        "note": "ブランドリンクから次へTab移動。結果の詩と保存操作を読むための閲覧操作。"
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#perfume",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/465483ba7d9d65276eb0ef6588cd03b0d131e185/live-results/ordinary-first-20261007-1301-4ee6-r3/current.jpg",
       "text": "作品へ移動\nNIKO² ATELIER\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDREAM / PM-01\nPERFUME MORGUE\nFRAGRANCE / KEPT\nDARK / AM02:30\nF-20261007-93C9\nAfter 02:30\nDARK / AM02:30\nEAU DE TOILETTE / 肌に近い\nTOP\n1. 生の果実 ×1\nMIDDLE\n1. 乾いた木 ×1\nLAST\n1. 夜更け ×1\nFORMULA / SCENT CHARACTER\n最初に生の果実。 少し遅れて乾いた木。 最後に夜更けが残る。 肌の近くで続く輪郭へ着地する。\nDiaryに持ち帰る\nもう一度調合する\n02:30。 02:30。 02:30。  時計は壊れていない。 部屋も、香りも、あなたも正常に動いている。 朝だけ、まだ来ない。\nREAL WORLD ECHOES\nREAL WORLD / TRACE ONLY\nこの香りには、現実にも近い夢がある。\nいまはまだ、名前ではなく三つの手掛かりだけ。\n\nECHO / AIR\nプラムリキュール\nECHO / HEART\nウード\nECHO / TRACE\nアンブロキサン / パチョリ\n"
     }
   ]
