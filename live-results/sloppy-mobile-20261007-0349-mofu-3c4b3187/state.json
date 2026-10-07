@@ -5,19 +5,20 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-07T03:49:33.114Z",
-  "updatedAt": "2026-10-07T04:01:09.873Z",
-  "lastCommand": "26",
+  "updatedAt": "2026-10-07T04:01:39.703Z",
+  "lastCommand": "27",
   "stopReason": null,
   "action": {
-    "id": "26",
-    "op": "key",
-    "key": "PageDown",
+    "id": "27",
+    "op": "tap",
+    "x": 189,
+    "y": 337,
     "wait": 500,
-    "note": "操作基盤のwheelがmobile WebKit非対応だったため、同じ下側を見る意図をPageDownで代行する。サイトのスクロール不良とは数えない。"
+    "note": "下のWORLDは暗い水面と扉で雰囲気が違う。ここなら他の遊びがありそうなので大きな絵を押す。"
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/80e0c4b8bdb3db48e5c6248fc66cf7b32e747a08/live-results/sloppy-mobile-20261007-0349-mofu-3c4b3187/current.jpg",
-  "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/dcf5955736cb11223afa6e76f7fe89a169e7663f/live-results/sloppy-mobile-20261007-0349-mofu-3c4b3187/current.jpg",
+  "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#world",
   "title": "NIKO² ATELIER",
   "viewport": {
     "width": 390,
@@ -28,7 +29,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n \nWORLD\nWORLD\n水面の向こうに、いくつかの場所がひらいています。\n\n\nABOUT\nもふもふはいます。\nPLAY / SHARE / FAN WORK\nNIKO²での生活について\n好きな形で遊ぶための、小さな境界。\nDEAR ATELIER\nお手紙を送る\nAtelierの受取箱へ。\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+  "text": "作品へ移動\n\n\n \nNIKO² / WORLD\nWORLD\n水面の向こうに、まだつながっていない場所もあります。\n\nResearch Lab\n\nROOM NULL\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
   "controls": [
     {
       "tag": "BUTTON",
@@ -43,24 +44,35 @@
     },
     {
       "tag": "A",
-      "text": "WORLDを開く",
+      "text": "アトリエへ戻る",
       "disabled": false,
       "rect": {
-        "x": 23,
-        "y": 246,
-        "w": 343,
-        "h": 193
+        "x": 16,
+        "y": 25,
+        "w": 44,
+        "h": 44
       }
     },
     {
-      "tag": "A",
-      "text": "ABOUT\nもふもふはいます。",
+      "tag": "BUTTON",
+      "text": "Research Lab",
       "disabled": false,
       "rect": {
-        "x": 43,
-        "y": 723,
-        "w": 304,
-        "h": 252
+        "x": 34,
+        "y": 307,
+        "w": 98,
+        "h": 162
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "ROOM NULL",
+      "disabled": false,
+      "rect": {
+        "x": 280,
+        "y": 320,
+        "w": 95,
+        "h": 162
       }
     }
   ],
@@ -494,6 +506,22 @@
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/80e0c4b8bdb3db48e5c6248fc66cf7b32e747a08/live-results/sloppy-mobile-20261007-0349-mofu-3c4b3187/current.jpg",
       "text": "作品へ移動\n \nWORLD\nWORLD\n水面の向こうに、いくつかの場所がひらいています。\n\n\nABOUT\nもふもふはいます。\nPLAY / SHARE / FAN WORK\nNIKO²での生活について\n好きな形で遊ぶための、小さな境界。\nDEAR ATELIER\nお手紙を送る\nAtelierの受取箱へ。\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+      "number": 28,
+      "at": "2026-10-07T04:01:39.703Z",
+      "action": {
+        "id": "27",
+        "op": "tap",
+        "x": 189,
+        "y": 337,
+        "wait": 500,
+        "note": "下のWORLDは暗い水面と扉で雰囲気が違う。ここなら他の遊びがありそうなので大きな絵を押す。"
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#world",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/dcf5955736cb11223afa6e76f7fe89a169e7663f/live-results/sloppy-mobile-20261007-0349-mofu-3c4b3187/current.jpg",
+      "text": "作品へ移動\n\n\n \nNIKO² / WORLD\nWORLD\n水面の向こうに、まだつながっていない場所もあります。\n\nResearch Lab\n\nROOM NULL\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
     }
   ]
 }
