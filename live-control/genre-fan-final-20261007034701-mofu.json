@@ -1,7 +1,7 @@
 {
-  "id": "05-intro-next",
+  "id": "06-enter-world",
   "op": "tap",
-  "x": 336,
+  "x": 330,
   "y": 770,
-  "note": "Touch changed its color. That seems to be an interaction sample; I would rather reach the actual work than exhaust these examples."
+  "note": "The welcome image is appealing, but I have already pressed enter once and am ready for the actual experience."
 }
