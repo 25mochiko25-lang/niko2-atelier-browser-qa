@@ -1,6 +1,7 @@
 {
-  "id": "25",
-  "op": "key",
-  "key": "Shift+Tab",
-  "note": "Infrastructure fallback: reverse-Tab once more after leaving the first focus target, to reach page-end content if supported. Stop this recovery path if it still gives no lower content."
+  "id": "26",
+  "op": "tap",
+  "x": 196,
+  "y": 704,
+  "note": "下の内容が見えた。今月の景色にきらきらが反映されている。探していた目的に合う残ったものを見るがあるので、それを開く。"
 }
