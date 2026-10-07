@@ -1,5 +1,5 @@
 {
-  "id": "11",
-  "op": "look",
-  "note": "砂時計の文を読んで、扉が近づく画面を待つ。"
+  "id": "infrastructure-end",
+  "op": "stop",
+  "reason": "2026-10-07 04:38 UTC: observer terminated on GitHub 403 API rate limit exceeded for installation after command 10. No voluntary departure; command 11 was not observed. This is infrastructure interruption."
 }
