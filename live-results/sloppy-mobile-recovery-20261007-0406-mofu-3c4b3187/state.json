@@ -1,0 +1,67 @@
+{
+  "session": "sloppy-mobile-recovery-20261007-0406-mofu-3c4b3187",
+  "mode": "observer-driven",
+  "engine": "webkit",
+  "mobile": true,
+  "touch": true,
+  "startedAt": "2026-10-07T04:05:38.933Z",
+  "updatedAt": "2026-10-07T04:05:47.032Z",
+  "lastCommand": null,
+  "stopReason": null,
+  "action": {
+    "op": "arrival"
+  },
+  "error": null,
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/ce933f8d0ecd031b00570b2616c100e3ce05345a/live-results/sloppy-mobile-recovery-20261007-0406-mofu-3c4b3187/current.jpg",
+  "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+  "title": "NIKO² ATELIER",
+  "viewport": {
+    "width": 390,
+    "height": 844
+  },
+  "documentWidth": 390,
+  "scroll": {
+    "x": 0,
+    "y": 0
+  },
+  "text": "作品へ移動\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+  "controls": [
+    {
+      "tag": "BUTTON",
+      "text": "音をオンにする",
+      "disabled": false,
+      "rect": {
+        "x": 332,
+        "y": 14,
+        "w": 44,
+        "h": 44
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Enter the dream",
+      "disabled": false,
+      "rect": {
+        "x": 90,
+        "y": 494,
+        "w": 210,
+        "h": 70
+      }
+    }
+  ],
+  "pageErrors": [],
+  "httpErrors": [],
+  "events": [
+    {
+      "number": 1,
+      "at": "2026-10-07T04:05:47.032Z",
+      "action": {
+        "op": "arrival"
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/ce933f8d0ecd031b00570b2616c100e3ce05345a/live-results/sloppy-mobile-recovery-20261007-0406-mofu-3c4b3187/current.jpg",
+      "text": "作品へ移動\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    }
+  ]
+}
