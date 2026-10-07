@@ -5,18 +5,18 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-07T03:57:39.491Z",
-  "updatedAt": "2026-10-07T04:18:42.330Z",
-  "lastCommand": "r49-next-garden-link",
+  "updatedAt": "2026-10-07T04:19:17.682Z",
+  "lastCommand": "r50-webring-random",
   "stopReason": null,
   "action": {
-    "id": "r49-next-garden-link",
+    "id": "r50-webring-random",
     "op": "tap",
-    "x": 152,
-    "y": 668,
-    "note": "mari casually describes flowers falling upward in Cloud Garden. The Next garden link feels like a natural rabbit hole, so I follow it."
+    "x": 195,
+    "y": 377,
+    "note": "A web ring continuing after its administrator left fits the persistent-world theme. I choose Random to let it take me somewhere unexpected."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/e3d7c66b14c1aed0394b59cad14ebc2f17a7640a/live-results/genre-fan-final-recovery-20261007035700/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/7dd374e68b6477525caa1bf2dab6f178c4005ef0/live-results/genre-fan-final-recovery-20261007035700/current.jpg",
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#channel0",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -28,7 +28,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\nNIKO² ATELIER\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCHANNEL / CH-00\nCHANNEL 00\n4 pages\n‹\n›\n⌂\nhttp://webring.channel00/moon/17\n×\nMOONLIGHT WEB RING\n月明かりの個人頁を巡るリング\n\n登録サイト 17 / 稼働サイト 9\n\nPREV\nRANDOM\nNEXT\nリング管理人は現在不在です。リングだけが巡回を続けています。\n\nconnected at 33.6 kbps\n閲覧の断片を持ち帰る\n\n\n\n\n",
+  "text": "作品へ移動\nNIKO² ATELIER\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCHANNEL / CH-00\nCHANNEL 00\n4 pages\n‹\n›\n⌂\nchannel00://home/index.html\n×\nCHANNEL 00 LINK DIRECTORY\nYOU ARE VISITOR No. 0001\n\nようこそ、存在しなかったインターネットへ。\n\n好きなリンクからどうぞ。戻れなくなることは、たぶんありません。\n\nMARI'S PRESSED FLOWERS\nsodaの日記\nCloud Garden Weather\nHotel Somnia 公式頁\nLavender BBS\nMoonlight Web Ring\nNIKO² ATELIER / old\nlost_page.html\nconnected at 33.6 kbps\n閲覧の断片を持ち帰る\n\n\n\n\n",
   "controls": [
     {
       "tag": "A",
@@ -109,35 +109,90 @@
     },
     {
       "tag": "BUTTON",
-      "text": "PREV",
+      "text": "MARI'S PRESSED FLOWERS",
       "disabled": false,
       "rect": {
-        "x": 109,
-        "y": 360,
-        "w": 47,
-        "h": 35
+        "x": 25,
+        "y": 412,
+        "w": 340,
+        "h": 46
       }
     },
     {
       "tag": "BUTTON",
-      "text": "RANDOM",
+      "text": "sodaの日記",
       "disabled": false,
       "rect": {
-        "x": 162,
-        "y": 360,
-        "w": 67,
-        "h": 35
+        "x": 25,
+        "y": 471,
+        "w": 340,
+        "h": 46
       }
     },
     {
       "tag": "BUTTON",
-      "text": "NEXT",
+      "text": "Cloud Garden Weather",
       "disabled": false,
       "rect": {
-        "x": 235,
-        "y": 360,
-        "w": 46,
-        "h": 35
+        "x": 25,
+        "y": 530,
+        "w": 340,
+        "h": 46
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Hotel Somnia 公式頁",
+      "disabled": false,
+      "rect": {
+        "x": 25,
+        "y": 589,
+        "w": 340,
+        "h": 46
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Lavender BBS",
+      "disabled": false,
+      "rect": {
+        "x": 25,
+        "y": 648,
+        "w": 340,
+        "h": 46
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Moonlight Web Ring",
+      "disabled": false,
+      "rect": {
+        "x": 25,
+        "y": 707,
+        "w": 340,
+        "h": 46
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "NIKO² ATELIER / old",
+      "disabled": false,
+      "rect": {
+        "x": 25,
+        "y": 766,
+        "w": 340,
+        "h": 46
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "lost_page.html",
+      "disabled": false,
+      "rect": {
+        "x": 25,
+        "y": 825,
+        "w": 340,
+        "h": 46
       }
     },
     {
@@ -897,6 +952,21 @@
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#channel0",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/e3d7c66b14c1aed0394b59cad14ebc2f17a7640a/live-results/genre-fan-final-recovery-20261007035700/current.jpg",
       "text": "作品へ移動\nNIKO² ATELIER\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCHANNEL / CH-00\nCHANNEL 00\n4 pages\n‹\n›\n⌂\nhttp://webring.channel00/moon/17\n×\nMOONLIGHT WEB RING\n月明かりの個人頁を巡るリング\n\n登録サイト 17 / 稼働サイト 9\n\nPREV\nRANDOM\nNEXT\nリング管理人は現在不在です。リングだけが巡回を続けています。\n\nconnected at 33.6 kbps\n閲覧の断片を持ち帰る\n\n\n\n\n"
+    },
+    {
+      "number": 51,
+      "at": "2026-10-07T04:19:17.682Z",
+      "action": {
+        "id": "r50-webring-random",
+        "op": "tap",
+        "x": 195,
+        "y": 377,
+        "note": "A web ring continuing after its administrator left fits the persistent-world theme. I choose Random to let it take me somewhere unexpected."
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#channel0",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/7dd374e68b6477525caa1bf2dab6f178c4005ef0/live-results/genre-fan-final-recovery-20261007035700/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCHANNEL / CH-00\nCHANNEL 00\n4 pages\n‹\n›\n⌂\nchannel00://home/index.html\n×\nCHANNEL 00 LINK DIRECTORY\nYOU ARE VISITOR No. 0001\n\nようこそ、存在しなかったインターネットへ。\n\n好きなリンクからどうぞ。戻れなくなることは、たぶんありません。\n\nMARI'S PRESSED FLOWERS\nsodaの日記\nCloud Garden Weather\nHotel Somnia 公式頁\nLavender BBS\nMoonlight Web Ring\nNIKO² ATELIER / old\nlost_page.html\nconnected at 33.6 kbps\n閲覧の断片を持ち帰る\n\n\n\n\n"
     }
   ]
 }
