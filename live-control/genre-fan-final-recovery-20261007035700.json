@@ -1,7 +1,5 @@
 {
-  "id": "r11-gate",
-  "op": "tap",
-  "x": 340,
-  "y": 192,
-  "note": "Recovery has reached 5/5. I still want to see the distant gate's destination, which was never observed in the original session."
+  "id": "r12-look-beyond-gate",
+  "op": "look",
+  "note": "The doorway fills the view with no new action visible yet. I let the transition settle and look."
 }
