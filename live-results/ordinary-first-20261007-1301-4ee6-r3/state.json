@@ -5,18 +5,18 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-07T04:01:41.272Z",
-  "updatedAt": "2026-10-07T04:13:38.529Z",
-  "lastCommand": "31",
+  "updatedAt": "2026-10-07T04:13:57.813Z",
+  "lastCommand": "32",
   "stopReason": null,
   "action": {
-    "id": "31",
+    "id": "32",
     "op": "tap",
-    "x": 281,
-    "y": 397,
-    "note": "雨に温かい紅茶を合わせるとどうなるか気になる。MIDDLEに『紅茶の渋み』を入れる。"
+    "x": 309,
+    "y": 650,
+    "note": "雨と紅茶が別々の層に入った。最後の層も埋めて一本作ってみたいのでLASTを選ぶ。"
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/2ddfc57de7f829e282067c265a6c239f959cbf0b/live-results/ordinary-first-20261007-1301-4ee6-r3/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/eb492a7d99b1a7b43043fd6ebcef34f792195338/live-results/ordinary-first-20261007-1301-4ee6-r3/current.jpg",
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#perfume",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -811,6 +811,21 @@
       "error": null,
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#perfume",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/2ddfc57de7f829e282067c265a6c239f959cbf0b/live-results/ordinary-first-20261007-1301-4ee6-r3/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDREAM / PM-01\nPERFUME MORGUE\nFORMULA / 2 MATERIALS\n香りになれなかった記憶。\n素材を選び、三つの層へ落としてください。順番と濃度で、同じ記憶も別の香りになります。\n雨\n古いぬいぐるみ\n燃えた砂糖\nホテルの白いシーツ\n甘い夢\n紅茶の渋み\n煙の名残\n花\n濡れた石\n乾いた木\n生の果実\n夜更け\n海水\n古い本\n化粧の粉\n冷たい金属\n\nMIXING BOTTLE / 2 MATERIALS\nIN BOTTLE / 雨 ×1 · 紅茶の渋み ×1\n\n01\nTOP\n\n02\nMIDDLE\n\n03\nLAST\nTOP\n雨 ×1\n×\n−\n＋\nMIDDLE\n紅茶の渋み ×1\n×\n−\n＋\nLAST\nこの層には、まだ何も落ちていない。\nCONCENTRATION\nEAU DE TOILETTE / 肌に近い\n\nEau Fraîche\n水のあと\n\nCologne\n風の輪郭\n\nToilette\n肌に近い\n\nParfum\n記憶の濃度\n\nExtrait\n最後まで残る\n\n香りを定着させる\n"
+    },
+    {
+      "number": 33,
+      "at": "2026-10-07T04:13:57.813Z",
+      "action": {
+        "id": "32",
+        "op": "tap",
+        "x": 309,
+        "y": 650,
+        "note": "雨と紅茶が別々の層に入った。最後の層も埋めて一本作ってみたいのでLASTを選ぶ。"
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#perfume",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/eb492a7d99b1a7b43043fd6ebcef34f792195338/live-results/ordinary-first-20261007-1301-4ee6-r3/current.jpg",
       "text": "作品へ移動\nNIKO² ATELIER\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDREAM / PM-01\nPERFUME MORGUE\nFORMULA / 2 MATERIALS\n香りになれなかった記憶。\n素材を選び、三つの層へ落としてください。順番と濃度で、同じ記憶も別の香りになります。\n雨\n古いぬいぐるみ\n燃えた砂糖\nホテルの白いシーツ\n甘い夢\n紅茶の渋み\n煙の名残\n花\n濡れた石\n乾いた木\n生の果実\n夜更け\n海水\n古い本\n化粧の粉\n冷たい金属\n\nMIXING BOTTLE / 2 MATERIALS\nIN BOTTLE / 雨 ×1 · 紅茶の渋み ×1\n\n01\nTOP\n\n02\nMIDDLE\n\n03\nLAST\nTOP\n雨 ×1\n×\n−\n＋\nMIDDLE\n紅茶の渋み ×1\n×\n−\n＋\nLAST\nこの層には、まだ何も落ちていない。\nCONCENTRATION\nEAU DE TOILETTE / 肌に近い\n\nEau Fraîche\n水のあと\n\nCologne\n風の輪郭\n\nToilette\n肌に近い\n\nParfum\n記憶の濃度\n\nExtrait\n最後まで残る\n\n香りを定着させる\n"
     }
   ]
