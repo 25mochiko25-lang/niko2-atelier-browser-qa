@@ -5,18 +5,18 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-07T03:57:39.491Z",
-  "updatedAt": "2026-10-07T04:36:21.639Z",
-  "lastCommand": "r84-cabinet-key",
+  "updatedAt": "2026-10-07T04:37:01.206Z",
+  "lastCommand": "r85-cabinet-drop",
   "stopReason": null,
   "action": {
-    "id": "r84-cabinet-key",
+    "id": "r85-cabinet-drop",
     "op": "tap",
-    "x": 283,
-    "y": 553,
-    "note": "The drawer contains a ribboned key, a drop-shaped bottle, and a round object. I cannot yet tell which are mine. I tap the visible key expecting to identify it."
+    "x": 181,
+    "y": 383,
+    "note": "The key did not show a visible explanation. I try the prominent blue drop once to understand whether the drawer objects are inspectable or purely a display."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/c843a715b11ac6e5b15dce8844d2d0279648ecbd/live-results/genre-fan-final-recovery-20261007035700/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/81f931030a7f970bd5e8ef69036b7b072408caeb/live-results/genre-fan-final-recovery-20261007035700/current.jpg",
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#cabinet",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -1321,6 +1321,21 @@
       "error": null,
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#cabinet",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/c843a715b11ac6e5b15dce8844d2d0279648ecbd/live-results/genre-fan-final-recovery-20261007035700/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWHAT REMAINED\nTHE CABINET\n\n"
+    },
+    {
+      "number": 86,
+      "at": "2026-10-07T04:37:01.206Z",
+      "action": {
+        "id": "r85-cabinet-drop",
+        "op": "tap",
+        "x": 181,
+        "y": 383,
+        "note": "The key did not show a visible explanation. I try the prominent blue drop once to understand whether the drawer objects are inspectable or purely a display."
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#cabinet",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/81f931030a7f970bd5e8ef69036b7b072408caeb/live-results/genre-fan-final-recovery-20261007035700/current.jpg",
       "text": "作品へ移動\nNIKO² ATELIER\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWHAT REMAINED\nTHE CABINET\n\n"
     }
   ]
