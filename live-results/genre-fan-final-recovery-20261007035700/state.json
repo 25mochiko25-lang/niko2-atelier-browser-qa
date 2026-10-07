@@ -5,19 +5,19 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-07T03:57:39.491Z",
-  "updatedAt": "2026-10-07T04:08:19.078Z",
-  "lastCommand": "r25-remained-next",
+  "updatedAt": "2026-10-07T04:08:46.792Z",
+  "lastCommand": "r26-research-lab",
   "stopReason": null,
   "action": {
-    "id": "r25-remained-next",
+    "id": "r26-research-lab",
     "op": "tap",
-    "x": 333,
-    "y": 770,
-    "note": "The petal is nicely presented, but the statement that it remains repeats what I have already seen in Diary on this route. Continue to the final page."
+    "x": 227,
+    "y": 382,
+    "note": "Research Lab promises records about this world. That sounds more intriguing than repeating the garden now, so I choose it from the visible recommendation."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/7f70ebe52597b4031ba829714863176ed51618c7/live-results/genre-fan-final-recovery-20261007035700/current.jpg",
-  "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/2c229f0703c521a3451c1698a9b536a2cb339a54/live-results/genre-fan-final-recovery-20261007035700/current.jpg",
+  "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#lab",
   "title": "NIKO² ATELIER",
   "viewport": {
     "width": 390,
@@ -28,8 +28,19 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n \nWORLD\nWORLD\n水面の向こうに、いくつかの場所がひらいています。\n\n\nABOUT\nもふもふはいます。\nPLAY / SHARE / FAN WORK\nNIKO²での生活について\n好きな形で遊ぶための、小さな境界。\nDEAR ATELIER\nお手紙を送る\nAtelierの受取箱へ。\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNEXT PLACES\nこの先に、二つの場所がひらいています。\nどちらを選んでも、選ばなくても大丈夫です。\n\n\nResearch Lab\nこの世界について残された記録を読む場所。\n\n\nCloud Garden\n別の夢を、もう一度見る場所。\n戻る完了",
+  "text": "作品へ移動\nNIKO² ATELIER\n\n\n\n白と薄水色のガラス研究所。奥へ続く通路と、記録の置かれた観測台があります。\nMAIN LAB\n観測台\n\nRESEARCH LAB\n\n少し、\n見ていく。\n入る\n観測台奥の保管室へ進む\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
   "controls": [
+    {
+      "tag": "A",
+      "text": "NIKO² ATELIER",
+      "disabled": false,
+      "rect": {
+        "x": 25,
+        "y": 23,
+        "w": 124,
+        "h": 29
+      }
+    },
     {
       "tag": "BUTTON",
       "text": "音をオンにする",
@@ -42,80 +53,58 @@
       }
     },
     {
-      "tag": "A",
-      "text": "FROM THE ATELIERを開く",
-      "disabled": false,
-      "rect": {
-        "x": 279,
-        "y": 274,
-        "w": 91,
-        "h": 92
-      }
-    },
-    {
-      "tag": "A",
-      "text": "Diaryを開く",
-      "disabled": false,
-      "rect": {
-        "x": 14,
-        "y": 298,
-        "w": 147,
-        "h": 147
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "Enter the dream",
-      "disabled": false,
-      "rect": {
-        "x": 90,
-        "y": 494,
-        "w": 210,
-        "h": 70
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "Research Lab\nこの世界について残された記録を読む場所。",
-      "disabled": false,
-      "rect": {
-        "x": 46,
-        "y": 316,
-        "w": 298,
-        "h": 134
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "Cloud Garden\n別の夢を、もう一度見る場所。",
-      "disabled": false,
-      "rect": {
-        "x": 46,
-        "y": 460,
-        "w": 298,
-        "h": 134
-      }
-    },
-    {
       "tag": "BUTTON",
       "text": "戻る",
       "disabled": false,
       "rect": {
-        "x": 18,
-        "y": 748,
-        "w": 72,
-        "h": 44
+        "x": 14,
+        "y": 82,
+        "w": 40,
+        "h": 40
       }
     },
     {
       "tag": "BUTTON",
-      "text": "完了",
+      "text": "入る",
       "disabled": false,
       "rect": {
-        "x": 300,
-        "y": 748,
-        "w": 72,
-        "h": 44
+        "x": 24,
+        "y": 623,
+        "w": 184,
+        "h": 46
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "観測台",
+      "disabled": false,
+      "rect": {
+        "x": 60,
+        "y": 355,
+        "w": 81,
+        "h": 275
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "奥の保管室へ進む",
+      "disabled": false,
+      "rect": {
+        "x": 148,
+        "y": 305,
+        "w": 98,
+        "h": 170
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "障害シミュレーション／運用モードを開く",
+      "disabled": false,
+      "rect": {
+        "x": 265,
+        "y": 574,
+        "w": 65,
+        "h": 88
       }
     }
   ],
@@ -505,6 +494,21 @@
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/7f70ebe52597b4031ba829714863176ed51618c7/live-results/genre-fan-final-recovery-20261007035700/current.jpg",
       "text": "作品へ移動\n \nWORLD\nWORLD\n水面の向こうに、いくつかの場所がひらいています。\n\n\nABOUT\nもふもふはいます。\nPLAY / SHARE / FAN WORK\nNIKO²での生活について\n好きな形で遊ぶための、小さな境界。\nDEAR ATELIER\nお手紙を送る\nAtelierの受取箱へ。\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNEXT PLACES\nこの先に、二つの場所がひらいています。\nどちらを選んでも、選ばなくても大丈夫です。\n\n\nResearch Lab\nこの世界について残された記録を読む場所。\n\n\nCloud Garden\n別の夢を、もう一度見る場所。\n戻る完了"
+    },
+    {
+      "number": 27,
+      "at": "2026-10-07T04:08:46.792Z",
+      "action": {
+        "id": "r26-research-lab",
+        "op": "tap",
+        "x": 227,
+        "y": 382,
+        "note": "Research Lab promises records about this world. That sounds more intriguing than repeating the garden now, so I choose it from the visible recommendation."
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#lab",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/2c229f0703c521a3451c1698a9b536a2cb339a54/live-results/genre-fan-final-recovery-20261007035700/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\n\n\n\n白と薄水色のガラス研究所。奥へ続く通路と、記録の置かれた観測台があります。\nMAIN LAB\n観測台\n\nRESEARCH LAB\n\n少し、\n見ていく。\n入る\n観測台奥の保管室へ進む\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
     }
   ]
 }
