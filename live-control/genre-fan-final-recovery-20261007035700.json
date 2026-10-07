@@ -1,9 +1,6 @@
 {
-  "id": "r19-diary-scroll",
-  "op": "scroll",
-  "x": 347,
-  "y": 691,
-  "dx": 0,
-  "dy": 612,
-  "note": "I want to see the souvenir that was just saved, rather than start another diary entry, so I move down the visible diary page."
+  "id": "r20-diary-pagedown",
+  "op": "key",
+  "key": "PageDown",
+  "note": "The harness reports mobile WebKit does not support its mouse wheel. Use the contract's PageDown fallback to view lower content; this cannot validate a finger swipe."
 }
