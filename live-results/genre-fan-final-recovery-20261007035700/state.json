@@ -5,18 +5,18 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-07T03:57:39.491Z",
-  "updatedAt": "2026-10-07T04:18:21.277Z",
-  "lastCommand": "r48-mari-flowers",
+  "updatedAt": "2026-10-07T04:18:42.330Z",
+  "lastCommand": "r49-next-garden-link",
   "stopReason": null,
   "action": {
-    "id": "r48-mari-flowers",
+    "id": "r49-next-garden-link",
     "op": "tap",
-    "x": 194,
-    "y": 434,
-    "note": "Follow the directory to MARI'S PRESSED FLOWERS after seeing mari in the BBS."
+    "x": 152,
+    "y": 668,
+    "note": "mari casually describes flowers falling upward in Cloud Garden. The Next garden link feels like a natural rabbit hole, so I follow it."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/021be5e65dd5895112b6ba5820693a78c9cd18d8/live-results/genre-fan-final-recovery-20261007035700/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/e3d7c66b14c1aed0394b59cad14ebc2f17a7640a/live-results/genre-fan-final-recovery-20261007035700/current.jpg",
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#channel0",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -28,7 +28,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\nNIKO² ATELIER\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCHANNEL / CH-00\nCHANNEL 00\n3 pages\n‹\n›\n⌂\nhttp://petal.ne.jp/~mari/flowers.html\n×\nMARI'S PRESSED FLOWERS\n管理人：mari　最終更新 2001.05.17\n\n押し花の部屋\n\n庭で乾かした花を、少しずつ載せています。画像は重いです。\n\nviolet_07.jpg\n昨日、花が上へ落ちていきました。Cloud Gardenではよくあるそうです。\n\n感想をBBSへ 次の庭へ\nconnected at 33.6 kbps\n閲覧の断片を持ち帰る\n\n\n\n\n",
+  "text": "作品へ移動\nNIKO² ATELIER\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCHANNEL / CH-00\nCHANNEL 00\n4 pages\n‹\n›\n⌂\nhttp://webring.channel00/moon/17\n×\nMOONLIGHT WEB RING\n月明かりの個人頁を巡るリング\n\n登録サイト 17 / 稼働サイト 9\n\nPREV\nRANDOM\nNEXT\nリング管理人は現在不在です。リングだけが巡回を続けています。\n\nconnected at 33.6 kbps\n閲覧の断片を持ち帰る\n\n\n\n\n",
   "controls": [
     {
       "tag": "A",
@@ -109,23 +109,34 @@
     },
     {
       "tag": "BUTTON",
-      "text": "感想をBBSへ",
+      "text": "PREV",
       "disabled": false,
       "rect": {
-        "x": 25,
-        "y": 650,
-        "w": 87,
+        "x": 109,
+        "y": 360,
+        "w": 47,
         "h": 35
       }
     },
     {
       "tag": "BUTTON",
-      "text": "次の庭へ",
+      "text": "RANDOM",
       "disabled": false,
       "rect": {
-        "x": 122,
-        "y": 650,
-        "w": 63,
+        "x": 162,
+        "y": 360,
+        "w": 67,
+        "h": 35
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "NEXT",
+      "disabled": false,
+      "rect": {
+        "x": 235,
+        "y": 360,
+        "w": 46,
         "h": 35
       }
     },
@@ -871,6 +882,21 @@
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#channel0",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/021be5e65dd5895112b6ba5820693a78c9cd18d8/live-results/genre-fan-final-recovery-20261007035700/current.jpg",
       "text": "作品へ移動\nNIKO² ATELIER\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCHANNEL / CH-00\nCHANNEL 00\n3 pages\n‹\n›\n⌂\nhttp://petal.ne.jp/~mari/flowers.html\n×\nMARI'S PRESSED FLOWERS\n管理人：mari　最終更新 2001.05.17\n\n押し花の部屋\n\n庭で乾かした花を、少しずつ載せています。画像は重いです。\n\nviolet_07.jpg\n昨日、花が上へ落ちていきました。Cloud Gardenではよくあるそうです。\n\n感想をBBSへ 次の庭へ\nconnected at 33.6 kbps\n閲覧の断片を持ち帰る\n\n\n\n\n"
+    },
+    {
+      "number": 50,
+      "at": "2026-10-07T04:18:42.330Z",
+      "action": {
+        "id": "r49-next-garden-link",
+        "op": "tap",
+        "x": 152,
+        "y": 668,
+        "note": "mari casually describes flowers falling upward in Cloud Garden. The Next garden link feels like a natural rabbit hole, so I follow it."
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#channel0",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/e3d7c66b14c1aed0394b59cad14ebc2f17a7640a/live-results/genre-fan-final-recovery-20261007035700/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCHANNEL / CH-00\nCHANNEL 00\n4 pages\n‹\n›\n⌂\nhttp://webring.channel00/moon/17\n×\nMOONLIGHT WEB RING\n月明かりの個人頁を巡るリング\n\n登録サイト 17 / 稼働サイト 9\n\nPREV\nRANDOM\nNEXT\nリング管理人は現在不在です。リングだけが巡回を続けています。\n\nconnected at 33.6 kbps\n閲覧の断片を持ち帰る\n\n\n\n\n"
     }
   ]
 }
