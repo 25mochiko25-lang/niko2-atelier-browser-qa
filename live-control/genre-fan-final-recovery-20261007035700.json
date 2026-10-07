@@ -1,5 +1,7 @@
 {
-  "id": "r12-look-beyond-gate",
-  "op": "look",
-  "note": "The doorway fills the view with no new action visible yet. I let the transition settle and look."
+  "id": "r13-petal",
+  "op": "tap",
+  "x": 126,
+  "y": 748,
+  "note": "The garden opens into a much wider impossible architecture. A pink petal on the foreground water stands out; I want to touch it before leaving."
 }
