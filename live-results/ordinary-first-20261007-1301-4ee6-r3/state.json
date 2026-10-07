@@ -5,18 +5,17 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-07T04:01:41.272Z",
-  "updatedAt": "2026-10-07T04:16:00.003Z",
-  "lastCommand": "37",
+  "updatedAt": "2026-10-07T04:16:20.163Z",
+  "lastCommand": "38",
   "stopReason": null,
   "action": {
-    "id": "37",
-    "op": "tap",
-    "x": 195,
-    "y": 751,
-    "note": "下部にLASTの古いぬいぐるみと濃度、確定ボタンが見えた。濃度は最初から選ばれているToiletteのまま、雨・紅茶の渋み・古いぬいぐるみの一本を『香りを定着させる』で完成させたい。"
+    "id": "38",
+    "op": "key",
+    "key": "PageDown",
+    "note": "『Private Cotton』というピンクの瓶ができた。選んだ素材から名前と形のある一本が出るのは、もう少し試したくなる。下に説明が続いているので読む。"
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/412e550fe91623ffe62fe54b1fe7da6362fa5c70/live-results/ordinary-first-20261007-1301-4ee6-r3/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/9ef1855ad013edcdc7e9ba842760271ae129c52c/live-results/ordinary-first-20261007-1301-4ee6-r3/current.jpg",
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#perfume",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -624,6 +623,20 @@
       "error": null,
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#perfume",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/412e550fe91623ffe62fe54b1fe7da6362fa5c70/live-results/ordinary-first-20261007-1301-4ee6-r3/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDREAM / PM-01\nPERFUME MORGUE\nFRAGRANCE / KEPT\nSKIN / あなたの痕跡\nF-20261007-9635\nPrivate Cotton\nSKIN / あなたの痕跡\nEAU DE TOILETTE / 肌に近い\nTOP\n1. 雨 ×1\nMIDDLE\n1. 紅茶の渋み ×1\nLAST\n1. 古いぬいぐるみ ×1\nFORMULA / SCENT CHARACTER\n最初に雨。 少し遅れて紅茶の渋み。 最後に古いぬいぐるみが残る。 肌の近くで続く輪郭へ着地する。\nDiaryに持ち帰る\nもう一度調合する\nコットンで、 彼女の頬をそっと拭く。  近い。  息がかかる。  なのに、 目だけは合わせない。\nREAL WORLD ECHOES\nREAL WORLD / TRACE ONLY\nこの香りには、現実にも近い夢がある。\nいまはまだ、名前ではなく三つの手掛かりだけ。\n\nECHO / AIR\nオゾニック\nECHO / HEART\nラベンダー\nECHO / TRACE\nホワイトムスク / カシミア\n"
+    },
+    {
+      "number": 39,
+      "at": "2026-10-07T04:16:20.163Z",
+      "action": {
+        "id": "38",
+        "op": "key",
+        "key": "PageDown",
+        "note": "『Private Cotton』というピンクの瓶ができた。選んだ素材から名前と形のある一本が出るのは、もう少し試したくなる。下に説明が続いているので読む。"
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#perfume",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/9ef1855ad013edcdc7e9ba842760271ae129c52c/live-results/ordinary-first-20261007-1301-4ee6-r3/current.jpg",
       "text": "作品へ移動\nNIKO² ATELIER\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDREAM / PM-01\nPERFUME MORGUE\nFRAGRANCE / KEPT\nSKIN / あなたの痕跡\nF-20261007-9635\nPrivate Cotton\nSKIN / あなたの痕跡\nEAU DE TOILETTE / 肌に近い\nTOP\n1. 雨 ×1\nMIDDLE\n1. 紅茶の渋み ×1\nLAST\n1. 古いぬいぐるみ ×1\nFORMULA / SCENT CHARACTER\n最初に雨。 少し遅れて紅茶の渋み。 最後に古いぬいぐるみが残る。 肌の近くで続く輪郭へ着地する。\nDiaryに持ち帰る\nもう一度調合する\nコットンで、 彼女の頬をそっと拭く。  近い。  息がかかる。  なのに、 目だけは合わせない。\nREAL WORLD ECHOES\nREAL WORLD / TRACE ONLY\nこの香りには、現実にも近い夢がある。\nいまはまだ、名前ではなく三つの手掛かりだけ。\n\nECHO / AIR\nオゾニック\nECHO / HEART\nラベンダー\nECHO / TRACE\nホワイトムスク / カシミア\n"
     }
   ]
