@@ -5,18 +5,18 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-07T03:48:35.799Z",
-  "updatedAt": "2026-10-07T03:53:13.033Z",
-  "lastCommand": "08",
+  "updatedAt": "2026-10-07T03:53:33.148Z",
+  "lastCommand": "09",
   "stopReason": null,
   "action": {
-    "id": "08",
+    "id": "09",
     "op": "tap",
-    "x": 145,
-    "y": 612,
-    "note": "カップで1/5になり、短い文章が出た。物に小さな説明が付く遊びだと分かった。鍵なら先の扉につながりそうなので触る。"
+    "x": 49,
+    "y": 567,
+    "note": "鍵はどの扉にも合わないという文章だった。謎解き用の道具というより記憶を集める感じ。横のきれいな瓶も触ってみる。"
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/793a9cc9cec371ffcdf005273a50bb6bd2527c4d/live-results/friend-referral-20261007-0347-mofu/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/3f8a91015c8405985c450b4ad36b145b7cbf597f/live-results/friend-referral-20261007-0347-mofu/current.jpg",
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -28,7 +28,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n2 / 5\n見つけたもの\nCG-01-A_02.DRM\n12:53:10\n\nFRAGMENT / 02\n\n青いリボンの鍵\nどの扉にも合わない。ただ、ひとつの記憶だけが開いた。\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n3 / 5\n見つけたもの\nCG-01-A_03.DRM\n12:53:30\n\nFRAGMENT / 03\n\nN² Eau de rêve\nキャップは常に閉じているのに、帰らない部屋の香りがした。\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
   "controls": [
     {
       "tag": "BUTTON",
@@ -65,7 +65,7 @@
     },
     {
       "tag": "BUTTON",
-      "text": "N² Eau de rêveに触れる",
+      "text": "N² Eau de rêve（発見済み）",
       "disabled": false,
       "rect": {
         "x": 4,
@@ -329,6 +329,21 @@
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/793a9cc9cec371ffcdf005273a50bb6bd2527c4d/live-results/friend-referral-20261007-0347-mofu/current.jpg",
       "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n2 / 5\n見つけたもの\nCG-01-A_02.DRM\n12:53:10\n\nFRAGMENT / 02\n\n青いリボンの鍵\nどの扉にも合わない。ただ、ひとつの記憶だけが開いた。\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+      "number": 10,
+      "at": "2026-10-07T03:53:33.148Z",
+      "action": {
+        "id": "09",
+        "op": "tap",
+        "x": 49,
+        "y": 567,
+        "note": "鍵はどの扉にも合わないという文章だった。謎解き用の道具というより記憶を集める感じ。横のきれいな瓶も触ってみる。"
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/3f8a91015c8405985c450b4ad36b145b7cbf597f/live-results/friend-referral-20261007-0347-mofu/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n3 / 5\n見つけたもの\nCG-01-A_03.DRM\n12:53:30\n\nFRAGMENT / 03\n\nN² Eau de rêve\nキャップは常に閉じているのに、帰らない部屋の香りがした。\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
     }
   ]
 }
