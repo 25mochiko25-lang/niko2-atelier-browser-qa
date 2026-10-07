@@ -5,19 +5,19 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-07T15:21:45.028Z",
-  "updatedAt": "2026-10-07T15:48:10.210Z",
-  "lastCommand": "41",
+  "updatedAt": "2026-10-07T15:50:17.800Z",
+  "lastCommand": "42",
   "stopReason": null,
   "action": {
-    "id": "41",
+    "id": "42",
     "op": "tap",
-    "x": 34,
-    "y": 102,
-    "note": "Return to the atelier after seeing the finished perfume."
+    "x": 325,
+    "y": 320,
+    "note": "After a full garden visit and one perfume, I'm now curious enough to read the atelier's own notes."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/9c5bce57945443a95e351814fc75ae1e3c71d5b5/live-results/freeplay-20261008-niko-c/current.jpg",
-  "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/dc367a9dcecad7af3819e2bbf9d170070c7a123b/live-results/freeplay-20261008-niko-c/current.jpg",
+  "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#notes",
   "title": "NIKO² ATELIER",
   "viewport": {
     "width": 390,
@@ -28,8 +28,52 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n \nWORLD\nWORLD\n水面の向こうに、いくつかの場所がひらいています。\n\n\nABOUT\nもふもふはいます。\nPLAY / SHARE / FAN WORK\nNIKO²での生活について\n好きな形で遊ぶための、小さな境界。\nDEAR ATELIER\nお手紙を送る\nAtelierの受取箱へ。\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+  "text": "作品へ移動\nNIKO² ATELIER\nDream\nDiary\nAbout\n\n\n\n\nNIKO² ATELIER / FIELD RECORDS\n\nFROM THE ATELIER\nALL\nSPECIAL\nNOTES\nINTERNAL\n\nSPECIAL / FEATURED / ISSUE 000\nALPHA OPENING\n夢を作ったり、壊したり、もう一度作ったりしていました。\nREAD ISSUE 000\n2026.09.11\nNOTES / GENESIS\nポートフォリオを作るつもりだった。\n\n気づいたら研究所が建っていた。空はもっと増やしてほしい。同じ空は飽きる。\n\nFOUNDER NOTE\nNORMAL (?)\n2026.09.11 / 14:26\nINTERNAL / DIARY UI\nAutomated PASS ≠ Visual PASS\n\n技術的に成立していても、Founderが押したくなければ直す。\n\nQA NOTE\nOBSERVE\n2026.09.11 / 19:02\nNOTES / CLOUD GARDEN\nImpossible Sky\n\n物理法則については現在確認中です。\n\nCG-01-B\nDEPLOYED\n2026.09.11 / 23:41\nINTERNAL / M-00\nPERSONNEL UPDATE\n\nChief Dream Systems Architectに自己研鑽義務が追加されました。\n\nFLUFF INTEGRITY\n99.99%\nUNDATED\nARCHIVE / DESIGN FRAGMENT\n触れた順番を残す\n\n最初の記憶が時間帯を、最後の記憶が天気を決める。途中の三つも、雲・星・花・月・終曲へ静かに混ざる。\n\nCLOUD GARDEN\nDESIGN FRAGMENT\nUNDATED\nARCHIVE / DESIGN FRAGMENT\n音楽が思い出していく\n\n欠けたオルゴールから始まり、ピアノ、ガラスベル、薄い空気音を発見ごとに重ねる。\n\nAUDIO SYSTEM\nDESIGN FRAGMENT\nUNDATED\nARCHIVE / DESIGN FRAGMENT\n画面より、作品世界\n\n操作は画像の中へ溶かし、説明やカウンターを最小限に。タップ・キーボード・動きを減らす設定にも対応する。\n\nINTERACTION\nDESIGN FRAGMENT\nアトリエへ戻る\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
   "controls": [
+    {
+      "tag": "A",
+      "text": "NIKO² ATELIER",
+      "disabled": false,
+      "rect": {
+        "x": 25,
+        "y": 13,
+        "w": 124,
+        "h": 44
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Dream",
+      "disabled": false,
+      "rect": {
+        "x": 86,
+        "y": 58,
+        "w": 64,
+        "h": 44
+      }
+    },
+    {
+      "tag": "A",
+      "text": "Diary",
+      "disabled": false,
+      "rect": {
+        "x": 166,
+        "y": 58,
+        "w": 64,
+        "h": 44
+      }
+    },
+    {
+      "tag": "A",
+      "text": "About",
+      "disabled": false,
+      "rect": {
+        "x": 246,
+        "y": 58,
+        "w": 64,
+        "h": 44
+      }
+    },
     {
       "tag": "BUTTON",
       "text": "音をオンにする",
@@ -42,36 +86,58 @@
       }
     },
     {
-      "tag": "A",
-      "text": "FROM THE ATELIERを開く",
+      "tag": "BUTTON",
+      "text": "ALL",
       "disabled": false,
       "rect": {
-        "x": 279,
-        "y": 274,
-        "w": 91,
-        "h": 92
-      }
-    },
-    {
-      "tag": "A",
-      "text": "Diaryを開く",
-      "disabled": false,
-      "rect": {
-        "x": 14,
-        "y": 298,
-        "w": 147,
-        "h": 147
+        "x": 12,
+        "y": 211,
+        "w": 55,
+        "h": 44
       }
     },
     {
       "tag": "BUTTON",
-      "text": "Enter the dream",
+      "text": "SPECIAL",
       "disabled": false,
       "rect": {
-        "x": 90,
-        "y": 494,
-        "w": 210,
-        "h": 70
+        "x": 69,
+        "y": 211,
+        "w": 97,
+        "h": 44
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "NOTES",
+      "disabled": false,
+      "rect": {
+        "x": 168,
+        "y": 211,
+        "w": 81,
+        "h": 44
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "INTERNAL",
+      "disabled": false,
+      "rect": {
+        "x": 251,
+        "y": 211,
+        "w": 116,
+        "h": 44
+      }
+    },
+    {
+      "tag": "A",
+      "text": "SPECIAL / FEATURED / ISSUE 000\nALPHA OPENING\n夢を作ったり、壊したり、もう一度作ったりしていました。\nREAD ISSUE 000",
+      "disabled": false,
+      "rect": {
+        "x": 12,
+        "y": 273,
+        "w": 366,
+        "h": 446
       }
     }
   ],
@@ -700,6 +766,21 @@
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/9c5bce57945443a95e351814fc75ae1e3c71d5b5/live-results/freeplay-20261008-niko-c/current.jpg",
       "text": "作品へ移動\n \nWORLD\nWORLD\n水面の向こうに、いくつかの場所がひらいています。\n\n\nABOUT\nもふもふはいます。\nPLAY / SHARE / FAN WORK\nNIKO²での生活について\n好きな形で遊ぶための、小さな境界。\nDEAR ATELIER\nお手紙を送る\nAtelierの受取箱へ。\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+      "number": 43,
+      "at": "2026-10-07T15:50:17.800Z",
+      "action": {
+        "id": "42",
+        "op": "tap",
+        "x": 325,
+        "y": 320,
+        "note": "After a full garden visit and one perfume, I'm now curious enough to read the atelier's own notes."
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#notes",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/dc367a9dcecad7af3819e2bbf9d170070c7a123b/live-results/freeplay-20261008-niko-c/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\nDream\nDiary\nAbout\n\n\n\n\nNIKO² ATELIER / FIELD RECORDS\n\nFROM THE ATELIER\nALL\nSPECIAL\nNOTES\nINTERNAL\n\nSPECIAL / FEATURED / ISSUE 000\nALPHA OPENING\n夢を作ったり、壊したり、もう一度作ったりしていました。\nREAD ISSUE 000\n2026.09.11\nNOTES / GENESIS\nポートフォリオを作るつもりだった。\n\n気づいたら研究所が建っていた。空はもっと増やしてほしい。同じ空は飽きる。\n\nFOUNDER NOTE\nNORMAL (?)\n2026.09.11 / 14:26\nINTERNAL / DIARY UI\nAutomated PASS ≠ Visual PASS\n\n技術的に成立していても、Founderが押したくなければ直す。\n\nQA NOTE\nOBSERVE\n2026.09.11 / 19:02\nNOTES / CLOUD GARDEN\nImpossible Sky\n\n物理法則については現在確認中です。\n\nCG-01-B\nDEPLOYED\n2026.09.11 / 23:41\nINTERNAL / M-00\nPERSONNEL UPDATE\n\nChief Dream Systems Architectに自己研鑽義務が追加されました。\n\nFLUFF INTEGRITY\n99.99%\nUNDATED\nARCHIVE / DESIGN FRAGMENT\n触れた順番を残す\n\n最初の記憶が時間帯を、最後の記憶が天気を決める。途中の三つも、雲・星・花・月・終曲へ静かに混ざる。\n\nCLOUD GARDEN\nDESIGN FRAGMENT\nUNDATED\nARCHIVE / DESIGN FRAGMENT\n音楽が思い出していく\n\n欠けたオルゴールから始まり、ピアノ、ガラスベル、薄い空気音を発見ごとに重ねる。\n\nAUDIO SYSTEM\nDESIGN FRAGMENT\nUNDATED\nARCHIVE / DESIGN FRAGMENT\n画面より、作品世界\n\n操作は画像の中へ溶かし、説明やカウンターを最小限に。タップ・キーボード・動きを減らす設定にも対応する。\n\nINTERACTION\nDESIGN FRAGMENT\nアトリエへ戻る\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
     }
   ]
 }
