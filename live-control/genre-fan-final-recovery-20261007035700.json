@@ -1,6 +1,7 @@
 {
-  "id": "r40-world-down",
-  "op": "key",
-  "key": "PageDown",
-  "note": "The start of a WORLD section is visible at the bottom. Move down using the available viewing fallback to find other destinations."
+  "id": "r41-open-world",
+  "op": "tap",
+  "x": 193,
+  "y": 346,
+  "note": "The dark reflective hall offers a welcome visual change from the pastel garden. I open its WORLD image."
 }
