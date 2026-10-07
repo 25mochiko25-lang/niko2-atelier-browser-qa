@@ -1,7 +1,6 @@
 {
-  "id": "32",
-  "op": "tap",
-  "x": 334,
-  "y": 770,
-  "note": "次の行き先はResearch LabとDiary。Diaryは見た。今は世界の記録を読み込むより、ほかに遊べるものがあるか見たいので完了を押す。"
+  "id": "33",
+  "op": "key",
+  "key": "PageDown",
+  "note": "入口の下にWORLDの見出しが見える。別の遊び場がありそうなので下を見る。Known infrastructure fallback: PageDown instead of unsupported mobile WebKit wheel; not a finger-swipe test."
 }
