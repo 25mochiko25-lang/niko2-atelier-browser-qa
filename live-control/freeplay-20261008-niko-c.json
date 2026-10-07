@@ -1,6 +1,6 @@
 {
-  "id": "39",
+  "id": "40",
   "op": "key",
-  "key": "PageDown",
-  "note": "Read further down the finished perfume result and reach its save controls."
+  "key": "End",
+  "note": "Jump to the lower part of the finished perfume result for observation; not a scroll-quality test."
 }
