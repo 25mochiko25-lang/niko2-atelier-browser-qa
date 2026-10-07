@@ -5,18 +5,17 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-07T03:48:35.799Z",
-  "updatedAt": "2026-10-07T04:05:14.643Z",
-  "lastCommand": "32",
+  "updatedAt": "2026-10-07T04:05:47.848Z",
+  "lastCommand": "33",
   "stopReason": null,
   "action": {
-    "id": "32",
-    "op": "tap",
-    "x": 334,
-    "y": 770,
-    "note": "次の行き先はResearch LabとDiary。Diaryは見た。今は世界の記録を読み込むより、ほかに遊べるものがあるか見たいので完了を押す。"
+    "id": "33",
+    "op": "key",
+    "key": "PageDown",
+    "note": "入口の下にWORLDの見出しが見える。別の遊び場がありそうなので下を見る。Known infrastructure fallback: PageDown instead of unsupported mobile WebKit wheel; not a finger-swipe test."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/0dcc66f6ff5a62491f7d34e7b47dd897f2bbce42/live-results/friend-referral-20261007-0347-mofu/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/c4251a0b227afe4fd5143ab3282674dc74eeb27e/live-results/friend-referral-20261007-0347-mofu/current.jpg",
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -43,35 +42,24 @@
     },
     {
       "tag": "A",
-      "text": "FROM THE ATELIERを開く",
+      "text": "WORLDを開く",
       "disabled": false,
       "rect": {
-        "x": 279,
-        "y": 274,
-        "w": 91,
-        "h": 92
+        "x": 23,
+        "y": 246,
+        "w": 343,
+        "h": 193
       }
     },
     {
       "tag": "A",
-      "text": "Diaryを開く",
+      "text": "ABOUT\nもふもふはいます。",
       "disabled": false,
       "rect": {
-        "x": 14,
-        "y": 298,
-        "w": 147,
-        "h": 147
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "Enter the dream",
-      "disabled": false,
-      "rect": {
-        "x": 90,
-        "y": 494,
-        "w": 210,
-        "h": 70
+        "x": 43,
+        "y": 723,
+        "w": 304,
+        "h": 252
       }
     }
   ],
@@ -567,6 +555,20 @@
       "error": null,
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/0dcc66f6ff5a62491f7d34e7b47dd897f2bbce42/live-results/friend-referral-20261007-0347-mofu/current.jpg",
+      "text": "作品へ移動\n \nWORLD\nWORLD\n水面の向こうに、いくつかの場所がひらいています。\n\n\nABOUT\nもふもふはいます。\nPLAY / SHARE / FAN WORK\nNIKO²での生活について\n好きな形で遊ぶための、小さな境界。\nDEAR ATELIER\nお手紙を送る\nAtelierの受取箱へ。\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+      "number": 34,
+      "at": "2026-10-07T04:05:47.848Z",
+      "action": {
+        "id": "33",
+        "op": "key",
+        "key": "PageDown",
+        "note": "入口の下にWORLDの見出しが見える。別の遊び場がありそうなので下を見る。Known infrastructure fallback: PageDown instead of unsupported mobile WebKit wheel; not a finger-swipe test."
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/c4251a0b227afe4fd5143ab3282674dc74eeb27e/live-results/friend-referral-20261007-0347-mofu/current.jpg",
       "text": "作品へ移動\n \nWORLD\nWORLD\n水面の向こうに、いくつかの場所がひらいています。\n\n\nABOUT\nもふもふはいます。\nPLAY / SHARE / FAN WORK\nNIKO²での生活について\n好きな形で遊ぶための、小さな境界。\nDEAR ATELIER\nお手紙を送る\nAtelierの受取箱へ。\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
     }
   ]
