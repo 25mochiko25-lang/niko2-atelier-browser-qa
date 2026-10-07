@@ -5,18 +5,19 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-07T04:05:38.933Z",
-  "updatedAt": "2026-10-07T04:15:46.643Z",
-  "lastCommand": "r26",
+  "updatedAt": "2026-10-07T04:16:16.983Z",
+  "lastCommand": "r27",
   "stopReason": null,
   "action": {
-    "id": "r26",
-    "op": "key",
-    "key": "PageDown",
-    "wait": 450,
-    "note": "三つ入れたが完成ボタンが今の画面にない。下を見る。指スワイプの代行として既知のPageDownを使う。"
+    "id": "r27",
+    "op": "tap",
+    "x": 307,
+    "y": 652,
+    "wait": 350,
+    "note": "SCROLL_INFRA: PageDownは素材一覧だけを送った。スワイプ代行の対象を下の層タブへ移すため、既に選択済みのLASTを押す。サイトへの不満とは数えない。"
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/52fca68903fe2f337a3df3ccf955d0dce23c431d/live-results/sloppy-mobile-recovery-20261007-0406-mofu-3c4b3187/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/5352a089da38e215694b3ac78cd91853d9365af1/live-results/sloppy-mobile-recovery-20261007-0406-mofu-3c4b3187/current.jpg",
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#perfume",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -764,6 +765,22 @@
       "error": null,
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#perfume",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/52fca68903fe2f337a3df3ccf955d0dce23c431d/live-results/sloppy-mobile-recovery-20261007-0406-mofu-3c4b3187/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDREAM / PM-01\nPERFUME MORGUE\nFORMULA / 3 MATERIALS\n香りになれなかった記憶。\n素材を選び、三つの層へ落としてください。順番と濃度で、同じ記憶も別の香りになります。\n雨\n古いぬいぐるみ\n燃えた砂糖\nホテルの白いシーツ\n甘い夢\n紅茶の渋み\n煙の名残\n花\n濡れた石\n乾いた木\n生の果実\n夜更け\n海水\n古い本\n化粧の粉\n冷たい金属\n\nMIXING BOTTLE / 3 MATERIALS\nIN BOTTLE / 甘い夢 ×1 · 燃えた砂糖 ×1 · 古いぬいぐるみ ×1\n\n01\nTOP\n\n02\nMIDDLE\n\n03\nLAST\nTOP\n甘い夢 ×1\n×\n−\n＋\nMIDDLE\n燃えた砂糖 ×1\n×\n−\n＋\nLAST\n古いぬいぐるみ ×1\n×\n−\n＋\nCONCENTRATION\nEAU DE TOILETTE / 肌に近い\n\nEau Fraîche\n水のあと\n\nCologne\n風の輪郭\n\nToilette\n肌に近い\n\nParfum\n記憶の濃度\n\nExtrait\n最後まで残る\n\n香りを定着させる\n"
+    },
+    {
+      "number": 28,
+      "at": "2026-10-07T04:16:16.983Z",
+      "action": {
+        "id": "r27",
+        "op": "tap",
+        "x": 307,
+        "y": 652,
+        "wait": 350,
+        "note": "SCROLL_INFRA: PageDownは素材一覧だけを送った。スワイプ代行の対象を下の層タブへ移すため、既に選択済みのLASTを押す。サイトへの不満とは数えない。"
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#perfume",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/5352a089da38e215694b3ac78cd91853d9365af1/live-results/sloppy-mobile-recovery-20261007-0406-mofu-3c4b3187/current.jpg",
       "text": "作品へ移動\nNIKO² ATELIER\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDREAM / PM-01\nPERFUME MORGUE\nFORMULA / 3 MATERIALS\n香りになれなかった記憶。\n素材を選び、三つの層へ落としてください。順番と濃度で、同じ記憶も別の香りになります。\n雨\n古いぬいぐるみ\n燃えた砂糖\nホテルの白いシーツ\n甘い夢\n紅茶の渋み\n煙の名残\n花\n濡れた石\n乾いた木\n生の果実\n夜更け\n海水\n古い本\n化粧の粉\n冷たい金属\n\nMIXING BOTTLE / 3 MATERIALS\nIN BOTTLE / 甘い夢 ×1 · 燃えた砂糖 ×1 · 古いぬいぐるみ ×1\n\n01\nTOP\n\n02\nMIDDLE\n\n03\nLAST\nTOP\n甘い夢 ×1\n×\n−\n＋\nMIDDLE\n燃えた砂糖 ×1\n×\n−\n＋\nLAST\n古いぬいぐるみ ×1\n×\n−\n＋\nCONCENTRATION\nEAU DE TOILETTE / 肌に近い\n\nEau Fraîche\n水のあと\n\nCologne\n風の輪郭\n\nToilette\n肌に近い\n\nParfum\n記憶の濃度\n\nExtrait\n最後まで残る\n\n香りを定着させる\n"
     }
   ]
