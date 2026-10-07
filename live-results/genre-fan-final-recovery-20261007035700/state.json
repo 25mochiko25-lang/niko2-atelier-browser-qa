@@ -5,19 +5,19 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-07T03:57:39.491Z",
-  "updatedAt": "2026-10-07T04:19:41.378Z",
-  "lastCommand": "r51-hotel-webpage",
+  "updatedAt": "2026-10-07T04:20:09.394Z",
+  "lastCommand": "r52-current-hotel",
   "stopReason": null,
   "action": {
-    "id": "r51-hotel-webpage",
+    "id": "r52-current-hotel",
     "op": "tap",
-    "x": 196,
-    "y": 611,
-    "note": "Random returned to the directory, which is a small anticlimax rather than a proven malfunction. I now choose the Hotel Somnia page to see a different corner of this web."
+    "x": 75,
+    "y": 518,
+    "note": "Room service delivering yesterday or someone's rain is a concrete strange promise. The guest review's stay date has not arrived yet. I follow Current hotel to experience it beyond this page."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/59d25b16b987ad7e6b355c3b9102cf1968f1ccf3/live-results/genre-fan-final-recovery-20261007035700/current.jpg",
-  "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#channel0",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/db286adb91453832895f958ac709d08021528f89/live-results/genre-fan-final-recovery-20261007035700/current.jpg",
+  "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#hotel",
   "title": "NIKO² ATELIER",
   "viewport": {
     "width": 390,
@@ -28,7 +28,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\nNIKO² ATELIER\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCHANNEL / CH-00\nCHANNEL 00\n5 pages\n‹\n›\n⌂\nhttp://somnia-hotel.jp/index.htm\n×\nHOTEL SOMNIA\nSame room. A different night.\n\nROOM SERVICE\n\n昨日、青の時間、誰かの雨。存在しない品もお部屋まで。\n\nROOM 000は静かで、とても広かったです。\n宿泊日：未到来\n現在のホテルへ guest book\ncached page changed / connection stable\n閲覧の断片を持ち帰る\n\n\n\n\n",
+  "text": "作品へ移動\nNIKO² ATELIER\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDREAM / ROOM 0317\nHOTEL SOMNIA\nSTAY 0 / 3\nFRONT DESK / ROOM 0317\n今夜も、同じ部屋をご用意しました。\n\n最初の三泊は、いつでもお越しいただけます。あと3泊。\n\nCHECK IN\n\n\n",
   "controls": [
     {
       "tag": "A",
@@ -36,7 +36,7 @@
       "disabled": false,
       "rect": {
         "x": 25,
-        "y": 18,
+        "y": 23,
         "w": 124,
         "h": 29
       }
@@ -53,8 +53,8 @@
       }
     },
     {
-      "tag": "BUTTON",
-      "text": "ROOM NULLへ戻る",
+      "tag": "A",
+      "text": "アトリエへ戻る",
       "disabled": false,
       "rect": {
         "x": 14,
@@ -65,79 +65,13 @@
     },
     {
       "tag": "BUTTON",
-      "text": "‹",
+      "text": "CHECK IN",
       "disabled": false,
       "rect": {
-        "x": 17,
-        "y": 117,
-        "w": 31,
-        "h": 28
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "›",
-      "disabled": true,
-      "rect": {
-        "x": 52,
-        "y": 117,
-        "w": 31,
-        "h": 28
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "⌂",
-      "disabled": false,
-      "rect": {
-        "x": 87,
-        "y": 117,
-        "w": 31,
-        "h": 28
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "×",
-      "disabled": false,
-      "rect": {
-        "x": 341,
-        "y": 117,
-        "w": 31,
-        "h": 28
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "現在のホテルへ",
-      "disabled": false,
-      "rect": {
-        "x": 25,
-        "y": 500,
-        "w": 99,
-        "h": 35
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "guest book",
-      "disabled": false,
-      "rect": {
-        "x": 134,
-        "y": 499,
-        "w": 73,
-        "h": 35
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "閲覧の断片を持ち帰る",
-      "disabled": false,
-      "rect": {
-        "x": 246,
-        "y": 765,
-        "w": 125,
-        "h": 30
+        "x": 36,
+        "y": 708,
+        "w": 116,
+        "h": 46
       }
     }
   ],
@@ -916,6 +850,21 @@
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#channel0",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/59d25b16b987ad7e6b355c3b9102cf1968f1ccf3/live-results/genre-fan-final-recovery-20261007035700/current.jpg",
       "text": "作品へ移動\nNIKO² ATELIER\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCHANNEL / CH-00\nCHANNEL 00\n5 pages\n‹\n›\n⌂\nhttp://somnia-hotel.jp/index.htm\n×\nHOTEL SOMNIA\nSame room. A different night.\n\nROOM SERVICE\n\n昨日、青の時間、誰かの雨。存在しない品もお部屋まで。\n\nROOM 000は静かで、とても広かったです。\n宿泊日：未到来\n現在のホテルへ guest book\ncached page changed / connection stable\n閲覧の断片を持ち帰る\n\n\n\n\n"
+    },
+    {
+      "number": 53,
+      "at": "2026-10-07T04:20:09.394Z",
+      "action": {
+        "id": "r52-current-hotel",
+        "op": "tap",
+        "x": 75,
+        "y": 518,
+        "note": "Room service delivering yesterday or someone's rain is a concrete strange promise. The guest review's stay date has not arrived yet. I follow Current hotel to experience it beyond this page."
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#hotel",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/db286adb91453832895f958ac709d08021528f89/live-results/genre-fan-final-recovery-20261007035700/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDREAM / ROOM 0317\nHOTEL SOMNIA\nSTAY 0 / 3\nFRONT DESK / ROOM 0317\n今夜も、同じ部屋をご用意しました。\n\n最初の三泊は、いつでもお越しいただけます。あと3泊。\n\nCHECK IN\n\n\n"
     }
   ]
 }
