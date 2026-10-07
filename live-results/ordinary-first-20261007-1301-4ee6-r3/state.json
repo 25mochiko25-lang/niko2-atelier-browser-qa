@@ -5,17 +5,17 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-07T04:01:41.272Z",
-  "updatedAt": "2026-10-07T04:18:53.333Z",
-  "lastCommand": "45",
+  "updatedAt": "2026-10-07T04:19:19.876Z",
+  "lastCommand": "46",
   "stopReason": null,
   "action": {
-    "id": "45",
+    "id": "46",
     "op": "key",
     "key": "Tab",
-    "note": "音ボタンから次のフォーカス対象へ進む。結果下部の閲覧を継続。"
+    "note": "戻るボタンの次へフォーカスを進める。結果本文より下に操作があるか見る。"
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/b2eb623da5913898a627cec23fb6bf764b0e4fea/live-results/ordinary-first-20261007-1301-4ee6-r3/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/f1abb6842240569fe9de363469df622ec09b58a4/live-results/ordinary-first-20261007-1301-4ee6-r3/current.jpg",
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#perfume",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -53,13 +53,24 @@
     },
     {
       "tag": "BUTTON",
-      "text": "アトリエへ戻る",
+      "text": "Diaryに持ち帰る",
       "disabled": false,
       "rect": {
-        "x": 14,
-        "y": 82,
-        "w": 40,
-        "h": 40
+        "x": 46,
+        "y": 400,
+        "w": 145,
+        "h": 44
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "もう一度調合する",
+      "disabled": false,
+      "rect": {
+        "x": 199,
+        "y": 400,
+        "w": 145,
+        "h": 44
       }
     }
   ],
@@ -739,6 +750,20 @@
       "error": null,
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#perfume",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/b2eb623da5913898a627cec23fb6bf764b0e4fea/live-results/ordinary-first-20261007-1301-4ee6-r3/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDREAM / PM-01\nPERFUME MORGUE\nFRAGRANCE / KEPT\nSKIN / あなたの痕跡\nF-20261007-9635\nPrivate Cotton\nSKIN / あなたの痕跡\nEAU DE TOILETTE / 肌に近い\nTOP\n1. 雨 ×1\nMIDDLE\n1. 紅茶の渋み ×1\nLAST\n1. 古いぬいぐるみ ×1\nFORMULA / SCENT CHARACTER\n最初に雨。 少し遅れて紅茶の渋み。 最後に古いぬいぐるみが残る。 肌の近くで続く輪郭へ着地する。\nDiaryに持ち帰る\nもう一度調合する\nコットンで、 彼女の頬をそっと拭く。  近い。  息がかかる。  なのに、 目だけは合わせない。\nREAL WORLD ECHOES\nREAL WORLD / TRACE ONLY\nこの香りには、現実にも近い夢がある。\nいまはまだ、名前ではなく三つの手掛かりだけ。\n\nECHO / AIR\nオゾニック\nECHO / HEART\nラベンダー\nECHO / TRACE\nホワイトムスク / カシミア\n"
+    },
+    {
+      "number": 47,
+      "at": "2026-10-07T04:19:19.876Z",
+      "action": {
+        "id": "46",
+        "op": "key",
+        "key": "Tab",
+        "note": "戻るボタンの次へフォーカスを進める。結果本文より下に操作があるか見る。"
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#perfume",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/f1abb6842240569fe9de363469df622ec09b58a4/live-results/ordinary-first-20261007-1301-4ee6-r3/current.jpg",
       "text": "作品へ移動\nNIKO² ATELIER\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDREAM / PM-01\nPERFUME MORGUE\nFRAGRANCE / KEPT\nSKIN / あなたの痕跡\nF-20261007-9635\nPrivate Cotton\nSKIN / あなたの痕跡\nEAU DE TOILETTE / 肌に近い\nTOP\n1. 雨 ×1\nMIDDLE\n1. 紅茶の渋み ×1\nLAST\n1. 古いぬいぐるみ ×1\nFORMULA / SCENT CHARACTER\n最初に雨。 少し遅れて紅茶の渋み。 最後に古いぬいぐるみが残る。 肌の近くで続く輪郭へ着地する。\nDiaryに持ち帰る\nもう一度調合する\nコットンで、 彼女の頬をそっと拭く。  近い。  息がかかる。  なのに、 目だけは合わせない。\nREAL WORLD ECHOES\nREAL WORLD / TRACE ONLY\nこの香りには、現実にも近い夢がある。\nいまはまだ、名前ではなく三つの手掛かりだけ。\n\nECHO / AIR\nオゾニック\nECHO / HEART\nラベンダー\nECHO / TRACE\nホワイトムスク / カシミア\n"
     }
   ]
