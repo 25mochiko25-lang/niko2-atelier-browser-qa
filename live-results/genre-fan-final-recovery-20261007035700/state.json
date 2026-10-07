@@ -5,18 +5,18 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-07T03:57:39.491Z",
-  "updatedAt": "2026-10-07T04:03:58.941Z",
-  "lastCommand": "r15-add-words",
+  "updatedAt": "2026-10-07T04:04:22.012Z",
+  "lastCommand": "r16-focus-words",
   "stopReason": null,
   "action": {
-    "id": "r15-add-words",
+    "id": "r16-focus-words",
     "op": "tap",
-    "x": 91,
-    "y": 555,
-    "note": "The paired scene and petal snapshots make the souvenir concrete. I want to add a short personal line before putting it in the diary."
+    "x": 181,
+    "y": 552,
+    "note": "Focus the visible note field to write my reaction to this garden."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/b5b7c5d4f25ed894358a49b2b46cdcd03d0cfd84/live-results/genre-fan-final-recovery-20261007035700/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/a11061c5bb921c4ef0c2bddd577e83cefb11dec9/live-results/genre-fan-final-recovery-20261007035700/current.jpg",
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#quiet",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -57,8 +57,8 @@
       "text": "帰る花弁に触れる",
       "disabled": false,
       "rect": {
-        "x": 74,
-        "y": 712,
+        "x": 76,
+        "y": 711,
         "w": 69,
         "h": 69
       }
@@ -365,6 +365,21 @@
       "error": null,
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#quiet",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/b5b7c5d4f25ed894358a49b2b46cdcd03d0cfd84/live-results/genre-fan-final-recovery-20261007035700/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n夢を離れる\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDREAM MEMORY\n\n夢から残ったもの\n\nWORLD MEMORY\nTHING THAT REMAINED\nWORLD MEMORY + REMAINS\n白い石に残った花弁\n帰る花弁 — 空へ昇った庭から、一枚だけ残った。\n言葉を閉じる\n夢のあとに残す言葉\n\nアトリエへ戻る\nDiaryへ持ち帰る"
+    },
+    {
+      "number": 17,
+      "at": "2026-10-07T04:04:22.012Z",
+      "action": {
+        "id": "r16-focus-words",
+        "op": "tap",
+        "x": 181,
+        "y": 552,
+        "note": "Focus the visible note field to write my reaction to this garden."
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#quiet",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/a11061c5bb921c4ef0c2bddd577e83cefb11dec9/live-results/genre-fan-final-recovery-20261007035700/current.jpg",
       "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n夢を離れる\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDREAM MEMORY\n\n夢から残ったもの\n\nWORLD MEMORY\nTHING THAT REMAINED\nWORLD MEMORY + REMAINS\n白い石に残った花弁\n帰る花弁 — 空へ昇った庭から、一枚だけ残った。\n言葉を閉じる\n夢のあとに残す言葉\n\nアトリエへ戻る\nDiaryへ持ち帰る"
     }
   ]
