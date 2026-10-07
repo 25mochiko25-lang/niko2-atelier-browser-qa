@@ -10,6 +10,24 @@ The legacy `requests/*.json` -> `qa/visitor.mjs` method is a **synthetic diagnos
 
 Never recycle another session's browser state or feelings as your own first-time visit. Use a unique session ID and control file. Do not write to `live-control/first-time-visual-001.json`, which belongs to visitor 1.
 
+## Default visitor contract
+
+When the Founder only specifies a visitor personality or framing such as "play as this kind of visitor" or "see whether this is interesting to this kind of person", treat that alone as a complete visitor-QA request.
+
+Unless the Founder explicitly overrides it, automatically:
+
+- use the current Combined Preview
+- use the observer-driven live browser from **LIVE_OBSERVER.md**
+- start a fresh, unique touch-enabled mobile WebKit session
+- enter without reading the product source, private specifications, implementation history, or other visitors' reports
+- look at the actual screen and let the specified visitor personality decide what to tap, where to wander, what to ignore, and when to leave
+- continue for as long as that visitor remains genuinely interested; there is no requirement to visit every room
+- report ordinary visitor reactions first, then clearly broken behavior, then suspicious or unclear behavior
+
+The Founder does not need to provide a Preview URL, browser method, session name, screenshots, action script, or step count for an ordinary visitor-QA request.
+
+A technical interruption or workflow limit is infrastructure, not visitor boredom. If the Founder explicitly asks for production, desktop, synthetic diagnostics, a fixed operation sequence, or another environment, that instruction overrides this default.
+
 ## Visitor roles
 
 - `first-time`: ordinary first-time visitor
