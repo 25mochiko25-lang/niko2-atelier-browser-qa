@@ -5,21 +5,18 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-07T03:49:33.114Z",
-  "updatedAt": "2026-10-07T04:00:53.570Z",
-  "lastCommand": "25",
+  "updatedAt": "2026-10-07T04:01:09.873Z",
+  "lastCommand": "26",
   "stopReason": null,
   "action": {
-    "id": "25",
-    "op": "scroll",
-    "x": 211,
-    "y": 696,
-    "dx": 0,
-    "dy": 571,
-    "wait": 450,
-    "note": "入口に戻ったけど、下にWORLDが見えた。もう一度同じ入口を押すより、下の場所一覧を見たい。"
+    "id": "26",
+    "op": "key",
+    "key": "PageDown",
+    "wait": 500,
+    "note": "操作基盤のwheelがmobile WebKit非対応だったため、同じ下側を見る意図をPageDownで代行する。サイトのスクロール不良とは数えない。"
   },
-  "error": "Error: mouse.wheel: Mouse wheel is not supported in mobile WebKit",
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/e181cdd03cad6c1191ae15d400a0d544971a1fba/live-results/sloppy-mobile-20261007-0349-mofu-3c4b3187/current.jpg",
+  "error": null,
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/80e0c4b8bdb3db48e5c6248fc66cf7b32e747a08/live-results/sloppy-mobile-20261007-0349-mofu-3c4b3187/current.jpg",
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -46,35 +43,24 @@
     },
     {
       "tag": "A",
-      "text": "FROM THE ATELIERを開く",
+      "text": "WORLDを開く",
       "disabled": false,
       "rect": {
-        "x": 279,
-        "y": 274,
-        "w": 91,
-        "h": 92
+        "x": 23,
+        "y": 246,
+        "w": 343,
+        "h": 193
       }
     },
     {
       "tag": "A",
-      "text": "Diaryを開く",
+      "text": "ABOUT\nもふもふはいます。",
       "disabled": false,
       "rect": {
-        "x": 14,
-        "y": 298,
-        "w": 147,
-        "h": 147
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "Enter the dream",
-      "disabled": false,
-      "rect": {
-        "x": 90,
-        "y": 494,
-        "w": 210,
-        "h": 70
+        "x": 43,
+        "y": 723,
+        "w": 304,
+        "h": 252
       }
     }
   ],
@@ -492,6 +478,21 @@
       "error": "Error: mouse.wheel: Mouse wheel is not supported in mobile WebKit",
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/e181cdd03cad6c1191ae15d400a0d544971a1fba/live-results/sloppy-mobile-20261007-0349-mofu-3c4b3187/current.jpg",
+      "text": "作品へ移動\n \nWORLD\nWORLD\n水面の向こうに、いくつかの場所がひらいています。\n\n\nABOUT\nもふもふはいます。\nPLAY / SHARE / FAN WORK\nNIKO²での生活について\n好きな形で遊ぶための、小さな境界。\nDEAR ATELIER\nお手紙を送る\nAtelierの受取箱へ。\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+    },
+    {
+      "number": 27,
+      "at": "2026-10-07T04:01:09.873Z",
+      "action": {
+        "id": "26",
+        "op": "key",
+        "key": "PageDown",
+        "wait": 500,
+        "note": "操作基盤のwheelがmobile WebKit非対応だったため、同じ下側を見る意図をPageDownで代行する。サイトのスクロール不良とは数えない。"
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/80e0c4b8bdb3db48e5c6248fc66cf7b32e747a08/live-results/sloppy-mobile-20261007-0349-mofu-3c4b3187/current.jpg",
       "text": "作品へ移動\n \nWORLD\nWORLD\n水面の向こうに、いくつかの場所がひらいています。\n\n\nABOUT\nもふもふはいます。\nPLAY / SHARE / FAN WORK\nNIKO²での生活について\n好きな形で遊ぶための、小さな境界。\nDEAR ATELIER\nお手紙を送る\nAtelierの受取箱へ。\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
     }
   ]
