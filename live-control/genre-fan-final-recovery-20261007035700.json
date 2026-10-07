@@ -1,6 +1,7 @@
 {
-  "id": "r81-diary-further-down",
-  "op": "key",
-  "key": "PageDown",
-  "note": "The diary scrolls and both souvenirs survived the reload. Continue below the recent cards to inspect what else the diary offers."
+  "id": "r82-what-remained",
+  "op": "tap",
+  "x": 193,
+  "y": 732,
+  "note": "At the bottom I find 'View what remained'. This looks like the collection view I wanted, so I open it."
 }
