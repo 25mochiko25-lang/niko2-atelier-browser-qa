@@ -6,18 +6,17 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-08T06:48:17.865Z",
-  "updatedAt": "2026-10-08T06:52:42.370Z",
-  "lastCommand": "12",
+  "updatedAt": "2026-10-08T06:53:05.465Z",
+  "lastCommand": "13",
   "stopReason": null,
   "action": {
-    "id": "12",
-    "op": "tap",
-    "x": 348,
-    "y": 71,
-    "note": "The tiny '夢の見覚え' label has been catching my eye; open it."
+    "id": "13",
+    "op": "look",
+    "wait": 4000,
+    "note": "The entire scene changed unexpectedly. Let the visual settle and look again."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/8283a83dac4b49fb322358c0e02e9a19011fb094/live-results/growth-visit-20261008-1547-mofu/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/8dba20034a446a082ed37f9ea57db5bd5e340881/live-results/growth-visit-20261008-1547-mofu/current.jpg",
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#quiet",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -29,7 +28,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n夢の見覚え ✧︎\n白い街が、門の向こうで一斉に組み上がった。\n\n",
+  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n夢を離れる",
   "controls": [
     {
       "tag": "BUTTON",
@@ -51,6 +50,28 @@
         "y": 56,
         "w": 61,
         "h": 30
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "白い街の一片に触れる",
+      "disabled": false,
+      "rect": {
+        "x": 64,
+        "y": 720,
+        "w": 69,
+        "h": 69
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "夢を離れる",
+      "disabled": false,
+      "rect": {
+        "x": 22,
+        "y": 782,
+        "w": 100,
+        "h": 44
       }
     }
   ],
@@ -247,6 +268,20 @@
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#quiet",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/8283a83dac4b49fb322358c0e02e9a19011fb094/live-results/growth-visit-20261008-1547-mofu/current.jpg",
       "text": "作品へ移動\n夢の見覚え ✧︎\n白い街が、門の向こうで一斉に組み上がった。\n\n"
+    },
+    {
+      "number": 14,
+      "at": "2026-10-08T06:53:05.465Z",
+      "action": {
+        "id": "13",
+        "op": "look",
+        "wait": 4000,
+        "note": "The entire scene changed unexpectedly. Let the visual settle and look again."
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#quiet",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/8dba20034a446a082ed37f9ea57db5bd5e340881/live-results/growth-visit-20261008-1547-mofu/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n夢を離れる"
     }
   ]
 }
