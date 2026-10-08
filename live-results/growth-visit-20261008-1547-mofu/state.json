@@ -6,19 +6,19 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-08T06:48:17.865Z",
-  "updatedAt": "2026-10-08T07:02:36.982Z",
-  "lastCommand": "42",
+  "updatedAt": "2026-10-08T07:02:56.850Z",
+  "lastCommand": "43",
   "stopReason": null,
   "action": {
-    "id": "42",
+    "id": "43",
     "op": "tap",
-    "x": 192,
-    "y": 344,
-    "note": "The dark moonlit WORLD card looks like it contains more actual destinations."
+    "x": 333,
+    "y": 401,
+    "note": "The lit doorway on the right contrasts with the dark world; see what's inside ROOM NULL."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/c6ed6afaa1f1b2c428e5ec9fbd754bff9ac5d685/live-results/growth-visit-20261008-1547-mofu/current.jpg",
-  "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#world",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/ec7b7c9c2009710421873e96803a9e9e629b6296/live-results/growth-visit-20261008-1547-mofu/current.jpg",
+  "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#room0",
   "title": "NIKO² ATELIER",
   "viewport": {
     "width": 390,
@@ -29,8 +29,19 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n \nNIKO² / WORLD\nWORLD\n水面の向こうに、まだつながっていない場所もあります。\n\nResearch Lab\n\nROOM NULL\n",
+  "text": "作品へ移動\nNIKO² ATELIER\n\n \nWORLD / RN-00\nROOM NULL\na room that remembers you.\nRN-00\nこの部屋では、気になるものに触れられます。\n\nPC、Cabinet、Diary。残ったものから、部屋は少しずつ育ちます。\n部屋を見る\n",
   "controls": [
+    {
+      "tag": "A",
+      "text": "NIKO² ATELIER",
+      "disabled": false,
+      "rect": {
+        "x": 25,
+        "y": 23,
+        "w": 124,
+        "h": 29
+      }
+    },
     {
       "tag": "BUTTON",
       "text": "音をオンにする",
@@ -44,35 +55,24 @@
     },
     {
       "tag": "A",
-      "text": "アトリエへ戻る",
+      "text": "WORLDへ戻る",
       "disabled": false,
       "rect": {
-        "x": 16,
-        "y": 25,
-        "w": 44,
-        "h": 44
+        "x": 14,
+        "y": 86,
+        "w": 40,
+        "h": 40
       }
     },
     {
       "tag": "BUTTON",
-      "text": "Research Lab",
+      "text": "部屋を見る",
       "disabled": false,
       "rect": {
-        "x": 34,
-        "y": 307,
-        "w": 98,
-        "h": 162
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "ROOM NULL",
-      "disabled": false,
-      "rect": {
-        "x": 280,
-        "y": 320,
-        "w": 95,
-        "h": 162
+        "x": 124,
+        "y": 452,
+        "w": 142,
+        "h": 46
       }
     }
   ],
@@ -716,6 +716,21 @@
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#world",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/c6ed6afaa1f1b2c428e5ec9fbd754bff9ac5d685/live-results/growth-visit-20261008-1547-mofu/current.jpg",
       "text": "作品へ移動\n \nNIKO² / WORLD\nWORLD\n水面の向こうに、まだつながっていない場所もあります。\n\nResearch Lab\n\nROOM NULL\n"
+    },
+    {
+      "number": 44,
+      "at": "2026-10-08T07:02:56.850Z",
+      "action": {
+        "id": "43",
+        "op": "tap",
+        "x": 333,
+        "y": 401,
+        "note": "The lit doorway on the right contrasts with the dark world; see what's inside ROOM NULL."
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#room0",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/ec7b7c9c2009710421873e96803a9e9e629b6296/live-results/growth-visit-20261008-1547-mofu/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\n\n \nWORLD / RN-00\nROOM NULL\na room that remembers you.\nRN-00\nこの部屋では、気になるものに触れられます。\n\nPC、Cabinet、Diary。残ったものから、部屋は少しずつ育ちます。\n部屋を見る\n"
     }
   ]
 }
