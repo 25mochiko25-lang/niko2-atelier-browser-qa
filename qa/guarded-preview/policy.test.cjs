@@ -3,7 +3,7 @@ const test = require('node:test');
 const assert = require('node:assert/strict');
 const {
   TARGET, validateTarget, hashBytes, attribute, discoverAssets,
-  contentDigest, shouldRun, aggregate
+  contentDigest, shouldRun, planVerdict, aggregate
 } = require('./policy.cjs');
 
 test('fingerprint target cannot be redirected to Production, another host, or another path', () => {
@@ -59,4 +59,18 @@ test('HTML attribute parser tolerates single and double quotes', () => {
   assert.equal(attribute('<script src="/one.js">', 'src'), '/one.js');
   assert.equal(attribute("<script src='/two.js'>", 'src'), '/two.js');
   assert.equal(attribute('<link REL="stylesheet" href=/three.css>', 'href'), '/three.css');
+});
+
+
+test('cached FAIL remains red without new browser spend; a new digest or explicit rerun can retry', () => {
+  const digest = hashBytes(Buffer.from('cached version'));
+  const same = { digest, status: 'FAIL' };
+  assert.deepEqual(planVerdict('check', digest, same), {
+    changed: false, previousStatus: 'FAIL', knownFailure: true, runBrowser: false
+  });
+  assert.equal(planVerdict('check', digest, { digest, status: 'UNKNOWN' }).knownFailure, true);
+  assert.equal(planVerdict('check', digest, { digest, status: 'PASS' }).runBrowser, false);
+  assert.equal(planVerdict('check', digest, { digest }).runBrowser, true);
+  assert.equal(planVerdict('check', hashBytes(Buffer.from('new version')), same).runBrowser, true);
+  assert.equal(planVerdict('smoke', digest, same).runBrowser, true);
 });
