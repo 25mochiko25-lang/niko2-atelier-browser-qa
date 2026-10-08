@@ -1,6 +1,9 @@
 name: Cost-guarded Combined Preview smoke
 on:
-  # No push/PR trigger: this does not spawn CI for every small edit.
+  # TEMPORARY: verify cached unchanged Preview skips the browser job once.
+  push:
+    branches: ['qa/guarded-preview-delta-20261008']
+    paths: ['.github/workflows/guarded-preview-qa.yml']
   schedule:
     - cron: '43 14 * * *' # 23:43 Asia/Tokyo; scheduled workflows run on default branch only
   workflow_dispatch:
