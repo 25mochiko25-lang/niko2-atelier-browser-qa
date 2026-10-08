@@ -6,18 +6,18 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-08T06:48:17.865Z",
-  "updatedAt": "2026-10-08T06:53:33.284Z",
-  "lastCommand": "14",
+  "updatedAt": "2026-10-08T06:53:50.669Z",
+  "lastCommand": "15",
   "stopReason": null,
   "action": {
-    "id": "14",
+    "id": "15",
     "op": "tap",
-    "x": 100,
-    "y": 751,
-    "note": "Pick up the mysterious white shard lying in this alternate city."
+    "x": 197,
+    "y": 728,
+    "note": "Take a piece of this white city home and see what it becomes."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/38bc4ac80aa69a6a840e7053779a5215b4ae5787/live-results/growth-visit-20261008-1547-mofu/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/b9dc8e413315185f1653a2942013567d6d39825f/live-results/growth-visit-20261008-1547-mofu/current.jpg",
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#quiet",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -29,7 +29,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n夢の見覚え ✧︎\n\nまだ住所を持たない街から、足元へ滑った小さなタイル。\n\n持ち帰る\n\n夢を離れる",
+  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n夢を離れる\n\nDREAM MEMORY\n\n夢から残ったもの\n\nWORLD MEMORY\nTHING THAT REMAINED\nWORLD MEMORY + REMAINS\n住所のない白いタイル\n白い街の一片 — まだ住所を持たない街から、足元へ滑った小さなタイル。\n言葉を添える\nアトリエへ戻る\nDiaryへ持ち帰る",
   "controls": [
     {
       "tag": "BUTTON",
@@ -66,17 +66,6 @@
     },
     {
       "tag": "BUTTON",
-      "text": "持ち帰る",
-      "disabled": false,
-      "rect": {
-        "x": 139,
-        "y": 705,
-        "w": 112,
-        "h": 44
-      }
-    },
-    {
-      "tag": "BUTTON",
       "text": "夢を離れる",
       "disabled": false,
       "rect": {
@@ -84,6 +73,50 @@
         "y": 782,
         "w": 100,
         "h": 44
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "日記を閉じる",
+      "disabled": false,
+      "rect": {
+        "x": 313,
+        "y": 126,
+        "w": 44,
+        "h": 44
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "言葉を添える",
+      "disabled": false,
+      "rect": {
+        "x": 38,
+        "y": 545,
+        "w": 103,
+        "h": 44
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "アトリエへ戻る",
+      "disabled": false,
+      "rect": {
+        "x": 38,
+        "y": 679,
+        "w": 314,
+        "h": 40
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Diaryへ持ち帰る",
+      "disabled": false,
+      "rect": {
+        "x": 38,
+        "y": 624,
+        "w": 314,
+        "h": 48
       }
     }
   ],
@@ -309,6 +342,21 @@
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#quiet",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/38bc4ac80aa69a6a840e7053779a5215b4ae5787/live-results/growth-visit-20261008-1547-mofu/current.jpg",
       "text": "作品へ移動\n夢の見覚え ✧︎\n\nまだ住所を持たない街から、足元へ滑った小さなタイル。\n\n持ち帰る\n\n夢を離れる"
+    },
+    {
+      "number": 16,
+      "at": "2026-10-08T06:53:50.669Z",
+      "action": {
+        "id": "15",
+        "op": "tap",
+        "x": 197,
+        "y": 728,
+        "note": "Take a piece of this white city home and see what it becomes."
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#quiet",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/b9dc8e413315185f1653a2942013567d6d39825f/live-results/growth-visit-20261008-1547-mofu/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n夢を離れる\n\nDREAM MEMORY\n\n夢から残ったもの\n\nWORLD MEMORY\nTHING THAT REMAINED\nWORLD MEMORY + REMAINS\n住所のない白いタイル\n白い街の一片 — まだ住所を持たない街から、足元へ滑った小さなタイル。\n言葉を添える\nアトリエへ戻る\nDiaryへ持ち帰る"
     }
   ]
 }
