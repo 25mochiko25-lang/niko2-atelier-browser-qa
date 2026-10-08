@@ -6,18 +6,18 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-08T06:48:17.865Z",
-  "updatedAt": "2026-10-08T07:08:42.612Z",
-  "lastCommand": "59",
+  "updatedAt": "2026-10-08T07:09:07.352Z",
+  "lastCommand": "60",
   "stopReason": null,
   "action": {
-    "id": "59",
+    "id": "60",
     "op": "tap",
-    "x": 75,
-    "y": 516,
-    "note": "Try the official site's route to the actual hotel."
+    "x": 94,
+    "y": 730,
+    "note": "Check in for one night and see how this hotel treats guests."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/fd846220cbb59de5499e1a649301790640bd2aa1/live-results/growth-visit-20261008-1547-mofu/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/43fea430f469f79b599226198af4944e8b8e5f18/live-results/growth-visit-20261008-1547-mofu/current.jpg",
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#hotel",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -29,7 +29,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\nNIKO² ATELIER\n\n\nDREAM / ROOM 0317\nHOTEL SOMNIA\nSTAY 0 / 3\nFRONT DESK / ROOM 0317\n今夜も、同じ部屋をご用意しました。\n\n最初の三泊は、いつでもお越しいただけます。あと3泊。\n\nCHECK IN",
+  "text": "作品へ移動\nNIKO² ATELIER\n\n\nDREAM / ROOM 0317\nHOTEL SOMNIA\nSTAY 0 / 3\n×\nROOM SERVICE / TONIGHT\n存在しないものを、お二つまで。\n0 / 2\n\nTea for Nobody\nカップを二つ。来客の予定は不要です。\n¥600\n\nYesterday\n保存状態によって、味が異なります。\n¥0\n\nBlue Hour\n日没後、夜になる前だけのお色です。\n¥400\n\nA Sunday You Forgot\n次回入荷日は、先週の日曜日です。\nSOLD OUT\n\nSomeone Else's Rain\n窓は閉じたままでお召し上がりください。\nCOMPLIMENTARY\n銀の蓋は、まだ閉じている。\n今夜をDiaryへ持ち帰る\nCHECK OUT\n",
   "controls": [
     {
       "tag": "A",
@@ -66,13 +66,90 @@
     },
     {
       "tag": "BUTTON",
-      "text": "CHECK IN",
+      "text": "×",
       "disabled": false,
       "rect": {
-        "x": 36,
-        "y": 708,
-        "w": 116,
-        "h": 46
+        "x": 341,
+        "y": 148,
+        "w": 30,
+        "h": 30
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Tea for Nobody\nカップを二つ。来客の予定は不要です。\n¥600",
+      "disabled": false,
+      "rect": {
+        "x": 28,
+        "y": 225,
+        "w": 334,
+        "h": 61
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Yesterday\n保存状態によって、味が異なります。\n¥0",
+      "disabled": false,
+      "rect": {
+        "x": 28,
+        "y": 286,
+        "w": 334,
+        "h": 61
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Blue Hour\n日没後、夜になる前だけのお色です。\n¥400",
+      "disabled": false,
+      "rect": {
+        "x": 28,
+        "y": 347,
+        "w": 334,
+        "h": 61
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "A Sunday You Forgot\n次回入荷日は、先週の日曜日です。\nSOLD OUT",
+      "disabled": true,
+      "rect": {
+        "x": 28,
+        "y": 408,
+        "w": 334,
+        "h": 61
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Someone Else's Rain\n窓は閉じたままでお召し上がりください。\nCOMPLIMENTARY",
+      "disabled": false,
+      "rect": {
+        "x": 28,
+        "y": 469,
+        "w": 334,
+        "h": 61
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "今夜をDiaryへ持ち帰る",
+      "disabled": false,
+      "rect": {
+        "x": 27,
+        "y": 621,
+        "w": 164,
+        "h": 43
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "CHECK OUT",
+      "disabled": false,
+      "rect": {
+        "x": 199,
+        "y": 621,
+        "w": 164,
+        "h": 43
       }
     }
   ],
@@ -969,6 +1046,21 @@
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#hotel",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/fd846220cbb59de5499e1a649301790640bd2aa1/live-results/growth-visit-20261008-1547-mofu/current.jpg",
       "text": "作品へ移動\nNIKO² ATELIER\n\n\nDREAM / ROOM 0317\nHOTEL SOMNIA\nSTAY 0 / 3\nFRONT DESK / ROOM 0317\n今夜も、同じ部屋をご用意しました。\n\n最初の三泊は、いつでもお越しいただけます。あと3泊。\n\nCHECK IN"
+    },
+    {
+      "number": 61,
+      "at": "2026-10-08T07:09:07.352Z",
+      "action": {
+        "id": "60",
+        "op": "tap",
+        "x": 94,
+        "y": 730,
+        "note": "Check in for one night and see how this hotel treats guests."
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#hotel",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/43fea430f469f79b599226198af4944e8b8e5f18/live-results/growth-visit-20261008-1547-mofu/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\n\n\nDREAM / ROOM 0317\nHOTEL SOMNIA\nSTAY 0 / 3\n×\nROOM SERVICE / TONIGHT\n存在しないものを、お二つまで。\n0 / 2\n\nTea for Nobody\nカップを二つ。来客の予定は不要です。\n¥600\n\nYesterday\n保存状態によって、味が異なります。\n¥0\n\nBlue Hour\n日没後、夜になる前だけのお色です。\n¥400\n\nA Sunday You Forgot\n次回入荷日は、先週の日曜日です。\nSOLD OUT\n\nSomeone Else's Rain\n窓は閉じたままでお召し上がりください。\nCOMPLIMENTARY\n銀の蓋は、まだ閉じている。\n今夜をDiaryへ持ち帰る\nCHECK OUT\n"
     }
   ]
 }
