@@ -6,14 +6,18 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-08T06:48:17.865Z",
-  "updatedAt": "2026-10-08T06:48:23.346Z",
-  "lastCommand": null,
+  "updatedAt": "2026-10-08T06:49:09.259Z",
+  "lastCommand": "01",
   "stopReason": null,
   "action": {
-    "op": "arrival"
+    "id": "01",
+    "op": "tap",
+    "x": 193,
+    "y": 531,
+    "note": "The jewel button invites me inside."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/7d091cd65124634b94bd8c482df8ee1e8c270cd9/live-results/growth-visit-20261008-1547-mofu/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/f8c159585ea3b56c4d415652bba4e3f377046f53/live-results/growth-visit-20261008-1547-mofu/current.jpg",
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -25,7 +29,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n\n",
+  "text": "作品へ移動\n\n\nWORLD\n夢の入り口は、毎回すこし違う。\n次へ",
   "controls": [
     {
       "tag": "BUTTON",
@@ -48,6 +52,17 @@
         "w": 210,
         "h": 70
       }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "次へ",
+      "disabled": false,
+      "rect": {
+        "x": 300,
+        "y": 748,
+        "w": 72,
+        "h": 44
+      }
     }
   ],
   "pageErrors": [],
@@ -63,6 +78,21 @@
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/7d091cd65124634b94bd8c482df8ee1e8c270cd9/live-results/growth-visit-20261008-1547-mofu/current.jpg",
       "text": "作品へ移動\n\n"
+    },
+    {
+      "number": 2,
+      "at": "2026-10-08T06:49:09.259Z",
+      "action": {
+        "id": "01",
+        "op": "tap",
+        "x": 193,
+        "y": 531,
+        "note": "The jewel button invites me inside."
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/f8c159585ea3b56c4d415652bba4e3f377046f53/live-results/growth-visit-20261008-1547-mofu/current.jpg",
+      "text": "作品へ移動\n\n\nWORLD\n夢の入り口は、毎回すこし違う。\n次へ"
     }
   ]
 }
