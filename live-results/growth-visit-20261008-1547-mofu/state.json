@@ -6,18 +6,19 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-08T06:48:17.865Z",
-  "updatedAt": "2026-10-08T07:02:17.190Z",
-  "lastCommand": "41",
+  "updatedAt": "2026-10-08T07:02:36.982Z",
+  "lastCommand": "42",
   "stopReason": null,
   "action": {
-    "id": "41",
-    "op": "key",
-    "key": "PageDown",
-    "note": "Look below the hero at the places available in WORLD."
+    "id": "42",
+    "op": "tap",
+    "x": 192,
+    "y": 344,
+    "note": "The dark moonlit WORLD card looks like it contains more actual destinations."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/4d5b5697590fb311357c6d3bc3c44e1ae6f6148c/live-results/growth-visit-20261008-1547-mofu/current.jpg",
-  "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/c6ed6afaa1f1b2c428e5ec9fbd754bff9ac5d685/live-results/growth-visit-20261008-1547-mofu/current.jpg",
+  "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#world",
   "title": "NIKO² ATELIER",
   "viewport": {
     "width": 390,
@@ -28,7 +29,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n \nWORLD\nWORLD\n水面の向こうに、いくつかの場所がひらいています。\n\n\nABOUT\nもふもふはいます。\nPLAY / SHARE / FAN WORK\nNIKO²での生活について\n好きな形で遊ぶための、小さな境界。\nDEAR ATELIER\nお手紙を送る\nAtelierの受取箱へ。\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n",
+  "text": "作品へ移動\n \nNIKO² / WORLD\nWORLD\n水面の向こうに、まだつながっていない場所もあります。\n\nResearch Lab\n\nROOM NULL\n",
   "controls": [
     {
       "tag": "BUTTON",
@@ -43,24 +44,35 @@
     },
     {
       "tag": "A",
-      "text": "WORLDを開く",
+      "text": "アトリエへ戻る",
       "disabled": false,
       "rect": {
-        "x": 23,
-        "y": 246,
-        "w": 343,
-        "h": 193
+        "x": 16,
+        "y": 25,
+        "w": 44,
+        "h": 44
       }
     },
     {
-      "tag": "A",
-      "text": "ABOUT\nもふもふはいます。",
+      "tag": "BUTTON",
+      "text": "Research Lab",
       "disabled": false,
       "rect": {
-        "x": 43,
-        "y": 723,
-        "w": 304,
-        "h": 252
+        "x": 34,
+        "y": 307,
+        "w": 98,
+        "h": 162
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "ROOM NULL",
+      "disabled": false,
+      "rect": {
+        "x": 280,
+        "y": 320,
+        "w": 95,
+        "h": 162
       }
     }
   ],
@@ -689,6 +701,21 @@
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/4d5b5697590fb311357c6d3bc3c44e1ae6f6148c/live-results/growth-visit-20261008-1547-mofu/current.jpg",
       "text": "作品へ移動\n \nWORLD\nWORLD\n水面の向こうに、いくつかの場所がひらいています。\n\n\nABOUT\nもふもふはいます。\nPLAY / SHARE / FAN WORK\nNIKO²での生活について\n好きな形で遊ぶための、小さな境界。\nDEAR ATELIER\nお手紙を送る\nAtelierの受取箱へ。\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n"
+    },
+    {
+      "number": 43,
+      "at": "2026-10-08T07:02:36.982Z",
+      "action": {
+        "id": "42",
+        "op": "tap",
+        "x": 192,
+        "y": 344,
+        "note": "The dark moonlit WORLD card looks like it contains more actual destinations."
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#world",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/c6ed6afaa1f1b2c428e5ec9fbd754bff9ac5d685/live-results/growth-visit-20261008-1547-mofu/current.jpg",
+      "text": "作品へ移動\n \nNIKO² / WORLD\nWORLD\n水面の向こうに、まだつながっていない場所もあります。\n\nResearch Lab\n\nROOM NULL\n"
     }
   ]
 }
