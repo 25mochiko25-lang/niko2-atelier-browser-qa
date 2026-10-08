@@ -6,19 +6,19 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-08T06:48:17.865Z",
-  "updatedAt": "2026-10-08T07:06:11.333Z",
-  "lastCommand": "52",
+  "updatedAt": "2026-10-08T07:06:36.656Z",
+  "lastCommand": "53",
   "stopReason": null,
   "action": {
-    "id": "52",
+    "id": "53",
     "op": "tap",
-    "x": 189,
-    "y": 491,
-    "note": "Read a stranger's diary on this imaginary old network."
+    "x": 305,
+    "y": 780,
+    "note": "The 'take a browsing fragment' control suggests this strange diary can leave me a souvenir."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/e304a0be12abf05b4e193d9ad39d1dc36c163a3e/live-results/growth-visit-20261008-1547-mofu/current.jpg",
-  "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#channel0",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/6c64137b1b948fe5b68e5a2d87b6bacdadb100e7/live-results/growth-visit-20261008-1547-mofu/current.jpg",
+  "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#diary",
   "title": "NIKO² ATELIER",
   "viewport": {
     "width": 390,
@@ -29,7 +29,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\nNIKO² ATELIER\n\n\nCHANNEL / CH-00\nCHANNEL 00\n2 pages\n‹\n›\n⌂\nhttp://soda-room.net/diary/0909.html\n×\nsoda's tiny diary\n9月9日　雨\n\nラムネを買った。瓶の底に、知らない空が映っていた。\n\n9月10日　晴れ\n\nホテルの鍵を返した。まだポケットにある。\n\nこの日記は 2028年9月12日に自動保存されました。\n\nindexにもどる\nconnected at 33.6 kbps\n閲覧の断片を持ち帰る\n",
+  "text": "作品へ移動\nNIKO² ATELIER\nDream\nDiary\nAbout\n\nNIKO² DIARY\nDiary\n今日のことを、ひとつだけ。\n10月8日 16:06\n夢の続きが、まだ近くにあります。\n← CHANNEL 00へ戻る\nTODAY\n今日を残す\n✦\nいまの気配\n\n静か\n\nきらきら\n\nぼんやり\n\nざわざわ\n\n甘い\n\n雨っぽい\n\n眠い\n\n何もない\nPHOTO\n写真\n選択なし\nまち\n部屋\n買ったもの\n遊び\n食べもの\nその他\n写真を眺める\n‹\n›\n\n\nホーム\n\n\n改札\n\n\n途中\n\n\nロッカー\n\n\nエレベーター\n\n\nガラス扉\n\n\n空席\n\n\n雨の改札\n\n\n22:47\n\n\n青空\n\n\n夕方\n\n\n夜空\n\n\n空の間\n\n\n夕方の壁\n\n\n雨あがり\n\n\n自販機\n言葉\nOPTIONAL\nこの端末だけに残ります\n残す\nRECENT\n少し前の自分\n\n古いWebの断片\n10/8\n\n自販機\n10/8\n\n白い街の一片\n10/8\n2026年10月\nMONTHLY REFLECTION\n今月の景色\nよく残った気配\n懐かしい\nよく残った色\n夕暮れの紫\nよく残ったモチーフ\n古いPC\nまだ記録が少ないので、傾向ではなく、残ったものをそのまま眺めています。\nもう少し見る\nARCHIVE\n前の日々をひらく\n\nWHAT REMAINED\n残ったものを見る\nアトリエへ戻る\n",
   "controls": [
     {
       "tag": "A",
@@ -37,9 +37,42 @@
       "disabled": false,
       "rect": {
         "x": 25,
-        "y": 18,
+        "y": 13,
         "w": 124,
-        "h": 29
+        "h": 44
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Dream",
+      "disabled": false,
+      "rect": {
+        "x": 86,
+        "y": 58,
+        "w": 64,
+        "h": 44
+      }
+    },
+    {
+      "tag": "A",
+      "text": "Diary",
+      "disabled": false,
+      "rect": {
+        "x": 166,
+        "y": 58,
+        "w": 64,
+        "h": 44
+      }
+    },
+    {
+      "tag": "A",
+      "text": "About",
+      "disabled": false,
+      "rect": {
+        "x": 246,
+        "y": 58,
+        "w": 64,
+        "h": 44
       }
     },
     {
@@ -55,79 +88,233 @@
     },
     {
       "tag": "BUTTON",
-      "text": "ROOM NULLへ戻る",
+      "text": "← CHANNEL 00へ戻る",
       "disabled": false,
       "rect": {
-        "x": 14,
-        "y": 82,
-        "w": 40,
+        "x": 227,
+        "y": 258,
+        "w": 129,
+        "h": 40
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "静か",
+      "disabled": false,
+      "rect": {
+        "x": 42,
+        "y": 428,
+        "w": 84,
+        "h": 44
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "きらきら",
+      "disabled": false,
+      "rect": {
+        "x": 133,
+        "y": 428,
+        "w": 99,
+        "h": 44
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "ぼんやり",
+      "disabled": false,
+      "rect": {
+        "x": 239,
+        "y": 428,
+        "w": 109,
+        "h": 44
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "ざわざわ",
+      "disabled": false,
+      "rect": {
+        "x": 42,
+        "y": 481,
+        "w": 99,
+        "h": 44
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "甘い",
+      "disabled": false,
+      "rect": {
+        "x": 148,
+        "y": 481,
+        "w": 81,
+        "h": 44
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "雨っぽい",
+      "disabled": false,
+      "rect": {
+        "x": 236,
+        "y": 481,
+        "w": 112,
+        "h": 44
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "眠い",
+      "disabled": false,
+      "rect": {
+        "x": 42,
+        "y": 534,
+        "w": 91,
+        "h": 44
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "何もない",
+      "disabled": false,
+      "rect": {
+        "x": 140,
+        "y": 534,
+        "w": 112,
+        "h": 44
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "まち",
+      "disabled": false,
+      "rect": {
+        "x": 52,
+        "y": 651,
+        "w": 92,
+        "h": 39
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "部屋",
+      "disabled": false,
+      "rect": {
+        "x": 149,
+        "y": 651,
+        "w": 92,
+        "h": 39
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "買ったもの",
+      "disabled": false,
+      "rect": {
+        "x": 246,
+        "y": 651,
+        "w": 92,
+        "h": 39
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "遊び",
+      "disabled": false,
+      "rect": {
+        "x": 52,
+        "y": 694,
+        "w": 92,
+        "h": 39
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "食べもの",
+      "disabled": false,
+      "rect": {
+        "x": 149,
+        "y": 694,
+        "w": 92,
+        "h": 39
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "その他",
+      "disabled": false,
+      "rect": {
+        "x": 246,
+        "y": 694,
+        "w": 92,
+        "h": 39
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "写真を眺める",
+      "disabled": false,
+      "rect": {
+        "x": 154,
+        "y": 746,
+        "w": 75,
         "h": 40
       }
     },
     {
       "tag": "BUTTON",
       "text": "‹",
-      "disabled": false,
+      "disabled": true,
       "rect": {
-        "x": 17,
-        "y": 117,
-        "w": 31,
-        "h": 28
+        "x": 241,
+        "y": 744,
+        "w": 44,
+        "h": 44
       }
     },
     {
       "tag": "BUTTON",
       "text": "›",
-      "disabled": true,
+      "disabled": false,
       "rect": {
-        "x": 52,
-        "y": 117,
-        "w": 31,
-        "h": 28
+        "x": 293,
+        "y": 744,
+        "w": 44,
+        "h": 44
       }
     },
     {
       "tag": "BUTTON",
-      "text": "⌂",
+      "text": "ホーム",
       "disabled": false,
       "rect": {
-        "x": 87,
-        "y": 117,
-        "w": 31,
-        "h": 28
+        "x": 55,
+        "y": 801,
+        "w": 144,
+        "h": 178
       }
     },
     {
       "tag": "BUTTON",
-      "text": "×",
+      "text": "改札",
       "disabled": false,
       "rect": {
-        "x": 341,
-        "y": 117,
-        "w": 31,
-        "h": 28
+        "x": 183,
+        "y": 803,
+        "w": 142,
+        "h": 177
       }
     },
     {
       "tag": "BUTTON",
-      "text": "indexにもどる",
+      "text": "途中",
       "disabled": false,
       "rect": {
-        "x": 25,
-        "y": 468,
-        "w": 92,
-        "h": 35
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "閲覧の断片を持ち帰る",
-      "disabled": false,
-      "rect": {
-        "x": 246,
-        "y": 765,
-        "w": 125,
-        "h": 30
+        "x": 311,
+        "y": 804,
+        "w": 140,
+        "h": 175
       }
     }
   ],
@@ -919,6 +1106,21 @@
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#channel0",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/e304a0be12abf05b4e193d9ad39d1dc36c163a3e/live-results/growth-visit-20261008-1547-mofu/current.jpg",
       "text": "作品へ移動\nNIKO² ATELIER\n\n\nCHANNEL / CH-00\nCHANNEL 00\n2 pages\n‹\n›\n⌂\nhttp://soda-room.net/diary/0909.html\n×\nsoda's tiny diary\n9月9日　雨\n\nラムネを買った。瓶の底に、知らない空が映っていた。\n\n9月10日　晴れ\n\nホテルの鍵を返した。まだポケットにある。\n\nこの日記は 2028年9月12日に自動保存されました。\n\nindexにもどる\nconnected at 33.6 kbps\n閲覧の断片を持ち帰る\n"
+    },
+    {
+      "number": 54,
+      "at": "2026-10-08T07:06:36.656Z",
+      "action": {
+        "id": "53",
+        "op": "tap",
+        "x": 305,
+        "y": 780,
+        "note": "The 'take a browsing fragment' control suggests this strange diary can leave me a souvenir."
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#diary",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/6c64137b1b948fe5b68e5a2d87b6bacdadb100e7/live-results/growth-visit-20261008-1547-mofu/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\nDream\nDiary\nAbout\n\nNIKO² DIARY\nDiary\n今日のことを、ひとつだけ。\n10月8日 16:06\n夢の続きが、まだ近くにあります。\n← CHANNEL 00へ戻る\nTODAY\n今日を残す\n✦\nいまの気配\n\n静か\n\nきらきら\n\nぼんやり\n\nざわざわ\n\n甘い\n\n雨っぽい\n\n眠い\n\n何もない\nPHOTO\n写真\n選択なし\nまち\n部屋\n買ったもの\n遊び\n食べもの\nその他\n写真を眺める\n‹\n›\n\n\nホーム\n\n\n改札\n\n\n途中\n\n\nロッカー\n\n\nエレベーター\n\n\nガラス扉\n\n\n空席\n\n\n雨の改札\n\n\n22:47\n\n\n青空\n\n\n夕方\n\n\n夜空\n\n\n空の間\n\n\n夕方の壁\n\n\n雨あがり\n\n\n自販機\n言葉\nOPTIONAL\nこの端末だけに残ります\n残す\nRECENT\n少し前の自分\n\n古いWebの断片\n10/8\n\n自販機\n10/8\n\n白い街の一片\n10/8\n2026年10月\nMONTHLY REFLECTION\n今月の景色\nよく残った気配\n懐かしい\nよく残った色\n夕暮れの紫\nよく残ったモチーフ\n古いPC\nまだ記録が少ないので、傾向ではなく、残ったものをそのまま眺めています。\nもう少し見る\nARCHIVE\n前の日々をひらく\n\nWHAT REMAINED\n残ったものを見る\nアトリエへ戻る\n"
     }
   ]
 }
