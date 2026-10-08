@@ -61,7 +61,10 @@ async function main() {
     if (e.code !== 'ENOENT') throw e;
   }
   const changed = !previous || previous.digest !== digest;
-  const runBrowser = shouldRun(mode, digest, previous && previous.digest);
+  const previousStatus = previous && previous.status || null;
+  const knownFailure = mode === 'check' && !changed && (previousStatus === 'FAIL' || previousStatus === 'UNKNOWN');
+  const runBrowser = !knownFailure && (shouldRun(mode, digest, previous && previous.digest) ||
+    (mode === 'check' && !changed && previousStatus !== 'PASS'));
   const current = {
     target: target.href,
     digest,
@@ -69,26 +72,31 @@ async function main() {
     previousDigest: previous && previous.digest || null,
     mode,
     runBrowser,
+    knownFailure,
+    previousStatus,
     observedAt: new Date().toISOString(),
     count: entries.length,
     bytes,
     coverage: 'HTML and up to 16 same-origin linked JS/CSS assets only'
   };
   fs.mkdirSync(path.dirname(OUT), { recursive: true });
-  fs.mkdirSync(path.dirname(CACHE), { recursive: true });
   fs.writeFileSync(OUT, JSON.stringify(current, null, 2) + '\n');
-  // The next run may restore this tiny record from GitHub's short-lived cache.
-  fs.writeFileSync(CACHE, JSON.stringify({ target: target.href, digest, observedAt: current.observedAt }) + '\n');
+  // Cache is written only after the browser result, in a separate workflow job.
+  // A past FAIL remains a cheap failing signal until the Preview changes or
+  // someone explicitly dispatches a rerun.
   if (process.env.GITHUB_OUTPUT) {
-    fs.appendFileSync(process.env.GITHUB_OUTPUT, 'changed=' + String(changed) + '\n' + 'run_browser=' + String(runBrowser) + '\n' + 'digest=' + digest + '\n');
+    fs.appendFileSync(process.env.GITHUB_OUTPUT, 'changed=' + String(changed) + '\n' +
+      'run_browser=' + String(runBrowser) + '\n' +
+      'known_failure=' + String(knownFailure) + '\n' + 'digest=' + digest + '\n');
   }
   if (process.env.GITHUB_STEP_SUMMARY) {
     fs.appendFileSync(process.env.GITHUB_STEP_SUMMARY, '### Combined Preview fingerprint\n' +
       '- Digest: ' + digest + '\n- Changed since cached run: ' + changed +
-      '\n- Run browser smoke: ' + runBrowser + '\n- Downloaded: ' + bytes +
+      '\n- Run browser smoke: ' + runBrowser + '\n- Previous result: ' + (previousStatus || 'NONE') +
+      '\n- Known failure preserved without rerunning: ' + knownFailure + '\n- Downloaded: ' + bytes +
       ' bytes across ' + entries.length + ' resources\n- Not a source SHA, release attestation, or full visual/rights audit.\n\n');
   }
-  console.log(JSON.stringify({ status: runBrowser ? 'SMOKE_REQUESTED' : 'UNCHANGED_SKIP', changed, digest, resources: entries.length, bytes, mode }));
+  console.log(JSON.stringify({ status: knownFailure ? 'KNOWN_FAILURE' : runBrowser ? 'SMOKE_REQUESTED' : 'UNCHANGED_SKIP', changed, digest, resources: entries.length, bytes, mode }));
 }
 
 main().catch(err => {
