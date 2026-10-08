@@ -6,18 +6,18 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-08T06:48:17.865Z",
-  "updatedAt": "2026-10-08T07:02:56.850Z",
-  "lastCommand": "43",
+  "updatedAt": "2026-10-08T07:03:17.026Z",
+  "lastCommand": "44",
   "stopReason": null,
   "action": {
-    "id": "43",
+    "id": "44",
     "op": "tap",
-    "x": 333,
-    "y": 401,
-    "note": "The lit doorway on the right contrasts with the dark world; see what's inside ROOM NULL."
+    "x": 197,
+    "y": 474,
+    "note": "Go inside the room that claims to remember visitors."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/ec7b7c9c2009710421873e96803a9e9e629b6296/live-results/growth-visit-20261008-1547-mofu/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/eae947d2209b9e59581e705ae280cca388b0c274/live-results/growth-visit-20261008-1547-mofu/current.jpg",
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#room0",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -29,7 +29,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\nNIKO² ATELIER\n\n \nWORLD / RN-00\nROOM NULL\na room that remembers you.\nRN-00\nこの部屋では、気になるものに触れられます。\n\nPC、Cabinet、Diary。残ったものから、部屋は少しずつ育ちます。\n部屋を見る\n",
+  "text": "作品へ移動\nNIKO² ATELIER\n\n \nWORLD / RN-00\nROOM NULL\na room that remembers you.\nRN-00\n",
   "controls": [
     {
       "tag": "A",
@@ -66,13 +66,35 @@
     },
     {
       "tag": "BUTTON",
-      "text": "部屋を見る",
+      "text": "CHANNEL 00を開く",
       "disabled": false,
       "rect": {
-        "x": 124,
-        "y": 452,
-        "w": 142,
-        "h": 46
+        "x": 14,
+        "y": 317,
+        "w": 156,
+        "h": 139
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Cabinetを開く",
+      "disabled": false,
+      "rect": {
+        "x": 261,
+        "y": 203,
+        "w": 125,
+        "h": 219
+      }
+    },
+    {
+      "tag": "A",
+      "text": "Diaryを開く",
+      "disabled": false,
+      "rect": {
+        "x": 176,
+        "y": 540,
+        "w": 187,
+        "h": 211
       }
     }
   ],
@@ -731,6 +753,21 @@
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#room0",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/ec7b7c9c2009710421873e96803a9e9e629b6296/live-results/growth-visit-20261008-1547-mofu/current.jpg",
       "text": "作品へ移動\nNIKO² ATELIER\n\n \nWORLD / RN-00\nROOM NULL\na room that remembers you.\nRN-00\nこの部屋では、気になるものに触れられます。\n\nPC、Cabinet、Diary。残ったものから、部屋は少しずつ育ちます。\n部屋を見る\n"
+    },
+    {
+      "number": 45,
+      "at": "2026-10-08T07:03:17.026Z",
+      "action": {
+        "id": "44",
+        "op": "tap",
+        "x": 197,
+        "y": 474,
+        "note": "Go inside the room that claims to remember visitors."
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#room0",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/eae947d2209b9e59581e705ae280cca388b0c274/live-results/growth-visit-20261008-1547-mofu/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\n\n \nWORLD / RN-00\nROOM NULL\na room that remembers you.\nRN-00\n"
     }
   ]
 }
