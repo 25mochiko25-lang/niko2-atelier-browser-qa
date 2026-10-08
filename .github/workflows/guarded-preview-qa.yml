@@ -1,6 +1,6 @@
 name: Cost-guarded Combined Preview smoke
 on:
-  # TEMPORARY: isolated cache writer validation; remove before main.
+  # TEMPORARY: isolated cache reader skip validation; remove before main.
   push:
     branches: ['qa/guarded-preview-delta-20261008']
     paths: ['.github/workflows/guarded-preview-qa.yml']
