@@ -6,18 +6,18 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-08T06:48:17.865Z",
-  "updatedAt": "2026-10-08T07:10:12.293Z",
-  "lastCommand": "63",
+  "updatedAt": "2026-10-08T07:10:40.633Z",
+  "lastCommand": "64",
   "stopReason": null,
   "action": {
-    "id": "63",
+    "id": "64",
     "op": "tap",
-    "x": 184,
-    "y": 500,
-    "note": "Pick Someone Else's Rain, a room-service item with the strangest instruction."
+    "x": 355,
+    "y": 643,
+    "note": "Close the room-service detail to see the changed room."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/552bafc1e15cc7344a22c9c346dad8e165be1be1/live-results/growth-visit-20261008-1547-mofu/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/aa3e5978a8e4b7c21c20a8bc8b0c2dbc3e71cd40/live-results/growth-visit-20261008-1547-mofu/current.jpg",
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#hotel",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -29,7 +29,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\nNIKO² ATELIER\n\n\nDREAM / ROOM 0317\nHOTEL SOMNIA\nSTAY 0 / 3\n×\nSomeone Else's Rain\n誰かが『雨の音だけ置いていく』と書いていた。\nもう一品見る\n今夜をDiaryへ持ち帰る\nCHECK OUT\n",
+  "text": "作品へ移動\nNIKO² ATELIER\n\n\nDREAM / ROOM 0317\nHOTEL SOMNIA\nSTAY 0 / 3\nORDER LIST",
   "controls": [
     {
       "tag": "A",
@@ -77,46 +77,13 @@
     },
     {
       "tag": "BUTTON",
-      "text": "×",
+      "text": "ORDER LIST",
       "disabled": false,
       "rect": {
-        "x": 341,
-        "y": 627,
-        "w": 30,
-        "h": 30
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "もう一品見る",
-      "disabled": false,
-      "rect": {
-        "x": 24,
-        "y": 702,
-        "w": 342,
-        "h": 50
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "今夜をDiaryへ持ち帰る",
-      "disabled": false,
-      "rect": {
-        "x": 24,
-        "y": 760,
-        "w": 167,
-        "h": 50
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "CHECK OUT",
-      "disabled": false,
-      "rect": {
-        "x": 199,
-        "y": 760,
-        "w": 167,
-        "h": 50
+        "x": 290,
+        "y": 126,
+        "w": 86,
+        "h": 34
       }
     }
   ],
@@ -1073,6 +1040,21 @@
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#hotel",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/552bafc1e15cc7344a22c9c346dad8e165be1be1/live-results/growth-visit-20261008-1547-mofu/current.jpg",
       "text": "作品へ移動\nNIKO² ATELIER\n\n\nDREAM / ROOM 0317\nHOTEL SOMNIA\nSTAY 0 / 3\n×\nSomeone Else's Rain\n誰かが『雨の音だけ置いていく』と書いていた。\nもう一品見る\n今夜をDiaryへ持ち帰る\nCHECK OUT\n"
+    },
+    {
+      "number": 65,
+      "at": "2026-10-08T07:10:40.633Z",
+      "action": {
+        "id": "64",
+        "op": "tap",
+        "x": 355,
+        "y": 643,
+        "note": "Close the room-service detail to see the changed room."
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#hotel",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/aa3e5978a8e4b7c21c20a8bc8b0c2dbc3e71cd40/live-results/growth-visit-20261008-1547-mofu/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\n\n\nDREAM / ROOM 0317\nHOTEL SOMNIA\nSTAY 0 / 3\nORDER LIST"
     }
   ]
 }
