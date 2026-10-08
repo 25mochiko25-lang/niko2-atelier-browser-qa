@@ -73,7 +73,6 @@ jobs:
     env:
       TARGET: https://niko2-atelier-combined-preview.25mochiko25.workers.dev/
       MODE: ${{ inputs.mode || 'check' }}
-      CURRENT_DIGEST: ${{ needs.probe.outputs.digest }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
@@ -85,26 +84,6 @@ jobs:
         id: smoke
         continue-on-error: true
         run: node qa/guarded-preview/smoke.cjs
-      - name: Record a verdict without committing screenshots or logs
-        if: always()
-        env:
-          RUN_RESULT: ${{ steps.smoke.outcome }}
-        run: |
-          node -e '
-          const fs=require("fs");
-          fs.mkdirSync(".qa-state",{recursive:true});
-          const v=process.env.RUN_RESULT;
-          const status=v==="success"?"PASS":v==="failure"?"FAIL":"UNKNOWN";
-          fs.writeFileSync(".qa-state/last.json",
-            JSON.stringify({digest:process.env.CURRENT_DIGEST,status,observedAt:new Date().toISOString()})+"\n");
-          '
-      - name: Keep a tiny temporary fingerprint/verdict in Actions cache
-        if: always()
-        continue-on-error: true
-        uses: actions/cache/save@v4
-        with:
-          path: .qa-state/last.json
-          key: niko2-guarded-preview-${{ github.run_id }}
       - name: Failed or uncertain runs only (2-day retention)
         if: ${{ always() && steps.smoke.outcome != 'success' }}
         uses: actions/upload-artifact@v4
@@ -118,3 +97,32 @@ jobs:
       - name: Never turn FAIL/UNKNOWN into green
         if: ${{ steps.smoke.outcome != 'success' }}
         run: exit 1
+
+  # Cache archive format includes runner/platform/path; persist on the same
+  # Ubuntu-host kind as the lightweight probe, not inside the Playwright container.
+  finalize:
+    needs: [probe, browser]
+    if: ${{ always() && needs.probe.result == 'success' && needs.probe.outputs.run_browser == 'true' }}
+    runs-on: ubuntu-latest
+    timeout-minutes: 3
+    env:
+      CURRENT_DIGEST: ${{ needs.probe.outputs.digest }}
+      BROWSER_JOB_RESULT: ${{ needs.browser.result }}
+    steps:
+      - name: Write one tiny public-byte verdict (no screenshots or Git commit)
+        shell: bash
+        run: |
+          set -euo pipefail
+          case "$BROWSER_JOB_RESULT" in
+            success) VERDICT=PASS ;;
+            failure) VERDICT=FAIL ;;
+            *) VERDICT=UNKNOWN ;;
+          esac
+          mkdir -p .qa-state
+          printf '{"digest":"%s","status":"%s","observedAt":"%s"}\n' "$CURRENT_DIGEST" "$VERDICT" "$(date -u +%Y-%m-%dT%H:%M:%SZ)" > .qa-state/last.json
+          printf '### Ephemeral Preview verdict\n- %s\n- Source/Deployment SHA equivalence NOT established.\n' "$VERDICT" >> "$GITHUB_STEP_SUMMARY"
+      - name: Save tiny verdict in Ubuntu-hosted Actions cache
+        uses: actions/cache/save@v4
+        with:
+          path: .qa-state/last.json
+          key: niko2-guarded-preview-${{ github.run_id }}
