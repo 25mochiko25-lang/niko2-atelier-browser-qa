@@ -6,19 +6,19 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-08T06:48:17.865Z",
-  "updatedAt": "2026-10-08T07:04:41.290Z",
-  "lastCommand": "48",
+  "updatedAt": "2026-10-08T07:05:09.424Z",
+  "lastCommand": "49",
   "stopReason": null,
   "action": {
-    "id": "48",
+    "id": "49",
     "op": "tap",
-    "x": 134,
-    "y": 382,
-    "note": "The jewel-like bottle in the cabinet looks tempting to handle."
+    "x": 37,
+    "y": 109,
+    "note": "Return from Cabinet to the white bedroom."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/9c4607f8c7d72eb354d2b48ae9ef591851036203/live-results/growth-visit-20261008-1547-mofu/current.jpg",
-  "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#cabinet",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/a7f3e37156af0e01edc0218bd6ec35f07ec64494/live-results/growth-visit-20261008-1547-mofu/current.jpg",
+  "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#room0",
   "title": "NIKO² ATELIER",
   "viewport": {
     "width": 390,
@@ -29,7 +29,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\nNIKO² ATELIER\n\n\nWHAT REMAINED\nTHE CABINET\n\n",
+  "text": "作品へ移動\nNIKO² ATELIER\n\n \nWORLD / RN-00\nROOM NULL\na room that remembers you.\nRN-00\n",
   "controls": [
     {
       "tag": "A",
@@ -37,7 +37,7 @@
       "disabled": false,
       "rect": {
         "x": 25,
-        "y": 18,
+        "y": 23,
         "w": 124,
         "h": 29
       }
@@ -54,14 +54,47 @@
       }
     },
     {
-      "tag": "BUTTON",
-      "text": "前の場所へ戻る",
+      "tag": "A",
+      "text": "WORLDへ戻る",
       "disabled": false,
       "rect": {
         "x": 14,
-        "y": 88,
-        "w": 46,
-        "h": 46
+        "y": 86,
+        "w": 40,
+        "h": 40
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "CHANNEL 00を開く",
+      "disabled": false,
+      "rect": {
+        "x": 14,
+        "y": 317,
+        "w": 156,
+        "h": 139
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Cabinetを開く",
+      "disabled": false,
+      "rect": {
+        "x": 261,
+        "y": 203,
+        "w": 125,
+        "h": 219
+      }
+    },
+    {
+      "tag": "A",
+      "text": "Diaryを開く",
+      "disabled": false,
+      "rect": {
+        "x": 176,
+        "y": 540,
+        "w": 187,
+        "h": 211
       }
     }
   ],
@@ -793,6 +826,21 @@
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#cabinet",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/9c4607f8c7d72eb354d2b48ae9ef591851036203/live-results/growth-visit-20261008-1547-mofu/current.jpg",
       "text": "作品へ移動\nNIKO² ATELIER\n\n\nWHAT REMAINED\nTHE CABINET\n\n"
+    },
+    {
+      "number": 50,
+      "at": "2026-10-08T07:05:09.424Z",
+      "action": {
+        "id": "49",
+        "op": "tap",
+        "x": 37,
+        "y": 109,
+        "note": "Return from Cabinet to the white bedroom."
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#room0",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/a7f3e37156af0e01edc0218bd6ec35f07ec64494/live-results/growth-visit-20261008-1547-mofu/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\n\n \nWORLD / RN-00\nROOM NULL\na room that remembers you.\nRN-00\n"
     }
   ]
 }
