@@ -50,4 +50,4 @@ Founder keeps final publication authority. Codex owns implementation and technic
 
 ## Temporary tester safety
 
-While this is a branch candidate, the workflow contains a **temporary push trigger scoped ONLY to qa/guarded-preview-delta-20261008 AND the workflow file itself**. Remove it after isolated validation; do not keep that trigger on main. Every other workflow in this repository remains untouched.
+The one-off branch-only push trigger was **removed from this proposed final workflow** after starting the isolated trial. No push/PR trigger remains. Only daily scheduled (when adopted on main) and explicit manual dispatch are defined. Every other workflow in this repository remains untouched.
