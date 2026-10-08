@@ -6,18 +6,18 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-08T06:48:17.865Z",
-  "updatedAt": "2026-10-08T06:59:43.844Z",
-  "lastCommand": "33",
+  "updatedAt": "2026-10-08T07:00:08.853Z",
+  "lastCommand": "34",
   "stopReason": null,
   "action": {
-    "id": "33",
+    "id": "34",
     "op": "tap",
-    "x": 189,
-    "y": 730,
-    "note": "Check that the anomaly has been resolved."
+    "x": 195,
+    "y": 542,
+    "note": "End the completed mini-incident and look for the next place in the lab."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/7389504115999b916975c2526896edeb82b3e75d/live-results/growth-visit-20261008-1547-mofu/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/e46ab771f206d5fedd6a6cc2a317cbd626ee70d4/live-results/growth-visit-20261008-1547-mofu/current.jpg",
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#lab",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -29,7 +29,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\nNIKO² ATELIER\n\n白と薄水色のガラス研究所。奥へ続く通路と、記録の置かれた観測台があります。\nOPERATIONS\n運用モード\n\n\n\nOPERATIONS / FIELD CLIPBOARD\n観測台へ戻る\nLAB ACTIVITY\nいつもの静けさに戻りました\n待っていた断片も、すべて保存されています。\nRESOLVED\nOPERATION NOTE\n今日の短い記録\n待っていた断片を保存しました。\n戻ってきた内容を確認しました。\n記録を閉じました。\n以前の対応記録を読む\n演習を終了\n運用演習：いつもの静けさに戻りました\n",
+  "text": "作品へ移動\nNIKO² ATELIER\n\n白と薄水色のガラス研究所。奥へ続く通路と、記録の置かれた観測台があります。\nMAIN LAB\n観測台\n\n\n\n観測台奥の保管室へ進む\n運用演習を終了しました。\n",
   "controls": [
     {
       "tag": "A",
@@ -66,35 +66,35 @@
     },
     {
       "tag": "BUTTON",
-      "text": "観測台へ戻る",
+      "text": "観測台",
       "disabled": false,
       "rect": {
-        "x": 289,
-        "y": 144,
-        "w": 80,
-        "h": 44
+        "x": 60,
+        "y": 355,
+        "w": 81,
+        "h": 275
       }
     },
     {
       "tag": "BUTTON",
-      "text": "以前の対応記録を読む",
+      "text": "奥の保管室へ進む",
       "disabled": false,
       "rect": {
-        "x": 22,
-        "y": 459,
-        "w": 346,
-        "h": 48
+        "x": 148,
+        "y": 305,
+        "w": 98,
+        "h": 170
       }
     },
     {
       "tag": "BUTTON",
-      "text": "演習を終了",
+      "text": "障害シミュレーション／運用モードを開く",
       "disabled": false,
       "rect": {
-        "x": 22,
-        "y": 515,
-        "w": 346,
-        "h": 48
+        "x": 265,
+        "y": 574,
+        "w": 65,
+        "h": 88
       }
     }
   ],
@@ -604,6 +604,21 @@
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#lab",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/7389504115999b916975c2526896edeb82b3e75d/live-results/growth-visit-20261008-1547-mofu/current.jpg",
       "text": "作品へ移動\nNIKO² ATELIER\n\n白と薄水色のガラス研究所。奥へ続く通路と、記録の置かれた観測台があります。\nOPERATIONS\n運用モード\n\n\n\nOPERATIONS / FIELD CLIPBOARD\n観測台へ戻る\nLAB ACTIVITY\nいつもの静けさに戻りました\n待っていた断片も、すべて保存されています。\nRESOLVED\nOPERATION NOTE\n今日の短い記録\n待っていた断片を保存しました。\n戻ってきた内容を確認しました。\n記録を閉じました。\n以前の対応記録を読む\n演習を終了\n運用演習：いつもの静けさに戻りました\n"
+    },
+    {
+      "number": 35,
+      "at": "2026-10-08T07:00:08.853Z",
+      "action": {
+        "id": "34",
+        "op": "tap",
+        "x": 195,
+        "y": 542,
+        "note": "End the completed mini-incident and look for the next place in the lab."
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#lab",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/e46ab771f206d5fedd6a6cc2a317cbd626ee70d4/live-results/growth-visit-20261008-1547-mofu/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\n\n白と薄水色のガラス研究所。奥へ続く通路と、記録の置かれた観測台があります。\nMAIN LAB\n観測台\n\n\n\n観測台奥の保管室へ進む\n運用演習を終了しました。\n"
     }
   ]
 }
