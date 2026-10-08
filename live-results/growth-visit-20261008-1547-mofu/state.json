@@ -6,18 +6,18 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-08T06:48:17.865Z",
-  "updatedAt": "2026-10-08T07:01:11.075Z",
-  "lastCommand": "37",
+  "updatedAt": "2026-10-08T07:01:20.489Z",
+  "lastCommand": "38",
   "stopReason": null,
   "action": {
-    "id": "37",
+    "id": "38",
     "op": "tap",
-    "x": 350,
-    "y": 163,
-    "note": "Close the old terminal's unresolved anomaly record."
+    "x": 290,
+    "y": 523,
+    "note": "Touch the sealed orange specimen about a door that knocked first."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/a75aef7686a0a492847fbec6cd79fa8dd462e7c1/live-results/growth-visit-20261008-1547-mofu/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/87ea4426f741838fea5efca2b3efaec2b5a07a2b/live-results/growth-visit-20261008-1547-mofu/current.jpg",
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#lab",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -29,7 +29,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\nNIKO² ATELIER\n\n白と薄水色のガラス研究所。奥へ続く通路と、記録の置かれた観測台があります。\nARCHIVE CHAMBER\n奥の保管室\n\n\n\n\nN²-Ωを開きました。\n",
+  "text": "作品へ移動\nNIKO² ATELIER\n\n白と薄水色のガラス研究所。奥へ続く通路と、記録の置かれた観測台があります。\nARCHIVE CHAMBER\n奥の保管室\n\n\n\n\nARCHIVE CHAMBER // RECORD\n\n\nFIELD NOTE / SPATIAL CONNECTION TEST\n\n向こうから先にノックされた扉\nDOOR EXPERIMENT / D-00\nAPPROVED\n接続先\n未確認\n開放時間\n11.4 sec\n問題\n「扉の向こう側から先にノックされた。」\n再実験\n承認済み\n研究員メモ\n「もう一度だけ開けたい。あちらも待っているかもしれない。」\nRELATED: DOOR / HIDDEN_ROOM\nARCHIVE COPY / VIEW ONLY\nDOOR EXPERIMENT / D-00を開きました。\n",
   "controls": [
     {
       "tag": "A",
@@ -95,6 +95,17 @@
         "y": 330,
         "w": 159,
         "h": 136
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "研究資料を閉じる",
+      "disabled": false,
+      "rect": {
+        "x": 330,
+        "y": 141,
+        "w": 44,
+        "h": 44
       }
     }
   ],
@@ -664,6 +675,21 @@
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#lab",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/a75aef7686a0a492847fbec6cd79fa8dd462e7c1/live-results/growth-visit-20261008-1547-mofu/current.jpg",
       "text": "作品へ移動\nNIKO² ATELIER\n\n白と薄水色のガラス研究所。奥へ続く通路と、記録の置かれた観測台があります。\nARCHIVE CHAMBER\n奥の保管室\n\n\n\n\nN²-Ωを開きました。\n"
+    },
+    {
+      "number": 39,
+      "at": "2026-10-08T07:01:20.489Z",
+      "action": {
+        "id": "38",
+        "op": "tap",
+        "x": 290,
+        "y": 523,
+        "note": "Touch the sealed orange specimen about a door that knocked first."
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#lab",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/87ea4426f741838fea5efca2b3efaec2b5a07a2b/live-results/growth-visit-20261008-1547-mofu/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\n\n白と薄水色のガラス研究所。奥へ続く通路と、記録の置かれた観測台があります。\nARCHIVE CHAMBER\n奥の保管室\n\n\n\n\nARCHIVE CHAMBER // RECORD\n\n\nFIELD NOTE / SPATIAL CONNECTION TEST\n\n向こうから先にノックされた扉\nDOOR EXPERIMENT / D-00\nAPPROVED\n接続先\n未確認\n開放時間\n11.4 sec\n問題\n「扉の向こう側から先にノックされた。」\n再実験\n承認済み\n研究員メモ\n「もう一度だけ開けたい。あちらも待っているかもしれない。」\nRELATED: DOOR / HIDDEN_ROOM\nARCHIVE COPY / VIEW ONLY\nDOOR EXPERIMENT / D-00を開きました。\n"
     }
   ]
 }
