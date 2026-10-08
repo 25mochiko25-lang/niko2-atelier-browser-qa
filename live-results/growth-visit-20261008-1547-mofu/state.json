@@ -6,18 +6,17 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-08T06:48:17.865Z",
-  "updatedAt": "2026-10-08T07:01:57.407Z",
-  "lastCommand": "40",
+  "updatedAt": "2026-10-08T07:02:17.190Z",
+  "lastCommand": "41",
   "stopReason": null,
   "action": {
-    "id": "40",
-    "op": "tap",
-    "x": 80,
-    "y": 38,
-    "note": "Return toward the atelier's World choices; there might be a matching doorway elsewhere."
+    "id": "41",
+    "op": "key",
+    "key": "PageDown",
+    "note": "Look below the hero at the places available in WORLD."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/fb44e1a3e9dc799eb2ed823fa0463d8eb8bbe815/live-results/growth-visit-20261008-1547-mofu/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/4d5b5697590fb311357c6d3bc3c44e1ae6f6148c/live-results/growth-visit-20261008-1547-mofu/current.jpg",
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -44,35 +43,24 @@
     },
     {
       "tag": "A",
-      "text": "FROM THE ATELIERを開く",
+      "text": "WORLDを開く",
       "disabled": false,
       "rect": {
-        "x": 279,
-        "y": 274,
-        "w": 91,
-        "h": 92
+        "x": 23,
+        "y": 246,
+        "w": 343,
+        "h": 193
       }
     },
     {
       "tag": "A",
-      "text": "Diaryを開く",
+      "text": "ABOUT\nもふもふはいます。",
       "disabled": false,
       "rect": {
-        "x": 14,
-        "y": 298,
-        "w": 147,
-        "h": 147
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "Enter the dream",
-      "disabled": false,
-      "rect": {
-        "x": 90,
-        "y": 494,
-        "w": 210,
-        "h": 70
+        "x": 43,
+        "y": 723,
+        "w": 304,
+        "h": 252
       }
     }
   ],
@@ -686,6 +674,20 @@
       "error": null,
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/fb44e1a3e9dc799eb2ed823fa0463d8eb8bbe815/live-results/growth-visit-20261008-1547-mofu/current.jpg",
+      "text": "作品へ移動\n \nWORLD\nWORLD\n水面の向こうに、いくつかの場所がひらいています。\n\n\nABOUT\nもふもふはいます。\nPLAY / SHARE / FAN WORK\nNIKO²での生活について\n好きな形で遊ぶための、小さな境界。\nDEAR ATELIER\nお手紙を送る\nAtelierの受取箱へ。\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n"
+    },
+    {
+      "number": 42,
+      "at": "2026-10-08T07:02:17.190Z",
+      "action": {
+        "id": "41",
+        "op": "key",
+        "key": "PageDown",
+        "note": "Look below the hero at the places available in WORLD."
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/4d5b5697590fb311357c6d3bc3c44e1ae6f6148c/live-results/growth-visit-20261008-1547-mofu/current.jpg",
       "text": "作品へ移動\n \nWORLD\nWORLD\n水面の向こうに、いくつかの場所がひらいています。\n\n\nABOUT\nもふもふはいます。\nPLAY / SHARE / FAN WORK\nNIKO²での生活について\n好きな形で遊ぶための、小さな境界。\nDEAR ATELIER\nお手紙を送る\nAtelierの受取箱へ。\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n"
     }
   ]
