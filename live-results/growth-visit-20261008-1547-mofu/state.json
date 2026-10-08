@@ -6,18 +6,18 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-08T06:48:17.865Z",
-  "updatedAt": "2026-10-08T06:54:47.857Z",
-  "lastCommand": "18",
+  "updatedAt": "2026-10-08T06:55:07.680Z",
+  "lastCommand": "19",
   "stopReason": null,
   "action": {
-    "id": "18",
+    "id": "19",
     "op": "tap",
-    "x": 116,
-    "y": 203,
-    "note": "Try choosing the ordinary vending machine photo rather than typing a diary entry."
+    "x": 278,
+    "y": 413,
+    "note": "Save a purely photographic Diary entry, no words or mood."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/687762431b084050cf6e444c15bed75586236f03/live-results/growth-visit-20261008-1547-mofu/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/4da3a068e9ee3eeb7b4b31aa9fb56d747e4c2a70/live-results/growth-visit-20261008-1547-mofu/current.jpg",
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#diary",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -29,7 +29,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\nNIKO² ATELIER\nHome\n\nNIKO² DIARY\nDiary\n今日のことを、ひとつだけ。\n10月8日 15:54\n持ち帰った夢が、まだ手元にあります。\n← さっきの空へ戻る\nTODAY\n今日を残す\n✦\nいまの気配\n\n静か\n\nきらきら\n\nぼんやり\n\nざわざわ\n\n甘い\n\n雨っぽい\n\n眠い\n\n何もない\nPHOTO\n写真\n自販機\nまち\n部屋\n買ったもの\n遊び\n食べもの\nその他\n写真を眺める\n‹\n›\n\n\n自販機\n\n\nホーム\n\n\n改札\n\n\n途中\n\n\nロッカー\n\n\nエレベーター\n\n\nガラス扉\n\n\n空席\n\n\n雨の改札\n\n\n22:47\n\n\n青空\n\n\n夕方\n\n\n夜空\n\n\n空の間\n\n\n夕方の壁\n\n\n雨あがり\n言葉\nOPTIONAL\nこの端末だけに残ります\n残す\nRECENT\n少し前の自分\n\n白い街の一片\n10/8\n2026年10月\nMONTHLY REFLECTION\n今月の景色\nよく残った気配\n静かな余白\nよく残った色\n色のない紙片\nよく残ったモチーフ\n名前のないもの\nまだ記録が少ないので、傾向ではなく、残ったものをそのまま眺めています。\nもう少し見る\nARCHIVE\n前の日々をひらく\n\nWHAT REMAINED\n残ったものを見る\nアトリエへ戻る\n",
+  "text": "作品へ移動\nNIKO² ATELIER\nHome\n\nNIKO² DIARY\nDiary\n今日のことを、ひとつだけ。\n10月8日 15:55\n夢の続きが、まだ近くにあります。\n← さっきの空へ戻る\nTODAY\n今日を残す\n✦\nいまの気配\n\n静か\n\nきらきら\n\nぼんやり\n\nざわざわ\n\n甘い\n\n雨っぽい\n\n眠い\n\n何もない\nPHOTO\n写真\n選択なし\nまち\n部屋\n買ったもの\n遊び\n食べもの\nその他\n写真を眺める\n‹\n›\n\n\nホーム\n\n\n改札\n\n\n途中\n\n\nロッカー\n\n\nエレベーター\n\n\nガラス扉\n\n\n空席\n\n\n雨の改札\n\n\n22:47\n\n\n青空\n\n\n夕方\n\n\n夜空\n\n\n空の間\n\n\n夕方の壁\n\n\n雨あがり\n\n\n自販機\n言葉\nOPTIONAL\nこの端末だけに残ります\n残す\nRECENT\n少し前の自分\n\n自販機\n10/8\n\n白い街の一片\n10/8\n2026年10月\nMONTHLY REFLECTION\n今月の景色\nよく残った気配\n静かな余白\nよく残った色\n色のない紙片\nよく残ったモチーフ\n名前のないもの\nまだ記録が少ないので、傾向ではなく、残ったものをそのまま眺めています。\nもう少し見る\nARCHIVE\n前の日々をひらく\n\nWHAT REMAINED\n残ったものを見る\nアトリエへ戻る\n",
   "controls": [
     {
       "tag": "A",
@@ -165,24 +165,13 @@
     },
     {
       "tag": "BUTTON",
-      "text": "自販機",
-      "disabled": false,
-      "rect": {
-        "x": 52,
-        "y": 112,
-        "w": 151,
-        "h": 188
-      }
-    },
-    {
-      "tag": "BUTTON",
       "text": "ホーム",
       "disabled": false,
       "rect": {
-        "x": 187,
-        "y": 139,
-        "w": 135,
-        "h": 168
+        "x": 55,
+        "y": 126,
+        "w": 144,
+        "h": 178
       }
     },
     {
@@ -190,10 +179,21 @@
       "text": "改札",
       "disabled": false,
       "rect": {
-        "x": 315,
-        "y": 139,
-        "w": 133,
-        "h": 166
+        "x": 183,
+        "y": 128,
+        "w": 142,
+        "h": 177
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "途中",
+      "disabled": false,
+      "rect": {
+        "x": 311,
+        "y": 129,
+        "w": 140,
+        "h": 175
       }
     },
     {
@@ -210,12 +210,23 @@
     {
       "tag": "BUTTON",
       "text": "残す",
-      "disabled": false,
+      "disabled": true,
       "rect": {
         "x": 220,
-        "y": 390,
+        "y": 392,
         "w": 128,
         "h": 48
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "自販機\n10/8",
+      "disabled": false,
+      "rect": {
+        "x": 38,
+        "y": 546,
+        "w": 152,
+        "h": 159
       }
     },
     {
@@ -224,7 +235,7 @@
       "disabled": false,
       "rect": {
         "x": 38,
-        "y": 546,
+        "y": 719,
         "w": 313,
         "h": 170
       }
@@ -511,6 +522,21 @@
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#diary",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/687762431b084050cf6e444c15bed75586236f03/live-results/growth-visit-20261008-1547-mofu/current.jpg",
       "text": "作品へ移動\nNIKO² ATELIER\nHome\n\nNIKO² DIARY\nDiary\n今日のことを、ひとつだけ。\n10月8日 15:54\n持ち帰った夢が、まだ手元にあります。\n← さっきの空へ戻る\nTODAY\n今日を残す\n✦\nいまの気配\n\n静か\n\nきらきら\n\nぼんやり\n\nざわざわ\n\n甘い\n\n雨っぽい\n\n眠い\n\n何もない\nPHOTO\n写真\n自販機\nまち\n部屋\n買ったもの\n遊び\n食べもの\nその他\n写真を眺める\n‹\n›\n\n\n自販機\n\n\nホーム\n\n\n改札\n\n\n途中\n\n\nロッカー\n\n\nエレベーター\n\n\nガラス扉\n\n\n空席\n\n\n雨の改札\n\n\n22:47\n\n\n青空\n\n\n夕方\n\n\n夜空\n\n\n空の間\n\n\n夕方の壁\n\n\n雨あがり\n言葉\nOPTIONAL\nこの端末だけに残ります\n残す\nRECENT\n少し前の自分\n\n白い街の一片\n10/8\n2026年10月\nMONTHLY REFLECTION\n今月の景色\nよく残った気配\n静かな余白\nよく残った色\n色のない紙片\nよく残ったモチーフ\n名前のないもの\nまだ記録が少ないので、傾向ではなく、残ったものをそのまま眺めています。\nもう少し見る\nARCHIVE\n前の日々をひらく\n\nWHAT REMAINED\n残ったものを見る\nアトリエへ戻る\n"
+    },
+    {
+      "number": 20,
+      "at": "2026-10-08T06:55:07.680Z",
+      "action": {
+        "id": "19",
+        "op": "tap",
+        "x": 278,
+        "y": 413,
+        "note": "Save a purely photographic Diary entry, no words or mood."
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#diary",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/4da3a068e9ee3eeb7b4b31aa9fb56d747e4c2a70/live-results/growth-visit-20261008-1547-mofu/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\nHome\n\nNIKO² DIARY\nDiary\n今日のことを、ひとつだけ。\n10月8日 15:55\n夢の続きが、まだ近くにあります。\n← さっきの空へ戻る\nTODAY\n今日を残す\n✦\nいまの気配\n\n静か\n\nきらきら\n\nぼんやり\n\nざわざわ\n\n甘い\n\n雨っぽい\n\n眠い\n\n何もない\nPHOTO\n写真\n選択なし\nまち\n部屋\n買ったもの\n遊び\n食べもの\nその他\n写真を眺める\n‹\n›\n\n\nホーム\n\n\n改札\n\n\n途中\n\n\nロッカー\n\n\nエレベーター\n\n\nガラス扉\n\n\n空席\n\n\n雨の改札\n\n\n22:47\n\n\n青空\n\n\n夕方\n\n\n夜空\n\n\n空の間\n\n\n夕方の壁\n\n\n雨あがり\n\n\n自販機\n言葉\nOPTIONAL\nこの端末だけに残ります\n残す\nRECENT\n少し前の自分\n\n自販機\n10/8\n\n白い街の一片\n10/8\n2026年10月\nMONTHLY REFLECTION\n今月の景色\nよく残った気配\n静かな余白\nよく残った色\n色のない紙片\nよく残ったモチーフ\n名前のないもの\nまだ記録が少ないので、傾向ではなく、残ったものをそのまま眺めています。\nもう少し見る\nARCHIVE\n前の日々をひらく\n\nWHAT REMAINED\n残ったものを見る\nアトリエへ戻る\n"
     }
   ]
 }
