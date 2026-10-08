@@ -6,18 +6,18 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-08T06:48:17.865Z",
-  "updatedAt": "2026-10-08T06:51:22.361Z",
-  "lastCommand": "08",
+  "updatedAt": "2026-10-08T06:51:39.764Z",
+  "lastCommand": "09",
   "stopReason": null,
   "action": {
-    "id": "08",
+    "id": "09",
     "op": "tap",
-    "x": 363,
-    "y": 579,
-    "note": "Try the small book by the bear, another item that doesn't look part of the five."
+    "x": 335,
+    "y": 665,
+    "note": "Close the bear fragment, then keep searching around the scene."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/b676dfa289112110fde07bfb0be1b8e657e7e658/live-results/growth-visit-20261008-1547-mofu/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/0e76d4a9d1cfe1330836048315d0eaa03cf1bda7/live-results/growth-visit-20261008-1547-mofu/current.jpg",
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -29,7 +29,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n1 / 5\n見つけたもの\nCG-01-A_01.DRM\n15:51:19\n\nFRAGMENT / 01\n\n置き去りのくま\n名前はもうない。それでも、いつもの方を向いている。\n紙の裏に、消したはずの時刻がひとつ残っている。",
+  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n1 / 5\n見つけたもの\n紙の裏に、消したはずの時刻がひとつ残っている。",
   "controls": [
     {
       "tag": "BUTTON",
@@ -195,17 +195,6 @@
         "w": 72,
         "h": 95
       }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "見つけた記憶を閉じる",
-      "disabled": false,
-      "rect": {
-        "x": 324,
-        "y": 654,
-        "w": 24,
-        "h": 23
-      }
     }
   ],
   "pageErrors": [],
@@ -341,6 +330,21 @@
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/b676dfa289112110fde07bfb0be1b8e657e7e658/live-results/growth-visit-20261008-1547-mofu/current.jpg",
       "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n1 / 5\n見つけたもの\nCG-01-A_01.DRM\n15:51:19\n\nFRAGMENT / 01\n\n置き去りのくま\n名前はもうない。それでも、いつもの方を向いている。\n紙の裏に、消したはずの時刻がひとつ残っている。"
+    },
+    {
+      "number": 10,
+      "at": "2026-10-08T06:51:39.764Z",
+      "action": {
+        "id": "09",
+        "op": "tap",
+        "x": 335,
+        "y": 665,
+        "note": "Close the bear fragment, then keep searching around the scene."
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/0e76d4a9d1cfe1330836048315d0eaa03cf1bda7/live-results/growth-visit-20261008-1547-mofu/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n1 / 5\n見つけたもの\n紙の裏に、消したはずの時刻がひとつ残っている。"
     }
   ]
 }
