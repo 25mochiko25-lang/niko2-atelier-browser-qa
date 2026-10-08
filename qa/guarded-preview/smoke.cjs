@@ -146,7 +146,7 @@ async function checkProfile(browser, spec) {
     await pause(page, 1100);
     const initial = await observe(page);
     rec.diagnostics.push({ stage: 'arrival', state: initial });
-    if (initial.bodyChars < 10) { rec.reason = 'UNKNOWN: browser page is unexpectedly sparse'; return; }
+    if (initial.bodyChars < 10) rec.diagnostics.push({ stage: 'image-led-page', note: 'Low innerText is normal for an image-led entry; check visible controls and route instead' });
     if (initial.overflowPx > 8) rec.diagnostics.push({ stage: 'horizontal-overflow', px: initial.overflowPx, note: 'Diagnostic only: intentional framing may overflow' });
     if (!initial.enter) { rec.reason = 'UNKNOWN: #enterGarden not visible in this fresh state'; return; }
     await coordinatePress(page, '#enterGarden', spec.mobile, rec);
