@@ -63,4 +63,16 @@ function aggregate(cases) {
   return 'PASS';
 }
 
-module.exports = { TARGET, validateTarget, hashBytes, attribute, discoverAssets, contentDigest, shouldRun, aggregate };
+
+function planVerdict(mode, digest, previous) {
+  const oldDigest = previous && previous.digest || null;
+  const previousStatus = previous && previous.status || null;
+  const changed = !previous || oldDigest !== digest;
+  const knownFailure = mode === 'check' && !changed &&
+    (previousStatus === 'FAIL' || previousStatus === 'UNKNOWN');
+  const runBrowser = !knownFailure && (shouldRun(mode, digest, oldDigest) ||
+    (mode === 'check' && !changed && previousStatus !== 'PASS'));
+  return { changed, previousStatus, knownFailure, runBrowser };
+}
+
+module.exports = { TARGET, validateTarget, hashBytes, attribute, discoverAssets, contentDigest, shouldRun, planVerdict, aggregate };
