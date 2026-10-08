@@ -6,18 +6,18 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-08T06:48:17.865Z",
-  "updatedAt": "2026-10-08T07:07:46.457Z",
-  "lastCommand": "56",
+  "updatedAt": "2026-10-08T07:08:08.643Z",
+  "lastCommand": "57",
   "stopReason": null,
   "action": {
-    "id": "56",
+    "id": "57",
     "op": "tap",
-    "x": 195,
-    "y": 612,
-    "note": "Follow the Hotel Somnia official link because another visitor's diary mentioned a returned key."
+    "x": 168,
+    "y": 515,
+    "note": "The guestbook may explain what happened with the hotel key."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/b6f1d3f60851ddbd8142ee5bdd65714b890e9c32/live-results/growth-visit-20261008-1547-mofu/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/e838c4df930655a0e4b5be9a97427d410de066ae/live-results/growth-visit-20261008-1547-mofu/current.jpg",
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#channel0",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -29,7 +29,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\nNIKO² ATELIER\n\n\nCHANNEL / CH-00\nCHANNEL 00\n3 pages\n‹\n›\n⌂\nhttp://somnia-hotel.jp/index.htm\n×\nHOTEL SOMNIA\nSame room. A different night.\n\nROOM SERVICE\n\n昨日、青の時間、誰かの雨。存在しない品もお部屋まで。\n\nROOM 000は静かで、とても広かったです。\n宿泊日：未到来\n現在のホテルへ guest book\nconnected at 33.6 kbps\n閲覧の断片を持ち帰る\n",
+  "text": "作品へ移動\nNIKO² ATELIER\n\n\nCHANNEL / CH-00\nCHANNEL 00\n4 pages\n‹\n›\n⌂\nhttp://lavender-bbs.net/channel00\n×\nLAVENDER BBS\nLavender BBS\n\n足あとだけでも、どうぞ。\n\n[12] はじめまして\nname: soda\nお花きれいですね！\n2001.05.18\n[13] Re: はじめまして\nname: mari\nありがとう。また来てね。\n2001.05.18\n[03]\nname: --------\nここ、まだあるんだ。\n2031.09.11\nname \nmessage \n書き込む\nconnected at 33.6 kbps\n閲覧の断片を持ち帰る\n",
   "controls": [
     {
       "tag": "A",
@@ -109,24 +109,35 @@
       }
     },
     {
-      "tag": "BUTTON",
-      "text": "現在のホテルへ",
+      "tag": "INPUT",
+      "text": "",
       "disabled": false,
       "rect": {
-        "x": 25,
-        "y": 500,
-        "w": 99,
-        "h": 35
+        "x": 37,
+        "y": 660,
+        "w": 316,
+        "h": 19
+      }
+    },
+    {
+      "tag": "TEXTAREA",
+      "text": "",
+      "disabled": false,
+      "rect": {
+        "x": 37,
+        "y": 708,
+        "w": 316,
+        "h": 64
       }
     },
     {
       "tag": "BUTTON",
-      "text": "guest book",
+      "text": "書き込む",
       "disabled": false,
       "rect": {
-        "x": 134,
-        "y": 499,
-        "w": 73,
+        "x": 40,
+        "y": 784,
+        "w": 310,
         "h": 35
       }
     },
@@ -990,6 +1001,21 @@
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#channel0",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/b6f1d3f60851ddbd8142ee5bdd65714b890e9c32/live-results/growth-visit-20261008-1547-mofu/current.jpg",
       "text": "作品へ移動\nNIKO² ATELIER\n\n\nCHANNEL / CH-00\nCHANNEL 00\n3 pages\n‹\n›\n⌂\nhttp://somnia-hotel.jp/index.htm\n×\nHOTEL SOMNIA\nSame room. A different night.\n\nROOM SERVICE\n\n昨日、青の時間、誰かの雨。存在しない品もお部屋まで。\n\nROOM 000は静かで、とても広かったです。\n宿泊日：未到来\n現在のホテルへ guest book\nconnected at 33.6 kbps\n閲覧の断片を持ち帰る\n"
+    },
+    {
+      "number": 58,
+      "at": "2026-10-08T07:08:08.643Z",
+      "action": {
+        "id": "57",
+        "op": "tap",
+        "x": 168,
+        "y": 515,
+        "note": "The guestbook may explain what happened with the hotel key."
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#channel0",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/e838c4df930655a0e4b5be9a97427d410de066ae/live-results/growth-visit-20261008-1547-mofu/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\n\n\nCHANNEL / CH-00\nCHANNEL 00\n4 pages\n‹\n›\n⌂\nhttp://lavender-bbs.net/channel00\n×\nLAVENDER BBS\nLavender BBS\n\n足あとだけでも、どうぞ。\n\n[12] はじめまして\nname: soda\nお花きれいですね！\n2001.05.18\n[13] Re: はじめまして\nname: mari\nありがとう。また来てね。\n2001.05.18\n[03]\nname: --------\nここ、まだあるんだ。\n2031.09.11\nname \nmessage \n書き込む\nconnected at 33.6 kbps\n閲覧の断片を持ち帰る\n"
     }
   ]
 }
