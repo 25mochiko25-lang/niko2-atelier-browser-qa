@@ -80,6 +80,7 @@ jobs:
         with:
           node-version: 22
       - name: Verify public bytes match probe before clicking
+        id: verify_before
         run: |
           node qa/guarded-preview/probe.cjs
           node -e 'const f=require("./qa-output/probe.json");if(f.digest!==process.env.CURRENT_DIGEST){console.error("Preview bytes changed before browser; UNKNOWN");process.exit(2)}'
@@ -90,12 +91,13 @@ jobs:
         continue-on-error: true
         run: node qa/guarded-preview/smoke.cjs
       - name: Verify public bytes did not drift during browser QA
+        id: verify_after
         if: always()
         run: |
           node qa/guarded-preview/probe.cjs
           node -e 'const f=require("./qa-output/probe.json");if(f.digest!==process.env.CURRENT_DIGEST){console.error("Preview bytes changed during browser; UNKNOWN");process.exit(2)}'
       - name: Failed or uncertain runs only (2-day retention)
-        if: ${{ always() && steps.smoke.outcome != 'success' }}
+        if: ${{ always() && (steps.verify_before.outcome != 'success' || steps.smoke.outcome != 'success' || steps.verify_after.outcome != 'success') }}
         uses: actions/upload-artifact@v4
         with:
           name: preview-smoke-failures
@@ -106,7 +108,7 @@ jobs:
           if-no-files-found: ignore
           retention-days: 2
       - name: Never turn FAIL/UNKNOWN into green
-        if: ${{ steps.smoke.outcome != 'success' }}
+        if: ${{ always() && (steps.verify_before.outcome != 'success' || steps.smoke.outcome != 'success' || steps.verify_after.outcome != 'success') }}
         run: exit 1
 
   # Cache archive format includes runner/platform/path; persist on the same
