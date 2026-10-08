@@ -6,18 +6,18 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-08T06:48:17.865Z",
-  "updatedAt": "2026-10-08T06:58:24.449Z",
-  "lastCommand": "29",
+  "updatedAt": "2026-10-08T06:58:44.103Z",
+  "lastCommand": "30",
   "stopReason": null,
   "action": {
-    "id": "29",
+    "id": "30",
     "op": "tap",
-    "x": 298,
-    "y": 615,
-    "note": "The console on the right looks interactive; try it."
+    "x": 190,
+    "y": 557,
+    "note": "A button offering to cause a small abnormality is impossible to ignore."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/4f43679b120ac6570dcd291fd433eee18121d96e/live-results/growth-visit-20261008-1547-mofu/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/18f928618e2ce9b06f5710fab0904f6c4956dc7a/live-results/growth-visit-20261008-1547-mofu/current.jpg",
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#lab",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -29,7 +29,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\nNIKO² ATELIER\n\n白と薄水色のガラス研究所。奥へ続く通路と、記録の置かれた観測台があります。\nOPERATIONS\n運用モード\n\n\n\nOPERATIONS / FIELD CLIPBOARD\n観測台へ戻る\nLAB ACTIVITY\n静かに稼働中\n夢の保存、観測、返却待ち。大きな問題はありません。\nNORMAL\nOPERATION NOTE\n今日の短い記録\n夢の断片をひとつ保存しました。\n観測室の灯りを弱めました。\n返却待ちの標本がひとつあります。\n以前の対応記録を読む\n小さな異常を起こす\nM-00 MANAGEMENT EQUIPMENTを開きました。\n",
+  "text": "作品へ移動\nNIKO² ATELIER\n\n白と薄水色のガラス研究所。奥へ続く通路と、記録の置かれた観測台があります。\nOPERATIONS\n運用モード\n\n\n\nOPERATIONS / FIELD CLIPBOARD\n観測台へ戻る\nLAB ACTIVITY\n夢の保存が遅れています\n保存待ちの断片が、ひとつ残っています。\nDELAYED\nONE SMALL ANOMALY / CONTAINED\n夢の保存が遅れています\n保存待ちの断片が、ひとつ残っています。\nResearch note:「まだ閉じないで。中に記録が残っている。」\nOPERATION NOTE\n今日の短い記録\n保存待ちの断片を検知。\n観測そのものは続いています。\n記録を閉じずに、経路を確認します。\n以前の対応記録を読む\n切り分けを進める\n運用演習：夢の保存が遅れています\n",
   "controls": [
     {
       "tag": "A",
@@ -81,18 +81,18 @@
       "disabled": false,
       "rect": {
         "x": 22,
-        "y": 479,
+        "y": 633,
         "w": 346,
         "h": 48
       }
     },
     {
       "tag": "BUTTON",
-      "text": "小さな異常を起こす",
+      "text": "切り分けを進める",
       "disabled": false,
       "rect": {
         "x": 22,
-        "y": 535,
+        "y": 689,
         "w": 346,
         "h": 48
       }
@@ -544,6 +544,21 @@
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#lab",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/4f43679b120ac6570dcd291fd433eee18121d96e/live-results/growth-visit-20261008-1547-mofu/current.jpg",
       "text": "作品へ移動\nNIKO² ATELIER\n\n白と薄水色のガラス研究所。奥へ続く通路と、記録の置かれた観測台があります。\nOPERATIONS\n運用モード\n\n\n\nOPERATIONS / FIELD CLIPBOARD\n観測台へ戻る\nLAB ACTIVITY\n静かに稼働中\n夢の保存、観測、返却待ち。大きな問題はありません。\nNORMAL\nOPERATION NOTE\n今日の短い記録\n夢の断片をひとつ保存しました。\n観測室の灯りを弱めました。\n返却待ちの標本がひとつあります。\n以前の対応記録を読む\n小さな異常を起こす\nM-00 MANAGEMENT EQUIPMENTを開きました。\n"
+    },
+    {
+      "number": 31,
+      "at": "2026-10-08T06:58:44.103Z",
+      "action": {
+        "id": "30",
+        "op": "tap",
+        "x": 190,
+        "y": 557,
+        "note": "A button offering to cause a small abnormality is impossible to ignore."
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#lab",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/18f928618e2ce9b06f5710fab0904f6c4956dc7a/live-results/growth-visit-20261008-1547-mofu/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\n\n白と薄水色のガラス研究所。奥へ続く通路と、記録の置かれた観測台があります。\nOPERATIONS\n運用モード\n\n\n\nOPERATIONS / FIELD CLIPBOARD\n観測台へ戻る\nLAB ACTIVITY\n夢の保存が遅れています\n保存待ちの断片が、ひとつ残っています。\nDELAYED\nONE SMALL ANOMALY / CONTAINED\n夢の保存が遅れています\n保存待ちの断片が、ひとつ残っています。\nResearch note:「まだ閉じないで。中に記録が残っている。」\nOPERATION NOTE\n今日の短い記録\n保存待ちの断片を検知。\n観測そのものは続いています。\n記録を閉じずに、経路を確認します。\n以前の対応記録を読む\n切り分けを進める\n運用演習：夢の保存が遅れています\n"
     }
   ]
 }
