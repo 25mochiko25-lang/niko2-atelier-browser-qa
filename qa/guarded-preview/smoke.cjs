@@ -163,13 +163,13 @@ async function checkProfile(browser, spec) {
     let state = await observe(page);
     if (state.begin) {
       await coordinatePress(page, '#beginGarden', spec.mobile, rec);
-      state = await poll(page, s => !!s.route && s.route !== 'home', 11, 700);
+      state = await poll(page, s => s.route === 'garden', 11, 700);
     }
     rec.diagnostics.push({ stage: 'after-intro', state });
     if (rec.pageErrors.length) { rec.reason = 'UNKNOWN: unhandled JS errors during entry'; return; }
     if (rec.blockedWrites.length) { rec.reason = 'UNKNOWN: a site write was blocked by read-only browser policy'; return; }
-    if (!state.route || state.route === 'home') {
-      rec.reason = 'UNKNOWN: entry changed visible state but Garden route not verified';
+    if (state.route !== 'garden') {
+      rec.reason = 'UNKNOWN: intro/entry changed state but the Garden route was not verified';
       return;
     }
     rec.status = 'PASS';
