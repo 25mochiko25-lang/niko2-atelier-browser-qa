@@ -6,17 +6,17 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-08T06:48:17.865Z",
-  "updatedAt": "2026-10-08T07:03:58.427Z",
-  "lastCommand": "46",
+  "updatedAt": "2026-10-08T07:04:19.134Z",
+  "lastCommand": "47",
   "stopReason": null,
   "action": {
-    "id": "46",
-    "op": "look",
-    "wait": 2500,
-    "note": "Wait briefly for the cabinet display to reveal its contents."
+    "id": "47",
+    "op": "key",
+    "key": "PageDown",
+    "note": "Look below the cabinet portrait to see whether saved items are listed there."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/a0c91479f151912b9e6388dc18d287e27a351f84/live-results/growth-visit-20261008-1547-mofu/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/3d061cacbb3e69f76df0d418ec8b035f77cfc013/live-results/growth-visit-20261008-1547-mofu/current.jpg",
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#cabinet",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -762,6 +762,20 @@
       "error": null,
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#cabinet",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/a0c91479f151912b9e6388dc18d287e27a351f84/live-results/growth-visit-20261008-1547-mofu/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\n\n\nWHAT REMAINED\nTHE CABINET\n\n"
+    },
+    {
+      "number": 48,
+      "at": "2026-10-08T07:04:19.134Z",
+      "action": {
+        "id": "47",
+        "op": "key",
+        "key": "PageDown",
+        "note": "Look below the cabinet portrait to see whether saved items are listed there."
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#cabinet",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/3d061cacbb3e69f76df0d418ec8b035f77cfc013/live-results/growth-visit-20261008-1547-mofu/current.jpg",
       "text": "作品へ移動\nNIKO² ATELIER\n\n\nWHAT REMAINED\nTHE CABINET\n\n"
     }
   ]
