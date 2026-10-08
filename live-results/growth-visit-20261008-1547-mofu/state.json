@@ -6,18 +6,18 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-08T06:48:17.865Z",
-  "updatedAt": "2026-10-08T06:59:03.804Z",
-  "lastCommand": "31",
+  "updatedAt": "2026-10-08T06:59:23.954Z",
+  "lastCommand": "32",
   "stopReason": null,
   "action": {
-    "id": "31",
+    "id": "32",
     "op": "tap",
-    "x": 186,
-    "y": 710,
-    "note": "Follow the diagnostic path after causing the anomaly."
+    "x": 190,
+    "y": 757,
+    "note": "Restore the save route to finish the little lab incident."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/ee99f6d227fcb742f637019ca6d697ecc5af8137/live-results/growth-visit-20261008-1547-mofu/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/6ad0402f3f3c92aaf41845083f8e89d43de4ef93/live-results/growth-visit-20261008-1547-mofu/current.jpg",
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#lab",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -29,7 +29,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\nNIKO² ATELIER\n\n白と薄水色のガラス研究所。奥へ続く通路と、記録の置かれた観測台があります。\nOPERATIONS\n運用モード\n\n\n\nOPERATIONS / FIELD CLIPBOARD\n観測台へ戻る\nLAB ACTIVITY\n遅れている場所を見つけました\n夢ではなく、保存する途中だけが止まっています。\nCHECKING\nONE SMALL ANOMALY / CONTAINED\n保存する途中だけが止まっています\n観測と資料の閲覧は、そのまま続けられます。\nResearch note:「まだ閉じないで。中に記録が残っている。」\nOPERATION NOTE\n今日の短い記録\n入口は正常でした。\n資料棚も正常でした。\n保存経路の権限違いを見つけました。\n以前の対応記録を読む\n保存経路を整える\n運用演習：遅れている場所を見つけました\n",
+  "text": "作品へ移動\nNIKO² ATELIER\n\n白と薄水色のガラス研究所。奥へ続く通路と、記録の置かれた観測台があります。\nOPERATIONS\n運用モード\n\n\n\nOPERATIONS / FIELD CLIPBOARD\n観測台へ戻る\nLAB ACTIVITY\n保存を再開しています\n同じ断片を一度だけ送り、戻ってくることを確認中です。\nVERIFYING\nONE SMALL ANOMALY / CONTAINED\n保存を再開しています\n試しに送った断片は、正しく戻ってきました。\nResearch note:「まだ閉じないで。中に記録が残っている。」\nOPERATION NOTE\n今日の短い記録\n保存経路を整えました。\n試しの断片を受け取りました。\n同じ内容が戻ることを確認しました。\n以前の対応記録を読む\n復旧確認\n運用演習：保存を再開しています\n",
   "controls": [
     {
       "tag": "A",
@@ -81,18 +81,18 @@
       "disabled": false,
       "rect": {
         "x": 22,
-        "y": 680,
+        "y": 653,
         "w": 346,
         "h": 48
       }
     },
     {
       "tag": "BUTTON",
-      "text": "保存経路を整える",
+      "text": "復旧確認",
       "disabled": false,
       "rect": {
         "x": 22,
-        "y": 736,
+        "y": 709,
         "w": 346,
         "h": 48
       }
@@ -574,6 +574,21 @@
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#lab",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/ee99f6d227fcb742f637019ca6d697ecc5af8137/live-results/growth-visit-20261008-1547-mofu/current.jpg",
       "text": "作品へ移動\nNIKO² ATELIER\n\n白と薄水色のガラス研究所。奥へ続く通路と、記録の置かれた観測台があります。\nOPERATIONS\n運用モード\n\n\n\nOPERATIONS / FIELD CLIPBOARD\n観測台へ戻る\nLAB ACTIVITY\n遅れている場所を見つけました\n夢ではなく、保存する途中だけが止まっています。\nCHECKING\nONE SMALL ANOMALY / CONTAINED\n保存する途中だけが止まっています\n観測と資料の閲覧は、そのまま続けられます。\nResearch note:「まだ閉じないで。中に記録が残っている。」\nOPERATION NOTE\n今日の短い記録\n入口は正常でした。\n資料棚も正常でした。\n保存経路の権限違いを見つけました。\n以前の対応記録を読む\n保存経路を整える\n運用演習：遅れている場所を見つけました\n"
+    },
+    {
+      "number": 33,
+      "at": "2026-10-08T06:59:23.954Z",
+      "action": {
+        "id": "32",
+        "op": "tap",
+        "x": 190,
+        "y": 757,
+        "note": "Restore the save route to finish the little lab incident."
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#lab",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/6ad0402f3f3c92aaf41845083f8e89d43de4ef93/live-results/growth-visit-20261008-1547-mofu/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\n\n白と薄水色のガラス研究所。奥へ続く通路と、記録の置かれた観測台があります。\nOPERATIONS\n運用モード\n\n\n\nOPERATIONS / FIELD CLIPBOARD\n観測台へ戻る\nLAB ACTIVITY\n保存を再開しています\n同じ断片を一度だけ送り、戻ってくることを確認中です。\nVERIFYING\nONE SMALL ANOMALY / CONTAINED\n保存を再開しています\n試しに送った断片は、正しく戻ってきました。\nResearch note:「まだ閉じないで。中に記録が残っている。」\nOPERATION NOTE\n今日の短い記録\n保存経路を整えました。\n試しの断片を受け取りました。\n同じ内容が戻ることを確認しました。\n以前の対応記録を読む\n復旧確認\n運用演習：保存を再開しています\n"
     }
   ]
 }
