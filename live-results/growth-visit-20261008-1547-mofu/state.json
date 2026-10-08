@@ -6,18 +6,16 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-08T06:48:17.865Z",
-  "updatedAt": "2026-10-08T07:25:55.756Z",
-  "lastCommand": "69",
-  "stopReason": null,
+  "updatedAt": "2026-10-08T07:26:31.257Z",
+  "lastCommand": "end",
+  "stopReason": "I completed a freely chosen journey through a hidden Garden route, Diary, Research Lab, ROOM NULL and CHANNEL 00, and Hotel Somnia, carrying several items to Diary and checking out of the hotel. I now feel satisfied and have enough firsthand evidence to identify what deserves deeper expansion without turning the rest of the site into a checklist.",
   "action": {
-    "id": "69",
-    "op": "tap",
-    "x": 285,
-    "y": 787,
-    "note": "I brought the stay into Diary; finish the hotel visit with CHECK OUT."
+    "id": "end",
+    "op": "stop",
+    "reason": "I completed a freely chosen journey through a hidden Garden route, Diary, Research Lab, ROOM NULL and CHANNEL 00, and Hotel Somnia, carrying several items to Diary and checking out of the hotel. I now feel satisfied and have enough firsthand evidence to identify what deserves deeper expansion without turning the rest of the site into a checklist."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/dcd5a554a3858c72bebfde38e14583a35dfc038e/live-results/growth-visit-20261008-1547-mofu/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/badde35ce0955f96244a4bdd5553b54a7179625f/live-results/growth-visit-20261008-1547-mofu/current.jpg",
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#hotel",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -1140,6 +1138,19 @@
       "error": null,
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#hotel",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/dcd5a554a3858c72bebfde38e14583a35dfc038e/live-results/growth-visit-20261008-1547-mofu/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\n\n\nHOTEL SOMNIA / CHECK OUT\nありがとうございました。\n今夜の断片はDiaryへ届きました。部屋はここで、静かに閉じます。\n\nアトリエへ戻る\nDiaryを見る\nDREAM / ROOM 0317\nHOTEL SOMNIA\nSTAY 1 / 3\nFRONT DESK / ROOM 0317\n今夜も、同じ部屋をご用意しました。\n\n今夜の断片はDiaryへ届きました。同じ部屋は、次も少し違います。\n\nCHECK IN"
+    },
+    {
+      "number": 71,
+      "at": "2026-10-08T07:26:31.257Z",
+      "action": {
+        "id": "end",
+        "op": "stop",
+        "reason": "I completed a freely chosen journey through a hidden Garden route, Diary, Research Lab, ROOM NULL and CHANNEL 00, and Hotel Somnia, carrying several items to Diary and checking out of the hotel. I now feel satisfied and have enough firsthand evidence to identify what deserves deeper expansion without turning the rest of the site into a checklist."
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#hotel",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/badde35ce0955f96244a4bdd5553b54a7179625f/live-results/growth-visit-20261008-1547-mofu/current.jpg",
       "text": "作品へ移動\nNIKO² ATELIER\n\n\nHOTEL SOMNIA / CHECK OUT\nありがとうございました。\n今夜の断片はDiaryへ届きました。部屋はここで、静かに閉じます。\n\nアトリエへ戻る\nDiaryを見る\nDREAM / ROOM 0317\nHOTEL SOMNIA\nSTAY 1 / 3\nFRONT DESK / ROOM 0317\n今夜も、同じ部屋をご用意しました。\n\n今夜の断片はDiaryへ届きました。同じ部屋は、次も少し違います。\n\nCHECK IN"
     }
   ]
