@@ -28,7 +28,7 @@ Current smoke scope is **Home entry -> Intro -> Garden** using browser-issued co
 - Bounded: HTML <=8 MiB; each asset <=5 MiB; entire fingerprint <=24 MiB; 16 linked assets maximum. Job timeouts: probe 6 minutes, browser 15 minutes.
 - Cache contains only a tiny digest and PASS/FAIL/UNKNOWN, never site data, credentials, screenshots, Contact submissions or internal documents. Cache is ephemeral and may expire; expiry causes a safe repeat, not data loss.
 - Passing runs retain no screenshots or trace. Failed/uncertain runs may retain one JPEG per device and compact diagnostic JSON for 2 days using an Actions artifact. No new per-step screenshots committed to Git history.
-- Only **GET** to the exact allowed public Combined Preview root/assets. No production endpoint, external navigation, repository write, Cloudflare Deploy, or user data mutation.
+- The fingerprint probe makes read-only GET requests to the exact Combined Preview origin. Browsers may load GET subresources from third-party font/CDN hosts referenced by the Preview, but external **navigation** is blocked and every site write method is rejected. No Production navigation, repo write, Cloudflare Deploy, or user data mutation.
 - Website fingerprint is **not** an immutable source SHA or proof that rights/privacy/release checks passed.
 - GitHub Actions eligibility and owner account-level storage/limits are independent; if runners are unavailable, stop and mark UNKNOWN instead of buying additional capacity.
 
