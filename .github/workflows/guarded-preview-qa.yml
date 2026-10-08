@@ -1,0 +1,124 @@
+name: Cost-guarded Combined Preview smoke
+on:
+  # This single isolated branch trigger exists only for initial QA validation.
+  # It MUST be removed before adopting the workflow on main.
+  push:
+    branches: ['qa/guarded-preview-delta-20261008']
+    paths: ['.github/workflows/guarded-preview-qa.yml']
+  schedule:
+    - cron: '43 14 * * *' # 23:43 Asia/Tokyo; scheduled workflows run on default branch only
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: 'check = changed content only; smoke/full = force recheck'
+        type: choice
+        required: true
+        default: check
+        options: [check, smoke, full]
+
+permissions:
+  contents: read
+concurrency:
+  group: preview-delta-smoke
+  cancel-in-progress: true
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 6
+    outputs:
+      run_browser: ${{ steps.probe.outputs.run_browser }}
+      digest: ${{ steps.probe.outputs.digest }}
+    env:
+      TARGET: https://niko2-atelier-combined-preview.25mochiko25.workers.dev/
+      MODE: ${{ inputs.mode || 'check' }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Static contract and offline tests
+        run: |
+          node --check qa/guarded-preview/policy.cjs
+          node --check qa/guarded-preview/probe.cjs
+          node --check qa/guarded-preview/smoke.cjs
+          node --test qa/guarded-preview/policy.test.cjs
+      - name: Restore last tiny Preview verdict
+        uses: actions/cache/restore@v4
+        with:
+          path: .qa-state/last.json
+          key: niko2-guarded-preview-${{ github.run_id }}
+          restore-keys: |
+            niko2-guarded-preview-
+      - name: Check current published HTML/JS/CSS bytes
+        id: probe
+        run: node qa/guarded-preview/probe.cjs
+      - name: Retain tiny error evidence only
+        if: failure()
+        uses: actions/upload-artifact@v4
+        with:
+          name: preview-probe-unknown
+          path: qa-output/probe-error.json
+          if-no-files-found: ignore
+          retention-days: 2
+      - name: Preserve known failing verdict without another expensive run
+        if: ${{ steps.probe.outputs.known_failure == 'true' }}
+        run: |
+          echo 'Previously tested Preview is still FAIL/UNKNOWN; forcing a manual rerun is allowed.'
+          exit 1
+
+  browser:
+    needs: probe
+    if: ${{ needs.probe.outputs.run_browser == 'true' }}
+    runs-on: ubuntu-latest
+    container:
+      image: mcr.microsoft.com/playwright:v1.55.0-noble
+    timeout-minutes: 15
+    env:
+      TARGET: https://niko2-atelier-combined-preview.25mochiko25.workers.dev/
+      MODE: ${{ inputs.mode || 'check' }}
+      CURRENT_DIGEST: ${{ needs.probe.outputs.digest }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Install pinned Playwright client
+        run: npm install --prefix /tmp/niko2-guarded-qa --no-save --no-package-lock playwright@1.55.0
+      - name: Run bounded isolated browser profiles
+        id: smoke
+        continue-on-error: true
+        run: node qa/guarded-preview/smoke.cjs
+      - name: Record a verdict without committing screenshots or logs
+        if: always()
+        env:
+          RUN_RESULT: ${{ steps.smoke.outcome }}
+        run: |
+          node -e '
+          const fs=require("fs");
+          fs.mkdirSync(".qa-state",{recursive:true});
+          const v=process.env.RUN_RESULT;
+          const status=v==="success"?"PASS":v==="failure"?"FAIL":"UNKNOWN";
+          fs.writeFileSync(".qa-state/last.json",
+            JSON.stringify({digest:process.env.CURRENT_DIGEST,status,observedAt:new Date().toISOString()})+"\n");
+          '
+      - name: Keep a tiny temporary fingerprint/verdict in Actions cache
+        if: always()
+        continue-on-error: true
+        uses: actions/cache/save@v4
+        with:
+          path: .qa-state/last.json
+          key: niko2-guarded-preview-${{ github.run_id }}
+      - name: Failed or uncertain runs only (2-day retention)
+        if: ${{ always() && steps.smoke.outcome != 'success' }}
+        uses: actions/upload-artifact@v4
+        with:
+          name: preview-smoke-failures
+          path: |
+            qa-output/smoke.json
+            qa-output/failures/
+          if-no-files-found: ignore
+          retention-days: 2
+      - name: Never turn FAIL/UNKNOWN into green
+        if: ${{ steps.smoke.outcome != 'success' }}
+        run: exit 1
