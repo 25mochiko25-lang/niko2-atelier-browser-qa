@@ -1,10 +1,6 @@
 name: Cost-guarded Combined Preview smoke
 on:
-  # This single isolated branch trigger exists only for initial QA validation.
-  # It MUST be removed before adopting the workflow on main.
-  push:
-    branches: ['qa/guarded-preview-delta-20261008']
-    paths: ['.github/workflows/guarded-preview-qa.yml']
+  # No push/PR trigger: this does not spawn CI for every small edit.
   schedule:
     - cron: '43 14 * * *' # 23:43 Asia/Tokyo; scheduled workflows run on default branch only
   workflow_dispatch:
@@ -31,7 +27,7 @@ jobs:
       digest: ${{ steps.probe.outputs.digest }}
     env:
       TARGET: https://niko2-atelier-combined-preview.25mochiko25.workers.dev/
-      MODE: ${{ github.event_name == 'push' && 'smoke' || inputs.mode || 'check' }}
+      MODE: ${{ inputs.mode || 'check' }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
@@ -76,7 +72,7 @@ jobs:
     timeout-minutes: 15
     env:
       TARGET: https://niko2-atelier-combined-preview.25mochiko25.workers.dev/
-      MODE: ${{ github.event_name == 'push' && 'smoke' || inputs.mode || 'check' }}
+      MODE: ${{ inputs.mode || 'check' }}
       CURRENT_DIGEST: ${{ needs.probe.outputs.digest }}
     steps:
       - uses: actions/checkout@v4
