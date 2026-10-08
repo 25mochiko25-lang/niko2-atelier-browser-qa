@@ -6,18 +6,18 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-08T06:48:17.865Z",
-  "updatedAt": "2026-10-08T07:07:17.098Z",
-  "lastCommand": "54",
+  "updatedAt": "2026-10-08T07:07:36.881Z",
+  "lastCommand": "55",
   "stopReason": null,
   "action": {
-    "id": "54",
+    "id": "55",
     "op": "tap",
-    "x": 297,
-    "y": 278,
-    "note": "Return to CHANNEL 00; the soda diary mentioned a hotel key, so I want to investigate that connection."
+    "x": 103,
+    "y": 132,
+    "note": "Go to the link directory on the imaginary web."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/7c43be10b6010247f4253bff5ecba473ff3f735e/live-results/growth-visit-20261008-1547-mofu/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/01739eb9437191ffbd894e389f95da6d4e0bc266/live-results/growth-visit-20261008-1547-mofu/current.jpg",
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#channel0",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -29,7 +29,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\nNIKO² ATELIER\n\n\nCHANNEL / CH-00\nCHANNEL 00\n2 pages\n‹\n›\n⌂\nhttp://soda-room.net/diary/0909.html\n×\nsoda's tiny diary\n9月9日　雨\n\nラムネを買った。瓶の底に、知らない空が映っていた。\n\n9月10日　晴れ\n\nホテルの鍵を返した。まだポケットにある。\n\nこの日記は 2028年9月12日に自動保存されました。\n\nindexにもどる\nconnected at 33.6 kbps\n閲覧の断片を持ち帰る\n",
+  "text": "作品へ移動\nNIKO² ATELIER\n\n\nCHANNEL / CH-00\nCHANNEL 00\n2 pages\n‹\n›\n⌂\nchannel00://home/index.html\n×\nCHANNEL 00 LINK DIRECTORY\nYOU ARE VISITOR No. 0001\n\nようこそ、存在しなかったインターネットへ。\n\n好きなリンクからどうぞ。戻れなくなることは、たぶんありません。\n\nMARI'S PRESSED FLOWERS\nsodaの日記\nCloud Garden Weather\nHotel Somnia 公式頁\nLavender BBS\nMoonlight Web Ring\nNIKO² ATELIER / old\nlost_page.html\nconnected at 33.6 kbps\n閲覧の断片を持ち帰る\n",
   "controls": [
     {
       "tag": "A",
@@ -110,13 +110,90 @@
     },
     {
       "tag": "BUTTON",
-      "text": "indexにもどる",
+      "text": "MARI'S PRESSED FLOWERS",
       "disabled": false,
       "rect": {
         "x": 25,
-        "y": 468,
-        "w": 92,
-        "h": 35
+        "y": 412,
+        "w": 340,
+        "h": 46
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "sodaの日記",
+      "disabled": false,
+      "rect": {
+        "x": 25,
+        "y": 471,
+        "w": 340,
+        "h": 46
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Cloud Garden Weather",
+      "disabled": false,
+      "rect": {
+        "x": 25,
+        "y": 530,
+        "w": 340,
+        "h": 46
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Hotel Somnia 公式頁",
+      "disabled": false,
+      "rect": {
+        "x": 25,
+        "y": 589,
+        "w": 340,
+        "h": 46
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Lavender BBS",
+      "disabled": false,
+      "rect": {
+        "x": 25,
+        "y": 648,
+        "w": 340,
+        "h": 46
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Moonlight Web Ring",
+      "disabled": false,
+      "rect": {
+        "x": 25,
+        "y": 707,
+        "w": 340,
+        "h": 46
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "NIKO² ATELIER / old",
+      "disabled": false,
+      "rect": {
+        "x": 25,
+        "y": 766,
+        "w": 340,
+        "h": 46
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "lost_page.html",
+      "disabled": false,
+      "rect": {
+        "x": 25,
+        "y": 825,
+        "w": 340,
+        "h": 46
       }
     },
     {
@@ -949,6 +1026,21 @@
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#channel0",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/7c43be10b6010247f4253bff5ecba473ff3f735e/live-results/growth-visit-20261008-1547-mofu/current.jpg",
       "text": "作品へ移動\nNIKO² ATELIER\n\n\nCHANNEL / CH-00\nCHANNEL 00\n2 pages\n‹\n›\n⌂\nhttp://soda-room.net/diary/0909.html\n×\nsoda's tiny diary\n9月9日　雨\n\nラムネを買った。瓶の底に、知らない空が映っていた。\n\n9月10日　晴れ\n\nホテルの鍵を返した。まだポケットにある。\n\nこの日記は 2028年9月12日に自動保存されました。\n\nindexにもどる\nconnected at 33.6 kbps\n閲覧の断片を持ち帰る\n"
+    },
+    {
+      "number": 56,
+      "at": "2026-10-08T07:07:36.881Z",
+      "action": {
+        "id": "55",
+        "op": "tap",
+        "x": 103,
+        "y": 132,
+        "note": "Go to the link directory on the imaginary web."
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#channel0",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/01739eb9437191ffbd894e389f95da6d4e0bc266/live-results/growth-visit-20261008-1547-mofu/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\n\n\nCHANNEL / CH-00\nCHANNEL 00\n2 pages\n‹\n›\n⌂\nchannel00://home/index.html\n×\nCHANNEL 00 LINK DIRECTORY\nYOU ARE VISITOR No. 0001\n\nようこそ、存在しなかったインターネットへ。\n\n好きなリンクからどうぞ。戻れなくなることは、たぶんありません。\n\nMARI'S PRESSED FLOWERS\nsodaの日記\nCloud Garden Weather\nHotel Somnia 公式頁\nLavender BBS\nMoonlight Web Ring\nNIKO² ATELIER / old\nlost_page.html\nconnected at 33.6 kbps\n閲覧の断片を持ち帰る\n"
     }
   ]
 }
