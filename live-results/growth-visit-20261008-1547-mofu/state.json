@@ -6,18 +6,18 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-08T06:48:17.865Z",
-  "updatedAt": "2026-10-08T06:49:23.753Z",
-  "lastCommand": "02",
+  "updatedAt": "2026-10-08T06:49:45.915Z",
+  "lastCommand": "03",
   "stopReason": null,
   "action": {
-    "id": "02",
+    "id": "03",
     "op": "tap",
-    "x": 337,
-    "y": 771,
-    "note": "Turn to next introduction card."
+    "x": 268,
+    "y": 536,
+    "note": "The tiny '仕舞う' button looks like something I want to test."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/e8fc9e4032da9cf7aaa067ed9c32dcdc16a4e3f8/live-results/growth-visit-20261008-1547-mofu/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/039b0a3b67f20d077f7ef5811590da14649d97d7/live-results/growth-visit-20261008-1547-mofu/current.jpg",
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -173,6 +173,21 @@
       "error": null,
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/e8fc9e4032da9cf7aaa067ed9c32dcdc16a4e3f8/live-results/growth-visit-20261008-1547-mofu/current.jpg",
+      "text": "作品へ移動\n\n\nINTERACTION\n\nSound On\n\nSound Off\n触れる\n持ち帰る\n仕舞う\n次へ戻る"
+    },
+    {
+      "number": 4,
+      "at": "2026-10-08T06:49:45.915Z",
+      "action": {
+        "id": "03",
+        "op": "tap",
+        "x": 268,
+        "y": 536,
+        "note": "The tiny '仕舞う' button looks like something I want to test."
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/039b0a3b67f20d077f7ef5811590da14649d97d7/live-results/growth-visit-20261008-1547-mofu/current.jpg",
       "text": "作品へ移動\n\n\nINTERACTION\n\nSound On\n\nSound Off\n触れる\n持ち帰る\n仕舞う\n次へ戻る"
     }
   ]
