@@ -6,18 +6,18 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-08T06:48:17.865Z",
-  "updatedAt": "2026-10-08T06:51:39.764Z",
-  "lastCommand": "09",
+  "updatedAt": "2026-10-08T06:51:56.883Z",
+  "lastCommand": "10",
   "stopReason": null,
   "action": {
-    "id": "09",
+    "id": "10",
     "op": "tap",
-    "x": 335,
-    "y": 665,
-    "note": "Close the bear fragment, then keep searching around the scene."
+    "x": 371,
+    "y": 609,
+    "note": "There appears to be something on the chair under the bear; touch the lower part."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/0e76d4a9d1cfe1330836048315d0eaa03cf1bda7/live-results/growth-visit-20261008-1547-mofu/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/8264c3056c667a7b8f9cb268d2538e3154cca48c/live-results/growth-visit-20261008-1547-mofu/current.jpg",
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -29,7 +29,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n1 / 5\n見つけたもの\n紙の裏に、消したはずの時刻がひとつ残っている。",
+  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n1 / 5\n見つけたもの\n頁のあいだから、まだ枯れていない昨日が滑り落ちた。",
   "controls": [
     {
       "tag": "BUTTON",
@@ -345,6 +345,21 @@
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/0e76d4a9d1cfe1330836048315d0eaa03cf1bda7/live-results/growth-visit-20261008-1547-mofu/current.jpg",
       "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n1 / 5\n見つけたもの\n紙の裏に、消したはずの時刻がひとつ残っている。"
+    },
+    {
+      "number": 11,
+      "at": "2026-10-08T06:51:56.883Z",
+      "action": {
+        "id": "10",
+        "op": "tap",
+        "x": 371,
+        "y": 609,
+        "note": "There appears to be something on the chair under the bear; touch the lower part."
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/8264c3056c667a7b8f9cb268d2538e3154cca48c/live-results/growth-visit-20261008-1547-mofu/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n1 / 5\n見つけたもの\n頁のあいだから、まだ枯れていない昨日が滑り落ちた。"
     }
   ]
 }
