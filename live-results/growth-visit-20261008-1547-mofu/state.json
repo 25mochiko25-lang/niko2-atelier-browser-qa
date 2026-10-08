@@ -6,18 +6,18 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-08T06:48:17.865Z",
-  "updatedAt": "2026-10-08T06:56:34.335Z",
-  "lastCommand": "23",
+  "updatedAt": "2026-10-08T06:56:51.386Z",
+  "lastCommand": "24",
   "stopReason": null,
   "action": {
-    "id": "23",
+    "id": "24",
     "op": "tap",
-    "x": 191,
-    "y": 375,
-    "note": "A Research Lab invitation appeared after the short Garden visit. I'm curious where it leads."
+    "x": 109,
+    "y": 646,
+    "note": "Enter the lab to see what experiment is here."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/d50b3e5d26ec508523aa9e88567f0c39aa224e56/live-results/growth-visit-20261008-1547-mofu/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/9c7a1e93e40a21b21816b21b74110a37b1a94ae0/live-results/growth-visit-20261008-1547-mofu/current.jpg",
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#lab",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -29,7 +29,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\nNIKO² ATELIER\n\n白と薄水色のガラス研究所。奥へ続く通路と、記録の置かれた観測台があります。\nMAIN LAB\n観測台\n\nRESEARCH LAB\n\n少し、\n見ていく。\n入る\n観測台奥の保管室へ進む\n",
+  "text": "作品へ移動\nNIKO² ATELIER\n\n白と薄水色のガラス研究所。奥へ続く通路と、記録の置かれた観測台があります。\nMAIN LAB\n観測台\n\n\n\n観測台奥の保管室へ進む\n",
   "controls": [
     {
       "tag": "A",
@@ -62,17 +62,6 @@
         "y": 82,
         "w": 40,
         "h": 40
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "入る",
-      "disabled": false,
-      "rect": {
-        "x": 24,
-        "y": 623,
-        "w": 184,
-        "h": 46
       }
     },
     {
@@ -465,6 +454,21 @@
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#lab",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/d50b3e5d26ec508523aa9e88567f0c39aa224e56/live-results/growth-visit-20261008-1547-mofu/current.jpg",
       "text": "作品へ移動\nNIKO² ATELIER\n\n白と薄水色のガラス研究所。奥へ続く通路と、記録の置かれた観測台があります。\nMAIN LAB\n観測台\n\nRESEARCH LAB\n\n少し、\n見ていく。\n入る\n観測台奥の保管室へ進む\n"
+    },
+    {
+      "number": 25,
+      "at": "2026-10-08T06:56:51.386Z",
+      "action": {
+        "id": "24",
+        "op": "tap",
+        "x": 109,
+        "y": 646,
+        "note": "Enter the lab to see what experiment is here."
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#lab",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/9c7a1e93e40a21b21816b21b74110a37b1a94ae0/live-results/growth-visit-20261008-1547-mofu/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\n\n白と薄水色のガラス研究所。奥へ続く通路と、記録の置かれた観測台があります。\nMAIN LAB\n観測台\n\n\n\n観測台奥の保管室へ進む\n"
     }
   ]
 }
