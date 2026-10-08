@@ -6,19 +6,19 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-08T06:48:17.865Z",
-  "updatedAt": "2026-10-08T06:52:17.227Z",
-  "lastCommand": "11",
+  "updatedAt": "2026-10-08T06:52:42.370Z",
+  "lastCommand": "12",
   "stopReason": null,
   "action": {
-    "id": "11",
+    "id": "12",
     "op": "tap",
-    "x": 149,
-    "y": 467,
-    "note": "Try the tea pot for a quiet side detail."
+    "x": 348,
+    "y": 71,
+    "note": "The tiny '夢の見覚え' label has been catching my eye; open it."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/30a82558abd92923154a9d77381881602871cdda/live-results/growth-visit-20261008-1547-mofu/current.jpg",
-  "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/8283a83dac4b49fb322358c0e02e9a19011fb094/live-results/growth-visit-20261008-1547-mofu/current.jpg",
+  "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#quiet",
   "title": "NIKO² ATELIER",
   "viewport": {
     "width": 390,
@@ -29,7 +29,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n1 / 5\n見つけたもの\n蓋が小さく鳴った。湯気だけが、席を立とうとしている。",
+  "text": "作品へ移動\n夢の見覚え ✧︎\n白い街が、門の向こうで一斉に組み上がった。\n\n",
   "controls": [
     {
       "tag": "BUTTON",
@@ -51,149 +51,6 @@
         "y": 56,
         "w": 61,
         "h": 30
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "止まりかけの砂時計に触れる",
-      "disabled": false,
-      "rect": {
-        "x": -47,
-        "y": 354,
-        "w": 137,
-        "h": 142
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "N² Eau de rêveに触れる",
-      "disabled": false,
-      "rect": {
-        "x": 42,
-        "y": 483,
-        "w": 72,
-        "h": 88
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "まだあたたかいカップに触れる",
-      "disabled": false,
-      "rect": {
-        "x": 172,
-        "y": 479,
-        "w": 86,
-        "h": 68
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "置き去りのくま（発見済み）",
-      "disabled": false,
-      "rect": {
-        "x": 280,
-        "y": 442,
-        "w": 164,
-        "h": 142
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "青いリボンの鍵に触れる",
-      "disabled": false,
-      "rect": {
-        "x": 110,
-        "y": 535,
-        "w": 89,
-        "h": 72
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "テーブルのメモをめくる",
-      "disabled": false,
-      "rect": {
-        "x": 174,
-        "y": 539,
-        "w": 83,
-        "h": 63
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "くまのそばの本を開く",
-      "disabled": false,
-      "rect": {
-        "x": 312,
-        "y": 537,
-        "w": 109,
-        "h": 88
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "ティーポットに触れる",
-      "disabled": false,
-      "rect": {
-        "x": 105,
-        "y": 432,
-        "w": 95,
-        "h": 98
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "花に触れる",
-      "disabled": false,
-      "rect": {
-        "x": -17,
-        "y": 293,
-        "w": 140,
-        "h": 122
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "水面に触れる",
-      "disabled": false,
-      "rect": {
-        "x": 186,
-        "y": 286,
-        "w": 189,
-        "h": 149
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "レースのカーテンに触れる",
-      "disabled": false,
-      "rect": {
-        "x": 0,
-        "y": 158,
-        "w": 68,
-        "h": 230
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "石の柱を軽く叩く",
-      "disabled": false,
-      "rect": {
-        "x": 51,
-        "y": 192,
-        "w": 104,
-        "h": 210
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "遠くの白い門に触れる",
-      "disabled": false,
-      "rect": {
-        "x": 267,
-        "y": 178,
-        "w": 72,
-        "h": 95
       }
     }
   ],
@@ -375,6 +232,21 @@
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/30a82558abd92923154a9d77381881602871cdda/live-results/growth-visit-20261008-1547-mofu/current.jpg",
       "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n1 / 5\n見つけたもの\n蓋が小さく鳴った。湯気だけが、席を立とうとしている。"
+    },
+    {
+      "number": 13,
+      "at": "2026-10-08T06:52:42.370Z",
+      "action": {
+        "id": "12",
+        "op": "tap",
+        "x": 348,
+        "y": 71,
+        "note": "The tiny '夢の見覚え' label has been catching my eye; open it."
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#quiet",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/8283a83dac4b49fb322358c0e02e9a19011fb094/live-results/growth-visit-20261008-1547-mofu/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n白い街が、門の向こうで一斉に組み上がった。\n\n"
     }
   ]
 }
