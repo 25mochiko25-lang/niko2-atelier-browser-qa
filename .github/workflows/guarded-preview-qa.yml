@@ -31,7 +31,7 @@ jobs:
       digest: ${{ steps.probe.outputs.digest }}
     env:
       TARGET: https://niko2-atelier-combined-preview.25mochiko25.workers.dev/
-      MODE: ${{ inputs.mode || 'check' }}
+      MODE: ${{ github.event_name == 'push' && 'smoke' || inputs.mode || 'check' }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
@@ -76,7 +76,7 @@ jobs:
     timeout-minutes: 15
     env:
       TARGET: https://niko2-atelier-combined-preview.25mochiko25.workers.dev/
-      MODE: ${{ inputs.mode || 'check' }}
+      MODE: ${{ github.event_name == 'push' && 'smoke' || inputs.mode || 'check' }}
       CURRENT_DIGEST: ${{ needs.probe.outputs.digest }}
     steps:
       - uses: actions/checkout@v4
