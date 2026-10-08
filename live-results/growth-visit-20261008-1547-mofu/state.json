@@ -6,19 +6,19 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-08T06:48:17.865Z",
-  "updatedAt": "2026-10-08T07:01:48.114Z",
-  "lastCommand": "39",
+  "updatedAt": "2026-10-08T07:01:57.407Z",
+  "lastCommand": "40",
   "stopReason": null,
   "action": {
-    "id": "39",
+    "id": "40",
     "op": "tap",
-    "x": 351,
-    "y": 163,
-    "note": "Close this odd door experiment."
+    "x": 80,
+    "y": 38,
+    "note": "Return toward the atelier's World choices; there might be a matching doorway elsewhere."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/cfc855e3df3d39019c5e7b0208acf671aea80756/live-results/growth-visit-20261008-1547-mofu/current.jpg",
-  "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#lab",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/fb44e1a3e9dc799eb2ed823fa0463d8eb8bbe815/live-results/growth-visit-20261008-1547-mofu/current.jpg",
+  "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
   "title": "NIKO² ATELIER",
   "viewport": {
     "width": 390,
@@ -29,19 +29,8 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\nNIKO² ATELIER\n\n白と薄水色のガラス研究所。奥へ続く通路と、記録の置かれた観測台があります。\nARCHIVE CHAMBER\n奥の保管室\n\n\n\n\nDOOR EXPERIMENT / D-00を開きました。\n",
+  "text": "作品へ移動\n \nWORLD\nWORLD\n水面の向こうに、いくつかの場所がひらいています。\n\n\nABOUT\nもふもふはいます。\nPLAY / SHARE / FAN WORK\nNIKO²での生活について\n好きな形で遊ぶための、小さな境界。\nDEAR ATELIER\nお手紙を送る\nAtelierの受取箱へ。\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n",
   "controls": [
-    {
-      "tag": "A",
-      "text": "NIKO² ATELIER",
-      "disabled": false,
-      "rect": {
-        "x": 25,
-        "y": 23,
-        "w": 124,
-        "h": 29
-      }
-    },
     {
       "tag": "BUTTON",
       "text": "音をオンにする",
@@ -54,47 +43,36 @@
       }
     },
     {
-      "tag": "BUTTON",
-      "text": "戻る",
+      "tag": "A",
+      "text": "FROM THE ATELIERを開く",
+      "disabled": false,
+      "rect": {
+        "x": 279,
+        "y": 274,
+        "w": 91,
+        "h": 92
+      }
+    },
+    {
+      "tag": "A",
+      "text": "Diaryを開く",
       "disabled": false,
       "rect": {
         "x": 14,
-        "y": 82,
-        "w": 40,
-        "h": 40
+        "y": 298,
+        "w": 147,
+        "h": 147
       }
     },
     {
       "tag": "BUTTON",
-      "text": "青い返却トレイの仮留め資料、研究用マシュマロ消失事件を読む",
+      "text": "Enter the dream",
       "disabled": false,
       "rect": {
-        "x": 60,
-        "y": 462,
-        "w": 108,
-        "h": 63
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "オレンジの保留ポッドに入った保管スリーブ、向こうから先にノックされた扉を読む",
-      "disabled": false,
-      "rect": {
-        "x": 250,
-        "y": 486,
-        "w": 81,
-        "h": 73
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "旧端末に触れる",
-      "disabled": false,
-      "rect": {
-        "x": 172,
-        "y": 330,
-        "w": 159,
-        "h": 136
+        "x": 90,
+        "y": 494,
+        "w": 210,
+        "h": 70
       }
     }
   ],
@@ -694,6 +672,21 @@
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#lab",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/cfc855e3df3d39019c5e7b0208acf671aea80756/live-results/growth-visit-20261008-1547-mofu/current.jpg",
       "text": "作品へ移動\nNIKO² ATELIER\n\n白と薄水色のガラス研究所。奥へ続く通路と、記録の置かれた観測台があります。\nARCHIVE CHAMBER\n奥の保管室\n\n\n\n\nDOOR EXPERIMENT / D-00を開きました。\n"
+    },
+    {
+      "number": 41,
+      "at": "2026-10-08T07:01:57.407Z",
+      "action": {
+        "id": "40",
+        "op": "tap",
+        "x": 80,
+        "y": 38,
+        "note": "Return toward the atelier's World choices; there might be a matching doorway elsewhere."
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/fb44e1a3e9dc799eb2ed823fa0463d8eb8bbe815/live-results/growth-visit-20261008-1547-mofu/current.jpg",
+      "text": "作品へ移動\n \nWORLD\nWORLD\n水面の向こうに、いくつかの場所がひらいています。\n\n\nABOUT\nもふもふはいます。\nPLAY / SHARE / FAN WORK\nNIKO²での生活について\n好きな形で遊ぶための、小さな境界。\nDEAR ATELIER\nお手紙を送る\nAtelierの受取箱へ。\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n"
     }
   ]
 }
