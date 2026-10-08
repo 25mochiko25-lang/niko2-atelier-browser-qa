@@ -73,17 +73,27 @@ jobs:
     env:
       TARGET: https://niko2-atelier-combined-preview.25mochiko25.workers.dev/
       MODE: ${{ inputs.mode || 'check' }}
+      CURRENT_DIGEST: ${{ needs.probe.outputs.digest }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
         with:
           node-version: 22
+      - name: Verify public bytes match probe before clicking
+        run: |
+          node qa/guarded-preview/probe.cjs
+          node -e 'const f=require("./qa-output/probe.json");if(f.digest!==process.env.CURRENT_DIGEST){console.error("Preview bytes changed before browser; UNKNOWN");process.exit(2)}'
       - name: Install pinned Playwright client
         run: npm install --prefix /tmp/niko2-guarded-qa --no-save --no-package-lock playwright@1.55.0
       - name: Run bounded isolated browser profiles
         id: smoke
         continue-on-error: true
         run: node qa/guarded-preview/smoke.cjs
+      - name: Verify public bytes did not drift during browser QA
+        if: always()
+        run: |
+          node qa/guarded-preview/probe.cjs
+          node -e 'const f=require("./qa-output/probe.json");if(f.digest!==process.env.CURRENT_DIGEST){console.error("Preview bytes changed during browser; UNKNOWN");process.exit(2)}'
       - name: Failed or uncertain runs only (2-day retention)
         if: ${{ always() && steps.smoke.outcome != 'success' }}
         uses: actions/upload-artifact@v4
@@ -91,6 +101,7 @@ jobs:
           name: preview-smoke-failures
           path: |
             qa-output/smoke.json
+            qa-output/probe-error.json
             qa-output/failures/
           if-no-files-found: ignore
           retention-days: 2
