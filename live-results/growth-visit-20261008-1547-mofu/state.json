@@ -6,18 +6,18 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-08T06:48:17.865Z",
-  "updatedAt": "2026-10-08T07:10:40.633Z",
-  "lastCommand": "64",
+  "updatedAt": "2026-10-08T07:10:50.409Z",
+  "lastCommand": "65",
   "stopReason": null,
   "action": {
-    "id": "64",
+    "id": "65",
     "op": "tap",
-    "x": 355,
-    "y": 643,
-    "note": "Close the room-service detail to see the changed room."
+    "x": 89,
+    "y": 275,
+    "note": "The window now has somebody else's rain; touch it."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/aa3e5978a8e4b7c21c20a8bc8b0c2dbc3e71cd40/live-results/growth-visit-20261008-1547-mofu/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/7e1c47d75dd15d3301ce0f8315575f0fbe6f4901/live-results/growth-visit-20261008-1547-mofu/current.jpg",
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#hotel",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -1054,6 +1054,21 @@
       "error": null,
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#hotel",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/aa3e5978a8e4b7c21c20a8bc8b0c2dbc3e71cd40/live-results/growth-visit-20261008-1547-mofu/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\n\n\nDREAM / ROOM 0317\nHOTEL SOMNIA\nSTAY 0 / 3\nORDER LIST"
+    },
+    {
+      "number": 66,
+      "at": "2026-10-08T07:10:50.409Z",
+      "action": {
+        "id": "65",
+        "op": "tap",
+        "x": 89,
+        "y": 275,
+        "note": "The window now has somebody else's rain; touch it."
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#hotel",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/7e1c47d75dd15d3301ce0f8315575f0fbe6f4901/live-results/growth-visit-20261008-1547-mofu/current.jpg",
       "text": "作品へ移動\nNIKO² ATELIER\n\n\nDREAM / ROOM 0317\nHOTEL SOMNIA\nSTAY 0 / 3\nORDER LIST"
     }
   ]
