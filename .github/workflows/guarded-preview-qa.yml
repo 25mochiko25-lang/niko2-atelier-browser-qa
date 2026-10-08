@@ -1,9 +1,6 @@
 name: Cost-guarded Combined Preview smoke
 on:
-  # TEMPORARY: isolated cache reader skip validation; remove before main.
-  push:
-    branches: ['qa/guarded-preview-delta-20261008']
-    paths: ['.github/workflows/guarded-preview-qa.yml']
+  # NO push/PR trigger. One cheap daily probe only after adoption.
   schedule:
     - cron: '43 14 * * *' # 23:43 Asia/Tokyo; scheduled workflows run on default branch only
   workflow_dispatch:
