@@ -4,7 +4,7 @@
 // or make a request to Production or to a write endpoint.
 const fs = require('node:fs');
 const path = require('node:path');
-const { TARGET, validateTarget, hashBytes, discoverAssets, contentDigest, shouldRun } = require('./policy.cjs');
+const { TARGET, validateTarget, hashBytes, discoverAssets, contentDigest, planVerdict } = require('./policy.cjs');
 
 const MAX_HTML = 8 * 1024 * 1024;
 const MAX_ASSET = 5 * 1024 * 1024;
@@ -60,11 +60,7 @@ async function main() {
   try { previous = JSON.parse(fs.readFileSync(CACHE, 'utf8')); } catch (e) {
     if (e.code !== 'ENOENT') throw e;
   }
-  const changed = !previous || previous.digest !== digest;
-  const previousStatus = previous && previous.status || null;
-  const knownFailure = mode === 'check' && !changed && (previousStatus === 'FAIL' || previousStatus === 'UNKNOWN');
-  const runBrowser = !knownFailure && (shouldRun(mode, digest, previous && previous.digest) ||
-    (mode === 'check' && !changed && previousStatus !== 'PASS'));
+  const { changed, previousStatus, knownFailure, runBrowser } = planVerdict(mode, digest, previous);
   const current = {
     target: target.href,
     digest,
