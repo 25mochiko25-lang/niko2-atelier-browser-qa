@@ -1,1 +1,1 @@
-{"id":"46","op":"look","wait":2500,"note":"Wait briefly for the cabinet display to reveal its contents."}
+{"id":"47","op":"key","key":"PageDown","note":"Look below the cabinet portrait to see whether saved items are listed there."}
