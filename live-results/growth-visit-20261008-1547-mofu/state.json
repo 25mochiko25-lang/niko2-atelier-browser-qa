@@ -6,18 +6,18 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-08T06:48:17.865Z",
-  "updatedAt": "2026-10-08T07:05:18.741Z",
-  "lastCommand": "50",
+  "updatedAt": "2026-10-08T07:05:38.300Z",
+  "lastCommand": "51",
   "stopReason": null,
   "action": {
-    "id": "50",
+    "id": "51",
     "op": "tap",
-    "x": 70,
-    "y": 384,
-    "note": "The little laptop on the bedside cabinet calls to me more than the furniture now."
+    "x": 194,
+    "y": 483,
+    "note": "Connect to the impossible internet and see what's there."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/1d9dc8a8af64ad50612c268a75df789cbd60ad9e/live-results/growth-visit-20261008-1547-mofu/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/821a3ac66c4a1477fa574b5b0914a9378f9694de/live-results/growth-visit-20261008-1547-mofu/current.jpg",
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#channel0",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -29,7 +29,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\nNIKO² ATELIER\n\n\nCHANNEL / CH-00\nCHANNEL 00\n0 pages\n存在しなかったインターネット。\n\nPOWER / 接続する",
+  "text": "作品へ移動\nNIKO² ATELIER\n\n\nCHANNEL / CH-00\nCHANNEL 00\n1 pages\n‹\n›\n⌂\nchannel00://home/index.html\n×\nCHANNEL 00 LINK DIRECTORY\nYOU ARE VISITOR No. 0001\n\nようこそ、存在しなかったインターネットへ。\n\n好きなリンクからどうぞ。戻れなくなることは、たぶんありません。\n\nMARI'S PRESSED FLOWERS\nsodaの日記\nCloud Garden Weather\nHotel Somnia 公式頁\nLavender BBS\nMoonlight Web Ring\nNIKO² ATELIER / old\nlost_page.html\nconnected at 33.6 kbps\n閲覧の断片を持ち帰る\n",
   "controls": [
     {
       "tag": "A",
@@ -66,13 +66,145 @@
     },
     {
       "tag": "BUTTON",
-      "text": "POWER / 接続する",
+      "text": "‹",
+      "disabled": true,
+      "rect": {
+        "x": 17,
+        "y": 117,
+        "w": 31,
+        "h": 28
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "›",
+      "disabled": true,
+      "rect": {
+        "x": 52,
+        "y": 117,
+        "w": 31,
+        "h": 28
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "⌂",
       "disabled": false,
       "rect": {
-        "x": 113,
-        "y": 460,
-        "w": 164,
-        "h": 47
+        "x": 87,
+        "y": 117,
+        "w": 31,
+        "h": 28
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "×",
+      "disabled": false,
+      "rect": {
+        "x": 341,
+        "y": 117,
+        "w": 31,
+        "h": 28
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "MARI'S PRESSED FLOWERS",
+      "disabled": false,
+      "rect": {
+        "x": 25,
+        "y": 412,
+        "w": 340,
+        "h": 46
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "sodaの日記",
+      "disabled": false,
+      "rect": {
+        "x": 25,
+        "y": 471,
+        "w": 340,
+        "h": 46
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Cloud Garden Weather",
+      "disabled": false,
+      "rect": {
+        "x": 25,
+        "y": 530,
+        "w": 340,
+        "h": 46
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Hotel Somnia 公式頁",
+      "disabled": false,
+      "rect": {
+        "x": 25,
+        "y": 589,
+        "w": 340,
+        "h": 46
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Lavender BBS",
+      "disabled": false,
+      "rect": {
+        "x": 25,
+        "y": 648,
+        "w": 340,
+        "h": 46
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Moonlight Web Ring",
+      "disabled": false,
+      "rect": {
+        "x": 25,
+        "y": 707,
+        "w": 340,
+        "h": 46
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "NIKO² ATELIER / old",
+      "disabled": false,
+      "rect": {
+        "x": 25,
+        "y": 766,
+        "w": 340,
+        "h": 46
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "lost_page.html",
+      "disabled": false,
+      "rect": {
+        "x": 25,
+        "y": 825,
+        "w": 340,
+        "h": 46
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "閲覧の断片を持ち帰る",
+      "disabled": false,
+      "rect": {
+        "x": 246,
+        "y": 765,
+        "w": 125,
+        "h": 30
       }
     }
   ],
@@ -834,6 +966,21 @@
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#channel0",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/1d9dc8a8af64ad50612c268a75df789cbd60ad9e/live-results/growth-visit-20261008-1547-mofu/current.jpg",
       "text": "作品へ移動\nNIKO² ATELIER\n\n\nCHANNEL / CH-00\nCHANNEL 00\n0 pages\n存在しなかったインターネット。\n\nPOWER / 接続する"
+    },
+    {
+      "number": 52,
+      "at": "2026-10-08T07:05:38.300Z",
+      "action": {
+        "id": "51",
+        "op": "tap",
+        "x": 194,
+        "y": 483,
+        "note": "Connect to the impossible internet and see what's there."
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#channel0",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/821a3ac66c4a1477fa574b5b0914a9378f9694de/live-results/growth-visit-20261008-1547-mofu/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\n\n\nCHANNEL / CH-00\nCHANNEL 00\n1 pages\n‹\n›\n⌂\nchannel00://home/index.html\n×\nCHANNEL 00 LINK DIRECTORY\nYOU ARE VISITOR No. 0001\n\nようこそ、存在しなかったインターネットへ。\n\n好きなリンクからどうぞ。戻れなくなることは、たぶんありません。\n\nMARI'S PRESSED FLOWERS\nsodaの日記\nCloud Garden Weather\nHotel Somnia 公式頁\nLavender BBS\nMoonlight Web Ring\nNIKO² ATELIER / old\nlost_page.html\nconnected at 33.6 kbps\n閲覧の断片を持ち帰る\n"
     }
   ]
 }
