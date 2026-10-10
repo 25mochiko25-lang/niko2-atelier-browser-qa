@@ -6,19 +6,19 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-10T02:50:21.490Z",
-  "updatedAt": "2026-10-10T02:55:15.794Z",
-  "lastCommand": "g11-gate-second",
+  "updatedAt": "2026-10-10T02:55:38.094Z",
+  "lastCommand": "g12-bear",
   "stopReason": null,
   "action": {
-    "id": "g11-gate-second",
+    "id": "g12-bear",
     "op": "tap",
-    "x": 306,
-    "y": 221,
-    "wait": 1300,
-    "note": "The gate first hinted a keyhole light extinguishing. As a game player I want to see if the repeated gate tap is a skip or alternate exit, without source knowledge."
+    "x": 343,
+    "y": 499,
+    "wait": 350,
+    "note": "Second gate tap left me in 2/5 Garden with no visible transition; return to collectible challenge. Tap teddy."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/3e92031f5f13dd237f04e1815b71fcae54741909/live-results/gameplay-20261010-06/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/8d7763b6285152170585ce5382bc3f061e8b59e8/live-results/gameplay-20261010-06/current.jpg",
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -30,7 +30,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n2 / 5\n見つけたもの\n取っ手の向こうで、鍵穴の光がひとつ消えた。",
+  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n3 / 5\n見つけたもの\nCG-01-A_03.DRM\n11:55:35\n\nFRAGMENT / 03\n\n置き去りのくま\n名前はもうない。それでも、いつもの方を向いている。\n取っ手の向こうで、鍵穴の光がひとつ消えた。",
   "controls": [
     {
       "tag": "BUTTON",
@@ -89,7 +89,7 @@
     },
     {
       "tag": "BUTTON",
-      "text": "置き去りのくまに触れる",
+      "text": "置き去りのくま（発見済み）",
       "disabled": false,
       "rect": {
         "x": 280,
@@ -195,6 +195,17 @@
         "y": 178,
         "w": 72,
         "h": 95
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "見つけた記憶を閉じる",
+      "disabled": false,
+      "rect": {
+        "x": 324,
+        "y": 654,
+        "w": 24,
+        "h": 23
       }
     }
   ],
@@ -419,6 +430,22 @@
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/3e92031f5f13dd237f04e1815b71fcae54741909/live-results/gameplay-20261010-06/current.jpg",
       "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n2 / 5\n見つけたもの\n取っ手の向こうで、鍵穴の光がひとつ消えた。"
+    },
+    {
+      "number": 15,
+      "at": "2026-10-10T02:55:38.094Z",
+      "action": {
+        "id": "g12-bear",
+        "op": "tap",
+        "x": 343,
+        "y": 499,
+        "wait": 350,
+        "note": "Second gate tap left me in 2/5 Garden with no visible transition; return to collectible challenge. Tap teddy."
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/8d7763b6285152170585ce5382bc3f061e8b59e8/live-results/gameplay-20261010-06/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n3 / 5\n見つけたもの\nCG-01-A_03.DRM\n11:55:35\n\nFRAGMENT / 03\n\n置き去りのくま\n名前はもうない。それでも、いつもの方を向いている。\n取っ手の向こうで、鍵穴の光がひとつ消えた。"
     }
   ]
 }
