@@ -6,14 +6,19 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-10T02:45:03.217Z",
-  "updatedAt": "2026-10-10T02:45:08.485Z",
-  "lastCommand": null,
+  "updatedAt": "2026-10-10T02:45:40.386Z",
+  "lastCommand": "l01-enter",
   "stopReason": null,
   "action": {
-    "op": "arrival"
+    "id": "l01-enter",
+    "op": "tap",
+    "x": 195,
+    "y": 529,
+    "wait": 550,
+    "note": "The title offers a dreamy portal but no prose yet; enter to read what the experience says."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/664141ed0cf6a12f70e86660a07d69cd1e5d2fd0/live-results/literary-20261010-05/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/522aee848522ffb572a9b1ce229c738fa0e4452b/live-results/literary-20261010-05/current.jpg",
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -25,7 +30,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n\n",
+  "text": "作品へ移動\n\n\nWORLD\n夢の入り口は、毎回すこし違う。\n次へ",
   "controls": [
     {
       "tag": "BUTTON",
@@ -48,6 +53,17 @@
         "w": 210,
         "h": 70
       }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "次へ",
+      "disabled": false,
+      "rect": {
+        "x": 300,
+        "y": 748,
+        "w": 72,
+        "h": 44
+      }
     }
   ],
   "pageErrors": [],
@@ -63,6 +79,22 @@
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/664141ed0cf6a12f70e86660a07d69cd1e5d2fd0/live-results/literary-20261010-05/current.jpg",
       "text": "作品へ移動\n\n"
+    },
+    {
+      "number": 2,
+      "at": "2026-10-10T02:45:40.386Z",
+      "action": {
+        "id": "l01-enter",
+        "op": "tap",
+        "x": 195,
+        "y": 529,
+        "wait": 550,
+        "note": "The title offers a dreamy portal but no prose yet; enter to read what the experience says."
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/522aee848522ffb572a9b1ce229c738fa0e4452b/live-results/literary-20261010-05/current.jpg",
+      "text": "作品へ移動\n\n\nWORLD\n夢の入り口は、毎回すこし違う。\n次へ"
     }
   ]
 }
