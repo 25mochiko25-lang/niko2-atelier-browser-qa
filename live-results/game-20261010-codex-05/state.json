@@ -6,18 +6,18 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-10T02:45:22.701Z",
-  "updatedAt": "2026-10-10T02:47:27.977Z",
-  "lastCommand": "g03",
+  "updatedAt": "2026-10-10T02:48:00.765Z",
+  "lastCommand": "g04",
   "stopReason": null,
   "action": {
-    "id": "g03",
+    "id": "g04",
     "op": "tap",
-    "x": 117,
-    "y": 539,
-    "note": "触れる・持ち帰る・仕舞うが遊び方に見える。まず触れるを試す。"
+    "x": 195,
+    "y": 538,
+    "note": "触れるは選択色だけに見えた。持ち帰るで何を入手できるか見たい。"
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/db34b77270e54f2d1f1b6b3ab2dbe64daa6e6dd3/live-results/game-20261010-codex-05/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/e2acccea692654b98f455ddcf5aaccfe6db3eb0f/live-results/game-20261010-codex-05/current.jpg",
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -188,6 +188,21 @@
       "error": null,
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/db34b77270e54f2d1f1b6b3ab2dbe64daa6e6dd3/live-results/game-20261010-codex-05/current.jpg",
+      "text": "作品へ移動\n\n\nINTERACTION\n\nSound On\n\nSound Off\n触れる\n持ち帰る\n仕舞う\n次へ戻る"
+    },
+    {
+      "number": 5,
+      "at": "2026-10-10T02:48:00.765Z",
+      "action": {
+        "id": "g04",
+        "op": "tap",
+        "x": 195,
+        "y": 538,
+        "note": "触れるは選択色だけに見えた。持ち帰るで何を入手できるか見たい。"
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/e2acccea692654b98f455ddcf5aaccfe6db3eb0f/live-results/game-20261010-codex-05/current.jpg",
       "text": "作品へ移動\n\n\nINTERACTION\n\nSound On\n\nSound Off\n触れる\n持ち帰る\n仕舞う\n次へ戻る"
     }
   ]
