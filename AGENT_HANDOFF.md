@@ -71,3 +71,17 @@ For each: place/state / immediately preceding action / what happened / practical
 For each: place/state / what felt wrong or confusing / why it stood out.
 
 Do not add redesign proposals unless explicitly asked. State what remained untested. Do not treat an infrastructure interruption as a completed visitor evaluation.
+
+## Game-literacy and genre-aware criticism (Founder, 2026-10-10)
+
+**The first-time browser pass stays blind; the later expert assessment must be literate, not naïve.** These are separate stages and must not be conflated:
+
+1. **Blind observation**: interact with the actual screen without consulting private specifications; record only what was visibly done and what happened. A role-played early departure is a chosen simulation endpoint, **not a human retention statistic, not proof of a real person's boredom**.
+2. **Convention recognition**: after freezing the first-impression report, check ordinary game / interactive-web conventions (skip, collectables, gates, level exit, inventory, save, revisit, tutorial). Consult documented implementation intent or Founder clarification at this stage if needed; never misreport a conventional skip as a newly discovered deep hidden route. Distinguish deliberately undisclosed details from normal gameplay affordances.
+3. **Artistic divergence and quality judgment**: explain how NIKO² differs from those conventions, and ask whether the divergence is enjoyable, intriguing, distracting, or simply friction. Separate (a) operational failures, (b) deliberate mystery/inconvenience, (c) aesthetic preference, and (d) genre-specific originality. Critique the aesthetic **on its own terms**; do not assert the author must make it conventional or remove visible AI identity.
+
+**Known Garden clarification**: the top-right `夢の見覚え ✧︎` in the 2026-10-10 dreamcore visit is an intentional **skip route** leading to the floating garden/petal, not a mysterious deep branch. The observed visuals are real, but earlier praise for independently uncovering an advanced secret was a reviewer error. The pre-5/5 gate behavior needs separate spec/implementation comparison before calling it broken or magical.
+
+**Tutorial design constraint**: it was intentionally kept short so visitors start playing quickly. Founder considers current text readable enough and rejects turning it into a dense, oversized instruction screen. Do not recommend more words, large fonts or a dramatic restyle just because a 390px screenshot contains small pale type. Human readability is not established by an AI agent successfully clicking buttons, since it may use DOM text and control rectangles. Only concrete, reproduced comprehension or legibility failures justify a *minimal* targeted change, with the existing composition preserved.
+
+**Garden design constraint**: the deliberately approachable, sweet, beautiful first Garden has a role. Some visitors choosing to leave is an acceptable design trade-off, not a mandate to add overt weirdness or reveal deeper surprises. In evaluation, consider the value of a welcoming shallows separately from later complexity.
