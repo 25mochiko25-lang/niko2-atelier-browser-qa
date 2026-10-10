@@ -6,17 +6,19 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-10T02:50:21.490Z",
-  "updatedAt": "2026-10-10T02:57:36.001Z",
-  "lastCommand": "g18-wait",
+  "updatedAt": "2026-10-10T02:57:53.238Z",
+  "lastCommand": "g19-tile",
   "stopReason": null,
   "action": {
-    "id": "g18-wait",
-    "op": "wait",
-    "wait": 3200,
-    "note": "Wait for the gate-to-White-City transition before judging controls."
+    "id": "g19-tile",
+    "op": "tap",
+    "x": 98,
+    "y": 754,
+    "wait": 550,
+    "note": "The floating cyan tile is a reward-shaped collectible. Touch it."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/93b419f1953a418a82504626505875cac1c6f625/live-results/gameplay-20261010-06/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/d743b87e9977cde96b97750c3b89bf7c5e526d3d/live-results/gameplay-20261010-06/current.jpg",
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#quiet",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -28,7 +30,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n夢を離れる",
+  "text": "作品へ移動\n夢の見覚え ✧︎\n\nまだ住所を持たない街から、足元へ滑った小さなタイル。\n\n持ち帰る\n\n夢を離れる",
   "controls": [
     {
       "tag": "BUTTON",
@@ -57,10 +59,21 @@
       "text": "白い街の一片に触れる",
       "disabled": false,
       "rect": {
-        "x": 64,
-        "y": 720,
+        "x": 63,
+        "y": 721,
         "w": 69,
         "h": 69
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "持ち帰る",
+      "disabled": false,
+      "rect": {
+        "x": 139,
+        "y": 705,
+        "w": 112,
+        "h": 44
       }
     },
     {
@@ -406,6 +419,22 @@
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#quiet",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/93b419f1953a418a82504626505875cac1c6f625/live-results/gameplay-20261010-06/current.jpg",
       "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n夢を離れる"
+    },
+    {
+      "number": 22,
+      "at": "2026-10-10T02:57:53.238Z",
+      "action": {
+        "id": "g19-tile",
+        "op": "tap",
+        "x": 98,
+        "y": 754,
+        "wait": 550,
+        "note": "The floating cyan tile is a reward-shaped collectible. Touch it."
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#quiet",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/d743b87e9977cde96b97750c3b89bf7c5e526d3d/live-results/gameplay-20261010-06/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\nまだ住所を持たない街から、足元へ滑った小さなタイル。\n\n持ち帰る\n\n夢を離れる"
     }
   ]
 }
