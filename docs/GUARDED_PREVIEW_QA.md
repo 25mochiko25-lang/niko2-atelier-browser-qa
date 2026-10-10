@@ -1,10 +1,10 @@
-# NIKO² ATELIER — cost-guarded Combined Preview QA (candidate)
+# NIKO² ATELIER — cost-guarded Combined Preview QA
 
-Status: **proposal / isolated QA branch, NOT enabled on main**. Related product work: [Issue #24](https://github.com/25mochiko25-lang/niko2-atelier/issues/24), [Draft PR #25](https://github.com/25mochiko25-lang/niko2-atelier/pull/25).
+Status: **adopted on this QA repository's `main`** in [commit `6ae3e12`](https://github.com/25mochiko25-lang/niko2-atelier-browser-qa/commit/6ae3e12f3382c826223d3f03018b8f33bce661d8) on 2026-10-08. The existing [.github/workflows/guarded-preview-qa.yml](../.github/workflows/guarded-preview-qa.yml) is scheduled once per day at 14:43 UTC (23:43 Asia/Tokyo); GitHub may start a scheduled run later. Related product context: [Issue #24](https://github.com/25mochiko25-lang/niko2-atelier/issues/24), [PR #25](https://github.com/25mochiko25-lang/niko2-atelier/pull/25).
 
 ## What this actually does
 
-The new workflow is separate from existing interactive visitor observation. It checks the public **Combined Preview** HTML and up to 16 same-origin linked JS/CSS files once per day (23:43 JST) or on an explicitly selected workflow dispatch. It compares the byte fingerprint against a short-lived GitHub Actions cache.
+The existing workflow is separate from interactive visitor observation. It checks the public **Combined Preview** HTML and up to 16 same-origin linked JS/CSS files once per day (23:43 JST) or on an explicitly selected workflow dispatch. Reuse this workflow rather than adding a second daily watcher. It compares the byte fingerprint against a short-lived GitHub Actions cache.
 
 | Event | Behavior |
 | --- | --- |
@@ -40,14 +40,15 @@ Current smoke scope is **Home entry -> Intro -> Garden** using browser-issued co
 
 Founder keeps final publication authority. Codex owns implementation and technical handoff; self-reported local PASS is not independent QA or an iPhone proof. The product's [AGENTS.md](https://github.com/25mochiko25-lang/niko2-atelier/blob/main/AGENTS.md) and Issue #24 govern.
 
-## How to adopt
+## Current verification and remaining scope
 
-1. Confirm this candidate's offline policy tests and a real public QA-hosted branch trial, inspecting its run ID and logs. Keep the one-off branch-only push test trigger *out of the final main version*.
-2. Confirm unchanged digest skip, changed digest smoke and preserved-failure logic across representative test cases. A single green workflow is insufficient.
-3. Review the browser smoke against current Combined Preview to avoid false PASS/FAIL and, in a separate scoped follow-up, add prior known-bug fixtures (Diary, taps, Garden 5/5) with explicit expected outcomes.
-4. Do not merge this draft or enable daily scheduling until the QA workflow is actually safe and compatible with the existing public runner quota. Public repo main, product main/review, and Production remain untouched until then.
-5. After adoption, the schedule is only a lightweight byte-based watcher. It is not a replacement for the irregular observer or Production gate.
+1. Adoption is already recorded in the QA `main` commit above. Its commit message records nine policy tests, five coordinate-entry browser profiles and an unchanged-digest skip. No second adoption or schedule-enabling step is needed.
+2. The scheduled [2026-10-08 run `37796481553`](https://github.com/25mochiko25-lang/niko2-atelier-browser-qa/actions/runs/37796481553) completed successfully: five browser profiles reported PASS for the limited entry route, and the Ubuntu finalize job saved the tiny verdict. The browser job took 58 seconds. This is evidence for the stated smoke scope, not all-site QA.
+3. The scheduled [2026-10-09 run `37947946614`](https://github.com/25mochiko25-lang/niko2-atelier-browser-qa/actions/runs/37947946614) completed successfully: its probe reported `UNCHANGED_SKIP` for 10 resources / 1,878,685 bytes; the browser and finalize jobs were skipped. The probe job took 8 seconds. These measured job times are not account billing totals.
+4. Before expanding coverage, separately define expected outcomes for prior known-bug fixtures such as Diary, taps and Garden 5/5. They remain outside the current smoke proof. Keep FAIL/UNKNOWN visible and inspect the exact run and logs when behavior changes.
+5. The daily schedule remains a lightweight byte-based watcher. Screen-led visitor observation still uses the existing live observer and an observing agent. Neither workflow supplies a Production release approval. Account-level billing, storage and runner eligibility were not audited by these runs; no new billing settings, paid runner, API key or external QA service is needed for this existing setup.
 
 ## Temporary tester safety
 
-The one-off branch-only push trigger was **removed from this proposed final workflow** after starting the isolated trial. No push/PR trigger remains. Only daily scheduled (when adopted on main) and explicit manual dispatch are defined. Every other workflow in this repository remains untouched.
+The one-off branch-only push trigger was **removed after the isolated trial**. The adopted `main` workflow defines only its existing daily schedule and explicit manual dispatch; it has no push/PR trigger. Existing interactive workflows remain separate. The live observer uses [.github/workflows/live-observer.yml](../.github/workflows/live-observer.yml), and per-command image delivery uses [.github/workflows/live-view-export.yml](../.github/workflows/live-view-export.yml). This document update changes no workflow, product code, Preview or Production deployment.
+
