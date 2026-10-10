@@ -6,19 +6,18 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-10T02:50:21.490Z",
-  "updatedAt": "2026-10-10T03:05:03.990Z",
-  "lastCommand": "g36-perfume-diary",
-  "stopReason": null,
+  "updatedAt": "2026-10-10T03:05:28.416Z",
+  "lastCommand": "g37-end",
+  "stopReason": "visitor_finished: Simulated game/exploration player. I finished Garden 5/5, found a White City souvenir, delivered it to Diary, returned Home and saw an after-Garden recap pointing to Perfume. I then assembled three notes in TOP/MIDDLE/LAST, generated Private Cotton and saved it to Diary alongside the city tile. Those two reward loops were satisfying and distinct. Before 5/5 I twice tapped the visible garden gate; it gave a keyhole-light line but no immediate visible skip/transition in my session. A tiny fragment-card X took more precise tapping than expected. I have a complete sample of two modes and stop voluntarily; Hotel, Cabinet, alternative Garden branches and real-device touch scroll remain untested.",
   "action": {
-    "id": "g36-perfume-diary",
-    "op": "tap",
-    "x": 119,
-    "y": 241,
-    "wait": 850,
-    "note": "The customized perfume has a distinct short poetic output and an explicit Diary option; test that its souvenir saves."
+    "id": "g37-end",
+    "op": "stop",
+    "wait": 0,
+    "reason": "visitor_finished: Simulated game/exploration player. I finished Garden 5/5, found a White City souvenir, delivered it to Diary, returned Home and saw an after-Garden recap pointing to Perfume. I then assembled three notes in TOP/MIDDLE/LAST, generated Private Cotton and saved it to Diary alongside the city tile. Those two reward loops were satisfying and distinct. Before 5/5 I twice tapped the visible garden gate; it gave a keyhole-light line but no immediate visible skip/transition in my session. A tiny fragment-card X took more precise tapping than expected. I have a complete sample of two modes and stop voluntarily; Hotel, Cabinet, alternative Garden branches and real-device touch scroll remain untested.",
+    "note": "Visitor leaves satisfied after two souvenirs; any skip interpretation needs separate code verification."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/1a4d9419028888f32176ae6b670b5e824c745bda/live-results/gameplay-20261010-06/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/e2a1b54a93505bd172dd2f79b3a765719a2b0e56/live-results/gameplay-20261010-06/current.jpg",
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#diary",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -933,6 +932,21 @@
       "error": null,
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#diary",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/1a4d9419028888f32176ae6b670b5e824c745bda/live-results/gameplay-20261010-06/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\nDream\nDiary\nAbout\n\nNIKO² DIARY\nDiary\n今日のことを、ひとつだけ。\n10月10日 12:05\n夢の続きが、まだ近くにあります。\n← 調香室へ戻る\nTODAY\n今日を残す\n✦\nいまの気配\n\n静か\n\nきらきら\n\nぼんやり\n\nざわざわ\n\n甘い\n\n雨っぽい\n\n眠い\n\n何もない\nPHOTO\n写真\n選択なし\nまち\n部屋\n買ったもの\n遊び\n食べもの\nその他\n写真を眺める\n‹\n›\n\n\n自販機\n\n\nホーム\n\n\n改札\n\n\n途中\n\n\nロッカー\n\n\nエレベーター\n\n\nガラス扉\n\n\n空席\n\n\n雨の改札\n\n\n22:47\n\n\n青空\n\n\n夕方\n\n\n夜空\n\n\n空の間\n\n\n夕方の壁\n\n\n雨あがり\n言葉\nOPTIONAL\nこの端末だけに残ります\n残す\nRECENT\n少し前の自分\n\nPrivate Cotton\n10/10\n\n白い街の一片\n10/10\n2026年10月\nMONTHLY REFLECTION\n今月の景色\nよく残った気配\n静かな余白\nよく残った色\n淡いパウダー色\nよく残ったモチーフ\n雨\nまだ記録が少ないので、傾向ではなく、残ったものをそのまま眺めています。\nもう少し見る\nARCHIVE\n前の日々をひらく\n\nWHAT REMAINED\n残ったものを見る\nアトリエへ戻る\n"
+    },
+    {
+      "number": 40,
+      "at": "2026-10-10T03:05:28.416Z",
+      "action": {
+        "id": "g37-end",
+        "op": "stop",
+        "wait": 0,
+        "reason": "visitor_finished: Simulated game/exploration player. I finished Garden 5/5, found a White City souvenir, delivered it to Diary, returned Home and saw an after-Garden recap pointing to Perfume. I then assembled three notes in TOP/MIDDLE/LAST, generated Private Cotton and saved it to Diary alongside the city tile. Those two reward loops were satisfying and distinct. Before 5/5 I twice tapped the visible garden gate; it gave a keyhole-light line but no immediate visible skip/transition in my session. A tiny fragment-card X took more precise tapping than expected. I have a complete sample of two modes and stop voluntarily; Hotel, Cabinet, alternative Garden branches and real-device touch scroll remain untested.",
+        "note": "Visitor leaves satisfied after two souvenirs; any skip interpretation needs separate code verification."
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#diary",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/e2a1b54a93505bd172dd2f79b3a765719a2b0e56/live-results/gameplay-20261010-06/current.jpg",
       "text": "作品へ移動\nNIKO² ATELIER\nDream\nDiary\nAbout\n\nNIKO² DIARY\nDiary\n今日のことを、ひとつだけ。\n10月10日 12:05\n夢の続きが、まだ近くにあります。\n← 調香室へ戻る\nTODAY\n今日を残す\n✦\nいまの気配\n\n静か\n\nきらきら\n\nぼんやり\n\nざわざわ\n\n甘い\n\n雨っぽい\n\n眠い\n\n何もない\nPHOTO\n写真\n選択なし\nまち\n部屋\n買ったもの\n遊び\n食べもの\nその他\n写真を眺める\n‹\n›\n\n\n自販機\n\n\nホーム\n\n\n改札\n\n\n途中\n\n\nロッカー\n\n\nエレベーター\n\n\nガラス扉\n\n\n空席\n\n\n雨の改札\n\n\n22:47\n\n\n青空\n\n\n夕方\n\n\n夜空\n\n\n空の間\n\n\n夕方の壁\n\n\n雨あがり\n言葉\nOPTIONAL\nこの端末だけに残ります\n残す\nRECENT\n少し前の自分\n\nPrivate Cotton\n10/10\n\n白い街の一片\n10/10\n2026年10月\nMONTHLY REFLECTION\n今月の景色\nよく残った気配\n静かな余白\nよく残った色\n淡いパウダー色\nよく残ったモチーフ\n雨\nまだ記録が少ないので、傾向ではなく、残ったものをそのまま眺めています。\nもう少し見る\nARCHIVE\n前の日々をひらく\n\nWHAT REMAINED\n残ったものを見る\nアトリエへ戻る\n"
     }
   ]
