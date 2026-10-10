@@ -6,14 +6,19 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-10T02:50:21.490Z",
-  "updatedAt": "2026-10-10T02:50:27.446Z",
-  "lastCommand": null,
+  "updatedAt": "2026-10-10T02:50:52.132Z",
+  "lastCommand": "g01-enter",
   "stopReason": null,
   "action": {
-    "op": "arrival"
+    "id": "g01-enter",
+    "op": "tap",
+    "x": 194,
+    "y": 531,
+    "wait": 550,
+    "note": "The entrance looks like a start button. Go in and look for the rules."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/6dc6ec77cd6039edc741a5fb48eaad22deb4262c/live-results/gameplay-20261010-06/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/3b9d3967e711bf94890f8bb648ad55733195af18/live-results/gameplay-20261010-06/current.jpg",
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -25,7 +30,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n\n",
+  "text": "作品へ移動\n\n\nWORLD\n夢の入り口は、毎回すこし違う。\n次へ",
   "controls": [
     {
       "tag": "BUTTON",
@@ -48,6 +53,17 @@
         "w": 210,
         "h": 70
       }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "次へ",
+      "disabled": false,
+      "rect": {
+        "x": 300,
+        "y": 748,
+        "w": 72,
+        "h": 44
+      }
     }
   ],
   "pageErrors": [],
@@ -63,6 +79,22 @@
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/6dc6ec77cd6039edc741a5fb48eaad22deb4262c/live-results/gameplay-20261010-06/current.jpg",
       "text": "作品へ移動\n\n"
+    },
+    {
+      "number": 2,
+      "at": "2026-10-10T02:50:52.132Z",
+      "action": {
+        "id": "g01-enter",
+        "op": "tap",
+        "x": 194,
+        "y": 531,
+        "wait": 550,
+        "note": "The entrance looks like a start button. Go in and look for the rules."
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/3b9d3967e711bf94890f8bb648ad55733195af18/live-results/gameplay-20261010-06/current.jpg",
+      "text": "作品へ移動\n\n\nWORLD\n夢の入り口は、毎回すこし違う。\n次へ"
     }
   ]
 }
