@@ -1,1 +1,1 @@
-{"id":"g33-finalize","op":"tap","x":198,"y":750,"wait":1700,"note":"Three fragrance layers filled; concentration remains at default Toilette. See the result and whether it feels authored."}
+{"id":"g34-wait-result","op":"wait","wait":1800,"note":"The custom perfume bottle is in its finishing animation; wait for settled design before evaluating."}
