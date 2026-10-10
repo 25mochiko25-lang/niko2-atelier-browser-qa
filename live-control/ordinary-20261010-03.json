@@ -1,1 +1,1 @@
-{"id":"o07-close","op":"tap","x":337,"y":664,"wait":300,"note":"One memory popped up and the counter rose to 1/5. I want to see if every object yields one."}
+{"id":"o08-tea","op":"tap","x":218,"y":513,"wait":500,"note":"The tea cup is a second obvious prop. Test whether collecting it shows a different reaction."}
