@@ -1,1 +1,1 @@
-{"id":"g23-post-garden-next","op":"tap","x":337,"y":769,"wait":500,"note":"The Garden finished; check after-garden recap content."}
+{"id":"g24-next","op":"tap","x":336,"y":770,"wait":420,"note":"This second recap explicitly says the carried thing remains. Continue to check whether it offers a next route."}
