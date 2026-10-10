@@ -6,19 +6,17 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-10T02:50:21.490Z",
-  "updatedAt": "2026-10-10T03:03:47.302Z",
-  "lastCommand": "g33-finalize",
+  "updatedAt": "2026-10-10T03:04:16.263Z",
+  "lastCommand": "g34-wait-result",
   "stopReason": null,
   "action": {
-    "id": "g33-finalize",
-    "op": "tap",
-    "x": 198,
-    "y": 750,
-    "wait": 1700,
-    "note": "Three fragrance layers filled; concentration remains at default Toilette. See the result and whether it feels authored."
+    "id": "g34-wait-result",
+    "op": "wait",
+    "wait": 1800,
+    "note": "The custom perfume bottle is in its finishing animation; wait for settled design before evaluating."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/0c2683109a29491dea49600bacff17ca70cf514b/live-results/gameplay-20261010-06/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/18698b04168a24bebb2e2db444c72840af66dd9e/live-results/gameplay-20261010-06/current.jpg",
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#perfume",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -635,6 +633,20 @@
       "error": null,
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#perfume",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/0c2683109a29491dea49600bacff17ca70cf514b/live-results/gameplay-20261010-06/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\n\n\nDREAM / PM-01\nPERFUME MORGUE\nFRAGRANCE / KEPT\nSKIN / あなたの痕跡\nF-20261010-E27D\nPrivate Cotton\nSKIN / あなたの痕跡\nEAU DE TOILETTE / 肌に近い\nTOP\n1. 古いぬいぐるみ ×1\nMIDDLE\n1. 雨 ×1\nLAST\n1. 燃えた砂糖 ×1\nFORMULA / SCENT CHARACTER\n最初に古いぬいぐるみ。 少し遅れて雨。 最後に燃えた砂糖が残る。 肌の近くで続く輪郭へ着地する。\nDiaryに持ち帰る\nもう一度調合する\nコットンで、 彼女の頬をそっと拭く。  近い。  息がかかる。  なのに、 目だけは合わせない。\nREAL WORLD ECHOES\nREAL WORLD / TRACE ONLY\nこの香りには、現実にも近い夢がある。\nいまはまだ、名前ではなく三つの手掛かりだけ。\n\nECHO / AIR\nクリーンムスク\nECHO / HEART\nオゾニック\nECHO / TRACE\nキャラメル / プラリネ\n"
+    },
+    {
+      "number": 37,
+      "at": "2026-10-10T03:04:16.263Z",
+      "action": {
+        "id": "g34-wait-result",
+        "op": "wait",
+        "wait": 1800,
+        "note": "The custom perfume bottle is in its finishing animation; wait for settled design before evaluating."
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#perfume",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/18698b04168a24bebb2e2db444c72840af66dd9e/live-results/gameplay-20261010-06/current.jpg",
       "text": "作品へ移動\nNIKO² ATELIER\n\n\nDREAM / PM-01\nPERFUME MORGUE\nFRAGRANCE / KEPT\nSKIN / あなたの痕跡\nF-20261010-E27D\nPrivate Cotton\nSKIN / あなたの痕跡\nEAU DE TOILETTE / 肌に近い\nTOP\n1. 古いぬいぐるみ ×1\nMIDDLE\n1. 雨 ×1\nLAST\n1. 燃えた砂糖 ×1\nFORMULA / SCENT CHARACTER\n最初に古いぬいぐるみ。 少し遅れて雨。 最後に燃えた砂糖が残る。 肌の近くで続く輪郭へ着地する。\nDiaryに持ち帰る\nもう一度調合する\nコットンで、 彼女の頬をそっと拭く。  近い。  息がかかる。  なのに、 目だけは合わせない。\nREAL WORLD ECHOES\nREAL WORLD / TRACE ONLY\nこの香りには、現実にも近い夢がある。\nいまはまだ、名前ではなく三つの手掛かりだけ。\n\nECHO / AIR\nクリーンムスク\nECHO / HEART\nオゾニック\nECHO / TRACE\nキャラメル / プラリネ\n"
     }
   ]
