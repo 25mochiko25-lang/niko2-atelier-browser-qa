@@ -1,1 +1,1 @@
-{"id":"v10-close-cup","op":"tap","x":337,"y":682,"wait":250,"note":"Second fragment repeats collection-card format with timestamp, but has unique text. Close and consider other props."}
+{"id":"v11-bear","op":"tap","x":345,"y":512,"wait":500,"note":"Teddy in frame is a prominent non-gemstone prop; see if it responds and differs from the first two."}
