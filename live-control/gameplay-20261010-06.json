@@ -1,1 +1,1 @@
-{"id":"g10-close","op":"tap","x":337,"y":666,"wait":330,"note":"Second card close is higher this time; use visually observed hit target."}
+{"id":"g11-gate-second","op":"tap","x":306,"y":221,"wait":1300,"note":"The gate first hinted a keyhole light extinguishing. As a game player I want to see if the repeated gate tap is a skip or alternate exit, without source knowledge."}
