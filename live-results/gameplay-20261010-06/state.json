@@ -6,19 +6,17 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-10T02:50:21.490Z",
-  "updatedAt": "2026-10-10T02:57:16.166Z",
-  "lastCommand": "g17-final-gate",
+  "updatedAt": "2026-10-10T02:57:36.001Z",
+  "lastCommand": "g18-wait",
   "stopReason": null,
   "action": {
-    "id": "g17-final-gate",
-    "op": "tap",
-    "x": 300,
-    "y": 244,
-    "wait": 2400,
-    "note": "After 5/5, the door's hitbox grows and the screen invites me through. Choose gate to see reward."
+    "id": "g18-wait",
+    "op": "wait",
+    "wait": 3200,
+    "note": "Wait for the gate-to-White-City transition before judging controls."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/b665a787f9d5c442cc4549f8fe058416e0c3f6d1/live-results/gameplay-20261010-06/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/93b419f1953a418a82504626505875cac1c6f625/live-results/gameplay-20261010-06/current.jpg",
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#quiet",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -30,7 +28,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n夢の見覚え ✧︎\n白い街が、門の向こうで一斉に組み上がった。\n\n",
+  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n夢を離れる",
   "controls": [
     {
       "tag": "BUTTON",
@@ -52,6 +50,28 @@
         "y": 56,
         "w": 61,
         "h": 30
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "白い街の一片に触れる",
+      "disabled": false,
+      "rect": {
+        "x": 64,
+        "y": 720,
+        "w": 69,
+        "h": 69
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "夢を離れる",
+      "disabled": false,
+      "rect": {
+        "x": 22,
+        "y": 782,
+        "w": 100,
+        "h": 44
       }
     }
   ],
@@ -372,6 +392,20 @@
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#quiet",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/b665a787f9d5c442cc4549f8fe058416e0c3f6d1/live-results/gameplay-20261010-06/current.jpg",
       "text": "作品へ移動\n夢の見覚え ✧︎\n白い街が、門の向こうで一斉に組み上がった。\n\n"
+    },
+    {
+      "number": 21,
+      "at": "2026-10-10T02:57:36.001Z",
+      "action": {
+        "id": "g18-wait",
+        "op": "wait",
+        "wait": 3200,
+        "note": "Wait for the gate-to-White-City transition before judging controls."
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#quiet",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/93b419f1953a418a82504626505875cac1c6f625/live-results/gameplay-20261010-06/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n夢を離れる"
     }
   ]
 }
