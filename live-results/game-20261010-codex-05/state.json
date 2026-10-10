@@ -6,18 +6,16 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-10T02:45:22.701Z",
-  "updatedAt": "2026-10-10T02:52:10.656Z",
-  "lastCommand": "g13",
+  "updatedAt": "2026-10-10T02:52:41.350Z",
+  "lastCommand": "g14",
   "stopReason": null,
   "action": {
-    "id": "g13",
-    "op": "tap",
-    "x": 348,
-    "y": 73,
-    "note": "＋を押すとカードが消えた。持ち帰れたか分からないので、右上の夢の見覚えを開いて記録を確かめる。"
+    "id": "g14",
+    "op": "look",
+    "note": "急に白い城へ移った。夢の見覚えが移動ボタンなのか、別の変化が重なったのかは分からない。落ち着いた画面を見たい。"
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/48708ecf231603c8b945230925b0cc0d8137ff13/live-results/game-20261010-codex-05/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/713795c5475faec45573b71b52b1ca21f02d889e/live-results/game-20261010-codex-05/current.jpg",
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#quiet",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -29,7 +27,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n夢の見覚え ✧︎\n庭が、空よりも高く昇りはじめた。\n\nひとひらだけ、帰る道を選ぶのを見た。\n",
+  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n夢を離れる",
   "controls": [
     {
       "tag": "BUTTON",
@@ -51,6 +49,28 @@
         "y": 56,
         "w": 61,
         "h": 30
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "帰る花弁に触れる",
+      "disabled": false,
+      "rect": {
+        "x": 75,
+        "y": 712,
+        "w": 69,
+        "h": 69
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "夢を離れる",
+      "disabled": false,
+      "rect": {
+        "x": 22,
+        "y": 782,
+        "w": 100,
+        "h": 44
       }
     }
   ],
@@ -262,6 +282,19 @@
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#quiet",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/48708ecf231603c8b945230925b0cc0d8137ff13/live-results/game-20261010-codex-05/current.jpg",
       "text": "作品へ移動\n夢の見覚え ✧︎\n庭が、空よりも高く昇りはじめた。\n\nひとひらだけ、帰る道を選ぶのを見た。\n"
+    },
+    {
+      "number": 15,
+      "at": "2026-10-10T02:52:41.350Z",
+      "action": {
+        "id": "g14",
+        "op": "look",
+        "note": "急に白い城へ移った。夢の見覚えが移動ボタンなのか、別の変化が重なったのかは分からない。落ち着いた画面を見たい。"
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#quiet",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/713795c5475faec45573b71b52b1ca21f02d889e/live-results/game-20261010-codex-05/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n夢を離れる"
     }
   ]
 }
