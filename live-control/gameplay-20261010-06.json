@@ -1,1 +1,1 @@
-{"id":"g08b-close","op":"tap","x":337,"y":683,"wait":450,"note":"Prior tap landed above the 24px close target so card stayed open. Tap the visible X precisely; record the small hit area as potential mobile friction."}
+{"id":"g09-perfume","op":"tap","x":77,"y":523,"wait":550,"note":"The blue-pink perfume bottle is visually distinct; collect it and compare feedback."}
