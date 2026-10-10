@@ -1,1 +1,1 @@
-{"id":"g16-hourglass","op":"tap","x":28,"y":413,"wait":750,"note":"The hourglass is the remaining prominent object. Complete 5/5 and observe whether a gate changes without forcing state."}
+{"id":"g17-final-gate","op":"tap","x":300,"y":244,"wait":2400,"note":"After 5/5, the door's hitbox grows and the screen invites me through. Choose gate to see reward."}
