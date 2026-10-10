@@ -6,19 +6,19 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-10T02:17:47.519Z",
-  "updatedAt": "2026-10-10T02:22:12.533Z",
-  "lastCommand": "v09-cup",
+  "updatedAt": "2026-10-10T02:22:42.427Z",
+  "lastCommand": "v10-close-cup",
   "stopReason": null,
   "action": {
-    "id": "v09-cup",
+    "id": "v10-close-cup",
     "op": "tap",
-    "x": 218,
-    "y": 521,
-    "wait": 500,
-    "note": "The handwritten paper interaction yielded a line without another collectible; test teacup to learn what the five items mean."
+    "x": 337,
+    "y": 682,
+    "wait": 250,
+    "note": "Second fragment repeats collection-card format with timestamp, but has unique text. Close and consider other props."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/9c5751cc5e781a9ae980e77c0c20889cf32daf88/live-results/aesthetic-20261010-01/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/ad2ca06ed7c0d9fa0655454bd3f5e2bf18e56c7f/live-results/aesthetic-20261010-01/current.jpg",
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -30,7 +30,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n2 / 5\n見つけたもの\nCG-01-A_02.DRM\n11:22:09\n\nFRAGMENT / 02\n\nまだあたたかいカップ\nほんのり湯気が残る。まだ、誰かの気配がする。\n紙の裏に、消したはずの時刻がひとつ残っている。",
+  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n2 / 5\n見つけたもの\n紙の裏に、消したはずの時刻がひとつ残っている。",
   "controls": [
     {
       "tag": "BUTTON",
@@ -196,17 +196,6 @@
         "w": 72,
         "h": 95
       }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "見つけた記憶を閉じる",
-      "disabled": false,
-      "rect": {
-        "x": 324,
-        "y": 673,
-        "w": 24,
-        "h": 23
-      }
     }
   ],
   "pageErrors": [],
@@ -366,6 +355,22 @@
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/9c5751cc5e781a9ae980e77c0c20889cf32daf88/live-results/aesthetic-20261010-01/current.jpg",
       "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n2 / 5\n見つけたもの\nCG-01-A_02.DRM\n11:22:09\n\nFRAGMENT / 02\n\nまだあたたかいカップ\nほんのり湯気が残る。まだ、誰かの気配がする。\n紙の裏に、消したはずの時刻がひとつ残っている。"
+    },
+    {
+      "number": 11,
+      "at": "2026-10-10T02:22:42.427Z",
+      "action": {
+        "id": "v10-close-cup",
+        "op": "tap",
+        "x": 337,
+        "y": 682,
+        "wait": 250,
+        "note": "Second fragment repeats collection-card format with timestamp, but has unique text. Close and consider other props."
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/ad2ca06ed7c0d9fa0655454bd3f5e2bf18e56c7f/live-results/aesthetic-20261010-01/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n2 / 5\n見つけたもの\n紙の裏に、消したはずの時刻がひとつ残っている。"
     }
   ]
 }
