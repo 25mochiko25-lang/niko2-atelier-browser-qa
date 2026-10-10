@@ -6,17 +6,19 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-10T02:17:47.519Z",
-  "updatedAt": "2026-10-10T02:25:05.233Z",
-  "lastCommand": "v17-look-gate",
+  "updatedAt": "2026-10-10T02:25:33.103Z",
+  "lastCommand": "v18-city-fragment",
   "stopReason": null,
   "action": {
-    "id": "v17-look-gate",
-    "op": "wait",
-    "wait": 2800,
-    "note": "The gate zoom is still playing; wait rather than mistake cinematic transition for broken interaction."
+    "id": "v18-city-fragment",
+    "op": "tap",
+    "x": 100,
+    "y": 754,
+    "wait": 550,
+    "note": "A small floating blue object at bottom appears collectible. The white city image has greater monumentality, yet repeating spires and arches blur into AI-like motif multiplication."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/d3d96c9424a0355b83c43e7c3e260434af9e4358/live-results/aesthetic-20261010-01/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/be837ca92bd607e0310caa3df78ad7a8d4258245/live-results/aesthetic-20261010-01/current.jpg",
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#quiet",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -28,7 +30,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n夢を離れる",
+  "text": "作品へ移動\n夢の見覚え ✧︎\n\nまだ住所を持たない街から、足元へ滑った小さなタイル。\n\n持ち帰る\n\n夢を離れる",
   "controls": [
     {
       "tag": "BUTTON",
@@ -61,6 +63,17 @@
         "y": 720,
         "w": 69,
         "h": 69
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "持ち帰る",
+      "disabled": false,
+      "rect": {
+        "x": 139,
+        "y": 705,
+        "w": 112,
+        "h": 44
       }
     },
     {
@@ -358,6 +371,22 @@
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#quiet",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/d3d96c9424a0355b83c43e7c3e260434af9e4358/live-results/aesthetic-20261010-01/current.jpg",
       "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n夢を離れる"
+    },
+    {
+      "number": 19,
+      "at": "2026-10-10T02:25:33.103Z",
+      "action": {
+        "id": "v18-city-fragment",
+        "op": "tap",
+        "x": 100,
+        "y": 754,
+        "wait": 550,
+        "note": "A small floating blue object at bottom appears collectible. The white city image has greater monumentality, yet repeating spires and arches blur into AI-like motif multiplication."
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#quiet",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/be837ca92bd607e0310caa3df78ad7a8d4258245/live-results/aesthetic-20261010-01/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\nまだ住所を持たない街から、足元へ滑った小さなタイル。\n\n持ち帰る\n\n夢を離れる"
     }
   ]
 }
