@@ -6,19 +6,19 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-10T02:45:03.217Z",
-  "updatedAt": "2026-10-10T02:46:27.398Z",
-  "lastCommand": "l04-dream",
+  "updatedAt": "2026-10-10T02:46:54.576Z",
+  "lastCommand": "l05-enter-garden",
   "stopReason": null,
   "action": {
-    "id": "l04-dream",
+    "id": "l05-enter-garden",
     "op": "tap",
-    "x": 336,
-    "y": 772,
-    "wait": 700,
-    "note": "The third page has only a welcome, proceed to the text in Garden."
+    "x": 194,
+    "y": 790,
+    "wait": 450,
+    "note": "The opening couplet about a garden dreaming longer than its owner is elliptical but concrete enough to evoke an abandoned place. Explore object lines."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/5493cbca72abaf10a2094627096305b12e363161/live-results/literary-20261010-05/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/5d690a6d724ad4f00a723e23d2647794f5af0dcc/live-results/literary-20261010-05/current.jpg",
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -30,7 +30,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n席を立ったあとの庭にも、\n持ち主より長く夢を見るものがいる。\n\nこの空へ入る\n0 / 5\n見つけたもの\n",
+  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n0 / 5\n見つけたもの\n",
   "controls": [
     {
       "tag": "BUTTON",
@@ -57,7 +57,7 @@
     {
       "tag": "BUTTON",
       "text": "止まりかけの砂時計に触れる",
-      "disabled": true,
+      "disabled": false,
       "rect": {
         "x": -47,
         "y": 354,
@@ -68,7 +68,7 @@
     {
       "tag": "BUTTON",
       "text": "N² Eau de rêveに触れる",
-      "disabled": true,
+      "disabled": false,
       "rect": {
         "x": 42,
         "y": 483,
@@ -79,7 +79,7 @@
     {
       "tag": "BUTTON",
       "text": "まだあたたかいカップに触れる",
-      "disabled": true,
+      "disabled": false,
       "rect": {
         "x": 172,
         "y": 479,
@@ -90,7 +90,7 @@
     {
       "tag": "BUTTON",
       "text": "置き去りのくまに触れる",
-      "disabled": true,
+      "disabled": false,
       "rect": {
         "x": 280,
         "y": 442,
@@ -101,7 +101,7 @@
     {
       "tag": "BUTTON",
       "text": "青いリボンの鍵に触れる",
-      "disabled": true,
+      "disabled": false,
       "rect": {
         "x": 110,
         "y": 535,
@@ -112,7 +112,7 @@
     {
       "tag": "BUTTON",
       "text": "テーブルのメモをめくる",
-      "disabled": true,
+      "disabled": false,
       "rect": {
         "x": 174,
         "y": 539,
@@ -123,7 +123,7 @@
     {
       "tag": "BUTTON",
       "text": "くまのそばの本を開く",
-      "disabled": true,
+      "disabled": false,
       "rect": {
         "x": 312,
         "y": 537,
@@ -134,7 +134,7 @@
     {
       "tag": "BUTTON",
       "text": "ティーポットに触れる",
-      "disabled": true,
+      "disabled": false,
       "rect": {
         "x": 105,
         "y": 432,
@@ -145,7 +145,7 @@
     {
       "tag": "BUTTON",
       "text": "花に触れる",
-      "disabled": true,
+      "disabled": false,
       "rect": {
         "x": -17,
         "y": 293,
@@ -156,7 +156,7 @@
     {
       "tag": "BUTTON",
       "text": "水面に触れる",
-      "disabled": true,
+      "disabled": false,
       "rect": {
         "x": 186,
         "y": 286,
@@ -167,7 +167,7 @@
     {
       "tag": "BUTTON",
       "text": "レースのカーテンに触れる",
-      "disabled": true,
+      "disabled": false,
       "rect": {
         "x": 0,
         "y": 158,
@@ -178,7 +178,7 @@
     {
       "tag": "BUTTON",
       "text": "石の柱を軽く叩く",
-      "disabled": true,
+      "disabled": false,
       "rect": {
         "x": 51,
         "y": 192,
@@ -189,23 +189,12 @@
     {
       "tag": "BUTTON",
       "text": "遠くの白い門に触れる",
-      "disabled": true,
+      "disabled": false,
       "rect": {
         "x": 267,
         "y": 178,
         "w": 72,
         "h": 95
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "この空へ入る",
-      "disabled": false,
-      "rect": {
-        "x": 118,
-        "y": 764,
-        "w": 154,
-        "h": 48
       }
     }
   ],
@@ -286,6 +275,22 @@
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/5493cbca72abaf10a2094627096305b12e363161/live-results/literary-20261010-05/current.jpg",
       "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n席を立ったあとの庭にも、\n持ち主より長く夢を見るものがいる。\n\nこの空へ入る\n0 / 5\n見つけたもの\n"
+    },
+    {
+      "number": 6,
+      "at": "2026-10-10T02:46:54.576Z",
+      "action": {
+        "id": "l05-enter-garden",
+        "op": "tap",
+        "x": 194,
+        "y": 790,
+        "wait": 450,
+        "note": "The opening couplet about a garden dreaming longer than its owner is elliptical but concrete enough to evoke an abandoned place. Explore object lines."
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/5d690a6d724ad4f00a723e23d2647794f5af0dcc/live-results/literary-20261010-05/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n0 / 5\n見つけたもの\n"
     }
   ]
 }
