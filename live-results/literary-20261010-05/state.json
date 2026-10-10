@@ -6,19 +6,19 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-10T02:45:03.217Z",
-  "updatedAt": "2026-10-10T02:47:25.686Z",
-  "lastCommand": "l07-hourglass",
+  "updatedAt": "2026-10-10T02:47:44.540Z",
+  "lastCommand": "l08-close",
   "stopReason": null,
   "action": {
-    "id": "l07-hourglass",
+    "id": "l08-close",
     "op": "tap",
-    "x": 35,
-    "y": 411,
-    "wait": 530,
-    "note": "The note speaks of a supposedly erased time, so choose the sandglass and see whether motifs converse."
+    "x": 337,
+    "y": 682,
+    "wait": 250,
+    "note": "Time motif connects to the note, although '逆さま' and '巻き戻る' are close images. Explore another fragment."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/10241f6deaf0240d5ad3504ad0d1aabadc2f4ae6/live-results/literary-20261010-05/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/8616cb0e56324ee287dddc0ff9e4488281bd8c9b/live-results/literary-20261010-05/current.jpg",
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -30,7 +30,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n1 / 5\n見つけたもの\nCG-01-A_01.DRM\n11:47:23\n\nFRAGMENT / 01\n\n止まりかけの砂時計\n砂は落ちていく。 逆さまに。巻き戻るように。\n紙の裏に、消したはずの時刻がひとつ残っている。",
+  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n1 / 5\n見つけたもの\n紙の裏に、消したはずの時刻がひとつ残っている。",
   "controls": [
     {
       "tag": "BUTTON",
@@ -196,17 +196,6 @@
         "w": 72,
         "h": 95
       }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "見つけた記憶を閉じる",
-      "disabled": false,
-      "rect": {
-        "x": 324,
-        "y": 673,
-        "w": 24,
-        "h": 23
-      }
     }
   ],
   "pageErrors": [],
@@ -334,6 +323,22 @@
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/10241f6deaf0240d5ad3504ad0d1aabadc2f4ae6/live-results/literary-20261010-05/current.jpg",
       "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n1 / 5\n見つけたもの\nCG-01-A_01.DRM\n11:47:23\n\nFRAGMENT / 01\n\n止まりかけの砂時計\n砂は落ちていく。 逆さまに。巻き戻るように。\n紙の裏に、消したはずの時刻がひとつ残っている。"
+    },
+    {
+      "number": 9,
+      "at": "2026-10-10T02:47:44.540Z",
+      "action": {
+        "id": "l08-close",
+        "op": "tap",
+        "x": 337,
+        "y": 682,
+        "wait": 250,
+        "note": "Time motif connects to the note, although '逆さま' and '巻き戻る' are close images. Explore another fragment."
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/8616cb0e56324ee287dddc0ff9e4488281bd8c9b/live-results/literary-20261010-05/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n1 / 5\n見つけたもの\n紙の裏に、消したはずの時刻がひとつ残っている。"
     }
   ]
 }
