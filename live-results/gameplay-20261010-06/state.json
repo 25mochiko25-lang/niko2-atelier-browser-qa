@@ -6,19 +6,19 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-10T02:50:21.490Z",
-  "updatedAt": "2026-10-10T02:53:33.174Z",
-  "lastCommand": "g08-close",
+  "updatedAt": "2026-10-10T02:54:24.057Z",
+  "lastCommand": "g08b-close",
   "stopReason": null,
   "action": {
-    "id": "g08-close",
+    "id": "g08b-close",
     "op": "tap",
-    "x": 335,
-    "y": 665,
-    "wait": 420,
-    "note": "Close first item card and continue normal collection."
+    "x": 337,
+    "y": 683,
+    "wait": 450,
+    "note": "Prior tap landed above the 24px close target so card stayed open. Tap the visible X precisely; record the small hit area as potential mobile friction."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/c6eaf3f6a1f4bb9fbcdbe7eecfe97e75f6fa4478/live-results/gameplay-20261010-06/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/3d7a4fbb95b107e54f407c6cbae8a7ff07bb59e1/live-results/gameplay-20261010-06/current.jpg",
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -30,7 +30,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n1 / 5\n見つけたもの\nCG-01-A_01.DRM\n11:53:19\n\nFRAGMENT / 01\n\nまだあたたかいカップ\nほんのり湯気が残る。まだ、誰かの気配がする。\n取っ手の向こうで、鍵穴の光がひとつ消えた。",
+  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n1 / 5\n見つけたもの\n取っ手の向こうで、鍵穴の光がひとつ消えた。",
   "controls": [
     {
       "tag": "BUTTON",
@@ -196,17 +196,6 @@
         "w": 72,
         "h": 95
       }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "見つけた記憶を閉じる",
-      "disabled": false,
-      "rect": {
-        "x": 324,
-        "y": 673,
-        "w": 24,
-        "h": 23
-      }
     }
   ],
   "pageErrors": [],
@@ -366,6 +355,22 @@
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/c6eaf3f6a1f4bb9fbcdbe7eecfe97e75f6fa4478/live-results/gameplay-20261010-06/current.jpg",
       "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n1 / 5\n見つけたもの\nCG-01-A_01.DRM\n11:53:19\n\nFRAGMENT / 01\n\nまだあたたかいカップ\nほんのり湯気が残る。まだ、誰かの気配がする。\n取っ手の向こうで、鍵穴の光がひとつ消えた。"
+    },
+    {
+      "number": 11,
+      "at": "2026-10-10T02:54:24.057Z",
+      "action": {
+        "id": "g08b-close",
+        "op": "tap",
+        "x": 337,
+        "y": 683,
+        "wait": 450,
+        "note": "Prior tap landed above the 24px close target so card stayed open. Tap the visible X precisely; record the small hit area as potential mobile friction."
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/3d7a4fbb95b107e54f407c6cbae8a7ff07bb59e1/live-results/gameplay-20261010-06/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n1 / 5\n見つけたもの\n取っ手の向こうで、鍵穴の光がひとつ消えた。"
     }
   ]
 }
