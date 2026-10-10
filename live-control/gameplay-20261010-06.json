@@ -1,1 +1,1 @@
-{"id":"g08-close","op":"tap","x":335,"y":665,"wait":420,"note":"Close first item card and continue normal collection."}
+{"id":"g08b-close","op":"tap","x":337,"y":683,"wait":450,"note":"Prior tap landed above the 24px close target so card stayed open. Tap the visible X precisely; record the small hit area as potential mobile friction."}
