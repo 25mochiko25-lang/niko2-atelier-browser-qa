@@ -6,19 +6,19 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-10T02:45:03.217Z",
-  "updatedAt": "2026-10-10T02:48:02.867Z",
-  "lastCommand": "l09-perfume",
+  "updatedAt": "2026-10-10T02:48:24.144Z",
+  "lastCommand": "l10-close",
   "stopReason": null,
   "action": {
-    "id": "l09-perfume",
+    "id": "l10-close",
     "op": "tap",
-    "x": 77,
-    "y": 525,
-    "wait": 550,
-    "note": "The perfumed object may pair bodily memory with this odd time theme. Tap."
+    "x": 337,
+    "y": 667,
+    "wait": 230,
+    "note": "This fragment evokes scent in an empty room. It is intentionally ambiguous, but is a readable image."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/f2252f8741e6058b09c88f3288265597e9f439d0/live-results/literary-20261010-05/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/82cdad57b7dae0e3e12148af144772052ab36521/live-results/literary-20261010-05/current.jpg",
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -30,7 +30,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n2 / 5\n見つけたもの\nCG-01-A_02.DRM\n11:47:58\n\nFRAGMENT / 02\n\nN² Eau de rêve\nキャップは常に閉じているのに、帰らない部屋の香りがした。\n紙の裏に、消したはずの時刻がひとつ残っている。",
+  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n2 / 5\n見つけたもの\n紙の裏に、消したはずの時刻がひとつ残っている。",
   "controls": [
     {
       "tag": "BUTTON",
@@ -196,17 +196,6 @@
         "w": 72,
         "h": 95
       }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "見つけた記憶を閉じる",
-      "disabled": false,
-      "rect": {
-        "x": 324,
-        "y": 654,
-        "w": 24,
-        "h": 23
-      }
     }
   ],
   "pageErrors": [],
@@ -366,6 +355,22 @@
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/f2252f8741e6058b09c88f3288265597e9f439d0/live-results/literary-20261010-05/current.jpg",
       "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n2 / 5\n見つけたもの\nCG-01-A_02.DRM\n11:47:58\n\nFRAGMENT / 02\n\nN² Eau de rêve\nキャップは常に閉じているのに、帰らない部屋の香りがした。\n紙の裏に、消したはずの時刻がひとつ残っている。"
+    },
+    {
+      "number": 11,
+      "at": "2026-10-10T02:48:24.144Z",
+      "action": {
+        "id": "l10-close",
+        "op": "tap",
+        "x": 337,
+        "y": 667,
+        "wait": 230,
+        "note": "This fragment evokes scent in an empty room. It is intentionally ambiguous, but is a readable image."
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/82cdad57b7dae0e3e12148af144772052ab36521/live-results/literary-20261010-05/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n2 / 5\n見つけたもの\n紙の裏に、消したはずの時刻がひとつ残っている。"
     }
   ]
 }
