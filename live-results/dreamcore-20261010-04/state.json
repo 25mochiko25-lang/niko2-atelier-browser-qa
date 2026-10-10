@@ -6,19 +6,19 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-10T02:39:12.470Z",
-  "updatedAt": "2026-10-10T02:40:21.207Z",
-  "lastCommand": "d02-next",
+  "updatedAt": "2026-10-10T02:40:40.243Z",
+  "lastCommand": "d03-next",
   "stopReason": null,
   "action": {
-    "id": "d02-next",
+    "id": "d03-next",
     "op": "tap",
     "x": 335,
     "y": 770,
     "wait": 430,
-    "note": "Prologue suggests variability but visually still a classic pastel dream scene. Continue."
+    "note": "The language of touching and keeping a fragment may produce odd emergent effects. Go on."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/9cda19f911af5960cd33103545a7fdc428f54171/live-results/dreamcore-20261010-04/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/67890b82f13d3a4f87513474e79d072fcba5c77d/live-results/dreamcore-20261010-04/current.jpg",
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -30,7 +30,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n\n\nINTERACTION\n\nSound On\n\nSound Off\n触れる\n持ち帰る\n仕舞う\n次へ戻る",
+  "text": "作品へ移動\n\n\nWELCOME\nようこそ！\n夢へ入る戻る",
   "controls": [
     {
       "tag": "BUTTON",
@@ -56,67 +56,12 @@
     },
     {
       "tag": "BUTTON",
-      "text": "Sound On",
+      "text": "夢へ入る",
       "disabled": false,
       "rect": {
-        "x": 97,
-        "y": 464,
-        "w": 93,
-        "h": 38
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "Sound Off",
-      "disabled": false,
-      "rect": {
-        "x": 198,
-        "y": 464,
-        "w": 95,
-        "h": 38
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "触れる",
-      "disabled": false,
-      "rect": {
-        "x": 86,
-        "y": 518,
-        "w": 65,
-        "h": 38
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "持ち帰る",
-      "disabled": false,
-      "rect": {
-        "x": 157,
-        "y": 518,
-        "w": 76,
-        "h": 38
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "仕舞う",
-      "disabled": false,
-      "rect": {
-        "x": 240,
-        "y": 518,
-        "w": 65,
-        "h": 38
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "次へ",
-      "disabled": false,
-      "rect": {
-        "x": 300,
+        "x": 291,
         "y": 748,
-        "w": 72,
+        "w": 81,
         "h": 44
       }
     },
@@ -177,6 +122,22 @@
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/9cda19f911af5960cd33103545a7fdc428f54171/live-results/dreamcore-20261010-04/current.jpg",
       "text": "作品へ移動\n\n\nINTERACTION\n\nSound On\n\nSound Off\n触れる\n持ち帰る\n仕舞う\n次へ戻る"
+    },
+    {
+      "number": 4,
+      "at": "2026-10-10T02:40:40.243Z",
+      "action": {
+        "id": "d03-next",
+        "op": "tap",
+        "x": 335,
+        "y": 770,
+        "wait": 430,
+        "note": "The language of touching and keeping a fragment may produce odd emergent effects. Go on."
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/67890b82f13d3a4f87513474e79d072fcba5c77d/live-results/dreamcore-20261010-04/current.jpg",
+      "text": "作品へ移動\n\n\nWELCOME\nようこそ！\n夢へ入る戻る"
     }
   ]
 }
