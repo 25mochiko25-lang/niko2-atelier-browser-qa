@@ -1,1 +1,1 @@
-{"id":"g17-final-gate","op":"tap","x":300,"y":244,"wait":2400,"note":"After 5/5, the door's hitbox grows and the screen invites me through. Choose gate to see reward."}
+{"id":"g18-wait","op":"wait","wait":3200,"note":"Wait for the gate-to-White-City transition before judging controls."}
