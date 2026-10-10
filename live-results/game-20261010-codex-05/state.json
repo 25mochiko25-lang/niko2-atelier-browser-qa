@@ -6,16 +6,18 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-10T02:45:22.701Z",
-  "updatedAt": "2026-10-10T02:52:41.350Z",
-  "lastCommand": "g14",
+  "updatedAt": "2026-10-10T02:53:04.102Z",
+  "lastCommand": "g15",
   "stopReason": null,
   "action": {
-    "id": "g14",
-    "op": "look",
-    "note": "急に白い城へ移った。夢の見覚えが移動ボタンなのか、別の変化が重なったのかは分からない。落ち着いた画面を見たい。"
+    "id": "g15",
+    "op": "tap",
+    "x": 116,
+    "y": 748,
+    "note": "城の景色はきれいだけれど、今は探す物が少ない。水面の光る花弁に帰る道がありそうなので触る。"
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/713795c5475faec45573b71b52b1ca21f02d889e/live-results/game-20261010-codex-05/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/b4418c5b35312318669ec4db075a431658b85ade/live-results/game-20261010-codex-05/current.jpg",
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#quiet",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -27,7 +29,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n夢を離れる",
+  "text": "作品へ移動\n夢の見覚え ✧︎\n\n空へ昇った庭から、一枚だけ残った。\n\n持ち帰る\n\n夢を離れる",
   "controls": [
     {
       "tag": "BUTTON",
@@ -57,9 +59,20 @@
       "disabled": false,
       "rect": {
         "x": 75,
-        "y": 712,
+        "y": 711,
         "w": 69,
         "h": 69
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "持ち帰る",
+      "disabled": false,
+      "rect": {
+        "x": 139,
+        "y": 705,
+        "w": 112,
+        "h": 44
       }
     },
     {
@@ -295,6 +308,21 @@
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#quiet",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/713795c5475faec45573b71b52b1ca21f02d889e/live-results/game-20261010-codex-05/current.jpg",
       "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n夢を離れる"
+    },
+    {
+      "number": 16,
+      "at": "2026-10-10T02:53:04.102Z",
+      "action": {
+        "id": "g15",
+        "op": "tap",
+        "x": 116,
+        "y": 748,
+        "note": "城の景色はきれいだけれど、今は探す物が少ない。水面の光る花弁に帰る道がありそうなので触る。"
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#quiet",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/b4418c5b35312318669ec4db075a431658b85ade/live-results/game-20261010-codex-05/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n空へ昇った庭から、一枚だけ残った。\n\n持ち帰る\n\n夢を離れる"
     }
   ]
 }
