@@ -6,19 +6,19 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-10T02:17:47.519Z",
-  "updatedAt": "2026-10-10T02:25:33.103Z",
-  "lastCommand": "v18-city-fragment",
+  "updatedAt": "2026-10-10T02:26:11.656Z",
+  "lastCommand": "v19-carry",
   "stopReason": null,
   "action": {
-    "id": "v18-city-fragment",
+    "id": "v19-carry",
     "op": "tap",
-    "x": 100,
-    "y": 754,
-    "wait": 550,
-    "note": "A small floating blue object at bottom appears collectible. The white city image has greater monumentality, yet repeating spires and arches blur into AI-like motif multiplication."
+    "x": 194,
+    "y": 727,
+    "wait": 600,
+    "note": "The first object offering an explicit souvenir appears in the deeper White City. Choose to carry it home."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/be837ca92bd607e0310caa3df78ad7a8d4258245/live-results/aesthetic-20261010-01/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/0a84455433c09af7bd6f506f162a6535f87cb40f/live-results/aesthetic-20261010-01/current.jpg",
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#quiet",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -30,7 +30,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n夢の見覚え ✧︎\n\nまだ住所を持たない街から、足元へ滑った小さなタイル。\n\n持ち帰る\n\n夢を離れる",
+  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n夢を離れる\n\nDREAM MEMORY\n\n夢から残ったもの\n\nWORLD MEMORY\nTHING THAT REMAINED\nWORLD MEMORY + REMAINS\n住所のない白いタイル\n白い街の一片 — まだ住所を持たない街から、足元へ滑った小さなタイル。\n言葉を添える\nアトリエへ戻る\nDiaryへ持ち帰る",
   "controls": [
     {
       "tag": "BUTTON",
@@ -59,21 +59,10 @@
       "text": "白い街の一片に触れる",
       "disabled": false,
       "rect": {
-        "x": 64,
-        "y": 720,
+        "x": 63,
+        "y": 721,
         "w": 69,
         "h": 69
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "持ち帰る",
-      "disabled": false,
-      "rect": {
-        "x": 139,
-        "y": 705,
-        "w": 112,
-        "h": 44
       }
     },
     {
@@ -85,6 +74,50 @@
         "y": 782,
         "w": 100,
         "h": 44
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "日記を閉じる",
+      "disabled": false,
+      "rect": {
+        "x": 313,
+        "y": 126,
+        "w": 44,
+        "h": 44
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "言葉を添える",
+      "disabled": false,
+      "rect": {
+        "x": 38,
+        "y": 545,
+        "w": 103,
+        "h": 44
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "アトリエへ戻る",
+      "disabled": false,
+      "rect": {
+        "x": 38,
+        "y": 679,
+        "w": 314,
+        "h": 40
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Diaryへ持ち帰る",
+      "disabled": false,
+      "rect": {
+        "x": 38,
+        "y": 624,
+        "w": 314,
+        "h": 48
       }
     }
   ],
@@ -387,6 +420,22 @@
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#quiet",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/be837ca92bd607e0310caa3df78ad7a8d4258245/live-results/aesthetic-20261010-01/current.jpg",
       "text": "作品へ移動\n夢の見覚え ✧︎\n\nまだ住所を持たない街から、足元へ滑った小さなタイル。\n\n持ち帰る\n\n夢を離れる"
+    },
+    {
+      "number": 20,
+      "at": "2026-10-10T02:26:11.656Z",
+      "action": {
+        "id": "v19-carry",
+        "op": "tap",
+        "x": 194,
+        "y": 727,
+        "wait": 600,
+        "note": "The first object offering an explicit souvenir appears in the deeper White City. Choose to carry it home."
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#quiet",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/0a84455433c09af7bd6f506f162a6535f87cb40f/live-results/aesthetic-20261010-01/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n夢を離れる\n\nDREAM MEMORY\n\n夢から残ったもの\n\nWORLD MEMORY\nTHING THAT REMAINED\nWORLD MEMORY + REMAINS\n住所のない白いタイル\n白い街の一片 — まだ住所を持たない街から、足元へ滑った小さなタイル。\n言葉を添える\nアトリエへ戻る\nDiaryへ持ち帰る"
     }
   ]
 }
