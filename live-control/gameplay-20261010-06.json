@@ -1,1 +1,1 @@
-{"id":"g18-wait","op":"wait","wait":3200,"note":"Wait for the gate-to-White-City transition before judging controls."}
+{"id":"g19-tile","op":"tap","x":98,"y":754,"wait":550,"note":"The floating cyan tile is a reward-shaped collectible. Touch it."}
