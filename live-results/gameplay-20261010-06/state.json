@@ -6,19 +6,19 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-10T02:50:21.490Z",
-  "updatedAt": "2026-10-10T02:52:24.313Z",
-  "lastCommand": "g05-enter-garden",
+  "updatedAt": "2026-10-10T02:52:43.946Z",
+  "lastCommand": "g06-early-gate",
   "stopReason": null,
   "action": {
-    "id": "g05-enter-garden",
+    "id": "g06-early-gate",
     "op": "tap",
-    "x": 192,
-    "y": 788,
-    "wait": 500,
-    "note": "Five finds hinted, so step into the Garden and test collection."
+    "x": 307,
+    "y": 224,
+    "wait": 430,
+    "note": "The large glowing door reads as destination; tap before collecting five to see if choice is constrained."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/c6451f12fea00cb9d20fdb65c5958f0480ce71ff/live-results/gameplay-20261010-06/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/7c7468968bcce4ab329d27be7c77a57454d3f59f/live-results/gameplay-20261010-06/current.jpg",
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -30,7 +30,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n0 / 5\n見つけたもの\n",
+  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n0 / 5\n見つけたもの\n取っ手の向こうで、鍵穴の光がひとつ消えた。",
   "controls": [
     {
       "tag": "BUTTON",
@@ -307,6 +307,22 @@
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/c6451f12fea00cb9d20fdb65c5958f0480ce71ff/live-results/gameplay-20261010-06/current.jpg",
       "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n0 / 5\n見つけたもの\n"
+    },
+    {
+      "number": 8,
+      "at": "2026-10-10T02:52:43.946Z",
+      "action": {
+        "id": "g06-early-gate",
+        "op": "tap",
+        "x": 307,
+        "y": 224,
+        "wait": 430,
+        "note": "The large glowing door reads as destination; tap before collecting five to see if choice is constrained."
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/7c7468968bcce4ab329d27be7c77a57454d3f59f/live-results/gameplay-20261010-06/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n0 / 5\n見つけたもの\n取っ手の向こうで、鍵穴の光がひとつ消えた。"
     }
   ]
 }
