@@ -6,18 +6,18 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-10T02:45:22.701Z",
-  "updatedAt": "2026-10-10T02:46:25.206Z",
-  "lastCommand": "g01",
+  "updatedAt": "2026-10-10T02:47:03.421Z",
+  "lastCommand": "g02",
   "stopReason": null,
   "action": {
-    "id": "g01",
+    "id": "g02",
     "op": "tap",
-    "x": 195,
-    "y": 530,
-    "note": "宝石の入口が気になる。夢に入って、触れるものや分岐を探したい。"
+    "x": 335,
+    "y": 771,
+    "note": "毎回入口が違うなら、もう一周する意味がありそう。まず説明を先へ読む。"
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/4179b101a99825dce7ec0741f1577d2295bc04e8/live-results/game-20261010-codex-05/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/2cc6b28a9e6b1c201b95552dfe736bbdae219fb7/live-results/game-20261010-codex-05/current.jpg",
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -29,7 +29,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n\n\nWORLD\n夢の入り口は、毎回すこし違う。\n次へ",
+  "text": "作品へ移動\n\n\nINTERACTION\n\nSound On\n\nSound Off\n触れる\n持ち帰る\n仕舞う\n次へ戻る",
   "controls": [
     {
       "tag": "BUTTON",
@@ -55,10 +55,76 @@
     },
     {
       "tag": "BUTTON",
+      "text": "Sound On",
+      "disabled": false,
+      "rect": {
+        "x": 97,
+        "y": 464,
+        "w": 93,
+        "h": 38
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Sound Off",
+      "disabled": false,
+      "rect": {
+        "x": 198,
+        "y": 464,
+        "w": 95,
+        "h": 38
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "触れる",
+      "disabled": false,
+      "rect": {
+        "x": 86,
+        "y": 518,
+        "w": 65,
+        "h": 38
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "持ち帰る",
+      "disabled": false,
+      "rect": {
+        "x": 157,
+        "y": 518,
+        "w": 76,
+        "h": 38
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "仕舞う",
+      "disabled": false,
+      "rect": {
+        "x": 240,
+        "y": 518,
+        "w": 65,
+        "h": 38
+      }
+    },
+    {
+      "tag": "BUTTON",
       "text": "次へ",
       "disabled": false,
       "rect": {
         "x": 300,
+        "y": 748,
+        "w": 72,
+        "h": 44
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "戻る",
+      "disabled": false,
+      "rect": {
+        "x": 18,
         "y": 748,
         "w": 72,
         "h": 44
@@ -93,6 +159,21 @@
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/4179b101a99825dce7ec0741f1577d2295bc04e8/live-results/game-20261010-codex-05/current.jpg",
       "text": "作品へ移動\n\n\nWORLD\n夢の入り口は、毎回すこし違う。\n次へ"
+    },
+    {
+      "number": 3,
+      "at": "2026-10-10T02:47:03.421Z",
+      "action": {
+        "id": "g02",
+        "op": "tap",
+        "x": 335,
+        "y": 771,
+        "note": "毎回入口が違うなら、もう一周する意味がありそう。まず説明を先へ読む。"
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/2cc6b28a9e6b1c201b95552dfe736bbdae219fb7/live-results/game-20261010-codex-05/current.jpg",
+      "text": "作品へ移動\n\n\nINTERACTION\n\nSound On\n\nSound Off\n触れる\n持ち帰る\n仕舞う\n次へ戻る"
     }
   ]
 }
