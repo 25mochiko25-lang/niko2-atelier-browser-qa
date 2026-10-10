@@ -6,19 +6,19 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-10T02:17:47.519Z",
-  "updatedAt": "2026-10-10T02:22:42.427Z",
-  "lastCommand": "v10-close-cup",
+  "updatedAt": "2026-10-10T02:23:04.742Z",
+  "lastCommand": "v11-bear",
   "stopReason": null,
   "action": {
-    "id": "v10-close-cup",
+    "id": "v11-bear",
     "op": "tap",
-    "x": 337,
-    "y": 682,
-    "wait": 250,
-    "note": "Second fragment repeats collection-card format with timestamp, but has unique text. Close and consider other props."
+    "x": 345,
+    "y": 512,
+    "wait": 500,
+    "note": "Teddy in frame is a prominent non-gemstone prop; see if it responds and differs from the first two."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/ad2ca06ed7c0d9fa0655454bd3f5e2bf18e56c7f/live-results/aesthetic-20261010-01/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/f13907288670544acfb4e359565da8e19071ea11/live-results/aesthetic-20261010-01/current.jpg",
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -30,7 +30,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n2 / 5\n見つけたもの\n紙の裏に、消したはずの時刻がひとつ残っている。",
+  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n3 / 5\n見つけたもの\nCG-01-A_03.DRM\n11:23:02\n\nFRAGMENT / 03\n\n置き去りのくま\n名前はもうない。それでも、いつもの方を向いている。\n紙の裏に、消したはずの時刻がひとつ残っている。",
   "controls": [
     {
       "tag": "BUTTON",
@@ -89,7 +89,7 @@
     },
     {
       "tag": "BUTTON",
-      "text": "置き去りのくまに触れる",
+      "text": "置き去りのくま（発見済み）",
       "disabled": false,
       "rect": {
         "x": 280,
@@ -195,6 +195,17 @@
         "y": 178,
         "w": 72,
         "h": 95
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "見つけた記憶を閉じる",
+      "disabled": false,
+      "rect": {
+        "x": 324,
+        "y": 654,
+        "w": 24,
+        "h": 23
       }
     }
   ],
@@ -371,6 +382,22 @@
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/ad2ca06ed7c0d9fa0655454bd3f5e2bf18e56c7f/live-results/aesthetic-20261010-01/current.jpg",
       "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n2 / 5\n見つけたもの\n紙の裏に、消したはずの時刻がひとつ残っている。"
+    },
+    {
+      "number": 12,
+      "at": "2026-10-10T02:23:04.741Z",
+      "action": {
+        "id": "v11-bear",
+        "op": "tap",
+        "x": 345,
+        "y": 512,
+        "wait": 500,
+        "note": "Teddy in frame is a prominent non-gemstone prop; see if it responds and differs from the first two."
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/f13907288670544acfb4e359565da8e19071ea11/live-results/aesthetic-20261010-01/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n3 / 5\n見つけたもの\nCG-01-A_03.DRM\n11:23:02\n\nFRAGMENT / 03\n\n置き去りのくま\n名前はもうない。それでも、いつもの方を向いている。\n紙の裏に、消したはずの時刻がひとつ残っている。"
     }
   ]
 }
