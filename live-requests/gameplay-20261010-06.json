@@ -1,0 +1,8 @@
+{
+  "session": "gameplay-20261010-06",
+  "target": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+  "persona": "game-player",
+  "mode": "observer-driven",
+  "device": "mobile",
+  "observation": "Simulated exploration-game player. Test whether choices feel consequential, how collection count works, transition to reward, revisit and controls. Choose steps from screen, leave naturally; do not hack state."
+}
