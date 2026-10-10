@@ -6,18 +6,18 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-10T02:45:22.701Z",
-  "updatedAt": "2026-10-10T02:53:55.313Z",
-  "lastCommand": "g17",
+  "updatedAt": "2026-10-10T02:54:57.359Z",
+  "lastCommand": "g18",
   "stopReason": null,
   "action": {
-    "id": "g17",
+    "id": "g18",
     "op": "tap",
-    "x": 90,
-    "y": 556,
-    "note": "写真と花弁が一組で残るのはうれしい。『言葉を添える』で自分の感想も残せるか見たい。"
+    "x": 183,
+    "y": 559,
+    "note": "感想欄を選ぶ。鍵で記憶を開いたことと、庭が城へ変わったことを覚えておきたい。"
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/24242713a0ec2c5442a77241127d78ebb81663a9/live-results/game-20261010-codex-05/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/db773ba1340b59196040bc880fb745256d2317ee/live-results/game-20261010-codex-05/current.jpg",
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#quiet",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -59,7 +59,7 @@
       "disabled": false,
       "rect": {
         "x": 75,
-        "y": 712,
+        "y": 711,
         "w": 69,
         "h": 69
       }
@@ -396,6 +396,21 @@
       "error": null,
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#quiet",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/24242713a0ec2c5442a77241127d78ebb81663a9/live-results/game-20261010-codex-05/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n夢を離れる\n\nDREAM MEMORY\n\n夢から残ったもの\n\nWORLD MEMORY\nTHING THAT REMAINED\nWORLD MEMORY + REMAINS\n白い石に残った花弁\n帰る花弁 — 空へ昇った庭から、一枚だけ残った。\n言葉を閉じる\n夢のあとに残す言葉\n\nアトリエへ戻る\nDiaryへ持ち帰る"
+    },
+    {
+      "number": 19,
+      "at": "2026-10-10T02:54:57.359Z",
+      "action": {
+        "id": "g18",
+        "op": "tap",
+        "x": 183,
+        "y": 559,
+        "note": "感想欄を選ぶ。鍵で記憶を開いたことと、庭が城へ変わったことを覚えておきたい。"
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#quiet",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/db773ba1340b59196040bc880fb745256d2317ee/live-results/game-20261010-codex-05/current.jpg",
       "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n夢を離れる\n\nDREAM MEMORY\n\n夢から残ったもの\n\nWORLD MEMORY\nTHING THAT REMAINED\nWORLD MEMORY + REMAINS\n白い石に残った花弁\n帰る花弁 — 空へ昇った庭から、一枚だけ残った。\n言葉を閉じる\n夢のあとに残す言葉\n\nアトリエへ戻る\nDiaryへ持ち帰る"
     }
   ]
