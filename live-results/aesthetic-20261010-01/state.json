@@ -6,20 +6,20 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-10T02:17:47.519Z",
-  "updatedAt": "2026-10-10T02:26:11.656Z",
-  "lastCommand": "v19-carry",
+  "updatedAt": "2026-10-10T02:26:35.494Z",
+  "lastCommand": "v20-diary",
   "stopReason": null,
   "action": {
-    "id": "v19-carry",
+    "id": "v20-diary",
     "op": "tap",
-    "x": 194,
-    "y": 727,
-    "wait": 600,
-    "note": "The first object offering an explicit souvenir appears in the deeper White City. Choose to carry it home."
+    "x": 195,
+    "y": 646,
+    "wait": 800,
+    "note": "A printed memory card with polaroids and actual object thumbnail makes the collection feel more authored; take it to Diary."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/0a84455433c09af7bd6f506f162a6535f87cb40f/live-results/aesthetic-20261010-01/current.jpg",
-  "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#quiet",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/301e2e9370454a37933458200c5154955c87f71b/live-results/aesthetic-20261010-01/current.jpg",
+  "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#diary",
   "title": "NIKO² ATELIER",
   "viewport": {
     "width": 390,
@@ -30,8 +30,30 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n夢を離れる\n\nDREAM MEMORY\n\n夢から残ったもの\n\nWORLD MEMORY\nTHING THAT REMAINED\nWORLD MEMORY + REMAINS\n住所のない白いタイル\n白い街の一片 — まだ住所を持たない街から、足元へ滑った小さなタイル。\n言葉を添える\nアトリエへ戻る\nDiaryへ持ち帰る",
+  "text": "作品へ移動\nNIKO² ATELIER\nHome\n\nNIKO² DIARY\nDiary\n今日のことを、ひとつだけ。\n10月10日 11:26\n持ち帰った夢が、まだ手元にあります。\n← さっきの空へ戻る\nTODAY\n今日を残す\n✦\nいまの気配\n\n静か\n\nきらきら\n\nぼんやり\n\nざわざわ\n\n甘い\n\n雨っぽい\n\n眠い\n\n何もない\nPHOTO\n写真\n選択なし\nまち\n部屋\n買ったもの\n遊び\n食べもの\nその他\n写真を眺める\n‹\n›\n\n\n自販機\n\n\nホーム\n\n\n改札\n\n\n途中\n\n\nロッカー\n\n\nエレベーター\n\n\nガラス扉\n\n\n空席\n\n\n雨の改札\n\n\n22:47\n\n\n青空\n\n\n夕方\n\n\n夜空\n\n\n空の間\n\n\n夕方の壁\n\n\n雨あがり\n言葉\nOPTIONAL\nこの端末だけに残ります\n残す\nRECENT\n少し前の自分\n\n白い街の一片\n10/10\n2026年10月\nMONTHLY REFLECTION\n今月の景色\nよく残った気配\n静かな余白\nよく残った色\n色のない紙片\nよく残ったモチーフ\n名前のないもの\nまだ記録が少ないので、傾向ではなく、残ったものをそのまま眺めています。\nもう少し見る\nARCHIVE\n前の日々をひらく\n\nWHAT REMAINED\n残ったものを見る\nアトリエへ戻る\n",
   "controls": [
+    {
+      "tag": "A",
+      "text": "NIKO² ATELIER",
+      "disabled": false,
+      "rect": {
+        "x": 25,
+        "y": 13,
+        "w": 124,
+        "h": 44
+      }
+    },
+    {
+      "tag": "A",
+      "text": "Home",
+      "disabled": false,
+      "rect": {
+        "x": 25,
+        "y": 57,
+        "w": 124,
+        "h": 44
+      }
+    },
     {
       "tag": "BUTTON",
       "text": "音をオンにする",
@@ -45,79 +67,244 @@
     },
     {
       "tag": "BUTTON",
-      "text": "夢の見覚え ✧︎",
-      "disabled": false,
-      "rect": {
-        "x": 315,
-        "y": 56,
-        "w": 61,
-        "h": 30
-      }
-    },
-    {
-      "tag": "BUTTON",
       "text": "白い街の一片に触れる",
       "disabled": false,
       "rect": {
-        "x": 63,
-        "y": 721,
+        "x": 64,
+        "y": 720,
         "w": 69,
         "h": 69
       }
     },
     {
       "tag": "BUTTON",
-      "text": "夢を離れる",
+      "text": "← さっきの空へ戻る",
       "disabled": false,
       "rect": {
-        "x": 22,
-        "y": 782,
-        "w": 100,
+        "x": 234,
+        "y": 258,
+        "w": 122,
+        "h": 40
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "静か",
+      "disabled": false,
+      "rect": {
+        "x": 42,
+        "y": 428,
+        "w": 84,
         "h": 44
       }
     },
     {
       "tag": "BUTTON",
-      "text": "日記を閉じる",
+      "text": "きらきら",
       "disabled": false,
       "rect": {
-        "x": 313,
-        "y": 126,
+        "x": 133,
+        "y": 428,
+        "w": 99,
+        "h": 44
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "ぼんやり",
+      "disabled": false,
+      "rect": {
+        "x": 239,
+        "y": 428,
+        "w": 109,
+        "h": 44
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "ざわざわ",
+      "disabled": false,
+      "rect": {
+        "x": 42,
+        "y": 481,
+        "w": 99,
+        "h": 44
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "甘い",
+      "disabled": false,
+      "rect": {
+        "x": 148,
+        "y": 481,
+        "w": 81,
+        "h": 44
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "雨っぽい",
+      "disabled": false,
+      "rect": {
+        "x": 236,
+        "y": 481,
+        "w": 112,
+        "h": 44
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "眠い",
+      "disabled": false,
+      "rect": {
+        "x": 42,
+        "y": 534,
+        "w": 91,
+        "h": 44
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "何もない",
+      "disabled": false,
+      "rect": {
+        "x": 140,
+        "y": 534,
+        "w": 112,
+        "h": 44
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "まち",
+      "disabled": false,
+      "rect": {
+        "x": 52,
+        "y": 651,
+        "w": 92,
+        "h": 39
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "部屋",
+      "disabled": false,
+      "rect": {
+        "x": 149,
+        "y": 651,
+        "w": 92,
+        "h": 39
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "買ったもの",
+      "disabled": false,
+      "rect": {
+        "x": 246,
+        "y": 651,
+        "w": 92,
+        "h": 39
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "遊び",
+      "disabled": false,
+      "rect": {
+        "x": 52,
+        "y": 694,
+        "w": 92,
+        "h": 39
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "食べもの",
+      "disabled": false,
+      "rect": {
+        "x": 149,
+        "y": 694,
+        "w": 92,
+        "h": 39
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "その他",
+      "disabled": false,
+      "rect": {
+        "x": 246,
+        "y": 694,
+        "w": 92,
+        "h": 39
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "写真を眺める",
+      "disabled": false,
+      "rect": {
+        "x": 154,
+        "y": 746,
+        "w": 75,
+        "h": 40
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "‹",
+      "disabled": true,
+      "rect": {
+        "x": 241,
+        "y": 744,
         "w": 44,
         "h": 44
       }
     },
     {
       "tag": "BUTTON",
-      "text": "言葉を添える",
+      "text": "›",
       "disabled": false,
       "rect": {
-        "x": 38,
-        "y": 545,
-        "w": 103,
+        "x": 293,
+        "y": 744,
+        "w": 44,
         "h": 44
       }
     },
     {
       "tag": "BUTTON",
-      "text": "アトリエへ戻る",
+      "text": "自販機",
       "disabled": false,
       "rect": {
-        "x": 38,
-        "y": 679,
-        "w": 314,
-        "h": 40
+        "x": 55,
+        "y": 801,
+        "w": 144,
+        "h": 178
       }
     },
     {
       "tag": "BUTTON",
-      "text": "Diaryへ持ち帰る",
+      "text": "ホーム",
       "disabled": false,
       "rect": {
-        "x": 38,
-        "y": 624,
-        "w": 314,
-        "h": 48
+        "x": 183,
+        "y": 803,
+        "w": 142,
+        "h": 177
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "改札",
+      "disabled": false,
+      "rect": {
+        "x": 311,
+        "y": 804,
+        "w": 140,
+        "h": 175
       }
     }
   ],
@@ -436,6 +623,22 @@
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#quiet",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/0a84455433c09af7bd6f506f162a6535f87cb40f/live-results/aesthetic-20261010-01/current.jpg",
       "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n夢を離れる\n\nDREAM MEMORY\n\n夢から残ったもの\n\nWORLD MEMORY\nTHING THAT REMAINED\nWORLD MEMORY + REMAINS\n住所のない白いタイル\n白い街の一片 — まだ住所を持たない街から、足元へ滑った小さなタイル。\n言葉を添える\nアトリエへ戻る\nDiaryへ持ち帰る"
+    },
+    {
+      "number": 21,
+      "at": "2026-10-10T02:26:35.494Z",
+      "action": {
+        "id": "v20-diary",
+        "op": "tap",
+        "x": 195,
+        "y": 646,
+        "wait": 800,
+        "note": "A printed memory card with polaroids and actual object thumbnail makes the collection feel more authored; take it to Diary."
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#diary",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/301e2e9370454a37933458200c5154955c87f71b/live-results/aesthetic-20261010-01/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\nHome\n\nNIKO² DIARY\nDiary\n今日のことを、ひとつだけ。\n10月10日 11:26\n持ち帰った夢が、まだ手元にあります。\n← さっきの空へ戻る\nTODAY\n今日を残す\n✦\nいまの気配\n\n静か\n\nきらきら\n\nぼんやり\n\nざわざわ\n\n甘い\n\n雨っぽい\n\n眠い\n\n何もない\nPHOTO\n写真\n選択なし\nまち\n部屋\n買ったもの\n遊び\n食べもの\nその他\n写真を眺める\n‹\n›\n\n\n自販機\n\n\nホーム\n\n\n改札\n\n\n途中\n\n\nロッカー\n\n\nエレベーター\n\n\nガラス扉\n\n\n空席\n\n\n雨の改札\n\n\n22:47\n\n\n青空\n\n\n夕方\n\n\n夜空\n\n\n空の間\n\n\n夕方の壁\n\n\n雨あがり\n言葉\nOPTIONAL\nこの端末だけに残ります\n残す\nRECENT\n少し前の自分\n\n白い街の一片\n10/10\n2026年10月\nMONTHLY REFLECTION\n今月の景色\nよく残った気配\n静かな余白\nよく残った色\n色のない紙片\nよく残ったモチーフ\n名前のないもの\nまだ記録が少ないので、傾向ではなく、残ったものをそのまま眺めています。\nもう少し見る\nARCHIVE\n前の日々をひらく\n\nWHAT REMAINED\n残ったものを見る\nアトリエへ戻る\n"
     }
   ]
 }
