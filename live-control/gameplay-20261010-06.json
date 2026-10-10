@@ -1,1 +1,1 @@
-{"id":"g05-garden","op":"tap","x":193,"y":787,"wait":550,"note":"The 0/5 reads like collectible objectives. Enter and try the rule."}
+{"id":"g05-enter-garden","op":"tap","x":192,"y":788,"wait":500,"note":"Five finds hinted, so step into the Garden and test collection."}
