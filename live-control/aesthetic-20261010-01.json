@@ -1,1 +1,1 @@
-{"id":"v20-diary","op":"tap","x":195,"y":646,"wait":800,"note":"A printed memory card with polaroids and actual object thumbnail makes the collection feel more authored; take it to Diary."}
+{"id":"v21-diary-look","op":"wait","wait":1800,"note":"A large collage of printed city fragments overlaps the Diary header after navigation; wait for intro animation and inspect the final settled view."}
