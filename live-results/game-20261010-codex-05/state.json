@@ -6,18 +6,18 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-10T02:45:22.701Z",
-  "updatedAt": "2026-10-10T03:02:03.033Z",
-  "lastCommand": "g33",
+  "updatedAt": "2026-10-10T03:02:25.693Z",
+  "lastCommand": "g34",
   "stopReason": null,
   "action": {
-    "id": "g33",
+    "id": "g34",
     "op": "tap",
-    "x": 216,
-    "y": 514,
-    "note": "鍵の文は前と同じだった。3/5になったので、この庭の五つを集めると何が起きるか気になる。カップを調べる。"
+    "x": 350,
+    "y": 515,
+    "note": "4/5まで来た。くまももう一度見つけて、この庭を集めきった反応を見たい。"
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/b371503ad0e9ac2e52fa84b536f8b84efc08115e/live-results/game-20261010-codex-05/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/6e6d2fe23c7d5365b061538d32d185b1bfb04870/live-results/game-20261010-codex-05/current.jpg",
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -29,7 +29,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n4 / 5\n見つけたもの\nCG-01-A_04.DRM\n12:02:00\n\nFRAGMENT / 04\n\nまだあたたかいカップ\nほんのり湯気が残る。まだ、誰かの気配がする。\n紙の裏に、消したはずの時刻がひとつ残っている。",
+  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n5 / 5\n見つけたもの\n\nあの扉が、こちらを呼んでいる。\n触れて、向こうへ\n紙の裏に、消したはずの時刻がひとつ残っている。",
   "controls": [
     {
       "tag": "BUTTON",
@@ -56,7 +56,7 @@
     {
       "tag": "BUTTON",
       "text": "止まりかけの砂時計（発見済み）",
-      "disabled": false,
+      "disabled": true,
       "rect": {
         "x": -47,
         "y": 354,
@@ -67,7 +67,7 @@
     {
       "tag": "BUTTON",
       "text": "N² Eau de rêve（発見済み）",
-      "disabled": false,
+      "disabled": true,
       "rect": {
         "x": 42,
         "y": 483,
@@ -78,7 +78,7 @@
     {
       "tag": "BUTTON",
       "text": "まだあたたかいカップ（発見済み）",
-      "disabled": false,
+      "disabled": true,
       "rect": {
         "x": 172,
         "y": 479,
@@ -88,8 +88,8 @@
     },
     {
       "tag": "BUTTON",
-      "text": "置き去りのくまに触れる",
-      "disabled": false,
+      "text": "置き去りのくま（発見済み）",
+      "disabled": true,
       "rect": {
         "x": 280,
         "y": 442,
@@ -100,7 +100,7 @@
     {
       "tag": "BUTTON",
       "text": "青いリボンの鍵（発見済み）",
-      "disabled": false,
+      "disabled": true,
       "rect": {
         "x": 110,
         "y": 535,
@@ -111,7 +111,7 @@
     {
       "tag": "BUTTON",
       "text": "テーブルのメモをめくる",
-      "disabled": false,
+      "disabled": true,
       "rect": {
         "x": 174,
         "y": 539,
@@ -122,7 +122,7 @@
     {
       "tag": "BUTTON",
       "text": "くまのそばの本を開く",
-      "disabled": false,
+      "disabled": true,
       "rect": {
         "x": 312,
         "y": 537,
@@ -133,7 +133,7 @@
     {
       "tag": "BUTTON",
       "text": "ティーポットに触れる",
-      "disabled": false,
+      "disabled": true,
       "rect": {
         "x": 105,
         "y": 432,
@@ -144,7 +144,7 @@
     {
       "tag": "BUTTON",
       "text": "花に触れる",
-      "disabled": false,
+      "disabled": true,
       "rect": {
         "x": -17,
         "y": 293,
@@ -155,7 +155,7 @@
     {
       "tag": "BUTTON",
       "text": "水面に触れる",
-      "disabled": false,
+      "disabled": true,
       "rect": {
         "x": 186,
         "y": 286,
@@ -166,7 +166,7 @@
     {
       "tag": "BUTTON",
       "text": "レースのカーテンに触れる",
-      "disabled": false,
+      "disabled": true,
       "rect": {
         "x": 0,
         "y": 158,
@@ -177,7 +177,7 @@
     {
       "tag": "BUTTON",
       "text": "石の柱を軽く叩く",
-      "disabled": false,
+      "disabled": true,
       "rect": {
         "x": 51,
         "y": 192,
@@ -190,21 +190,10 @@
       "text": "遠くの白い門に触れる",
       "disabled": false,
       "rect": {
-        "x": 267,
-        "y": 178,
-        "w": 72,
-        "h": 95
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "見つけた記憶を閉じる",
-      "disabled": false,
-      "rect": {
-        "x": 324,
-        "y": 673,
-        "w": 24,
-        "h": 23
+        "x": 213,
+        "y": 151,
+        "w": 189,
+        "h": 325
       }
     }
   ],
@@ -712,6 +701,21 @@
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/b371503ad0e9ac2e52fa84b536f8b84efc08115e/live-results/game-20261010-codex-05/current.jpg",
       "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n4 / 5\n見つけたもの\nCG-01-A_04.DRM\n12:02:00\n\nFRAGMENT / 04\n\nまだあたたかいカップ\nほんのり湯気が残る。まだ、誰かの気配がする。\n紙の裏に、消したはずの時刻がひとつ残っている。"
+    },
+    {
+      "number": 35,
+      "at": "2026-10-10T03:02:25.693Z",
+      "action": {
+        "id": "g34",
+        "op": "tap",
+        "x": 350,
+        "y": 515,
+        "note": "4/5まで来た。くまももう一度見つけて、この庭を集めきった反応を見たい。"
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/6e6d2fe23c7d5365b061538d32d185b1bfb04870/live-results/game-20261010-codex-05/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n5 / 5\n見つけたもの\n\nあの扉が、こちらを呼んでいる。\n触れて、向こうへ\n紙の裏に、消したはずの時刻がひとつ残っている。"
     }
   ]
 }
