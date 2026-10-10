@@ -6,14 +6,18 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-10T02:45:22.701Z",
-  "updatedAt": "2026-10-10T02:45:28.428Z",
-  "lastCommand": null,
+  "updatedAt": "2026-10-10T02:46:25.206Z",
+  "lastCommand": "g01",
   "stopReason": null,
   "action": {
-    "op": "arrival"
+    "id": "g01",
+    "op": "tap",
+    "x": 195,
+    "y": 530,
+    "note": "宝石の入口が気になる。夢に入って、触れるものや分岐を探したい。"
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/c1ed53b20afb053a369fa1dcd9c61fa394892b58/live-results/game-20261010-codex-05/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/4179b101a99825dce7ec0741f1577d2295bc04e8/live-results/game-20261010-codex-05/current.jpg",
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -25,7 +29,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n\n",
+  "text": "作品へ移動\n\n\nWORLD\n夢の入り口は、毎回すこし違う。\n次へ",
   "controls": [
     {
       "tag": "BUTTON",
@@ -48,6 +52,17 @@
         "w": 210,
         "h": 70
       }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "次へ",
+      "disabled": false,
+      "rect": {
+        "x": 300,
+        "y": 748,
+        "w": 72,
+        "h": 44
+      }
     }
   ],
   "pageErrors": [],
@@ -63,6 +78,21 @@
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/c1ed53b20afb053a369fa1dcd9c61fa394892b58/live-results/game-20261010-codex-05/current.jpg",
       "text": "作品へ移動\n\n"
+    },
+    {
+      "number": 2,
+      "at": "2026-10-10T02:46:25.206Z",
+      "action": {
+        "id": "g01",
+        "op": "tap",
+        "x": 195,
+        "y": 530,
+        "note": "宝石の入口が気になる。夢に入って、触れるものや分岐を探したい。"
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/4179b101a99825dce7ec0741f1577d2295bc04e8/live-results/game-20261010-codex-05/current.jpg",
+      "text": "作品へ移動\n\n\nWORLD\n夢の入り口は、毎回すこし違う。\n次へ"
     }
   ]
 }
