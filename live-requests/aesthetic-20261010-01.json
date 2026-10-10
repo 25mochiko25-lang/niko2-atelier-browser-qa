@@ -1,0 +1,9 @@
+{
+  "session": "aesthetic-20261010-01",
+  "target": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+  "persona": "visual-critic",
+  "mode": "observer-driven",
+  "device": "mobile",
+  "observation": "Own fresh session. Do not read founder specs or other visitor results; choose actions from what appears onscreen. Report visual first impression with concrete details; do not pre-label anything cheap.",
+  "stopPolicy": "Stop only for a real visitor reason; infrastructure interruption is not visitor preference."
+}
