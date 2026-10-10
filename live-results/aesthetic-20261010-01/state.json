@@ -6,19 +6,19 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-10T02:17:47.519Z",
-  "updatedAt": "2026-10-10T02:20:54.531Z",
-  "lastCommand": "v06-perfume",
+  "updatedAt": "2026-10-10T02:21:22.153Z",
+  "lastCommand": "v07-close",
   "stopReason": null,
   "action": {
-    "id": "v06-perfume",
+    "id": "v07-close",
     "op": "tap",
-    "x": 78,
-    "y": 521,
-    "wait": 600,
-    "note": "The small jewel-like perfume bottle is the strongest foreground focal object; try it."
+    "x": 339,
+    "y": 663,
+    "wait": 500,
+    "note": "Fragment detail, numbered ID and timestamp add a more specific identity than generic pastel art. Close to find other discoveries."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/0127fc7b7d51c947e104fbd69414006abd04b9ec/live-results/aesthetic-20261010-01/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/914e820ac039ce5956146b9c00ad80330f59ea8d/live-results/aesthetic-20261010-01/current.jpg",
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -30,7 +30,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n1 / 5\n見つけたもの\nCG-01-A_01.DRM\n11:20:51\n\nFRAGMENT / 01\n\nN² Eau de rêve\nキャップは常に閉じているのに、帰らない部屋の香りがした。\n",
+  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n1 / 5\n見つけたもの\n",
   "controls": [
     {
       "tag": "BUTTON",
@@ -196,17 +196,6 @@
         "w": 72,
         "h": 95
       }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "見つけた記憶を閉じる",
-      "disabled": false,
-      "rect": {
-        "x": 324,
-        "y": 654,
-        "w": 24,
-        "h": 23
-      }
     }
   ],
   "pageErrors": [],
@@ -318,6 +307,22 @@
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/0127fc7b7d51c947e104fbd69414006abd04b9ec/live-results/aesthetic-20261010-01/current.jpg",
       "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n1 / 5\n見つけたもの\nCG-01-A_01.DRM\n11:20:51\n\nFRAGMENT / 01\n\nN² Eau de rêve\nキャップは常に閉じているのに、帰らない部屋の香りがした。\n"
+    },
+    {
+      "number": 8,
+      "at": "2026-10-10T02:21:22.153Z",
+      "action": {
+        "id": "v07-close",
+        "op": "tap",
+        "x": 339,
+        "y": 663,
+        "wait": 500,
+        "note": "Fragment detail, numbered ID and timestamp add a more specific identity than generic pastel art. Close to find other discoveries."
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/914e820ac039ce5956146b9c00ad80330f59ea8d/live-results/aesthetic-20261010-01/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n1 / 5\n見つけたもの\n"
     }
   ]
 }
