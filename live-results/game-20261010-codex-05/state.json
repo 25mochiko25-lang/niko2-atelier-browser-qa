@@ -6,18 +6,18 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-10T02:45:22.701Z",
-  "updatedAt": "2026-10-10T03:03:57.177Z",
-  "lastCommand": "g37",
+  "updatedAt": "2026-10-10T03:04:25.488Z",
+  "lastCommand": "g38",
   "stopReason": null,
   "action": {
-    "id": "g37",
+    "id": "g38",
     "op": "tap",
-    "x": 293,
-    "y": 584,
-    "note": "今度は城ではなく、くまが大きく座っている結末になった。椅子の光る糸結びを持ち帰れるか触る。"
+    "x": 195,
+    "y": 727,
+    "note": "二周目には違う景色と違う記念品があった。青い糸も持ち帰って、今日の探索を終えたい。"
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/93eba571ecc050eaaa6d08c3b11ec88ae47c5d84/live-results/game-20261010-codex-05/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/a02845b39ee70a90b28e2b3e387391653cad87b4/live-results/game-20261010-codex-05/current.jpg",
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#quiet",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -29,7 +29,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n夢の見覚え ✧︎\n\nくまの右手に、青い糸がひとつだけほどけていた。\n\n持ち帰る\n\n夢を離れる\nもう一度夢を見る\n過去の日記は消えません\n",
+  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n夢を離れる\nもう一度夢を見る\n過去の日記は消えません\n\nDREAM MEMORY\n\n夢から残ったもの\n\nWORLD MEMORY\nTHING THAT REMAINED\nWORLD MEMORY + REMAINS\n空を見ているくまの横顔\n待っていた糸結び — くまの右手に、青い糸がひとつだけほどけていた。\n言葉を添える\nアトリエへ戻る\nDiaryへ持ち帰る",
   "controls": [
     {
       "tag": "BUTTON",
@@ -58,21 +58,10 @@
       "text": "待っていた糸結びに触れる",
       "disabled": false,
       "rect": {
-        "x": 257,
+        "x": 258,
         "y": 549,
         "w": 69,
         "h": 69
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "持ち帰る",
-      "disabled": false,
-      "rect": {
-        "x": 139,
-        "y": 705,
-        "w": 112,
-        "h": 44
       }
     },
     {
@@ -95,6 +84,50 @@
         "y": 772,
         "w": 140,
         "h": 54
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "日記を閉じる",
+      "disabled": false,
+      "rect": {
+        "x": 313,
+        "y": 126,
+        "w": 44,
+        "h": 44
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "言葉を添える",
+      "disabled": false,
+      "rect": {
+        "x": 38,
+        "y": 545,
+        "w": 103,
+        "h": 44
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "アトリエへ戻る",
+      "disabled": false,
+      "rect": {
+        "x": 38,
+        "y": 679,
+        "w": 314,
+        "h": 40
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Diaryへ持ち帰る",
+      "disabled": false,
+      "rect": {
+        "x": 38,
+        "y": 624,
+        "w": 314,
+        "h": 48
       }
     }
   ],
@@ -660,6 +693,21 @@
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#quiet",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/93eba571ecc050eaaa6d08c3b11ec88ae47c5d84/live-results/game-20261010-codex-05/current.jpg",
       "text": "作品へ移動\n夢の見覚え ✧︎\n\nくまの右手に、青い糸がひとつだけほどけていた。\n\n持ち帰る\n\n夢を離れる\nもう一度夢を見る\n過去の日記は消えません\n"
+    },
+    {
+      "number": 39,
+      "at": "2026-10-10T03:04:25.488Z",
+      "action": {
+        "id": "g38",
+        "op": "tap",
+        "x": 195,
+        "y": 727,
+        "note": "二周目には違う景色と違う記念品があった。青い糸も持ち帰って、今日の探索を終えたい。"
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#quiet",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/a02845b39ee70a90b28e2b3e387391653cad87b4/live-results/game-20261010-codex-05/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n夢を離れる\nもう一度夢を見る\n過去の日記は消えません\n\nDREAM MEMORY\n\n夢から残ったもの\n\nWORLD MEMORY\nTHING THAT REMAINED\nWORLD MEMORY + REMAINS\n空を見ているくまの横顔\n待っていた糸結び — くまの右手に、青い糸がひとつだけほどけていた。\n言葉を添える\nアトリエへ戻る\nDiaryへ持ち帰る"
     }
   ]
 }
