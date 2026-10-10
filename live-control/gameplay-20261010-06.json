@@ -1,1 +1,1 @@
-{"id":"g15-close","op":"tap","x":336,"y":665,"wait":300,"note":"The key fragment explicitly says no door fits, suggesting it is poetic rather than a mechanical key."}
+{"id":"g16-hourglass","op":"tap","x":28,"y":413,"wait":750,"note":"The hourglass is the remaining prominent object. Complete 5/5 and observe whether a gate changes without forcing state."}
