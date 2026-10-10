@@ -6,19 +6,19 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-10T02:45:03.217Z",
-  "updatedAt": "2026-10-10T02:46:54.576Z",
-  "lastCommand": "l05-enter-garden",
+  "updatedAt": "2026-10-10T02:47:11.438Z",
+  "lastCommand": "l06-note",
   "stopReason": null,
   "action": {
-    "id": "l05-enter-garden",
+    "id": "l06-note",
     "op": "tap",
-    "x": 194,
-    "y": 790,
-    "wait": 450,
-    "note": "The opening couplet about a garden dreaming longer than its owner is elliptical but concrete enough to evoke an abandoned place. Explore object lines."
+    "x": 208,
+    "y": 572,
+    "wait": 480,
+    "note": "A letter on the table is more literary than a trinket. Read the hidden message."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/5d690a6d724ad4f00a723e23d2647794f5af0dcc/live-results/literary-20261010-05/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/a3e85c146049abb5415a5ea891382f4e89f84b02/live-results/literary-20261010-05/current.jpg",
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -30,7 +30,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n0 / 5\n見つけたもの\n",
+  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n0 / 5\n見つけたもの\n紙の裏に、消したはずの時刻がひとつ残っている。",
   "controls": [
     {
       "tag": "BUTTON",
@@ -291,6 +291,22 @@
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/5d690a6d724ad4f00a723e23d2647794f5af0dcc/live-results/literary-20261010-05/current.jpg",
       "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n0 / 5\n見つけたもの\n"
+    },
+    {
+      "number": 7,
+      "at": "2026-10-10T02:47:11.438Z",
+      "action": {
+        "id": "l06-note",
+        "op": "tap",
+        "x": 208,
+        "y": 572,
+        "wait": 480,
+        "note": "A letter on the table is more literary than a trinket. Read the hidden message."
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/a3e85c146049abb5415a5ea891382f4e89f84b02/live-results/literary-20261010-05/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n0 / 5\n見つけたもの\n紙の裏に、消したはずの時刻がひとつ残っている。"
     }
   ]
 }
