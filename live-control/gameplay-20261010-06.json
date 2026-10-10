@@ -1,1 +1,1 @@
-{"id":"g06-early-gate","op":"tap","x":307,"y":224,"wait":430,"note":"The large glowing door reads as destination; tap before collecting five to see if choice is constrained."}
+{"id":"g07-cup","op":"tap","x":216,"y":510,"wait":420,"note":"Collected item 1; compare the text and score effect."}
