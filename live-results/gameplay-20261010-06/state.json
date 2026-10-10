@@ -6,19 +6,19 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-10T02:50:21.490Z",
-  "updatedAt": "2026-10-10T02:52:19.083Z",
-  "lastCommand": "g05-garden",
+  "updatedAt": "2026-10-10T02:52:24.313Z",
+  "lastCommand": "g05-enter-garden",
   "stopReason": null,
   "action": {
-    "id": "g05-garden",
+    "id": "g05-enter-garden",
     "op": "tap",
-    "x": 193,
-    "y": 787,
-    "wait": 550,
-    "note": "The 0/5 reads like collectible objectives. Enter and try the rule."
+    "x": 192,
+    "y": 788,
+    "wait": 500,
+    "note": "Five finds hinted, so step into the Garden and test collection."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/695a881f8253d2a030cda3bfac0b8001aa497060/live-results/gameplay-20261010-06/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/c6451f12fea00cb9d20fdb65c5958f0480ce71ff/live-results/gameplay-20261010-06/current.jpg",
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -290,6 +290,22 @@
       "error": null,
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/695a881f8253d2a030cda3bfac0b8001aa497060/live-results/gameplay-20261010-06/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n0 / 5\n見つけたもの\n"
+    },
+    {
+      "number": 7,
+      "at": "2026-10-10T02:52:24.313Z",
+      "action": {
+        "id": "g05-enter-garden",
+        "op": "tap",
+        "x": 192,
+        "y": 788,
+        "wait": 500,
+        "note": "Five finds hinted, so step into the Garden and test collection."
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/c6451f12fea00cb9d20fdb65c5958f0480ce71ff/live-results/gameplay-20261010-06/current.jpg",
       "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n0 / 5\n見つけたもの\n"
     }
   ]
