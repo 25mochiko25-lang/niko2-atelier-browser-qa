@@ -6,19 +6,19 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-10T02:17:47.519Z",
-  "updatedAt": "2026-10-10T02:23:50.653Z",
-  "lastCommand": "v14-close-key",
+  "updatedAt": "2026-10-10T02:24:05.443Z",
+  "lastCommand": "v15-hourglass",
   "stopReason": null,
   "action": {
-    "id": "v14-close-key",
+    "id": "v15-hourglass",
     "op": "tap",
-    "x": 337,
-    "y": 666,
-    "wait": 250,
-    "note": "Fourth fragment is again wistful but specifically about a key and memory, not simple floral decoration."
+    "x": 33,
+    "y": 416,
+    "wait": 700,
+    "note": "The hourglass is an actual focal prop; complete a collection and see whether its form changes."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/fc0dd1a57a930e7b0b6b583fdeb07b95fa46768f/live-results/aesthetic-20261010-01/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/10d17f9bf36d2be3ea7a6b1fbce591e80e0c10b1/live-results/aesthetic-20261010-01/current.jpg",
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -30,7 +30,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n4 / 5\n見つけたもの\n紙の裏に、消したはずの時刻がひとつ残っている。",
+  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n5 / 5\n見つけたもの\n\nあの扉が、こちらを呼んでいる。\n触れて、向こうへ\n紙の裏に、消したはずの時刻がひとつ残っている。",
   "controls": [
     {
       "tag": "BUTTON",
@@ -56,8 +56,8 @@
     },
     {
       "tag": "BUTTON",
-      "text": "止まりかけの砂時計に触れる",
-      "disabled": false,
+      "text": "止まりかけの砂時計（発見済み）",
+      "disabled": true,
       "rect": {
         "x": -47,
         "y": 354,
@@ -68,7 +68,7 @@
     {
       "tag": "BUTTON",
       "text": "N² Eau de rêve（発見済み）",
-      "disabled": false,
+      "disabled": true,
       "rect": {
         "x": 42,
         "y": 483,
@@ -79,7 +79,7 @@
     {
       "tag": "BUTTON",
       "text": "まだあたたかいカップ（発見済み）",
-      "disabled": false,
+      "disabled": true,
       "rect": {
         "x": 172,
         "y": 479,
@@ -90,7 +90,7 @@
     {
       "tag": "BUTTON",
       "text": "置き去りのくま（発見済み）",
-      "disabled": false,
+      "disabled": true,
       "rect": {
         "x": 280,
         "y": 442,
@@ -101,7 +101,7 @@
     {
       "tag": "BUTTON",
       "text": "青いリボンの鍵（発見済み）",
-      "disabled": false,
+      "disabled": true,
       "rect": {
         "x": 110,
         "y": 535,
@@ -112,7 +112,7 @@
     {
       "tag": "BUTTON",
       "text": "テーブルのメモをめくる",
-      "disabled": false,
+      "disabled": true,
       "rect": {
         "x": 174,
         "y": 539,
@@ -123,7 +123,7 @@
     {
       "tag": "BUTTON",
       "text": "くまのそばの本を開く",
-      "disabled": false,
+      "disabled": true,
       "rect": {
         "x": 312,
         "y": 537,
@@ -134,7 +134,7 @@
     {
       "tag": "BUTTON",
       "text": "ティーポットに触れる",
-      "disabled": false,
+      "disabled": true,
       "rect": {
         "x": 105,
         "y": 432,
@@ -145,7 +145,7 @@
     {
       "tag": "BUTTON",
       "text": "花に触れる",
-      "disabled": false,
+      "disabled": true,
       "rect": {
         "x": -17,
         "y": 293,
@@ -156,7 +156,7 @@
     {
       "tag": "BUTTON",
       "text": "水面に触れる",
-      "disabled": false,
+      "disabled": true,
       "rect": {
         "x": 186,
         "y": 286,
@@ -167,7 +167,7 @@
     {
       "tag": "BUTTON",
       "text": "レースのカーテンに触れる",
-      "disabled": false,
+      "disabled": true,
       "rect": {
         "x": 0,
         "y": 158,
@@ -178,7 +178,7 @@
     {
       "tag": "BUTTON",
       "text": "石の柱を軽く叩く",
-      "disabled": false,
+      "disabled": true,
       "rect": {
         "x": 51,
         "y": 192,
@@ -191,10 +191,10 @@
       "text": "遠くの白い門に触れる",
       "disabled": false,
       "rect": {
-        "x": 267,
-        "y": 178,
-        "w": 72,
-        "h": 95
+        "x": 213,
+        "y": 151,
+        "w": 189,
+        "h": 325
       }
     }
   ],
@@ -435,6 +435,22 @@
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/fc0dd1a57a930e7b0b6b583fdeb07b95fa46768f/live-results/aesthetic-20261010-01/current.jpg",
       "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n4 / 5\n見つけたもの\n紙の裏に、消したはずの時刻がひとつ残っている。"
+    },
+    {
+      "number": 16,
+      "at": "2026-10-10T02:24:05.443Z",
+      "action": {
+        "id": "v15-hourglass",
+        "op": "tap",
+        "x": 33,
+        "y": 416,
+        "wait": 700,
+        "note": "The hourglass is an actual focal prop; complete a collection and see whether its form changes."
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/10d17f9bf36d2be3ea7a6b1fbce591e80e0c10b1/live-results/aesthetic-20261010-01/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n5 / 5\n見つけたもの\n\nあの扉が、こちらを呼んでいる。\n触れて、向こうへ\n紙の裏に、消したはずの時刻がひとつ残っている。"
     }
   ]
 }
