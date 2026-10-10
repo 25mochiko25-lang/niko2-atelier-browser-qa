@@ -6,19 +6,19 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-10T02:50:21.490Z",
-  "updatedAt": "2026-10-10T02:54:55.043Z",
-  "lastCommand": "g10-close",
+  "updatedAt": "2026-10-10T02:55:15.794Z",
+  "lastCommand": "g11-gate-second",
   "stopReason": null,
   "action": {
-    "id": "g10-close",
+    "id": "g11-gate-second",
     "op": "tap",
-    "x": 337,
-    "y": 666,
-    "wait": 330,
-    "note": "Second card close is higher this time; use visually observed hit target."
+    "x": 306,
+    "y": 221,
+    "wait": 1300,
+    "note": "The gate first hinted a keyhole light extinguishing. As a game player I want to see if the repeated gate tap is a skip or alternate exit, without source knowledge."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/5dea2e58d63795c86198bbfc0adaf50fec70f47e/live-results/gameplay-20261010-06/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/3e92031f5f13dd237f04e1815b71fcae54741909/live-results/gameplay-20261010-06/current.jpg",
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -402,6 +402,22 @@
       "error": null,
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/5dea2e58d63795c86198bbfc0adaf50fec70f47e/live-results/gameplay-20261010-06/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n2 / 5\n見つけたもの\n取っ手の向こうで、鍵穴の光がひとつ消えた。"
+    },
+    {
+      "number": 14,
+      "at": "2026-10-10T02:55:15.794Z",
+      "action": {
+        "id": "g11-gate-second",
+        "op": "tap",
+        "x": 306,
+        "y": 221,
+        "wait": 1300,
+        "note": "The gate first hinted a keyhole light extinguishing. As a game player I want to see if the repeated gate tap is a skip or alternate exit, without source knowledge."
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/3e92031f5f13dd237f04e1815b71fcae54741909/live-results/gameplay-20261010-06/current.jpg",
       "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n2 / 5\n見つけたもの\n取っ手の向こうで、鍵穴の光がひとつ消えた。"
     }
   ]
