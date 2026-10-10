@@ -1,1 +1,1 @@
-{"id":"g20-carry","op":"tap","x":194,"y":727,"wait":550,"note":"An item with explicit '持ち帰る' differs from Garden's 5 small cards. Carry it."}
+{"id":"g21-diary","op":"tap","x":193,"y":646,"wait":2000,"note":"The reward card gives a concrete Diary action; take it and see if replay/navigation affordances appear."}
