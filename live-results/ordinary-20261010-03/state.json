@@ -6,19 +6,19 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-10T02:33:35.488Z",
-  "updatedAt": "2026-10-10T02:37:06.062Z",
-  "lastCommand": "o09-close",
+  "updatedAt": "2026-10-10T02:37:20.945Z",
+  "lastCommand": "o10-flower",
   "stopReason": null,
   "action": {
-    "id": "o09-close",
+    "id": "o10-flower",
     "op": "tap",
-    "x": 337,
-    "y": 664,
-    "wait": 200,
-    "note": "Second memory is another small poetic card. Close to try background scenery."
+    "x": 61,
+    "y": 353,
+    "wait": 520,
+    "note": "There's a lush bouquet on the left. I wonder whether all image regions count."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/474387369072f1c1021dd89827177b24af9993b4/live-results/ordinary-20261010-03/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/617603febb4368eb37ea79932b8da30435240670/live-results/ordinary-20261010-03/current.jpg",
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -30,7 +30,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n2 / 5\n見つけたもの\n",
+  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n2 / 5\n見つけたもの\n石の奥から、誰も使っていない食器の音が返った。",
   "controls": [
     {
       "tag": "BUTTON",
@@ -355,6 +355,22 @@
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/474387369072f1c1021dd89827177b24af9993b4/live-results/ordinary-20261010-03/current.jpg",
       "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n2 / 5\n見つけたもの\n"
+    },
+    {
+      "number": 11,
+      "at": "2026-10-10T02:37:20.945Z",
+      "action": {
+        "id": "o10-flower",
+        "op": "tap",
+        "x": 61,
+        "y": 353,
+        "wait": 520,
+        "note": "There's a lush bouquet on the left. I wonder whether all image regions count."
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/617603febb4368eb37ea79932b8da30435240670/live-results/ordinary-20261010-03/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n2 / 5\n見つけたもの\n石の奥から、誰も使っていない食器の音が返った。"
     }
   ]
 }
