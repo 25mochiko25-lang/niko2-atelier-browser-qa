@@ -1,1 +1,1 @@
-{"id":"g07-cup","op":"tap","x":216,"y":510,"wait":420,"note":"Collected item 1; compare the text and score effect."}
+{"id":"g08-close","op":"tap","x":335,"y":665,"wait":420,"note":"Close first item card and continue normal collection."}
