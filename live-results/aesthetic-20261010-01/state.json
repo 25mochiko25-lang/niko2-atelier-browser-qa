@@ -6,19 +6,19 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-10T02:17:47.519Z",
-  "updatedAt": "2026-10-10T02:23:33.872Z",
-  "lastCommand": "v13-key",
+  "updatedAt": "2026-10-10T02:23:50.653Z",
+  "lastCommand": "v14-close-key",
   "stopReason": null,
   "action": {
-    "id": "v13-key",
+    "id": "v14-close-key",
     "op": "tap",
-    "x": 146,
-    "y": 567,
-    "wait": 550,
-    "note": "A small ornate key suggests a hint or unlock. Explore fourth object."
+    "x": 337,
+    "y": 666,
+    "wait": 250,
+    "note": "Fourth fragment is again wistful but specifically about a key and memory, not simple floral decoration."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/fa29fb0b0ad480147fe426231e83f031a0b7cbe5/live-results/aesthetic-20261010-01/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/fc0dd1a57a930e7b0b6b583fdeb07b95fa46768f/live-results/aesthetic-20261010-01/current.jpg",
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -30,7 +30,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n4 / 5\n見つけたもの\nCG-01-A_04.DRM\n11:23:31\n\nFRAGMENT / 04\n\n青いリボンの鍵\nどの扉にも合わない。ただ、ひとつの記憶だけが開いた。\n紙の裏に、消したはずの時刻がひとつ残っている。",
+  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n4 / 5\n見つけたもの\n紙の裏に、消したはずの時刻がひとつ残っている。",
   "controls": [
     {
       "tag": "BUTTON",
@@ -195,17 +195,6 @@
         "y": 178,
         "w": 72,
         "h": 95
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "見つけた記憶を閉じる",
-      "disabled": false,
-      "rect": {
-        "x": 324,
-        "y": 654,
-        "w": 24,
-        "h": 23
       }
     }
   ],
@@ -430,6 +419,22 @@
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/fa29fb0b0ad480147fe426231e83f031a0b7cbe5/live-results/aesthetic-20261010-01/current.jpg",
       "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n4 / 5\n見つけたもの\nCG-01-A_04.DRM\n11:23:31\n\nFRAGMENT / 04\n\n青いリボンの鍵\nどの扉にも合わない。ただ、ひとつの記憶だけが開いた。\n紙の裏に、消したはずの時刻がひとつ残っている。"
+    },
+    {
+      "number": 15,
+      "at": "2026-10-10T02:23:50.653Z",
+      "action": {
+        "id": "v14-close-key",
+        "op": "tap",
+        "x": 337,
+        "y": 666,
+        "wait": 250,
+        "note": "Fourth fragment is again wistful but specifically about a key and memory, not simple floral decoration."
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/fc0dd1a57a930e7b0b6b583fdeb07b95fa46768f/live-results/aesthetic-20261010-01/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n4 / 5\n見つけたもの\n紙の裏に、消したはずの時刻がひとつ残っている。"
     }
   ]
 }
