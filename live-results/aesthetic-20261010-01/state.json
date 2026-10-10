@@ -6,19 +6,19 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-10T02:17:47.519Z",
-  "updatedAt": "2026-10-10T02:21:22.153Z",
-  "lastCommand": "v07-close",
+  "updatedAt": "2026-10-10T02:21:47.306Z",
+  "lastCommand": "v08-note",
   "stopReason": null,
   "action": {
-    "id": "v07-close",
+    "id": "v08-note",
     "op": "tap",
-    "x": 339,
-    "y": 663,
+    "x": 208,
+    "y": 571,
     "wait": 500,
-    "note": "Fragment detail, numbered ID and timestamp add a more specific identity than generic pastel art. Close to find other discoveries."
+    "note": "A small printed letter on the table invites inspection; test whether this is more than backdrop."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/914e820ac039ce5956146b9c00ad80330f59ea8d/live-results/aesthetic-20261010-01/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/3838a960d7e1d7106b07abdd7519eb4448e6407a/live-results/aesthetic-20261010-01/current.jpg",
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -30,7 +30,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n1 / 5\n見つけたもの\n",
+  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n1 / 5\n見つけたもの\n紙の裏に、消したはずの時刻がひとつ残っている。",
   "controls": [
     {
       "tag": "BUTTON",
@@ -323,6 +323,22 @@
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/914e820ac039ce5956146b9c00ad80330f59ea8d/live-results/aesthetic-20261010-01/current.jpg",
       "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n1 / 5\n見つけたもの\n"
+    },
+    {
+      "number": 9,
+      "at": "2026-10-10T02:21:47.306Z",
+      "action": {
+        "id": "v08-note",
+        "op": "tap",
+        "x": 208,
+        "y": 571,
+        "wait": 500,
+        "note": "A small printed letter on the table invites inspection; test whether this is more than backdrop."
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/3838a960d7e1d7106b07abdd7519eb4448e6407a/live-results/aesthetic-20261010-01/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n1 / 5\n見つけたもの\n紙の裏に、消したはずの時刻がひとつ残っている。"
     }
   ]
 }
