@@ -6,19 +6,19 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-10T02:50:21.490Z",
-  "updatedAt": "2026-10-10T03:00:29.968Z",
-  "lastCommand": "g25-perfume",
+  "updatedAt": "2026-10-10T03:00:57.339Z",
+  "lastCommand": "g26-mix",
   "stopReason": null,
   "action": {
-    "id": "g25-perfume",
+    "id": "g26-mix",
     "op": "tap",
-    "x": 188,
-    "y": 522,
-    "wait": 1000,
-    "note": "The post-Garden recap gives two explicit destinations; select PERFUME MORGUE, hoping for a different game mechanic."
+    "x": 194,
+    "y": 531,
+    "wait": 650,
+    "note": "The Perfume destination opens with a clear mixer CTA. Test one layer of this new mini-game."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/27d1818f3582290240793ef322a21fc13c13aa3a/live-results/gameplay-20261010-06/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/7cf9defaae56437eeb983cfb3e39be5d70efd01b/live-results/gameplay-20261010-06/current.jpg",
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#perfume",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -30,7 +30,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\nNIKO² ATELIER\n\n\nDREAM / PM-01\nPERFUME MORGUE\nFORMULA / EMPTY\nFORMULA / TWELVE TRILLION\n三つの層に、記憶を落とす。\n十二兆通りの数式のうち、今日の一本だけが、あなたの手で閉じる。\nときどき、こちらの記録にはない香りも届きます。\n\n調香台へ\n",
+  "text": "作品へ移動\nNIKO² ATELIER\n\n\nDREAM / PM-01\nPERFUME MORGUE\nFORMULA / EMPTY\n香りになれなかった記憶。\n素材を選び、三つの層へ落としてください。順番と濃度で、同じ記憶も別の香りになります。\n雨\n古いぬいぐるみ\n燃えた砂糖\nホテルの白いシーツ\n甘い夢\n紅茶の渋み\n煙の名残\n花\n濡れた石\n乾いた木\n生の果実\n夜更け\n海水\n古い本\n化粧の粉\n冷たい金属\n\nMIXING BOTTLE / EMPTY\nIN BOTTLE / EMPTY\n\n01\nTOP\n\n02\nMIDDLE\n\n03\nLAST\nTOP\nこの層には、まだ何も落ちていない。\nMIDDLE\nこの層には、まだ何も落ちていない。\nLAST\nこの層には、まだ何も落ちていない。\nCONCENTRATION\nEAU DE TOILETTE / 肌に近い\n\nEau Fraîche\n水のあと\n\nCologne\n風の輪郭\n\nToilette\n肌に近い\n\nParfum\n記憶の濃度\n\nExtrait\n最後まで残る\n\n香りを定着させる\n",
   "controls": [
     {
       "tag": "A",
@@ -56,7 +56,7 @@
     },
     {
       "tag": "BUTTON",
-      "text": "アトリエへ戻る",
+      "text": "香りの入口へ",
       "disabled": false,
       "rect": {
         "x": 14,
@@ -67,12 +67,210 @@
     },
     {
       "tag": "BUTTON",
-      "text": "調香台へ",
+      "text": "雨",
       "disabled": false,
       "rect": {
-        "x": 34,
-        "y": 510,
-        "w": 322,
+        "x": 26,
+        "y": 243,
+        "w": 166,
+        "h": 56
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "古いぬいぐるみ",
+      "disabled": false,
+      "rect": {
+        "x": 199,
+        "y": 243,
+        "w": 166,
+        "h": 56
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "燃えた砂糖",
+      "disabled": false,
+      "rect": {
+        "x": 26,
+        "y": 306,
+        "w": 166,
+        "h": 56
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "ホテルの白いシーツ",
+      "disabled": false,
+      "rect": {
+        "x": 199,
+        "y": 306,
+        "w": 166,
+        "h": 56
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "甘い夢",
+      "disabled": false,
+      "rect": {
+        "x": 26,
+        "y": 369,
+        "w": 166,
+        "h": 56
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "紅茶の渋み",
+      "disabled": false,
+      "rect": {
+        "x": 199,
+        "y": 369,
+        "w": 166,
+        "h": 56
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "煙の名残",
+      "disabled": false,
+      "rect": {
+        "x": 26,
+        "y": 432,
+        "w": 166,
+        "h": 56
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "花",
+      "disabled": false,
+      "rect": {
+        "x": 199,
+        "y": 432,
+        "w": 166,
+        "h": 56
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "濡れた石",
+      "disabled": false,
+      "rect": {
+        "x": 26,
+        "y": 495,
+        "w": 166,
+        "h": 56
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "乾いた木",
+      "disabled": false,
+      "rect": {
+        "x": 199,
+        "y": 495,
+        "w": 166,
+        "h": 56
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "生の果実",
+      "disabled": false,
+      "rect": {
+        "x": 26,
+        "y": 558,
+        "w": 166,
+        "h": 56
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "夜更け",
+      "disabled": false,
+      "rect": {
+        "x": 199,
+        "y": 558,
+        "w": 166,
+        "h": 56
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "海水",
+      "disabled": false,
+      "rect": {
+        "x": 26,
+        "y": 621,
+        "w": 166,
+        "h": 56
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "古い本",
+      "disabled": false,
+      "rect": {
+        "x": 199,
+        "y": 621,
+        "w": 166,
+        "h": 56
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "化粧の粉",
+      "disabled": false,
+      "rect": {
+        "x": 26,
+        "y": 684,
+        "w": 166,
+        "h": 56
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "冷たい金属",
+      "disabled": false,
+      "rect": {
+        "x": 199,
+        "y": 684,
+        "w": 166,
+        "h": 56
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "01\nTOP",
+      "disabled": false,
+      "rect": {
+        "x": 26,
+        "y": 630,
+        "w": 109,
+        "h": 44
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "02\nMIDDLE",
+      "disabled": false,
+      "rect": {
+        "x": 140,
+        "y": 630,
+        "w": 109,
+        "h": 44
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "03\nLAST",
+      "disabled": false,
+      "rect": {
+        "x": 255,
+        "y": 630,
+        "w": 109,
         "h": 44
       }
     }
@@ -520,6 +718,22 @@
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#perfume",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/27d1818f3582290240793ef322a21fc13c13aa3a/live-results/gameplay-20261010-06/current.jpg",
       "text": "作品へ移動\nNIKO² ATELIER\n\n\nDREAM / PM-01\nPERFUME MORGUE\nFORMULA / EMPTY\nFORMULA / TWELVE TRILLION\n三つの層に、記憶を落とす。\n十二兆通りの数式のうち、今日の一本だけが、あなたの手で閉じる。\nときどき、こちらの記録にはない香りも届きます。\n\n調香台へ\n"
+    },
+    {
+      "number": 29,
+      "at": "2026-10-10T03:00:57.339Z",
+      "action": {
+        "id": "g26-mix",
+        "op": "tap",
+        "x": 194,
+        "y": 531,
+        "wait": 650,
+        "note": "The Perfume destination opens with a clear mixer CTA. Test one layer of this new mini-game."
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#perfume",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/7cf9defaae56437eeb983cfb3e39be5d70efd01b/live-results/gameplay-20261010-06/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\n\n\nDREAM / PM-01\nPERFUME MORGUE\nFORMULA / EMPTY\n香りになれなかった記憶。\n素材を選び、三つの層へ落としてください。順番と濃度で、同じ記憶も別の香りになります。\n雨\n古いぬいぐるみ\n燃えた砂糖\nホテルの白いシーツ\n甘い夢\n紅茶の渋み\n煙の名残\n花\n濡れた石\n乾いた木\n生の果実\n夜更け\n海水\n古い本\n化粧の粉\n冷たい金属\n\nMIXING BOTTLE / EMPTY\nIN BOTTLE / EMPTY\n\n01\nTOP\n\n02\nMIDDLE\n\n03\nLAST\nTOP\nこの層には、まだ何も落ちていない。\nMIDDLE\nこの層には、まだ何も落ちていない。\nLAST\nこの層には、まだ何も落ちていない。\nCONCENTRATION\nEAU DE TOILETTE / 肌に近い\n\nEau Fraîche\n水のあと\n\nCologne\n風の輪郭\n\nToilette\n肌に近い\n\nParfum\n記憶の濃度\n\nExtrait\n最後まで残る\n\n香りを定着させる\n"
     }
   ]
 }
