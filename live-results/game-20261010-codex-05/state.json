@@ -6,18 +6,18 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-10T02:45:22.701Z",
-  "updatedAt": "2026-10-10T02:50:25.148Z",
-  "lastCommand": "g09",
+  "updatedAt": "2026-10-10T02:50:49.861Z",
+  "lastCommand": "g10",
   "stopReason": null,
   "action": {
-    "id": "g09",
+    "id": "g10",
     "op": "tap",
-    "x": 337,
-    "y": 665,
-    "note": "鍵は扉ではなく記憶を開いた。短い断片は面白い。閉じて、遠くの門が行き先か確かめたい。"
+    "x": 308,
+    "y": 231,
+    "note": "奥の白い門は別の場所につながりそうに見える。分岐を探して門を触る。"
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/b62d32b8b716d40706acdf1009641a19165b40a5/live-results/game-20261010-codex-05/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/59b269c2984f5577fe9613334bb9c6d1ff6e903b/live-results/game-20261010-codex-05/current.jpg",
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -29,7 +29,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n1 / 5\n見つけたもの\n",
+  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n1 / 5\n見つけたもの\n取っ手の向こうで、鍵穴の光がひとつ消えた。",
   "controls": [
     {
       "tag": "BUTTON",
@@ -345,6 +345,21 @@
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/b62d32b8b716d40706acdf1009641a19165b40a5/live-results/game-20261010-codex-05/current.jpg",
       "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n1 / 5\n見つけたもの\n"
+    },
+    {
+      "number": 11,
+      "at": "2026-10-10T02:50:49.861Z",
+      "action": {
+        "id": "g10",
+        "op": "tap",
+        "x": 308,
+        "y": 231,
+        "note": "奥の白い門は別の場所につながりそうに見える。分岐を探して門を触る。"
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/59b269c2984f5577fe9613334bb9c6d1ff6e903b/live-results/game-20261010-codex-05/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n1 / 5\n見つけたもの\n取っ手の向こうで、鍵穴の光がひとつ消えた。"
     }
   ]
 }
