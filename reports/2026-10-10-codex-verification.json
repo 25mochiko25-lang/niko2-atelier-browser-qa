@@ -1,0 +1,223 @@
+{
+  "asOf": "2026-10-10T03:06:04Z",
+  "scope": "Observed sessions and GitHub Actions verification; not human statistics, all-site PASS, billing, or historic model-context isolation",
+  "sessions": [
+    {
+      "role": "審美眼",
+      "session": "aesthetic-20261010-01",
+      "report": "reports/aesthetic-20261010-01.md",
+      "runId": 38016402706,
+      "engine": "webkit",
+      "mobile": true,
+      "touch": true,
+      "lastCommand": "v22-end",
+      "stopReason": "visitor_finished: As a visually critical first-time viewer I followed the gemstone entrance, three-page tutorial, gathered five Garden memories, entered the White City and brought a tile into Diary. The pastel CGI-like fantasy palette and multiplying arches/florals look familiar, with several very faint small labels, but the dated fragment cards and physical polaroid souvenir gave specificity. I have seen a complete keepsake loop and am not pulled into another room now. I stop voluntarily; deeper maps, audio, animations remain unassessed.",
+      "finalOp": "stop",
+      "events": 23,
+      "eventErrors": [],
+      "pageErrors": [],
+      "httpErrors": [],
+      "allPreview": true,
+      "allPinned": true,
+      "updatedAt": "2026-10-10T02:27:23.333Z"
+    },
+    {
+      "role": "一般人",
+      "session": "ordinary-20261010-03",
+      "report": "reports/2026-10-10-ordinary-03.md",
+      "runId": 38017370387,
+      "engine": "webkit",
+      "mobile": true,
+      "touch": true,
+      "lastCommand": "o11-end",
+      "stopReason": "visitor_finished: As a simulated ordinary first-time visitor I understood the gem entrance and the basic 0/5 scavenger count. I tapped teddy and cup, saw two different memories, then tapped a flower and got an atmospheric sentence but no count increase. It looked pretty and interactive, but the repeated fragment-card format and unclear reason to collect all five did not pull me onward today. I left at 2/5 naturally, without testing the door, Diary or deeper maps. Not a claim that the artwork or whole site is broken.",
+      "finalOp": "stop",
+      "events": 12,
+      "eventErrors": [],
+      "pageErrors": [],
+      "httpErrors": [],
+      "allPreview": true,
+      "allPinned": true,
+      "updatedAt": "2026-10-10T02:37:53.851Z"
+    },
+    {
+      "role": "反AI",
+      "session": "anti-ai-20261010-02",
+      "report": "reports/2026-10-10-ai-skeptic-02.md",
+      "runId": 38017126729,
+      "engine": "webkit",
+      "mobile": true,
+      "touch": true,
+      "lastCommand": "a05-end",
+      "stopReason": "visitor_finished: Simulated AI-skeptical first-time viewer. After the glossy pastel entrance, three tutorial images, and the Garden invitation, I still saw repeated luminous fantasy props, abundant florals and arches, and no immediately novel reason for me to engage. I voluntarily left without pressing 'この空へ入る'. This is a bias-sensitive gut reaction, not evidence that the later content, text, or overall artwork is bad. I did not test the garden collectibles, Diary or other maps.",
+      "finalOp": "stop",
+      "events": 6,
+      "eventErrors": [],
+      "pageErrors": [],
+      "httpErrors": [],
+      "allPreview": true,
+      "allPinned": true,
+      "updatedAt": "2026-10-10T02:31:32.752Z"
+    },
+    {
+      "role": "夢核",
+      "session": "dreamcore-20261010-04",
+      "report": "reports/2026-10-10-dreamcore-04.md",
+      "runId": 38017708893,
+      "engine": "webkit",
+      "mobile": true,
+      "touch": true,
+      "lastCommand": "d10-end",
+      "stopReason": "visitor_finished: Simulated dreamcore and liminal-art admirer. The opening portal and tutorials felt very pretty and familiar rather than uncertain or uncanny. On the Garden entrance I tapped the small '夢の見覚え' label and unexpectedly entered a vertically ascending garden; this hidden detour and the solitary petal felt specific, quiet and appealing. I carried the petal into Diary and now stop satisfied after one surprising loop. The regular five-item Garden path, Hotel, Perfume and rest were not tested; this is an artistic reading, not an objective metric.",
+      "finalOp": "stop",
+      "events": 11,
+      "eventErrors": [],
+      "pageErrors": [],
+      "httpErrors": [],
+      "allPreview": true,
+      "allPinned": true,
+      "updatedAt": "2026-10-10T02:43:37.997Z"
+    },
+    {
+      "role": "文学",
+      "session": "literary-20261010-05",
+      "report": "reports/2026-10-10-literary-05.md",
+      "runId": 38018061081,
+      "engine": "webkit",
+      "mobile": true,
+      "touch": true,
+      "lastCommand": "l12-end",
+      "stopReason": "visitor_finished: Simulated literary reader. I entered Garden, read the hidden note about an erased time, then three fragments: an hourglass flowing backwards, scent lingering in a room no one returns to, and a key that opens memory. Each sentence is understandable; their larger causal relationship is intentionally unexplained. The motifs cohere, although repeated dream/memory/absence and the repeated little-card presentation may become monotonous if many are read at once. I have sampled the prose I came to read and leave at 3/5; I have not tested the ending, Diary or any deeper text, nor proved human readers' comprehension.",
+      "finalOp": "stop",
+      "events": 13,
+      "eventErrors": [],
+      "pageErrors": [],
+      "httpErrors": [],
+      "allPreview": true,
+      "allPinned": true,
+      "updatedAt": "2026-10-10T02:49:01.725Z"
+    },
+    {
+      "role": "ゲーム",
+      "session": "game-20261010-codex-05",
+      "report": "reports/2026-10-10-game-codex-05.md",
+      "runId": 38018079256,
+      "engine": "webkit",
+      "mobile": true,
+      "touch": true,
+      "lastCommand": "g-end",
+      "stopReason": "庭を短く通った城の訪問と、五つ集めたくまの椅子の訪問を見て、花弁と青い糸がDiaryに並ぶところまで持ち帰れた。二つの違いと記念で今日は満足した。三周目は今すぐ続けず、別の選び方を試す楽しみを後日に残したい。",
+      "finalOp": "stop",
+      "events": 42,
+      "eventErrors": [],
+      "pageErrors": [],
+      "httpErrors": [],
+      "allPreview": true,
+      "allPinned": true,
+      "updatedAt": "2026-10-10T03:05:49.110Z"
+    }
+  ],
+  "runs": [
+    {
+      "session": "aesthetic-20261010-01",
+      "runId": 38016402706,
+      "status": "completed",
+      "conclusion": "success",
+      "head_sha": "d90f84d810272265135877a0cab3b25f9116f5cd",
+      "updated_at": "2026-10-10T02:27:29Z"
+    },
+    {
+      "session": "ordinary-20261010-03",
+      "runId": 38017370387,
+      "status": "completed",
+      "conclusion": "success",
+      "head_sha": "b441e5e1b1ab05f153177514781ba3917479dfe8",
+      "updated_at": "2026-10-10T02:37:59Z"
+    },
+    {
+      "session": "anti-ai-20261010-02",
+      "runId": 38017126729,
+      "status": "completed",
+      "conclusion": "success",
+      "head_sha": "3b25b8241c1e219ce4811ae2fcab109e36c0cdff",
+      "updated_at": "2026-10-10T02:31:36Z"
+    },
+    {
+      "session": "dreamcore-20261010-04",
+      "runId": 38017708893,
+      "status": "completed",
+      "conclusion": "success",
+      "head_sha": "bbc9145f49cf20ace94a9214932e9cdd77e2b621",
+      "updated_at": "2026-10-10T02:43:43Z"
+    },
+    {
+      "session": "literary-20261010-05",
+      "runId": 38018061081,
+      "status": "completed",
+      "conclusion": "success",
+      "head_sha": "c6cd9fa8f1b4c57622e8eb14d98d5e6bce48ea0f",
+      "updated_at": "2026-10-10T02:49:06Z"
+    },
+    {
+      "session": "game-20261010-codex-05",
+      "runId": 38018079256,
+      "status": "completed",
+      "conclusion": "success",
+      "head_sha": "70f6ddaaa8e37e0b52817d1ef64c7461ceae2341",
+      "updated_at": "2026-10-10T03:05:54Z"
+    }
+  ],
+  "controls": [
+    {
+      "session": "aesthetic-20261010-01",
+      "id": "v22-end",
+      "op": "stop",
+      "matchesState": true,
+      "reasonMatches": true
+    },
+    {
+      "session": "ordinary-20261010-03",
+      "id": "o11-end",
+      "op": "stop",
+      "matchesState": true,
+      "reasonMatches": true
+    },
+    {
+      "session": "anti-ai-20261010-02",
+      "id": "a05-end",
+      "op": "stop",
+      "matchesState": true,
+      "reasonMatches": true
+    },
+    {
+      "session": "dreamcore-20261010-04",
+      "id": "d10-end",
+      "op": "stop",
+      "matchesState": true,
+      "reasonMatches": true
+    },
+    {
+      "session": "literary-20261010-05",
+      "id": "l12-end",
+      "op": "stop",
+      "matchesState": true,
+      "reasonMatches": true
+    },
+    {
+      "session": "game-20261010-codex-05",
+      "id": "g-end",
+      "op": "stop",
+      "matchesState": true,
+      "reasonMatches": true
+    }
+  ],
+  "gameJobs": [
+    {
+      "id": 114112743844,
+      "startedAt": "2026-10-10T02:44:50Z",
+      "completedAt": "2026-10-10T03:05:53Z",
+      "status": "completed",
+      "conclusion": "success"
+    }
+  ]
+}

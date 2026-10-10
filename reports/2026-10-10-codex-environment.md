@@ -21,6 +21,8 @@
 
 既存4体の主observer jobは、審美眼10分13秒、反AI2分26秒、一般人4分58秒、夢核5分03秒、合計22分40秒だった。これにcontrolごとの画像export jobsが加わるため、主job時間を総runner消費や請求額とは呼ばない。public repo・標準Ubuntu・既存GITHUB_TOKENの利用は設定で確認したが、account billingやstorage利用量は今回の接続で確認できないため金額は断定しない。新規課金設定は行っていない。
 
+完了した文学の主job4分35秒、ゲームの主job21分03秒を加え、6主observer jobsは合計48分18秒。ゲームには画像取得・観察判断・QA main書込みの409競合リトライが含まれ、人間の鑑賞滞在時間には換算しない。6体は全て明示stopとActions completed/successを確認した。合計107画面記録と101到着後command。最終確認時点で実行中Actionsは残っていなかった。[主job時間のデータ](https://github.com/25mochiko25-lang/niko2-atelier-browser-qa/blob/main/reports/2026-10-10-codex-runtime.json)と[終了・URL・エラー照合](https://github.com/25mochiko25-lang/niko2-atelier-browser-qa/blob/main/reports/2026-10-10-codex-verification.json)を保存した。
+
 画像export artifactは1日保持だが、観察stateの各eventにcommit固定のスクリーンショットURLがあり、Git履歴から再取得できる。保持期間とGit履歴容量を同一視しない。
 
 ## GitHubの @codex 呼出しについて

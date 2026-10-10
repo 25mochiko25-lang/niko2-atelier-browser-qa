@@ -1,0 +1,136 @@
+{
+  "as_of": "2026-10-10 03:08:29 UTC",
+  "repository": "25mochiko25-lang/niko2-atelier-browser-qa",
+  "scope": "GitHub Actions job wall-clock timings; not account billing or total runner usage",
+  "source_method": "GET actions/runs/{run_id}/jobs, started_at/completed_at",
+  "sessions": [
+    {
+      "session": "aesthetic-20261010-01",
+      "runId": 38016402706,
+      "url": "https://github.com/25mochiko25-lang/niko2-atelier-browser-qa/actions/runs/38016402706",
+      "jobs": [
+        {
+          "id": 114107521423,
+          "name": "observe",
+          "status": "completed",
+          "conclusion": "success",
+          "startedAt": "2026-10-10T02:17:15Z",
+          "completedAt": "2026-10-10T02:27:28Z",
+          "durationSeconds": 613
+        }
+      ]
+    },
+    {
+      "session": "anti-ai-20261010-02",
+      "runId": 38017126729,
+      "url": "https://github.com/25mochiko25-lang/niko2-atelier-browser-qa/actions/runs/38017126729",
+      "jobs": [
+        {
+          "id": 114109788924,
+          "name": "observe",
+          "status": "completed",
+          "conclusion": "success",
+          "startedAt": "2026-10-10T02:29:09Z",
+          "completedAt": "2026-10-10T02:31:35Z",
+          "durationSeconds": 146
+        }
+      ]
+    },
+    {
+      "session": "ordinary-20261010-03",
+      "runId": 38017370387,
+      "url": "https://github.com/25mochiko25-lang/niko2-atelier-browser-qa/actions/runs/38017370387",
+      "jobs": [
+        {
+          "id": 114110531370,
+          "name": "observe",
+          "status": "completed",
+          "conclusion": "success",
+          "startedAt": "2026-10-10T02:33:00Z",
+          "completedAt": "2026-10-10T02:37:58Z",
+          "durationSeconds": 298
+        }
+      ]
+    },
+    {
+      "session": "dreamcore-20261010-04",
+      "runId": 38017708893,
+      "url": "https://github.com/25mochiko25-lang/niko2-atelier-browser-qa/actions/runs/38017708893",
+      "jobs": [
+        {
+          "id": 114111591224,
+          "name": "observe",
+          "status": "completed",
+          "conclusion": "success",
+          "startedAt": "2026-10-10T02:38:40Z",
+          "completedAt": "2026-10-10T02:43:43Z",
+          "durationSeconds": 303
+        }
+      ]
+    },
+    {
+      "session": "literary-20261010-05",
+      "runId": 38018061081,
+      "url": "https://github.com/25mochiko25-lang/niko2-atelier-browser-qa/actions/runs/38018061081",
+      "jobs": [
+        {
+          "id": 114112679616,
+          "name": "observe",
+          "status": "completed",
+          "conclusion": "success",
+          "startedAt": "2026-10-10T02:44:30Z",
+          "completedAt": "2026-10-10T02:49:05Z",
+          "durationSeconds": 275
+        }
+      ]
+    },
+    {
+      "session": "game-20261010-codex-05",
+      "runId": 38018079256,
+      "url": "https://github.com/25mochiko25-lang/niko2-atelier-browser-qa/actions/runs/38018079256",
+      "jobs": [
+        {
+          "id": 114112743844,
+          "name": "observe",
+          "status": "completed",
+          "conclusion": "success",
+          "startedAt": "2026-10-10T02:44:50Z",
+          "completedAt": "2026-10-10T03:05:53Z",
+          "durationSeconds": 1263
+        }
+      ]
+    }
+  ],
+  "existing_four_totals": {
+    "primaryObserverSeconds": 1360,
+    "primaryObserverRuns": 4,
+    "imageExportRuns": 48,
+    "imageExportIncludedInSeconds": false,
+    "all52WorkflowRunsSuccessful": true
+  },
+  "daily": [
+    {
+      "runId": 37796481553,
+      "date": "2026-10-08",
+      "event": "schedule",
+      "status": "success",
+      "probeSeconds": 8,
+      "browserSeconds": 58,
+      "finalizeSeconds": 4,
+      "browserProfiles": 5
+    },
+    {
+      "runId": 37947946614,
+      "date": "2026-10-09",
+      "event": "schedule",
+      "status": "success",
+      "probeSeconds": 8,
+      "browser": "skipped",
+      "finalize": "skipped",
+      "probeVerdict": "UNCHANGED_SKIP",
+      "resources": 10,
+      "bytes": 1878685
+    }
+  ],
+  "completedPrimaryObserverTotalSeconds": 2898
+}
