@@ -6,18 +6,18 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-10T02:45:22.701Z",
-  "updatedAt": "2026-10-10T03:01:35.202Z",
-  "lastCommand": "g32",
+  "updatedAt": "2026-10-10T03:02:03.033Z",
+  "lastCommand": "g33",
   "stopReason": null,
   "action": {
-    "id": "g32",
+    "id": "g33",
     "op": "tap",
-    "x": 151,
-    "y": 576,
-    "note": "時刻と巻き戻りが気になる。前の周回で触った鍵をもう一度選ぶと、同じ記憶か別の記憶か見てみたい。"
+    "x": 216,
+    "y": 514,
+    "note": "鍵の文は前と同じだった。3/5になったので、この庭の五つを集めると何が起きるか気になる。カップを調べる。"
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/04ce405d5cb097f821bf56a90e5997ce17ef2698/live-results/game-20261010-codex-05/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/b371503ad0e9ac2e52fa84b536f8b84efc08115e/live-results/game-20261010-codex-05/current.jpg",
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -29,7 +29,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n3 / 5\n見つけたもの\nCG-01-A_03.DRM\n12:01:32\n\nFRAGMENT / 03\n\n青いリボンの鍵\nどの扉にも合わない。ただ、ひとつの記憶だけが開いた。\n紙の裏に、消したはずの時刻がひとつ残っている。",
+  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n4 / 5\n見つけたもの\nCG-01-A_04.DRM\n12:02:00\n\nFRAGMENT / 04\n\nまだあたたかいカップ\nほんのり湯気が残る。まだ、誰かの気配がする。\n紙の裏に、消したはずの時刻がひとつ残っている。",
   "controls": [
     {
       "tag": "BUTTON",
@@ -77,7 +77,7 @@
     },
     {
       "tag": "BUTTON",
-      "text": "まだあたたかいカップに触れる",
+      "text": "まだあたたかいカップ（発見済み）",
       "disabled": false,
       "rect": {
         "x": 172,
@@ -202,7 +202,7 @@
       "disabled": false,
       "rect": {
         "x": 324,
-        "y": 654,
+        "y": 673,
         "w": 24,
         "h": 23
       }
@@ -697,6 +697,21 @@
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/04ce405d5cb097f821bf56a90e5997ce17ef2698/live-results/game-20261010-codex-05/current.jpg",
       "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n3 / 5\n見つけたもの\nCG-01-A_03.DRM\n12:01:32\n\nFRAGMENT / 03\n\n青いリボンの鍵\nどの扉にも合わない。ただ、ひとつの記憶だけが開いた。\n紙の裏に、消したはずの時刻がひとつ残っている。"
+    },
+    {
+      "number": 34,
+      "at": "2026-10-10T03:02:03.033Z",
+      "action": {
+        "id": "g33",
+        "op": "tap",
+        "x": 216,
+        "y": 514,
+        "note": "鍵の文は前と同じだった。3/5になったので、この庭の五つを集めると何が起きるか気になる。カップを調べる。"
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/b371503ad0e9ac2e52fa84b536f8b84efc08115e/live-results/game-20261010-codex-05/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n4 / 5\n見つけたもの\nCG-01-A_04.DRM\n12:02:00\n\nFRAGMENT / 04\n\nまだあたたかいカップ\nほんのり湯気が残る。まだ、誰かの気配がする。\n紙の裏に、消したはずの時刻がひとつ残っている。"
     }
   ]
 }
