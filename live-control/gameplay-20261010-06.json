@@ -1,1 +1,1 @@
-{"id":"g21-diary","op":"tap","x":193,"y":646,"wait":2000,"note":"The reward card gives a concrete Diary action; take it and see if replay/navigation affordances appear."}
+{"id":"g22-home","op":"tap","x":82,"y":79,"wait":950,"note":"Diary shows a Home control. Explore whether there are other activities and how easy a second visit is."}
