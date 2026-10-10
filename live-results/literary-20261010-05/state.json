@@ -6,19 +6,19 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-10T02:45:03.217Z",
-  "updatedAt": "2026-10-10T02:48:24.144Z",
-  "lastCommand": "l10-close",
+  "updatedAt": "2026-10-10T02:48:40.593Z",
+  "lastCommand": "l11-key",
   "stopReason": null,
   "action": {
-    "id": "l10-close",
+    "id": "l11-key",
     "op": "tap",
-    "x": 337,
-    "y": 667,
-    "wait": 230,
-    "note": "This fragment evokes scent in an empty room. It is intentionally ambiguous, but is a readable image."
+    "x": 150,
+    "y": 563,
+    "wait": 500,
+    "note": "An ornate key could carry a less familiar metaphor than an empty room; inspect it."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/82cdad57b7dae0e3e12148af144772052ab36521/live-results/literary-20261010-05/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/e36789420e6d0cfecfc35cd1c81924db92759f2d/live-results/literary-20261010-05/current.jpg",
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -30,7 +30,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n2 / 5\n見つけたもの\n紙の裏に、消したはずの時刻がひとつ残っている。",
+  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n3 / 5\n見つけたもの\nCG-01-A_03.DRM\n11:48:38\n\nFRAGMENT / 03\n\n青いリボンの鍵\nどの扉にも合わない。ただ、ひとつの記憶だけが開いた。\n紙の裏に、消したはずの時刻がひとつ残っている。",
   "controls": [
     {
       "tag": "BUTTON",
@@ -100,7 +100,7 @@
     },
     {
       "tag": "BUTTON",
-      "text": "青いリボンの鍵に触れる",
+      "text": "青いリボンの鍵（発見済み）",
       "disabled": false,
       "rect": {
         "x": 110,
@@ -195,6 +195,17 @@
         "y": 178,
         "w": 72,
         "h": 95
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "見つけた記憶を閉じる",
+      "disabled": false,
+      "rect": {
+        "x": 324,
+        "y": 654,
+        "w": 24,
+        "h": 23
       }
     }
   ],
@@ -371,6 +382,22 @@
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/82cdad57b7dae0e3e12148af144772052ab36521/live-results/literary-20261010-05/current.jpg",
       "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n2 / 5\n見つけたもの\n紙の裏に、消したはずの時刻がひとつ残っている。"
+    },
+    {
+      "number": 12,
+      "at": "2026-10-10T02:48:40.593Z",
+      "action": {
+        "id": "l11-key",
+        "op": "tap",
+        "x": 150,
+        "y": 563,
+        "wait": 500,
+        "note": "An ornate key could carry a less familiar metaphor than an empty room; inspect it."
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/e36789420e6d0cfecfc35cd1c81924db92759f2d/live-results/literary-20261010-05/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n3 / 5\n見つけたもの\nCG-01-A_03.DRM\n11:48:38\n\nFRAGMENT / 03\n\n青いリボンの鍵\nどの扉にも合わない。ただ、ひとつの記憶だけが開いた。\n紙の裏に、消したはずの時刻がひとつ残っている。"
     }
   ]
 }
