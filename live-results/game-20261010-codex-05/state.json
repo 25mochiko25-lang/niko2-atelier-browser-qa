@@ -6,19 +6,19 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-10T02:45:22.701Z",
-  "updatedAt": "2026-10-10T02:57:31.752Z",
-  "lastCommand": "g23",
+  "updatedAt": "2026-10-10T02:57:59.538Z",
+  "lastCommand": "g24",
   "stopReason": null,
   "action": {
-    "id": "g23",
+    "id": "g24",
     "op": "tap",
-    "x": 338,
-    "y": 59,
-    "note": "記録に自分の言葉と二枚の写真が残っているのを確認できた。別の入口やもう一周への道も見たいので閉じる。"
+    "x": 69,
+    "y": 80,
+    "note": "Homeに戻れば別の夢やリプレイ入口があるかもしれない。"
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/b71f7237345e9e2707f2fe24b4812a7ac9ee81d2/live-results/game-20261010-codex-05/current.jpg",
-  "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#diary",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/1b6648dc557e3a4ce322c39cadfbbaeb110f9763/live-results/game-20261010-codex-05/current.jpg",
+  "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
   "title": "NIKO² ATELIER",
   "viewport": {
     "width": 390,
@@ -29,30 +29,8 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\nNIKO² ATELIER\nHome\n\nNIKO² DIARY\nDiary\n今日のことを、ひとつだけ。\n10月10日 11:55\n持ち帰った夢が、まだ手元にあります。\n← さっきの空へ戻る\nTODAY\n今日を残す\n✦\nいまの気配\n\n静か\n\nきらきら\n\nぼんやり\n\nざわざわ\n\n甘い\n\n雨っぽい\n\n眠い\n\n何もない\nPHOTO\n写真\n選択なし\nまち\n部屋\n買ったもの\n遊び\n食べもの\nその他\n写真を眺める\n‹\n›\n\n\n自販機\n\n\nホーム\n\n\n改札\n\n\n途中\n\n\nロッカー\n\n\nエレベーター\n\n\nガラス扉\n\n\n空席\n\n\n雨の改札\n\n\n22:47\n\n\n青空\n\n\n夕方\n\n\n夜空\n\n\n空の間\n\n\n夕方の壁\n\n\n雨あがり\n言葉\nOPTIONAL\nこの端末だけに残ります\n残す\nRECENT\n少し前の自分\n\n帰る花弁\n10/10\n2026年10月\nMONTHLY REFLECTION\n今月の景色\nよく残った気配\n静かな余白\nよく残った色\n色のない紙片\nよく残ったモチーフ\n名前のないもの\nまだ記録が少ないので、傾向ではなく、残ったものをそのまま眺めています。\nもう少し見る\nARCHIVE\n前の日々をひらく\n\nWHAT REMAINED\n残ったものを見る\nアトリエへ戻る\n",
+  "text": "作品へ移動\n \nWORLD\nWORLD\n水面の向こうに、いくつかの場所がひらいています。\n\n\nABOUT\nもふもふはいます。\nPLAY / SHARE / FAN WORK\nNIKO²での生活について\n好きな形で遊ぶための、小さな境界。\nDEAR ATELIER\nお手紙を送る\nAtelierの受取箱へ。\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n\nAFTER THE GARDEN\nこの庭を、短く通り抜けました。\n次へ",
   "controls": [
-    {
-      "tag": "A",
-      "text": "NIKO² ATELIER",
-      "disabled": false,
-      "rect": {
-        "x": 25,
-        "y": 13,
-        "w": 124,
-        "h": 44
-      }
-    },
-    {
-      "tag": "A",
-      "text": "Home",
-      "disabled": false,
-      "rect": {
-        "x": 25,
-        "y": 57,
-        "w": 124,
-        "h": 44
-      }
-    },
     {
       "tag": "BUTTON",
       "text": "音をオンにする",
@@ -65,168 +43,47 @@
       }
     },
     {
-      "tag": "BUTTON",
-      "text": "まち",
+      "tag": "A",
+      "text": "FROM THE ATELIERを開く",
       "disabled": false,
       "rect": {
-        "x": 52,
-        "y": -24,
-        "w": 92,
-        "h": 39
+        "x": 279,
+        "y": 274,
+        "w": 91,
+        "h": 92
+      }
+    },
+    {
+      "tag": "A",
+      "text": "Diaryを開く",
+      "disabled": false,
+      "rect": {
+        "x": 14,
+        "y": 298,
+        "w": 147,
+        "h": 147
       }
     },
     {
       "tag": "BUTTON",
-      "text": "部屋",
+      "text": "Enter the dream",
       "disabled": false,
       "rect": {
-        "x": 149,
-        "y": -24,
-        "w": 92,
-        "h": 39
+        "x": 90,
+        "y": 494,
+        "w": 210,
+        "h": 70
       }
     },
     {
       "tag": "BUTTON",
-      "text": "買ったもの",
+      "text": "次へ",
       "disabled": false,
       "rect": {
-        "x": 246,
-        "y": -24,
-        "w": 92,
-        "h": 39
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "遊び",
-      "disabled": false,
-      "rect": {
-        "x": 52,
-        "y": 19,
-        "w": 92,
-        "h": 39
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "食べもの",
-      "disabled": false,
-      "rect": {
-        "x": 149,
-        "y": 19,
-        "w": 92,
-        "h": 39
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "その他",
-      "disabled": false,
-      "rect": {
-        "x": 246,
-        "y": 19,
-        "w": 92,
-        "h": 39
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "写真を眺める",
-      "disabled": false,
-      "rect": {
-        "x": 154,
-        "y": 71,
-        "w": 75,
-        "h": 40
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "‹",
-      "disabled": true,
-      "rect": {
-        "x": 241,
-        "y": 69,
-        "w": 44,
+        "x": 300,
+        "y": 748,
+        "w": 72,
         "h": 44
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "›",
-      "disabled": false,
-      "rect": {
-        "x": 293,
-        "y": 69,
-        "w": 44,
-        "h": 44
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "自販機",
-      "disabled": false,
-      "rect": {
-        "x": 55,
-        "y": 126,
-        "w": 144,
-        "h": 178
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "ホーム",
-      "disabled": false,
-      "rect": {
-        "x": 183,
-        "y": 128,
-        "w": 142,
-        "h": 177
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "改札",
-      "disabled": false,
-      "rect": {
-        "x": 311,
-        "y": 129,
-        "w": 140,
-        "h": 175
-      }
-    },
-    {
-      "tag": "TEXTAREA",
-      "text": "ひとことだけでも、長くても。",
-      "disabled": false,
-      "rect": {
-        "x": 55,
-        "y": 386,
-        "w": 280,
-        "h": 52
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "残す",
-      "disabled": true,
-      "rect": {
-        "x": 220,
-        "y": 392,
-        "w": 128,
-        "h": 48
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "帰る花弁\n10/10",
-      "disabled": false,
-      "rect": {
-        "x": 38,
-        "y": 546,
-        "w": 313,
-        "h": 170
       }
     }
   ],
@@ -584,6 +441,21 @@
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#diary",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/b71f7237345e9e2707f2fe24b4812a7ac9ee81d2/live-results/game-20261010-codex-05/current.jpg",
       "text": "作品へ移動\nNIKO² ATELIER\nHome\n\nNIKO² DIARY\nDiary\n今日のことを、ひとつだけ。\n10月10日 11:55\n持ち帰った夢が、まだ手元にあります。\n← さっきの空へ戻る\nTODAY\n今日を残す\n✦\nいまの気配\n\n静か\n\nきらきら\n\nぼんやり\n\nざわざわ\n\n甘い\n\n雨っぽい\n\n眠い\n\n何もない\nPHOTO\n写真\n選択なし\nまち\n部屋\n買ったもの\n遊び\n食べもの\nその他\n写真を眺める\n‹\n›\n\n\n自販機\n\n\nホーム\n\n\n改札\n\n\n途中\n\n\nロッカー\n\n\nエレベーター\n\n\nガラス扉\n\n\n空席\n\n\n雨の改札\n\n\n22:47\n\n\n青空\n\n\n夕方\n\n\n夜空\n\n\n空の間\n\n\n夕方の壁\n\n\n雨あがり\n言葉\nOPTIONAL\nこの端末だけに残ります\n残す\nRECENT\n少し前の自分\n\n帰る花弁\n10/10\n2026年10月\nMONTHLY REFLECTION\n今月の景色\nよく残った気配\n静かな余白\nよく残った色\n色のない紙片\nよく残ったモチーフ\n名前のないもの\nまだ記録が少ないので、傾向ではなく、残ったものをそのまま眺めています。\nもう少し見る\nARCHIVE\n前の日々をひらく\n\nWHAT REMAINED\n残ったものを見る\nアトリエへ戻る\n"
+    },
+    {
+      "number": 25,
+      "at": "2026-10-10T02:57:59.538Z",
+      "action": {
+        "id": "g24",
+        "op": "tap",
+        "x": 69,
+        "y": 80,
+        "note": "Homeに戻れば別の夢やリプレイ入口があるかもしれない。"
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/1b6648dc557e3a4ce322c39cadfbbaeb110f9763/live-results/game-20261010-codex-05/current.jpg",
+      "text": "作品へ移動\n \nWORLD\nWORLD\n水面の向こうに、いくつかの場所がひらいています。\n\n\nABOUT\nもふもふはいます。\nPLAY / SHARE / FAN WORK\nNIKO²での生活について\n好きな形で遊ぶための、小さな境界。\nDEAR ATELIER\nお手紙を送る\nAtelierの受取箱へ。\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n\nAFTER THE GARDEN\nこの庭を、短く通り抜けました。\n次へ"
     }
   ]
 }
