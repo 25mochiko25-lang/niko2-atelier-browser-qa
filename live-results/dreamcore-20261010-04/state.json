@@ -6,19 +6,19 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-10T02:39:12.470Z",
-  "updatedAt": "2026-10-10T02:42:22.851Z",
-  "lastCommand": "d07-petal",
+  "updatedAt": "2026-10-10T02:42:47.742Z",
+  "lastCommand": "d08-carry",
   "stopReason": null,
   "action": {
-    "id": "d07-petal",
+    "id": "d08-carry",
     "op": "tap",
-    "x": 111,
-    "y": 746,
-    "wait": 550,
-    "note": "A solitary pink petal above the reflective pool stands out. Touch it; this feels more like quiet impossible architecture than the default Garden."
+    "x": 193,
+    "y": 729,
+    "wait": 600,
+    "note": "Secret scene offers a souvenir petal; take it, then see whether carrying something provides a distinct emotion."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/49ee2a25f030261cfe2c052668fd09c1b2fb2c92/live-results/dreamcore-20261010-04/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/5b9ca6dfbacd3e7d0a27392584c315184755109e/live-results/dreamcore-20261010-04/current.jpg",
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#quiet",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -30,7 +30,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n夢の見覚え ✧︎\n\n空へ昇った庭から、一枚だけ残った。\n\n持ち帰る\n\n夢を離れる",
+  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n夢を離れる\n\nDREAM MEMORY\n\n夢から残ったもの\n\nWORLD MEMORY\nTHING THAT REMAINED\nWORLD MEMORY + REMAINS\n白い石に残った花弁\n帰る花弁 — 空へ昇った庭から、一枚だけ残った。\n言葉を添える\nアトリエへ戻る\nDiaryへ持ち帰る",
   "controls": [
     {
       "tag": "BUTTON",
@@ -59,21 +59,10 @@
       "text": "帰る花弁に触れる",
       "disabled": false,
       "rect": {
-        "x": 76,
-        "y": 711,
+        "x": 75,
+        "y": 712,
         "w": 69,
         "h": 69
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "持ち帰る",
-      "disabled": false,
-      "rect": {
-        "x": 139,
-        "y": 705,
-        "w": 112,
-        "h": 44
       }
     },
     {
@@ -85,6 +74,50 @@
         "y": 782,
         "w": 100,
         "h": 44
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "日記を閉じる",
+      "disabled": false,
+      "rect": {
+        "x": 313,
+        "y": 137,
+        "w": 44,
+        "h": 44
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "言葉を添える",
+      "disabled": false,
+      "rect": {
+        "x": 38,
+        "y": 534,
+        "w": 103,
+        "h": 44
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "アトリエへ戻る",
+      "disabled": false,
+      "rect": {
+        "x": 38,
+        "y": 668,
+        "w": 314,
+        "h": 40
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Diaryへ持ち帰る",
+      "disabled": false,
+      "rect": {
+        "x": 38,
+        "y": 613,
+        "w": 314,
+        "h": 48
       }
     }
   ],
@@ -211,6 +244,22 @@
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#quiet",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/49ee2a25f030261cfe2c052668fd09c1b2fb2c92/live-results/dreamcore-20261010-04/current.jpg",
       "text": "作品へ移動\n夢の見覚え ✧︎\n\n空へ昇った庭から、一枚だけ残った。\n\n持ち帰る\n\n夢を離れる"
+    },
+    {
+      "number": 9,
+      "at": "2026-10-10T02:42:47.742Z",
+      "action": {
+        "id": "d08-carry",
+        "op": "tap",
+        "x": 193,
+        "y": 729,
+        "wait": 600,
+        "note": "Secret scene offers a souvenir petal; take it, then see whether carrying something provides a distinct emotion."
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#quiet",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/5b9ca6dfbacd3e7d0a27392584c315184755109e/live-results/dreamcore-20261010-04/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n夢を離れる\n\nDREAM MEMORY\n\n夢から残ったもの\n\nWORLD MEMORY\nTHING THAT REMAINED\nWORLD MEMORY + REMAINS\n白い石に残った花弁\n帰る花弁 — 空へ昇った庭から、一枚だけ残った。\n言葉を添える\nアトリエへ戻る\nDiaryへ持ち帰る"
     }
   ]
 }
