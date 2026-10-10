@@ -6,14 +6,19 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-10T02:17:47.519Z",
-  "updatedAt": "2026-10-10T02:17:53.667Z",
-  "lastCommand": null,
+  "updatedAt": "2026-10-10T02:19:06.239Z",
+  "lastCommand": "v01-enter",
   "stopReason": null,
   "action": {
-    "op": "arrival"
+    "id": "v01-enter",
+    "op": "tap",
+    "x": 195,
+    "y": 529,
+    "wait": 1000,
+    "note": "The gemstone entrance is the only clear action; the overall look is intensely glossy pastel fantasy, with small title/CTA lettering."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/12daf024ce4912cabdd20b83b8ccb0cc9f1b5f26/live-results/aesthetic-20261010-01/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/13fca9285a728014198e0c3a47b15b0877d1dbf1/live-results/aesthetic-20261010-01/current.jpg",
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -25,7 +30,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n\n",
+  "text": "作品へ移動\n\n\nWORLD\n夢の入り口は、毎回すこし違う。\n次へ",
   "controls": [
     {
       "tag": "BUTTON",
@@ -48,6 +53,17 @@
         "w": 210,
         "h": 70
       }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "次へ",
+      "disabled": false,
+      "rect": {
+        "x": 300,
+        "y": 748,
+        "w": 72,
+        "h": 44
+      }
     }
   ],
   "pageErrors": [],
@@ -63,6 +79,22 @@
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/12daf024ce4912cabdd20b83b8ccb0cc9f1b5f26/live-results/aesthetic-20261010-01/current.jpg",
       "text": "作品へ移動\n\n"
+    },
+    {
+      "number": 2,
+      "at": "2026-10-10T02:19:06.239Z",
+      "action": {
+        "id": "v01-enter",
+        "op": "tap",
+        "x": 195,
+        "y": 529,
+        "wait": 1000,
+        "note": "The gemstone entrance is the only clear action; the overall look is intensely glossy pastel fantasy, with small title/CTA lettering."
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/13fca9285a728014198e0c3a47b15b0877d1dbf1/live-results/aesthetic-20261010-01/current.jpg",
+      "text": "作品へ移動\n\n\nWORLD\n夢の入り口は、毎回すこし違う。\n次へ"
     }
   ]
 }
