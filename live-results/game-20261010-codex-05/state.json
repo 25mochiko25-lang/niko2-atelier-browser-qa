@@ -6,18 +6,18 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-10T02:45:22.701Z",
-  "updatedAt": "2026-10-10T02:50:49.861Z",
-  "lastCommand": "g10",
+  "updatedAt": "2026-10-10T02:51:17.801Z",
+  "lastCommand": "g11",
   "stopReason": null,
   "action": {
-    "id": "g10",
+    "id": "g11",
     "op": "tap",
-    "x": 308,
-    "y": 231,
-    "note": "奥の白い門は別の場所につながりそうに見える。分岐を探して門を触る。"
+    "x": 350,
+    "y": 518,
+    "note": "門を触っても庭に留まった。次は置き去りのくまに何が残っているか知りたい。"
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/59b269c2984f5577fe9613334bb9c6d1ff6e903b/live-results/game-20261010-codex-05/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/bfeb80f50eae9e90e77359f7e40da106089d3f03/live-results/game-20261010-codex-05/current.jpg",
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -29,7 +29,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n1 / 5\n見つけたもの\n取っ手の向こうで、鍵穴の光がひとつ消えた。",
+  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n2 / 5\n見つけたもの\nCG-01-A_02.DRM\n11:51:14\n\nFRAGMENT / 02\n\n置き去りのくま\n名前はもうない。それでも、いつもの方を向いている。\n取っ手の向こうで、鍵穴の光がひとつ消えた。",
   "controls": [
     {
       "tag": "BUTTON",
@@ -88,7 +88,7 @@
     },
     {
       "tag": "BUTTON",
-      "text": "置き去りのくまに触れる",
+      "text": "置き去りのくま（発見済み）",
       "disabled": false,
       "rect": {
         "x": 280,
@@ -194,6 +194,17 @@
         "y": 178,
         "w": 72,
         "h": 95
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "見つけた記憶を閉じる",
+      "disabled": false,
+      "rect": {
+        "x": 324,
+        "y": 654,
+        "w": 24,
+        "h": 23
       }
     }
   ],
@@ -360,6 +371,21 @@
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/59b269c2984f5577fe9613334bb9c6d1ff6e903b/live-results/game-20261010-codex-05/current.jpg",
       "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n1 / 5\n見つけたもの\n取っ手の向こうで、鍵穴の光がひとつ消えた。"
+    },
+    {
+      "number": 12,
+      "at": "2026-10-10T02:51:17.801Z",
+      "action": {
+        "id": "g11",
+        "op": "tap",
+        "x": 350,
+        "y": 518,
+        "note": "門を触っても庭に留まった。次は置き去りのくまに何が残っているか知りたい。"
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/bfeb80f50eae9e90e77359f7e40da106089d3f03/live-results/game-20261010-codex-05/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n2 / 5\n見つけたもの\nCG-01-A_02.DRM\n11:51:14\n\nFRAGMENT / 02\n\n置き去りのくま\n名前はもうない。それでも、いつもの方を向いている。\n取っ手の向こうで、鍵穴の光がひとつ消えた。"
     }
   ]
 }
