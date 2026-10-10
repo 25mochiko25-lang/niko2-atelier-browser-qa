@@ -6,19 +6,19 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-10T02:50:21.490Z",
-  "updatedAt": "2026-10-10T02:55:57.571Z",
-  "lastCommand": "g13-close",
+  "updatedAt": "2026-10-10T02:56:20.147Z",
+  "lastCommand": "g14-key",
   "stopReason": null,
   "action": {
-    "id": "g13-close",
+    "id": "g14-key",
     "op": "tap",
-    "x": 337,
-    "y": 665,
-    "wait": 300,
-    "note": "Third card repeats the fragment format, continuing the five-item count."
+    "x": 150,
+    "y": 565,
+    "wait": 430,
+    "note": "The key seems relevant to the door; collect it after the teddy and see if it changes anything."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/6bcbcbdd85eb58826167b401c9f3ff7bfef59bd8/live-results/gameplay-20261010-06/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/26993bc69b4ce47dc6a060c4ba5a7f5a07c79b96/live-results/gameplay-20261010-06/current.jpg",
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -30,7 +30,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n3 / 5\n見つけたもの\n取っ手の向こうで、鍵穴の光がひとつ消えた。",
+  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n4 / 5\n見つけたもの\nCG-01-A_04.DRM\n11:56:17\n\nFRAGMENT / 04\n\n青いリボンの鍵\nどの扉にも合わない。ただ、ひとつの記憶だけが開いた。\n取っ手の向こうで、鍵穴の光がひとつ消えた。",
   "controls": [
     {
       "tag": "BUTTON",
@@ -100,7 +100,7 @@
     },
     {
       "tag": "BUTTON",
-      "text": "青いリボンの鍵に触れる",
+      "text": "青いリボンの鍵（発見済み）",
       "disabled": false,
       "rect": {
         "x": 110,
@@ -195,6 +195,17 @@
         "y": 178,
         "w": 72,
         "h": 95
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "見つけた記憶を閉じる",
+      "disabled": false,
+      "rect": {
+        "x": 324,
+        "y": 654,
+        "w": 24,
+        "h": 23
       }
     }
   ],
@@ -451,6 +462,22 @@
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/6bcbcbdd85eb58826167b401c9f3ff7bfef59bd8/live-results/gameplay-20261010-06/current.jpg",
       "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n3 / 5\n見つけたもの\n取っ手の向こうで、鍵穴の光がひとつ消えた。"
+    },
+    {
+      "number": 17,
+      "at": "2026-10-10T02:56:20.147Z",
+      "action": {
+        "id": "g14-key",
+        "op": "tap",
+        "x": 150,
+        "y": 565,
+        "wait": 430,
+        "note": "The key seems relevant to the door; collect it after the teddy and see if it changes anything."
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/26993bc69b4ce47dc6a060c4ba5a7f5a07c79b96/live-results/gameplay-20261010-06/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n4 / 5\n見つけたもの\nCG-01-A_04.DRM\n11:56:17\n\nFRAGMENT / 04\n\n青いリボンの鍵\nどの扉にも合わない。ただ、ひとつの記憶だけが開いた。\n取っ手の向こうで、鍵穴の光がひとつ消えた。"
     }
   ]
 }
