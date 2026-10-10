@@ -6,14 +6,19 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-10T02:29:41.308Z",
-  "updatedAt": "2026-10-10T02:29:46.852Z",
-  "lastCommand": null,
+  "updatedAt": "2026-10-10T02:30:18.806Z",
+  "lastCommand": "a01-enter",
   "stopReason": null,
   "action": {
-    "op": "arrival"
+    "id": "a01-enter",
+    "op": "tap",
+    "x": 195,
+    "y": 530,
+    "wait": 600,
+    "note": "Simulation of an AI-skeptical viewer: the glossy candy-color fantasy immediately suggests image-generation tropes. Still try the lone CTA before deciding."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/a92365abb8fcfdfcde0616b96f35dfc5d38dc6de/live-results/anti-ai-20261010-02/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/2295a3ad44c52f9572bf58434e96210abc27cfe3/live-results/anti-ai-20261010-02/current.jpg",
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -25,7 +30,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n\n",
+  "text": "作品へ移動\n\n\nWORLD\n夢の入り口は、毎回すこし違う。\n次へ",
   "controls": [
     {
       "tag": "BUTTON",
@@ -48,6 +53,17 @@
         "w": 210,
         "h": 70
       }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "次へ",
+      "disabled": false,
+      "rect": {
+        "x": 300,
+        "y": 748,
+        "w": 72,
+        "h": 44
+      }
     }
   ],
   "pageErrors": [],
@@ -63,6 +79,22 @@
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/a92365abb8fcfdfcde0616b96f35dfc5d38dc6de/live-results/anti-ai-20261010-02/current.jpg",
       "text": "作品へ移動\n\n"
+    },
+    {
+      "number": 2,
+      "at": "2026-10-10T02:30:18.806Z",
+      "action": {
+        "id": "a01-enter",
+        "op": "tap",
+        "x": 195,
+        "y": 530,
+        "wait": 600,
+        "note": "Simulation of an AI-skeptical viewer: the glossy candy-color fantasy immediately suggests image-generation tropes. Still try the lone CTA before deciding."
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/2295a3ad44c52f9572bf58434e96210abc27cfe3/live-results/anti-ai-20261010-02/current.jpg",
+      "text": "作品へ移動\n\n\nWORLD\n夢の入り口は、毎回すこし違う。\n次へ"
     }
   ]
 }
