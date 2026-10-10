@@ -6,19 +6,19 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-10T02:17:47.519Z",
-  "updatedAt": "2026-10-10T02:23:04.742Z",
-  "lastCommand": "v11-bear",
+  "updatedAt": "2026-10-10T02:23:21.967Z",
+  "lastCommand": "v12-close-bear",
   "stopReason": null,
   "action": {
-    "id": "v11-bear",
+    "id": "v12-close-bear",
     "op": "tap",
-    "x": 345,
-    "y": 512,
-    "wait": 500,
-    "note": "Teddy in frame is a prominent non-gemstone prop; see if it responds and differs from the first two."
+    "x": 337,
+    "y": 666,
+    "wait": 250,
+    "note": "The teddy fragment is similarly presented, but text connects absence and memory. Explore the key next."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/f13907288670544acfb4e359565da8e19071ea11/live-results/aesthetic-20261010-01/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/8250d98316edee502c39f44a7f91450614d2e82f/live-results/aesthetic-20261010-01/current.jpg",
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -30,7 +30,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n3 / 5\n見つけたもの\nCG-01-A_03.DRM\n11:23:02\n\nFRAGMENT / 03\n\n置き去りのくま\n名前はもうない。それでも、いつもの方を向いている。\n紙の裏に、消したはずの時刻がひとつ残っている。",
+  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n3 / 5\n見つけたもの\n紙の裏に、消したはずの時刻がひとつ残っている。",
   "controls": [
     {
       "tag": "BUTTON",
@@ -195,17 +195,6 @@
         "y": 178,
         "w": 72,
         "h": 95
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "見つけた記憶を閉じる",
-      "disabled": false,
-      "rect": {
-        "x": 324,
-        "y": 654,
-        "w": 24,
-        "h": 23
       }
     }
   ],
@@ -398,6 +387,22 @@
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/f13907288670544acfb4e359565da8e19071ea11/live-results/aesthetic-20261010-01/current.jpg",
       "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n3 / 5\n見つけたもの\nCG-01-A_03.DRM\n11:23:02\n\nFRAGMENT / 03\n\n置き去りのくま\n名前はもうない。それでも、いつもの方を向いている。\n紙の裏に、消したはずの時刻がひとつ残っている。"
+    },
+    {
+      "number": 13,
+      "at": "2026-10-10T02:23:21.967Z",
+      "action": {
+        "id": "v12-close-bear",
+        "op": "tap",
+        "x": 337,
+        "y": 666,
+        "wait": 250,
+        "note": "The teddy fragment is similarly presented, but text connects absence and memory. Explore the key next."
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/8250d98316edee502c39f44a7f91450614d2e82f/live-results/aesthetic-20261010-01/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n3 / 5\n見つけたもの\n紙の裏に、消したはずの時刻がひとつ残っている。"
     }
   ]
 }
