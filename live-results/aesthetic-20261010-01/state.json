@@ -6,19 +6,17 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-10T02:17:47.519Z",
-  "updatedAt": "2026-10-10T02:24:40.041Z",
-  "lastCommand": "v16-gate",
+  "updatedAt": "2026-10-10T02:25:05.233Z",
+  "lastCommand": "v17-look-gate",
   "stopReason": null,
   "action": {
-    "id": "v16-gate",
-    "op": "tap",
-    "x": 312,
-    "y": 240,
-    "wait": 1500,
-    "note": "After five objects the white gate enlarges its hit area and inviting text appears. I expect something more than five repetitive cards."
+    "id": "v17-look-gate",
+    "op": "wait",
+    "wait": 2800,
+    "note": "The gate zoom is still playing; wait rather than mistake cinematic transition for broken interaction."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/640bdb17f9cdf1f6186eb41e2d4b393a58c518a4/live-results/aesthetic-20261010-01/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/d3d96c9424a0355b83c43e7c3e260434af9e4358/live-results/aesthetic-20261010-01/current.jpg",
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#quiet",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -30,7 +28,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n夢の見覚え ✧︎\n\n",
+  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n夢を離れる",
   "controls": [
     {
       "tag": "BUTTON",
@@ -52,6 +50,28 @@
         "y": 56,
         "w": 61,
         "h": 30
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "白い街の一片に触れる",
+      "disabled": false,
+      "rect": {
+        "x": 64,
+        "y": 720,
+        "w": 69,
+        "h": 69
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "夢を離れる",
+      "disabled": false,
+      "rect": {
+        "x": 22,
+        "y": 782,
+        "w": 100,
+        "h": 44
       }
     }
   ],
@@ -324,6 +344,20 @@
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#quiet",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/640bdb17f9cdf1f6186eb41e2d4b393a58c518a4/live-results/aesthetic-20261010-01/current.jpg",
       "text": "作品へ移動\n夢の見覚え ✧︎\n\n"
+    },
+    {
+      "number": 18,
+      "at": "2026-10-10T02:25:05.233Z",
+      "action": {
+        "id": "v17-look-gate",
+        "op": "wait",
+        "wait": 2800,
+        "note": "The gate zoom is still playing; wait rather than mistake cinematic transition for broken interaction."
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#quiet",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/d3d96c9424a0355b83c43e7c3e260434af9e4358/live-results/aesthetic-20261010-01/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n夢を離れる"
     }
   ]
 }
