@@ -1,1 +1,1 @@
-{"id":"v17-look-gate","op":"wait","wait":2800,"note":"The gate zoom is still playing; wait rather than mistake cinematic transition for broken interaction."}
+{"id":"v18-city-fragment","op":"tap","x":100,"y":754,"wait":550,"note":"A small floating blue object at bottom appears collectible. The white city image has greater monumentality, yet repeating spires and arches blur into AI-like motif multiplication."}
