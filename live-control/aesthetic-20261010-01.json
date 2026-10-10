@@ -1,1 +1,1 @@
-{"id":"v09-cup","op":"tap","x":218,"y":521,"wait":500,"note":"The handwritten paper interaction yielded a line without another collectible; test teacup to learn what the five items mean."}
+{"id":"v10-close-cup","op":"tap","x":337,"y":682,"wait":250,"note":"Second fragment repeats collection-card format with timestamp, but has unique text. Close and consider other props."}
