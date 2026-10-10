@@ -6,18 +6,16 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-10T02:45:22.701Z",
-  "updatedAt": "2026-10-10T03:03:01.275Z",
-  "lastCommand": "g35",
+  "updatedAt": "2026-10-10T03:03:29.680Z",
+  "lastCommand": "g36",
   "stopReason": null,
   "action": {
-    "id": "g35",
-    "op": "tap",
-    "x": 307,
-    "y": 231,
-    "note": "5/5で門を呼ぶ案内が出た。集めた結果で新しい場所が開くのはゲームとして気になるので、門へ進む。"
+    "id": "g36",
+    "op": "look",
+    "note": "門が大きく迫る画面になった。集めきったあとの景色が落ち着くのを見たい。"
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/7232b04fc730441c67e5f76b240aed9c419134a4/live-results/game-20261010-codex-05/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/808df46a4832019eabfe0469bc694ea4291e81f9/live-results/game-20261010-codex-05/current.jpg",
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#quiet",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -29,7 +27,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n夢の見覚え ✧︎\n遠のいていく庭の中で、見覚えのあるくまと椅子だけが座っている。\n\n",
+  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n夢を離れる\nもう一度夢を見る\n過去の日記は消えません\n",
   "controls": [
     {
       "tag": "BUTTON",
@@ -51,6 +49,39 @@
         "y": 56,
         "w": 61,
         "h": 30
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "待っていた糸結びに触れる",
+      "disabled": false,
+      "rect": {
+        "x": 258,
+        "y": 549,
+        "w": 69,
+        "h": 69
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "夢を離れる",
+      "disabled": false,
+      "rect": {
+        "x": 22,
+        "y": 782,
+        "w": 100,
+        "h": 44
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "もう一度夢を見る\n過去の日記は消えません",
+      "disabled": false,
+      "rect": {
+        "x": 232,
+        "y": 772,
+        "w": 140,
+        "h": 54
       }
     }
   ],
@@ -588,6 +619,19 @@
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#quiet",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/7232b04fc730441c67e5f76b240aed9c419134a4/live-results/game-20261010-codex-05/current.jpg",
       "text": "作品へ移動\n夢の見覚え ✧︎\n遠のいていく庭の中で、見覚えのあるくまと椅子だけが座っている。\n\n"
+    },
+    {
+      "number": 37,
+      "at": "2026-10-10T03:03:29.680Z",
+      "action": {
+        "id": "g36",
+        "op": "look",
+        "note": "門が大きく迫る画面になった。集めきったあとの景色が落ち着くのを見たい。"
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#quiet",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/808df46a4832019eabfe0469bc694ea4291e81f9/live-results/game-20261010-codex-05/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n夢を離れる\nもう一度夢を見る\n過去の日記は消えません\n"
     }
   ]
 }
