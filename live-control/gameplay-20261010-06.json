@@ -1,1 +1,1 @@
-{"id":"g03-next","op":"tap","x":337,"y":769,"wait":450,"note":"Touch/carry/store suggest an inventory loop, but they are displayed as buttons that look interactive; move ahead to actual mechanics."}
+{"id":"g04-dream","op":"tap","x":337,"y":771,"wait":800,"note":"A three-step tutorial was quick, and now I expect an exploratory game."}
