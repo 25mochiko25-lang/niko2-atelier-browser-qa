@@ -6,19 +6,19 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-10T02:50:21.490Z",
-  "updatedAt": "2026-10-10T02:55:38.094Z",
-  "lastCommand": "g12-bear",
+  "updatedAt": "2026-10-10T02:55:57.571Z",
+  "lastCommand": "g13-close",
   "stopReason": null,
   "action": {
-    "id": "g12-bear",
+    "id": "g13-close",
     "op": "tap",
-    "x": 343,
-    "y": 499,
-    "wait": 350,
-    "note": "Second gate tap left me in 2/5 Garden with no visible transition; return to collectible challenge. Tap teddy."
+    "x": 337,
+    "y": 665,
+    "wait": 300,
+    "note": "Third card repeats the fragment format, continuing the five-item count."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/8d7763b6285152170585ce5382bc3f061e8b59e8/live-results/gameplay-20261010-06/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/6bcbcbdd85eb58826167b401c9f3ff7bfef59bd8/live-results/gameplay-20261010-06/current.jpg",
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -30,7 +30,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n3 / 5\n見つけたもの\nCG-01-A_03.DRM\n11:55:35\n\nFRAGMENT / 03\n\n置き去りのくま\n名前はもうない。それでも、いつもの方を向いている。\n取っ手の向こうで、鍵穴の光がひとつ消えた。",
+  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n3 / 5\n見つけたもの\n取っ手の向こうで、鍵穴の光がひとつ消えた。",
   "controls": [
     {
       "tag": "BUTTON",
@@ -195,17 +195,6 @@
         "y": 178,
         "w": 72,
         "h": 95
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "見つけた記憶を閉じる",
-      "disabled": false,
-      "rect": {
-        "x": 324,
-        "y": 654,
-        "w": 24,
-        "h": 23
       }
     }
   ],
@@ -446,6 +435,22 @@
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/8d7763b6285152170585ce5382bc3f061e8b59e8/live-results/gameplay-20261010-06/current.jpg",
       "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n3 / 5\n見つけたもの\nCG-01-A_03.DRM\n11:55:35\n\nFRAGMENT / 03\n\n置き去りのくま\n名前はもうない。それでも、いつもの方を向いている。\n取っ手の向こうで、鍵穴の光がひとつ消えた。"
+    },
+    {
+      "number": 16,
+      "at": "2026-10-10T02:55:57.571Z",
+      "action": {
+        "id": "g13-close",
+        "op": "tap",
+        "x": 337,
+        "y": 665,
+        "wait": 300,
+        "note": "Third card repeats the fragment format, continuing the five-item count."
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/6bcbcbdd85eb58826167b401c9f3ff7bfef59bd8/live-results/gameplay-20261010-06/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n3 / 5\n見つけたもの\n取っ手の向こうで、鍵穴の光がひとつ消えた。"
     }
   ]
 }
