@@ -6,18 +6,17 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-10T02:45:22.701Z",
-  "updatedAt": "2026-10-10T03:04:48.146Z",
-  "lastCommand": "g39",
+  "updatedAt": "2026-10-10T03:05:13.339Z",
+  "lastCommand": "g40",
   "stopReason": null,
   "action": {
-    "id": "g39",
-    "op": "tap",
-    "x": 195,
-    "y": 648,
-    "note": "今度は写真だけで十分。Diaryに持ち帰って二つの訪問の記念を残す。"
+    "id": "g40",
+    "op": "key",
+    "key": "PageDown",
+    "note": "青い糸を持ち帰った。前の花弁も消えずに並ぶところまで見て、今日は区切りにする。"
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/45982672f60d09d1fd3d2411bfa060a38d32aa6d/live-results/game-20261010-codex-05/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/b35c11fbca423f74c05a5324f0fad963340053f3/live-results/game-20261010-codex-05/current.jpg",
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#diary",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -88,121 +87,11 @@
     },
     {
       "tag": "BUTTON",
-      "text": "待っていた糸結びに触れる",
-      "disabled": false,
-      "rect": {
-        "x": 257,
-        "y": 549,
-        "w": 69,
-        "h": 69
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "← さっきの空へ戻る",
-      "disabled": false,
-      "rect": {
-        "x": 234,
-        "y": 258,
-        "w": 122,
-        "h": 40
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "静か",
-      "disabled": false,
-      "rect": {
-        "x": 42,
-        "y": 428,
-        "w": 84,
-        "h": 44
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "きらきら",
-      "disabled": false,
-      "rect": {
-        "x": 133,
-        "y": 428,
-        "w": 99,
-        "h": 44
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "ぼんやり",
-      "disabled": false,
-      "rect": {
-        "x": 239,
-        "y": 428,
-        "w": 109,
-        "h": 44
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "ざわざわ",
-      "disabled": false,
-      "rect": {
-        "x": 42,
-        "y": 481,
-        "w": 99,
-        "h": 44
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "甘い",
-      "disabled": false,
-      "rect": {
-        "x": 148,
-        "y": 481,
-        "w": 81,
-        "h": 44
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "雨っぽい",
-      "disabled": false,
-      "rect": {
-        "x": 236,
-        "y": 481,
-        "w": 112,
-        "h": 44
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "眠い",
-      "disabled": false,
-      "rect": {
-        "x": 42,
-        "y": 534,
-        "w": 91,
-        "h": 44
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "何もない",
-      "disabled": false,
-      "rect": {
-        "x": 140,
-        "y": 534,
-        "w": 112,
-        "h": 44
-      }
-    },
-    {
-      "tag": "BUTTON",
       "text": "まち",
       "disabled": false,
       "rect": {
         "x": 52,
-        "y": 651,
+        "y": -24,
         "w": 92,
         "h": 39
       }
@@ -213,7 +102,7 @@
       "disabled": false,
       "rect": {
         "x": 149,
-        "y": 651,
+        "y": -24,
         "w": 92,
         "h": 39
       }
@@ -224,7 +113,7 @@
       "disabled": false,
       "rect": {
         "x": 246,
-        "y": 651,
+        "y": -24,
         "w": 92,
         "h": 39
       }
@@ -235,7 +124,7 @@
       "disabled": false,
       "rect": {
         "x": 52,
-        "y": 694,
+        "y": 19,
         "w": 92,
         "h": 39
       }
@@ -246,7 +135,7 @@
       "disabled": false,
       "rect": {
         "x": 149,
-        "y": 694,
+        "y": 19,
         "w": 92,
         "h": 39
       }
@@ -257,7 +146,7 @@
       "disabled": false,
       "rect": {
         "x": 246,
-        "y": 694,
+        "y": 19,
         "w": 92,
         "h": 39
       }
@@ -268,7 +157,7 @@
       "disabled": false,
       "rect": {
         "x": 154,
-        "y": 746,
+        "y": 71,
         "w": 75,
         "h": 40
       }
@@ -279,7 +168,7 @@
       "disabled": true,
       "rect": {
         "x": 241,
-        "y": 744,
+        "y": 69,
         "w": 44,
         "h": 44
       }
@@ -290,7 +179,7 @@
       "disabled": false,
       "rect": {
         "x": 293,
-        "y": 744,
+        "y": 69,
         "w": 44,
         "h": 44
       }
@@ -301,7 +190,7 @@
       "disabled": false,
       "rect": {
         "x": 55,
-        "y": 801,
+        "y": 126,
         "w": 144,
         "h": 178
       }
@@ -312,7 +201,7 @@
       "disabled": false,
       "rect": {
         "x": 183,
-        "y": 803,
+        "y": 128,
         "w": 142,
         "h": 177
       }
@@ -323,9 +212,53 @@
       "disabled": false,
       "rect": {
         "x": 311,
-        "y": 804,
+        "y": 129,
         "w": 140,
         "h": 175
+      }
+    },
+    {
+      "tag": "TEXTAREA",
+      "text": "ひとことだけでも、長くても。",
+      "disabled": false,
+      "rect": {
+        "x": 55,
+        "y": 386,
+        "w": 280,
+        "h": 52
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "残す",
+      "disabled": true,
+      "rect": {
+        "x": 220,
+        "y": 392,
+        "w": 128,
+        "h": 48
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "待っていた糸結び\n10/10",
+      "disabled": false,
+      "rect": {
+        "x": 38,
+        "y": 546,
+        "w": 313,
+        "h": 170
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "帰る花弁\n10/10",
+      "disabled": false,
+      "rect": {
+        "x": 38,
+        "y": 729,
+        "w": 313,
+        "h": 170
       }
     }
   ],
@@ -920,6 +853,20 @@
       "error": null,
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#diary",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/45982672f60d09d1fd3d2411bfa060a38d32aa6d/live-results/game-20261010-codex-05/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\nDream\nDiary\nAbout\n\nNIKO² DIARY\nDiary\n今日のことを、ひとつだけ。\n10月10日 12:04\n持ち帰った夢が、まだ手元にあります。\n← さっきの空へ戻る\nTODAY\n今日を残す\n✦\nいまの気配\n\n静か\n\nきらきら\n\nぼんやり\n\nざわざわ\n\n甘い\n\n雨っぽい\n\n眠い\n\n何もない\nPHOTO\n写真\n選択なし\nまち\n部屋\n買ったもの\n遊び\n食べもの\nその他\n写真を眺める\n‹\n›\n\n\n自販機\n\n\nホーム\n\n\n改札\n\n\n途中\n\n\nロッカー\n\n\nエレベーター\n\n\nガラス扉\n\n\n空席\n\n\n雨の改札\n\n\n22:47\n\n\n青空\n\n\n夕方\n\n\n夜空\n\n\n空の間\n\n\n夕方の壁\n\n\n雨あがり\n言葉\nOPTIONAL\nこの端末だけに残ります\n残す\nRECENT\n少し前の自分\n\n待っていた糸結び\n10/10\n\n帰る花弁\n10/10\n2026年10月\nMONTHLY REFLECTION\n今月の景色\nよく残った気配\n静かな余白\nよく残った色\n色のない紙片\nよく残ったモチーフ\n名前のないもの\nまだ記録が少ないので、傾向ではなく、残ったものをそのまま眺めています。\nもう少し見る\nARCHIVE\n前の日々をひらく\n\nWHAT REMAINED\n残ったものを見る\nアトリエへ戻る\n"
+    },
+    {
+      "number": 41,
+      "at": "2026-10-10T03:05:13.339Z",
+      "action": {
+        "id": "g40",
+        "op": "key",
+        "key": "PageDown",
+        "note": "青い糸を持ち帰った。前の花弁も消えずに並ぶところまで見て、今日は区切りにする。"
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#diary",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/b35c11fbca423f74c05a5324f0fad963340053f3/live-results/game-20261010-codex-05/current.jpg",
       "text": "作品へ移動\nNIKO² ATELIER\nDream\nDiary\nAbout\n\nNIKO² DIARY\nDiary\n今日のことを、ひとつだけ。\n10月10日 12:04\n持ち帰った夢が、まだ手元にあります。\n← さっきの空へ戻る\nTODAY\n今日を残す\n✦\nいまの気配\n\n静か\n\nきらきら\n\nぼんやり\n\nざわざわ\n\n甘い\n\n雨っぽい\n\n眠い\n\n何もない\nPHOTO\n写真\n選択なし\nまち\n部屋\n買ったもの\n遊び\n食べもの\nその他\n写真を眺める\n‹\n›\n\n\n自販機\n\n\nホーム\n\n\n改札\n\n\n途中\n\n\nロッカー\n\n\nエレベーター\n\n\nガラス扉\n\n\n空席\n\n\n雨の改札\n\n\n22:47\n\n\n青空\n\n\n夕方\n\n\n夜空\n\n\n空の間\n\n\n夕方の壁\n\n\n雨あがり\n言葉\nOPTIONAL\nこの端末だけに残ります\n残す\nRECENT\n少し前の自分\n\n待っていた糸結び\n10/10\n\n帰る花弁\n10/10\n2026年10月\nMONTHLY REFLECTION\n今月の景色\nよく残った気配\n静かな余白\nよく残った色\n色のない紙片\nよく残ったモチーフ\n名前のないもの\nまだ記録が少ないので、傾向ではなく、残ったものをそのまま眺めています。\nもう少し見る\nARCHIVE\n前の日々をひらく\n\nWHAT REMAINED\n残ったものを見る\nアトリエへ戻る\n"
     }
   ]
