@@ -6,19 +6,19 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-10T02:33:35.488Z",
-  "updatedAt": "2026-10-10T02:35:37.444Z",
-  "lastCommand": "o05-enter-garden",
+  "updatedAt": "2026-10-10T02:36:02.873Z",
+  "lastCommand": "o06-bear",
   "stopReason": null,
   "action": {
-    "id": "o05-enter-garden",
+    "id": "o06-bear",
     "op": "tap",
-    "x": 195,
-    "y": 787,
-    "wait": 550,
-    "note": "I see 0/5 and one button labelled this sky. A small scavenger game maybe? Tap to start."
+    "x": 345,
+    "y": 502,
+    "wait": 500,
+    "note": "A teddy is the easiest object to recognize; tap and see what happens."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/599ca07d0a30da7254cec8759ba2a26bb7b4eb9c/live-results/ordinary-20261010-03/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/6732e67902824b677098a8e5139083489f401f31/live-results/ordinary-20261010-03/current.jpg",
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -30,7 +30,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n0 / 5\n見つけたもの\n",
+  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n1 / 5\n見つけたもの\nCG-01-A_01.DRM\n11:36:00\n\nFRAGMENT / 01\n\n置き去りのくま\n名前はもうない。それでも、いつもの方を向いている。\n",
   "controls": [
     {
       "tag": "BUTTON",
@@ -89,7 +89,7 @@
     },
     {
       "tag": "BUTTON",
-      "text": "置き去りのくまに触れる",
+      "text": "置き去りのくま（発見済み）",
       "disabled": false,
       "rect": {
         "x": 280,
@@ -196,6 +196,17 @@
         "w": 72,
         "h": 95
       }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "見つけた記憶を閉じる",
+      "disabled": false,
+      "rect": {
+        "x": 324,
+        "y": 654,
+        "w": 24,
+        "h": 23
+      }
     }
   ],
   "pageErrors": [],
@@ -291,6 +302,22 @@
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/599ca07d0a30da7254cec8759ba2a26bb7b4eb9c/live-results/ordinary-20261010-03/current.jpg",
       "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n0 / 5\n見つけたもの\n"
+    },
+    {
+      "number": 7,
+      "at": "2026-10-10T02:36:02.873Z",
+      "action": {
+        "id": "o06-bear",
+        "op": "tap",
+        "x": 345,
+        "y": 502,
+        "wait": 500,
+        "note": "A teddy is the easiest object to recognize; tap and see what happens."
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/6732e67902824b677098a8e5139083489f401f31/live-results/ordinary-20261010-03/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n1 / 5\n見つけたもの\nCG-01-A_01.DRM\n11:36:00\n\nFRAGMENT / 01\n\n置き去りのくま\n名前はもうない。それでも、いつもの方を向いている。\n"
     }
   ]
 }
