@@ -1,1 +1,1 @@
-{"id":"g34-wait-result","op":"wait","wait":1800,"note":"The custom perfume bottle is in its finishing animation; wait for settled design before evaluating."}
+{"id":"g35-pagedown-result","op":"key","key":"PageDown","wait":400,"note":"The fragrance result is longer than the phone viewport; inspect the prose and Diary save action below fold via keyboard emulation."}
