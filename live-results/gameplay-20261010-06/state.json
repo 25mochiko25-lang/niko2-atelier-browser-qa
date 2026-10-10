@@ -6,19 +6,19 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-10T02:50:21.490Z",
-  "updatedAt": "2026-10-10T02:59:04.258Z",
-  "lastCommand": "g22-home",
+  "updatedAt": "2026-10-10T02:59:46.532Z",
+  "lastCommand": "g23-post-garden-next",
   "stopReason": null,
   "action": {
-    "id": "g22-home",
+    "id": "g23-post-garden-next",
     "op": "tap",
-    "x": 82,
-    "y": 79,
-    "wait": 950,
-    "note": "Diary shows a Home control. Explore whether there are other activities and how easy a second visit is."
+    "x": 337,
+    "y": 769,
+    "wait": 500,
+    "note": "The Garden finished; check after-garden recap content."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/f9a146d268c685737567b8baf3ac9ed71653acfe/live-results/gameplay-20261010-06/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/12024aec0c32bfda1f1f9d77c5fd51a6df2d41d6/live-results/gameplay-20261010-06/current.jpg",
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -30,7 +30,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n \nWORLD\nWORLD\n水面の向こうに、いくつかの場所がひらいています。\n\n\nABOUT\nもふもふはいます。\nPLAY / SHARE / FAN WORK\nNIKO²での生活について\n好きな形で遊ぶための、小さな境界。\nDEAR ATELIER\nお手紙を送る\nAtelierの受取箱へ。\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n\nAFTER THE GARDEN\nいくつかのものに触れ、 最後の景色まで進みました。\n次へ",
+  "text": "作品へ移動\n \nWORLD\nWORLD\n水面の向こうに、いくつかの場所がひらいています。\n\n\nABOUT\nもふもふはいます。\nPLAY / SHARE / FAN WORK\nNIKO²での生活について\n好きな形で遊ぶための、小さな境界。\nDEAR ATELIER\nお手紙を送る\nAtelierの受取箱へ。\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n\nWHAT REMAINED\nひとつ、持ち帰ったものがあります。 それは、この先にも残ります。\n次へ戻る",
   "controls": [
     {
       "tag": "BUTTON",
@@ -82,6 +82,17 @@
       "disabled": false,
       "rect": {
         "x": 300,
+        "y": 748,
+        "w": 72,
+        "h": 44
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "戻る",
+      "disabled": false,
+      "rect": {
+        "x": 18,
         "y": 748,
         "w": 72,
         "h": 44
@@ -483,6 +494,22 @@
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/f9a146d268c685737567b8baf3ac9ed71653acfe/live-results/gameplay-20261010-06/current.jpg",
       "text": "作品へ移動\n \nWORLD\nWORLD\n水面の向こうに、いくつかの場所がひらいています。\n\n\nABOUT\nもふもふはいます。\nPLAY / SHARE / FAN WORK\nNIKO²での生活について\n好きな形で遊ぶための、小さな境界。\nDEAR ATELIER\nお手紙を送る\nAtelierの受取箱へ。\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n\nAFTER THE GARDEN\nいくつかのものに触れ、 最後の景色まで進みました。\n次へ"
+    },
+    {
+      "number": 26,
+      "at": "2026-10-10T02:59:46.532Z",
+      "action": {
+        "id": "g23-post-garden-next",
+        "op": "tap",
+        "x": 337,
+        "y": 769,
+        "wait": 500,
+        "note": "The Garden finished; check after-garden recap content."
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/12024aec0c32bfda1f1f9d77c5fd51a6df2d41d6/live-results/gameplay-20261010-06/current.jpg",
+      "text": "作品へ移動\n \nWORLD\nWORLD\n水面の向こうに、いくつかの場所がひらいています。\n\n\nABOUT\nもふもふはいます。\nPLAY / SHARE / FAN WORK\nNIKO²での生活について\n好きな形で遊ぶための、小さな境界。\nDEAR ATELIER\nお手紙を送る\nAtelierの受取箱へ。\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n\nWHAT REMAINED\nひとつ、持ち帰ったものがあります。 それは、この先にも残ります。\n次へ戻る"
     }
   ]
 }
