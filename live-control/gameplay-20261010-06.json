@@ -1,1 +1,1 @@
-{"id":"g31-sugar-last","op":"tap","x":100,"y":333,"wait":480,"note":"In LAST choose Burnt Sugar, expecting a distinct final fragrance."}
+{"id":"g32-pagedown","op":"key","key":"PageDown","wait":400,"note":"The finalization CTA is lower in the page. Use PageDown as an emulated inspection tool, not a validation of touch scrolling."}
