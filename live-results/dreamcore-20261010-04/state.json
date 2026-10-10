@@ -6,19 +6,17 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-10T02:39:12.470Z",
-  "updatedAt": "2026-10-10T02:41:20.744Z",
-  "lastCommand": "d05-dejavu",
+  "updatedAt": "2026-10-10T02:41:49.715Z",
+  "lastCommand": "d06-look",
   "stopReason": null,
   "action": {
-    "id": "d05-dejavu",
-    "op": "tap",
-    "x": 348,
-    "y": 70,
-    "wait": 600,
-    "note": "I am attracted to the tiny '夢の見覚え' mark more than the giant enter CTA. Does it tell me an interesting rule?"
+    "id": "d06-look",
+    "op": "wait",
+    "wait": 2300,
+    "note": "The small title unexpectedly triggered a scene change to an ascending garden. Wait; this is a distinctive dream-like response rather than a typical clickable collectable."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/289e594a429f620dcc4645d4b618a218ad3f4bca/live-results/dreamcore-20261010-04/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/34ee433105f66ca28dee659b5c73bd735bafe943/live-results/dreamcore-20261010-04/current.jpg",
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#quiet",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -30,7 +28,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n夢の見覚え ✧︎\n庭が、空よりも高く昇りはじめた。\n\n",
+  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n夢を離れる",
   "controls": [
     {
       "tag": "BUTTON",
@@ -56,13 +54,24 @@
     },
     {
       "tag": "BUTTON",
-      "text": "",
+      "text": "帰る花弁に触れる",
       "disabled": false,
       "rect": {
-        "x": 118,
-        "y": 764,
-        "w": 154,
-        "h": 48
+        "x": 75,
+        "y": 712,
+        "w": 69,
+        "h": 69
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "夢を離れる",
+      "disabled": false,
+      "rect": {
+        "x": 22,
+        "y": 782,
+        "w": 100,
+        "h": 44
       }
     }
   ],
@@ -159,6 +168,20 @@
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#quiet",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/289e594a429f620dcc4645d4b618a218ad3f4bca/live-results/dreamcore-20261010-04/current.jpg",
       "text": "作品へ移動\n夢の見覚え ✧︎\n庭が、空よりも高く昇りはじめた。\n\n"
+    },
+    {
+      "number": 7,
+      "at": "2026-10-10T02:41:49.715Z",
+      "action": {
+        "id": "d06-look",
+        "op": "wait",
+        "wait": 2300,
+        "note": "The small title unexpectedly triggered a scene change to an ascending garden. Wait; this is a distinctive dream-like response rather than a typical clickable collectable."
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#quiet",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/34ee433105f66ca28dee659b5c73bd735bafe943/live-results/dreamcore-20261010-04/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n夢を離れる"
     }
   ]
 }
