@@ -6,16 +6,18 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-10T02:45:22.701Z",
-  "updatedAt": "2026-10-10T03:03:29.680Z",
-  "lastCommand": "g36",
+  "updatedAt": "2026-10-10T03:03:57.177Z",
+  "lastCommand": "g37",
   "stopReason": null,
   "action": {
-    "id": "g36",
-    "op": "look",
-    "note": "門が大きく迫る画面になった。集めきったあとの景色が落ち着くのを見たい。"
+    "id": "g37",
+    "op": "tap",
+    "x": 293,
+    "y": 584,
+    "note": "今度は城ではなく、くまが大きく座っている結末になった。椅子の光る糸結びを持ち帰れるか触る。"
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/808df46a4832019eabfe0469bc694ea4291e81f9/live-results/game-20261010-codex-05/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/93eba571ecc050eaaa6d08c3b11ec88ae47c5d84/live-results/game-20261010-codex-05/current.jpg",
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#quiet",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -27,7 +29,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n夢を離れる\nもう一度夢を見る\n過去の日記は消えません\n",
+  "text": "作品へ移動\n夢の見覚え ✧︎\n\nくまの右手に、青い糸がひとつだけほどけていた。\n\n持ち帰る\n\n夢を離れる\nもう一度夢を見る\n過去の日記は消えません\n",
   "controls": [
     {
       "tag": "BUTTON",
@@ -56,10 +58,21 @@
       "text": "待っていた糸結びに触れる",
       "disabled": false,
       "rect": {
-        "x": 258,
+        "x": 257,
         "y": 549,
         "w": 69,
         "h": 69
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "持ち帰る",
+      "disabled": false,
+      "rect": {
+        "x": 139,
+        "y": 705,
+        "w": 112,
+        "h": 44
       }
     },
     {
@@ -632,6 +645,21 @@
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#quiet",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/808df46a4832019eabfe0469bc694ea4291e81f9/live-results/game-20261010-codex-05/current.jpg",
       "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n夢を離れる\nもう一度夢を見る\n過去の日記は消えません\n"
+    },
+    {
+      "number": 38,
+      "at": "2026-10-10T03:03:57.177Z",
+      "action": {
+        "id": "g37",
+        "op": "tap",
+        "x": 293,
+        "y": 584,
+        "note": "今度は城ではなく、くまが大きく座っている結末になった。椅子の光る糸結びを持ち帰れるか触る。"
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#quiet",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/93eba571ecc050eaaa6d08c3b11ec88ae47c5d84/live-results/game-20261010-codex-05/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\nくまの右手に、青い糸がひとつだけほどけていた。\n\n持ち帰る\n\n夢を離れる\nもう一度夢を見る\n過去の日記は消えません\n"
     }
   ]
 }
