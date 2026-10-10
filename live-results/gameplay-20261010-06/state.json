@@ -6,19 +6,19 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-10T02:50:21.490Z",
-  "updatedAt": "2026-10-10T03:02:12.640Z",
-  "lastCommand": "g29-rain-middle",
+  "updatedAt": "2026-10-10T03:02:31.740Z",
+  "lastCommand": "g30-last",
   "stopReason": null,
   "action": {
-    "id": "g29-rain-middle",
+    "id": "g30-last",
     "op": "tap",
-    "x": 104,
-    "y": 268,
-    "wait": 360,
-    "note": "MIDDLE tab is highlighted. Add rain as second note."
+    "x": 306,
+    "y": 652,
+    "wait": 280,
+    "note": "Place third material in LAST layer; choose the visible final layer tab."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/05e4d85bb31f0a8f845af9e7bef94aa51e522b80/live-results/gameplay-20261010-06/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/5e31a093e314e8cbb8543026b4b27164d160c742/live-results/gameplay-20261010-06/current.jpg",
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#perfume",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -847,6 +847,22 @@
       "error": null,
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#perfume",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/05e4d85bb31f0a8f845af9e7bef94aa51e522b80/live-results/gameplay-20261010-06/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\n\n\nDREAM / PM-01\nPERFUME MORGUE\nFORMULA / 2 MATERIALS\n香りになれなかった記憶。\n素材を選び、三つの層へ落としてください。順番と濃度で、同じ記憶も別の香りになります。\n雨\n古いぬいぐるみ\n燃えた砂糖\nホテルの白いシーツ\n甘い夢\n紅茶の渋み\n煙の名残\n花\n濡れた石\n乾いた木\n生の果実\n夜更け\n海水\n古い本\n化粧の粉\n冷たい金属\n\nMIXING BOTTLE / 2 MATERIALS\nIN BOTTLE / 古いぬいぐるみ ×1 · 雨 ×1\n\n01\nTOP\n\n02\nMIDDLE\n\n03\nLAST\nTOP\n古いぬいぐるみ ×1\n×\n−\n＋\nMIDDLE\n雨 ×1\n×\n−\n＋\nLAST\nこの層には、まだ何も落ちていない。\nCONCENTRATION\nEAU DE TOILETTE / 肌に近い\n\nEau Fraîche\n水のあと\n\nCologne\n風の輪郭\n\nToilette\n肌に近い\n\nParfum\n記憶の濃度\n\nExtrait\n最後まで残る\n\n香りを定着させる\n"
+    },
+    {
+      "number": 33,
+      "at": "2026-10-10T03:02:31.740Z",
+      "action": {
+        "id": "g30-last",
+        "op": "tap",
+        "x": 306,
+        "y": 652,
+        "wait": 280,
+        "note": "Place third material in LAST layer; choose the visible final layer tab."
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#perfume",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/5e31a093e314e8cbb8543026b4b27164d160c742/live-results/gameplay-20261010-06/current.jpg",
       "text": "作品へ移動\nNIKO² ATELIER\n\n\nDREAM / PM-01\nPERFUME MORGUE\nFORMULA / 2 MATERIALS\n香りになれなかった記憶。\n素材を選び、三つの層へ落としてください。順番と濃度で、同じ記憶も別の香りになります。\n雨\n古いぬいぐるみ\n燃えた砂糖\nホテルの白いシーツ\n甘い夢\n紅茶の渋み\n煙の名残\n花\n濡れた石\n乾いた木\n生の果実\n夜更け\n海水\n古い本\n化粧の粉\n冷たい金属\n\nMIXING BOTTLE / 2 MATERIALS\nIN BOTTLE / 古いぬいぐるみ ×1 · 雨 ×1\n\n01\nTOP\n\n02\nMIDDLE\n\n03\nLAST\nTOP\n古いぬいぐるみ ×1\n×\n−\n＋\nMIDDLE\n雨 ×1\n×\n−\n＋\nLAST\nこの層には、まだ何も落ちていない。\nCONCENTRATION\nEAU DE TOILETTE / 肌に近い\n\nEau Fraîche\n水のあと\n\nCologne\n風の輪郭\n\nToilette\n肌に近い\n\nParfum\n記憶の濃度\n\nExtrait\n最後まで残る\n\n香りを定着させる\n"
     }
   ]
