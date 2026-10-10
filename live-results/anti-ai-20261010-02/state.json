@@ -6,19 +6,18 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-10T02:29:41.308Z",
-  "updatedAt": "2026-10-10T02:31:03.462Z",
-  "lastCommand": "a04-dream",
-  "stopReason": null,
+  "updatedAt": "2026-10-10T02:31:32.752Z",
+  "lastCommand": "a05-end",
+  "stopReason": "visitor_finished: Simulated AI-skeptical first-time viewer. After the glossy pastel entrance, three tutorial images, and the Garden invitation, I still saw repeated luminous fantasy props, abundant florals and arches, and no immediately novel reason for me to engage. I voluntarily left without pressing 'この空へ入る'. This is a bias-sensitive gut reaction, not evidence that the later content, text, or overall artwork is bad. I did not test the garden collectibles, Diary or other maps.",
   "action": {
-    "id": "a04-dream",
-    "op": "tap",
-    "x": 332,
-    "y": 770,
-    "wait": 700,
-    "note": "I have not found an unusual mechanism yet; give the first experience itself a chance."
+    "id": "a05-end",
+    "op": "stop",
+    "wait": 0,
+    "reason": "visitor_finished: Simulated AI-skeptical first-time viewer. After the glossy pastel entrance, three tutorial images, and the Garden invitation, I still saw repeated luminous fantasy props, abundant florals and arches, and no immediately novel reason for me to engage. I voluntarily left without pressing 'この空へ入る'. This is a bias-sensitive gut reaction, not evidence that the later content, text, or overall artwork is bad. I did not test the garden collectibles, Diary or other maps.",
+    "note": "Explicit early voluntary leave: do not attribute opinion to all artists or all AI skeptics. No interaction judged because none tried."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/c3a938311786adf3171999dc7910cb954e677bd8/live-results/anti-ai-20261010-02/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/767b37c7eea1333dcc7f08d100436ebaaf0549ed/live-results/anti-ai-20261010-02/current.jpg",
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -285,6 +284,21 @@
       "error": null,
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/c3a938311786adf3171999dc7910cb954e677bd8/live-results/anti-ai-20261010-02/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n席を立ったあとの庭にも、\n持ち主より長く夢を見るものがいる。\n\nこの空へ入る\n0 / 5\n見つけたもの\n"
+    },
+    {
+      "number": 6,
+      "at": "2026-10-10T02:31:32.752Z",
+      "action": {
+        "id": "a05-end",
+        "op": "stop",
+        "wait": 0,
+        "reason": "visitor_finished: Simulated AI-skeptical first-time viewer. After the glossy pastel entrance, three tutorial images, and the Garden invitation, I still saw repeated luminous fantasy props, abundant florals and arches, and no immediately novel reason for me to engage. I voluntarily left without pressing 'この空へ入る'. This is a bias-sensitive gut reaction, not evidence that the later content, text, or overall artwork is bad. I did not test the garden collectibles, Diary or other maps.",
+        "note": "Explicit early voluntary leave: do not attribute opinion to all artists or all AI skeptics. No interaction judged because none tried."
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#garden",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/767b37c7eea1333dcc7f08d100436ebaaf0549ed/live-results/anti-ai-20261010-02/current.jpg",
       "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n席を立ったあとの庭にも、\n持ち主より長く夢を見るものがいる。\n\nこの空へ入る\n0 / 5\n見つけたもの\n"
     }
   ]
