@@ -6,19 +6,17 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-10T02:17:47.519Z",
-  "updatedAt": "2026-10-10T02:26:35.494Z",
-  "lastCommand": "v20-diary",
+  "updatedAt": "2026-10-10T02:26:58.892Z",
+  "lastCommand": "v21-diary-look",
   "stopReason": null,
   "action": {
-    "id": "v20-diary",
-    "op": "tap",
-    "x": 195,
-    "y": 646,
-    "wait": 800,
-    "note": "A printed memory card with polaroids and actual object thumbnail makes the collection feel more authored; take it to Diary."
+    "id": "v21-diary-look",
+    "op": "wait",
+    "wait": 1800,
+    "note": "A large collage of printed city fragments overlaps the Diary header after navigation; wait for intro animation and inspect the final settled view."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/301e2e9370454a37933458200c5154955c87f71b/live-results/aesthetic-20261010-01/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/53ef51a718734e0c031911d6edf0a9d47846ada8/live-results/aesthetic-20261010-01/current.jpg",
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#diary",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -63,17 +61,6 @@
         "y": 14,
         "w": 44,
         "h": 44
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "白い街の一片に触れる",
-      "disabled": false,
-      "rect": {
-        "x": 64,
-        "y": 720,
-        "w": 69,
-        "h": 69
       }
     },
     {
@@ -638,6 +625,20 @@
       "error": null,
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#diary",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/301e2e9370454a37933458200c5154955c87f71b/live-results/aesthetic-20261010-01/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\nHome\n\nNIKO² DIARY\nDiary\n今日のことを、ひとつだけ。\n10月10日 11:26\n持ち帰った夢が、まだ手元にあります。\n← さっきの空へ戻る\nTODAY\n今日を残す\n✦\nいまの気配\n\n静か\n\nきらきら\n\nぼんやり\n\nざわざわ\n\n甘い\n\n雨っぽい\n\n眠い\n\n何もない\nPHOTO\n写真\n選択なし\nまち\n部屋\n買ったもの\n遊び\n食べもの\nその他\n写真を眺める\n‹\n›\n\n\n自販機\n\n\nホーム\n\n\n改札\n\n\n途中\n\n\nロッカー\n\n\nエレベーター\n\n\nガラス扉\n\n\n空席\n\n\n雨の改札\n\n\n22:47\n\n\n青空\n\n\n夕方\n\n\n夜空\n\n\n空の間\n\n\n夕方の壁\n\n\n雨あがり\n言葉\nOPTIONAL\nこの端末だけに残ります\n残す\nRECENT\n少し前の自分\n\n白い街の一片\n10/10\n2026年10月\nMONTHLY REFLECTION\n今月の景色\nよく残った気配\n静かな余白\nよく残った色\n色のない紙片\nよく残ったモチーフ\n名前のないもの\nまだ記録が少ないので、傾向ではなく、残ったものをそのまま眺めています。\nもう少し見る\nARCHIVE\n前の日々をひらく\n\nWHAT REMAINED\n残ったものを見る\nアトリエへ戻る\n"
+    },
+    {
+      "number": 22,
+      "at": "2026-10-10T02:26:58.892Z",
+      "action": {
+        "id": "v21-diary-look",
+        "op": "wait",
+        "wait": 1800,
+        "note": "A large collage of printed city fragments overlaps the Diary header after navigation; wait for intro animation and inspect the final settled view."
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/#diary",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/53ef51a718734e0c031911d6edf0a9d47846ada8/live-results/aesthetic-20261010-01/current.jpg",
       "text": "作品へ移動\nNIKO² ATELIER\nHome\n\nNIKO² DIARY\nDiary\n今日のことを、ひとつだけ。\n10月10日 11:26\n持ち帰った夢が、まだ手元にあります。\n← さっきの空へ戻る\nTODAY\n今日を残す\n✦\nいまの気配\n\n静か\n\nきらきら\n\nぼんやり\n\nざわざわ\n\n甘い\n\n雨っぽい\n\n眠い\n\n何もない\nPHOTO\n写真\n選択なし\nまち\n部屋\n買ったもの\n遊び\n食べもの\nその他\n写真を眺める\n‹\n›\n\n\n自販機\n\n\nホーム\n\n\n改札\n\n\n途中\n\n\nロッカー\n\n\nエレベーター\n\n\nガラス扉\n\n\n空席\n\n\n雨の改札\n\n\n22:47\n\n\n青空\n\n\n夕方\n\n\n夜空\n\n\n空の間\n\n\n夕方の壁\n\n\n雨あがり\n言葉\nOPTIONAL\nこの端末だけに残ります\n残す\nRECENT\n少し前の自分\n\n白い街の一片\n10/10\n2026年10月\nMONTHLY REFLECTION\n今月の景色\nよく残った気配\n静かな余白\nよく残った色\n色のない紙片\nよく残ったモチーフ\n名前のないもの\nまだ記録が少ないので、傾向ではなく、残ったものをそのまま眺めています。\nもう少し見る\nARCHIVE\n前の日々をひらく\n\nWHAT REMAINED\n残ったものを見る\nアトリエへ戻る\n"
     }
   ]
