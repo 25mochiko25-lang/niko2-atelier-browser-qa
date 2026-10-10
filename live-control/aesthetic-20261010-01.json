@@ -1,1 +1,1 @@
-{"id":"v16-gate","op":"tap","x":312,"y":240,"wait":1500,"note":"After five objects the white gate enlarges its hit area and inviting text appears. I expect something more than five repetitive cards."}
+{"id":"v17-look-gate","op":"wait","wait":2800,"note":"The gate zoom is still playing; wait rather than mistake cinematic transition for broken interaction."}
