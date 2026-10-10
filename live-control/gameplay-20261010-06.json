@@ -1,1 +1,1 @@
-{"id":"g11-gate-second","op":"tap","x":306,"y":221,"wait":1300,"note":"The gate first hinted a keyhole light extinguishing. As a game player I want to see if the repeated gate tap is a skip or alternate exit, without source knowledge."}
+{"id":"g12-bear","op":"tap","x":343,"y":499,"wait":350,"note":"Second gate tap left me in 2/5 Garden with no visible transition; return to collectible challenge. Tap teddy."}
