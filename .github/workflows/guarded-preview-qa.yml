@@ -1,8 +1,6 @@
 name: Cost-guarded Combined Preview smoke
 on:
-  # NO push/PR trigger. One cheap daily probe only after adoption.
-  schedule:
-    - cron: '43 14 * * *' # 23:43 Asia/Tokyo; scheduled workflows run on default branch only
+  # Founder freeze 2026-10-13: no scheduled runs. Manual invocation only.
   workflow_dispatch:
     inputs:
       mode:
