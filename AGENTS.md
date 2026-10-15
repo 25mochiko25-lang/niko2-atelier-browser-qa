@@ -2,22 +2,6 @@
 
 このrepoはブラウザQA用。QAそのものを常時・全面実行するための入口ではない。Founderまたは親タスクが指定した対象だけ検証する。
 
-## Default execution budget: LIGHT
-
-Use **LIGHT** mode for ordinary work unless the Founder explicitly asks for Full QA / milestone QA / a broad audit / a security review / release validation, or the evidence shows that narrow work cannot be completed safely.
-
-- Use one agent by default. Do not spawn subagents, parallel workers, or delegated tasks for ordinary fixes.
-- Read only the files and context directly needed for the requested change. Do not re-read broad history, old PRs, Issues, handoff docs, or the whole repository unless the task actually depends on them.
-- If the request is already implementation-ready, implement it instead of spending a separate task on re-planning or re-discovery.
-- Keep the change scoped to the request and its direct dependencies. Do not create extra tasks for unrelated findings; mention them briefly instead.
-- Run the smallest relevant verification once: targeted lint/build/test/smoke for the changed area. Do not repeat already-passing checks without a concrete reason.
-- Do not run full-repository audits, broad browser QA, all-device sweeps, PR-wide code review, security review, or repeated review loops by default.
-- Do not trigger or request extra Code Review / Security Review / PR review jobs unless the Founder asked for them or an existing release/security rule requires them.
-- Expand investigation or QA only when a concrete failure, dependency, security boundary, release gate, or scope interaction requires it. Expand only as far as needed.
-- Prefer the simplest reversible fix that preserves existing behavior outside the requested scope.
-
-This is a resource-budget rule, not permission to skip a test that is necessary to verify the requested change.
-
 <!-- CODEX-LIGHT-POLICY:START -->
 ## Codex利用量: LIGHTが通常運転
 
