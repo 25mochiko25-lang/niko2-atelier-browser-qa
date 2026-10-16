@@ -1,1 +1,1 @@
-{"id":"m15-gate-settle","op":"wait","wait":1500,"note":"Observe settled Garden fifth discovery and gate without unintended tap."}
+{"id":"m16-gate","op":"tap","x":214,"y":326,"wait":1300,"note":"Go through Garden gate after five collected memories, check transition."}
