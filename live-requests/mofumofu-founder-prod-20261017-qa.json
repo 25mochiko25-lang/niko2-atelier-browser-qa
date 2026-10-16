@@ -1,0 +1,8 @@
+{
+  "session": "mofumofu-founder-prod-20261017-qa",
+  "target": "https://niko2atelier.com/?mofumofu_qa=mofumofu-founder-prod-20261017-qa",
+  "mode": "observer-driven",
+  "device": "founder",
+  "persona": "founder-visual-audit",
+  "observation": "Founder-reference 430x932 WebKit visual and interaction QA of production. Read-only. Examine unwanted frosted bands, clipped controls, pointless scrolling, World Memory layout and routes. Label all requests with the unique QA session query."
+}
