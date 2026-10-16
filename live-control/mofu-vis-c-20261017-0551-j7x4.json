@@ -1,7 +1,7 @@
 {
-  "id": "c27",
+  "id": "c28",
   "op": "tap",
-  "x": 185,
-  "y": 383,
-  "note": "Inspect record 02 layout against record 01"
+  "x": 393,
+  "y": 162,
+  "note": "Close record 02 to compare next Lab record"
 }
