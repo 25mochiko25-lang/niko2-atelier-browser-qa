@@ -1,0 +1,68 @@
+{
+  "session": "mofumofu-founder-prod-20261017-qa",
+  "mode": "observer-driven",
+  "device": "founder",
+  "engine": "webkit",
+  "mobile": true,
+  "touch": true,
+  "startedAt": "2026-10-16T19:49:03.851Z",
+  "updatedAt": "2026-10-16T19:49:10.235Z",
+  "lastCommand": null,
+  "stopReason": null,
+  "action": {
+    "op": "arrival"
+  },
+  "error": null,
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/a5e0ca62fa19953083ea02cf764fa810f799f9f4/live-results/mofumofu-founder-prod-20261017-qa/current.jpg",
+  "url": "https://niko2atelier.com/?mofumofu_qa=mofumofu-founder-prod-20261017-qa",
+  "title": "NIKO² ATELIER",
+  "viewport": {
+    "width": 430,
+    "height": 932
+  },
+  "documentWidth": 430,
+  "scroll": {
+    "x": 0,
+    "y": 0
+  },
+  "text": "作品へ移動\n\n",
+  "controls": [
+    {
+      "tag": "BUTTON",
+      "text": "音をオンにする",
+      "disabled": false,
+      "rect": {
+        "x": 372,
+        "y": 14,
+        "w": 44,
+        "h": 44
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Enter the dream",
+      "disabled": false,
+      "rect": {
+        "x": 110,
+        "y": 545,
+        "w": 210,
+        "h": 70
+      }
+    }
+  ],
+  "pageErrors": [],
+  "httpErrors": [],
+  "events": [
+    {
+      "number": 1,
+      "at": "2026-10-16T19:49:10.235Z",
+      "action": {
+        "op": "arrival"
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofumofu-founder-prod-20261017-qa",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/a5e0ca62fa19953083ea02cf764fa810f799f9f4/live-results/mofumofu-founder-prod-20261017-qa/current.jpg",
+      "text": "作品へ移動\n\n"
+    }
+  ]
+}
