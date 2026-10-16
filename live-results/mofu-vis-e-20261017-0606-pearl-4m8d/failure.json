@@ -1,0 +1,185 @@
+{
+  "session": "mofu-vis-e-20261017-0606-pearl-4m8d",
+  "device": "founder",
+  "stopReason": "infrastructure_error",
+  "error": "Error: GitHub 409: {\"message\":\"is at 76147ecc2799bc90fae04f058ce051515d2e75c9 but expected d98fdf6d63ed75cb485302b6a4b723dda685032f\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"409\"}",
+  "events": [
+    {
+      "number": 1,
+      "at": "2026-10-16T21:07:14.639Z",
+      "action": {
+        "op": "arrival"
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-e-20261017-0606-pearl-4m8d",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/fd3cbadfd5702e98324104f4a3ed340496639c5a/live-results/mofu-vis-e-20261017-0606-pearl-4m8d/current.jpg",
+      "text": "作品へ移動\n\n"
+    },
+    {
+      "number": 2,
+      "at": "2026-10-16T21:07:36.755Z",
+      "action": {
+        "id": "r01-enter",
+        "op": "tap",
+        "x": 204,
+        "y": 579,
+        "note": "Recovery: follow same visible Enter the dream button"
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-e-20261017-0606-pearl-4m8d",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/92a2f7477325bd4598e13373ee07ec158880a092/live-results/mofu-vis-e-20261017-0606-pearl-4m8d/current.jpg",
+      "text": "作品へ移動\n\n\nWORLD\n夢の入り口は、毎回すこし違う。 夢から醒めても何かは残る。\n次へ"
+    },
+    {
+      "number": 3,
+      "at": "2026-10-16T21:08:07.371Z",
+      "action": {
+        "id": "r02-next",
+        "op": "tap",
+        "x": 371,
+        "y": 857,
+        "note": "Advance introduction"
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-e-20261017-0606-pearl-4m8d",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/e35ff214e503aad376db754cc386b05036c1e8b9/live-results/mofu-vis-e-20261017-0606-pearl-4m8d/current.jpg",
+      "text": "作品へ移動\n\n\nINTERACTION\n\nSound On\n\nSound Off\n触れる\n持ち帰る\n仕舞う\n次へ戻る"
+    },
+    {
+      "number": 4,
+      "at": "2026-10-16T21:08:22.984Z",
+      "action": {
+        "id": "r03-next",
+        "op": "tap",
+        "x": 371,
+        "y": 857,
+        "note": "Advance to welcome page"
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-e-20261017-0606-pearl-4m8d",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/32fae8cf83fe891572c9fe56e75d4dc36df47a72/live-results/mofu-vis-e-20261017-0606-pearl-4m8d/current.jpg",
+      "text": "作品へ移動\n\n\nWELCOME\nようこそ！\n夢へ入る戻る"
+    },
+    {
+      "number": 5,
+      "at": "2026-10-16T21:08:37.688Z",
+      "action": {
+        "id": "r04-enter-garden",
+        "op": "tap",
+        "x": 371,
+        "y": 857,
+        "note": "Enter public Garden"
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-e-20261017-0606-pearl-4m8d#garden",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/06d6e35212fd7f42d383daca58af9138e84d512f/live-results/mofu-vis-e-20261017-0606-pearl-4m8d/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n席を立ったあとの庭にも、\n持ち主より長く夢を見るものがいる。\n\nこの空へ入る\n0 / 5\n見つけたもの\n"
+    },
+    {
+      "number": 6,
+      "at": "2026-10-16T21:09:22.513Z",
+      "action": {
+        "id": "r05-garden-enter",
+        "op": "tap",
+        "x": 211,
+        "y": 875,
+        "note": "Enter Garden via visible control"
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-e-20261017-0606-pearl-4m8d#garden",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/37d07807c7aa61fd781875b34a512f4fb8349f99/live-results/mofu-vis-e-20261017-0606-pearl-4m8d/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n0 / 5\n見つけたもの\n"
+    },
+    {
+      "number": 7,
+      "at": "2026-10-16T21:09:43.319Z",
+      "action": {
+        "id": "r06-memory",
+        "op": "tap",
+        "x": 386,
+        "y": 72,
+        "note": "Follow visible Garden memory shortcut"
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-e-20261017-0606-pearl-4m8d#quiet",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/f35b98663181b3cbf0fa1c915d3a2cd28193f368/live-results/mofu-vis-e-20261017-0606-pearl-4m8d/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n白い街が、門の向こうで一斉に組み上がった。\n\n"
+    },
+    {
+      "number": 8,
+      "at": "2026-10-16T21:09:58.057Z",
+      "action": {
+        "id": "r07-settle",
+        "op": "wait",
+        "ms": 1800,
+        "note": "Wait for Castle transition"
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-e-20261017-0606-pearl-4m8d#quiet",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/f64c05d7e90d9acb822ee25e54c072bb793af07d/live-results/mofu-vis-e-20261017-0606-pearl-4m8d/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n夢を離れる"
+    },
+    {
+      "number": 9,
+      "at": "2026-10-16T21:10:17.103Z",
+      "action": {
+        "id": "r08-exit",
+        "op": "tap",
+        "x": 70,
+        "y": 894,
+        "note": "Exit quiet Castle into memory dialogue"
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-e-20261017-0606-pearl-4m8d#quiet",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/506665c7e26a7235da788e9dfc46c9808e1a01b8/live-results/mofu-vis-e-20261017-0606-pearl-4m8d/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n夢を離れる\n\nDREAM MEMORY\n\n夢から残ったもの\n\nWORLD MEMORY\nMEMORY FRAGMENT\n白い橋の端\nまだ住所を持たない街から、足元へ滑った小さなタイル。\n言葉を添える\n何も残さず、アトリエへ戻る\nDiaryへ持ち帰る"
+    },
+    {
+      "number": 10,
+      "at": "2026-10-16T21:10:41.090Z",
+      "action": {
+        "id": "r09-discard",
+        "op": "tap",
+        "x": 203,
+        "y": 720,
+        "note": "Return to Atelier without writing anything"
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-e-20261017-0606-pearl-4m8d",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/bb2f1babab2bc0d27e0e3a8c0cba709423842a15/live-results/mofu-vis-e-20261017-0606-pearl-4m8d/current.jpg",
+      "text": "作品へ移動\n \nWORLD\nWORLD\n水面の向こうに、いくつかの場所がひらいています。\n\n\nABOUT\nもふもふはいます。\nPLAY / SHARE / FAN WORK\nNIKO²での生活について\n好きな形で遊ぶための、小さな境界。\nDEAR ATELIER\nお手紙を送る\nAtelierの受取箱へ。\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n\nAFTER THE GARDEN\nこの庭を、短く通り抜けました。\n次へ"
+    },
+    {
+      "number": 11,
+      "at": "2026-10-16T21:11:08.759Z",
+      "action": {
+        "id": "r10-after1",
+        "op": "tap",
+        "x": 372,
+        "y": 858,
+        "note": "Continue already-observed after-Garden introduction"
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-e-20261017-0606-pearl-4m8d",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/bbee3c91d8b2c7caf1529893fa524a4e89c1058c/live-results/mofu-vis-e-20261017-0606-pearl-4m8d/current.jpg",
+      "text": "作品へ移動\n \nWORLD\nWORLD\n水面の向こうに、いくつかの場所がひらいています。\n\n\nABOUT\nもふもふはいます。\nPLAY / SHARE / FAN WORK\nNIKO²での生活について\n好きな形で遊ぶための、小さな境界。\nDEAR ATELIER\nお手紙を送る\nAtelierの受取箱へ。\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n\nWHAT REMAINED\n最後に見た景色が、 ここに残りました。\n次へ戻る"
+    },
+    {
+      "number": 12,
+      "at": "2026-10-16T21:11:32.111Z",
+      "action": {
+        "id": "r11-after2",
+        "op": "tap",
+        "x": 372,
+        "y": 858,
+        "note": "Continue previously-seen next page"
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-e-20261017-0606-pearl-4m8d",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/0a5bdbe4a4c554bb3a55e8ba2cdd1f7484b3d9de/live-results/mofu-vis-e-20261017-0606-pearl-4m8d/current.jpg",
+      "text": "作品へ移動\n \nWORLD\nWORLD\n水面の向こうに、いくつかの場所がひらいています。\n\n\nABOUT\nもふもふはいます。\nPLAY / SHARE / FAN WORK\nNIKO²での生活について\n好きな形で遊ぶための、小さな境界。\nDEAR ATELIER\nお手紙を送る\nAtelierの受取箱へ。\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n\nNIKO² ATELIER\nあなたの夢は、NIKO² ATELIERとともに、 この世界を少しずつ広げていきます。  この先も世界が広がっています。 あとは、ご自由に。\n次へ戻る"
+    }
+  ],
+  "pageErrors": [],
+  "httpErrors": []
+}
