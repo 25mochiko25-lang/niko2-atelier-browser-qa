@@ -1,6 +1,7 @@
 {
-  "id": "c30",
-  "op": "key",
-  "key": "PageDown",
-  "note": "Test if long record 03 panel reveals clipped lower text by keyboard; not a touch-swipe proof"
+  "id": "c31",
+  "op": "tap",
+  "x": 391,
+  "y": 162,
+  "note": "Close lengthy specimen record to inspect final record"
 }
