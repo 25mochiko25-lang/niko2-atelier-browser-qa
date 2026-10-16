@@ -6,20 +6,20 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-16T20:48:51.710Z",
-  "updatedAt": "2026-10-16T20:52:40.654Z",
-  "lastCommand": "a06-open-cup",
+  "updatedAt": "2026-10-16T20:53:32.972Z",
+  "lastCommand": "a07-close-cup",
   "stopReason": null,
   "action": {
-    "id": "a06-open-cup",
+    "id": "a07-close-cup",
     "op": "tap",
-    "x": 242,
-    "y": 549,
-    "note": "Inspect first Garden hotspot modal and adjacent photo scale, visual only."
+    "x": 375,
+    "y": 770,
+    "note": "Close first memory window and inspect return without layout jump."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/0da1388ab99eb916a6f907dc7df7590a0108effa/live-results/mofu-vis-a-20261017-0547-r8q3/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/5d7f906f1fa3b2ad8f5c1ff0af23f14b7f198754/live-results/mofu-vis-a-20261017-0547-r8q3/current.jpg",
   "readOnly": true,
-  "blockedWrites": 4,
+  "blockedWrites": 5,
   "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-a-20261017-0547-r8q3#garden",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -31,7 +31,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n1 / 5\n見つけたもの\nCG-01-A_01.DRM\n05:52:37\n\nFRAGMENT / 01\n\nまだあたたかいカップ\nほんのり湯気が残る。まだ、誰かの気配がする。\n",
+  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n1 / 5\n見つけたもの\n",
   "controls": [
     {
       "tag": "BUTTON",
@@ -197,17 +197,6 @@
         "w": 69,
         "h": 90
       }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "見つけた記憶を閉じる",
-      "disabled": false,
-      "rect": {
-        "x": 364,
-        "y": 761,
-        "w": 24,
-        "h": 23
-      }
     }
   ],
   "pageErrors": [],
@@ -313,6 +302,21 @@
       "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-a-20261017-0547-r8q3#garden",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/0da1388ab99eb916a6f907dc7df7590a0108effa/live-results/mofu-vis-a-20261017-0547-r8q3/current.jpg",
       "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n1 / 5\n見つけたもの\nCG-01-A_01.DRM\n05:52:37\n\nFRAGMENT / 01\n\nまだあたたかいカップ\nほんのり湯気が残る。まだ、誰かの気配がする。\n"
+    },
+    {
+      "number": 8,
+      "at": "2026-10-16T20:53:32.972Z",
+      "action": {
+        "id": "a07-close-cup",
+        "op": "tap",
+        "x": 375,
+        "y": 770,
+        "note": "Close first memory window and inspect return without layout jump."
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-a-20261017-0547-r8q3#garden",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/5d7f906f1fa3b2ad8f5c1ff0af23f14b7f198754/live-results/mofu-vis-a-20261017-0547-r8q3/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n1 / 5\n見つけたもの\n"
     }
   ]
 }
