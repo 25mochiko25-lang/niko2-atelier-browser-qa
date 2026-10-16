@@ -6,20 +6,20 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-16T21:05:50.675Z",
-  "updatedAt": "2026-10-16T21:09:52.815Z",
-  "lastCommand": "r11-close-cup",
+  "updatedAt": "2026-10-16T21:10:25.263Z",
+  "lastCommand": "r12-teddy",
   "stopReason": null,
   "action": {
-    "id": "r11-close-cup",
+    "id": "r12-teddy",
     "op": "tap",
-    "x": 376,
-    "y": 773,
-    "note": "Close cup memory."
+    "x": 372,
+    "y": 554,
+    "note": "Collect fourth Garden memory at visible teddy."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/f4f8d4988fbda0c69a39da54caed43fb797c725c/live-results/mofu-vis-d-recover-20261017-0605-z7p4/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/63f74d4cbe35ce75be8491b04ee394ffc6eba249/live-results/mofu-vis-d-recover-20261017-0605-z7p4/current.jpg",
   "readOnly": true,
-  "blockedWrites": 5,
+  "blockedWrites": 6,
   "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-d-recover-20261017-0605-z7p4#garden",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -31,7 +31,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n3 / 5\n見つけたもの\n",
+  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n4 / 5\n見つけたもの\nCG-01-A_04.DRM\n06:10:22\n\nFRAGMENT / 04\n\n置き去りのくま\n名前はもうない。それでも、いつもの方を向いている。\n",
   "controls": [
     {
       "tag": "BUTTON",
@@ -90,7 +90,7 @@
     },
     {
       "tag": "BUTTON",
-      "text": "置き去りのくまに触れる",
+      "text": "置き去りのくま（発見済み）",
       "disabled": false,
       "rect": {
         "x": 323,
@@ -196,6 +196,17 @@
         "y": 234,
         "w": 69,
         "h": 90
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "見つけた記憶を閉じる",
+      "disabled": false,
+      "rect": {
+        "x": 364,
+        "y": 742,
+        "w": 24,
+        "h": 23
       }
     }
   ],
@@ -377,6 +388,21 @@
       "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-d-recover-20261017-0605-z7p4#garden",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/f4f8d4988fbda0c69a39da54caed43fb797c725c/live-results/mofu-vis-d-recover-20261017-0605-z7p4/current.jpg",
       "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n3 / 5\n見つけたもの\n"
+    },
+    {
+      "number": 13,
+      "at": "2026-10-16T21:10:25.263Z",
+      "action": {
+        "id": "r12-teddy",
+        "op": "tap",
+        "x": 372,
+        "y": 554,
+        "note": "Collect fourth Garden memory at visible teddy."
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-d-recover-20261017-0605-z7p4#garden",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/63f74d4cbe35ce75be8491b04ee394ffc6eba249/live-results/mofu-vis-d-recover-20261017-0605-z7p4/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n4 / 5\n見つけたもの\nCG-01-A_04.DRM\n06:10:22\n\nFRAGMENT / 04\n\n置き去りのくま\n名前はもうない。それでも、いつもの方を向いている。\n"
     }
   ]
 }
