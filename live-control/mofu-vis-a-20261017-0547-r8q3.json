@@ -1,7 +1,7 @@
 {
-  "id": "a01-enter",
+  "id": "a02-next-intro",
   "op": "tap",
-  "x": 210,
-  "y": 580,
-  "note": "Open the visible Enter the dream control after initial visual assessment."
+  "x": 374,
+  "y": 859,
+  "note": "Compare second intro composition and button with first slide."
 }
