@@ -1,7 +1,7 @@
 {
-  "id": "c42",
+  "id": "c43",
   "op": "tap",
-  "x": 34,
-  "y": 101,
-  "note": "Return from rear archive to main Research Lab"
+  "x": 328,
+  "y": 681,
+  "note": "Open visible Research Lab operation clipboard / simulation mode"
 }
