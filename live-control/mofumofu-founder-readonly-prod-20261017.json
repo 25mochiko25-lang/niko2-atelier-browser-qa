@@ -1,1 +1,1 @@
-{"id":"m29-lab-home","op":"tap","x":80,"y":35,"wait":620,"note":"Return from Lab to Home through visible site logo."}
+{"id":"m30-world-room","op":"tap","x":213,"y":901,"wait":600,"note":"Open World for second portal."}
