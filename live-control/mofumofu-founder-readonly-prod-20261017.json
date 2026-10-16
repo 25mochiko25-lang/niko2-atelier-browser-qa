@@ -1,1 +1,1 @@
-{"id":"m16-gate","op":"tap","x":214,"y":326,"wait":1300,"note":"Go through Garden gate after five collected memories, check transition."}
+{"id":"m17-quiet-settle","op":"wait","wait":2700,"note":"Allow Garden ending animation, examine souvenir call to action."}
