@@ -6,18 +6,18 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-16T21:05:50.675Z",
-  "updatedAt": "2026-10-16T21:10:25.263Z",
-  "lastCommand": "r12-teddy",
+  "updatedAt": "2026-10-16T21:10:45.193Z",
+  "lastCommand": "r13-close-teddy",
   "stopReason": null,
   "action": {
-    "id": "r12-teddy",
+    "id": "r13-close-teddy",
     "op": "tap",
-    "x": 372,
-    "y": 554,
-    "note": "Collect fourth Garden memory at visible teddy."
+    "x": 376,
+    "y": 751,
+    "note": "Close teddy memory."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/63f74d4cbe35ce75be8491b04ee394ffc6eba249/live-results/mofu-vis-d-recover-20261017-0605-z7p4/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/468b4832b77222a0ef0c6ff9760b5c7e2e8dd239/live-results/mofu-vis-d-recover-20261017-0605-z7p4/current.jpg",
   "readOnly": true,
   "blockedWrites": 6,
   "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-d-recover-20261017-0605-z7p4#garden",
@@ -31,7 +31,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n4 / 5\n見つけたもの\nCG-01-A_04.DRM\n06:10:22\n\nFRAGMENT / 04\n\n置き去りのくま\n名前はもうない。それでも、いつもの方を向いている。\n",
+  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n4 / 5\n見つけたもの\n",
   "controls": [
     {
       "tag": "BUTTON",
@@ -196,17 +196,6 @@
         "y": 234,
         "w": 69,
         "h": 90
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "見つけた記憶を閉じる",
-      "disabled": false,
-      "rect": {
-        "x": 364,
-        "y": 742,
-        "w": 24,
-        "h": 23
       }
     }
   ],
@@ -403,6 +392,21 @@
       "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-d-recover-20261017-0605-z7p4#garden",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/63f74d4cbe35ce75be8491b04ee394ffc6eba249/live-results/mofu-vis-d-recover-20261017-0605-z7p4/current.jpg",
       "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n4 / 5\n見つけたもの\nCG-01-A_04.DRM\n06:10:22\n\nFRAGMENT / 04\n\n置き去りのくま\n名前はもうない。それでも、いつもの方を向いている。\n"
+    },
+    {
+      "number": 14,
+      "at": "2026-10-16T21:10:45.193Z",
+      "action": {
+        "id": "r13-close-teddy",
+        "op": "tap",
+        "x": 376,
+        "y": 751,
+        "note": "Close teddy memory."
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-d-recover-20261017-0605-z7p4#garden",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/468b4832b77222a0ef0c6ff9760b5c7e2e8dd239/live-results/mofu-vis-d-recover-20261017-0605-z7p4/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n4 / 5\n見つけたもの\n"
     }
   ]
 }
