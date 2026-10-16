@@ -1,7 +1,7 @@
 {
-  "id": "e01-enter",
+  "id": "e02-intro-next1",
   "op": "tap",
-  "x": 207,
-  "y": 580,
-  "note": "Enter the dream via visible button"
+  "x": 375,
+  "y": 856,
+  "note": "Proceed through visible introduction"
 }
