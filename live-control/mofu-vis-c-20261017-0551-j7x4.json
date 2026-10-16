@@ -1,7 +1,7 @@
 {
-  "id": "c49",
+  "id": "c50",
   "op": "tap",
-  "x": 34,
-  "y": 101,
-  "note": "Return from Research Lab to WORLD and inspect back navigation"
+  "x": 37,
+  "y": 47,
+  "note": "WORLD top-left back to Atelier HOME; verify return navigation"
 }
