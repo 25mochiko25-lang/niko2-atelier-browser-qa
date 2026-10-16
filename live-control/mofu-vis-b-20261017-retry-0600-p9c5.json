@@ -1,1 +1,1 @@
-{"id":"br16-words","op":"tap","x":93,"y":600,"note":"Open 言葉を添える without typing or submitting private text."}
+{"id":"br17-close-words","op":"tap","x":96,"y":494,"note":"Collapse words without input; verify modal returns to two-image size."}
