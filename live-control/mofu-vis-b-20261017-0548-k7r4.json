@@ -1,1 +1,1 @@
-{"id":"b13-settle-after-five","op":"wait","ms":1200,"note":"Allow the five-discovery gate transition to settle before judging visual scale."}
+{"id":"b14-gate","op":"tap","x":216,"y":333,"note":"Pass the visible 5/5 gate toward Ending."}
