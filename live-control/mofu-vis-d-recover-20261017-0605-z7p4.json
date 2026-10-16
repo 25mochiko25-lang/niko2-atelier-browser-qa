@@ -1,7 +1,1 @@
-{
-  "id": "r01-enter",
-  "op": "tap",
-  "x": 204,
-  "y": 578,
-  "note": "Recovery transit through verified dream entrance."
-}
+{"id":"r02-next","op":"tap","x":375,"y":858,"note":"Recovery transit WORLD intro next."}
