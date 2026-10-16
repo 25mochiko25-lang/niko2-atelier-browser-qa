@@ -6,18 +6,18 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-16T20:59:25.122Z",
-  "updatedAt": "2026-10-16T21:07:28.872Z",
-  "lastCommand": "br18-close-memory",
+  "updatedAt": "2026-10-16T21:07:49.853Z",
+  "lastCommand": "br19-petal-reopen",
   "stopReason": null,
   "action": {
-    "id": "br18-close-memory",
+    "id": "br19-petal-reopen",
     "op": "tap",
-    "x": 374,
-    "y": 204,
-    "note": "Close WORLD MEMORY modal without saving or navigation."
+    "x": 119,
+    "y": 823,
+    "note": "Retap the petal after closing the memory, check whether souvenir can be reopened."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/b0e73a93f68f61200d4032061f226161408d806b/live-results/mofu-vis-b-20261017-retry-0600-p9c5/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/8d00c0d75b548c3b508d4c93a15c8fcd37fa5550/live-results/mofu-vis-b-20261017-retry-0600-p9c5/current.jpg",
   "readOnly": true,
   "blockedWrites": 10,
   "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-b-20261017-retry-0600-p9c5#quiet",
@@ -61,7 +61,7 @@
       "disabled": false,
       "rect": {
         "x": 86,
-        "y": 790,
+        "y": 789,
         "w": 69,
         "h": 69
       }
@@ -358,6 +358,21 @@
       "error": null,
       "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-b-20261017-retry-0600-p9c5#quiet",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/b0e73a93f68f61200d4032061f226161408d806b/live-results/mofu-vis-b-20261017-retry-0600-p9c5/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n夢を離れる"
+    },
+    {
+      "number": 20,
+      "at": "2026-10-16T21:07:49.853Z",
+      "action": {
+        "id": "br19-petal-reopen",
+        "op": "tap",
+        "x": 119,
+        "y": 823,
+        "note": "Retap the petal after closing the memory, check whether souvenir can be reopened."
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-b-20261017-retry-0600-p9c5#quiet",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/8d00c0d75b548c3b508d4c93a15c8fcd37fa5550/live-results/mofu-vis-b-20261017-retry-0600-p9c5/current.jpg",
       "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n夢を離れる"
     }
   ]
