@@ -1,7 +1,6 @@
 {
-  "id": "c10",
-  "op": "tap",
-  "x": 172,
-  "y": 605,
-  "note": "Find fifth visible object, blue ribbon key"
+  "id": "c11",
+  "op": "wait",
+  "ms": 1100,
+  "note": "Wait for visible Garden door transition before interacting"
 }
