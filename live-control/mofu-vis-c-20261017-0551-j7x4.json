@@ -1,7 +1,6 @@
 {
-  "id": "c29",
-  "op": "tap",
-  "x": 183,
-  "y": 471,
-  "note": "Inspect record 03 layout and image quality"
+  "id": "c30",
+  "op": "key",
+  "key": "PageDown",
+  "note": "Test if long record 03 panel reveals clipped lower text by keyboard; not a touch-swipe proof"
 }
