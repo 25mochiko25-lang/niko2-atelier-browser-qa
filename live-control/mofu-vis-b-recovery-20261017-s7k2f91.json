@@ -1,1 +1,1 @@
-{"id":"br13-ending-settle","op":"wait","ms":1500,"note":"Allow Ending motion to settle, then inspect petal screenshot."}
+{"id":"br14-ending-wait","op":"wait","ms":2400,"note":"Ending currently shows teddy-chair scene, not earlier pool scene; observe transition and souvenir access without forcing hidden controls."}
