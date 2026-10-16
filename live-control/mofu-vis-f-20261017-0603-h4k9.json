@@ -1,7 +1,7 @@
 {
-  "id": "r18",
+  "id": "r19",
   "op": "tap",
-  "x": 235,
-  "y": 556,
-  "note": "Choose the visibly offered HOTEL SOMNIA card."
+  "x": 100,
+  "y": 813,
+  "note": "Use publicly visible CHECK IN to inspect the Hotel room. Read-only network guard remains enabled."
 }
