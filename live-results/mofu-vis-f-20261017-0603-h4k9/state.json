@@ -6,20 +6,19 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-16T21:02:55.000Z",
-  "updatedAt": "2026-10-16T21:07:35.635Z",
-  "lastCommand": "r11",
+  "updatedAt": "2026-10-16T21:08:03.402Z",
+  "lastCommand": "r12",
   "stopReason": null,
   "action": {
-    "id": "r11",
-    "op": "tap",
-    "x": 323,
-    "y": 280,
-    "note": "Enter the glowing visible door after discovering five objects."
+    "id": "r12",
+    "op": "wait",
+    "ms": 1800,
+    "note": "Observe the destination after normal gate animation."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/1ad1a6a48387b62c480bf610e8c5894e6a950cd3/live-results/mofu-vis-f-20261017-0603-h4k9/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/4b6d5c2c4add5f0cb93ecc6108bb623c3d8f28b3/live-results/mofu-vis-f-20261017-0603-h4k9/current.jpg",
   "readOnly": true,
-  "blockedWrites": 6,
+  "blockedWrites": 7,
   "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-f-20261017-0603-h4k9#quiet",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -31,7 +30,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n夢の見覚え ✧︎\n白い街が、門の向こうで一斉に組み上がった。\n\n",
+  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n夢を離れる",
   "controls": [
     {
       "tag": "BUTTON",
@@ -53,6 +52,28 @@
         "y": 56,
         "w": 61,
         "h": 30
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "白い街の一片に触れる",
+      "disabled": false,
+      "rect": {
+        "x": 73,
+        "y": 799,
+        "w": 69,
+        "h": 69
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "夢を離れる",
+      "disabled": false,
+      "rect": {
+        "x": 22,
+        "y": 870,
+        "w": 100,
+        "h": 44
       }
     }
   ],
@@ -234,6 +255,20 @@
       "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-f-20261017-0603-h4k9#quiet",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/1ad1a6a48387b62c480bf610e8c5894e6a950cd3/live-results/mofu-vis-f-20261017-0603-h4k9/current.jpg",
       "text": "作品へ移動\n夢の見覚え ✧︎\n白い街が、門の向こうで一斉に組み上がった。\n\n"
+    },
+    {
+      "number": 13,
+      "at": "2026-10-16T21:08:03.402Z",
+      "action": {
+        "id": "r12",
+        "op": "wait",
+        "ms": 1800,
+        "note": "Observe the destination after normal gate animation."
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-f-20261017-0603-h4k9#quiet",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/4b6d5c2c4add5f0cb93ecc6108bb623c3d8f28b3/live-results/mofu-vis-f-20261017-0603-h4k9/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n夢を離れる"
     }
   ]
 }
