@@ -1,7 +1,7 @@
 {
-  "id": "c33",
+  "id": "c34",
   "op": "tap",
-  "x": 391,
-  "y": 164,
-  "note": "Close record 04 to return to reading table"
+  "x": 399,
+  "y": 160,
+  "note": "Close observation table and compare main Lab to archive entry"
 }
