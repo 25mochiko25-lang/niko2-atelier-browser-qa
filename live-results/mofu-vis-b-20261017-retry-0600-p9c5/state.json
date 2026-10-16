@@ -6,20 +6,19 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-16T20:59:25.122Z",
-  "updatedAt": "2026-10-16T21:04:11.931Z",
-  "lastCommand": "br10-key",
+  "updatedAt": "2026-10-16T21:04:42.365Z",
+  "lastCommand": "br11-gate-settle",
   "stopReason": null,
   "action": {
-    "id": "br10-key",
-    "op": "tap",
-    "x": 170,
-    "y": 610,
-    "note": "Fifth fragment, unlock gate."
+    "id": "br11-gate-settle",
+    "op": "wait",
+    "ms": 1200,
+    "note": "Wait for revealed gate to settle before tap."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/9fc67dead554577ee4122da19e1720f3b4fa24ac/live-results/mofu-vis-b-20261017-retry-0600-p9c5/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/673d1a7cf3754f981cce97cd3f26c009662be2fa/live-results/mofu-vis-b-20261017-retry-0600-p9c5/current.jpg",
   "readOnly": true,
-  "blockedWrites": 6,
+  "blockedWrites": 7,
   "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-b-20261017-retry-0600-p9c5#garden",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -193,7 +192,7 @@
       "disabled": false,
       "rect": {
         "x": 86,
-        "y": 290,
+        "y": 289,
         "w": 259,
         "h": 66
       }
@@ -361,6 +360,20 @@
       "error": null,
       "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-b-20261017-retry-0600-p9c5#garden",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/9fc67dead554577ee4122da19e1720f3b4fa24ac/live-results/mofu-vis-b-20261017-retry-0600-p9c5/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n5 / 5\n見つけたもの\n\nあの扉が、こちらを呼んでいる。\n触れて、向こうへ\n"
+    },
+    {
+      "number": 12,
+      "at": "2026-10-16T21:04:42.365Z",
+      "action": {
+        "id": "br11-gate-settle",
+        "op": "wait",
+        "ms": 1200,
+        "note": "Wait for revealed gate to settle before tap."
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-b-20261017-retry-0600-p9c5#garden",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/673d1a7cf3754f981cce97cd3f26c009662be2fa/live-results/mofu-vis-b-20261017-retry-0600-p9c5/current.jpg",
       "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n5 / 5\n見つけたもの\n\nあの扉が、こちらを呼んでいる。\n触れて、向こうへ\n"
     }
   ]
