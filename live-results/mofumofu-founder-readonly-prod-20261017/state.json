@@ -6,17 +6,19 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-16T20:12:11.097Z",
-  "updatedAt": "2026-10-16T20:22:19.611Z",
-  "lastCommand": "m17-quiet-settle",
+  "updatedAt": "2026-10-16T20:22:35.087Z",
+  "lastCommand": "m18-petal",
   "stopReason": null,
   "action": {
-    "id": "m17-quiet-settle",
-    "op": "wait",
-    "wait": 2700,
-    "note": "Allow Garden ending animation, examine souvenir call to action."
+    "id": "m18-petal",
+    "op": "tap",
+    "x": 120,
+    "y": 822,
+    "wait": 500,
+    "note": "Inspect souvenir object from full Garden loop."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/5cb4c7d8f2c2c3a7a4c9a6b5c53d8307ef486e30/live-results/mofumofu-founder-readonly-prod-20261017/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/7016d28fe2509b44a83004704c2207d9da9476bc/live-results/mofumofu-founder-readonly-prod-20261017/current.jpg",
   "readOnly": true,
   "blockedWrites": 11,
   "url": "https://niko2atelier.com/?mofumofu_qa=mofumofu-founder-readonly-prod-20261017#quiet",
@@ -30,7 +32,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n夢を離れる",
+  "text": "作品へ移動\n夢の見覚え ✧︎\n\n空へ昇った庭から、一枚だけ残った。\n\n持ち帰る\n\n夢を離れる",
   "controls": [
     {
       "tag": "BUTTON",
@@ -60,9 +62,20 @@
       "disabled": false,
       "rect": {
         "x": 86,
-        "y": 789,
+        "y": 790,
         "w": 69,
         "h": 69
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "持ち帰る",
+      "disabled": false,
+      "rect": {
+        "x": 159,
+        "y": 793,
+        "w": 112,
+        "h": 44
       }
     },
     {
@@ -358,6 +371,22 @@
       "url": "https://niko2atelier.com/?mofumofu_qa=mofumofu-founder-readonly-prod-20261017#quiet",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/5cb4c7d8f2c2c3a7a4c9a6b5c53d8307ef486e30/live-results/mofumofu-founder-readonly-prod-20261017/current.jpg",
       "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n夢を離れる"
+    },
+    {
+      "number": 19,
+      "at": "2026-10-16T20:22:35.087Z",
+      "action": {
+        "id": "m18-petal",
+        "op": "tap",
+        "x": 120,
+        "y": 822,
+        "wait": 500,
+        "note": "Inspect souvenir object from full Garden loop."
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofumofu-founder-readonly-prod-20261017#quiet",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/7016d28fe2509b44a83004704c2207d9da9476bc/live-results/mofumofu-founder-readonly-prod-20261017/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n空へ昇った庭から、一枚だけ残った。\n\n持ち帰る\n\n夢を離れる"
     }
   ]
 }
