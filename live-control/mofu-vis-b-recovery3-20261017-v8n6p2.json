@@ -1,1 +1,1 @@
-{"id":"bc08-retap-petal","op":"tap","x":120,"y":823,"note":"Tap the same visible petal again after reveal to verify reopen/close behavior."}
+{"id":"bc09-reopen-petal","op":"tap","x":120,"y":822,"note":"Re-open petal souvenir after close; verify repeat access."}
