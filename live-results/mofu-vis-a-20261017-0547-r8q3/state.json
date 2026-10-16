@@ -6,18 +6,16 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-16T20:48:51.710Z",
-  "updatedAt": "2026-10-16T20:57:09.426Z",
-  "lastCommand": "a12-close-dream-memory",
-  "stopReason": null,
+  "updatedAt": "2026-10-16T20:57:37.786Z",
+  "lastCommand": "a13-stop",
+  "stopReason": "Squad A entrance/intro/Garden entry visual comparison completed; other Garden branches unverified. No product changes made.",
   "action": {
-    "id": "a12-close-dream-memory",
-    "op": "tap",
-    "x": 374,
-    "y": 214,
-    "note": "Close the visible DREAM MEMORY modal; avoid any submit/store action."
+    "id": "a13-stop",
+    "op": "stop",
+    "reason": "Squad A entrance/intro/Garden entry visual comparison completed; other Garden branches unverified. No product changes made."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/429bf8f069fb4cd2b1dba71f00676b2127b161ab/live-results/mofu-vis-a-20261017-0547-r8q3/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/429ae3f1d267226ca7d4dd39326d45f4f34edf0f/live-results/mofu-vis-a-20261017-0547-r8q3/current.jpg",
   "readOnly": true,
   "blockedWrites": 9,
   "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-a-20261017-0547-r8q3#quiet",
@@ -60,7 +58,7 @@
       "text": "待っていた糸結びに触れる",
       "disabled": false,
       "rect": {
-        "x": 287,
+        "x": 288,
         "y": 610,
         "w": 69,
         "h": 69
@@ -271,6 +269,19 @@
       "error": null,
       "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-a-20261017-0547-r8q3#quiet",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/429bf8f069fb4cd2b1dba71f00676b2127b161ab/live-results/mofu-vis-a-20261017-0547-r8q3/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n夢を離れる"
+    },
+    {
+      "number": 14,
+      "at": "2026-10-16T20:57:37.786Z",
+      "action": {
+        "id": "a13-stop",
+        "op": "stop",
+        "reason": "Squad A entrance/intro/Garden entry visual comparison completed; other Garden branches unverified. No product changes made."
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-a-20261017-0547-r8q3#quiet",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/429ae3f1d267226ca7d4dd39326d45f4f34edf0f/live-results/mofu-vis-a-20261017-0547-r8q3/current.jpg",
       "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n夢を離れる"
     }
   ]
