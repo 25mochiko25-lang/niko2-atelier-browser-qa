@@ -1,0 +1,51 @@
+{
+  "session": "mofu-vis-d-retry3-20261017-0614-p2v9",
+  "device": "founder",
+  "stopReason": "infrastructure_error",
+  "error": "Error: GitHub 409: {\"message\":\"is at 31a151e07800c0c82df3fbdf50d079418bcfc6e7 but expected 6ae4365595a5f50389dcbc3101dace8af5c623c8\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"409\"}",
+  "events": [
+    {
+      "number": 1,
+      "at": "2026-10-16T21:14:54.466Z",
+      "action": {
+        "op": "arrival"
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-d-retry3-20261017-0614-p2v9",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/404122fc037859967e34d43304ffab8bb9f5828d/live-results/mofu-vis-d-retry3-20261017-0614-p2v9/current.jpg",
+      "text": "作品へ移動\n\n"
+    },
+    {
+      "number": 2,
+      "at": "2026-10-16T21:15:25.531Z",
+      "action": {
+        "id": "t01-enter",
+        "op": "tap",
+        "x": 209,
+        "y": 578,
+        "note": "Replay already observed entrance route to reach unobserved ROOM NULL."
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-d-retry3-20261017-0614-p2v9",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/6173e672a2a48e08d5b969e81361204537dafc95/live-results/mofu-vis-d-retry3-20261017-0614-p2v9/current.jpg",
+      "text": "作品へ移動\n\n\nWORLD\n夢の入り口は、毎回すこし違う。 夢から醒めても何かは残る。\n次へ"
+    },
+    {
+      "number": 3,
+      "at": "2026-10-16T21:15:43.312Z",
+      "action": {
+        "id": "t02-intro2",
+        "op": "tap",
+        "x": 373,
+        "y": 858,
+        "note": "Replay previously visually inspected intro."
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-d-retry3-20261017-0614-p2v9",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/8e2f9ff21b71ecc360ce2df68ba8512f3a26d3a5/live-results/mofu-vis-d-retry3-20261017-0614-p2v9/current.jpg",
+      "text": "作品へ移動\n\n\nINTERACTION\n\nSound On\n\nSound Off\n触れる\n持ち帰る\n仕舞う\n次へ戻る"
+    }
+  ],
+  "pageErrors": [],
+  "httpErrors": []
+}
