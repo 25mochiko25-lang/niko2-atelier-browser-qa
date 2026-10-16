@@ -1,1 +1,1 @@
-{"id":"b08-reopen-hourglass","op":"tap","x":52,"y":467,"note":"Verify the same found memory can reopen at consistent scale."}
+{"id":"b09-perfume","op":"tap","x":103,"y":562,"note":"Choose visible perfume while hourglass memory is open; compare memory window scale/transition."}
