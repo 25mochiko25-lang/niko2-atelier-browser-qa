@@ -6,18 +6,18 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-16T21:20:45.229Z",
-  "updatedAt": "2026-10-16T21:28:06.178Z",
-  "lastCommand": "f24-roomnull",
+  "updatedAt": "2026-10-16T21:28:36.556Z",
+  "lastCommand": "f25-open-door",
   "stopReason": null,
   "action": {
-    "id": "f24-roomnull",
+    "id": "f25-open-door",
     "op": "tap",
-    "x": 365,
-    "y": 432,
-    "note": "Tap visible WORLD ROOM NULL portal for independent D inspection."
+    "x": 382,
+    "y": 558,
+    "note": "Open actual ROOM NULL door at visible handle; inspect interior."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/bde122e9ad3bc8c2d03ea355faae99e216eafd1d/live-results/mofu-vis-d-final-20261017-0620-n6r2/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/0b80ccf4d3d3c6e2d61b09ccc3577443e0a03930/live-results/mofu-vis-d-final-20261017-0620-n6r2/current.jpg",
   "readOnly": true,
   "blockedWrites": 13,
   "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-d-final-20261017-0620-n6r2#room0",
@@ -31,7 +31,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\nNIKO² ATELIER\n\n",
+  "text": "作品へ移動\nNIKO² ATELIER\n\n \nWORLD / RN-00\nROOM NULL\na room that remembers you.\nRN-00\n",
   "controls": [
     {
       "tag": "A",
@@ -61,20 +61,42 @@
       "disabled": false,
       "rect": {
         "x": 14,
-        "y": 97,
+        "y": 86,
         "w": 40,
         "h": 40
       }
     },
     {
       "tag": "BUTTON",
-      "text": "ひらく",
+      "text": "CHANNEL 00を開く",
       "disabled": false,
       "rect": {
-        "x": 23,
-        "y": 51,
-        "w": 381,
-        "h": 874
+        "x": 15,
+        "y": 350,
+        "w": 172,
+        "h": 154
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Cabinetを開く",
+      "disabled": false,
+      "rect": {
+        "x": 288,
+        "y": 224,
+        "w": 138,
+        "h": 242
+      }
+    },
+    {
+      "tag": "A",
+      "text": "Diaryを開く",
+      "disabled": false,
+      "rect": {
+        "x": 194,
+        "y": 596,
+        "w": 206,
+        "h": 233
       }
     }
   ],
@@ -437,6 +459,21 @@
       "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-d-final-20261017-0620-n6r2#room0",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/bde122e9ad3bc8c2d03ea355faae99e216eafd1d/live-results/mofu-vis-d-final-20261017-0620-n6r2/current.jpg",
       "text": "作品へ移動\nNIKO² ATELIER\n\n"
+    },
+    {
+      "number": 26,
+      "at": "2026-10-16T21:28:36.556Z",
+      "action": {
+        "id": "f25-open-door",
+        "op": "tap",
+        "x": 382,
+        "y": 558,
+        "note": "Open actual ROOM NULL door at visible handle; inspect interior."
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-d-final-20261017-0620-n6r2#room0",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/0b80ccf4d3d3c6e2d61b09ccc3577443e0a03930/live-results/mofu-vis-d-final-20261017-0620-n6r2/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\n\n \nWORLD / RN-00\nROOM NULL\na room that remembers you.\nRN-00\n"
     }
   ]
 }
