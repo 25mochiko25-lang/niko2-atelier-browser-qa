@@ -6,21 +6,19 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-16T20:12:11.097Z",
-  "updatedAt": "2026-10-16T20:21:59.674Z",
-  "lastCommand": "m16-gate",
+  "updatedAt": "2026-10-16T20:22:19.611Z",
+  "lastCommand": "m17-quiet-settle",
   "stopReason": null,
   "action": {
-    "id": "m16-gate",
-    "op": "tap",
-    "x": 214,
-    "y": 326,
-    "wait": 1300,
-    "note": "Go through Garden gate after five collected memories, check transition."
+    "id": "m17-quiet-settle",
+    "op": "wait",
+    "wait": 2700,
+    "note": "Allow Garden ending animation, examine souvenir call to action."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/6aa0598118a955ecad3569af6499bf734bdb4fb7/live-results/mofumofu-founder-readonly-prod-20261017/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/5cb4c7d8f2c2c3a7a4c9a6b5c53d8307ef486e30/live-results/mofumofu-founder-readonly-prod-20261017/current.jpg",
   "readOnly": true,
-  "blockedWrites": 10,
+  "blockedWrites": 11,
   "url": "https://niko2atelier.com/?mofumofu_qa=mofumofu-founder-readonly-prod-20261017#quiet",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -32,7 +30,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n夢の見覚え ✧︎\n庭が、空よりも高く昇りはじめた。\n\n",
+  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n夢を離れる",
   "controls": [
     {
       "tag": "BUTTON",
@@ -54,6 +52,28 @@
         "y": 56,
         "w": 61,
         "h": 30
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "帰る花弁に触れる",
+      "disabled": false,
+      "rect": {
+        "x": 86,
+        "y": 789,
+        "w": 69,
+        "h": 69
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "夢を離れる",
+      "disabled": false,
+      "rect": {
+        "x": 22,
+        "y": 870,
+        "w": 100,
+        "h": 44
       }
     }
   ],
@@ -324,6 +344,20 @@
       "url": "https://niko2atelier.com/?mofumofu_qa=mofumofu-founder-readonly-prod-20261017#quiet",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/6aa0598118a955ecad3569af6499bf734bdb4fb7/live-results/mofumofu-founder-readonly-prod-20261017/current.jpg",
       "text": "作品へ移動\n夢の見覚え ✧︎\n庭が、空よりも高く昇りはじめた。\n\n"
+    },
+    {
+      "number": 18,
+      "at": "2026-10-16T20:22:19.611Z",
+      "action": {
+        "id": "m17-quiet-settle",
+        "op": "wait",
+        "wait": 2700,
+        "note": "Allow Garden ending animation, examine souvenir call to action."
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofumofu-founder-readonly-prod-20261017#quiet",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/5cb4c7d8f2c2c3a7a4c9a6b5c53d8307ef486e30/live-results/mofumofu-founder-readonly-prod-20261017/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n夢を離れる"
     }
   ]
 }
