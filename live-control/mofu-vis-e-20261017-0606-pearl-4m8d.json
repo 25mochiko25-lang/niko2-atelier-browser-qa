@@ -1,6 +1,7 @@
 {
-  "id": "r07-settle",
-  "op": "wait",
-  "ms": 1800,
-  "note": "Wait for Castle transition"
+  "id": "r08-exit",
+  "op": "tap",
+  "x": 70,
+  "y": 894,
+  "note": "Exit quiet Castle into memory dialogue"
 }
