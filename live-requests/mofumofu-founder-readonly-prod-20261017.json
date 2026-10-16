@@ -1,0 +1,9 @@
+{
+  "session": "mofumofu-founder-readonly-prod-20261017",
+  "target": "https://niko2atelier.com/?mofumofu_qa=mofumofu-founder-readonly-prod-20261017",
+  "mode": "observer-driven",
+  "device": "founder",
+  "readOnly": true,
+  "persona": "founder-visual-audit",
+  "observation": "Production 430x932 WebKit visual/touch QA controlled entirely through ChatGPT's GitHub connector. No site writes, no signed Identity QA badge; isolated QA report label only. Priorities: Garden top/bottom bands, World Memory size/scrolling, all reachable map transitions and unnecessary whitespace."
+}
