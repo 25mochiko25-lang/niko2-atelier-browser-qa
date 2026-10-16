@@ -6,22 +6,22 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-16T20:12:11.097Z",
-  "updatedAt": "2026-10-16T20:27:14.603Z",
-  "lastCommand": "m29-lab-home",
+  "updatedAt": "2026-10-16T20:27:32.217Z",
+  "lastCommand": "m30-world-room",
   "stopReason": null,
   "action": {
-    "id": "m29-lab-home",
+    "id": "m30-world-room",
     "op": "tap",
-    "x": 80,
-    "y": 35,
-    "wait": 620,
-    "note": "Return from Lab to Home through visible site logo."
+    "x": 213,
+    "y": 901,
+    "wait": 600,
+    "note": "Open World for second portal."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/9789253a7060b0fe30ca20298e300b3caffdae93/live-results/mofumofu-founder-readonly-prod-20261017/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/064ac3dc0c7db020e1d40acd23406e83b99dbcfb/live-results/mofumofu-founder-readonly-prod-20261017/current.jpg",
   "readOnly": true,
-  "blockedWrites": 22,
-  "url": "https://niko2atelier.com/?mofumofu_qa=mofumofu-founder-readonly-prod-20261017",
+  "blockedWrites": 24,
+  "url": "https://niko2atelier.com/?mofumofu_qa=mofumofu-founder-readonly-prod-20261017#world",
   "title": "NIKO² ATELIER",
   "viewport": {
     "width": 430,
@@ -32,7 +32,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n \nWORLD\nWORLD\n水面の向こうに、いくつかの場所がひらいています。\n\n\nABOUT\nもふもふはいます。\nPLAY / SHARE / FAN WORK\nNIKO²での生活について\n好きな形で遊ぶための、小さな境界。\nDEAR ATELIER\nお手紙を送る\nAtelierの受取箱へ。\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n",
+  "text": "作品へ移動\n \nNIKO² / WORLD\nWORLD\n水面の向こうに、まだつながっていない場所もあります。\n\nResearch Lab\n\nROOM NULL\n",
   "controls": [
     {
       "tag": "BUTTON",
@@ -47,46 +47,35 @@
     },
     {
       "tag": "A",
-      "text": "FROM THE ATELIERを開く",
+      "text": "アトリエへ戻る",
       "disabled": false,
       "rect": {
-        "x": 310,
-        "y": 303,
-        "w": 91,
-        "h": 92
-      }
-    },
-    {
-      "tag": "A",
-      "text": "Diaryを開く",
-      "disabled": false,
-      "rect": {
-        "x": 20,
-        "y": 330,
-        "w": 147,
-        "h": 147
+        "x": 16,
+        "y": 25,
+        "w": 44,
+        "h": 44
       }
     },
     {
       "tag": "BUTTON",
-      "text": "Enter the dream",
+      "text": "Research Lab",
       "disabled": false,
       "rect": {
-        "x": 110,
-        "y": 545,
-        "w": 210,
-        "h": 70
+        "x": 38,
+        "y": 339,
+        "w": 108,
+        "h": 179
       }
     },
     {
-      "tag": "A",
-      "text": "WORLDを開く",
+      "tag": "BUTTON",
+      "text": "ROOM NULL",
       "disabled": false,
       "rect": {
-        "x": 26,
-        "y": 878,
-        "w": 378,
-        "h": 213
+        "x": 309,
+        "y": 353,
+        "w": 105,
+        "h": 179
       }
     }
   ],
@@ -563,6 +552,22 @@
       "url": "https://niko2atelier.com/?mofumofu_qa=mofumofu-founder-readonly-prod-20261017",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/9789253a7060b0fe30ca20298e300b3caffdae93/live-results/mofumofu-founder-readonly-prod-20261017/current.jpg",
       "text": "作品へ移動\n \nWORLD\nWORLD\n水面の向こうに、いくつかの場所がひらいています。\n\n\nABOUT\nもふもふはいます。\nPLAY / SHARE / FAN WORK\nNIKO²での生活について\n好きな形で遊ぶための、小さな境界。\nDEAR ATELIER\nお手紙を送る\nAtelierの受取箱へ。\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n"
+    },
+    {
+      "number": 31,
+      "at": "2026-10-16T20:27:32.217Z",
+      "action": {
+        "id": "m30-world-room",
+        "op": "tap",
+        "x": 213,
+        "y": 901,
+        "wait": 600,
+        "note": "Open World for second portal."
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofumofu-founder-readonly-prod-20261017#world",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/064ac3dc0c7db020e1d40acd23406e83b99dbcfb/live-results/mofumofu-founder-readonly-prod-20261017/current.jpg",
+      "text": "作品へ移動\n \nNIKO² / WORLD\nWORLD\n水面の向こうに、まだつながっていない場所もあります。\n\nResearch Lab\n\nROOM NULL\n"
     }
   ]
 }
