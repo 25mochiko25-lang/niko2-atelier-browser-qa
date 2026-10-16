@@ -1,7 +1,7 @@
 {
-  "id": "e08-exit-dream",
+  "id": "e09-memory-caption",
   "op": "tap",
-  "x": 73,
-  "y": 890,
-  "note": "Follow visible leave dream control toward HOME and Diary"
+  "x": 96,
+  "y": 585,
+  "note": "Inspect optional caption input without typing personal content"
 }
