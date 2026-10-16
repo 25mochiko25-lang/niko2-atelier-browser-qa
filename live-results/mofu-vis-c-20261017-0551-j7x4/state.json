@@ -6,23 +6,21 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-16T20:53:07.241Z",
-  "updatedAt": "2026-10-16T21:01:10.117Z",
-  "lastCommand": "c20",
+  "updatedAt": "2026-10-16T21:01:32.418Z",
+  "lastCommand": "c21",
   "stopReason": null,
   "action": {
-    "id": "c20",
-    "op": "scroll",
-    "x": 230,
-    "y": 738,
-    "dx": 0,
-    "dy": 575,
-    "note": "Inspect visible WORLD navigation card below HOME fold"
+    "id": "c21",
+    "op": "tap",
+    "x": 213,
+    "y": 902,
+    "note": "Tap visible portion of WORLD card; WebKit mobile scroll command is unsupported in QA harness"
   },
-  "error": "Error: mouse.wheel: Mouse wheel is not supported in mobile WebKit",
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/da86065371831a86356fd1b035c52c3332d86d90/live-results/mofu-vis-c-20261017-0551-j7x4/current.jpg",
+  "error": null,
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/c70601bbbe3b0faf7d652139f1fb87d93afe98f0/live-results/mofu-vis-c-20261017-0551-j7x4/current.jpg",
   "readOnly": true,
-  "blockedWrites": 10,
-  "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-c-20261017-0551-j7x4",
+  "blockedWrites": 13,
+  "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-c-20261017-0551-j7x4#world",
   "title": "NIKO² ATELIER",
   "viewport": {
     "width": 430,
@@ -33,7 +31,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n \nWORLD\nWORLD\n水面の向こうに、いくつかの場所がひらいています。\n\n\nABOUT\nもふもふはいます。\nPLAY / SHARE / FAN WORK\nNIKO²での生活について\n好きな形で遊ぶための、小さな境界。\nDEAR ATELIER\nお手紙を送る\nAtelierの受取箱へ。\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n",
+  "text": "作品へ移動\n \nNIKO² / WORLD\nWORLD\n水面の向こうに、まだつながっていない場所もあります。\n\nResearch Lab\n\nROOM NULL\n",
   "controls": [
     {
       "tag": "BUTTON",
@@ -48,46 +46,35 @@
     },
     {
       "tag": "A",
-      "text": "FROM THE ATELIERを開く",
+      "text": "アトリエへ戻る",
       "disabled": false,
       "rect": {
-        "x": 310,
-        "y": 303,
-        "w": 91,
-        "h": 92
-      }
-    },
-    {
-      "tag": "A",
-      "text": "Diaryを開く",
-      "disabled": false,
-      "rect": {
-        "x": 20,
-        "y": 330,
-        "w": 147,
-        "h": 147
+        "x": 16,
+        "y": 25,
+        "w": 44,
+        "h": 44
       }
     },
     {
       "tag": "BUTTON",
-      "text": "Enter the dream",
+      "text": "Research Lab",
       "disabled": false,
       "rect": {
-        "x": 110,
-        "y": 545,
-        "w": 210,
-        "h": 70
+        "x": 38,
+        "y": 339,
+        "w": 108,
+        "h": 179
       }
     },
     {
-      "tag": "A",
-      "text": "WORLDを開く",
+      "tag": "BUTTON",
+      "text": "ROOM NULL",
       "disabled": false,
       "rect": {
-        "x": 26,
-        "y": 878,
-        "w": 378,
-        "h": 213
+        "x": 309,
+        "y": 353,
+        "w": 105,
+        "h": 179
       }
     }
   ],
@@ -404,6 +391,21 @@
       "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-c-20261017-0551-j7x4",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/da86065371831a86356fd1b035c52c3332d86d90/live-results/mofu-vis-c-20261017-0551-j7x4/current.jpg",
       "text": "作品へ移動\n \nWORLD\nWORLD\n水面の向こうに、いくつかの場所がひらいています。\n\n\nABOUT\nもふもふはいます。\nPLAY / SHARE / FAN WORK\nNIKO²での生活について\n好きな形で遊ぶための、小さな境界。\nDEAR ATELIER\nお手紙を送る\nAtelierの受取箱へ。\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n"
+    },
+    {
+      "number": 22,
+      "at": "2026-10-16T21:01:32.418Z",
+      "action": {
+        "id": "c21",
+        "op": "tap",
+        "x": 213,
+        "y": 902,
+        "note": "Tap visible portion of WORLD card; WebKit mobile scroll command is unsupported in QA harness"
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-c-20261017-0551-j7x4#world",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/c70601bbbe3b0faf7d652139f1fb87d93afe98f0/live-results/mofu-vis-c-20261017-0551-j7x4/current.jpg",
+      "text": "作品へ移動\n \nNIKO² / WORLD\nWORLD\n水面の向こうに、まだつながっていない場所もあります。\n\nResearch Lab\n\nROOM NULL\n"
     }
   ]
 }
