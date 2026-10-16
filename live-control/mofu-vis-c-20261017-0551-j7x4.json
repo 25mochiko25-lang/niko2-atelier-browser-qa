@@ -1,7 +1,7 @@
 {
-  "id": "c43",
+  "id": "c44",
   "op": "tap",
-  "x": 328,
-  "y": 681,
-  "note": "Open visible Research Lab operation clipboard / simulation mode"
+  "x": 202,
+  "y": 482,
+  "note": "Inspect prior operation notes / response log screen"
 }
