@@ -1,1 +1,1 @@
-{"id":"m02-intro","op":"tap","x":376,"y":858,"wait":550,"note":"Advance screen-led founder mobile intro without write requests."}
+{"id":"m03-intro","op":"tap","x":376,"y":858,"wait":650,"note":"Reach Garden introductory gate screen; read-only."}
