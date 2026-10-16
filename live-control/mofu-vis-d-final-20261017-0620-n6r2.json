@@ -1,1 +1,1 @@
-{"id":"f27-cabinet","op":"tap","x":361,"y":354,"note":"Open visible right-hand Cabinet in ROOM NULL for visual and interaction check."}
+{"id":"f28-cabinet-back","op":"tap","x":34,"y":113,"note":"Return from Cabinet using visible back to ROOM NULL."}
