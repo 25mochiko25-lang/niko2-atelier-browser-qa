@@ -6,20 +6,20 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-16T20:56:38.689Z",
-  "updatedAt": "2026-10-16T21:01:39.499Z",
-  "lastCommand": "e11-after-next1",
+  "updatedAt": "2026-10-16T21:02:02.179Z",
+  "lastCommand": "e12-after-next2",
   "stopReason": null,
   "action": {
-    "id": "e11-after-next1",
+    "id": "e12-after-next2",
     "op": "tap",
-    "x": 369,
-    "y": 855,
-    "note": "Inspect first follow-up introduction after leaving Garden"
+    "x": 370,
+    "y": 858,
+    "note": "Continue follow-up introduction"
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/537b4ac83ecaeb5bc2a3a76c7b6d6294218071fe/live-results/mofu-vis-e-20261017-0555-cerulean-7k4p/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/478f2b5973bf15618ad43041baf835e0ccc8a6c1/live-results/mofu-vis-e-20261017-0555-cerulean-7k4p/current.jpg",
   "readOnly": true,
-  "blockedWrites": 8,
+  "blockedWrites": 9,
   "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-e-20261017-0555-cerulean-7k4p",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -31,7 +31,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n \nWORLD\nWORLD\n水面の向こうに、いくつかの場所がひらいています。\n\n\nABOUT\nもふもふはいます。\nPLAY / SHARE / FAN WORK\nNIKO²での生活について\n好きな形で遊ぶための、小さな境界。\nDEAR ATELIER\nお手紙を送る\nAtelierの受取箱へ。\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n\nWHAT REMAINED\n最後に見た景色が、 ここに残りました。\n次へ戻る",
+  "text": "作品へ移動\n \nWORLD\nWORLD\n水面の向こうに、いくつかの場所がひらいています。\n\n\nABOUT\nもふもふはいます。\nPLAY / SHARE / FAN WORK\nNIKO²での生活について\n好きな形で遊ぶための、小さな境界。\nDEAR ATELIER\nお手紙を送る\nAtelierの受取箱へ。\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n\nNIKO² ATELIER\nあなたの夢は、NIKO² ATELIERとともに、 この世界を少しずつ広げていきます。  この先も世界が広がっています。 あとは、ご自由に。\n次へ戻る",
   "controls": [
     {
       "tag": "BUTTON",
@@ -288,6 +288,21 @@
       "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-e-20261017-0555-cerulean-7k4p",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/537b4ac83ecaeb5bc2a3a76c7b6d6294218071fe/live-results/mofu-vis-e-20261017-0555-cerulean-7k4p/current.jpg",
       "text": "作品へ移動\n \nWORLD\nWORLD\n水面の向こうに、いくつかの場所がひらいています。\n\n\nABOUT\nもふもふはいます。\nPLAY / SHARE / FAN WORK\nNIKO²での生活について\n好きな形で遊ぶための、小さな境界。\nDEAR ATELIER\nお手紙を送る\nAtelierの受取箱へ。\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n\nWHAT REMAINED\n最後に見た景色が、 ここに残りました。\n次へ戻る"
+    },
+    {
+      "number": 13,
+      "at": "2026-10-16T21:02:02.179Z",
+      "action": {
+        "id": "e12-after-next2",
+        "op": "tap",
+        "x": 370,
+        "y": 858,
+        "note": "Continue follow-up introduction"
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-e-20261017-0555-cerulean-7k4p",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/478f2b5973bf15618ad43041baf835e0ccc8a6c1/live-results/mofu-vis-e-20261017-0555-cerulean-7k4p/current.jpg",
+      "text": "作品へ移動\n \nWORLD\nWORLD\n水面の向こうに、いくつかの場所がひらいています。\n\n\nABOUT\nもふもふはいます。\nPLAY / SHARE / FAN WORK\nNIKO²での生活について\n好きな形で遊ぶための、小さな境界。\nDEAR ATELIER\nお手紙を送る\nAtelierの受取箱へ。\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n\nNIKO² ATELIER\nあなたの夢は、NIKO² ATELIERとともに、 この世界を少しずつ広げていきます。  この先も世界が広がっています。 あとは、ご自由に。\n次へ戻る"
     }
   ]
 }
