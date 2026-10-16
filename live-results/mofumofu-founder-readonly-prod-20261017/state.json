@@ -6,19 +6,19 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-16T20:12:11.097Z",
-  "updatedAt": "2026-10-16T20:13:52.338Z",
-  "lastCommand": "m01-enter",
+  "updatedAt": "2026-10-16T20:14:25.499Z",
+  "lastCommand": "m02-intro",
   "stopReason": null,
   "action": {
-    "id": "m01-enter",
+    "id": "m02-intro",
     "op": "tap",
-    "x": 216,
-    "y": 580,
-    "wait": 650,
-    "note": "Founder reference: open original production Home intro, no site POST allowed."
+    "x": 376,
+    "y": 858,
+    "wait": 550,
+    "note": "Advance screen-led founder mobile intro without write requests."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/cbe429011e3a93c375c2a0ebb8e64bfaad268f49/live-results/mofumofu-founder-readonly-prod-20261017/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/5ff57cc134b7dea729f2769a5cf19ae964cc6107/live-results/mofumofu-founder-readonly-prod-20261017/current.jpg",
   "readOnly": true,
   "blockedWrites": 1,
   "url": "https://niko2atelier.com/?mofumofu_qa=mofumofu-founder-readonly-prod-20261017",
@@ -32,7 +32,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n\n\nWORLD\n夢の入り口は、毎回すこし違う。 夢から醒めても何かは残る。\n次へ",
+  "text": "作品へ移動\n\n\nINTERACTION\n\nSound On\n\nSound Off\n触れる\n持ち帰る\n仕舞う\n次へ戻る",
   "controls": [
     {
       "tag": "BUTTON",
@@ -58,10 +58,76 @@
     },
     {
       "tag": "BUTTON",
+      "text": "Sound On",
+      "disabled": false,
+      "rect": {
+        "x": 116,
+        "y": 521,
+        "w": 94,
+        "h": 38
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Sound Off",
+      "disabled": false,
+      "rect": {
+        "x": 218,
+        "y": 521,
+        "w": 95,
+        "h": 38
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "触れる",
+      "disabled": false,
+      "rect": {
+        "x": 105,
+        "y": 575,
+        "w": 65,
+        "h": 38
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "持ち帰る",
+      "disabled": false,
+      "rect": {
+        "x": 177,
+        "y": 575,
+        "w": 76,
+        "h": 38
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "仕舞う",
+      "disabled": false,
+      "rect": {
+        "x": 260,
+        "y": 575,
+        "w": 65,
+        "h": 38
+      }
+    },
+    {
+      "tag": "BUTTON",
       "text": "次へ",
       "disabled": false,
       "rect": {
         "x": 340,
+        "y": 836,
+        "w": 72,
+        "h": 44
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "戻る",
+      "disabled": false,
+      "rect": {
+        "x": 18,
         "y": 836,
         "w": 72,
         "h": 44
@@ -97,6 +163,22 @@
       "url": "https://niko2atelier.com/?mofumofu_qa=mofumofu-founder-readonly-prod-20261017",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/cbe429011e3a93c375c2a0ebb8e64bfaad268f49/live-results/mofumofu-founder-readonly-prod-20261017/current.jpg",
       "text": "作品へ移動\n\n\nWORLD\n夢の入り口は、毎回すこし違う。 夢から醒めても何かは残る。\n次へ"
+    },
+    {
+      "number": 3,
+      "at": "2026-10-16T20:14:25.499Z",
+      "action": {
+        "id": "m02-intro",
+        "op": "tap",
+        "x": 376,
+        "y": 858,
+        "wait": 550,
+        "note": "Advance screen-led founder mobile intro without write requests."
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofumofu-founder-readonly-prod-20261017",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/5ff57cc134b7dea729f2769a5cf19ae964cc6107/live-results/mofumofu-founder-readonly-prod-20261017/current.jpg",
+      "text": "作品へ移動\n\n\nINTERACTION\n\nSound On\n\nSound Off\n触れる\n持ち帰る\n仕舞う\n次へ戻る"
     }
   ]
 }
