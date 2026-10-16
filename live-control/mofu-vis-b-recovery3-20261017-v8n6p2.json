@@ -1,1 +1,1 @@
-{"id":"bc11-words-open","op":"tap","x":90,"y":599,"note":"Open visible '言葉を添える' editor without entering personal text."}
+{"id":"bc12-words-close","op":"tap","x":90,"y":491,"note":"Close empty words editor without input or submission; compare modal height change."}
