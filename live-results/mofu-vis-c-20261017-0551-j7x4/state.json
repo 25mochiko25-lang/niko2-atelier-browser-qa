@@ -6,20 +6,20 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-16T20:53:07.241Z",
-  "updatedAt": "2026-10-16T20:56:57.803Z",
-  "lastCommand": "c08",
+  "updatedAt": "2026-10-16T20:57:10.308Z",
+  "lastCommand": "c09",
   "stopReason": null,
   "action": {
-    "id": "c08",
+    "id": "c09",
     "op": "tap",
-    "x": 238,
-    "y": 548,
-    "note": "Next visible Garden discovery, teacup"
+    "x": 374,
+    "y": 549,
+    "note": "Next visible Garden discovery, teddy bear"
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/c1692735541ed059f2580fb75c1d44375d7ad9cf/live-results/mofu-vis-c-20261017-0551-j7x4/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/00d52f26845f75410c9447daee0ed22091bc21a2/live-results/mofu-vis-c-20261017-0551-j7x4/current.jpg",
   "readOnly": true,
-  "blockedWrites": 4,
+  "blockedWrites": 5,
   "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-c-20261017-0551-j7x4#garden",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -31,7 +31,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n3 / 5\n見つけたもの\nCG-01-A_03.DRM\n05:56:54\n\nFRAGMENT / 03\n\nまだあたたかいカップ\nほんのり湯気が残る。まだ、誰かの気配がする。\n",
+  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n4 / 5\n見つけたもの\nCG-01-A_04.DRM\n05:57:07\n\nFRAGMENT / 04\n\n置き去りのくま\n名前はもうない。それでも、いつもの方を向いている。\n",
   "controls": [
     {
       "tag": "BUTTON",
@@ -90,7 +90,7 @@
     },
     {
       "tag": "BUTTON",
-      "text": "置き去りのくまに触れる",
+      "text": "置き去りのくま（発見済み）",
       "disabled": false,
       "rect": {
         "x": 323,
@@ -204,7 +204,7 @@
       "disabled": false,
       "rect": {
         "x": 364,
-        "y": 761,
+        "y": 742,
         "w": 24,
         "h": 23
       }
@@ -343,6 +343,21 @@
       "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-c-20261017-0551-j7x4#garden",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/c1692735541ed059f2580fb75c1d44375d7ad9cf/live-results/mofu-vis-c-20261017-0551-j7x4/current.jpg",
       "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n3 / 5\n見つけたもの\nCG-01-A_03.DRM\n05:56:54\n\nFRAGMENT / 03\n\nまだあたたかいカップ\nほんのり湯気が残る。まだ、誰かの気配がする。\n"
+    },
+    {
+      "number": 10,
+      "at": "2026-10-16T20:57:10.308Z",
+      "action": {
+        "id": "c09",
+        "op": "tap",
+        "x": 374,
+        "y": 549,
+        "note": "Next visible Garden discovery, teddy bear"
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-c-20261017-0551-j7x4#garden",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/00d52f26845f75410c9447daee0ed22091bc21a2/live-results/mofu-vis-c-20261017-0551-j7x4/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n4 / 5\n見つけたもの\nCG-01-A_04.DRM\n05:57:07\n\nFRAGMENT / 04\n\n置き去りのくま\n名前はもうない。それでも、いつもの方を向いている。\n"
     }
   ]
 }
