@@ -6,19 +6,21 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-16T20:59:25.122Z",
-  "updatedAt": "2026-10-16T21:10:14.525Z",
-  "lastCommand": "br22-back",
+  "updatedAt": "2026-10-16T21:10:36.873Z",
+  "lastCommand": "br23-reenter-dream",
   "stopReason": null,
   "action": {
-    "id": "br22-back",
-    "op": "back",
-    "note": "Browser Back from after-Garden intro to see whether Ending state is recoverable."
+    "id": "br23-reenter-dream",
+    "op": "tap",
+    "x": 210,
+    "y": 582,
+    "note": "Reenter through visible home button to see whether completed Garden has a replay path."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/4cce66dc3735efda58cd8c2f2aedc65d4b4e7372/live-results/mofu-vis-b-20261017-retry-0600-p9c5/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/5ccfbc1032788a972893024752aefaaaaa28eb4c/live-results/mofu-vis-b-20261017-retry-0600-p9c5/current.jpg",
   "readOnly": true,
-  "blockedWrites": 14,
-  "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-b-20261017-retry-0600-p9c5",
+  "blockedWrites": 17,
+  "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-b-20261017-retry-0600-p9c5#perfume",
   "title": "NIKO² ATELIER",
   "viewport": {
     "width": 430,
@@ -29,8 +31,19 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n \nWORLD\nWORLD\n水面の向こうに、いくつかの場所がひらいています。\n\n\nABOUT\nもふもふはいます。\nPLAY / SHARE / FAN WORK\nNIKO²での生活について\n好きな形で遊ぶための、小さな境界。\nDEAR ATELIER\nお手紙を送る\nAtelierの受取箱へ。\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n",
+  "text": "作品へ移動\nNIKO² ATELIER\n\n\nDREAM / PM-01\nPERFUME MORGUE\nFORMULA / EMPTY\nFORMULA / TWELVE TRILLION\n三つの層に、記憶を落とす。\n十二兆通りの数式のうち、今日の一本だけが、あなたの手で閉じる。\nときどき、こちらの記録にはない香りも届きます。\n\n調香台へ\n",
   "controls": [
+    {
+      "tag": "A",
+      "text": "NIKO² ATELIER",
+      "disabled": false,
+      "rect": {
+        "x": 22,
+        "y": 13,
+        "w": 118,
+        "h": 44
+      }
+    },
     {
       "tag": "BUTTON",
       "text": "音をオンにする",
@@ -43,47 +56,25 @@
       }
     },
     {
-      "tag": "A",
-      "text": "FROM THE ATELIERを開く",
+      "tag": "BUTTON",
+      "text": "アトリエへ戻る",
       "disabled": false,
       "rect": {
-        "x": 310,
-        "y": 303,
-        "w": 91,
-        "h": 92
-      }
-    },
-    {
-      "tag": "A",
-      "text": "Diaryを開く",
-      "disabled": false,
-      "rect": {
-        "x": 20,
-        "y": 330,
-        "w": 147,
-        "h": 147
+        "x": 14,
+        "y": 82,
+        "w": 40,
+        "h": 40
       }
     },
     {
       "tag": "BUTTON",
-      "text": "Enter the dream",
+      "text": "調香台へ",
       "disabled": false,
       "rect": {
-        "x": 110,
-        "y": 545,
-        "w": 210,
-        "h": 70
-      }
-    },
-    {
-      "tag": "A",
-      "text": "WORLDを開く",
-      "disabled": false,
-      "rect": {
-        "x": 26,
-        "y": 878,
-        "w": 378,
-        "h": 213
+        "x": 34,
+        "y": 554,
+        "w": 362,
+        "h": 44
       }
     }
   ],
@@ -425,6 +416,21 @@
       "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-b-20261017-retry-0600-p9c5",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/4cce66dc3735efda58cd8c2f2aedc65d4b4e7372/live-results/mofu-vis-b-20261017-retry-0600-p9c5/current.jpg",
       "text": "作品へ移動\n \nWORLD\nWORLD\n水面の向こうに、いくつかの場所がひらいています。\n\n\nABOUT\nもふもふはいます。\nPLAY / SHARE / FAN WORK\nNIKO²での生活について\n好きな形で遊ぶための、小さな境界。\nDEAR ATELIER\nお手紙を送る\nAtelierの受取箱へ。\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n"
+    },
+    {
+      "number": 24,
+      "at": "2026-10-16T21:10:36.873Z",
+      "action": {
+        "id": "br23-reenter-dream",
+        "op": "tap",
+        "x": 210,
+        "y": 582,
+        "note": "Reenter through visible home button to see whether completed Garden has a replay path."
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-b-20261017-retry-0600-p9c5#perfume",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/5ccfbc1032788a972893024752aefaaaaa28eb4c/live-results/mofu-vis-b-20261017-retry-0600-p9c5/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\n\n\nDREAM / PM-01\nPERFUME MORGUE\nFORMULA / EMPTY\nFORMULA / TWELVE TRILLION\n三つの層に、記憶を落とす。\n十二兆通りの数式のうち、今日の一本だけが、あなたの手で閉じる。\nときどき、こちらの記録にはない香りも届きます。\n\n調香台へ\n"
     }
   ]
 }
