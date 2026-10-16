@@ -6,20 +6,19 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-16T20:48:51.710Z",
-  "updatedAt": "2026-10-16T20:54:13.189Z",
-  "lastCommand": "a09-top-memory",
+  "updatedAt": "2026-10-16T20:54:57.989Z",
+  "lastCommand": "a10-look-bear",
   "stopReason": null,
   "action": {
-    "id": "a09-top-memory",
-    "op": "tap",
-    "x": 387,
-    "y": 74,
-    "note": "Check tiny top-right Dream memory entry and any adjacent panel proportions."
+    "id": "a10-look-bear",
+    "op": "look",
+    "wait": 1500,
+    "note": "Observe whether full-screen bear view settles or exposes a return control."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/02a32a3c789d4c3f9f3827aa2f18ad7af30d34d3/live-results/mofu-vis-a-20261017-0547-r8q3/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/1ee5725bafc14e2c96b92fb45811b90dce68ee75/live-results/mofu-vis-a-20261017-0547-r8q3/current.jpg",
   "readOnly": true,
-  "blockedWrites": 6,
+  "blockedWrites": 7,
   "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-a-20261017-0547-r8q3#quiet",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -31,7 +30,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n夢の見覚え ✧︎\n遠のいていく庭の中で、見覚えのあるくまと椅子だけが座っている。\n\n",
+  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n夢を離れる",
   "controls": [
     {
       "tag": "BUTTON",
@@ -53,6 +52,28 @@
         "y": 56,
         "w": 61,
         "h": 30
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "待っていた糸結びに触れる",
+      "disabled": false,
+      "rect": {
+        "x": 288,
+        "y": 610,
+        "w": 69,
+        "h": 69
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "夢を離れる",
+      "disabled": false,
+      "rect": {
+        "x": 22,
+        "y": 870,
+        "w": 100,
+        "h": 44
       }
     }
   ],
@@ -206,6 +227,20 @@
       "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-a-20261017-0547-r8q3#quiet",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/02a32a3c789d4c3f9f3827aa2f18ad7af30d34d3/live-results/mofu-vis-a-20261017-0547-r8q3/current.jpg",
       "text": "作品へ移動\n夢の見覚え ✧︎\n遠のいていく庭の中で、見覚えのあるくまと椅子だけが座っている。\n\n"
+    },
+    {
+      "number": 11,
+      "at": "2026-10-16T20:54:57.989Z",
+      "action": {
+        "id": "a10-look-bear",
+        "op": "look",
+        "wait": 1500,
+        "note": "Observe whether full-screen bear view settles or exposes a return control."
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-a-20261017-0547-r8q3#quiet",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/1ee5725bafc14e2c96b92fb45811b90dce68ee75/live-results/mofu-vis-a-20261017-0547-r8q3/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n夢を離れる"
     }
   ]
 }
