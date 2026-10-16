@@ -6,20 +6,20 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-16T20:59:25.122Z",
-  "updatedAt": "2026-10-16T21:07:08.109Z",
-  "lastCommand": "br17-close-words",
+  "updatedAt": "2026-10-16T21:07:28.872Z",
+  "lastCommand": "br18-close-memory",
   "stopReason": null,
   "action": {
-    "id": "br17-close-words",
+    "id": "br18-close-memory",
     "op": "tap",
-    "x": 96,
-    "y": 494,
-    "note": "Collapse words without input; verify modal returns to two-image size."
+    "x": 374,
+    "y": 204,
+    "note": "Close WORLD MEMORY modal without saving or navigation."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/6f5255aea87606c75c4dd411f6bc6a1b65f19e51/live-results/mofu-vis-b-20261017-retry-0600-p9c5/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/b0e73a93f68f61200d4032061f226161408d806b/live-results/mofu-vis-b-20261017-retry-0600-p9c5/current.jpg",
   "readOnly": true,
-  "blockedWrites": 9,
+  "blockedWrites": 10,
   "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-b-20261017-retry-0600-p9c5#quiet",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -31,7 +31,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n夢を離れる\n\nDREAM MEMORY\n\n夢から残ったもの\n\nWORLD MEMORY\nTHING THAT REMAINED\nWORLD MEMORY + REMAINS\n光へ向かう茎\n帰る花弁 — 空へ昇った庭から、一枚だけ残った。\n言葉を添える\nアトリエへ戻る\nDiaryへ持ち帰る",
+  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n夢を離れる",
   "controls": [
     {
       "tag": "BUTTON",
@@ -60,8 +60,8 @@
       "text": "帰る花弁に触れる",
       "disabled": false,
       "rect": {
-        "x": 87,
-        "y": 789,
+        "x": 86,
+        "y": 790,
         "w": 69,
         "h": 69
       }
@@ -75,50 +75,6 @@
         "y": 870,
         "w": 100,
         "h": 44
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "日記を閉じる",
-      "disabled": false,
-      "rect": {
-        "x": 353,
-        "y": 181,
-        "w": 44,
-        "h": 44
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "言葉を添える",
-      "disabled": false,
-      "rect": {
-        "x": 38,
-        "y": 578,
-        "w": 103,
-        "h": 44
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "アトリエへ戻る",
-      "disabled": false,
-      "rect": {
-        "x": 38,
-        "y": 712,
-        "w": 354,
-        "h": 40
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "Diaryへ持ち帰る",
-      "disabled": false,
-      "rect": {
-        "x": 38,
-        "y": 657,
-        "w": 354,
-        "h": 48
       }
     }
   ],
@@ -388,6 +344,21 @@
       "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-b-20261017-retry-0600-p9c5#quiet",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/6f5255aea87606c75c4dd411f6bc6a1b65f19e51/live-results/mofu-vis-b-20261017-retry-0600-p9c5/current.jpg",
       "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n夢を離れる\n\nDREAM MEMORY\n\n夢から残ったもの\n\nWORLD MEMORY\nTHING THAT REMAINED\nWORLD MEMORY + REMAINS\n光へ向かう茎\n帰る花弁 — 空へ昇った庭から、一枚だけ残った。\n言葉を添える\nアトリエへ戻る\nDiaryへ持ち帰る"
+    },
+    {
+      "number": 19,
+      "at": "2026-10-16T21:07:28.872Z",
+      "action": {
+        "id": "br18-close-memory",
+        "op": "tap",
+        "x": 374,
+        "y": 204,
+        "note": "Close WORLD MEMORY modal without saving or navigation."
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-b-20261017-retry-0600-p9c5#quiet",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/b0e73a93f68f61200d4032061f226161408d806b/live-results/mofu-vis-b-20261017-retry-0600-p9c5/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n夢を離れる"
     }
   ]
 }
