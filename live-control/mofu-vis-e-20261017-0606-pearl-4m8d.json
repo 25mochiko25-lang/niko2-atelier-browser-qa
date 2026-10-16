@@ -1,7 +1,7 @@
 {
-  "id": "r09-discard",
+  "id": "r10-after1",
   "op": "tap",
-  "x": 203,
-  "y": 720,
-  "note": "Return to Atelier without writing anything"
+  "x": 372,
+  "y": 858,
+  "note": "Continue already-observed after-Garden introduction"
 }
