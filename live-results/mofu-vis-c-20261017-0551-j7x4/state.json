@@ -6,18 +6,18 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-16T20:53:07.241Z",
-  "updatedAt": "2026-10-16T21:08:25.368Z",
-  "lastCommand": "c36",
+  "updatedAt": "2026-10-16T21:08:42.393Z",
+  "lastCommand": "c37",
   "stopReason": null,
   "action": {
-    "id": "c36",
+    "id": "c37",
     "op": "tap",
-    "x": 128,
-    "y": 540,
-    "note": "Inspect blue return tray archive document"
+    "x": 391,
+    "y": 161,
+    "note": "Close blue tray record to compare orange archive pod"
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/32bf075eeb8cf33748e27d936840aa854da6c123/live-results/mofu-vis-c-20261017-0551-j7x4/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/b060ab87e4e350f34c5b59562cf7f720a9173b9f/live-results/mofu-vis-c-20261017-0551-j7x4/current.jpg",
   "readOnly": true,
   "blockedWrites": 20,
   "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-c-20261017-0551-j7x4#lab",
@@ -31,7 +31,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\nNIKO² ATELIER\n\n白と薄水色のガラス研究所。奥へ続く通路と、記録の置かれた観測台があります。\nARCHIVE CHAMBER\n奥の保管室\n\n\n\n\nARCHIVE CHAMBER // RECORD\n\n\nFIELD NOTE / MINOR LABORATORY INCIDENT\n\n研究用マシュマロ消失事件\nINCIDENT REPORT M-00-14\nRESOLVED\nChief Dream Systems Architectが研究用マシュマロをすべて消費。\n\n本人供述\n「クラウドサンプルだと思ったもふ」\n再発防止\n食品にCLOUDと書かない。\n追記：アルパカ分類への異議申立書が同じ引き出しから14枚見つかった。\nRELATED: MOFUMOFU / CANTEEN\nARCHIVE COPY / VIEW ONLY\nINCIDENT REPORT M-00-14を開きました。\n",
+  "text": "作品へ移動\nNIKO² ATELIER\n\n白と薄水色のガラス研究所。奥へ続く通路と、記録の置かれた観測台があります。\nARCHIVE CHAMBER\n奥の保管室\n\n\n\n\nINCIDENT REPORT M-00-14を開きました。\n",
   "controls": [
     {
       "tag": "A",
@@ -97,17 +97,6 @@
         "y": 364,
         "w": 175,
         "h": 150
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "研究資料を閉じる",
-      "disabled": false,
-      "rect": {
-        "x": 370,
-        "y": 141,
-        "w": 44,
-        "h": 44
       }
     }
   ],
@@ -663,6 +652,21 @@
       "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-c-20261017-0551-j7x4#lab",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/32bf075eeb8cf33748e27d936840aa854da6c123/live-results/mofu-vis-c-20261017-0551-j7x4/current.jpg",
       "text": "作品へ移動\nNIKO² ATELIER\n\n白と薄水色のガラス研究所。奥へ続く通路と、記録の置かれた観測台があります。\nARCHIVE CHAMBER\n奥の保管室\n\n\n\n\nARCHIVE CHAMBER // RECORD\n\n\nFIELD NOTE / MINOR LABORATORY INCIDENT\n\n研究用マシュマロ消失事件\nINCIDENT REPORT M-00-14\nRESOLVED\nChief Dream Systems Architectが研究用マシュマロをすべて消費。\n\n本人供述\n「クラウドサンプルだと思ったもふ」\n再発防止\n食品にCLOUDと書かない。\n追記：アルパカ分類への異議申立書が同じ引き出しから14枚見つかった。\nRELATED: MOFUMOFU / CANTEEN\nARCHIVE COPY / VIEW ONLY\nINCIDENT REPORT M-00-14を開きました。\n"
+    },
+    {
+      "number": 38,
+      "at": "2026-10-16T21:08:42.393Z",
+      "action": {
+        "id": "c37",
+        "op": "tap",
+        "x": 391,
+        "y": 161,
+        "note": "Close blue tray record to compare orange archive pod"
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-c-20261017-0551-j7x4#lab",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/b060ab87e4e350f34c5b59562cf7f720a9173b9f/live-results/mofu-vis-c-20261017-0551-j7x4/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\n\n白と薄水色のガラス研究所。奥へ続く通路と、記録の置かれた観測台があります。\nARCHIVE CHAMBER\n奥の保管室\n\n\n\n\nINCIDENT REPORT M-00-14を開きました。\n"
     }
   ]
 }
