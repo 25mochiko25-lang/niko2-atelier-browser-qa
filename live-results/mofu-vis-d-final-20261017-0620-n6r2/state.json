@@ -6,20 +6,16 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-16T21:20:45.229Z",
-  "updatedAt": "2026-10-16T21:31:00.145Z",
+  "updatedAt": "2026-10-16T21:51:00.112Z",
   "lastCommand": "f29-channel",
-  "stopReason": null,
+  "stopReason": "infrastructure_idle_timeout",
   "action": {
-    "id": "f29-channel",
-    "op": "tap",
-    "x": 83,
-    "y": 415,
-    "note": "Open visible CHANNEL 00 laptop from ROOM NULL; check linked facility UI."
+    "op": "infrastructure-stop"
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/d338c00112a77ddd932f47a5075c20bc49ba60fc/live-results/mofu-vis-d-final-20261017-0620-n6r2/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/a165af26e2e756da034b32b24041f52a817bf21b/live-results/mofu-vis-d-final-20261017-0620-n6r2/current.jpg",
   "readOnly": true,
-  "blockedWrites": 16,
+  "blockedWrites": 36,
   "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-d-final-20261017-0620-n6r2#channel0",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -510,6 +506,17 @@
       "error": null,
       "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-d-final-20261017-0620-n6r2#channel0",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/d338c00112a77ddd932f47a5075c20bc49ba60fc/live-results/mofu-vis-d-final-20261017-0620-n6r2/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\n\n\nCHANNEL / CH-00\nCHANNEL 00\n0 pages\n存在しなかったインターネット。\n\nPOWER / 接続する"
+    },
+    {
+      "number": 31,
+      "at": "2026-10-16T21:51:00.112Z",
+      "action": {
+        "op": "infrastructure-stop"
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-d-final-20261017-0620-n6r2#channel0",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/a165af26e2e756da034b32b24041f52a817bf21b/live-results/mofu-vis-d-final-20261017-0620-n6r2/current.jpg",
       "text": "作品へ移動\nNIKO² ATELIER\n\n\nCHANNEL / CH-00\nCHANNEL 00\n0 pages\n存在しなかったインターネット。\n\nPOWER / 接続する"
     }
   ]
