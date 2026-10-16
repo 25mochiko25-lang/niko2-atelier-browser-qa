@@ -1,1 +1,1 @@
-{"id":"f26-room-settle","op":"look","wait":1600,"note":"Allow door opening transition to settle, visually inspect ROOM NULL interior."}
+{"id":"f27-cabinet","op":"tap","x":361,"y":354,"note":"Open visible right-hand Cabinet in ROOM NULL for visual and interaction check."}
