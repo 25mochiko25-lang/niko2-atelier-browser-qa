@@ -1,7 +1,7 @@
 {
-  "id": "e03-intro-next2",
+  "id": "e04-enter-world",
   "op": "tap",
-  "x": 375,
+  "x": 370,
   "y": 856,
-  "note": "Advance introduction to final pane"
+  "note": "Open public production world"
 }
