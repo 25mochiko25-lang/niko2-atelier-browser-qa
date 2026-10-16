@@ -1,7 +1,7 @@
 {
-  "id": "r02",
+  "id": "r03",
   "op": "tap",
-  "x": 375,
-  "y": 858,
-  "note": "Follow visible next onboarding control."
+  "x": 376,
+  "y": 856,
+  "note": "Next visible intro step."
 }
