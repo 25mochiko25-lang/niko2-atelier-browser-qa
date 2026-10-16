@@ -1,7 +1,7 @@
 {
-  "id": "d04-enter-world",
+  "id": "d05-garden-enter",
   "op": "tap",
-  "x": 373,
-  "y": 859,
-  "note": "Enter dream from WELCOME."
+  "x": 208,
+  "y": 877,
+  "note": "Enter Garden through visible doorway, continue to WORLD."
 }
