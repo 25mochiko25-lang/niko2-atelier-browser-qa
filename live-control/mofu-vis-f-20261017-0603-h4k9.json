@@ -1,7 +1,6 @@
 {
-  "id": "r11",
-  "op": "tap",
-  "x": 323,
-  "y": 280,
-  "note": "Enter the glowing visible door after discovering five objects."
+  "id": "r12",
+  "op": "wait",
+  "ms": 1800,
+  "note": "Observe the destination after normal gate animation."
 }
