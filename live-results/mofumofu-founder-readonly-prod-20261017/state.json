@@ -6,21 +6,21 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-16T20:12:11.097Z",
-  "updatedAt": "2026-10-16T20:17:23.231Z",
-  "lastCommand": "m06-hourglass",
+  "updatedAt": "2026-10-16T20:18:23.391Z",
+  "lastCommand": "m07-close-memory",
   "stopReason": null,
   "action": {
-    "id": "m06-hourglass",
+    "id": "m07-close-memory",
     "op": "tap",
-    "x": 46,
-    "y": 456,
-    "wait": 650,
-    "note": "Collect hourglass; inspect fragment location, scale, and accessibility."
+    "x": 376,
+    "y": 772,
+    "wait": 380,
+    "note": "Close memory fragment and test next collectible."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/ed4e2e917279143b18418eb9c767038055dccaa5/live-results/mofumofu-founder-readonly-prod-20261017/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/b63f9ccdd8c231f0f2a6e1b2235cb96fedd743c5/live-results/mofumofu-founder-readonly-prod-20261017/current.jpg",
   "readOnly": true,
-  "blockedWrites": 6,
+  "blockedWrites": 7,
   "url": "https://niko2atelier.com/?mofumofu_qa=mofumofu-founder-readonly-prod-20261017#garden",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -32,7 +32,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n1 / 5\n見つけたもの\nCG-01-A_01.DRM\n05:17:19\n\nFRAGMENT / 01\n\n止まりかけの砂時計\n砂は落ちていく。 逆さまに。巻き戻るように。\n",
+  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n1 / 5\n見つけたもの\n",
   "controls": [
     {
       "tag": "BUTTON",
@@ -198,17 +198,6 @@
         "w": 69,
         "h": 90
       }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "見つけた記憶を閉じる",
-      "disabled": false,
-      "rect": {
-        "x": 364,
-        "y": 761,
-        "w": 24,
-        "h": 23
-      }
     }
   ],
   "pageErrors": [],
@@ -320,6 +309,22 @@
       "url": "https://niko2atelier.com/?mofumofu_qa=mofumofu-founder-readonly-prod-20261017#garden",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/ed4e2e917279143b18418eb9c767038055dccaa5/live-results/mofumofu-founder-readonly-prod-20261017/current.jpg",
       "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n1 / 5\n見つけたもの\nCG-01-A_01.DRM\n05:17:19\n\nFRAGMENT / 01\n\n止まりかけの砂時計\n砂は落ちていく。 逆さまに。巻き戻るように。\n"
+    },
+    {
+      "number": 8,
+      "at": "2026-10-16T20:18:23.391Z",
+      "action": {
+        "id": "m07-close-memory",
+        "op": "tap",
+        "x": 376,
+        "y": 772,
+        "wait": 380,
+        "note": "Close memory fragment and test next collectible."
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofumofu-founder-readonly-prod-20261017#garden",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/b63f9ccdd8c231f0f2a6e1b2235cb96fedd743c5/live-results/mofumofu-founder-readonly-prod-20261017/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n1 / 5\n見つけたもの\n"
     }
   ]
 }
