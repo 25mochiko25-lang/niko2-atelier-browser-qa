@@ -1,7 +1,7 @@
 {
-  "id": "c25",
+  "id": "c26",
   "op": "tap",
-  "x": 188,
-  "y": 300,
-  "note": "Open first Research Lab record to compare reading window sizing"
+  "x": 392,
+  "y": 161,
+  "note": "Close record to test return to Lab observation table"
 }
