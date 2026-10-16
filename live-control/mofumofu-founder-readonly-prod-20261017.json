@@ -1,1 +1,7 @@
-{"id":"m33-room-settle","op":"wait","wait":1700,"note":"Wait until door-opening overlay fades before evaluating ROOM NULL composition."}
+{
+  "id": "m34-stop",
+  "op": "stop",
+  "wait": 0,
+  "reason": "completed_chat_readonly_scoped_audit: production 430x932 Garden 5/5 through WORLD MEMORY and Diary, WORLD, Lab, ROOM NULL door/interior; remaining branches not claimed",
+  "note": "End GitHub Actions browser session to avoid idle runner time. All site POST writes were blocked; no signed QA badge was issued."
+}
