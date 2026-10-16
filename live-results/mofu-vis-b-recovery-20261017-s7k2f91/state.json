@@ -6,18 +6,18 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-16T21:00:03.081Z",
-  "updatedAt": "2026-10-16T21:04:16.844Z",
-  "lastCommand": "br08-cup",
+  "updatedAt": "2026-10-16T21:04:37.293Z",
+  "lastCommand": "br09-bear",
   "stopReason": null,
   "action": {
-    "id": "br08-cup",
+    "id": "br09-bear",
     "op": "tap",
-    "x": 229,
-    "y": 548,
-    "note": "Open visible cup for 3/5 on public Garden path."
+    "x": 369,
+    "y": 549,
+    "note": "Open visible teddy bear for 4/5."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/8d20ca7e68be0649e11e740b96d1e969ea7b794d/live-results/mofu-vis-b-recovery-20261017-s7k2f91/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/ebd8dd5f656d4f2f059c680f66231f1285638d5f/live-results/mofu-vis-b-recovery-20261017-s7k2f91/current.jpg",
   "readOnly": true,
   "blockedWrites": 6,
   "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-b-recovery-20261017-s7k2f91#garden",
@@ -31,7 +31,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n3 / 5\n見つけたもの\nCG-01-A_03.DRM\n06:04:13\n\nFRAGMENT / 03\n\nまだあたたかいカップ\nほんのり湯気が残る。まだ、誰かの気配がする。\n",
+  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n4 / 5\n見つけたもの\nCG-01-A_04.DRM\n06:04:34\n\nFRAGMENT / 04\n\n置き去りのくま\n名前はもうない。それでも、いつもの方を向いている。\n",
   "controls": [
     {
       "tag": "BUTTON",
@@ -90,7 +90,7 @@
     },
     {
       "tag": "BUTTON",
-      "text": "置き去りのくまに触れる",
+      "text": "置き去りのくま（発見済み）",
       "disabled": false,
       "rect": {
         "x": 323,
@@ -204,7 +204,7 @@
       "disabled": false,
       "rect": {
         "x": 364,
-        "y": 761,
+        "y": 742,
         "w": 24,
         "h": 23
       }
@@ -343,6 +343,21 @@
       "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-b-recovery-20261017-s7k2f91#garden",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/8d20ca7e68be0649e11e740b96d1e969ea7b794d/live-results/mofu-vis-b-recovery-20261017-s7k2f91/current.jpg",
       "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n3 / 5\n見つけたもの\nCG-01-A_03.DRM\n06:04:13\n\nFRAGMENT / 03\n\nまだあたたかいカップ\nほんのり湯気が残る。まだ、誰かの気配がする。\n"
+    },
+    {
+      "number": 10,
+      "at": "2026-10-16T21:04:37.293Z",
+      "action": {
+        "id": "br09-bear",
+        "op": "tap",
+        "x": 369,
+        "y": 549,
+        "note": "Open visible teddy bear for 4/5."
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-b-recovery-20261017-s7k2f91#garden",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/ebd8dd5f656d4f2f059c680f66231f1285638d5f/live-results/mofu-vis-b-recovery-20261017-s7k2f91/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n4 / 5\n見つけたもの\nCG-01-A_04.DRM\n06:04:34\n\nFRAGMENT / 04\n\n置き去りのくま\n名前はもうない。それでも、いつもの方を向いている。\n"
     }
   ]
 }
