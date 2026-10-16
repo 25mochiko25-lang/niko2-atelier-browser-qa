@@ -6,18 +6,17 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-16T20:59:25.122Z",
-  "updatedAt": "2026-10-16T21:07:49.853Z",
-  "lastCommand": "br19-petal-reopen",
+  "updatedAt": "2026-10-16T21:08:15.416Z",
+  "lastCommand": "br20-wait-retap",
   "stopReason": null,
   "action": {
-    "id": "br19-petal-reopen",
-    "op": "tap",
-    "x": 119,
-    "y": 823,
-    "note": "Retap the petal after closing the memory, check whether souvenir can be reopened."
+    "id": "br20-wait-retap",
+    "op": "wait",
+    "ms": 1200,
+    "note": "Check if reopening gift only needs animation delay."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/8d00c0d75b548c3b508d4c93a15c8fcd37fa5550/live-results/mofu-vis-b-20261017-retry-0600-p9c5/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/925cb366ef5c5938ce746fd05ad1d3a043197875/live-results/mofu-vis-b-20261017-retry-0600-p9c5/current.jpg",
   "readOnly": true,
   "blockedWrites": 10,
   "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-b-20261017-retry-0600-p9c5#quiet",
@@ -373,6 +372,20 @@
       "error": null,
       "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-b-20261017-retry-0600-p9c5#quiet",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/8d00c0d75b548c3b508d4c93a15c8fcd37fa5550/live-results/mofu-vis-b-20261017-retry-0600-p9c5/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n夢を離れる"
+    },
+    {
+      "number": 21,
+      "at": "2026-10-16T21:08:15.416Z",
+      "action": {
+        "id": "br20-wait-retap",
+        "op": "wait",
+        "ms": 1200,
+        "note": "Check if reopening gift only needs animation delay."
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-b-20261017-retry-0600-p9c5#quiet",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/925cb366ef5c5938ce746fd05ad1d3a043197875/live-results/mofu-vis-b-20261017-retry-0600-p9c5/current.jpg",
       "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n夢を離れる"
     }
   ]
