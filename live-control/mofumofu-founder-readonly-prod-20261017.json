@@ -1,1 +1,1 @@
-{"id":"m20-carry-to-diary","op":"tap","x":215,"y":677,"wait":850,"note":"Carry souvenir into local Diary; external writes blocked in read-only QA."}
+{"id":"m21-diary-home","op":"tap","x":76,"y":36,"wait":670,"note":"Navigate Diary to Home via visible brand link, test return routing."}
