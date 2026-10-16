@@ -6,18 +6,18 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-16T20:53:07.241Z",
-  "updatedAt": "2026-10-16T21:07:19.902Z",
-  "lastCommand": "c34",
+  "updatedAt": "2026-10-16T21:07:57.355Z",
+  "lastCommand": "c35",
   "stopReason": null,
   "action": {
-    "id": "c34",
+    "id": "c35",
     "op": "tap",
-    "x": 399,
-    "y": 160,
-    "note": "Close observation table and compare main Lab to archive entry"
+    "x": 218,
+    "y": 421,
+    "note": "Enter visible rear archive door from main Research Lab"
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/f9a3b1ba1bb375ffce13078936b90674d714ef0e/live-results/mofu-vis-c-20261017-0551-j7x4/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/b1eb9041c2caee70cae5ea57e6db7145a02fd633/live-results/mofu-vis-c-20261017-0551-j7x4/current.jpg",
   "readOnly": true,
   "blockedWrites": 19,
   "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-c-20261017-0551-j7x4#lab",
@@ -31,7 +31,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\nNIKO² ATELIER\n\n白と薄水色のガラス研究所。奥へ続く通路と、記録の置かれた観測台があります。\nMAIN LAB\n観測台\n\n\n\n観測台奥の保管室へ進む\nM-00 MANAGEMENT EQUIPMENTを開きました。\n",
+  "text": "作品へ移動\nNIKO² ATELIER\n\n白と薄水色のガラス研究所。奥へ続く通路と、記録の置かれた観測台があります。\nARCHIVE CHAMBER\n奥の保管室\n\n\n\n\nM-00 MANAGEMENT EQUIPMENTを開きました。\n",
   "controls": [
     {
       "tag": "A",
@@ -68,35 +68,35 @@
     },
     {
       "tag": "BUTTON",
-      "text": "観測台",
+      "text": "青い返却トレイの仮留め資料、研究用マシュマロ消失事件を読む",
       "disabled": false,
       "rect": {
         "x": 66,
-        "y": 392,
+        "y": 510,
+        "w": 119,
+        "h": 70
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "オレンジの保留ポッドに入った保管スリーブ、向こうから先にノックされた扉を読む",
+      "disabled": false,
+      "rect": {
+        "x": 275,
+        "y": 537,
         "w": 89,
-        "h": 303
+        "h": 80
       }
     },
     {
       "tag": "BUTTON",
-      "text": "奥の保管室へ進む",
+      "text": "旧端末に触れる",
       "disabled": false,
       "rect": {
-        "x": 163,
-        "y": 337,
-        "w": 108,
-        "h": 187
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "障害シミュレーション／運用モードを開く",
-      "disabled": false,
-      "rect": {
-        "x": 292,
-        "y": 634,
-        "w": 72,
-        "h": 97
+        "x": 189,
+        "y": 364,
+        "w": 175,
+        "h": 150
       }
     }
   ],
@@ -622,6 +622,21 @@
       "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-c-20261017-0551-j7x4#lab",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/f9a3b1ba1bb375ffce13078936b90674d714ef0e/live-results/mofu-vis-c-20261017-0551-j7x4/current.jpg",
       "text": "作品へ移動\nNIKO² ATELIER\n\n白と薄水色のガラス研究所。奥へ続く通路と、記録の置かれた観測台があります。\nMAIN LAB\n観測台\n\n\n\n観測台奥の保管室へ進む\nM-00 MANAGEMENT EQUIPMENTを開きました。\n"
+    },
+    {
+      "number": 36,
+      "at": "2026-10-16T21:07:57.355Z",
+      "action": {
+        "id": "c35",
+        "op": "tap",
+        "x": 218,
+        "y": 421,
+        "note": "Enter visible rear archive door from main Research Lab"
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-c-20261017-0551-j7x4#lab",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/b1eb9041c2caee70cae5ea57e6db7145a02fd633/live-results/mofu-vis-c-20261017-0551-j7x4/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\n\n白と薄水色のガラス研究所。奥へ続く通路と、記録の置かれた観測台があります。\nARCHIVE CHAMBER\n奥の保管室\n\n\n\n\nM-00 MANAGEMENT EQUIPMENTを開きました。\n"
     }
   ]
 }
