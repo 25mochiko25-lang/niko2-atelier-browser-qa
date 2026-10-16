@@ -1,7 +1,5 @@
 {
-  "id": "a12-close-dream-memory",
-  "op": "tap",
-  "x": 374,
-  "y": 214,
-  "note": "Close the visible DREAM MEMORY modal; avoid any submit/store action."
+  "id": "a13-stop",
+  "op": "stop",
+  "reason": "Squad A entrance/intro/Garden entry visual comparison completed; other Garden branches unverified. No product changes made."
 }
