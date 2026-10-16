@@ -6,21 +6,21 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-16T21:20:45.229Z",
-  "updatedAt": "2026-10-16T21:30:19.966Z",
-  "lastCommand": "f27-cabinet",
+  "updatedAt": "2026-10-16T21:30:40.012Z",
+  "lastCommand": "f28-cabinet-back",
   "stopReason": null,
   "action": {
-    "id": "f27-cabinet",
+    "id": "f28-cabinet-back",
     "op": "tap",
-    "x": 361,
-    "y": 354,
-    "note": "Open visible right-hand Cabinet in ROOM NULL for visual and interaction check."
+    "x": 34,
+    "y": 113,
+    "note": "Return from Cabinet using visible back to ROOM NULL."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/c5a194610232e095f0969cb07f229feb7af0ea71/live-results/mofu-vis-d-final-20261017-0620-n6r2/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/8cfda7ec274bd5ee05d7219440b6c33b49adc32b/live-results/mofu-vis-d-final-20261017-0620-n6r2/current.jpg",
   "readOnly": true,
   "blockedWrites": 15,
-  "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-d-final-20261017-0620-n6r2#cabinet",
+  "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-d-final-20261017-0620-n6r2#room0",
   "title": "NIKO² ATELIER",
   "viewport": {
     "width": 430,
@@ -31,7 +31,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\nNIKO² ATELIER\n\n\nWHAT REMAINED\nTHE CABINET\n\n",
+  "text": "作品へ移動\nNIKO² ATELIER\n\n \nWORLD / RN-00\nROOM NULL\na room that remembers you.\nRN-00\n",
   "controls": [
     {
       "tag": "A",
@@ -56,14 +56,47 @@
       }
     },
     {
-      "tag": "BUTTON",
-      "text": "前の場所へ戻る",
+      "tag": "A",
+      "text": "WORLDへ戻る",
       "disabled": false,
       "rect": {
         "x": 14,
-        "y": 88,
-        "w": 46,
-        "h": 46
+        "y": 86,
+        "w": 40,
+        "h": 40
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "CHANNEL 00を開く",
+      "disabled": false,
+      "rect": {
+        "x": 15,
+        "y": 350,
+        "w": 172,
+        "h": 154
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Cabinetを開く",
+      "disabled": false,
+      "rect": {
+        "x": 288,
+        "y": 224,
+        "w": 138,
+        "h": 242
+      }
+    },
+    {
+      "tag": "A",
+      "text": "Diaryを開く",
+      "disabled": false,
+      "rect": {
+        "x": 194,
+        "y": 596,
+        "w": 206,
+        "h": 233
       }
     }
   ],
@@ -470,6 +503,21 @@
       "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-d-final-20261017-0620-n6r2#cabinet",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/c5a194610232e095f0969cb07f229feb7af0ea71/live-results/mofu-vis-d-final-20261017-0620-n6r2/current.jpg",
       "text": "作品へ移動\nNIKO² ATELIER\n\n\nWHAT REMAINED\nTHE CABINET\n\n"
+    },
+    {
+      "number": 29,
+      "at": "2026-10-16T21:30:40.012Z",
+      "action": {
+        "id": "f28-cabinet-back",
+        "op": "tap",
+        "x": 34,
+        "y": 113,
+        "note": "Return from Cabinet using visible back to ROOM NULL."
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-d-final-20261017-0620-n6r2#room0",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/8cfda7ec274bd5ee05d7219440b6c33b49adc32b/live-results/mofu-vis-d-final-20261017-0620-n6r2/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\n\n \nWORLD / RN-00\nROOM NULL\na room that remembers you.\nRN-00\n"
     }
   ]
 }
