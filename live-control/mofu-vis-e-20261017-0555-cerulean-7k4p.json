@@ -1,7 +1,7 @@
 {
-  "id": "e14-after-finish",
+  "id": "e15-open-diary",
   "op": "tap",
-  "x": 373,
-  "y": 857,
-  "note": "Finish visible post-Garden instructions and inspect HOME"
+  "x": 92,
+  "y": 389,
+  "note": "Open Diary using visible floating book on HOME"
 }
