@@ -1,7 +1,6 @@
 {
-  "id": "c12",
-  "op": "tap",
-  "x": 219,
-  "y": 320,
-  "note": "Follow visible gate to WORLD"
+  "id": "c13",
+  "op": "wait",
+  "ms": 1300,
+  "note": "Let door transition finish to inspect resulting screen"
 }
