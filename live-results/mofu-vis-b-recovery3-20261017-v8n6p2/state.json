@@ -6,20 +6,18 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-16T21:10:53.784Z",
-  "updatedAt": "2026-10-16T21:18:44.365Z",
-  "lastCommand": "bc18-return-atelier",
-  "stopReason": null,
+  "updatedAt": "2026-10-16T21:19:20.238Z",
+  "lastCommand": "bc19-stop",
+  "stopReason": "B visual audit of Garden, Ending, souvenir and two-card World Memory completed to reachable scope. One-card case unverified; intentionally stop without writes to Production.",
   "action": {
-    "id": "bc18-return-atelier",
-    "op": "tap",
-    "x": 214,
-    "y": 733,
-    "note": "Take visible 'アトリエへ戻る' path; inspect closing and position after gift."
+    "id": "bc19-stop",
+    "op": "stop",
+    "reason": "B visual audit of Garden, Ending, souvenir and two-card World Memory completed to reachable scope. One-card case unverified; intentionally stop without writes to Production."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/2ff5602c6fd8a803794162b628fcc08b81a6401a/live-results/mofu-vis-b-recovery3-20261017-v8n6p2/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/d2694cdb2bafd9e6614da0e3453ffd70be9ff66d/live-results/mofu-vis-b-recovery3-20261017-v8n6p2/current.jpg",
   "readOnly": true,
-  "blockedWrites": 11,
+  "blockedWrites": 12,
   "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-b-recovery3-20261017-v8n6p2",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -380,6 +378,19 @@
       "error": null,
       "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-b-recovery3-20261017-v8n6p2",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/2ff5602c6fd8a803794162b628fcc08b81a6401a/live-results/mofu-vis-b-recovery3-20261017-v8n6p2/current.jpg",
+      "text": "作品へ移動\n \nWORLD\nWORLD\n水面の向こうに、いくつかの場所がひらいています。\n\n\nABOUT\nもふもふはいます。\nPLAY / SHARE / FAN WORK\nNIKO²での生活について\n好きな形で遊ぶための、小さな境界。\nDEAR ATELIER\nお手紙を送る\nAtelierの受取箱へ。\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n\nAFTER THE GARDEN\nこの庭を、短く通り抜けました。\n次へ"
+    },
+    {
+      "number": 20,
+      "at": "2026-10-16T21:19:20.238Z",
+      "action": {
+        "id": "bc19-stop",
+        "op": "stop",
+        "reason": "B visual audit of Garden, Ending, souvenir and two-card World Memory completed to reachable scope. One-card case unverified; intentionally stop without writes to Production."
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-b-recovery3-20261017-v8n6p2",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/d2694cdb2bafd9e6614da0e3453ffd70be9ff66d/live-results/mofu-vis-b-recovery3-20261017-v8n6p2/current.jpg",
       "text": "作品へ移動\n \nWORLD\nWORLD\n水面の向こうに、いくつかの場所がひらいています。\n\n\nABOUT\nもふもふはいます。\nPLAY / SHARE / FAN WORK\nNIKO²での生活について\n好きな形で遊ぶための、小さな境界。\nDEAR ATELIER\nお手紙を送る\nAtelierの受取箱へ。\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n\nAFTER THE GARDEN\nこの庭を、短く通り抜けました。\n次へ"
     }
   ]
