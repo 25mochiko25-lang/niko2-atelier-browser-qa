@@ -6,20 +6,20 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-16T20:49:59.380Z",
-  "updatedAt": "2026-10-16T20:54:00.037Z",
-  "lastCommand": "b08-reopen-hourglass",
+  "updatedAt": "2026-10-16T20:54:28.247Z",
+  "lastCommand": "b09-perfume",
   "stopReason": null,
   "action": {
-    "id": "b08-reopen-hourglass",
+    "id": "b09-perfume",
     "op": "tap",
-    "x": 52,
-    "y": 467,
-    "note": "Verify the same found memory can reopen at consistent scale."
+    "x": 103,
+    "y": 562,
+    "note": "Choose visible perfume while hourglass memory is open; compare memory window scale/transition."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/68413976fae25bcade2e1bd68b25338b8fbe48ae/live-results/mofu-vis-b-20261017-0548-k7r4/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/826fdc8a74aecdb573f50971f6ed90506bc38c82/live-results/mofu-vis-b-20261017-0548-k7r4/current.jpg",
   "readOnly": true,
-  "blockedWrites": 4,
+  "blockedWrites": 5,
   "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-b-20261017-0548-k7r4#garden",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -31,7 +31,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n1 / 5\n見つけたもの\nCG-01-A_01.DRM\n05:53:57\n\nFRAGMENT / 01\n\n止まりかけの砂時計\n砂は落ちていく。 逆さまに。巻き戻るように。\n",
+  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n2 / 5\n見つけたもの\nCG-01-A_02.DRM\n05:54:25\n\nFRAGMENT / 02\n\nN² Eau de rêve\nキャップは常に閉じているのに、帰らない部屋の香りがした。\n",
   "controls": [
     {
       "tag": "BUTTON",
@@ -68,7 +68,7 @@
     },
     {
       "tag": "BUTTON",
-      "text": "N² Eau de rêveに触れる",
+      "text": "N² Eau de rêve（発見済み）",
       "disabled": false,
       "rect": {
         "x": 69,
@@ -204,7 +204,7 @@
       "disabled": false,
       "rect": {
         "x": 364,
-        "y": 761,
+        "y": 742,
         "w": 24,
         "h": 23
       }
@@ -343,6 +343,21 @@
       "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-b-20261017-0548-k7r4#garden",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/68413976fae25bcade2e1bd68b25338b8fbe48ae/live-results/mofu-vis-b-20261017-0548-k7r4/current.jpg",
       "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n1 / 5\n見つけたもの\nCG-01-A_01.DRM\n05:53:57\n\nFRAGMENT / 01\n\n止まりかけの砂時計\n砂は落ちていく。 逆さまに。巻き戻るように。\n"
+    },
+    {
+      "number": 10,
+      "at": "2026-10-16T20:54:28.247Z",
+      "action": {
+        "id": "b09-perfume",
+        "op": "tap",
+        "x": 103,
+        "y": 562,
+        "note": "Choose visible perfume while hourglass memory is open; compare memory window scale/transition."
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-b-20261017-0548-k7r4#garden",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/826fdc8a74aecdb573f50971f6ed90506bc38c82/live-results/mofu-vis-b-20261017-0548-k7r4/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n2 / 5\n見つけたもの\nCG-01-A_02.DRM\n05:54:25\n\nFRAGMENT / 02\n\nN² Eau de rêve\nキャップは常に閉じているのに、帰らない部屋の香りがした。\n"
     }
   ]
 }
