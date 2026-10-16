@@ -1,1 +1,1 @@
-{"id":"m32-room-open","op":"tap","x":214,"y":471,"wait":1200,"note":"Open ROOM NULL full-cover door, inspect following layout."}
+{"id":"m33-room-settle","op":"wait","wait":1700,"note":"Wait until door-opening overlay fades before evaluating ROOM NULL composition."}
