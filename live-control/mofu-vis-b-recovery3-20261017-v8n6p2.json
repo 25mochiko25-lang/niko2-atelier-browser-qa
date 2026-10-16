@@ -1,1 +1,1 @@
-{"id":"bc12-words-close","op":"tap","x":90,"y":491,"note":"Close empty words editor without input or submission; compare modal height change."}
+{"id":"bc13-memory-close","op":"tap","x":374,"y":201,"note":"Close WORLD MEMORY modal; inspect return to Ending and souvenir reentry."}
