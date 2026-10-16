@@ -1,6 +1,7 @@
 {
-  "id": "c11",
-  "op": "wait",
-  "ms": 1100,
-  "note": "Wait for visible Garden door transition before interacting"
+  "id": "c12",
+  "op": "tap",
+  "x": 219,
+  "y": 320,
+  "note": "Follow visible gate to WORLD"
 }
