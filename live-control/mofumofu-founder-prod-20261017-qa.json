@@ -1,0 +1,7 @@
+{
+  "id": "guard-stop-00",
+  "op": "stop",
+  "wait": 0,
+  "reason": "infrastructure_cancelled: prior to further interactions while verifying the canonical signed QA identity requirement; not a visitor departure",
+  "note": "Do not treat as site or user failure."
+}
