@@ -1,1 +1,1 @@
-{"id":"br20-wait-retap","op":"wait","ms":1200,"note":"Check if reopening gift only needs animation delay."}
+{"id":"br21-dream-memory","op":"tap","x":384,"y":71,"note":"Try visible 夢の見覚え link as alternate reopen route."}
