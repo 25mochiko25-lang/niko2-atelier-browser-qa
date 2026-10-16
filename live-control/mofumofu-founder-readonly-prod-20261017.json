@@ -1,1 +1,1 @@
-{"id":"m27-lab","op":"tap","x":92,"y":424,"wait":880,"note":"Enter Research Lab from visible WORLD portal, inspect canvas fit."}
+{"id":"m28-lab-enter","op":"tap","x":119,"y":719,"wait":700,"note":"Enter Research Lab intro and inspect 430x932 visual stage."}
