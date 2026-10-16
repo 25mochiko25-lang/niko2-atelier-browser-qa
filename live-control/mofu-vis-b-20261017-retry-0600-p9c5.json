@@ -1,1 +1,1 @@
-{"id":"br18-close-memory","op":"tap","x":374,"y":204,"note":"Close WORLD MEMORY modal without saving or navigation."}
+{"id":"br19-petal-reopen","op":"tap","x":119,"y":823,"note":"Retap the petal after closing the memory, check whether souvenir can be reopened."}
