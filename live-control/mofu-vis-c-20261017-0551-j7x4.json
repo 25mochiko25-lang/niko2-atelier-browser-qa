@@ -1,7 +1,7 @@
 {
-  "id": "c22",
+  "id": "c23",
   "op": "tap",
-  "x": 93,
-  "y": 431,
-  "note": "Enter Research Lab through the visible left portal in WORLD"
+  "x": 116,
+  "y": 720,
+  "note": "Enter Research Lab from its on-screen entrance CTA"
 }
