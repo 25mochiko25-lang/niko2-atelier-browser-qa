@@ -1,1 +1,1 @@
-{"id":"b12-key","op":"tap","x":171,"y":612,"note":"Fifth memory and progression check: ribboned key."}
+{"id":"b13-settle-after-five","op":"wait","ms":1200,"note":"Allow the five-discovery gate transition to settle before judging visual scale."}
