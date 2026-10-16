@@ -1,7 +1,6 @@
 {
-  "id": "a09-top-memory",
-  "op": "tap",
-  "x": 387,
-  "y": 74,
-  "note": "Check tiny top-right Dream memory entry and any adjacent panel proportions."
+  "id": "a10-look-bear",
+  "op": "look",
+  "wait": 1500,
+  "note": "Observe whether full-screen bear view settles or exposes a return control."
 }
