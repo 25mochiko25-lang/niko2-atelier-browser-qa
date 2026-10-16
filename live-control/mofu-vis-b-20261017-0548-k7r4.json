@@ -1,1 +1,1 @@
-{"id":"b15-ending-settle","op":"wait","ms":1400,"note":"Inspect Ending after gate motion settles."}
+{"id":"b16-ending-petal","op":"tap","x":121,"y":823,"note":"Touch visible floating petal in Ending, check souvenir reveal."}
