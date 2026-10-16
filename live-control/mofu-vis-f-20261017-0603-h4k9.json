@@ -1,7 +1,6 @@
 {
-  "id": "r20",
-  "op": "tap",
-  "x": 216,
-  "y": 257,
-  "note": "Select Tea for Nobody in room service, inspecting visible response."
+  "id": "r21",
+  "op": "wait",
+  "wait": 2500,
+  "note": "Check if selected room-service cups appear after image/render settling."
 }
