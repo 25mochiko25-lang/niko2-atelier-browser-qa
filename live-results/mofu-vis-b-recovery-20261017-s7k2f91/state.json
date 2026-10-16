@@ -6,18 +6,17 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-16T21:00:03.081Z",
-  "updatedAt": "2026-10-16T21:05:06.255Z",
-  "lastCommand": "br10-key",
+  "updatedAt": "2026-10-16T21:05:27.284Z",
+  "lastCommand": "br11-gate-settle",
   "stopReason": null,
   "action": {
-    "id": "br10-key",
-    "op": "tap",
-    "x": 170,
-    "y": 613,
-    "note": "Fifth discovery via visible blue-ribbon key; check gate."
+    "id": "br11-gate-settle",
+    "op": "wait",
+    "ms": 1400,
+    "note": "Allow gate zoom after 5/5 to settle before touching visible entrance."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/5c274bc2657e83825b43865460eb9b6f89633d77/live-results/mofu-vis-b-recovery-20261017-s7k2f91/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/58ffb2dca6ffc07a61cd7817e5dd7871b349ed81/live-results/mofu-vis-b-recovery-20261017-s7k2f91/current.jpg",
   "readOnly": true,
   "blockedWrites": 7,
   "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-b-recovery-20261017-s7k2f91#garden",
@@ -186,6 +185,17 @@
         "w": 261,
         "h": 447
       }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "あの扉が、こちらを呼んでいる。\n触れて、向こうへ",
+      "disabled": false,
+      "rect": {
+        "x": 86,
+        "y": 289,
+        "w": 259,
+        "h": 66
+      }
     }
   ],
   "pageErrors": [],
@@ -350,6 +360,20 @@
       "error": null,
       "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-b-recovery-20261017-s7k2f91#garden",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/5c274bc2657e83825b43865460eb9b6f89633d77/live-results/mofu-vis-b-recovery-20261017-s7k2f91/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n5 / 5\n見つけたもの\n\nあの扉が、こちらを呼んでいる。\n触れて、向こうへ\n"
+    },
+    {
+      "number": 12,
+      "at": "2026-10-16T21:05:27.284Z",
+      "action": {
+        "id": "br11-gate-settle",
+        "op": "wait",
+        "ms": 1400,
+        "note": "Allow gate zoom after 5/5 to settle before touching visible entrance."
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-b-recovery-20261017-s7k2f91#garden",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/58ffb2dca6ffc07a61cd7817e5dd7871b349ed81/live-results/mofu-vis-b-recovery-20261017-s7k2f91/current.jpg",
       "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n5 / 5\n見つけたもの\n\nあの扉が、こちらを呼んでいる。\n触れて、向こうへ\n"
     }
   ]
