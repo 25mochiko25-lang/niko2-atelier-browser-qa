@@ -1,7 +1,7 @@
 {
-  "id": "r06",
+  "id": "r07",
   "op": "tap",
-  "x": 102,
-  "y": 575,
-  "note": "Touch visible perfume object (Garden discovery required for onward travel)."
+  "x": 380,
+  "y": 546,
+  "note": "Tap another visible Garden discovery while prior memory card is open."
 }
