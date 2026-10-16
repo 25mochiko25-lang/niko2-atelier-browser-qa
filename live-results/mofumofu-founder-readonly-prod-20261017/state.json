@@ -6,22 +6,22 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-16T20:12:11.097Z",
-  "updatedAt": "2026-10-16T20:26:56.645Z",
-  "lastCommand": "m28-lab-enter",
+  "updatedAt": "2026-10-16T20:27:14.603Z",
+  "lastCommand": "m29-lab-home",
   "stopReason": null,
   "action": {
-    "id": "m28-lab-enter",
+    "id": "m29-lab-home",
     "op": "tap",
-    "x": 119,
-    "y": 719,
-    "wait": 700,
-    "note": "Enter Research Lab intro and inspect 430x932 visual stage."
+    "x": 80,
+    "y": 35,
+    "wait": 620,
+    "note": "Return from Lab to Home through visible site logo."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/f1e3206aa2e1e60055521d33cb4eebf7dbe681d3/live-results/mofumofu-founder-readonly-prod-20261017/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/9789253a7060b0fe30ca20298e300b3caffdae93/live-results/mofumofu-founder-readonly-prod-20261017/current.jpg",
   "readOnly": true,
-  "blockedWrites": 19,
-  "url": "https://niko2atelier.com/?mofumofu_qa=mofumofu-founder-readonly-prod-20261017#lab",
+  "blockedWrites": 22,
+  "url": "https://niko2atelier.com/?mofumofu_qa=mofumofu-founder-readonly-prod-20261017",
   "title": "NIKO² ATELIER",
   "viewport": {
     "width": 430,
@@ -32,19 +32,8 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\nNIKO² ATELIER\n\n白と薄水色のガラス研究所。奥へ続く通路と、記録の置かれた観測台があります。\nMAIN LAB\n観測台\n\n\n\n観測台奥の保管室へ進む\n",
+  "text": "作品へ移動\n \nWORLD\nWORLD\n水面の向こうに、いくつかの場所がひらいています。\n\n\nABOUT\nもふもふはいます。\nPLAY / SHARE / FAN WORK\nNIKO²での生活について\n好きな形で遊ぶための、小さな境界。\nDEAR ATELIER\nお手紙を送る\nAtelierの受取箱へ。\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n",
   "controls": [
-    {
-      "tag": "A",
-      "text": "NIKO² ATELIER",
-      "disabled": false,
-      "rect": {
-        "x": 22,
-        "y": 13,
-        "w": 118,
-        "h": 44
-      }
-    },
     {
       "tag": "BUTTON",
       "text": "音をオンにする",
@@ -57,47 +46,47 @@
       }
     },
     {
-      "tag": "BUTTON",
-      "text": "戻る",
+      "tag": "A",
+      "text": "FROM THE ATELIERを開く",
       "disabled": false,
       "rect": {
-        "x": 14,
-        "y": 82,
-        "w": 40,
-        "h": 40
+        "x": 310,
+        "y": 303,
+        "w": 91,
+        "h": 92
+      }
+    },
+    {
+      "tag": "A",
+      "text": "Diaryを開く",
+      "disabled": false,
+      "rect": {
+        "x": 20,
+        "y": 330,
+        "w": 147,
+        "h": 147
       }
     },
     {
       "tag": "BUTTON",
-      "text": "観測台",
+      "text": "Enter the dream",
       "disabled": false,
       "rect": {
-        "x": 66,
-        "y": 392,
-        "w": 89,
-        "h": 303
+        "x": 110,
+        "y": 545,
+        "w": 210,
+        "h": 70
       }
     },
     {
-      "tag": "BUTTON",
-      "text": "奥の保管室へ進む",
+      "tag": "A",
+      "text": "WORLDを開く",
       "disabled": false,
       "rect": {
-        "x": 163,
-        "y": 337,
-        "w": 108,
-        "h": 187
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "障害シミュレーション／運用モードを開く",
-      "disabled": false,
-      "rect": {
-        "x": 292,
-        "y": 634,
-        "w": 72,
-        "h": 97
+        "x": 26,
+        "y": 878,
+        "w": 378,
+        "h": 213
       }
     }
   ],
@@ -558,6 +547,22 @@
       "url": "https://niko2atelier.com/?mofumofu_qa=mofumofu-founder-readonly-prod-20261017#lab",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/f1e3206aa2e1e60055521d33cb4eebf7dbe681d3/live-results/mofumofu-founder-readonly-prod-20261017/current.jpg",
       "text": "作品へ移動\nNIKO² ATELIER\n\n白と薄水色のガラス研究所。奥へ続く通路と、記録の置かれた観測台があります。\nMAIN LAB\n観測台\n\n\n\n観測台奥の保管室へ進む\n"
+    },
+    {
+      "number": 30,
+      "at": "2026-10-16T20:27:14.603Z",
+      "action": {
+        "id": "m29-lab-home",
+        "op": "tap",
+        "x": 80,
+        "y": 35,
+        "wait": 620,
+        "note": "Return from Lab to Home through visible site logo."
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofumofu-founder-readonly-prod-20261017",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/9789253a7060b0fe30ca20298e300b3caffdae93/live-results/mofumofu-founder-readonly-prod-20261017/current.jpg",
+      "text": "作品へ移動\n \nWORLD\nWORLD\n水面の向こうに、いくつかの場所がひらいています。\n\n\nABOUT\nもふもふはいます。\nPLAY / SHARE / FAN WORK\nNIKO²での生活について\n好きな形で遊ぶための、小さな境界。\nDEAR ATELIER\nお手紙を送る\nAtelierの受取箱へ。\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n"
     }
   ]
 }
