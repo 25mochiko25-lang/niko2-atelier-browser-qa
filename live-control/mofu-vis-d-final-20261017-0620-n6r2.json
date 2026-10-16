@@ -1,1 +1,1 @@
-{"id":"f15-garden-gate","op":"tap","x":326,"y":271,"note":"Enter unlocked gate to ROOM NULL route after confirmed 5/5."}
+{"id":"f16-gate-look","op":"look","wait":1600,"note":"Observe gate transition end and next visible controls."}
