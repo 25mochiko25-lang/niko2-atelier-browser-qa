@@ -1,1 +1,1 @@
-{"id":"f24-roomnull","op":"tap","x":365,"y":432,"note":"Tap visible WORLD ROOM NULL portal for independent D inspection."}
+{"id":"f25-open-door","op":"tap","x":382,"y":558,"note":"Open actual ROOM NULL door at visible handle; inspect interior."}
