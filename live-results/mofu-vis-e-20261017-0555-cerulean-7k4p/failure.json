@@ -1,0 +1,245 @@
+{
+  "session": "mofu-vis-e-20261017-0555-cerulean-7k4p",
+  "device": "founder",
+  "stopReason": "infrastructure_error",
+  "error": "Error: GitHub 409: {\"message\":\"is at ff181185a4176f7e310ee677e966e44cc6ffb822 but expected 2a38fccbcd8d057e6b25583f410f35ec9eef3987\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"409\"}",
+  "events": [
+    {
+      "number": 1,
+      "at": "2026-10-16T20:56:45.250Z",
+      "action": {
+        "op": "arrival"
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-e-20261017-0555-cerulean-7k4p",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/7018f4bc97f7d6908fb28316df4073201f49a6d1/live-results/mofu-vis-e-20261017-0555-cerulean-7k4p/current.jpg",
+      "text": "作品へ移動\n\n"
+    },
+    {
+      "number": 2,
+      "at": "2026-10-16T20:57:26.958Z",
+      "action": {
+        "id": "e01-enter",
+        "op": "tap",
+        "x": 207,
+        "y": 580,
+        "note": "Enter the dream via visible button"
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-e-20261017-0555-cerulean-7k4p",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/520eafb33650458746b483b4c474f8db8bdbd5c3/live-results/mofu-vis-e-20261017-0555-cerulean-7k4p/current.jpg",
+      "text": "作品へ移動\n\n\nWORLD\n夢の入り口は、毎回すこし違う。 夢から醒めても何かは残る。\n次へ"
+    },
+    {
+      "number": 3,
+      "at": "2026-10-16T20:58:01.004Z",
+      "action": {
+        "id": "e02-intro-next1",
+        "op": "tap",
+        "x": 375,
+        "y": 856,
+        "note": "Proceed through visible introduction"
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-e-20261017-0555-cerulean-7k4p",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/bc5ef968e6d16779e433e4bd6ff5e2e80f00f38a/live-results/mofu-vis-e-20261017-0555-cerulean-7k4p/current.jpg",
+      "text": "作品へ移動\n\n\nINTERACTION\n\nSound On\n\nSound Off\n触れる\n持ち帰る\n仕舞う\n次へ戻る"
+    },
+    {
+      "number": 4,
+      "at": "2026-10-16T20:58:21.320Z",
+      "action": {
+        "id": "e03-intro-next2",
+        "op": "tap",
+        "x": 375,
+        "y": 856,
+        "note": "Advance introduction to final pane"
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-e-20261017-0555-cerulean-7k4p",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/fc136a54b00a40ce56741b0233155a04211eddbe/live-results/mofu-vis-e-20261017-0555-cerulean-7k4p/current.jpg",
+      "text": "作品へ移動\n\n\nWELCOME\nようこそ！\n夢へ入る戻る"
+    },
+    {
+      "number": 5,
+      "at": "2026-10-16T20:58:41.829Z",
+      "action": {
+        "id": "e04-enter-world",
+        "op": "tap",
+        "x": 370,
+        "y": 856,
+        "note": "Open public production world"
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-e-20261017-0555-cerulean-7k4p#garden",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/0285304ed2ee0dec677241e51835a359bc9e7b0b/live-results/mofu-vis-e-20261017-0555-cerulean-7k4p/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n席を立ったあとの庭にも、\n持ち主より長く夢を見るものがいる。\n\nこの空へ入る\n0 / 5\n見つけたもの\n"
+    },
+    {
+      "number": 6,
+      "at": "2026-10-16T20:59:05.056Z",
+      "action": {
+        "id": "e05-garden-enter",
+        "op": "tap",
+        "x": 211,
+        "y": 875,
+        "note": "Continue through visible garden entrance toward Diary navigation"
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-e-20261017-0555-cerulean-7k4p#garden",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/455fa9e8226b6aa5264fa5fd00c528f2d45f13a6/live-results/mofu-vis-e-20261017-0555-cerulean-7k4p/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n0 / 5\n見つけたもの\n"
+    },
+    {
+      "number": 7,
+      "at": "2026-10-16T20:59:28.315Z",
+      "action": {
+        "id": "e06-memory-button",
+        "op": "tap",
+        "x": 386,
+        "y": 72,
+        "note": "Inspect visible top-right memory button and any resulting dialog"
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-e-20261017-0555-cerulean-7k4p#quiet",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/804c31acb284038adafc0314df24191978c80c39/live-results/mofu-vis-e-20261017-0555-cerulean-7k4p/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n白い街が、門の向こうで一斉に組み上がった。\n\n"
+    },
+    {
+      "number": 8,
+      "at": "2026-10-16T20:59:49.345Z",
+      "action": {
+        "id": "e07-settle",
+        "op": "wait",
+        "ms": 2200,
+        "note": "Observe page after transition finishes"
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-e-20261017-0555-cerulean-7k4p#quiet",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/dee2d06dc265d24239ce821b19688fb48cd3f5c1/live-results/mofu-vis-e-20261017-0555-cerulean-7k4p/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n夢を離れる"
+    },
+    {
+      "number": 9,
+      "at": "2026-10-16T21:00:19.386Z",
+      "action": {
+        "id": "e08-exit-dream",
+        "op": "tap",
+        "x": 73,
+        "y": 890,
+        "note": "Follow visible leave dream control toward HOME and Diary"
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-e-20261017-0555-cerulean-7k4p#quiet",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/5ea57e33e5e5b773446ffa7bd189687a166bdaf3/live-results/mofu-vis-e-20261017-0555-cerulean-7k4p/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n夢を離れる\n\nDREAM MEMORY\n\n夢から残ったもの\n\nWORLD MEMORY\nMEMORY FRAGMENT\n雲間に残った街の窓\nまだ住所を持たない街から、足元へ滑った小さなタイル。\n言葉を添える\n何も残さず、アトリエへ戻る\nDiaryへ持ち帰る"
+    },
+    {
+      "number": 10,
+      "at": "2026-10-16T21:00:45.511Z",
+      "action": {
+        "id": "e09-memory-caption",
+        "op": "tap",
+        "x": 96,
+        "y": 585,
+        "note": "Inspect optional caption input without typing personal content"
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-e-20261017-0555-cerulean-7k4p#quiet",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/e9a91d6e5a42c08244dd88f98c1f09ab19e27e3f/live-results/mofu-vis-e-20261017-0555-cerulean-7k4p/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n夢を離れる\n\nDREAM MEMORY\n\n夢から残ったもの\n\nWORLD MEMORY\nMEMORY FRAGMENT\n雲間に残った街の窓\nまだ住所を持たない街から、足元へ滑った小さなタイル。\n言葉を閉じる\n夢のあとに残す言葉\n\n何も残さず、アトリエへ戻る\nDiaryへ持ち帰る"
+    },
+    {
+      "number": 11,
+      "at": "2026-10-16T21:01:18.762Z",
+      "action": {
+        "id": "e10-discard-memory",
+        "op": "tap",
+        "x": 211,
+        "y": 823,
+        "note": "Decline saving fragment, return to Atelier without submitting text"
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-e-20261017-0555-cerulean-7k4p",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/fe31f72067125972507271a276458fadd375f34f/live-results/mofu-vis-e-20261017-0555-cerulean-7k4p/current.jpg",
+      "text": "作品へ移動\n \nWORLD\nWORLD\n水面の向こうに、いくつかの場所がひらいています。\n\n\nABOUT\nもふもふはいます。\nPLAY / SHARE / FAN WORK\nNIKO²での生活について\n好きな形で遊ぶための、小さな境界。\nDEAR ATELIER\nお手紙を送る\nAtelierの受取箱へ。\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n\nAFTER THE GARDEN\nこの庭を、短く通り抜けました。\n次へ"
+    },
+    {
+      "number": 12,
+      "at": "2026-10-16T21:01:39.499Z",
+      "action": {
+        "id": "e11-after-next1",
+        "op": "tap",
+        "x": 369,
+        "y": 855,
+        "note": "Inspect first follow-up introduction after leaving Garden"
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-e-20261017-0555-cerulean-7k4p",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/537b4ac83ecaeb5bc2a3a76c7b6d6294218071fe/live-results/mofu-vis-e-20261017-0555-cerulean-7k4p/current.jpg",
+      "text": "作品へ移動\n \nWORLD\nWORLD\n水面の向こうに、いくつかの場所がひらいています。\n\n\nABOUT\nもふもふはいます。\nPLAY / SHARE / FAN WORK\nNIKO²での生活について\n好きな形で遊ぶための、小さな境界。\nDEAR ATELIER\nお手紙を送る\nAtelierの受取箱へ。\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n\nWHAT REMAINED\n最後に見た景色が、 ここに残りました。\n次へ戻る"
+    },
+    {
+      "number": 13,
+      "at": "2026-10-16T21:02:02.179Z",
+      "action": {
+        "id": "e12-after-next2",
+        "op": "tap",
+        "x": 370,
+        "y": 858,
+        "note": "Continue follow-up introduction"
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-e-20261017-0555-cerulean-7k4p",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/478f2b5973bf15618ad43041baf835e0ccc8a6c1/live-results/mofu-vis-e-20261017-0555-cerulean-7k4p/current.jpg",
+      "text": "作品へ移動\n \nWORLD\nWORLD\n水面の向こうに、いくつかの場所がひらいています。\n\n\nABOUT\nもふもふはいます。\nPLAY / SHARE / FAN WORK\nNIKO²での生活について\n好きな形で遊ぶための、小さな境界。\nDEAR ATELIER\nお手紙を送る\nAtelierの受取箱へ。\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n\nNIKO² ATELIER\nあなたの夢は、NIKO² ATELIERとともに、 この世界を少しずつ広げていきます。  この先も世界が広がっています。 あとは、ご自由に。\n次へ戻る"
+    },
+    {
+      "number": 14,
+      "at": "2026-10-16T21:02:27.159Z",
+      "action": {
+        "id": "e13-after-next3",
+        "op": "tap",
+        "x": 370,
+        "y": 858,
+        "note": "Continue final onboarding page"
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-e-20261017-0555-cerulean-7k4p",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/d5c4ca6d64ac2d63c857b30fc6e2ea9829d2a45c/live-results/mofu-vis-e-20261017-0555-cerulean-7k4p/current.jpg",
+      "text": "作品へ移動\n \nWORLD\nWORLD\n水面の向こうに、いくつかの場所がひらいています。\n\n\nABOUT\nもふもふはいます。\nPLAY / SHARE / FAN WORK\nNIKO²での生活について\n好きな形で遊ぶための、小さな境界。\nDEAR ATELIER\nお手紙を送る\nAtelierの受取箱へ。\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n\nNEXT PLACES\nこの先に、二つの場所がひらいています。\nどちらを選んでも、選ばなくても大丈夫です。\n\n\nResearch Lab\nこの世界について残された記録を読む場所。\n\n\nCloud Garden\n別の夢を、もう一度見る場所。\n戻る完了"
+    },
+    {
+      "number": 15,
+      "at": "2026-10-16T21:02:53.567Z",
+      "action": {
+        "id": "e14-after-finish",
+        "op": "tap",
+        "x": 373,
+        "y": 857,
+        "note": "Finish visible post-Garden instructions and inspect HOME"
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-e-20261017-0555-cerulean-7k4p",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/e49533b8cc5c13e8b18f9d91d3a9378379c6ba3a/live-results/mofu-vis-e-20261017-0555-cerulean-7k4p/current.jpg",
+      "text": "作品へ移動\n \nWORLD\nWORLD\n水面の向こうに、いくつかの場所がひらいています。\n\n\nABOUT\nもふもふはいます。\nPLAY / SHARE / FAN WORK\nNIKO²での生活について\n好きな形で遊ぶための、小さな境界。\nDEAR ATELIER\nお手紙を送る\nAtelierの受取箱へ。\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n"
+    },
+    {
+      "number": 16,
+      "at": "2026-10-16T21:03:14.390Z",
+      "action": {
+        "id": "e15-open-diary",
+        "op": "tap",
+        "x": 92,
+        "y": 389,
+        "note": "Open Diary using visible floating book on HOME"
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-e-20261017-0555-cerulean-7k4p#diary",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/cb42487de24f085623d471fa03cae804ac4af9fc/live-results/mofu-vis-e-20261017-0555-cerulean-7k4p/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\nDream\nDiary\nAbout\n\nNIKO² DIARY\nDiary\n今日のことを、ひとつだけ。\n10月17日 06:03\nTODAY\n今日を残す\n選んだ記憶が、ここに書きとめてあります。\nあなたの言葉を、添えても構いません。\n✦\nいまの気配\n\n静か\n\nきらきら\n\nぼんやり\n\nざわざわ\n\n甘い\n\n雨っぽい\n\n眠い\n\n何もない\nPHOTO\n写真\n選択なし\nまち\n部屋\n買ったもの\n遊び\n食べもの\nその他\n写真を眺める\n‹\n›\n\n\n自販機\n\n\nホーム\n\n\n改札\n\n\n途中\n\n\nロッカー\n\n\nエレベーター\n\n\nガラス扉\n\n\n空席\n\n\n雨の改札\n\n\n22:47\n\n\n青空\n\n\n夕方\n\n\n夜空\n\n\n空の間\n\n\n夕方の壁\n\n\n雨あがり\n言葉\nOPTIONAL\nこの端末だけに残ります\n残す\n2026年10月\nMONTHLY REFLECTION\n今月の景色\nまだ何も残っていません。\n最初のひとつを持ち帰ると、ここから景色が育ちます。\nARCHIVE\n前の日々をひらく\n\nWHAT REMAINED\n残ったものを見る\nアトリエへ戻る\n"
+    }
+  ],
+  "pageErrors": [],
+  "httpErrors": []
+}
