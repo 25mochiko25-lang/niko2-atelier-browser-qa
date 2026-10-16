@@ -1,1 +1,1 @@
-{"id":"m26-world","op":"tap","x":206,"y":901,"wait":900,"note":"Open WORLD from Home, check viewport and portal layout."}
+{"id":"m27-lab","op":"tap","x":92,"y":424,"wait":880,"note":"Enter Research Lab from visible WORLD portal, inspect canvas fit."}
