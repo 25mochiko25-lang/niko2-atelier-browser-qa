@@ -6,18 +6,18 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-16T20:53:07.241Z",
-  "updatedAt": "2026-10-16T21:09:18.205Z",
-  "lastCommand": "c39",
+  "updatedAt": "2026-10-16T21:09:41.937Z",
+  "lastCommand": "c40",
   "stopReason": null,
   "action": {
-    "id": "c39",
+    "id": "c40",
     "op": "tap",
-    "x": 391,
-    "y": 164,
-    "note": "Close orange archive document and inspect old terminal"
+    "x": 268,
+    "y": 445,
+    "note": "Inspect old monitor / terminal in rear archive"
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/6d4a8d1ecb8e46c8b695fdfb358516d0ab8bd9d7/live-results/mofu-vis-c-20261017-0551-j7x4/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/e30ad34849caa611010bb99da641031d3fb49db5/live-results/mofu-vis-c-20261017-0551-j7x4/current.jpg",
   "readOnly": true,
   "blockedWrites": 21,
   "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-c-20261017-0551-j7x4#lab",
@@ -31,7 +31,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\nNIKO² ATELIER\n\n白と薄水色のガラス研究所。奥へ続く通路と、記録の置かれた観測台があります。\nARCHIVE CHAMBER\n奥の保管室\n\n\n\n\nDOOR EXPERIMENT / D-00を開きました。\n",
+  "text": "作品へ移動\nNIKO² ATELIER\n\n白と薄水色のガラス研究所。奥へ続く通路と、記録の置かれた観測台があります。\nARCHIVE CHAMBER\n奥の保管室\n\n\n\n\nARCHIVE CHAMBER // N²-Ω\n\n\nN²-Ω\n終了後挙動観測記録\nSTATE\nACTIVE\n終了日\n記録なし\n停止権限\nNONE\n観測終了後も反応を続ける記録\n観測対象：実験 N²-Ω の終了後挙動。\n\n通常記録\n「2026年に観測開始。主任研究員はNIKO、システム監督はMOFUMOFU。」\n異常観測\n「観測終了後も内部の反応が続いている。終了日は記録されず、状態はACTIVEのまま。」\n実験目的\n未記載\nRELATED: OMEGA / ACCESS_NONE\nARCHIVE COPY / VIEW ONLY\nN²-Ωを開きました。\n",
   "controls": [
     {
       "tag": "A",
@@ -97,6 +97,17 @@
         "y": 364,
         "w": 175,
         "h": 150
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "研究資料を閉じる",
+      "disabled": false,
+      "rect": {
+        "x": 370,
+        "y": 141,
+        "w": 44,
+        "h": 44
       }
     }
   ],
@@ -697,6 +708,21 @@
       "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-c-20261017-0551-j7x4#lab",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/6d4a8d1ecb8e46c8b695fdfb358516d0ab8bd9d7/live-results/mofu-vis-c-20261017-0551-j7x4/current.jpg",
       "text": "作品へ移動\nNIKO² ATELIER\n\n白と薄水色のガラス研究所。奥へ続く通路と、記録の置かれた観測台があります。\nARCHIVE CHAMBER\n奥の保管室\n\n\n\n\nDOOR EXPERIMENT / D-00を開きました。\n"
+    },
+    {
+      "number": 41,
+      "at": "2026-10-16T21:09:41.937Z",
+      "action": {
+        "id": "c40",
+        "op": "tap",
+        "x": 268,
+        "y": 445,
+        "note": "Inspect old monitor / terminal in rear archive"
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-c-20261017-0551-j7x4#lab",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/e30ad34849caa611010bb99da641031d3fb49db5/live-results/mofu-vis-c-20261017-0551-j7x4/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\n\n白と薄水色のガラス研究所。奥へ続く通路と、記録の置かれた観測台があります。\nARCHIVE CHAMBER\n奥の保管室\n\n\n\n\nARCHIVE CHAMBER // N²-Ω\n\n\nN²-Ω\n終了後挙動観測記録\nSTATE\nACTIVE\n終了日\n記録なし\n停止権限\nNONE\n観測終了後も反応を続ける記録\n観測対象：実験 N²-Ω の終了後挙動。\n\n通常記録\n「2026年に観測開始。主任研究員はNIKO、システム監督はMOFUMOFU。」\n異常観測\n「観測終了後も内部の反応が続いている。終了日は記録されず、状態はACTIVEのまま。」\n実験目的\n未記載\nRELATED: OMEGA / ACCESS_NONE\nARCHIVE COPY / VIEW ONLY\nN²-Ωを開きました。\n"
     }
   ]
 }
