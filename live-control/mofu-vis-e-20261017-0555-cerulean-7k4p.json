@@ -1,7 +1,5 @@
 {
-  "id": "e16-diary-photo-select",
-  "op": "tap",
-  "x": 120,
-  "y": 867,
-  "note": "Inspect Diary stock-photo selection, do not save entry"
+  "id": "e-end-stop",
+  "op": "stop",
+  "reason": "E visual audit concluded after GitHub 409 infrastructure_error; no live runner remained"
 }
