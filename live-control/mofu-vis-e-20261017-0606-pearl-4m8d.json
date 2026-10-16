@@ -1,7 +1,5 @@
 {
-  "id": "r11-after2",
-  "op": "tap",
-  "x": 372,
-  "y": 858,
-  "note": "Continue previously-seen next page"
+  "id": "r-end-stop",
+  "op": "stop",
+  "reason": "E visual audit concluded after GitHub 409 infrastructure_error; no live runner remained"
 }
