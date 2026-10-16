@@ -6,21 +6,21 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-16T21:02:55.000Z",
-  "updatedAt": "2026-10-16T21:10:21.636Z",
-  "lastCommand": "r17",
+  "updatedAt": "2026-10-16T21:10:48.661Z",
+  "lastCommand": "r18",
   "stopReason": null,
   "action": {
-    "id": "r17",
+    "id": "r18",
     "op": "tap",
-    "x": 376,
-    "y": 859,
-    "note": "Advance guide toward free exploration."
+    "x": 235,
+    "y": 556,
+    "note": "Choose the visibly offered HOTEL SOMNIA card."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/732cb8025d433cf737dbf8355d65383404174e81/live-results/mofu-vis-f-20261017-0603-h4k9/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/7ffda37053f338422f50bbab3adc248109e1a7d2/live-results/mofu-vis-f-20261017-0603-h4k9/current.jpg",
   "readOnly": true,
-  "blockedWrites": 11,
-  "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-f-20261017-0603-h4k9",
+  "blockedWrites": 13,
+  "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-f-20261017-0603-h4k9#hotel",
   "title": "NIKO² ATELIER",
   "viewport": {
     "width": 430,
@@ -31,8 +31,19 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n \nWORLD\nWORLD\n水面の向こうに、いくつかの場所がひらいています。\n\n\nABOUT\nもふもふはいます。\nPLAY / SHARE / FAN WORK\nNIKO²での生活について\n好きな形で遊ぶための、小さな境界。\nDEAR ATELIER\nお手紙を送る\nAtelierの受取箱へ。\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n\nNEXT PLACES\nこの先に、二つの場所がひらいています。\nどちらを選んでも、選ばなくても大丈夫です。\n\n\nAbout\nこのアトリエについて残された、ひとつの印。\n\n\nHOTEL SOMNIA\n選ばれたお客様のために、一晩だけ開くホテル。\n戻る完了",
+  "text": "作品へ移動\nNIKO² ATELIER\n\n\nDREAM / ROOM 0317\nHOTEL SOMNIA\nSTAY 0 / 3\nFRONT DESK / ROOM 0317\n今夜も、同じ部屋をご用意しました。\n\n最初の三泊は、いつでもお越しいただけます。あと3泊。\n\nCHECK IN",
   "controls": [
+    {
+      "tag": "A",
+      "text": "NIKO² ATELIER",
+      "disabled": false,
+      "rect": {
+        "x": 22,
+        "y": 13,
+        "w": 118,
+        "h": 44
+      }
+    },
     {
       "tag": "BUTTON",
       "text": "音をオンにする",
@@ -46,90 +57,24 @@
     },
     {
       "tag": "A",
-      "text": "FROM THE ATELIERを開く",
+      "text": "アトリエへ戻る",
       "disabled": false,
       "rect": {
-        "x": 310,
-        "y": 303,
-        "w": 91,
-        "h": 92
-      }
-    },
-    {
-      "tag": "A",
-      "text": "Diaryを開く",
-      "disabled": false,
-      "rect": {
-        "x": 20,
-        "y": 330,
-        "w": 147,
-        "h": 147
+        "x": 14,
+        "y": 82,
+        "w": 40,
+        "h": 40
       }
     },
     {
       "tag": "BUTTON",
-      "text": "Enter the dream",
+      "text": "CHECK IN",
       "disabled": false,
       "rect": {
-        "x": 110,
-        "y": 545,
-        "w": 210,
-        "h": 70
-      }
-    },
-    {
-      "tag": "A",
-      "text": "WORLDを開く",
-      "disabled": false,
-      "rect": {
-        "x": 26,
-        "y": 878,
-        "w": 378,
-        "h": 213
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "About\nこのアトリエについて残された、ひとつの印。",
-      "disabled": false,
-      "rect": {
-        "x": 46,
-        "y": 350,
-        "w": 338,
-        "h": 134
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "HOTEL SOMNIA\n選ばれたお客様のために、一晩だけ開くホテル。",
-      "disabled": false,
-      "rect": {
-        "x": 46,
-        "y": 494,
-        "w": 338,
-        "h": 134
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "戻る",
-      "disabled": false,
-      "rect": {
-        "x": 18,
-        "y": 836,
-        "w": 72,
-        "h": 44
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "完了",
-      "disabled": false,
-      "rect": {
-        "x": 340,
-        "y": 836,
-        "w": 72,
-        "h": 44
+        "x": 36,
+        "y": 789,
+        "w": 116,
+        "h": 46
       }
     }
   ],
@@ -400,6 +345,21 @@
       "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-f-20261017-0603-h4k9",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/732cb8025d433cf737dbf8355d65383404174e81/live-results/mofu-vis-f-20261017-0603-h4k9/current.jpg",
       "text": "作品へ移動\n \nWORLD\nWORLD\n水面の向こうに、いくつかの場所がひらいています。\n\n\nABOUT\nもふもふはいます。\nPLAY / SHARE / FAN WORK\nNIKO²での生活について\n好きな形で遊ぶための、小さな境界。\nDEAR ATELIER\nお手紙を送る\nAtelierの受取箱へ。\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n\nNEXT PLACES\nこの先に、二つの場所がひらいています。\nどちらを選んでも、選ばなくても大丈夫です。\n\n\nAbout\nこのアトリエについて残された、ひとつの印。\n\n\nHOTEL SOMNIA\n選ばれたお客様のために、一晩だけ開くホテル。\n戻る完了"
+    },
+    {
+      "number": 19,
+      "at": "2026-10-16T21:10:48.661Z",
+      "action": {
+        "id": "r18",
+        "op": "tap",
+        "x": 235,
+        "y": 556,
+        "note": "Choose the visibly offered HOTEL SOMNIA card."
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-f-20261017-0603-h4k9#hotel",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/7ffda37053f338422f50bbab3adc248109e1a7d2/live-results/mofu-vis-f-20261017-0603-h4k9/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\n\n\nDREAM / ROOM 0317\nHOTEL SOMNIA\nSTAY 0 / 3\nFRONT DESK / ROOM 0317\n今夜も、同じ部屋をご用意しました。\n\n最初の三泊は、いつでもお越しいただけます。あと3泊。\n\nCHECK IN"
     }
   ]
 }
