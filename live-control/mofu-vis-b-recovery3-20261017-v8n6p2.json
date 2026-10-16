@@ -1,1 +1,1 @@
-{"id":"bc15-aftertake-wait","op":"wait","ms":1400,"note":"After-taking petal first tap displayed nothing; settle animation before retest."}
+{"id":"bc16-aftertake-retap","op":"tap","x":120,"y":824,"note":"Retap still-visible petal after 1.4s wait; verify whether souvenir can be reopened after taking."}
