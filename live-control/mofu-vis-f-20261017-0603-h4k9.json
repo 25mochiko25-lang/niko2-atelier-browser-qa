@@ -1,7 +1,7 @@
 {
-  "id": "r01",
+  "id": "r02",
   "op": "tap",
-  "x": 214,
-  "y": 580,
-  "note": "Enter dream via visible splash button."
+  "x": 375,
+  "y": 858,
+  "note": "Follow visible next onboarding control."
 }
