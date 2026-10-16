@@ -6,18 +6,20 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-16T20:48:51.710Z",
-  "updatedAt": "2026-10-16T20:53:32.972Z",
-  "lastCommand": "a07-close-cup",
+  "updatedAt": "2026-10-16T20:53:49.956Z",
+  "lastCommand": "a08-scroll-check",
   "stopReason": null,
   "action": {
-    "id": "a07-close-cup",
-    "op": "tap",
-    "x": 375,
-    "y": 770,
-    "note": "Close first memory window and inspect return without layout jump."
+    "id": "a08-scroll-check",
+    "op": "scroll",
+    "x": 210,
+    "y": 651,
+    "dx": 0,
+    "dy": 542,
+    "note": "Check whether Garden's blank bands cause unnecessary vertical page movement; synthetic wheel, not finger swipe."
   },
-  "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/5d7f906f1fa3b2ad8f5c1ff0af23f14b7f198754/live-results/mofu-vis-a-20261017-0547-r8q3/current.jpg",
+  "error": "Error: mouse.wheel: Mouse wheel is not supported in mobile WebKit",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/1169e3026884a883dc08a4dc6eb81aa9dd57893d/live-results/mofu-vis-a-20261017-0547-r8q3/current.jpg",
   "readOnly": true,
   "blockedWrites": 5,
   "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-a-20261017-0547-r8q3#garden",
@@ -316,6 +318,23 @@
       "error": null,
       "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-a-20261017-0547-r8q3#garden",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/5d7f906f1fa3b2ad8f5c1ff0af23f14b7f198754/live-results/mofu-vis-a-20261017-0547-r8q3/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n1 / 5\n見つけたもの\n"
+    },
+    {
+      "number": 9,
+      "at": "2026-10-16T20:53:49.956Z",
+      "action": {
+        "id": "a08-scroll-check",
+        "op": "scroll",
+        "x": 210,
+        "y": 651,
+        "dx": 0,
+        "dy": 542,
+        "note": "Check whether Garden's blank bands cause unnecessary vertical page movement; synthetic wheel, not finger swipe."
+      },
+      "error": "Error: mouse.wheel: Mouse wheel is not supported in mobile WebKit",
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-a-20261017-0547-r8q3#garden",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/1169e3026884a883dc08a4dc6eb81aa9dd57893d/live-results/mofu-vis-a-20261017-0547-r8q3/current.jpg",
       "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n1 / 5\n見つけたもの\n"
     }
   ]
