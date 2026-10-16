@@ -1,7 +1,7 @@
 {
-  "id": "c21",
+  "id": "c22",
   "op": "tap",
-  "x": 213,
-  "y": 902,
-  "note": "Tap visible portion of WORLD card; WebKit mobile scroll command is unsupported in QA harness"
+  "x": 93,
+  "y": 431,
+  "note": "Enter Research Lab through the visible left portal in WORLD"
 }
