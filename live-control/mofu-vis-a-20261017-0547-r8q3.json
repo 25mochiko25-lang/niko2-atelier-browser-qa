@@ -1,9 +1,7 @@
 {
-  "id": "a08-scroll-check",
-  "op": "scroll",
-  "x": 210,
-  "y": 651,
-  "dx": 0,
-  "dy": 542,
-  "note": "Check whether Garden's blank bands cause unnecessary vertical page movement; synthetic wheel, not finger swipe."
+  "id": "a09-top-memory",
+  "op": "tap",
+  "x": 387,
+  "y": 74,
+  "note": "Check tiny top-right Dream memory entry and any adjacent panel proportions."
 }
