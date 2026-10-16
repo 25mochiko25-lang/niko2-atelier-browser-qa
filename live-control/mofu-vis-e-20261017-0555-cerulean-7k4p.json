@@ -1,7 +1,6 @@
 {
-  "id": "e06-memory-button",
-  "op": "tap",
-  "x": 386,
-  "y": 72,
-  "note": "Inspect visible top-right memory button and any resulting dialog"
+  "id": "e07-settle",
+  "op": "wait",
+  "ms": 2200,
+  "note": "Observe page after transition finishes"
 }
