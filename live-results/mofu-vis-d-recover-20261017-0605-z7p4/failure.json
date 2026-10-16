@@ -1,0 +1,246 @@
+{
+  "session": "mofu-vis-d-recover-20261017-0605-z7p4",
+  "device": "founder",
+  "stopReason": "infrastructure_error",
+  "error": "Error: GitHub 409: {\"message\":\"is at b39a1c5f7b1a48d2849155704d510e217d780ed4 but expected 76147ecc2799bc90fae04f058ce051515d2e75c9\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"409\"}",
+  "events": [
+    {
+      "number": 1,
+      "at": "2026-10-16T21:05:56.885Z",
+      "action": {
+        "op": "arrival"
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-d-recover-20261017-0605-z7p4",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/50c794b43acc675afcafa01f7198760cc70305d2/live-results/mofu-vis-d-recover-20261017-0605-z7p4/current.jpg",
+      "text": "作品へ移動\n\n"
+    },
+    {
+      "number": 2,
+      "at": "2026-10-16T21:06:19.121Z",
+      "action": {
+        "id": "r01-enter",
+        "op": "tap",
+        "x": 204,
+        "y": 578,
+        "note": "Recovery transit through verified dream entrance."
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-d-recover-20261017-0605-z7p4",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/dd52fc9e86377d7af12925c7895822f0c6b33e62/live-results/mofu-vis-d-recover-20261017-0605-z7p4/current.jpg",
+      "text": "作品へ移動\n\n\nWORLD\n夢の入り口は、毎回すこし違う。 夢から醒めても何かは残る。\n次へ"
+    },
+    {
+      "number": 3,
+      "at": "2026-10-16T21:06:37.887Z",
+      "action": {
+        "id": "r02-next",
+        "op": "tap",
+        "x": 375,
+        "y": 858,
+        "note": "Recovery transit WORLD intro next."
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-d-recover-20261017-0605-z7p4",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/198e601cdd70433093e3940886dff51e36928f1d/live-results/mofu-vis-d-recover-20261017-0605-z7p4/current.jpg",
+      "text": "作品へ移動\n\n\nINTERACTION\n\nSound On\n\nSound Off\n触れる\n持ち帰る\n仕舞う\n次へ戻る"
+    },
+    {
+      "number": 4,
+      "at": "2026-10-16T21:06:59.872Z",
+      "action": {
+        "id": "r03-next",
+        "op": "tap",
+        "x": 375,
+        "y": 857,
+        "note": "Recovery transit INTERACTION tutorial next."
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-d-recover-20261017-0605-z7p4",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/b618d5213a7e866351bed198d96c47ee3c359509/live-results/mofu-vis-d-recover-20261017-0605-z7p4/current.jpg",
+      "text": "作品へ移動\n\n\nWELCOME\nようこそ！\n夢へ入る戻る"
+    },
+    {
+      "number": 5,
+      "at": "2026-10-16T21:07:22.922Z",
+      "action": {
+        "id": "r04-enter-garden",
+        "op": "tap",
+        "x": 369,
+        "y": 856,
+        "note": "Recovery enter dream into Garden."
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-d-recover-20261017-0605-z7p4#garden",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/437ace78b1b2883b06faf30d872bfbb4dfe21bfb/live-results/mofu-vis-d-recover-20261017-0605-z7p4/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n席を立ったあとの庭にも、\n持ち主より長く夢を見るものがいる。\n\nこの空へ入る\n0 / 5\n見つけたもの\n"
+    },
+    {
+      "number": 6,
+      "at": "2026-10-16T21:07:46.556Z",
+      "action": {
+        "id": "r05-explore-garden",
+        "op": "tap",
+        "x": 203,
+        "y": 871,
+        "note": "Recovery Garden exploration."
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-d-recover-20261017-0605-z7p4#garden",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/e2a1fed6409402cee705cee3e89d9d242e0f265d/live-results/mofu-vis-d-recover-20261017-0605-z7p4/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n0 / 5\n見つけたもの\n"
+    },
+    {
+      "number": 7,
+      "at": "2026-10-16T21:08:02.057Z",
+      "action": {
+        "id": "r06-hourglass",
+        "op": "tap",
+        "x": 49,
+        "y": 448,
+        "note": "Collect first Garden memory to unlock WORLD."
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-d-recover-20261017-0605-z7p4#garden",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/cfa249c78a081bb2a8fe4b13f180d16620732d42/live-results/mofu-vis-d-recover-20261017-0605-z7p4/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n1 / 5\n見つけたもの\nCG-01-A_01.DRM\n06:07:58\n\nFRAGMENT / 01\n\n止まりかけの砂時計\n砂は落ちていく。 逆さまに。巻き戻るように。\n"
+    },
+    {
+      "number": 8,
+      "at": "2026-10-16T21:08:26.835Z",
+      "action": {
+        "id": "r07-close-hourglass",
+        "op": "tap",
+        "x": 375,
+        "y": 769,
+        "note": "Close first memory before next Garden discovery."
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-d-recover-20261017-0605-z7p4#garden",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/afe2f48406ece548c2dc2c4f91d986e5008ba644/live-results/mofu-vis-d-recover-20261017-0605-z7p4/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n1 / 5\n見つけたもの\n"
+    },
+    {
+      "number": 9,
+      "at": "2026-10-16T21:08:52.221Z",
+      "action": {
+        "id": "r08-perfume",
+        "op": "tap",
+        "x": 103,
+        "y": 565,
+        "note": "Discover visible perfume Garden memory."
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-d-recover-20261017-0605-z7p4#garden",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/5f2452daab74238d359a0ec8a258215d83893da3/live-results/mofu-vis-d-recover-20261017-0605-z7p4/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n2 / 5\n見つけたもの\nCG-01-A_02.DRM\n06:08:46\n\nFRAGMENT / 02\n\nN² Eau de rêve\nキャップは常に閉じているのに、帰らない部屋の香りがした。\n"
+    },
+    {
+      "number": 10,
+      "at": "2026-10-16T21:09:11.905Z",
+      "action": {
+        "id": "r09-close-perfume",
+        "op": "tap",
+        "x": 376,
+        "y": 754,
+        "note": "Close perfume fragment."
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-d-recover-20261017-0605-z7p4#garden",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/c8d2b1150fbc0bf25e6829a42bccd82da24353ba/live-results/mofu-vis-d-recover-20261017-0605-z7p4/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n2 / 5\n見つけたもの\n"
+    },
+    {
+      "number": 11,
+      "at": "2026-10-16T21:09:35.671Z",
+      "action": {
+        "id": "r10-cup",
+        "op": "tap",
+        "x": 236,
+        "y": 545,
+        "note": "Collect Garden cup memory needed for WORLD route."
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-d-recover-20261017-0605-z7p4#garden",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/98b12c2147217000ea3883d233f584add2d1c461/live-results/mofu-vis-d-recover-20261017-0605-z7p4/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n3 / 5\n見つけたもの\nCG-01-A_03.DRM\n06:09:32\n\nFRAGMENT / 03\n\nまだあたたかいカップ\nほんのり湯気が残る。まだ、誰かの気配がする。\n"
+    },
+    {
+      "number": 12,
+      "at": "2026-10-16T21:09:52.815Z",
+      "action": {
+        "id": "r11-close-cup",
+        "op": "tap",
+        "x": 376,
+        "y": 773,
+        "note": "Close cup memory."
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-d-recover-20261017-0605-z7p4#garden",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/f4f8d4988fbda0c69a39da54caed43fb797c725c/live-results/mofu-vis-d-recover-20261017-0605-z7p4/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n3 / 5\n見つけたもの\n"
+    },
+    {
+      "number": 13,
+      "at": "2026-10-16T21:10:25.263Z",
+      "action": {
+        "id": "r12-teddy",
+        "op": "tap",
+        "x": 372,
+        "y": 554,
+        "note": "Collect fourth Garden memory at visible teddy."
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-d-recover-20261017-0605-z7p4#garden",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/63f74d4cbe35ce75be8491b04ee394ffc6eba249/live-results/mofu-vis-d-recover-20261017-0605-z7p4/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n4 / 5\n見つけたもの\nCG-01-A_04.DRM\n06:10:22\n\nFRAGMENT / 04\n\n置き去りのくま\n名前はもうない。それでも、いつもの方を向いている。\n"
+    },
+    {
+      "number": 14,
+      "at": "2026-10-16T21:10:45.193Z",
+      "action": {
+        "id": "r13-close-teddy",
+        "op": "tap",
+        "x": 376,
+        "y": 751,
+        "note": "Close teddy memory."
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-d-recover-20261017-0605-z7p4#garden",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/468b4832b77222a0ef0c6ff9760b5c7e2e8dd239/live-results/mofu-vis-d-recover-20261017-0605-z7p4/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n4 / 5\n見つけたもの\n"
+    },
+    {
+      "number": 15,
+      "at": "2026-10-16T21:11:05.523Z",
+      "action": {
+        "id": "r14-key",
+        "op": "tap",
+        "x": 174,
+        "y": 608,
+        "note": "Collect final visible key memory to complete Garden."
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-d-recover-20261017-0605-z7p4#garden",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/868db6fb80fdfc6781179770ecd5e15ddb956ae6/live-results/mofu-vis-d-recover-20261017-0605-z7p4/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n5 / 5\n見つけたもの\n\nあの扉が、こちらを呼んでいる。\n触れて、向こうへ\n"
+    },
+    {
+      "number": 16,
+      "at": "2026-10-16T21:11:32.937Z",
+      "action": {
+        "id": "r15-open-gate",
+        "op": "tap",
+        "x": 324,
+        "y": 276,
+        "note": "Enter unlocked visible white gate after 5/5 Garden."
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-d-recover-20261017-0605-z7p4#quiet",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/a67cdd647fbcb3258f958cd737b215e6f6245f1e/live-results/mofu-vis-d-recover-20261017-0605-z7p4/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n"
+    }
+  ],
+  "pageErrors": [],
+  "httpErrors": []
+}
