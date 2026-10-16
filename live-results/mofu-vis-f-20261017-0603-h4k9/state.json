@@ -6,18 +6,18 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-16T21:02:55.000Z",
-  "updatedAt": "2026-10-16T21:06:26.028Z",
-  "lastCommand": "r08",
+  "updatedAt": "2026-10-16T21:06:45.559Z",
+  "lastCommand": "r09",
   "stopReason": null,
   "action": {
-    "id": "r08",
+    "id": "r09",
     "op": "tap",
-    "x": 175,
-    "y": 607,
-    "note": "Tap visible blue ribbon key to advance normal Garden discovery."
+    "x": 233,
+    "y": 555,
+    "note": "Tap visibly interactive tea cup."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/bf75baa94661688593ede9c737278a118e4ffdc2/live-results/mofu-vis-f-20261017-0603-h4k9/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/e1086bc264706fe98bced7760f339b72bfc39dc5/live-results/mofu-vis-f-20261017-0603-h4k9/current.jpg",
   "readOnly": true,
   "blockedWrites": 5,
   "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-f-20261017-0603-h4k9#garden",
@@ -31,7 +31,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n3 / 5\n見つけたもの\nCG-01-A_03.DRM\n06:06:22\n\nFRAGMENT / 03\n\n青いリボンの鍵\nどの扉にも合わない。ただ、ひとつの記憶だけが開いた。\n",
+  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n4 / 5\n見つけたもの\nCG-01-A_04.DRM\n06:06:42\n\nFRAGMENT / 04\n\nまだあたたかいカップ\nほんのり湯気が残る。まだ、誰かの気配がする。\n",
   "controls": [
     {
       "tag": "BUTTON",
@@ -79,7 +79,7 @@
     },
     {
       "tag": "BUTTON",
-      "text": "まだあたたかいカップに触れる",
+      "text": "まだあたたかいカップ（発見済み）",
       "disabled": false,
       "rect": {
         "x": 194,
@@ -204,7 +204,7 @@
       "disabled": false,
       "rect": {
         "x": 364,
-        "y": 742,
+        "y": 761,
         "w": 24,
         "h": 23
       }
@@ -343,6 +343,21 @@
       "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-f-20261017-0603-h4k9#garden",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/bf75baa94661688593ede9c737278a118e4ffdc2/live-results/mofu-vis-f-20261017-0603-h4k9/current.jpg",
       "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n3 / 5\n見つけたもの\nCG-01-A_03.DRM\n06:06:22\n\nFRAGMENT / 03\n\n青いリボンの鍵\nどの扉にも合わない。ただ、ひとつの記憶だけが開いた。\n"
+    },
+    {
+      "number": 10,
+      "at": "2026-10-16T21:06:45.559Z",
+      "action": {
+        "id": "r09",
+        "op": "tap",
+        "x": 233,
+        "y": 555,
+        "note": "Tap visibly interactive tea cup."
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-f-20261017-0603-h4k9#garden",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/e1086bc264706fe98bced7760f339b72bfc39dc5/live-results/mofu-vis-f-20261017-0603-h4k9/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n4 / 5\n見つけたもの\nCG-01-A_04.DRM\n06:06:42\n\nFRAGMENT / 04\n\nまだあたたかいカップ\nほんのり湯気が残る。まだ、誰かの気配がする。\n"
     }
   ]
 }
