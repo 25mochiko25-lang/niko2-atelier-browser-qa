@@ -6,19 +6,20 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-16T20:12:11.097Z",
-  "updatedAt": "2026-10-16T20:28:48.790Z",
-  "lastCommand": "m33-room-settle",
-  "stopReason": null,
+  "updatedAt": "2026-10-16T20:30:04.474Z",
+  "lastCommand": "m34-stop",
+  "stopReason": "completed_chat_readonly_scoped_audit: production 430x932 Garden 5/5 through WORLD MEMORY and Diary, WORLD, Lab, ROOM NULL door/interior; remaining branches not claimed",
   "action": {
-    "id": "m33-room-settle",
-    "op": "wait",
-    "wait": 1700,
-    "note": "Wait until door-opening overlay fades before evaluating ROOM NULL composition."
+    "id": "m34-stop",
+    "op": "stop",
+    "wait": 0,
+    "reason": "completed_chat_readonly_scoped_audit: production 430x932 Garden 5/5 through WORLD MEMORY and Diary, WORLD, Lab, ROOM NULL door/interior; remaining branches not claimed",
+    "note": "End GitHub Actions browser session to avoid idle runner time. All site POST writes were blocked; no signed QA badge was issued."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/59e274a29ad3c356cfcd87d16a0927b5956d73c5/live-results/mofumofu-founder-readonly-prod-20261017/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/2ff486be2e0a3a53b45b566ef4b1c0efb576e406/live-results/mofumofu-founder-readonly-prod-20261017/current.jpg",
   "readOnly": true,
-  "blockedWrites": 25,
+  "blockedWrites": 26,
   "url": "https://niko2atelier.com/?mofumofu_qa=mofumofu-founder-readonly-prod-20261017#room0",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -633,6 +634,21 @@
       "error": null,
       "url": "https://niko2atelier.com/?mofumofu_qa=mofumofu-founder-readonly-prod-20261017#room0",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/59e274a29ad3c356cfcd87d16a0927b5956d73c5/live-results/mofumofu-founder-readonly-prod-20261017/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\n\n \nWORLD / RN-00\nROOM NULL\na room that remembers you.\nRN-00\n"
+    },
+    {
+      "number": 35,
+      "at": "2026-10-16T20:30:04.474Z",
+      "action": {
+        "id": "m34-stop",
+        "op": "stop",
+        "wait": 0,
+        "reason": "completed_chat_readonly_scoped_audit: production 430x932 Garden 5/5 through WORLD MEMORY and Diary, WORLD, Lab, ROOM NULL door/interior; remaining branches not claimed",
+        "note": "End GitHub Actions browser session to avoid idle runner time. All site POST writes were blocked; no signed QA badge was issued."
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofumofu-founder-readonly-prod-20261017#room0",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/2ff486be2e0a3a53b45b566ef4b1c0efb576e406/live-results/mofumofu-founder-readonly-prod-20261017/current.jpg",
       "text": "作品へ移動\nNIKO² ATELIER\n\n \nWORLD / RN-00\nROOM NULL\na room that remembers you.\nRN-00\n"
     }
   ]
