@@ -6,20 +6,20 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-16T20:53:07.241Z",
-  "updatedAt": "2026-10-16T21:10:56.442Z",
-  "lastCommand": "c43",
+  "updatedAt": "2026-10-16T21:11:24.859Z",
+  "lastCommand": "c44",
   "stopReason": null,
   "action": {
-    "id": "c43",
+    "id": "c44",
     "op": "tap",
-    "x": 328,
-    "y": 681,
-    "note": "Open visible Research Lab operation clipboard / simulation mode"
+    "x": 202,
+    "y": 482,
+    "note": "Inspect prior operation notes / response log screen"
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/e885f5dbff8ce3109cc6ef001aa03b37fd953779/live-results/mofu-vis-c-20261017-0551-j7x4/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/f2370a22e5cc0bccb0f00a7074f65bc9624bd1f9/live-results/mofu-vis-c-20261017-0551-j7x4/current.jpg",
   "readOnly": true,
-  "blockedWrites": 22,
+  "blockedWrites": 23,
   "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-c-20261017-0551-j7x4#lab",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -31,7 +31,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\nNIKO² ATELIER\n\n白と薄水色のガラス研究所。奥へ続く通路と、記録の置かれた観測台があります。\nOPERATIONS\n運用モード\n\n\n\nOPERATIONS / FIELD CLIPBOARD\n観測台へ戻る\nLAB ACTIVITY\n静かに稼働中\n夢の保存、観測、返却待ち。大きな問題はありません。\nNORMAL\nOPERATION NOTE\n今日の短い記録\n夢の断片をひとつ保存しました。\n観測室の灯りを弱めました。\n返却待ちの標本がひとつあります。\n以前の対応記録を読む\n小さな異常を起こす\nN²-Ωを開きました。\n",
+  "text": "作品へ移動\nNIKO² ATELIER\n\n白と薄水色のガラス研究所。奥へ続く通路と、記録の置かれた観測台があります。\nOPERATIONS\n運用モード\n\n\n\nOPERATIONS / FIELD CLIPBOARD\n観測台へ戻る\nLAB ACTIVITY\n静かに稼働中\n夢の保存、観測、返却待ち。大きな問題はありません。\nNORMAL\nOPERATION NOTE\n今日の短い記録\n夢の断片をひとつ保存しました。\n観測室の灯りを弱めました。\n返却待ちの標本がひとつあります。\n以前の対応記録を読む\n小さな異常を起こす\nOPERATIONS // RETURNED LOG\n\n\nRETURNED RECORD / OPERATIONS INCIDENT ARCHIVE\n\n夢が保存できなかった7分42秒\nINCIDENT CG-DIARY-001\nRESOLVED\nDream fragments could not be stored.\n\nSeverity\nHIGH\nDuration\n7m 42s\nStatus\nRESOLVED\n検知\n「Diary write failureと5xx error rate上昇を監視ハートビートが検知。」\n切り分け\n「API、asset delivery、database readは正常。書き込み経路だけに障害を限定。」\nCause\nIAM permission error\nResolution\npolicy corrected\n再テスト\n「疑似日記を書き込み、read-backと同期再開を確認。」\n復旧確認\n「バックログ完了後も監視値が正常範囲を維持。」\nResearch note: 失われた記録はありません。\nRELATED: DIARY / OPERATIONS / RECOVERY\nARCHIVE COPY / VIEW ONLY\nINCIDENT CG-DIARY-001を開きました。\n",
   "controls": [
     {
       "tag": "A",
@@ -97,6 +97,17 @@
         "y": 515,
         "w": 386,
         "h": 48
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "研究資料を閉じる",
+      "disabled": false,
+      "rect": {
+        "x": 370,
+        "y": 141,
+        "w": 44,
+        "h": 44
       }
     }
   ],
@@ -757,6 +768,21 @@
       "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-c-20261017-0551-j7x4#lab",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/e885f5dbff8ce3109cc6ef001aa03b37fd953779/live-results/mofu-vis-c-20261017-0551-j7x4/current.jpg",
       "text": "作品へ移動\nNIKO² ATELIER\n\n白と薄水色のガラス研究所。奥へ続く通路と、記録の置かれた観測台があります。\nOPERATIONS\n運用モード\n\n\n\nOPERATIONS / FIELD CLIPBOARD\n観測台へ戻る\nLAB ACTIVITY\n静かに稼働中\n夢の保存、観測、返却待ち。大きな問題はありません。\nNORMAL\nOPERATION NOTE\n今日の短い記録\n夢の断片をひとつ保存しました。\n観測室の灯りを弱めました。\n返却待ちの標本がひとつあります。\n以前の対応記録を読む\n小さな異常を起こす\nN²-Ωを開きました。\n"
+    },
+    {
+      "number": 45,
+      "at": "2026-10-16T21:11:24.859Z",
+      "action": {
+        "id": "c44",
+        "op": "tap",
+        "x": 202,
+        "y": 482,
+        "note": "Inspect prior operation notes / response log screen"
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-c-20261017-0551-j7x4#lab",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/f2370a22e5cc0bccb0f00a7074f65bc9624bd1f9/live-results/mofu-vis-c-20261017-0551-j7x4/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\n\n白と薄水色のガラス研究所。奥へ続く通路と、記録の置かれた観測台があります。\nOPERATIONS\n運用モード\n\n\n\nOPERATIONS / FIELD CLIPBOARD\n観測台へ戻る\nLAB ACTIVITY\n静かに稼働中\n夢の保存、観測、返却待ち。大きな問題はありません。\nNORMAL\nOPERATION NOTE\n今日の短い記録\n夢の断片をひとつ保存しました。\n観測室の灯りを弱めました。\n返却待ちの標本がひとつあります。\n以前の対応記録を読む\n小さな異常を起こす\nOPERATIONS // RETURNED LOG\n\n\nRETURNED RECORD / OPERATIONS INCIDENT ARCHIVE\n\n夢が保存できなかった7分42秒\nINCIDENT CG-DIARY-001\nRESOLVED\nDream fragments could not be stored.\n\nSeverity\nHIGH\nDuration\n7m 42s\nStatus\nRESOLVED\n検知\n「Diary write failureと5xx error rate上昇を監視ハートビートが検知。」\n切り分け\n「API、asset delivery、database readは正常。書き込み経路だけに障害を限定。」\nCause\nIAM permission error\nResolution\npolicy corrected\n再テスト\n「疑似日記を書き込み、read-backと同期再開を確認。」\n復旧確認\n「バックログ完了後も監視値が正常範囲を維持。」\nResearch note: 失われた記録はありません。\nRELATED: DIARY / OPERATIONS / RECOVERY\nARCHIVE COPY / VIEW ONLY\nINCIDENT CG-DIARY-001を開きました。\n"
     }
   ]
 }
