@@ -6,19 +6,17 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-16T20:12:11.097Z",
-  "updatedAt": "2026-10-16T20:28:19.266Z",
-  "lastCommand": "m32-room-open",
+  "updatedAt": "2026-10-16T20:28:48.790Z",
+  "lastCommand": "m33-room-settle",
   "stopReason": null,
   "action": {
-    "id": "m32-room-open",
-    "op": "tap",
-    "x": 214,
-    "y": 471,
-    "wait": 1200,
-    "note": "Open ROOM NULL full-cover door, inspect following layout."
+    "id": "m33-room-settle",
+    "op": "wait",
+    "wait": 1700,
+    "note": "Wait until door-opening overlay fades before evaluating ROOM NULL composition."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/3d5385d5c53c2338b2a135027f7345949e8acce6/live-results/mofumofu-founder-readonly-prod-20261017/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/59e274a29ad3c356cfcd87d16a0927b5956d73c5/live-results/mofumofu-founder-readonly-prod-20261017/current.jpg",
   "readOnly": true,
   "blockedWrites": 25,
   "url": "https://niko2atelier.com/?mofumofu_qa=mofumofu-founder-readonly-prod-20261017#room0",
@@ -621,6 +619,20 @@
       "error": null,
       "url": "https://niko2atelier.com/?mofumofu_qa=mofumofu-founder-readonly-prod-20261017#room0",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/3d5385d5c53c2338b2a135027f7345949e8acce6/live-results/mofumofu-founder-readonly-prod-20261017/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\n\n \nWORLD / RN-00\nROOM NULL\na room that remembers you.\nRN-00\n"
+    },
+    {
+      "number": 34,
+      "at": "2026-10-16T20:28:48.790Z",
+      "action": {
+        "id": "m33-room-settle",
+        "op": "wait",
+        "wait": 1700,
+        "note": "Wait until door-opening overlay fades before evaluating ROOM NULL composition."
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofumofu-founder-readonly-prod-20261017#room0",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/59e274a29ad3c356cfcd87d16a0927b5956d73c5/live-results/mofumofu-founder-readonly-prod-20261017/current.jpg",
       "text": "作品へ移動\nNIKO² ATELIER\n\n \nWORLD / RN-00\nROOM NULL\na room that remembers you.\nRN-00\n"
     }
   ]
