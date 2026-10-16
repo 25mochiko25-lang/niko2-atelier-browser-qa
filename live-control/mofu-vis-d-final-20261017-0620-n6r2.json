@@ -1,1 +1,1 @@
-{"id":"f16-gate-look","op":"look","wait":1600,"note":"Observe gate transition end and next visible controls."}
+{"id":"f17-leave-dream","op":"tap","x":74,"y":890,"note":"Take visible leave-dream action from Ending to reach WORLD."}
