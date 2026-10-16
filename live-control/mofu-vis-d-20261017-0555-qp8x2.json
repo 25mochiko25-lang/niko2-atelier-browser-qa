@@ -1,7 +1,7 @@
 {
-  "id": "d05-garden-enter",
+  "id": "d06-garden-gate",
   "op": "tap",
-  "x": 208,
-  "y": 877,
-  "note": "Enter Garden through visible doorway, continue to WORLD."
+  "x": 319,
+  "y": 269,
+  "note": "Try visible distant white gate to reach WORLD without unrelated Garden exploration."
 }
