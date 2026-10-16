@@ -1,7 +1,7 @@
 {
-  "id": "d01-enter",
+  "id": "d02-intro-next",
   "op": "tap",
-  "x": 209,
-  "y": 579,
-  "note": "Continue D visual audit from initial dream entry after visually inspecting arrival screenshot."
+  "x": 375,
+  "y": 858,
+  "note": "Advance visible WORLD intro card."
 }
