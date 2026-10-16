@@ -1,1 +1,1 @@
-{"id":"m14-key","op":"tap","x":174,"y":607,"wait":570,"note":"Collect key 5/5; inspect gate trigger."}
+{"id":"m15-gate-settle","op":"wait","wait":1500,"note":"Observe settled Garden fifth discovery and gate without unintended tap."}
