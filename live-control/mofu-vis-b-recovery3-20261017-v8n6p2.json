@@ -1,1 +1,1 @@
-{"id":"bc13-memory-close","op":"tap","x":374,"y":201,"note":"Close WORLD MEMORY modal; inspect return to Ending and souvenir reentry."}
+{"id":"bc14-aftertake-reopen","op":"tap","x":120,"y":824,"note":"After taking and closing memory, touch petal again to test repeatable souvenir reveal."}
