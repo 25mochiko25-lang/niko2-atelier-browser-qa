@@ -1,7 +1,7 @@
 {
-  "id": "c45",
+  "id": "c46",
   "op": "tap",
-  "x": 391,
-  "y": 164,
-  "note": "Close long returned operation log; screenshots show lower content clipped without verified touch scroll"
+  "x": 207,
+  "y": 540,
+  "note": "Inspect the on-page small-anomaly simulation under readOnly network guard; do not mutate production data"
 }
