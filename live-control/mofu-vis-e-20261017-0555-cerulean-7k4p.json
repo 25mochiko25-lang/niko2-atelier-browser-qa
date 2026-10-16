@@ -1,7 +1,7 @@
 {
-  "id": "e13-after-next3",
+  "id": "e14-after-finish",
   "op": "tap",
-  "x": 370,
-  "y": 858,
-  "note": "Continue final onboarding page"
+  "x": 373,
+  "y": 857,
+  "note": "Finish visible post-Garden instructions and inspect HOME"
 }
