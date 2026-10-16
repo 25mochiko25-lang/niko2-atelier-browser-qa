@@ -1,1 +1,1 @@
-{"id":"br10-key","op":"tap","x":170,"y":613,"note":"Fifth discovery via visible blue-ribbon key; check gate."}
+{"id":"br11-gate-settle","op":"wait","ms":1400,"note":"Allow gate zoom after 5/5 to settle before touching visible entrance."}
