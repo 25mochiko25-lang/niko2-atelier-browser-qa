@@ -1,1 +1,1 @@
-{"id":"m19-bring","op":"tap","x":213,"y":814,"wait":850,"note":"Open WORLD MEMORY plus keepsake; inspect width and scroll, no writing."}
+{"id":"m20-carry-to-diary","op":"tap","x":215,"y":677,"wait":850,"note":"Carry souvenir into local Diary; external writes blocked in read-only QA."}
