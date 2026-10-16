@@ -6,17 +6,17 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-16T21:20:45.229Z",
-  "updatedAt": "2026-10-16T21:23:07.509Z",
-  "lastCommand": "f08-perfume",
+  "updatedAt": "2026-10-16T21:23:25.076Z",
+  "lastCommand": "f09-close-perfume",
   "stopReason": null,
   "action": {
-    "id": "f08-perfume",
+    "id": "f09-close-perfume",
     "op": "tap",
-    "x": 103,
-    "y": 558
+    "x": 376,
+    "y": 754
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/468e31579298c12eb72dd5fbb5f0d07c3f228529/live-results/mofu-vis-d-final-20261017-0620-n6r2/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/e86e433b9d42d02bf291ef2067a517a8ad2be00a/live-results/mofu-vis-d-final-20261017-0620-n6r2/current.jpg",
   "readOnly": true,
   "blockedWrites": 4,
   "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-d-final-20261017-0620-n6r2#garden",
@@ -30,7 +30,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n2 / 5\n見つけたもの\nCG-01-A_02.DRM\n06:23:04\n\nFRAGMENT / 02\n\nN² Eau de rêve\nキャップは常に閉じているのに、帰らない部屋の香りがした。\n",
+  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n2 / 5\n見つけたもの\n",
   "controls": [
     {
       "tag": "BUTTON",
@@ -196,17 +196,6 @@
         "w": 69,
         "h": 90
       }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "見つけた記憶を閉じる",
-      "disabled": false,
-      "rect": {
-        "x": 364,
-        "y": 742,
-        "w": 24,
-        "h": 23
-      }
     }
   ],
   "pageErrors": [],
@@ -335,6 +324,20 @@
       "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-d-final-20261017-0620-n6r2#garden",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/468e31579298c12eb72dd5fbb5f0d07c3f228529/live-results/mofu-vis-d-final-20261017-0620-n6r2/current.jpg",
       "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n2 / 5\n見つけたもの\nCG-01-A_02.DRM\n06:23:04\n\nFRAGMENT / 02\n\nN² Eau de rêve\nキャップは常に閉じているのに、帰らない部屋の香りがした。\n"
+    },
+    {
+      "number": 10,
+      "at": "2026-10-16T21:23:25.076Z",
+      "action": {
+        "id": "f09-close-perfume",
+        "op": "tap",
+        "x": 376,
+        "y": 754
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-d-final-20261017-0620-n6r2#garden",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/e86e433b9d42d02bf291ef2067a517a8ad2be00a/live-results/mofu-vis-d-final-20261017-0620-n6r2/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n2 / 5\n見つけたもの\n"
     }
   ]
 }
