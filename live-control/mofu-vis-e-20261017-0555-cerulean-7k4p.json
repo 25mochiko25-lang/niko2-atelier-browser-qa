@@ -1,7 +1,7 @@
 {
-  "id": "e15-open-diary",
+  "id": "e16-diary-photo-select",
   "op": "tap",
-  "x": 92,
-  "y": 389,
-  "note": "Open Diary using visible floating book on HOME"
+  "x": 120,
+  "y": 867,
+  "note": "Inspect Diary stock-photo selection, do not save entry"
 }
