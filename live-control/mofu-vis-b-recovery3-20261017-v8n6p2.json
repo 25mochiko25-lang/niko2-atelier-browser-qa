@@ -1,1 +1,1 @@
-{"id":"bc09-reopen-petal","op":"tap","x":120,"y":822,"note":"Re-open petal souvenir after close; verify repeat access."}
+{"id":"bc10-take-petal","op":"tap","x":214,"y":815,"note":"Tap visible '持ち帰る'; inspect souvenir state without server writes (readOnly)."}
