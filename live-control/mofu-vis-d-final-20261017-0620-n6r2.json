@@ -1,1 +1,1 @@
-{"id":"f28-cabinet-back","op":"tap","x":34,"y":113,"note":"Return from Cabinet using visible back to ROOM NULL."}
+{"id":"f29-channel","op":"tap","x":83,"y":415,"note":"Open visible CHANNEL 00 laptop from ROOM NULL; check linked facility UI."}
