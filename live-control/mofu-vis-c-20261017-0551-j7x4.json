@@ -1,6 +1,7 @@
 {
-  "id": "c13",
-  "op": "wait",
-  "ms": 1300,
-  "note": "Let door transition finish to inspect resulting screen"
+  "id": "c14",
+  "op": "tap",
+  "x": 69,
+  "y": 894,
+  "note": "Choose visible exit '夢を離れる' to reach HOME and WORLD"
 }
