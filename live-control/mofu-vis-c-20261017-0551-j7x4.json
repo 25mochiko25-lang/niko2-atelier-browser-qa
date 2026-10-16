@@ -1,7 +1,7 @@
 {
-  "id": "c44",
+  "id": "c45",
   "op": "tap",
-  "x": 202,
-  "y": 482,
-  "note": "Inspect prior operation notes / response log screen"
+  "x": 391,
+  "y": 164,
+  "note": "Close long returned operation log; screenshots show lower content clipped without verified touch scroll"
 }
