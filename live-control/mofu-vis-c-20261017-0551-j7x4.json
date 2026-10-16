@@ -1,7 +1,9 @@
 {
-  "id": "c19",
-  "op": "tap",
-  "x": 378,
-  "y": 858,
-  "note": "Finish introductory overlay to inspect actual WORLD navigation"
+  "id": "c20",
+  "op": "scroll",
+  "x": 230,
+  "y": 738,
+  "dx": 0,
+  "dy": 575,
+  "note": "Inspect visible WORLD navigation card below HOME fold"
 }
