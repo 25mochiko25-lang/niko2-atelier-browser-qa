@@ -1,1 +1,1 @@
-{"id":"br11-gate-settle","op":"wait","ms":1400,"note":"Allow gate zoom after 5/5 to settle before touching visible entrance."}
+{"id":"br12-gate-to-ending","op":"tap","x":211,"y":326,"note":"Visible gate center towards Ending and souvenir."}
