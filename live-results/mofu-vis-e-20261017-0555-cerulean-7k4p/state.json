@@ -6,20 +6,19 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-16T20:56:38.689Z",
-  "updatedAt": "2026-10-16T20:59:28.315Z",
-  "lastCommand": "e06-memory-button",
+  "updatedAt": "2026-10-16T20:59:49.345Z",
+  "lastCommand": "e07-settle",
   "stopReason": null,
   "action": {
-    "id": "e06-memory-button",
-    "op": "tap",
-    "x": 386,
-    "y": 72,
-    "note": "Inspect visible top-right memory button and any resulting dialog"
+    "id": "e07-settle",
+    "op": "wait",
+    "ms": 2200,
+    "note": "Observe page after transition finishes"
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/804c31acb284038adafc0314df24191978c80c39/live-results/mofu-vis-e-20261017-0555-cerulean-7k4p/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/dee2d06dc265d24239ce821b19688fb48cd3f5c1/live-results/mofu-vis-e-20261017-0555-cerulean-7k4p/current.jpg",
   "readOnly": true,
-  "blockedWrites": 4,
+  "blockedWrites": 5,
   "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-e-20261017-0555-cerulean-7k4p#quiet",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -31,7 +30,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n夢の見覚え ✧︎\n白い街が、門の向こうで一斉に組み上がった。\n\n",
+  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n夢を離れる",
   "controls": [
     {
       "tag": "BUTTON",
@@ -53,6 +52,28 @@
         "y": 56,
         "w": 61,
         "h": 30
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "白い街の一片に触れる",
+      "disabled": false,
+      "rect": {
+        "x": 74,
+        "y": 799,
+        "w": 69,
+        "h": 69
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "夢を離れる",
+      "disabled": false,
+      "rect": {
+        "x": 22,
+        "y": 870,
+        "w": 100,
+        "h": 44
       }
     }
   ],
@@ -159,6 +180,20 @@
       "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-e-20261017-0555-cerulean-7k4p#quiet",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/804c31acb284038adafc0314df24191978c80c39/live-results/mofu-vis-e-20261017-0555-cerulean-7k4p/current.jpg",
       "text": "作品へ移動\n夢の見覚え ✧︎\n白い街が、門の向こうで一斉に組み上がった。\n\n"
+    },
+    {
+      "number": 8,
+      "at": "2026-10-16T20:59:49.345Z",
+      "action": {
+        "id": "e07-settle",
+        "op": "wait",
+        "ms": 2200,
+        "note": "Observe page after transition finishes"
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-e-20261017-0555-cerulean-7k4p#quiet",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/dee2d06dc265d24239ce821b19688fb48cd3f5c1/live-results/mofu-vis-e-20261017-0555-cerulean-7k4p/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n夢を離れる"
     }
   ]
 }
