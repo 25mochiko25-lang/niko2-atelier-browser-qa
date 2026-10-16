@@ -1,6 +1,7 @@
 {
-  "id": "r12",
-  "op": "wait",
-  "ms": 1800,
-  "note": "Observe the destination after normal gate animation."
+  "id": "r13",
+  "op": "tap",
+  "x": 70,
+  "y": 894,
+  "note": "Use visible exit from the dream to reach central world navigation."
 }
