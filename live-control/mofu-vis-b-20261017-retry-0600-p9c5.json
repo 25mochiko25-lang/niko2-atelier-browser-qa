@@ -1,1 +1,1 @@
-{"id":"br12-gate","op":"tap","x":218,"y":330,"note":"Pass visible gate toward Ending."}
+{"id":"br13-ending-settle","op":"wait","ms":1400,"note":"Wait for Ending scene and floating petal."}
