@@ -6,20 +6,19 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-16T21:20:45.229Z",
-  "updatedAt": "2026-10-16T21:28:36.556Z",
-  "lastCommand": "f25-open-door",
+  "updatedAt": "2026-10-16T21:30:00.220Z",
+  "lastCommand": "f26-room-settle",
   "stopReason": null,
   "action": {
-    "id": "f25-open-door",
-    "op": "tap",
-    "x": 382,
-    "y": 558,
-    "note": "Open actual ROOM NULL door at visible handle; inspect interior."
+    "id": "f26-room-settle",
+    "op": "look",
+    "wait": 1600,
+    "note": "Allow door opening transition to settle, visually inspect ROOM NULL interior."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/0b80ccf4d3d3c6e2d61b09ccc3577443e0a03930/live-results/mofu-vis-d-final-20261017-0620-n6r2/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/c65f7598574026afbedbbcbe0c6fe2fcfa396512/live-results/mofu-vis-d-final-20261017-0620-n6r2/current.jpg",
   "readOnly": true,
-  "blockedWrites": 13,
+  "blockedWrites": 15,
   "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-d-final-20261017-0620-n6r2#room0",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -473,6 +472,20 @@
       "error": null,
       "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-d-final-20261017-0620-n6r2#room0",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/0b80ccf4d3d3c6e2d61b09ccc3577443e0a03930/live-results/mofu-vis-d-final-20261017-0620-n6r2/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\n\n \nWORLD / RN-00\nROOM NULL\na room that remembers you.\nRN-00\n"
+    },
+    {
+      "number": 27,
+      "at": "2026-10-16T21:30:00.219Z",
+      "action": {
+        "id": "f26-room-settle",
+        "op": "look",
+        "wait": 1600,
+        "note": "Allow door opening transition to settle, visually inspect ROOM NULL interior."
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-d-final-20261017-0620-n6r2#room0",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/c65f7598574026afbedbbcbe0c6fe2fcfa396512/live-results/mofu-vis-d-final-20261017-0620-n6r2/current.jpg",
       "text": "作品へ移動\nNIKO² ATELIER\n\n \nWORLD / RN-00\nROOM NULL\na room that remembers you.\nRN-00\n"
     }
   ]
