@@ -6,18 +6,17 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-16T21:07:08.496Z",
-  "updatedAt": "2026-10-16T21:09:43.319Z",
-  "lastCommand": "r06-memory",
+  "updatedAt": "2026-10-16T21:09:58.057Z",
+  "lastCommand": "r07-settle",
   "stopReason": null,
   "action": {
-    "id": "r06-memory",
-    "op": "tap",
-    "x": 386,
-    "y": 72,
-    "note": "Follow visible Garden memory shortcut"
+    "id": "r07-settle",
+    "op": "wait",
+    "ms": 1800,
+    "note": "Wait for Castle transition"
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/f35b98663181b3cbf0fa1c915d3a2cd28193f368/live-results/mofu-vis-e-20261017-0606-pearl-4m8d/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/f64c05d7e90d9acb822ee25e54c072bb793af07d/live-results/mofu-vis-e-20261017-0606-pearl-4m8d/current.jpg",
   "readOnly": true,
   "blockedWrites": 4,
   "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-e-20261017-0606-pearl-4m8d#quiet",
@@ -31,7 +30,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n夢の見覚え ✧︎\n白い街が、門の向こうで一斉に組み上がった。\n\n",
+  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n夢を離れる",
   "controls": [
     {
       "tag": "BUTTON",
@@ -53,6 +52,28 @@
         "y": 56,
         "w": 61,
         "h": 30
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "白い街の一片に触れる",
+      "disabled": false,
+      "rect": {
+        "x": 74,
+        "y": 798,
+        "w": 69,
+        "h": 69
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "夢を離れる",
+      "disabled": false,
+      "rect": {
+        "x": 22,
+        "y": 870,
+        "w": 100,
+        "h": 44
       }
     }
   ],
@@ -159,6 +180,20 @@
       "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-e-20261017-0606-pearl-4m8d#quiet",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/f35b98663181b3cbf0fa1c915d3a2cd28193f368/live-results/mofu-vis-e-20261017-0606-pearl-4m8d/current.jpg",
       "text": "作品へ移動\n夢の見覚え ✧︎\n白い街が、門の向こうで一斉に組み上がった。\n\n"
+    },
+    {
+      "number": 8,
+      "at": "2026-10-16T21:09:58.057Z",
+      "action": {
+        "id": "r07-settle",
+        "op": "wait",
+        "ms": 1800,
+        "note": "Wait for Castle transition"
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-e-20261017-0606-pearl-4m8d#quiet",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/f64c05d7e90d9acb822ee25e54c072bb793af07d/live-results/mofu-vis-e-20261017-0606-pearl-4m8d/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n夢を離れる"
     }
   ]
 }
