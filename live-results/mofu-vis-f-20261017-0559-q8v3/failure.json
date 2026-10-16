@@ -1,0 +1,126 @@
+{
+  "session": "mofu-vis-f-20261017-0559-q8v3",
+  "device": "founder",
+  "stopReason": "infrastructure_error",
+  "error": "Error: GitHub 409: {\"message\":\"is at 5b887203e567eeb81a36de2b56aa0e7f9e382552 but expected 3f60b8baa826e7264ece926fb04aae9919793134\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"409\"}",
+  "events": [
+    {
+      "number": 1,
+      "at": "2026-10-16T20:56:48.458Z",
+      "action": {
+        "op": "arrival"
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-f-20261017-0559-q8v3",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/403d5a0fbef26e1b536c02f2b1dd13a6c0640671/live-results/mofu-vis-f-20261017-0559-q8v3/current.jpg",
+      "text": "作品へ移動\n\n"
+    },
+    {
+      "number": 2,
+      "at": "2026-10-16T20:57:33.288Z",
+      "action": {
+        "id": "f01",
+        "op": "tap",
+        "x": 214,
+        "y": 580,
+        "note": "Enter the visible dream to reach public facilities."
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-f-20261017-0559-q8v3",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/ce8022541be8421c9dae4d8036be10d26f3411c5/live-results/mofu-vis-f-20261017-0559-q8v3/current.jpg",
+      "text": "作品へ移動\n\n\nWORLD\n夢の入り口は、毎回すこし違う。 夢から醒めても何かは残る。\n次へ"
+    },
+    {
+      "number": 3,
+      "at": "2026-10-16T20:57:51.022Z",
+      "action": {
+        "id": "f02",
+        "op": "tap",
+        "x": 373,
+        "y": 856,
+        "note": "Next intro page."
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-f-20261017-0559-q8v3",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/ec05b80e0cb4e78695e07260b8463b0e5787337c/live-results/mofu-vis-f-20261017-0559-q8v3/current.jpg",
+      "text": "作品へ移動\n\n\nINTERACTION\n\nSound On\n\nSound Off\n触れる\n持ち帰る\n仕舞う\n次へ戻る"
+    },
+    {
+      "number": 4,
+      "at": "2026-10-16T20:58:08.509Z",
+      "action": {
+        "id": "f03",
+        "op": "tap",
+        "x": 375,
+        "y": 856,
+        "note": "Advance onboarding towards facility navigation."
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-f-20261017-0559-q8v3",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/f769324dbade360521d12c1b29bca71065a10bc1/live-results/mofu-vis-f-20261017-0559-q8v3/current.jpg",
+      "text": "作品へ移動\n\n\nWELCOME\nようこそ！\n夢へ入る戻る"
+    },
+    {
+      "number": 5,
+      "at": "2026-10-16T20:58:23.983Z",
+      "action": {
+        "id": "f04",
+        "op": "tap",
+        "x": 371,
+        "y": 857,
+        "note": "Enter world via visible onboarding button."
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-f-20261017-0559-q8v3#garden",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/b632dde2155e020ee16daf9218254c9612e3bcbc/live-results/mofu-vis-f-20261017-0559-q8v3/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n席を立ったあとの庭にも、\n持ち主より長く夢を見るものがいる。\n\nこの空へ入る\n0 / 5\n見つけたもの\n"
+    },
+    {
+      "number": 6,
+      "at": "2026-10-16T20:58:47.474Z",
+      "action": {
+        "id": "f05",
+        "op": "tap",
+        "x": 208,
+        "y": 877,
+        "note": "Proceed from Garden introduction using the visible entrance button."
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-f-20261017-0559-q8v3#garden",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/28bd214e322def907afb394baf476bff434ada62/live-results/mofu-vis-f-20261017-0559-q8v3/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n0 / 5\n見つけたもの\n"
+    },
+    {
+      "number": 7,
+      "at": "2026-10-16T20:59:42.218Z",
+      "action": {
+        "id": "f06",
+        "op": "tap",
+        "x": 321,
+        "y": 280,
+        "note": "Inspect visible far gate to seek connected facilities."
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-f-20261017-0559-q8v3#garden",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/fa5176d6dcbad1467bf908dc68693a2e2c6d1c98/live-results/mofu-vis-f-20261017-0559-q8v3/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n0 / 5\n見つけたもの\n取っ手の向こうで、鍵穴の光がひとつ消えた。"
+    },
+    {
+      "number": 8,
+      "at": "2026-10-16T21:00:10.813Z",
+      "action": {
+        "id": "f07",
+        "op": "tap",
+        "x": 104,
+        "y": 575,
+        "note": "Examine the visibly interactive perfume bottle in the Garden."
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-f-20261017-0559-q8v3#garden",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/746884d34fed82ab638e756ba3f8c8f1fde394e4/live-results/mofu-vis-f-20261017-0559-q8v3/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n1 / 5\n見つけたもの\nCG-01-A_01.DRM\n06:00:07\n\nFRAGMENT / 01\n\nN² Eau de rêve\nキャップは常に閉じているのに、帰らない部屋の香りがした。\n取っ手の向こうで、鍵穴の光がひとつ消えた。"
+    }
+  ],
+  "pageErrors": [],
+  "httpErrors": []
+}
