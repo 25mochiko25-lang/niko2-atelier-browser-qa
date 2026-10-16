@@ -1,1 +1,1 @@
-{"id":"br17-close-words","op":"tap","x":96,"y":494,"note":"Collapse words without input; verify modal returns to two-image size."}
+{"id":"br18-close-memory","op":"tap","x":374,"y":204,"note":"Close WORLD MEMORY modal without saving or navigation."}
