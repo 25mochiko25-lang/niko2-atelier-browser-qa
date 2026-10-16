@@ -1,6 +1,6 @@
 {
   "session": "mofu-vis-b-20261017-retry-0600-p9c5",
-  "command": "br16-words",
-  "runId": 38967055979,
-  "artifactId": 12075271214
+  "command": "br18-close-memory",
+  "runId": 38967145562,
+  "artifactId": 12075176636
 }
