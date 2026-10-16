@@ -1,1 +1,1 @@
-{"id":"bc18-return-atelier","op":"tap","x":214,"y":733,"note":"Take visible 'アトリエへ戻る' path; inspect closing and position after gift."}
+{"id":"bc19-stop","op":"stop","reason":"B visual audit of Garden, Ending, souvenir and two-card World Memory completed to reachable scope. One-card case unverified; intentionally stop without writes to Production."}
