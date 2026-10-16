@@ -1,1 +1,1 @@
-{"id":"b14-gate","op":"tap","x":216,"y":333,"note":"Pass the visible 5/5 gate toward Ending."}
+{"id":"b15-ending-settle","op":"wait","ms":1400,"note":"Inspect Ending after gate motion settles."}
