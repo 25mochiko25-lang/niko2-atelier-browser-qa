@@ -6,17 +6,17 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-16T21:00:03.081Z",
-  "updatedAt": "2026-10-16T21:06:14.314Z",
-  "lastCommand": "br13-ending-settle",
+  "updatedAt": "2026-10-16T21:06:55.711Z",
+  "lastCommand": "br14-ending-wait",
   "stopReason": null,
   "action": {
-    "id": "br13-ending-settle",
+    "id": "br14-ending-wait",
     "op": "wait",
-    "ms": 1500,
-    "note": "Allow Ending motion to settle, then inspect petal screenshot."
+    "ms": 2400,
+    "note": "Ending currently shows teddy-chair scene, not earlier pool scene; observe transition and souvenir access without forcing hidden controls."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/01f0c78a67c63807e193bed1bd3a0789db247fab/live-results/mofu-vis-b-recovery-20261017-s7k2f91/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/919250958098a6980bf622b1a051858015682dff/live-results/mofu-vis-b-recovery-20261017-s7k2f91/current.jpg",
   "readOnly": true,
   "blockedWrites": 8,
   "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-b-recovery-20261017-s7k2f91#quiet",
@@ -282,6 +282,20 @@
       "error": null,
       "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-b-recovery-20261017-s7k2f91#quiet",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/01f0c78a67c63807e193bed1bd3a0789db247fab/live-results/mofu-vis-b-recovery-20261017-s7k2f91/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n夢を離れる"
+    },
+    {
+      "number": 15,
+      "at": "2026-10-16T21:06:55.711Z",
+      "action": {
+        "id": "br14-ending-wait",
+        "op": "wait",
+        "ms": 2400,
+        "note": "Ending currently shows teddy-chair scene, not earlier pool scene; observe transition and souvenir access without forcing hidden controls."
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-b-recovery-20261017-s7k2f91#quiet",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/919250958098a6980bf622b1a051858015682dff/live-results/mofu-vis-b-recovery-20261017-s7k2f91/current.jpg",
       "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n夢を離れる"
     }
   ]
