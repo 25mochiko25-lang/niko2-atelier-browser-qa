@@ -1,6 +1,7 @@
 {
-  "id": "r21",
-  "op": "wait",
-  "wait": 2500,
-  "note": "Check if selected room-service cups appear after image/render settling."
+  "id": "r22",
+  "op": "tap",
+  "x": 217,
+  "y": 810,
+  "note": "Use visible 'もう一品見る' to compare room-service layout in second-choice state."
 }
