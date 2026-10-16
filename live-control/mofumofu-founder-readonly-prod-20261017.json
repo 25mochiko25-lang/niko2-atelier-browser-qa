@@ -1,8 +1,1 @@
-{
-  "id": "m01-enter",
-  "op": "tap",
-  "x": 216,
-  "y": 580,
-  "wait": 650,
-  "note": "Founder reference: open original production Home intro, no site POST allowed."
-}
+{"id":"m02-intro","op":"tap","x":376,"y":858,"wait":550,"note":"Advance screen-led founder mobile intro without write requests."}
