@@ -1,7 +1,7 @@
 {
-  "id": "d03-intro-next",
+  "id": "d04-enter-world",
   "op": "tap",
-  "x": 374,
-  "y": 858,
-  "note": "Advance interaction tutorial to final intro."
+  "x": 373,
+  "y": 859,
+  "note": "Enter dream from WELCOME."
 }
