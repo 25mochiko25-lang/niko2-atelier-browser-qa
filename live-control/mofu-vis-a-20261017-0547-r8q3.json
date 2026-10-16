@@ -1,6 +1,7 @@
 {
-  "id": "a10-look-bear",
-  "op": "look",
-  "wait": 1500,
-  "note": "Observe whether full-screen bear view settles or exposes a return control."
+  "id": "a11-leave-dream",
+  "op": "tap",
+  "x": 76,
+  "y": 893,
+  "note": "Use visible exit from adjacent Garden memory scene and inspect resulting screen."
 }
