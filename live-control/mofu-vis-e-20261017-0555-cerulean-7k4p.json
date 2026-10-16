@@ -1,7 +1,7 @@
 {
-  "id": "e04-enter-world",
+  "id": "e05-garden-enter",
   "op": "tap",
-  "x": 370,
-  "y": 856,
-  "note": "Open public production world"
+  "x": 211,
+  "y": 875,
+  "note": "Continue through visible garden entrance toward Diary navigation"
 }
