@@ -6,20 +6,20 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-16T21:10:53.784Z",
-  "updatedAt": "2026-10-16T21:13:47.539Z",
-  "lastCommand": "bc07-reveal-petal",
+  "updatedAt": "2026-10-16T21:14:18.589Z",
+  "lastCommand": "bc08-retap-petal",
   "stopReason": null,
   "action": {
-    "id": "bc07-reveal-petal",
+    "id": "bc08-retap-petal",
     "op": "tap",
-    "x": 119,
-    "y": 825,
-    "note": "Tap visible outlined return petal; inspect actual souvenir reveal."
+    "x": 120,
+    "y": 823,
+    "note": "Tap the same visible petal again after reveal to verify reopen/close behavior."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/b360aa1faecb8cb82747f4322e20cb358fffdd4a/live-results/mofu-vis-b-recovery3-20261017-v8n6p2/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/f62e9775f7abad60c9492a3b1c10d7ec28410286/live-results/mofu-vis-b-recovery3-20261017-v8n6p2/current.jpg",
   "readOnly": true,
-  "blockedWrites": 4,
+  "blockedWrites": 5,
   "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-b-recovery3-20261017-v8n6p2#quiet",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -31,7 +31,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n夢の見覚え ✧︎\n\n空へ昇った庭から、一枚だけ残った。\n\n持ち帰る\n\n夢を離れる",
+  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n夢を離れる",
   "controls": [
     {
       "tag": "BUTTON",
@@ -61,20 +61,9 @@
       "disabled": false,
       "rect": {
         "x": 86,
-        "y": 790,
+        "y": 789,
         "w": 69,
         "h": 69
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "持ち帰る",
-      "disabled": false,
-      "rect": {
-        "x": 159,
-        "y": 793,
-        "w": 112,
-        "h": 44
       }
     },
     {
@@ -206,6 +195,21 @@
       "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-b-recovery3-20261017-v8n6p2#quiet",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/b360aa1faecb8cb82747f4322e20cb358fffdd4a/live-results/mofu-vis-b-recovery3-20261017-v8n6p2/current.jpg",
       "text": "作品へ移動\n夢の見覚え ✧︎\n\n空へ昇った庭から、一枚だけ残った。\n\n持ち帰る\n\n夢を離れる"
+    },
+    {
+      "number": 9,
+      "at": "2026-10-16T21:14:18.589Z",
+      "action": {
+        "id": "bc08-retap-petal",
+        "op": "tap",
+        "x": 120,
+        "y": 823,
+        "note": "Tap the same visible petal again after reveal to verify reopen/close behavior."
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-b-recovery3-20261017-v8n6p2#quiet",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/f62e9775f7abad60c9492a3b1c10d7ec28410286/live-results/mofu-vis-b-recovery3-20261017-v8n6p2/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n夢を離れる"
     }
   ]
 }
