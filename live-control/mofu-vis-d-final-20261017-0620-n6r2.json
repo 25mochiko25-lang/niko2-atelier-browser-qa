@@ -1,1 +1,1 @@
-{"id":"f25-open-door","op":"tap","x":382,"y":558,"note":"Open actual ROOM NULL door at visible handle; inspect interior."}
+{"id":"f26-room-settle","op":"look","wait":1600,"note":"Allow door opening transition to settle, visually inspect ROOM NULL interior."}
