@@ -1,1 +1,1 @@
-{"id":"b07-close-hourglass","op":"tap","x":377,"y":772,"note":"Close first memory and inspect return alignment."}
+{"id":"b08-reopen-hourglass","op":"tap","x":52,"y":467,"note":"Verify the same found memory can reopen at consistent scale."}
