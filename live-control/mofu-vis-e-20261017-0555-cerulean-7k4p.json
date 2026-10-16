@@ -1,7 +1,7 @@
 {
-  "id": "e09-memory-caption",
+  "id": "e10-discard-memory",
   "op": "tap",
-  "x": 96,
-  "y": 585,
-  "note": "Inspect optional caption input without typing personal content"
+  "x": 211,
+  "y": 823,
+  "note": "Decline saving fragment, return to Atelier without submitting text"
 }
