@@ -6,18 +6,18 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-16T20:56:18.164Z",
-  "updatedAt": "2026-10-16T21:01:03.745Z",
-  "lastCommand": "d01-enter",
+  "updatedAt": "2026-10-16T21:01:44.994Z",
+  "lastCommand": "d02-intro-next",
   "stopReason": null,
   "action": {
-    "id": "d01-enter",
+    "id": "d02-intro-next",
     "op": "tap",
-    "x": 209,
-    "y": 579,
-    "note": "Continue D visual audit from initial dream entry after visually inspecting arrival screenshot."
+    "x": 375,
+    "y": 858,
+    "note": "Advance visible WORLD intro card."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/f9e77e1ccd8ee7162f521266afad7b04d19dfb23/live-results/mofu-vis-d-20261017-0555-qp8x2/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/aefaaca9e176f61d19b35b6e3499b645b95afc1a/live-results/mofu-vis-d-20261017-0555-qp8x2/current.jpg",
   "readOnly": true,
   "blockedWrites": 1,
   "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-d-20261017-0555-qp8x2",
@@ -31,7 +31,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n\n\nWORLD\n夢の入り口は、毎回すこし違う。 夢から醒めても何かは残る。\n次へ",
+  "text": "作品へ移動\n\n\nINTERACTION\n\nSound On\n\nSound Off\n触れる\n持ち帰る\n仕舞う\n次へ戻る",
   "controls": [
     {
       "tag": "BUTTON",
@@ -57,10 +57,76 @@
     },
     {
       "tag": "BUTTON",
+      "text": "Sound On",
+      "disabled": false,
+      "rect": {
+        "x": 116,
+        "y": 521,
+        "w": 94,
+        "h": 38
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Sound Off",
+      "disabled": false,
+      "rect": {
+        "x": 218,
+        "y": 521,
+        "w": 95,
+        "h": 38
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "触れる",
+      "disabled": false,
+      "rect": {
+        "x": 105,
+        "y": 575,
+        "w": 65,
+        "h": 38
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "持ち帰る",
+      "disabled": false,
+      "rect": {
+        "x": 177,
+        "y": 575,
+        "w": 76,
+        "h": 38
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "仕舞う",
+      "disabled": false,
+      "rect": {
+        "x": 260,
+        "y": 575,
+        "w": 65,
+        "h": 38
+      }
+    },
+    {
+      "tag": "BUTTON",
       "text": "次へ",
       "disabled": false,
       "rect": {
         "x": 340,
+        "y": 836,
+        "w": 72,
+        "h": 44
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "戻る",
+      "disabled": false,
+      "rect": {
+        "x": 18,
         "y": 836,
         "w": 72,
         "h": 44
@@ -95,6 +161,21 @@
       "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-d-20261017-0555-qp8x2",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/f9e77e1ccd8ee7162f521266afad7b04d19dfb23/live-results/mofu-vis-d-20261017-0555-qp8x2/current.jpg",
       "text": "作品へ移動\n\n\nWORLD\n夢の入り口は、毎回すこし違う。 夢から醒めても何かは残る。\n次へ"
+    },
+    {
+      "number": 3,
+      "at": "2026-10-16T21:01:44.994Z",
+      "action": {
+        "id": "d02-intro-next",
+        "op": "tap",
+        "x": 375,
+        "y": 858,
+        "note": "Advance visible WORLD intro card."
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-d-20261017-0555-qp8x2",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/aefaaca9e176f61d19b35b6e3499b645b95afc1a/live-results/mofu-vis-d-20261017-0555-qp8x2/current.jpg",
+      "text": "作品へ移動\n\n\nINTERACTION\n\nSound On\n\nSound Off\n触れる\n持ち帰る\n仕舞う\n次へ戻る"
     }
   ]
 }
