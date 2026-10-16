@@ -1,7 +1,6 @@
 {
-  "id": "r06-memory",
-  "op": "tap",
-  "x": 386,
-  "y": 72,
-  "note": "Follow visible Garden memory shortcut"
+  "id": "r07-settle",
+  "op": "wait",
+  "ms": 1800,
+  "note": "Wait for Castle transition"
 }
