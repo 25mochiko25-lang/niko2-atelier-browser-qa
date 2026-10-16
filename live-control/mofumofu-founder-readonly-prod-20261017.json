@@ -1,1 +1,1 @@
-{"id":"m28-lab-enter","op":"tap","x":119,"y":719,"wait":700,"note":"Enter Research Lab intro and inspect 430x932 visual stage."}
+{"id":"m29-lab-home","op":"tap","x":80,"y":35,"wait":620,"note":"Return from Lab to Home through visible site logo."}
