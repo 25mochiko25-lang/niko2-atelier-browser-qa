@@ -1,1 +1,1 @@
-{"id":"m06-hourglass","op":"tap","x":46,"y":456,"wait":650,"note":"Collect hourglass; inspect fragment location, scale, and accessibility."}
+{"id":"m07-close-memory","op":"tap","x":376,"y":772,"wait":380,"note":"Close memory fragment and test next collectible."}
