@@ -1,6 +1,7 @@
 {
-  "id": "e07-settle",
-  "op": "wait",
-  "ms": 2200,
-  "note": "Observe page after transition finishes"
+  "id": "e08-exit-dream",
+  "op": "tap",
+  "x": 73,
+  "y": 890,
+  "note": "Follow visible leave dream control toward HOME and Diary"
 }
