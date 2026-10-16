@@ -6,20 +6,20 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-16T21:02:55.000Z",
-  "updatedAt": "2026-10-16T21:12:55.456Z",
-  "lastCommand": "r22",
+  "updatedAt": "2026-10-16T21:13:18.479Z",
+  "lastCommand": "r23",
   "stopReason": null,
   "action": {
-    "id": "r22",
+    "id": "r23",
     "op": "tap",
-    "x": 217,
-    "y": 810,
-    "note": "Use visible 'もう一品見る' to compare room-service layout in second-choice state."
+    "x": 230,
+    "y": 376,
+    "note": "Select Blue Hour to compare hotel room-service state and visual design."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/7a6b13267d8eca5dedf607a2804dc09dbb018144/live-results/mofu-vis-f-20261017-0603-h4k9/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/eea31ad3784cc4d921f8a9eb2c86821bac6eaf84/live-results/mofu-vis-f-20261017-0603-h4k9/current.jpg",
   "readOnly": true,
-  "blockedWrites": 15,
+  "blockedWrites": 16,
   "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-f-20261017-0603-h4k9#hotel",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -31,7 +31,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\nNIKO² ATELIER\n\n\nDREAM / ROOM 0317\nHOTEL SOMNIA\nSTAY 0 / 3\n×\nROOM SERVICE / TONIGHT\n存在しないものを、お二つまで。\n1 / 2\n\nTea for Nobody\nカップを二つ。来客の予定は不要です。\n¥600\n\nYesterday\n保存状態によって、味が異なります。\n¥0\n\nBlue Hour\n日没後、夜になる前だけのお色です。\n¥400\n\nA Sunday You Forgot\n次回入荷日は、先週の日曜日です。\nSOLD OUT\n\nSomeone Else's Rain\n窓は閉じたままでお召し上がりください。\nCOMPLIMENTARY\nTea for Nobody\nティーカップが二つ届いた。誰も来なかったし、最後まで二つだった。\n今夜をDiaryへ持ち帰る\nCHECK OUT\n",
+  "text": "作品へ移動\nNIKO² ATELIER\n\n\nDREAM / ROOM 0317\nHOTEL SOMNIA\nSTAY 0 / 3\n×\nBlue Hour\n窓の外だけが夕暮れになった。時計は夜のままだった。\nメニューを眺める\n今夜をDiaryへ持ち帰る\nCHECK OUT\n",
   "controls": [
     {
       "tag": "A",
@@ -67,6 +67,17 @@
       }
     },
     {
+      "tag": "BUTTON",
+      "text": "Blue Hourの窓へ触れる",
+      "disabled": false,
+      "rect": {
+        "x": 0,
+        "y": 158,
+        "w": 211,
+        "h": 410
+      }
+    },
+    {
       "tag": "A",
       "text": "アトリエへ戻る",
       "disabled": false,
@@ -83,64 +94,20 @@
       "disabled": false,
       "rect": {
         "x": 381,
-        "y": 148,
+        "y": 712,
         "w": 30,
         "h": 30
       }
     },
     {
       "tag": "BUTTON",
-      "text": "Tea for Nobody\nカップを二つ。来客の予定は不要です。\n¥600",
-      "disabled": true,
-      "rect": {
-        "x": 28,
-        "y": 225,
-        "w": 374,
-        "h": 61
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "Yesterday\n保存状態によって、味が異なります。\n¥0",
+      "text": "メニューを眺める",
       "disabled": false,
       "rect": {
-        "x": 28,
-        "y": 286,
-        "w": 374,
-        "h": 61
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "Blue Hour\n日没後、夜になる前だけのお色です。\n¥400",
-      "disabled": false,
-      "rect": {
-        "x": 28,
-        "y": 347,
-        "w": 374,
-        "h": 61
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "A Sunday You Forgot\n次回入荷日は、先週の日曜日です。\nSOLD OUT",
-      "disabled": true,
-      "rect": {
-        "x": 28,
-        "y": 408,
-        "w": 374,
-        "h": 61
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "Someone Else's Rain\n窓は閉じたままでお召し上がりください。\nCOMPLIMENTARY",
-      "disabled": false,
-      "rect": {
-        "x": 28,
-        "y": 469,
-        "w": 374,
-        "h": 61
+        "x": 24,
+        "y": 787,
+        "w": 382,
+        "h": 50
       }
     },
     {
@@ -148,10 +115,10 @@
       "text": "今夜をDiaryへ持ち帰る",
       "disabled": false,
       "rect": {
-        "x": 27,
-        "y": 639,
-        "w": 184,
-        "h": 43
+        "x": 24,
+        "y": 845,
+        "w": 187,
+        "h": 50
       }
     },
     {
@@ -160,9 +127,9 @@
       "disabled": false,
       "rect": {
         "x": 219,
-        "y": 639,
-        "w": 184,
-        "h": 43
+        "y": 845,
+        "w": 187,
+        "h": 50
       }
     }
   ],
@@ -507,6 +474,21 @@
       "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-f-20261017-0603-h4k9#hotel",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/7a6b13267d8eca5dedf607a2804dc09dbb018144/live-results/mofu-vis-f-20261017-0603-h4k9/current.jpg",
       "text": "作品へ移動\nNIKO² ATELIER\n\n\nDREAM / ROOM 0317\nHOTEL SOMNIA\nSTAY 0 / 3\n×\nROOM SERVICE / TONIGHT\n存在しないものを、お二つまで。\n1 / 2\n\nTea for Nobody\nカップを二つ。来客の予定は不要です。\n¥600\n\nYesterday\n保存状態によって、味が異なります。\n¥0\n\nBlue Hour\n日没後、夜になる前だけのお色です。\n¥400\n\nA Sunday You Forgot\n次回入荷日は、先週の日曜日です。\nSOLD OUT\n\nSomeone Else's Rain\n窓は閉じたままでお召し上がりください。\nCOMPLIMENTARY\nTea for Nobody\nティーカップが二つ届いた。誰も来なかったし、最後まで二つだった。\n今夜をDiaryへ持ち帰る\nCHECK OUT\n"
+    },
+    {
+      "number": 24,
+      "at": "2026-10-16T21:13:18.479Z",
+      "action": {
+        "id": "r23",
+        "op": "tap",
+        "x": 230,
+        "y": 376,
+        "note": "Select Blue Hour to compare hotel room-service state and visual design."
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-f-20261017-0603-h4k9#hotel",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/eea31ad3784cc4d921f8a9eb2c86821bac6eaf84/live-results/mofu-vis-f-20261017-0603-h4k9/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\n\n\nDREAM / ROOM 0317\nHOTEL SOMNIA\nSTAY 0 / 3\n×\nBlue Hour\n窓の外だけが夕暮れになった。時計は夜のままだった。\nメニューを眺める\n今夜をDiaryへ持ち帰る\nCHECK OUT\n"
     }
   ]
 }
