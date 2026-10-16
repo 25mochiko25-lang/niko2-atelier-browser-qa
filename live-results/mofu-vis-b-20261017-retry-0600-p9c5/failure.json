@@ -1,0 +1,361 @@
+{
+  "session": "mofu-vis-b-20261017-retry-0600-p9c5",
+  "device": "founder",
+  "stopReason": "infrastructure_error",
+  "error": "Error: GitHub 409: {\"message\":\"is at c4d00af7f0737a3be8ee83516d566f286c8b7209 but expected a67cdd647fbcb3258f958cd737b215e6f6245f1e\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"409\"}",
+  "events": [
+    {
+      "number": 1,
+      "at": "2026-10-16T20:59:35.840Z",
+      "action": {
+        "op": "arrival"
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-b-20261017-retry-0600-p9c5",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/70f4d97cca9794675d852e82e92011f46718f837/live-results/mofu-vis-b-20261017-retry-0600-p9c5/current.jpg",
+      "text": "作品へ移動\n\n"
+    },
+    {
+      "number": 2,
+      "at": "2026-10-16T20:59:55.848Z",
+      "action": {
+        "id": "br01-enter",
+        "op": "tap",
+        "x": 210,
+        "y": 580,
+        "note": "Revisit visible introduction, fresh read-only session."
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-b-20261017-retry-0600-p9c5",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/9bf09b20a54866cade61a9139ac694cd0a93297a/live-results/mofu-vis-b-20261017-retry-0600-p9c5/current.jpg",
+      "text": "作品へ移動\n\n\nWORLD\n夢の入り口は、毎回すこし違う。 夢から醒めても何かは残る。\n次へ"
+    },
+    {
+      "number": 3,
+      "at": "2026-10-16T21:00:37.061Z",
+      "action": {
+        "id": "br02-next",
+        "op": "tap",
+        "x": 371,
+        "y": 856,
+        "note": "Repeat previously inspected intro step in fresh session."
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-b-20261017-retry-0600-p9c5",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/0d934d16d32a63c993265b03d0a2a5c9450c57d3/live-results/mofu-vis-b-20261017-retry-0600-p9c5/current.jpg",
+      "text": "作品へ移動\n\n\nINTERACTION\n\nSound On\n\nSound Off\n触れる\n持ち帰る\n仕舞う\n次へ戻る"
+    },
+    {
+      "number": 4,
+      "at": "2026-10-16T21:00:55.985Z",
+      "action": {
+        "id": "br03-next",
+        "op": "tap",
+        "x": 371,
+        "y": 856,
+        "note": "Advance intro toward Garden."
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-b-20261017-retry-0600-p9c5",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/58808a213268640877d997b3cc08d9795e41f8f7/live-results/mofu-vis-b-20261017-retry-0600-p9c5/current.jpg",
+      "text": "作品へ移動\n\n\nWELCOME\nようこそ！\n夢へ入る戻る"
+    },
+    {
+      "number": 5,
+      "at": "2026-10-16T21:01:22.871Z",
+      "action": {
+        "id": "br04-enter",
+        "op": "tap",
+        "x": 370,
+        "y": 857,
+        "note": "Enter Garden in second session."
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-b-20261017-retry-0600-p9c5#garden",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/71c401f7541da81e91f8df2cb397c352633553ef/live-results/mofu-vis-b-20261017-retry-0600-p9c5/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n席を立ったあとの庭にも、\n持ち主より長く夢を見るものがいる。\n\nこの空へ入る\n0 / 5\n見つけたもの\n"
+    },
+    {
+      "number": 6,
+      "at": "2026-10-16T21:01:56.484Z",
+      "action": {
+        "id": "br05-garden",
+        "op": "tap",
+        "x": 213,
+        "y": 875,
+        "note": "Garden entry, repeat visible discoveries."
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-b-20261017-retry-0600-p9c5#garden",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/647aa3928d55d492efde2c37a5f5e45d10d4ec88/live-results/mofu-vis-b-20261017-retry-0600-p9c5/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n0 / 5\n見つけたもの\n"
+    },
+    {
+      "number": 7,
+      "at": "2026-10-16T21:02:14.336Z",
+      "action": {
+        "id": "br06-hourglass",
+        "op": "tap",
+        "x": 50,
+        "y": 465,
+        "note": "Revisit first Garden fragment."
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-b-20261017-retry-0600-p9c5#garden",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/e8559396c1d0a80d264666e8943e51f964bc2afb/live-results/mofu-vis-b-20261017-retry-0600-p9c5/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n1 / 5\n見つけたもの\nCG-01-A_01.DRM\n06:02:11\n\nFRAGMENT / 01\n\n止まりかけの砂時計\n砂は落ちていく。 逆さまに。巻き戻るように。\n"
+    },
+    {
+      "number": 8,
+      "at": "2026-10-16T21:02:30.014Z",
+      "action": {
+        "id": "br07-perfume",
+        "op": "tap",
+        "x": 103,
+        "y": 562,
+        "note": "Revisit second fragment from visible object."
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-b-20261017-retry-0600-p9c5#garden",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/a35ff8d00d77d2baff2008e596f2793f8ae76778/live-results/mofu-vis-b-20261017-retry-0600-p9c5/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n2 / 5\n見つけたもの\nCG-01-A_02.DRM\n06:02:26\n\nFRAGMENT / 02\n\nN² Eau de rêve\nキャップは常に閉じているのに、帰らない部屋の香りがした。\n"
+    },
+    {
+      "number": 9,
+      "at": "2026-10-16T21:02:57.654Z",
+      "action": {
+        "id": "br08-cup",
+        "op": "tap",
+        "x": 225,
+        "y": 550,
+        "note": "Repeat third fragment."
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-b-20261017-retry-0600-p9c5#garden",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/b18442031d21c1809122f2e2281eea255e4ace1e/live-results/mofu-vis-b-20261017-retry-0600-p9c5/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n3 / 5\n見つけたもの\nCG-01-A_03.DRM\n06:02:52\n\nFRAGMENT / 03\n\nまだあたたかいカップ\nほんのり湯気が残る。まだ、誰かの気配がする。\n"
+    },
+    {
+      "number": 10,
+      "at": "2026-10-16T21:03:46.542Z",
+      "action": {
+        "id": "br09-bear",
+        "op": "tap",
+        "x": 369,
+        "y": 548,
+        "note": "Repeat fourth fragment."
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-b-20261017-retry-0600-p9c5#garden",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/ec7bad4716cdbe7791260abba426fa56e7d90fac/live-results/mofu-vis-b-20261017-retry-0600-p9c5/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n4 / 5\n見つけたもの\nCG-01-A_04.DRM\n06:03:43\n\nFRAGMENT / 04\n\n置き去りのくま\n名前はもうない。それでも、いつもの方を向いている。\n"
+    },
+    {
+      "number": 11,
+      "at": "2026-10-16T21:04:11.931Z",
+      "action": {
+        "id": "br10-key",
+        "op": "tap",
+        "x": 170,
+        "y": 610,
+        "note": "Fifth fragment, unlock gate."
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-b-20261017-retry-0600-p9c5#garden",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/9fc67dead554577ee4122da19e1720f3b4fa24ac/live-results/mofu-vis-b-20261017-retry-0600-p9c5/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n5 / 5\n見つけたもの\n\nあの扉が、こちらを呼んでいる。\n触れて、向こうへ\n"
+    },
+    {
+      "number": 12,
+      "at": "2026-10-16T21:04:42.365Z",
+      "action": {
+        "id": "br11-gate-settle",
+        "op": "wait",
+        "ms": 1200,
+        "note": "Wait for revealed gate to settle before tap."
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-b-20261017-retry-0600-p9c5#garden",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/673d1a7cf3754f981cce97cd3f26c009662be2fa/live-results/mofu-vis-b-20261017-retry-0600-p9c5/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n5 / 5\n見つけたもの\n\nあの扉が、こちらを呼んでいる。\n触れて、向こうへ\n"
+    },
+    {
+      "number": 13,
+      "at": "2026-10-16T21:05:03.207Z",
+      "action": {
+        "id": "br12-gate",
+        "op": "tap",
+        "x": 218,
+        "y": 330,
+        "note": "Pass visible gate toward Ending."
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-b-20261017-retry-0600-p9c5#quiet",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/0cf708fe0e8f574bc778bcc01b34f464cc25be1d/live-results/mofu-vis-b-20261017-retry-0600-p9c5/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n"
+    },
+    {
+      "number": 14,
+      "at": "2026-10-16T21:05:26.538Z",
+      "action": {
+        "id": "br13-ending-settle",
+        "op": "wait",
+        "ms": 1400,
+        "note": "Wait for Ending scene and floating petal."
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-b-20261017-retry-0600-p9c5#quiet",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/4b20ba3e33187c7e53ceab8ff50be3b601c2f86c/live-results/mofu-vis-b-20261017-retry-0600-p9c5/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n夢を離れる"
+    },
+    {
+      "number": 15,
+      "at": "2026-10-16T21:05:45.355Z",
+      "action": {
+        "id": "br14-petal",
+        "op": "tap",
+        "x": 121,
+        "y": 824,
+        "note": "Touch Ending petal; inspect souvenir reveal."
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-b-20261017-retry-0600-p9c5#quiet",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/7c9e984a7988142bf43c69940983eb467d06bf09/live-results/mofu-vis-b-20261017-retry-0600-p9c5/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n空へ昇った庭から、一枚だけ残った。\n\n持ち帰る\n\n夢を離れる"
+    },
+    {
+      "number": 16,
+      "at": "2026-10-16T21:06:05.638Z",
+      "action": {
+        "id": "br15-carry",
+        "op": "tap",
+        "x": 213,
+        "y": 816,
+        "note": "Tap visible 持ち帰る and observe souvenir presentation."
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-b-20261017-retry-0600-p9c5#quiet",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/1674a3af49576465eb6bd866cd7718a2777ce464/live-results/mofu-vis-b-20261017-retry-0600-p9c5/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n夢を離れる\n\nDREAM MEMORY\n\n夢から残ったもの\n\nWORLD MEMORY\nTHING THAT REMAINED\nWORLD MEMORY + REMAINS\n光へ向かう茎\n帰る花弁 — 空へ昇った庭から、一枚だけ残った。\n言葉を添える\nアトリエへ戻る\nDiaryへ持ち帰る"
+    },
+    {
+      "number": 17,
+      "at": "2026-10-16T21:06:42.026Z",
+      "action": {
+        "id": "br16-words",
+        "op": "tap",
+        "x": 93,
+        "y": 600,
+        "note": "Open 言葉を添える without typing or submitting private text."
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-b-20261017-retry-0600-p9c5#quiet",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/3b2306df1136f75ef93d4d87fc7a7dc326d0c778/live-results/mofu-vis-b-20261017-retry-0600-p9c5/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n夢を離れる\n\nDREAM MEMORY\n\n夢から残ったもの\n\nWORLD MEMORY\nTHING THAT REMAINED\nWORLD MEMORY + REMAINS\n光へ向かう茎\n帰る花弁 — 空へ昇った庭から、一枚だけ残った。\n言葉を閉じる\n夢のあとに残す言葉\n\nアトリエへ戻る\nDiaryへ持ち帰る"
+    },
+    {
+      "number": 18,
+      "at": "2026-10-16T21:07:08.109Z",
+      "action": {
+        "id": "br17-close-words",
+        "op": "tap",
+        "x": 96,
+        "y": 494,
+        "note": "Collapse words without input; verify modal returns to two-image size."
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-b-20261017-retry-0600-p9c5#quiet",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/6f5255aea87606c75c4dd411f6bc6a1b65f19e51/live-results/mofu-vis-b-20261017-retry-0600-p9c5/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n夢を離れる\n\nDREAM MEMORY\n\n夢から残ったもの\n\nWORLD MEMORY\nTHING THAT REMAINED\nWORLD MEMORY + REMAINS\n光へ向かう茎\n帰る花弁 — 空へ昇った庭から、一枚だけ残った。\n言葉を添える\nアトリエへ戻る\nDiaryへ持ち帰る"
+    },
+    {
+      "number": 19,
+      "at": "2026-10-16T21:07:28.872Z",
+      "action": {
+        "id": "br18-close-memory",
+        "op": "tap",
+        "x": 374,
+        "y": 204,
+        "note": "Close WORLD MEMORY modal without saving or navigation."
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-b-20261017-retry-0600-p9c5#quiet",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/b0e73a93f68f61200d4032061f226161408d806b/live-results/mofu-vis-b-20261017-retry-0600-p9c5/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n夢を離れる"
+    },
+    {
+      "number": 20,
+      "at": "2026-10-16T21:07:49.853Z",
+      "action": {
+        "id": "br19-petal-reopen",
+        "op": "tap",
+        "x": 119,
+        "y": 823,
+        "note": "Retap the petal after closing the memory, check whether souvenir can be reopened."
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-b-20261017-retry-0600-p9c5#quiet",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/8d00c0d75b548c3b508d4c93a15c8fcd37fa5550/live-results/mofu-vis-b-20261017-retry-0600-p9c5/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n夢を離れる"
+    },
+    {
+      "number": 21,
+      "at": "2026-10-16T21:08:15.416Z",
+      "action": {
+        "id": "br20-wait-retap",
+        "op": "wait",
+        "ms": 1200,
+        "note": "Check if reopening gift only needs animation delay."
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-b-20261017-retry-0600-p9c5#quiet",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/925cb366ef5c5938ce746fd05ad1d3a043197875/live-results/mofu-vis-b-20261017-retry-0600-p9c5/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n夢を離れる"
+    },
+    {
+      "number": 22,
+      "at": "2026-10-16T21:09:17.235Z",
+      "action": {
+        "id": "br21-dream-memory",
+        "op": "tap",
+        "x": 384,
+        "y": 71,
+        "note": "Try visible 夢の見覚え link as alternate reopen route."
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-b-20261017-retry-0600-p9c5",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/afdd3befa77b8f02d5732060dd1405e2fc7a51c3/live-results/mofu-vis-b-20261017-retry-0600-p9c5/current.jpg",
+      "text": "作品へ移動\n \nWORLD\nWORLD\n水面の向こうに、いくつかの場所がひらいています。\n\n\nABOUT\nもふもふはいます。\nPLAY / SHARE / FAN WORK\nNIKO²での生活について\n好きな形で遊ぶための、小さな境界。\nDEAR ATELIER\nお手紙を送る\nAtelierの受取箱へ。\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n\nAFTER THE GARDEN\nいくつかのものに触れ、 最後の景色まで進みました。\n次へ"
+    },
+    {
+      "number": 23,
+      "at": "2026-10-16T21:10:14.525Z",
+      "action": {
+        "id": "br22-back",
+        "op": "back",
+        "note": "Browser Back from after-Garden intro to see whether Ending state is recoverable."
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-b-20261017-retry-0600-p9c5",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/4cce66dc3735efda58cd8c2f2aedc65d4b4e7372/live-results/mofu-vis-b-20261017-retry-0600-p9c5/current.jpg",
+      "text": "作品へ移動\n \nWORLD\nWORLD\n水面の向こうに、いくつかの場所がひらいています。\n\n\nABOUT\nもふもふはいます。\nPLAY / SHARE / FAN WORK\nNIKO²での生活について\n好きな形で遊ぶための、小さな境界。\nDEAR ATELIER\nお手紙を送る\nAtelierの受取箱へ。\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n"
+    },
+    {
+      "number": 24,
+      "at": "2026-10-16T21:10:36.873Z",
+      "action": {
+        "id": "br23-reenter-dream",
+        "op": "tap",
+        "x": 210,
+        "y": 582,
+        "note": "Reenter through visible home button to see whether completed Garden has a replay path."
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-b-20261017-retry-0600-p9c5#perfume",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/5ccfbc1032788a972893024752aefaaaaa28eb4c/live-results/mofu-vis-b-20261017-retry-0600-p9c5/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\n\n\nDREAM / PM-01\nPERFUME MORGUE\nFORMULA / EMPTY\nFORMULA / TWELVE TRILLION\n三つの層に、記憶を落とす。\n十二兆通りの数式のうち、今日の一本だけが、あなたの手で閉じる。\nときどき、こちらの記録にはない香りも届きます。\n\n調香台へ\n"
+    }
+  ],
+  "pageErrors": [],
+  "httpErrors": []
+}
