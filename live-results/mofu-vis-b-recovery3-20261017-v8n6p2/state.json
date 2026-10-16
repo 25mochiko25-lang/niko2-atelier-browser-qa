@@ -6,20 +6,19 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-16T21:10:53.784Z",
-  "updatedAt": "2026-10-16T21:16:47.620Z",
-  "lastCommand": "bc14-aftertake-reopen",
+  "updatedAt": "2026-10-16T21:17:10.968Z",
+  "lastCommand": "bc15-aftertake-wait",
   "stopReason": null,
   "action": {
-    "id": "bc14-aftertake-reopen",
-    "op": "tap",
-    "x": 120,
-    "y": 824,
-    "note": "After taking and closing memory, touch petal again to test repeatable souvenir reveal."
+    "id": "bc15-aftertake-wait",
+    "op": "wait",
+    "ms": 1400,
+    "note": "After-taking petal first tap displayed nothing; settle animation before retest."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/8f53950e3bd4fb5b7c4305fba217b545781396d7/live-results/mofu-vis-b-recovery3-20261017-v8n6p2/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/f5fccbcdac5192e7cb50b1b56eaa3a7b27945808/live-results/mofu-vis-b-recovery3-20261017-v8n6p2/current.jpg",
   "readOnly": true,
-  "blockedWrites": 7,
+  "blockedWrites": 8,
   "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-b-recovery3-20261017-v8n6p2#quiet",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -60,8 +59,8 @@
       "text": "帰る花弁に触れる",
       "disabled": false,
       "rect": {
-        "x": 87,
-        "y": 789,
+        "x": 86,
+        "y": 790,
         "w": 69,
         "h": 69
       }
@@ -299,6 +298,20 @@
       "error": null,
       "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-b-recovery3-20261017-v8n6p2#quiet",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/8f53950e3bd4fb5b7c4305fba217b545781396d7/live-results/mofu-vis-b-recovery3-20261017-v8n6p2/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n夢を離れる"
+    },
+    {
+      "number": 16,
+      "at": "2026-10-16T21:17:10.968Z",
+      "action": {
+        "id": "bc15-aftertake-wait",
+        "op": "wait",
+        "ms": 1400,
+        "note": "After-taking petal first tap displayed nothing; settle animation before retest."
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-b-recovery3-20261017-v8n6p2#quiet",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/f5fccbcdac5192e7cb50b1b56eaa3a7b27945808/live-results/mofu-vis-b-recovery3-20261017-v8n6p2/current.jpg",
       "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n夢を離れる"
     }
   ]
