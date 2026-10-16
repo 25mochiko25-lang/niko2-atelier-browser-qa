@@ -6,18 +6,18 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-16T20:49:59.380Z",
-  "updatedAt": "2026-10-16T20:53:19.995Z",
-  "lastCommand": "b06-hourglass",
+  "updatedAt": "2026-10-16T20:53:45.297Z",
+  "lastCommand": "b07-close-hourglass",
   "stopReason": null,
   "action": {
-    "id": "b06-hourglass",
+    "id": "b07-close-hourglass",
     "op": "tap",
-    "x": 52,
-    "y": 467,
-    "note": "Open first visible Garden memory: hourglass."
+    "x": 377,
+    "y": 772,
+    "note": "Close first memory and inspect return alignment."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/4de1e8bad3d8fb6bea4d40cef9f70633852edd70/live-results/mofu-vis-b-20261017-0548-k7r4/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/e61227cb6571a9368de9c10830ff37d10b1d4b97/live-results/mofu-vis-b-20261017-0548-k7r4/current.jpg",
   "readOnly": true,
   "blockedWrites": 4,
   "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-b-20261017-0548-k7r4#garden",
@@ -31,7 +31,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n1 / 5\n見つけたもの\nCG-01-A_01.DRM\n05:53:16\n\nFRAGMENT / 01\n\n止まりかけの砂時計\n砂は落ちていく。 逆さまに。巻き戻るように。\n",
+  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n1 / 5\n見つけたもの\n",
   "controls": [
     {
       "tag": "BUTTON",
@@ -197,17 +197,6 @@
         "w": 69,
         "h": 90
       }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "見つけた記憶を閉じる",
-      "disabled": false,
-      "rect": {
-        "x": 364,
-        "y": 761,
-        "w": 24,
-        "h": 23
-      }
     }
   ],
   "pageErrors": [],
@@ -313,6 +302,21 @@
       "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-b-20261017-0548-k7r4#garden",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/4de1e8bad3d8fb6bea4d40cef9f70633852edd70/live-results/mofu-vis-b-20261017-0548-k7r4/current.jpg",
       "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n1 / 5\n見つけたもの\nCG-01-A_01.DRM\n05:53:16\n\nFRAGMENT / 01\n\n止まりかけの砂時計\n砂は落ちていく。 逆さまに。巻き戻るように。\n"
+    },
+    {
+      "number": 8,
+      "at": "2026-10-16T20:53:45.297Z",
+      "action": {
+        "id": "b07-close-hourglass",
+        "op": "tap",
+        "x": 377,
+        "y": 772,
+        "note": "Close first memory and inspect return alignment."
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-b-20261017-0548-k7r4#garden",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/e61227cb6571a9368de9c10830ff37d10b1d4b97/live-results/mofu-vis-b-20261017-0548-k7r4/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n1 / 5\n見つけたもの\n"
     }
   ]
 }
