@@ -6,18 +6,17 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-16T21:20:45.229Z",
-  "updatedAt": "2026-10-16T21:25:13.024Z",
-  "lastCommand": "f15-garden-gate",
+  "updatedAt": "2026-10-16T21:25:39.258Z",
+  "lastCommand": "f16-gate-look",
   "stopReason": null,
   "action": {
-    "id": "f15-garden-gate",
-    "op": "tap",
-    "x": 326,
-    "y": 271,
-    "note": "Enter unlocked gate to ROOM NULL route after confirmed 5/5."
+    "id": "f16-gate-look",
+    "op": "look",
+    "wait": 1600,
+    "note": "Observe gate transition end and next visible controls."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/5be230fb0f4e528b51357cc5824eb892f771f24e/live-results/mofu-vis-d-final-20261017-0620-n6r2/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/f0f7c88a3cd9a04ef3183095603281b5e3ff1ca0/live-results/mofu-vis-d-final-20261017-0620-n6r2/current.jpg",
   "readOnly": true,
   "blockedWrites": 6,
   "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-d-final-20261017-0620-n6r2#quiet",
@@ -31,7 +30,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n夢の見覚え ✧︎\n庭が、空よりも高く昇りはじめた。\n\n",
+  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n夢を離れる",
   "controls": [
     {
       "tag": "BUTTON",
@@ -53,6 +52,28 @@
         "y": 56,
         "w": 61,
         "h": 30
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "帰る花弁に触れる",
+      "disabled": false,
+      "rect": {
+        "x": 86,
+        "y": 790,
+        "w": 69,
+        "h": 69
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "夢を離れる",
+      "disabled": false,
+      "rect": {
+        "x": 22,
+        "y": 870,
+        "w": 100,
+        "h": 44
       }
     }
   ],
@@ -281,6 +302,20 @@
       "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-d-final-20261017-0620-n6r2#quiet",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/5be230fb0f4e528b51357cc5824eb892f771f24e/live-results/mofu-vis-d-final-20261017-0620-n6r2/current.jpg",
       "text": "作品へ移動\n夢の見覚え ✧︎\n庭が、空よりも高く昇りはじめた。\n\n"
+    },
+    {
+      "number": 17,
+      "at": "2026-10-16T21:25:39.258Z",
+      "action": {
+        "id": "f16-gate-look",
+        "op": "look",
+        "wait": 1600,
+        "note": "Observe gate transition end and next visible controls."
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-d-final-20261017-0620-n6r2#quiet",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/f0f7c88a3cd9a04ef3183095603281b5e3ff1ca0/live-results/mofu-vis-d-final-20261017-0620-n6r2/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n夢を離れる"
     }
   ]
 }
