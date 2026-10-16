@@ -6,18 +6,18 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-16T21:05:50.675Z",
-  "updatedAt": "2026-10-16T21:09:35.671Z",
-  "lastCommand": "r10-cup",
+  "updatedAt": "2026-10-16T21:09:52.815Z",
+  "lastCommand": "r11-close-cup",
   "stopReason": null,
   "action": {
-    "id": "r10-cup",
+    "id": "r11-close-cup",
     "op": "tap",
-    "x": 236,
-    "y": 545,
-    "note": "Collect Garden cup memory needed for WORLD route."
+    "x": 376,
+    "y": 773,
+    "note": "Close cup memory."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/98b12c2147217000ea3883d233f584add2d1c461/live-results/mofu-vis-d-recover-20261017-0605-z7p4/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/f4f8d4988fbda0c69a39da54caed43fb797c725c/live-results/mofu-vis-d-recover-20261017-0605-z7p4/current.jpg",
   "readOnly": true,
   "blockedWrites": 5,
   "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-d-recover-20261017-0605-z7p4#garden",
@@ -31,7 +31,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n3 / 5\n見つけたもの\nCG-01-A_03.DRM\n06:09:32\n\nFRAGMENT / 03\n\nまだあたたかいカップ\nほんのり湯気が残る。まだ、誰かの気配がする。\n",
+  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n3 / 5\n見つけたもの\n",
   "controls": [
     {
       "tag": "BUTTON",
@@ -196,17 +196,6 @@
         "y": 234,
         "w": 69,
         "h": 90
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "見つけた記憶を閉じる",
-      "disabled": false,
-      "rect": {
-        "x": 364,
-        "y": 761,
-        "w": 24,
-        "h": 23
       }
     }
   ],
@@ -373,6 +362,21 @@
       "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-d-recover-20261017-0605-z7p4#garden",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/98b12c2147217000ea3883d233f584add2d1c461/live-results/mofu-vis-d-recover-20261017-0605-z7p4/current.jpg",
       "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n3 / 5\n見つけたもの\nCG-01-A_03.DRM\n06:09:32\n\nFRAGMENT / 03\n\nまだあたたかいカップ\nほんのり湯気が残る。まだ、誰かの気配がする。\n"
+    },
+    {
+      "number": 12,
+      "at": "2026-10-16T21:09:52.815Z",
+      "action": {
+        "id": "r11-close-cup",
+        "op": "tap",
+        "x": 376,
+        "y": 773,
+        "note": "Close cup memory."
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-d-recover-20261017-0605-z7p4#garden",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/f4f8d4988fbda0c69a39da54caed43fb797c725c/live-results/mofu-vis-d-recover-20261017-0605-z7p4/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n3 / 5\n見つけたもの\n"
     }
   ]
 }
