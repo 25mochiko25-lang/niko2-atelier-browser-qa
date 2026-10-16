@@ -1,1 +1,1 @@
-{"id":"bc14-aftertake-reopen","op":"tap","x":120,"y":824,"note":"After taking and closing memory, touch petal again to test repeatable souvenir reveal."}
+{"id":"bc15-aftertake-wait","op":"wait","ms":1400,"note":"After-taking petal first tap displayed nothing; settle animation before retest."}
