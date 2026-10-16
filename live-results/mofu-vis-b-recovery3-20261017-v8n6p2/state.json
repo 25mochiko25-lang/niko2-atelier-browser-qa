@@ -6,18 +6,18 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-16T21:10:53.784Z",
-  "updatedAt": "2026-10-16T21:16:26.782Z",
-  "lastCommand": "bc13-memory-close",
+  "updatedAt": "2026-10-16T21:16:47.620Z",
+  "lastCommand": "bc14-aftertake-reopen",
   "stopReason": null,
   "action": {
-    "id": "bc13-memory-close",
+    "id": "bc14-aftertake-reopen",
     "op": "tap",
-    "x": 374,
-    "y": 201,
-    "note": "Close WORLD MEMORY modal; inspect return to Ending and souvenir reentry."
+    "x": 120,
+    "y": 824,
+    "note": "After taking and closing memory, touch petal again to test repeatable souvenir reveal."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/f7c8bc4d25f0ad63935d48ac46a5046b20083f20/live-results/mofu-vis-b-recovery3-20261017-v8n6p2/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/8f53950e3bd4fb5b7c4305fba217b545781396d7/live-results/mofu-vis-b-recovery3-20261017-v8n6p2/current.jpg",
   "readOnly": true,
   "blockedWrites": 7,
   "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-b-recovery3-20261017-v8n6p2#quiet",
@@ -60,8 +60,8 @@
       "text": "帰る花弁に触れる",
       "disabled": false,
       "rect": {
-        "x": 86,
-        "y": 790,
+        "x": 87,
+        "y": 789,
         "w": 69,
         "h": 69
       }
@@ -284,6 +284,21 @@
       "error": null,
       "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-b-recovery3-20261017-v8n6p2#quiet",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/f7c8bc4d25f0ad63935d48ac46a5046b20083f20/live-results/mofu-vis-b-recovery3-20261017-v8n6p2/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n夢を離れる"
+    },
+    {
+      "number": 15,
+      "at": "2026-10-16T21:16:47.620Z",
+      "action": {
+        "id": "bc14-aftertake-reopen",
+        "op": "tap",
+        "x": 120,
+        "y": 824,
+        "note": "After taking and closing memory, touch petal again to test repeatable souvenir reveal."
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-b-recovery3-20261017-v8n6p2#quiet",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/8f53950e3bd4fb5b7c4305fba217b545781396d7/live-results/mofu-vis-b-recovery3-20261017-v8n6p2/current.jpg",
       "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n夢を離れる"
     }
   ]
