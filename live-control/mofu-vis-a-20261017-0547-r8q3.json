@@ -1,7 +1,7 @@
 {
-  "id": "a04-enter-from-welcome",
+  "id": "a05-start-garden",
   "op": "tap",
-  "x": 374,
-  "y": 858,
-  "note": "Enter the site from welcome and inspect HOME."
+  "x": 220,
+  "y": 875,
+  "note": "Start Garden exploration; compare photo fill and top/bottom bands with entrance screen."
 }
