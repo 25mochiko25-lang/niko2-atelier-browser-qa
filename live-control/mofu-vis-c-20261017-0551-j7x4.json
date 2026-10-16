@@ -1,7 +1,7 @@
 {
-  "id": "c24",
+  "id": "c25",
   "op": "tap",
-  "x": 114,
-  "y": 477,
-  "note": "Tap left observation desk/screen hotspot to inspect Research Lab records"
+  "x": 188,
+  "y": 300,
+  "note": "Open first Research Lab record to compare reading window sizing"
 }
