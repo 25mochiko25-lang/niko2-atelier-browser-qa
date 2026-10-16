@@ -1,7 +1,7 @@
 {
-  "id": "c48",
+  "id": "c49",
   "op": "tap",
-  "x": 363,
-  "y": 166,
-  "note": "Return from operation simulation to observation desk; do not choose repair action"
+  "x": 34,
+  "y": 101,
+  "note": "Return from Research Lab to WORLD and inspect back navigation"
 }
