@@ -6,19 +6,19 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-16T20:12:11.097Z",
-  "updatedAt": "2026-10-16T20:19:56.564Z",
-  "lastCommand": "m11-close-teacup",
+  "updatedAt": "2026-10-16T20:20:08.773Z",
+  "lastCommand": "m12-bear",
   "stopReason": null,
   "action": {
-    "id": "m11-close-teacup",
+    "id": "m12-bear",
     "op": "tap",
-    "x": 376,
-    "y": 773,
-    "wait": 460,
-    "note": "Close teacup fragment; return to exploration."
+    "x": 383,
+    "y": 551,
+    "wait": 520,
+    "note": "Collect bear and inspect fourth fragment."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/5cb18a9bc7744b5dce08e39b6c077aa935f8e18e/live-results/mofumofu-founder-readonly-prod-20261017/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/1ef0f4e4f3bc834384dbe8d443417a5495d60d75/live-results/mofumofu-founder-readonly-prod-20261017/current.jpg",
   "readOnly": true,
   "blockedWrites": 8,
   "url": "https://niko2atelier.com/?mofumofu_qa=mofumofu-founder-readonly-prod-20261017#garden",
@@ -32,7 +32,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n3 / 5\n見つけたもの\n",
+  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n4 / 5\n見つけたもの\nCG-01-A_04.DRM\n05:20:05\n\nFRAGMENT / 04\n\n置き去りのくま\n名前はもうない。それでも、いつもの方を向いている。\n",
   "controls": [
     {
       "tag": "BUTTON",
@@ -91,7 +91,7 @@
     },
     {
       "tag": "BUTTON",
-      "text": "置き去りのくまに触れる",
+      "text": "置き去りのくま（発見済み）",
       "disabled": false,
       "rect": {
         "x": 323,
@@ -197,6 +197,17 @@
         "y": 234,
         "w": 69,
         "h": 90
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "見つけた記憶を閉じる",
+      "disabled": false,
+      "rect": {
+        "x": 364,
+        "y": 742,
+        "w": 24,
+        "h": 23
       }
     }
   ],
@@ -389,6 +400,22 @@
       "url": "https://niko2atelier.com/?mofumofu_qa=mofumofu-founder-readonly-prod-20261017#garden",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/5cb18a9bc7744b5dce08e39b6c077aa935f8e18e/live-results/mofumofu-founder-readonly-prod-20261017/current.jpg",
       "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n3 / 5\n見つけたもの\n"
+    },
+    {
+      "number": 13,
+      "at": "2026-10-16T20:20:08.773Z",
+      "action": {
+        "id": "m12-bear",
+        "op": "tap",
+        "x": 383,
+        "y": 551,
+        "wait": 520,
+        "note": "Collect bear and inspect fourth fragment."
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofumofu-founder-readonly-prod-20261017#garden",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/1ef0f4e4f3bc834384dbe8d443417a5495d60d75/live-results/mofumofu-founder-readonly-prod-20261017/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n4 / 5\n見つけたもの\nCG-01-A_04.DRM\n05:20:05\n\nFRAGMENT / 04\n\n置き去りのくま\n名前はもうない。それでも、いつもの方を向いている。\n"
     }
   ]
 }
