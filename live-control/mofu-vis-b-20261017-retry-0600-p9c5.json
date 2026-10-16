@@ -1,1 +1,1 @@
-{"id":"br11-gate-settle","op":"wait","ms":1200,"note":"Wait for revealed gate to settle before tap."}
+{"id":"br12-gate","op":"tap","x":218,"y":330,"note":"Pass visible gate toward Ending."}
