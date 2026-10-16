@@ -1,0 +1,111 @@
+{
+  "session": "mofu-vis-d-20261017-0555-qp8x2",
+  "device": "founder",
+  "stopReason": "infrastructure_error",
+  "error": "Error: GitHub 409: {\"message\":\"is at fe0e4ba89a518ded5ceec7b951fe3cc325900efa but expected 7da1603b3e2fdcd6a8897f335995b868a0aca9f5\",\"documentation_url\":\"https://docs.github.com/rest/repos/contents#create-or-update-file-contents\",\"status\":\"409\"}",
+  "events": [
+    {
+      "number": 1,
+      "at": "2026-10-16T20:56:23.811Z",
+      "action": {
+        "op": "arrival"
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-d-20261017-0555-qp8x2",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/54e8c4fecca2e01ce50317f3e93b0c7bf8d3a356/live-results/mofu-vis-d-20261017-0555-qp8x2/current.jpg",
+      "text": "作品へ移動\n\n"
+    },
+    {
+      "number": 2,
+      "at": "2026-10-16T21:01:03.745Z",
+      "action": {
+        "id": "d01-enter",
+        "op": "tap",
+        "x": 209,
+        "y": 579,
+        "note": "Continue D visual audit from initial dream entry after visually inspecting arrival screenshot."
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-d-20261017-0555-qp8x2",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/f9e77e1ccd8ee7162f521266afad7b04d19dfb23/live-results/mofu-vis-d-20261017-0555-qp8x2/current.jpg",
+      "text": "作品へ移動\n\n\nWORLD\n夢の入り口は、毎回すこし違う。 夢から醒めても何かは残る。\n次へ"
+    },
+    {
+      "number": 3,
+      "at": "2026-10-16T21:01:44.994Z",
+      "action": {
+        "id": "d02-intro-next",
+        "op": "tap",
+        "x": 375,
+        "y": 858,
+        "note": "Advance visible WORLD intro card."
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-d-20261017-0555-qp8x2",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/aefaaca9e176f61d19b35b6e3499b645b95afc1a/live-results/mofu-vis-d-20261017-0555-qp8x2/current.jpg",
+      "text": "作品へ移動\n\n\nINTERACTION\n\nSound On\n\nSound Off\n触れる\n持ち帰る\n仕舞う\n次へ戻る"
+    },
+    {
+      "number": 4,
+      "at": "2026-10-16T21:02:06.911Z",
+      "action": {
+        "id": "d03-intro-next",
+        "op": "tap",
+        "x": 374,
+        "y": 858,
+        "note": "Advance interaction tutorial to final intro."
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-d-20261017-0555-qp8x2",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/30cde8b4f18b457544cabfe879f69b9ba7b3feb6/live-results/mofu-vis-d-20261017-0555-qp8x2/current.jpg",
+      "text": "作品へ移動\n\n\nWELCOME\nようこそ！\n夢へ入る戻る"
+    },
+    {
+      "number": 5,
+      "at": "2026-10-16T21:02:21.774Z",
+      "action": {
+        "id": "d04-enter-world",
+        "op": "tap",
+        "x": 373,
+        "y": 859,
+        "note": "Enter dream from WELCOME."
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-d-20261017-0555-qp8x2#garden",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/c954e1e20d5608b14d2bfa441aba6c6dc0ec49b4/live-results/mofu-vis-d-20261017-0555-qp8x2/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n席を立ったあとの庭にも、\n持ち主より長く夢を見るものがいる。\n\nこの空へ入る\n0 / 5\n見つけたもの\n"
+    },
+    {
+      "number": 6,
+      "at": "2026-10-16T21:03:05.868Z",
+      "action": {
+        "id": "d05-garden-enter",
+        "op": "tap",
+        "x": 208,
+        "y": 877,
+        "note": "Enter Garden through visible doorway, continue to WORLD."
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-d-20261017-0555-qp8x2#garden",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/a8dac94ecd8bd0434842ac6f4b6f996d34f3da78/live-results/mofu-vis-d-20261017-0555-qp8x2/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n0 / 5\n見つけたもの\n"
+    },
+    {
+      "number": 7,
+      "at": "2026-10-16T21:03:23.436Z",
+      "action": {
+        "id": "d06-garden-gate",
+        "op": "tap",
+        "x": 319,
+        "y": 269,
+        "note": "Try visible distant white gate to reach WORLD without unrelated Garden exploration."
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-d-20261017-0555-qp8x2#garden",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/b78915082ddc5ba0a56f6a7e10096c85460c9084/live-results/mofu-vis-d-20261017-0555-qp8x2/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n0 / 5\n見つけたもの\n取っ手の向こうで、鍵穴の光がひとつ消えた。"
+    }
+  ],
+  "pageErrors": [],
+  "httpErrors": []
+}
