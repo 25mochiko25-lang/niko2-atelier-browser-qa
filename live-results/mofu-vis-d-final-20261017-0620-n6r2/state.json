@@ -6,17 +6,17 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-16T21:20:45.229Z",
-  "updatedAt": "2026-10-16T21:23:25.076Z",
-  "lastCommand": "f09-close-perfume",
+  "updatedAt": "2026-10-16T21:23:40.003Z",
+  "lastCommand": "f10-cup",
   "stopReason": null,
   "action": {
-    "id": "f09-close-perfume",
+    "id": "f10-cup",
     "op": "tap",
-    "x": 376,
-    "y": 754
+    "x": 234,
+    "y": 543
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/e86e433b9d42d02bf291ef2067a517a8ad2be00a/live-results/mofu-vis-d-final-20261017-0620-n6r2/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/38b8d6cfb107e989bb6f287e2e5739add42dff4d/live-results/mofu-vis-d-final-20261017-0620-n6r2/current.jpg",
   "readOnly": true,
   "blockedWrites": 4,
   "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-d-final-20261017-0620-n6r2#garden",
@@ -30,7 +30,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n2 / 5\n見つけたもの\n",
+  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n3 / 5\n見つけたもの\nCG-01-A_03.DRM\n06:23:36\n\nFRAGMENT / 03\n\nまだあたたかいカップ\nほんのり湯気が残る。まだ、誰かの気配がする。\n",
   "controls": [
     {
       "tag": "BUTTON",
@@ -78,7 +78,7 @@
     },
     {
       "tag": "BUTTON",
-      "text": "まだあたたかいカップに触れる",
+      "text": "まだあたたかいカップ（発見済み）",
       "disabled": false,
       "rect": {
         "x": 194,
@@ -195,6 +195,17 @@
         "y": 234,
         "w": 69,
         "h": 90
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "見つけた記憶を閉じる",
+      "disabled": false,
+      "rect": {
+        "x": 364,
+        "y": 761,
+        "w": 24,
+        "h": 23
       }
     }
   ],
@@ -338,6 +349,20 @@
       "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-d-final-20261017-0620-n6r2#garden",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/e86e433b9d42d02bf291ef2067a517a8ad2be00a/live-results/mofu-vis-d-final-20261017-0620-n6r2/current.jpg",
       "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n2 / 5\n見つけたもの\n"
+    },
+    {
+      "number": 11,
+      "at": "2026-10-16T21:23:40.003Z",
+      "action": {
+        "id": "f10-cup",
+        "op": "tap",
+        "x": 234,
+        "y": 543
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-d-final-20261017-0620-n6r2#garden",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/38b8d6cfb107e989bb6f287e2e5739add42dff4d/live-results/mofu-vis-d-final-20261017-0620-n6r2/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n3 / 5\n見つけたもの\nCG-01-A_03.DRM\n06:23:36\n\nFRAGMENT / 03\n\nまだあたたかいカップ\nほんのり湯気が残る。まだ、誰かの気配がする。\n"
     }
   ]
 }
