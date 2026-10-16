@@ -1,1 +1,1 @@
-{"id":"bc10-take-petal","op":"tap","x":214,"y":815,"note":"Tap visible '持ち帰る'; inspect souvenir state without server writes (readOnly)."}
+{"id":"bc11-words-open","op":"tap","x":90,"y":599,"note":"Open visible '言葉を添える' editor without entering personal text."}
