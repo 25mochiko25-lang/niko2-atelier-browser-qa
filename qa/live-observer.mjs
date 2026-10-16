@@ -40,6 +40,8 @@ async function write(path, bytes) {
   }
 }
 const events=[],pageErrors=[],httpErrors=[];
+const readOnly = config.readOnly === true;
+let blockedWrites = 0;
 let browser,context,page,stopReason=null,lastCommand=null,lastAt=Date.now();
 const startedAt=new Date().toISOString();
 async function publish(action,error=null) {
@@ -51,12 +53,26 @@ async function publish(action,error=null) {
     return {url:location.href,title:document.title,viewport:{width:innerWidth,height:innerHeight},documentWidth:document.documentElement.scrollWidth,scroll:{x:scrollX,y:scrollY},text:document.body.innerText.slice(0,12000),controls:[...document.querySelectorAll('button,a,input,textarea,select,[role="button"]')].filter(isVisible).map(e=>{const r=e.getBoundingClientRect();return {tag:e.tagName,text:(e.innerText||e.getAttribute('aria-label')||e.getAttribute('title')||e.getAttribute('placeholder')||'').trim().slice(0,160),disabled:!!e.disabled,rect:{x:Math.round(r.x),y:Math.round(r.y),w:Math.round(r.width),h:Math.round(r.height)}};}).slice(0,60)};
   });
   events.push({number:events.length+1,at:new Date().toISOString(),action,error,url:page.url(),screenshotUrl,text:visible.text});
-  await write(`${root}/state.json`,JSON.stringify({session,mode:'observer-driven',device,engine:'webkit',mobile:profile.isMobile,touch:profile.hasTouch,startedAt,updatedAt:new Date().toISOString(),lastCommand,stopReason,action,error,screenshotUrl,...visible,pageErrors,httpErrors,events},null,2));
+  await write(`${root}/state.json`,JSON.stringify({session,mode:'observer-driven',device,engine:'webkit',mobile:profile.isMobile,touch:profile.hasTouch,startedAt,updatedAt:new Date().toISOString(),lastCommand,stopReason,action,error,screenshotUrl,readOnly,blockedWrites,...visible,pageErrors,httpErrors,events},null,2));
   console.log(JSON.stringify({session,device,number:events.length,lastCommand,action:action.op,url:page.url(),stopReason}));
 }
 try {
   browser=await webkit.launch({headless:true});
-  context=await browser.newContext({...profile,locale:'ja-JP',timezoneId:'Asia/Tokyo'});
+  context=await browser.newContext({...profile,locale:'ja-JP',timezoneId:'Asia/Tokyo',...(readOnly?{serviceWorkers:'block'}:{})});
+  // Founder-device visual audit fallback: make the browser strictly read-only
+  // before first navigation. This is NOT a signed NIKO2 Identity QA run.
+  // Blocking every non-GET/HEAD request prevents visitor registration,
+  // observation writes, forms and sendBeacon from this isolated browser.
+  if(readOnly){
+    await context.route('**/*',route=>{
+      const method=route.request().method().toUpperCase();
+      if(method!=='GET' && method!=='HEAD'){
+        blockedWrites++;
+        return route.abort('blockedbyclient');
+      }
+      return route.continue();
+    });
+  }
   page=await context.newPage();
   page.on('pageerror',e=>pageErrors.push(String(e)));
   page.on('response',r=>{if(r.status()>=400)httpErrors.push({url:r.url(),status:r.status()});});
