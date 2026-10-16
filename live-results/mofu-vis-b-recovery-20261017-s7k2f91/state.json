@@ -6,20 +6,19 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-16T21:00:03.081Z",
-  "updatedAt": "2026-10-16T21:05:51.596Z",
-  "lastCommand": "br12-gate-to-ending",
+  "updatedAt": "2026-10-16T21:06:14.314Z",
+  "lastCommand": "br13-ending-settle",
   "stopReason": null,
   "action": {
-    "id": "br12-gate-to-ending",
-    "op": "tap",
-    "x": 211,
-    "y": 326,
-    "note": "Visible gate center towards Ending and souvenir."
+    "id": "br13-ending-settle",
+    "op": "wait",
+    "ms": 1500,
+    "note": "Allow Ending motion to settle, then inspect petal screenshot."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/1e2d97056b7e9c811d87cbb1e705e8d7e987ee9d/live-results/mofu-vis-b-recovery-20261017-s7k2f91/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/01f0c78a67c63807e193bed1bd3a0789db247fab/live-results/mofu-vis-b-recovery-20261017-s7k2f91/current.jpg",
   "readOnly": true,
-  "blockedWrites": 7,
+  "blockedWrites": 8,
   "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-b-recovery-20261017-s7k2f91#quiet",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -31,7 +30,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n夢の見覚え ✧︎\n\n",
+  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n夢を離れる",
   "controls": [
     {
       "tag": "BUTTON",
@@ -53,6 +52,28 @@
         "y": 56,
         "w": 61,
         "h": 30
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "待っていた糸結びに触れる",
+      "disabled": false,
+      "rect": {
+        "x": 287,
+        "y": 610,
+        "w": 69,
+        "h": 69
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "夢を離れる",
+      "disabled": false,
+      "rect": {
+        "x": 22,
+        "y": 870,
+        "w": 100,
+        "h": 44
       }
     }
   ],
@@ -248,6 +269,20 @@
       "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-b-recovery-20261017-s7k2f91#quiet",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/1e2d97056b7e9c811d87cbb1e705e8d7e987ee9d/live-results/mofu-vis-b-recovery-20261017-s7k2f91/current.jpg",
       "text": "作品へ移動\n夢の見覚え ✧︎\n\n"
+    },
+    {
+      "number": 14,
+      "at": "2026-10-16T21:06:14.314Z",
+      "action": {
+        "id": "br13-ending-settle",
+        "op": "wait",
+        "ms": 1500,
+        "note": "Allow Ending motion to settle, then inspect petal screenshot."
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-b-recovery-20261017-s7k2f91#quiet",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/01f0c78a67c63807e193bed1bd3a0789db247fab/live-results/mofu-vis-b-recovery-20261017-s7k2f91/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n夢を離れる"
     }
   ]
 }
