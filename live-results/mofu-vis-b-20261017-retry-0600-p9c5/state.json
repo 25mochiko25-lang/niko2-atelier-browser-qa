@@ -6,18 +6,18 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-16T20:59:25.122Z",
-  "updatedAt": "2026-10-16T21:02:30.014Z",
-  "lastCommand": "br07-perfume",
+  "updatedAt": "2026-10-16T21:02:57.654Z",
+  "lastCommand": "br08-cup",
   "stopReason": null,
   "action": {
-    "id": "br07-perfume",
+    "id": "br08-cup",
     "op": "tap",
-    "x": 103,
-    "y": 562,
-    "note": "Revisit second fragment from visible object."
+    "x": 225,
+    "y": 550,
+    "note": "Repeat third fragment."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/a35ff8d00d77d2baff2008e596f2793f8ae76778/live-results/mofu-vis-b-20261017-retry-0600-p9c5/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/b18442031d21c1809122f2e2281eea255e4ace1e/live-results/mofu-vis-b-20261017-retry-0600-p9c5/current.jpg",
   "readOnly": true,
   "blockedWrites": 5,
   "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-b-20261017-retry-0600-p9c5#garden",
@@ -31,7 +31,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n2 / 5\n見つけたもの\nCG-01-A_02.DRM\n06:02:26\n\nFRAGMENT / 02\n\nN² Eau de rêve\nキャップは常に閉じているのに、帰らない部屋の香りがした。\n",
+  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n3 / 5\n見つけたもの\nCG-01-A_03.DRM\n06:02:52\n\nFRAGMENT / 03\n\nまだあたたかいカップ\nほんのり湯気が残る。まだ、誰かの気配がする。\n",
   "controls": [
     {
       "tag": "BUTTON",
@@ -79,7 +79,7 @@
     },
     {
       "tag": "BUTTON",
-      "text": "まだあたたかいカップに触れる",
+      "text": "まだあたたかいカップ（発見済み）",
       "disabled": false,
       "rect": {
         "x": 194,
@@ -204,7 +204,7 @@
       "disabled": false,
       "rect": {
         "x": 364,
-        "y": 742,
+        "y": 761,
         "w": 24,
         "h": 23
       }
@@ -328,6 +328,21 @@
       "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-b-20261017-retry-0600-p9c5#garden",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/a35ff8d00d77d2baff2008e596f2793f8ae76778/live-results/mofu-vis-b-20261017-retry-0600-p9c5/current.jpg",
       "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n2 / 5\n見つけたもの\nCG-01-A_02.DRM\n06:02:26\n\nFRAGMENT / 02\n\nN² Eau de rêve\nキャップは常に閉じているのに、帰らない部屋の香りがした。\n"
+    },
+    {
+      "number": 9,
+      "at": "2026-10-16T21:02:57.654Z",
+      "action": {
+        "id": "br08-cup",
+        "op": "tap",
+        "x": 225,
+        "y": 550,
+        "note": "Repeat third fragment."
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-b-20261017-retry-0600-p9c5#garden",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/b18442031d21c1809122f2e2281eea255e4ace1e/live-results/mofu-vis-b-20261017-retry-0600-p9c5/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n3 / 5\n見つけたもの\nCG-01-A_03.DRM\n06:02:52\n\nFRAGMENT / 03\n\nまだあたたかいカップ\nほんのり湯気が残る。まだ、誰かの気配がする。\n"
     }
   ]
 }
