@@ -1,7 +1,7 @@
 {
-  "id": "c41",
+  "id": "c42",
   "op": "tap",
-  "x": 393,
-  "y": 164,
-  "note": "Close old terminal archive record"
+  "x": 34,
+  "y": 101,
+  "note": "Return from rear archive to main Research Lab"
 }
