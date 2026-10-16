@@ -1,7 +1,7 @@
 {
-  "id": "r05-garden-enter",
+  "id": "r06-memory",
   "op": "tap",
-  "x": 211,
-  "y": 875,
-  "note": "Enter Garden via visible control"
+  "x": 386,
+  "y": 72,
+  "note": "Follow visible Garden memory shortcut"
 }
