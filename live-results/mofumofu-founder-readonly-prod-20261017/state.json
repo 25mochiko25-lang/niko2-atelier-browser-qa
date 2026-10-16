@@ -6,21 +6,19 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-16T20:12:11.097Z",
-  "updatedAt": "2026-10-16T20:20:55.136Z",
-  "lastCommand": "m14-key",
+  "updatedAt": "2026-10-16T20:21:32.468Z",
+  "lastCommand": "m15-gate-settle",
   "stopReason": null,
   "action": {
-    "id": "m14-key",
-    "op": "tap",
-    "x": 174,
-    "y": 607,
-    "wait": 570,
-    "note": "Collect key 5/5; inspect gate trigger."
+    "id": "m15-gate-settle",
+    "op": "wait",
+    "wait": 1500,
+    "note": "Observe settled Garden fifth discovery and gate without unintended tap."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/293bf0425a07b396834d33361892ef74abb4fd1c/live-results/mofumofu-founder-readonly-prod-20261017/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/26051a88baa1320d9ab2b2aa32a635f38f8f3760/live-results/mofumofu-founder-readonly-prod-20261017/current.jpg",
   "readOnly": true,
-  "blockedWrites": 9,
+  "blockedWrites": 10,
   "url": "https://niko2atelier.com/?mofumofu_qa=mofumofu-founder-readonly-prod-20261017#garden",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -186,6 +184,17 @@
         "y": 93,
         "w": 261,
         "h": 447
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "あの扉が、こちらを呼んでいる。\n触れて、向こうへ",
+      "disabled": false,
+      "rect": {
+        "x": 86,
+        "y": 289,
+        "w": 259,
+        "h": 66
       }
     }
   ],
@@ -425,6 +434,20 @@
       "error": null,
       "url": "https://niko2atelier.com/?mofumofu_qa=mofumofu-founder-readonly-prod-20261017#garden",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/293bf0425a07b396834d33361892ef74abb4fd1c/live-results/mofumofu-founder-readonly-prod-20261017/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n5 / 5\n見つけたもの\n\nあの扉が、こちらを呼んでいる。\n触れて、向こうへ\n"
+    },
+    {
+      "number": 16,
+      "at": "2026-10-16T20:21:32.468Z",
+      "action": {
+        "id": "m15-gate-settle",
+        "op": "wait",
+        "wait": 1500,
+        "note": "Observe settled Garden fifth discovery and gate without unintended tap."
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofumofu-founder-readonly-prod-20261017#garden",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/26051a88baa1320d9ab2b2aa32a635f38f8f3760/live-results/mofumofu-founder-readonly-prod-20261017/current.jpg",
       "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n5 / 5\n見つけたもの\n\nあの扉が、こちらを呼んでいる。\n触れて、向こうへ\n"
     }
   ]
