@@ -1,7 +1,7 @@
 {
-  "id": "e10-discard-memory",
+  "id": "e11-after-next1",
   "op": "tap",
-  "x": 211,
-  "y": 823,
-  "note": "Decline saving fragment, return to Atelier without submitting text"
+  "x": 369,
+  "y": 855,
+  "note": "Inspect first follow-up introduction after leaving Garden"
 }
