@@ -1,7 +1,7 @@
 {
-  "id": "d06-garden-gate",
+  "id": "d07-hourglass",
   "op": "tap",
-  "x": 319,
-  "y": 269,
-  "note": "Try visible distant white gate to reach WORLD without unrelated Garden exploration."
+  "x": 47,
+  "y": 450,
+  "note": "Collect first visible Garden memory needed for WORLD route."
 }
