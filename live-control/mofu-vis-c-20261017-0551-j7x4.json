@@ -1,7 +1,7 @@
 {
-  "id": "c32",
+  "id": "c33",
   "op": "tap",
-  "x": 190,
-  "y": 560,
-  "note": "Inspect record 04 layout and text size"
+  "x": 391,
+  "y": 164,
+  "note": "Close record 04 to return to reading table"
 }
