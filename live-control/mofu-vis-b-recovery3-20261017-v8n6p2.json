@@ -1,1 +1,1 @@
-{"id":"bc07-reveal-petal","op":"tap","x":119,"y":825,"note":"Tap visible outlined return petal; inspect actual souvenir reveal."}
+{"id":"bc08-retap-petal","op":"tap","x":120,"y":823,"note":"Tap the same visible petal again after reveal to verify reopen/close behavior."}
