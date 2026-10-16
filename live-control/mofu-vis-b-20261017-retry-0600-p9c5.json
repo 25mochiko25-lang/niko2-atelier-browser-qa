@@ -1,1 +1,1 @@
-{"id":"br13-ending-settle","op":"wait","ms":1400,"note":"Wait for Ending scene and floating petal."}
+{"id":"br14-petal","op":"tap","x":121,"y":824,"note":"Touch Ending petal; inspect souvenir reveal."}
