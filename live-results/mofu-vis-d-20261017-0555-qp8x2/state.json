@@ -6,20 +6,20 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-16T20:56:18.164Z",
-  "updatedAt": "2026-10-16T21:03:05.868Z",
-  "lastCommand": "d05-garden-enter",
+  "updatedAt": "2026-10-16T21:03:23.436Z",
+  "lastCommand": "d06-garden-gate",
   "stopReason": null,
   "action": {
-    "id": "d05-garden-enter",
+    "id": "d06-garden-gate",
     "op": "tap",
-    "x": 208,
-    "y": 877,
-    "note": "Enter Garden through visible doorway, continue to WORLD."
+    "x": 319,
+    "y": 269,
+    "note": "Try visible distant white gate to reach WORLD without unrelated Garden exploration."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/a8dac94ecd8bd0434842ac6f4b6f996d34f3da78/live-results/mofu-vis-d-20261017-0555-qp8x2/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/b78915082ddc5ba0a56f6a7e10096c85460c9084/live-results/mofu-vis-d-20261017-0555-qp8x2/current.jpg",
   "readOnly": true,
-  "blockedWrites": 4,
+  "blockedWrites": 5,
   "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-d-20261017-0555-qp8x2#garden",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -31,7 +31,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n0 / 5\n見つけたもの\n",
+  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n0 / 5\n見つけたもの\n取っ手の向こうで、鍵穴の光がひとつ消えた。",
   "controls": [
     {
       "tag": "BUTTON",
@@ -287,6 +287,21 @@
       "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-d-20261017-0555-qp8x2#garden",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/a8dac94ecd8bd0434842ac6f4b6f996d34f3da78/live-results/mofu-vis-d-20261017-0555-qp8x2/current.jpg",
       "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n0 / 5\n見つけたもの\n"
+    },
+    {
+      "number": 7,
+      "at": "2026-10-16T21:03:23.436Z",
+      "action": {
+        "id": "d06-garden-gate",
+        "op": "tap",
+        "x": 319,
+        "y": 269,
+        "note": "Try visible distant white gate to reach WORLD without unrelated Garden exploration."
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-d-20261017-0555-qp8x2#garden",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/b78915082ddc5ba0a56f6a7e10096c85460c9084/live-results/mofu-vis-d-20261017-0555-qp8x2/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n0 / 5\n見つけたもの\n取っ手の向こうで、鍵穴の光がひとつ消えた。"
     }
   ]
 }
