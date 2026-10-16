@@ -1,1 +1,1 @@
-{"id":"m10-teacup","op":"tap","x":235,"y":554,"wait":360,"note":"Read-only founder Garden check."}
+{"id":"m11-close-teacup","op":"tap","x":376,"y":773,"wait":460,"note":"Close teacup fragment; return to exploration."}
