@@ -1,1 +1,1 @@
-{"id":"br14-ending-wait","op":"wait","ms":2400,"note":"Ending currently shows teddy-chair scene, not earlier pool scene; observe transition and souvenir access without forcing hidden controls."}
+{"id":"br15-ribbon-souvenir","op":"tap","x":321,"y":644,"note":"Touch visually circled bow on teddy's chair: reveal available Ending souvenir."}
