@@ -1,7 +1,9 @@
 {
-  "id": "a07-close-cup",
-  "op": "tap",
-  "x": 375,
-  "y": 770,
-  "note": "Close first memory window and inspect return without layout jump."
+  "id": "a08-scroll-check",
+  "op": "scroll",
+  "x": 210,
+  "y": 651,
+  "dx": 0,
+  "dy": 542,
+  "note": "Check whether Garden's blank bands cause unnecessary vertical page movement; synthetic wheel, not finger swipe."
 }
