@@ -1,7 +1,7 @@
 {
-  "id": "r04-enter-garden",
+  "id": "r05-garden-enter",
   "op": "tap",
-  "x": 371,
-  "y": 857,
-  "note": "Enter public Garden"
+  "x": 211,
+  "y": 875,
+  "note": "Enter Garden via visible control"
 }
