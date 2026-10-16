@@ -6,14 +6,18 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-16T20:56:18.164Z",
-  "updatedAt": "2026-10-16T20:56:23.811Z",
-  "lastCommand": null,
+  "updatedAt": "2026-10-16T21:01:03.745Z",
+  "lastCommand": "d01-enter",
   "stopReason": null,
   "action": {
-    "op": "arrival"
+    "id": "d01-enter",
+    "op": "tap",
+    "x": 209,
+    "y": 579,
+    "note": "Continue D visual audit from initial dream entry after visually inspecting arrival screenshot."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/54e8c4fecca2e01ce50317f3e93b0c7bf8d3a356/live-results/mofu-vis-d-20261017-0555-qp8x2/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/f9e77e1ccd8ee7162f521266afad7b04d19dfb23/live-results/mofu-vis-d-20261017-0555-qp8x2/current.jpg",
   "readOnly": true,
   "blockedWrites": 1,
   "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-d-20261017-0555-qp8x2",
@@ -27,7 +31,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n\n",
+  "text": "作品へ移動\n\n\nWORLD\n夢の入り口は、毎回すこし違う。 夢から醒めても何かは残る。\n次へ",
   "controls": [
     {
       "tag": "BUTTON",
@@ -50,6 +54,17 @@
         "w": 210,
         "h": 70
       }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "次へ",
+      "disabled": false,
+      "rect": {
+        "x": 340,
+        "y": 836,
+        "w": 72,
+        "h": 44
+      }
     }
   ],
   "pageErrors": [],
@@ -65,6 +80,21 @@
       "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-d-20261017-0555-qp8x2",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/54e8c4fecca2e01ce50317f3e93b0c7bf8d3a356/live-results/mofu-vis-d-20261017-0555-qp8x2/current.jpg",
       "text": "作品へ移動\n\n"
+    },
+    {
+      "number": 2,
+      "at": "2026-10-16T21:01:03.745Z",
+      "action": {
+        "id": "d01-enter",
+        "op": "tap",
+        "x": 209,
+        "y": 579,
+        "note": "Continue D visual audit from initial dream entry after visually inspecting arrival screenshot."
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-d-20261017-0555-qp8x2",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/f9e77e1ccd8ee7162f521266afad7b04d19dfb23/live-results/mofu-vis-d-20261017-0555-qp8x2/current.jpg",
+      "text": "作品へ移動\n\n\nWORLD\n夢の入り口は、毎回すこし違う。 夢から醒めても何かは残る。\n次へ"
     }
   ]
 }
