@@ -1,1 +1,1 @@
-{"id":"m17-quiet-settle","op":"wait","wait":2700,"note":"Allow Garden ending animation, examine souvenir call to action."}
+{"id":"m18-petal","op":"tap","x":120,"y":822,"wait":500,"note":"Inspect souvenir object from full Garden loop."}
