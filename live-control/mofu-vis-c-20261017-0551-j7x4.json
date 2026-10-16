@@ -1,7 +1,7 @@
 {
-  "id": "c46",
+  "id": "c47",
   "op": "tap",
-  "x": 207,
-  "y": 540,
-  "note": "Inspect the on-page small-anomaly simulation under readOnly network guard; do not mutate production data"
+  "x": 205,
+  "y": 713,
+  "note": "Advance local operation simulation to inspect changed clipboard layout under readOnly guard"
 }
