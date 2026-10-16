@@ -6,20 +6,20 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-16T20:48:51.710Z",
-  "updatedAt": "2026-10-16T20:55:26.450Z",
-  "lastCommand": "a11-leave-dream",
+  "updatedAt": "2026-10-16T20:57:09.426Z",
+  "lastCommand": "a12-close-dream-memory",
   "stopReason": null,
   "action": {
-    "id": "a11-leave-dream",
+    "id": "a12-close-dream-memory",
     "op": "tap",
-    "x": 76,
-    "y": 893,
-    "note": "Use visible exit from adjacent Garden memory scene and inspect resulting screen."
+    "x": 374,
+    "y": 214,
+    "note": "Close the visible DREAM MEMORY modal; avoid any submit/store action."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/e7f1b575f93e6f970507e0fec4b84b1c3aea17a8/live-results/mofu-vis-a-20261017-0547-r8q3/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/429bf8f069fb4cd2b1dba71f00676b2127b161ab/live-results/mofu-vis-a-20261017-0547-r8q3/current.jpg",
   "readOnly": true,
-  "blockedWrites": 7,
+  "blockedWrites": 9,
   "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-a-20261017-0547-r8q3#quiet",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -31,7 +31,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n夢を離れる\n\nDREAM MEMORY\n\n夢から残ったもの\n\nWORLD MEMORY\nMEMORY FRAGMENT\nくまの手元と青い糸\nくまの右手に、青い糸がひとつだけほどけていた。\n言葉を添える\n何も残さず、アトリエへ戻る\nDiaryへ持ち帰る",
+  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n夢を離れる",
   "controls": [
     {
       "tag": "BUTTON",
@@ -75,50 +75,6 @@
         "y": 870,
         "w": 100,
         "h": 44
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "日記を閉じる",
-      "disabled": false,
-      "rect": {
-        "x": 353,
-        "y": 192,
-        "w": 44,
-        "h": 44
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "言葉を添える",
-      "disabled": false,
-      "rect": {
-        "x": 38,
-        "y": 566,
-        "w": 103,
-        "h": 44
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "何も残さず、アトリエへ戻る",
-      "disabled": false,
-      "rect": {
-        "x": 38,
-        "y": 700,
-        "w": 354,
-        "h": 40
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "Diaryへ持ち帰る",
-      "disabled": false,
-      "rect": {
-        "x": 38,
-        "y": 645,
-        "w": 354,
-        "h": 48
       }
     }
   ],
@@ -301,6 +257,21 @@
       "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-a-20261017-0547-r8q3#quiet",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/e7f1b575f93e6f970507e0fec4b84b1c3aea17a8/live-results/mofu-vis-a-20261017-0547-r8q3/current.jpg",
       "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n夢を離れる\n\nDREAM MEMORY\n\n夢から残ったもの\n\nWORLD MEMORY\nMEMORY FRAGMENT\nくまの手元と青い糸\nくまの右手に、青い糸がひとつだけほどけていた。\n言葉を添える\n何も残さず、アトリエへ戻る\nDiaryへ持ち帰る"
+    },
+    {
+      "number": 13,
+      "at": "2026-10-16T20:57:09.426Z",
+      "action": {
+        "id": "a12-close-dream-memory",
+        "op": "tap",
+        "x": 374,
+        "y": 214,
+        "note": "Close the visible DREAM MEMORY modal; avoid any submit/store action."
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-a-20261017-0547-r8q3#quiet",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/429bf8f069fb4cd2b1dba71f00676b2127b161ab/live-results/mofu-vis-a-20261017-0547-r8q3/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n夢を離れる"
     }
   ]
 }
