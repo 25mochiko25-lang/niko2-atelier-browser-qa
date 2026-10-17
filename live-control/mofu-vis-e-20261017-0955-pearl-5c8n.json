@@ -1,7 +1,7 @@
 {
-  "id": "e4-30-what-remained",
+  "id": "e4-31-open-remaining",
   "op": "tap",
-  "x": 214,
-  "y": 785,
-  "note": "Open Diary WHAT REMAINED using visible link, read-only/no submissions"
+  "x": 215,
+  "y": 500,
+  "note": "Inspect public intro modal '中を見る' and its subsequent screen, no data modifications"
 }
