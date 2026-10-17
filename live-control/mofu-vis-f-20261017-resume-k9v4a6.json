@@ -1,7 +1,7 @@
 {
-  "id": "r28",
+  "id": "r29",
   "op": "tap",
-  "x": 82,
-  "y": 217,
-  "note": "Add visible 甘い夢 to MIDDLE in local readonly WebKit context; visual state only"
+  "x": 341,
+  "y": 473,
+  "note": "Select visible LAST layer and inspect empty-state behavior"
 }
