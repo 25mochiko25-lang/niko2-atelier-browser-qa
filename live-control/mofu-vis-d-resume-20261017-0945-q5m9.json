@@ -1,7 +1,7 @@
 {
-  "id": "dr15-garden-gate",
-  "op": "tap",
-  "x": 326,
-  "y": 271,
-  "note": "Follow previously verified Garden route to WORLD without new visitor data."
+  "id": "dr16-quiet-settle",
+  "op": "look",
+  "wait": 1600,
+  "want": "夢を離れる",
+  "note": "Follow already observed route; check visible controls and scene transition."
 }
