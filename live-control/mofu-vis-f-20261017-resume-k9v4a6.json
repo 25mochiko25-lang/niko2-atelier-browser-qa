@@ -1,7 +1,6 @@
 {
-  "id": "r31",
-  "op": "tap",
-  "x": 211,
-  "y": 899,
-  "note": "Observe final perfume composition screen with 3 nonpersonal materials; readonly blocks writes"
+  "id": "r32",
+  "op": "look",
+  "wait": 1700,
+  "note": "Allow perfume fixation animation to settle and inspect final result view"
 }
