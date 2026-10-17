@@ -1,7 +1,6 @@
 {
-  "id": "e3-15-letter-article",
-  "op": "tap",
-  "x": 191,
-  "y": 807,
-  "note": "Open visible first-letter article from FROM THE ATELIER list"
+  "id": "e3-16-letter-settle",
+  "op": "wait",
+  "ms": 1600,
+  "note": "Check whether article back-link overlap persists after layout settles"
 }
