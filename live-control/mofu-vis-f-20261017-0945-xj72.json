@@ -1,6 +1,7 @@
 {
-  "id": "f37",
-  "op": "look",
-  "wait": 1200,
-  "note": "Inspect stabilized Blue Hour scene and second item presentation"
+  "id": "f38",
+  "op": "tap",
+  "x": 202,
+  "y": 815,
+  "note": "Inspect menu after 2/2 items to compare states and continued browsing"
 }
