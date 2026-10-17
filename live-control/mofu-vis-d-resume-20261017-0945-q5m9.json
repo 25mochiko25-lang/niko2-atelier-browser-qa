@@ -1,6 +1,8 @@
 {
-  "id": "dr26-room-settle",
-  "op": "look",
-  "wait": 1800,
-  "note": "Observe completed door transition before checking visible room controls."
+  "id": "dr27-curtain",
+  "op": "tap",
+  "x": 31,
+  "y": 241,
+  "wait": 1200,
+  "note": "Tap visibly depicted left lace curtain to test whether it opens; do not infer interaction from image alone."
 }
