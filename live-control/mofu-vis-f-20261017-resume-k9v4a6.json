@@ -1,7 +1,7 @@
 {
-  "id": "r51",
+  "id": "r52",
   "op": "tap",
-  "x": 208,
-  "y": 838,
-  "note": "Attempt to open visible thin top strip of partially clipped lost_page.html above footer; assess accessibility"
+  "x": 80,
+  "y": 379,
+  "note": "Test visible 404 safe return and directory recovery, no system navigation tricks"
 }
