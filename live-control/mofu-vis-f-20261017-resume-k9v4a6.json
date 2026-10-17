@@ -1,7 +1,7 @@
 {
-  "id": "r39",
+  "id": "r37",
   "op": "tap",
-  "x": 211,
-  "y": 534,
-  "note": "Power on visible CHANNEL 00 console for link directory"
+  "x": 380,
+  "y": 551,
+  "note": "Open visible ROOM NULL door; continue previously reached public CHANNEL 00 without duplicate visual audit"
 }
