@@ -1,7 +1,7 @@
 {
-  "id": "r13",
+  "id": "r14",
   "op": "tap",
-  "x": 376,
-  "y": 752,
-  "note": "Close key fragment"
+  "x": 44,
+  "y": 473,
+  "note": "Collect last visible Garden item to open public gate"
 }
