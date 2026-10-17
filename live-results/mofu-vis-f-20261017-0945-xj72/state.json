@@ -6,18 +6,17 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-17T00:46:41.213Z",
-  "updatedAt": "2026-10-17T00:55:23.592Z",
-  "lastCommand": "f25",
+  "updatedAt": "2026-10-17T00:55:43.681Z",
+  "lastCommand": "f26",
   "stopReason": null,
   "action": {
-    "id": "f25",
-    "op": "tap",
-    "x": 379,
-    "y": 554,
-    "note": "Open ROOM NULL by touching the visible door handle"
+    "id": "f26",
+    "op": "look",
+    "wait": 1200,
+    "note": "Observe the ROOM NULL interior after the door transition"
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/37e59e1fbb8f66cab5db4bcbfa8f137b448e2792/live-results/mofu-vis-f-20261017-0945-xj72/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/fa754b6ec4fafb4e1f7d72d59aa4795620ce1c2c/live-results/mofu-vis-f-20261017-0945-xj72/current.jpg",
   "readOnly": true,
   "blockedWrites": 14,
   "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-f-20261017-0945-xj72#room0",
@@ -486,6 +485,20 @@
       "error": null,
       "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-f-20261017-0945-xj72#room0",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/37e59e1fbb8f66cab5db4bcbfa8f137b448e2792/live-results/mofu-vis-f-20261017-0945-xj72/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\n\n \nWORLD / RN-00\nROOM NULL\na room that remembers you.\nRN-00\n"
+    },
+    {
+      "number": 27,
+      "at": "2026-10-17T00:55:43.681Z",
+      "action": {
+        "id": "f26",
+        "op": "look",
+        "wait": 1200,
+        "note": "Observe the ROOM NULL interior after the door transition"
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-f-20261017-0945-xj72#room0",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/fa754b6ec4fafb4e1f7d72d59aa4795620ce1c2c/live-results/mofu-vis-f-20261017-0945-xj72/current.jpg",
       "text": "作品へ移動\nNIKO² ATELIER\n\n \nWORLD / RN-00\nROOM NULL\na room that remembers you.\nRN-00\n"
     }
   ]
