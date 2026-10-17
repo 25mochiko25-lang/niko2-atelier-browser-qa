@@ -1,7 +1,7 @@
 {
-  "id": "dr01-enter",
+  "id": "dr02-intro2",
   "op": "tap",
-  "x": 209,
-  "y": 578,
-  "note": "Replay previously observed dream entrance toward ROOM NULL only."
+  "x": 373,
+  "y": 858,
+  "note": "Advance already observed WORLD intro to INTERACTION."
 }
