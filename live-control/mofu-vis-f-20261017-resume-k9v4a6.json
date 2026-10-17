@@ -1,6 +1,6 @@
 {
-  "id": "r32",
-  "op": "look",
-  "wait": 1700,
-  "note": "Allow perfume fixation animation to settle and inspect final result view"
+  "id": "r33",
+  "op": "key",
+  "key": "PageDown",
+  "note": "Read remainder of Perfume result and inspect lower section, not representing phone swipe"
 }
