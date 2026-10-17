@@ -6,22 +6,21 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-17T00:49:14.103Z",
-  "updatedAt": "2026-10-17T00:54:58.832Z",
-  "lastCommand": "dr17-leave-dream",
+  "updatedAt": "2026-10-17T00:55:13.854Z",
+  "lastCommand": "dr18-return-atelier",
   "stopReason": null,
   "action": {
-    "id": "dr17-leave-dream",
+    "id": "dr18-return-atelier",
     "op": "tap",
-    "x": 74,
-    "y": 890,
-    "want": "WORLD MEMORY",
-    "note": "Follow already observed route; check visible controls and scene transition."
+    "x": 204,
+    "y": 720,
+    "note": "Advance already observed non-saving onboarding route to WORLD."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/2aff320c48b11db11ead73c340764af43461ca15/live-results/mofu-vis-d-resume-20261017-0945-q5m9/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/d0c019897db89d956588d53abd8f588ee0b7fa93/live-results/mofu-vis-d-resume-20261017-0945-q5m9/current.jpg",
   "readOnly": true,
-  "blockedWrites": 7,
-  "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-d-resume-20261017-0945-q5m9#quiet",
+  "blockedWrites": 9,
+  "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-d-resume-20261017-0945-q5m9",
   "title": "NIKO² ATELIER",
   "viewport": {
     "width": 430,
@@ -32,7 +31,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n夢を離れる\n\nDREAM MEMORY\n\n夢から残ったもの\n\nWORLD MEMORY\nMEMORY FRAGMENT\n住所のない白いタイル\nまだ住所を持たない街から、足元へ滑った小さなタイル。\n言葉を添える\n何も残さず、アトリエへ戻る\nDiaryへ持ち帰る",
+  "text": "作品へ移動\n \nWORLD\nWORLD\n水面の向こうに、いくつかの場所がひらいています。\n\n\nABOUT\nもふもふはいます。\nPLAY / SHARE / FAN WORK\nNIKO²での生活について\n好きな形で遊ぶための、小さな境界。\nDEAR ATELIER\nお手紙を送る\nAtelierの受取箱へ。\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n\nAFTER THE GARDEN\nいくつかのものに触れ、 最後の景色まで進みました。\n次へ",
   "controls": [
     {
       "tag": "BUTTON",
@@ -46,14 +45,47 @@
       }
     },
     {
-      "tag": "BUTTON",
-      "text": "夢の見覚え ✧︎",
+      "tag": "A",
+      "text": "FROM THE ATELIERを開く",
       "disabled": false,
       "rect": {
-        "x": 355,
-        "y": 56,
-        "w": 61,
-        "h": 30
+        "x": 310,
+        "y": 303,
+        "w": 91,
+        "h": 92
+      }
+    },
+    {
+      "tag": "A",
+      "text": "Diaryを開く",
+      "disabled": false,
+      "rect": {
+        "x": 20,
+        "y": 330,
+        "w": 147,
+        "h": 147
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Enter the dream",
+      "disabled": false,
+      "rect": {
+        "x": 110,
+        "y": 545,
+        "w": 210,
+        "h": 70
+      }
+    },
+    {
+      "tag": "A",
+      "text": "WORLDを開く",
+      "disabled": false,
+      "rect": {
+        "x": 26,
+        "y": 878,
+        "w": 378,
+        "h": 213
       }
     },
     {
@@ -61,65 +93,21 @@
       "text": "白い街の一片に触れる",
       "disabled": false,
       "rect": {
-        "x": 73,
-        "y": 800,
+        "x": 74,
+        "y": 799,
         "w": 69,
         "h": 69
       }
     },
     {
       "tag": "BUTTON",
-      "text": "夢を離れる",
+      "text": "次へ",
       "disabled": false,
       "rect": {
-        "x": 22,
-        "y": 870,
-        "w": 100,
+        "x": 340,
+        "y": 836,
+        "w": 72,
         "h": 44
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "日記を閉じる",
-      "disabled": false,
-      "rect": {
-        "x": 353,
-        "y": 192,
-        "w": 44,
-        "h": 44
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "言葉を添える",
-      "disabled": false,
-      "rect": {
-        "x": 38,
-        "y": 566,
-        "w": 103,
-        "h": 44
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "何も残さず、アトリエへ戻る",
-      "disabled": false,
-      "rect": {
-        "x": 38,
-        "y": 700,
-        "w": 354,
-        "h": 40
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "Diaryへ持ち帰る",
-      "disabled": false,
-      "rect": {
-        "x": 38,
-        "y": 645,
-        "w": 354,
-        "h": 48
       }
     }
   ],
@@ -392,6 +380,21 @@
       "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-d-resume-20261017-0945-q5m9#quiet",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/2aff320c48b11db11ead73c340764af43461ca15/live-results/mofu-vis-d-resume-20261017-0945-q5m9/current.jpg",
       "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n夢を離れる\n\nDREAM MEMORY\n\n夢から残ったもの\n\nWORLD MEMORY\nMEMORY FRAGMENT\n住所のない白いタイル\nまだ住所を持たない街から、足元へ滑った小さなタイル。\n言葉を添える\n何も残さず、アトリエへ戻る\nDiaryへ持ち帰る"
+    },
+    {
+      "number": 19,
+      "at": "2026-10-17T00:55:13.854Z",
+      "action": {
+        "id": "dr18-return-atelier",
+        "op": "tap",
+        "x": 204,
+        "y": 720,
+        "note": "Advance already observed non-saving onboarding route to WORLD."
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-d-resume-20261017-0945-q5m9",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/d0c019897db89d956588d53abd8f588ee0b7fa93/live-results/mofu-vis-d-resume-20261017-0945-q5m9/current.jpg",
+      "text": "作品へ移動\n \nWORLD\nWORLD\n水面の向こうに、いくつかの場所がひらいています。\n\n\nABOUT\nもふもふはいます。\nPLAY / SHARE / FAN WORK\nNIKO²での生活について\n好きな形で遊ぶための、小さな境界。\nDEAR ATELIER\nお手紙を送る\nAtelierの受取箱へ。\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n\nAFTER THE GARDEN\nいくつかのものに触れ、 最後の景色まで進みました。\n次へ"
     }
   ]
 }
