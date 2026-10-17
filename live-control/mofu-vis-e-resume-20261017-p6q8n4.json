@@ -1,6 +1,7 @@
 {
-  "id": "e5-07-quiet-settle",
-  "op": "wait",
-  "ms": 1800,
-  "note": "Allow quiet-scene exit control to appear"
+  "id": "e5-08-leave",
+  "op": "tap",
+  "x": 73,
+  "y": 891,
+  "note": "Use visible dream exit control to reach memory modal"
 }
