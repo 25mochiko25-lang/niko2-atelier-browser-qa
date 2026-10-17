@@ -1,7 +1,6 @@
 {
-  "id": "e4-19-diary-blur",
-  "op": "tap",
-  "x": 410,
-  "y": 478,
-  "note": "Tap neutral non-input margin to release textarea focus without submitting anything"
+  "id": "e4-20-diary-lower",
+  "op": "key",
+  "key": "PageDown",
+  "note": "Scroll diary to archived entries using supported keyboard PageDown after focus removed"
 }
