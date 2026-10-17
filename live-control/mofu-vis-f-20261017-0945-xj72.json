@@ -1,7 +1,7 @@
 {
-  "id": "f57",
+  "id": "f58",
   "op": "tap",
-  "x": 362,
-  "y": 442,
-  "note": "Enter visible ROOM NULL for CHANNEL 00 comparison"
+  "x": 380,
+  "y": 551,
+  "note": "Open visible ROOM NULL door"
 }
