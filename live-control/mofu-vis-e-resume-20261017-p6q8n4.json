@@ -1,7 +1,7 @@
 {
-  "id": "e5-05-garden-enter",
+  "id": "e5-06-quiet",
   "op": "tap",
-  "x": 216,
-  "y": 877,
-  "note": "Use visible 'この空へ入る' button"
+  "x": 383,
+  "y": 72,
+  "note": "Use visible dream memory to return home via public quiet scene"
 }
