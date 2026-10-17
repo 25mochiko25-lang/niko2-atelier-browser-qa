@@ -1,7 +1,7 @@
 {
-  "id": "r37",
+  "id": "r38",
   "op": "tap",
-  "x": 380,
-  "y": 551,
-  "note": "Open visible ROOM NULL door for direct laptop CHANNEL 00 route"
+  "x": 102,
+  "y": 421,
+  "note": "Open actually exposed CHANNEL 00 laptop within ROOM NULL"
 }
