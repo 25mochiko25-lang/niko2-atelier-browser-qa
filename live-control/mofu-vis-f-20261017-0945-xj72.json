@@ -1,7 +1,7 @@
 {
-  "id": "f24",
+  "id": "f25",
   "op": "tap",
-  "x": 363,
-  "y": 440,
-  "note": "Enter visibly marked ROOM NULL through the WORLD's right-hand doorway"
+  "x": 379,
+  "y": 554,
+  "note": "Open ROOM NULL by touching the visible door handle"
 }
