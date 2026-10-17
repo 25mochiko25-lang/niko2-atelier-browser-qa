@@ -1,8 +1,7 @@
 {
-  "id": "dr29-diary-book",
+  "id": "dr30-diary-return",
   "op": "tap",
-  "x": 288,
-  "y": 711,
-  "wait": 1300,
-  "note": "Test visible large book on bed as possible Diary affordance; no form data entered."
+  "x": 327,
+  "y": 280,
+  "note": "Return via visible ROOM NULL control without saving any Diary data."
 }
