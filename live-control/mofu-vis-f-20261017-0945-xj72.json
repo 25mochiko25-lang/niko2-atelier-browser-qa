@@ -1,7 +1,6 @@
 {
-  "id": "f36",
-  "op": "tap",
-  "x": 189,
-  "y": 376,
-  "note": "Select Blue Hour as second Hotel item to compare presentation and layout"
+  "id": "f37",
+  "op": "look",
+  "wait": 1200,
+  "note": "Inspect stabilized Blue Hour scene and second item presentation"
 }
