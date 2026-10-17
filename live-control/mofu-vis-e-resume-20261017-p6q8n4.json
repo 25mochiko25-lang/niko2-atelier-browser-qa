@@ -1,6 +1,7 @@
 {
-  "id": "e5-24-home-contact",
-  "op": "key",
-  "key": "PageDown",
-  "note": "Bring visible DEAR ATELIER card into viewport; synthetic key scroll"
+  "id": "e5-25-contact-open",
+  "op": "tap",
+  "x": 170,
+  "y": 704,
+  "note": "Open visible public letter form for visual audit only; no input or send"
 }
