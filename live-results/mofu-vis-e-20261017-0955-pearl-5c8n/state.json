@@ -6,18 +6,17 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-17T00:55:08.310Z",
-  "updatedAt": "2026-10-17T01:04:26.991Z",
-  "lastCommand": "e4-25-diary-archive",
+  "updatedAt": "2026-10-17T01:04:48.955Z",
+  "lastCommand": "e4-26-archive-bottom",
   "stopReason": null,
   "action": {
-    "id": "e4-25-diary-archive",
-    "op": "tap",
-    "x": 374,
-    "y": 699,
-    "note": "Expand visible Archive control in Diary, do not save or submit entries"
+    "id": "e4-26-archive-bottom",
+    "op": "key",
+    "key": "PageDown",
+    "note": "Inspect expanded archive body and navigation without saving"
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/38b09ff6ca8c70dc19f97a1ab324987d2f393787/live-results/mofu-vis-e-20261017-0955-pearl-5c8n/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/6e6a71cdb5527020c689d60d0d776e9b35b7ae4c/live-results/mofu-vis-e-20261017-0955-pearl-5c8n/current.jpg",
   "readOnly": true,
   "blockedWrites": 15,
   "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-e-20261017-0955-pearl-5c8n#diary",
@@ -90,22 +89,11 @@
     },
     {
       "tag": "BUTTON",
-      "text": "残す",
-      "disabled": false,
-      "rect": {
-        "x": 260,
-        "y": 15,
-        "w": 128,
-        "h": 48
-      }
-    },
-    {
-      "tag": "BUTTON",
       "text": "日々",
       "disabled": false,
       "rect": {
         "x": 73,
-        "y": 749,
+        "y": 333,
         "w": 54,
         "h": 42
       }
@@ -116,7 +104,7 @@
       "disabled": false,
       "rect": {
         "x": 131,
-        "y": 749,
+        "y": 333,
         "w": 54,
         "h": 42
       }
@@ -127,7 +115,7 @@
       "disabled": false,
       "rect": {
         "x": 189,
-        "y": 749,
+        "y": 333,
         "w": 54,
         "h": 42
       }
@@ -138,7 +126,7 @@
       "disabled": false,
       "rect": {
         "x": 46,
-        "y": 799,
+        "y": 383,
         "w": 44,
         "h": 44
       }
@@ -149,7 +137,7 @@
       "disabled": true,
       "rect": {
         "x": 226,
-        "y": 799,
+        "y": 383,
         "w": 44,
         "h": 44
       }
@@ -160,9 +148,42 @@
       "disabled": false,
       "rect": {
         "x": 37,
-        "y": 870,
+        "y": 454,
         "w": 74,
         "h": 40
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "+ この日に残す",
+      "disabled": false,
+      "rect": {
+        "x": 166,
+        "y": 621,
+        "w": 98,
+        "h": 44
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "WHAT REMAINED\n残ったものを見る",
+      "disabled": false,
+      "rect": {
+        "x": 26,
+        "y": 760,
+        "w": 378,
+        "h": 49
+      }
+    },
+    {
+      "tag": "A",
+      "text": "アトリエへ戻る",
+      "disabled": false,
+      "rect": {
+        "x": 26,
+        "y": 821,
+        "w": 378,
+        "h": 48
       }
     }
   ],
@@ -546,6 +567,20 @@
       "error": null,
       "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-e-20261017-0955-pearl-5c8n#diary",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/38b09ff6ca8c70dc19f97a1ab324987d2f393787/live-results/mofu-vis-e-20261017-0955-pearl-5c8n/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\nDream\nDiary\nAbout\n\nNIKO² DIARY\nDiary\n今日のことを、ひとつだけ。\n10月17日 10:00\nTODAY\n今日を残す\n選んだ記憶が、ここに書きとめてあります。\nあなたの言葉を、添えても構いません。\n✦\nいまの気配\n\n静か\n\nきらきら\n\nぼんやり\n\nざわざわ\n\n甘い\n\n雨っぽい\n\n眠い\n\n何もない\nPHOTO\n写真\n自販機\nまち\n部屋\n買ったもの\n遊び\n食べもの\nその他\n写真を眺める\n‹\n›\n\n\n自販機\n\n\nホーム\n\n\n改札\n\n\n途中\n\n\nロッカー\n\n\nエレベーター\n\n\nガラス扉\n\n\n空席\n\n\n雨の改札\n\n\n22:47\n\n\n青空\n\n\n夕方\n\n\n夜空\n\n\n空の間\n\n\n夕方の壁\n\n\n雨あがり\n言葉\nOPTIONAL\n0 / 6000\nこの端末だけに残ります\n残す\n2026年10月\nMONTHLY REFLECTION\n今月の景色\nまだ何も残っていません。\n最初のひとつを持ち帰ると、ここから景色が育ちます。\nARCHIVE\n前の日々をひらく\n日々\n月\n年\n\n2026年10月17日\n\nこの月へ戻る\nこの日には、まだ何も残っていません。\n+ この日に残す\n\nWHAT REMAINED\n残ったものを見る\nアトリエへ戻る\n"
+    },
+    {
+      "number": 27,
+      "at": "2026-10-17T01:04:48.955Z",
+      "action": {
+        "id": "e4-26-archive-bottom",
+        "op": "key",
+        "key": "PageDown",
+        "note": "Inspect expanded archive body and navigation without saving"
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-e-20261017-0955-pearl-5c8n#diary",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/6e6a71cdb5527020c689d60d0d776e9b35b7ae4c/live-results/mofu-vis-e-20261017-0955-pearl-5c8n/current.jpg",
       "text": "作品へ移動\nNIKO² ATELIER\nDream\nDiary\nAbout\n\nNIKO² DIARY\nDiary\n今日のことを、ひとつだけ。\n10月17日 10:00\nTODAY\n今日を残す\n選んだ記憶が、ここに書きとめてあります。\nあなたの言葉を、添えても構いません。\n✦\nいまの気配\n\n静か\n\nきらきら\n\nぼんやり\n\nざわざわ\n\n甘い\n\n雨っぽい\n\n眠い\n\n何もない\nPHOTO\n写真\n自販機\nまち\n部屋\n買ったもの\n遊び\n食べもの\nその他\n写真を眺める\n‹\n›\n\n\n自販機\n\n\nホーム\n\n\n改札\n\n\n途中\n\n\nロッカー\n\n\nエレベーター\n\n\nガラス扉\n\n\n空席\n\n\n雨の改札\n\n\n22:47\n\n\n青空\n\n\n夕方\n\n\n夜空\n\n\n空の間\n\n\n夕方の壁\n\n\n雨あがり\n言葉\nOPTIONAL\n0 / 6000\nこの端末だけに残ります\n残す\n2026年10月\nMONTHLY REFLECTION\n今月の景色\nまだ何も残っていません。\n最初のひとつを持ち帰ると、ここから景色が育ちます。\nARCHIVE\n前の日々をひらく\n日々\n月\n年\n\n2026年10月17日\n\nこの月へ戻る\nこの日には、まだ何も残っていません。\n+ この日に残す\n\nWHAT REMAINED\n残ったものを見る\nアトリエへ戻る\n"
     }
   ]
