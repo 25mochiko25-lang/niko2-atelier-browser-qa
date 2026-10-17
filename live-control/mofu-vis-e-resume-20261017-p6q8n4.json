@@ -1,7 +1,7 @@
 {
-  "id": "e5-15-notes-filter",
+  "id": "e5-16-genesis-article",
   "op": "tap",
-  "x": 204,
-  "y": 234,
-  "note": "Inspect visible NOTES filter and whether publication cards remain legible"
+  "x": 169,
+  "y": 490,
+  "note": "Open previously uninspected public GENESIS article in Notes"
 }
