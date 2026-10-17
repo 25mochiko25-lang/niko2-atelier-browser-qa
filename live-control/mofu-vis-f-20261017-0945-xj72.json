@@ -1,7 +1,7 @@
 {
-  "id": "f38",
+  "id": "f39",
   "op": "tap",
-  "x": 202,
-  "y": 815,
-  "note": "Inspect menu after 2/2 items to compare states and continued browsing"
+  "x": 150,
+  "y": 316,
+  "note": "At 2/2, test whether visually enabled third item responds clearly"
 }
