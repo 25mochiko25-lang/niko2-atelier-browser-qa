@@ -1,6 +1,7 @@
 {
-  "id": "f26",
-  "op": "look",
-  "wait": 1200,
-  "note": "Observe the ROOM NULL interior after the door transition"
+  "id": "f27",
+  "op": "tap",
+  "x": 76,
+  "y": 405,
+  "note": "Open CHANNEL 00 using the visible laptop screen in ROOM NULL"
 }
