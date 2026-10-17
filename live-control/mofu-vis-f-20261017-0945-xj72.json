@@ -1,7 +1,7 @@
 {
-  "id": "f14",
+  "id": "f15",
   "op": "tap",
-  "x": 44,
-  "y": 473,
-  "note": "Inspect visible Garden hourglass, fifth distinct memory"
+  "x": 323,
+  "y": 279,
+  "note": "Open visible glowing gate after collecting 5/5 memories"
 }
