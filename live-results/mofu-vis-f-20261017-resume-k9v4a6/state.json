@@ -6,19 +6,19 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-17T04:01:12.828Z",
-  "updatedAt": "2026-10-17T04:16:02.139Z",
-  "lastCommand": "r32",
+  "updatedAt": "2026-10-17T04:16:19.538Z",
+  "lastCommand": "r33",
   "stopReason": null,
   "action": {
-    "id": "r32",
-    "op": "look",
-    "wait": 1700,
-    "note": "Allow perfume fixation animation to settle and inspect final result view"
+    "id": "r33",
+    "op": "key",
+    "key": "PageDown",
+    "note": "Read remainder of Perfume result and inspect lower section, not representing phone swipe"
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/795108dbf8bdfd30cb09cf38951f41b3e6ad0e94/live-results/mofu-vis-f-20261017-resume-k9v4a6/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/fa4a19396a43cc9b98ce6e9b4b8a12e76385e024/live-results/mofu-vis-f-20261017-resume-k9v4a6/current.jpg",
   "readOnly": true,
-  "blockedWrites": 19,
+  "blockedWrites": 20,
   "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-f-20261017-resume-k9v4a6#perfume",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -56,22 +56,11 @@
     },
     {
       "tag": "BUTTON",
-      "text": "香水ホームへ戻る",
-      "disabled": false,
-      "rect": {
-        "x": 14,
-        "y": 82,
-        "w": 40,
-        "h": 40
-      }
-    },
-    {
-      "tag": "BUTTON",
       "text": "Diaryに持ち帰る",
       "disabled": false,
       "rect": {
         "x": 46,
-        "y": 893,
+        "y": 233,
         "w": 165,
         "h": 44
       }
@@ -82,7 +71,7 @@
       "disabled": false,
       "rect": {
         "x": 219,
-        "y": 893,
+        "y": 233,
         "w": 165,
         "h": 44
       }
@@ -577,6 +566,20 @@
       "error": null,
       "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-f-20261017-resume-k9v4a6#perfume",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/795108dbf8bdfd30cb09cf38951f41b3e6ad0e94/live-results/mofu-vis-f-20261017-resume-k9v4a6/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\n\n\nDREAM / PM-01\nPERFUME MORGUE\nFRAGRANCE / PENDING\nGOURMAND / 食べられない甘さ\nF-20261017-987D\nCandied Sunday\nGOURMAND / 食べられない甘さ\nEAU DE TOILETTE / 肌に近い\nTOP\n1. 雨 ×1\nMIDDLE\n1. 甘い夢 ×1\nLAST\n1. 燃えた砂糖 ×1\nFORMULA / SCENT CHARACTER\n最初に雨。 少し遅れて甘い夢。 最後に燃えた砂糖が残る。 肌の近くで続く輪郭へ着地する。\nDiaryに持ち帰る\nもう一度調合する\nケーキのいちごは、全部ちょうだい！ ゲームだって、お菓子だって、もっと欲しいの！ プレゼントはまだ？ 毎日買ってほしいのに！ 前のも、大事にしてるもん。\nREAL WORLD ECHOES\nREAL WORLD / TRACE ONLY\nこの香りには、現実にも近い夢がある。\nいまはまだ、名前ではなく三つの手掛かりだけ。\n\nECHO / AIR\nオゾニック\nECHO / HEART\nバニラ\nECHO / TRACE\nプラリネ / キャラメル\n"
+    },
+    {
+      "number": 34,
+      "at": "2026-10-17T04:16:19.538Z",
+      "action": {
+        "id": "r33",
+        "op": "key",
+        "key": "PageDown",
+        "note": "Read remainder of Perfume result and inspect lower section, not representing phone swipe"
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-f-20261017-resume-k9v4a6#perfume",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/fa4a19396a43cc9b98ce6e9b4b8a12e76385e024/live-results/mofu-vis-f-20261017-resume-k9v4a6/current.jpg",
       "text": "作品へ移動\nNIKO² ATELIER\n\n\nDREAM / PM-01\nPERFUME MORGUE\nFRAGRANCE / PENDING\nGOURMAND / 食べられない甘さ\nF-20261017-987D\nCandied Sunday\nGOURMAND / 食べられない甘さ\nEAU DE TOILETTE / 肌に近い\nTOP\n1. 雨 ×1\nMIDDLE\n1. 甘い夢 ×1\nLAST\n1. 燃えた砂糖 ×1\nFORMULA / SCENT CHARACTER\n最初に雨。 少し遅れて甘い夢。 最後に燃えた砂糖が残る。 肌の近くで続く輪郭へ着地する。\nDiaryに持ち帰る\nもう一度調合する\nケーキのいちごは、全部ちょうだい！ ゲームだって、お菓子だって、もっと欲しいの！ プレゼントはまだ？ 毎日買ってほしいのに！ 前のも、大事にしてるもん。\nREAL WORLD ECHOES\nREAL WORLD / TRACE ONLY\nこの香りには、現実にも近い夢がある。\nいまはまだ、名前ではなく三つの手掛かりだけ。\n\nECHO / AIR\nオゾニック\nECHO / HEART\nバニラ\nECHO / TRACE\nプラリネ / キャラメル\n"
     }
   ]
