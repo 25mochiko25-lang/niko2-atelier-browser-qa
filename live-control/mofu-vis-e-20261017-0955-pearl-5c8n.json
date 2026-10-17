@@ -1,7 +1,7 @@
 {
-  "id": "e4-33-photo-browse",
+  "id": "e4-34-gallery-next",
   "op": "tap",
-  "x": 233,
-  "y": 752,
-  "note": "Inspect visible Diary photo browsing control, no user-uploaded content"
+  "x": 404,
+  "y": 504,
+  "note": "Move from photo 1 to photo 2 with visible gallery arrow"
 }
