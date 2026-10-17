@@ -1,7 +1,6 @@
 {
-  "id": "e5-06-quiet",
-  "op": "tap",
-  "x": 383,
-  "y": 72,
-  "note": "Use visible dream memory to return home via public quiet scene"
+  "id": "e5-07-quiet-settle",
+  "op": "wait",
+  "ms": 1800,
+  "note": "Allow quiet-scene exit control to appear"
 }
