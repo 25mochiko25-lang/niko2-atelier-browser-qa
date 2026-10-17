@@ -6,18 +6,17 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-17T04:01:12.828Z",
-  "updatedAt": "2026-10-17T04:11:34.620Z",
-  "lastCommand": "r25",
+  "updatedAt": "2026-10-17T04:12:07.539Z",
+  "lastCommand": "r26",
   "stopReason": null,
   "action": {
-    "id": "r25",
-    "op": "tap",
-    "x": 79,
-    "y": 522,
-    "note": "Probe visible mixing bottle area: lower ingredient DOM rect falls here but should be clipped, check accidental through-tap"
+    "id": "r26",
+    "op": "key",
+    "key": "PageDown",
+    "note": "Keyboard viewport inspection of below-fold Perfume elements; not an iPhone swipe test"
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/674a2d5bb07d5d761465572f44436da983471384/live-results/mofu-vis-f-20261017-resume-k9v4a6/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/99a1145c6eca8d10635b6f04444520e9af234aab/live-results/mofu-vis-f-20261017-resume-k9v4a6/current.jpg",
   "readOnly": true,
   "blockedWrites": 15,
   "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-f-20261017-resume-k9v4a6#perfume",
@@ -57,22 +56,11 @@
     },
     {
       "tag": "BUTTON",
-      "text": "香水ホームへ戻る",
-      "disabled": false,
-      "rect": {
-        "x": 14,
-        "y": 82,
-        "w": 40,
-        "h": 40
-      }
-    },
-    {
-      "tag": "BUTTON",
       "text": "雨",
       "disabled": false,
       "rect": {
         "x": 26,
-        "y": 243,
+        "y": 62,
         "w": 186,
         "h": 56
       }
@@ -83,7 +71,7 @@
       "disabled": false,
       "rect": {
         "x": 219,
-        "y": 243,
+        "y": 62,
         "w": 186,
         "h": 56
       }
@@ -94,7 +82,7 @@
       "disabled": false,
       "rect": {
         "x": 26,
-        "y": 306,
+        "y": 125,
         "w": 186,
         "h": 56
       }
@@ -105,7 +93,7 @@
       "disabled": false,
       "rect": {
         "x": 219,
-        "y": 306,
+        "y": 125,
         "w": 186,
         "h": 56
       }
@@ -116,7 +104,7 @@
       "disabled": false,
       "rect": {
         "x": 26,
-        "y": 369,
+        "y": 188,
         "w": 186,
         "h": 56
       }
@@ -127,7 +115,7 @@
       "disabled": false,
       "rect": {
         "x": 219,
-        "y": 369,
+        "y": 188,
         "w": 186,
         "h": 56
       }
@@ -138,7 +126,7 @@
       "disabled": false,
       "rect": {
         "x": 26,
-        "y": 432,
+        "y": 251,
         "w": 186,
         "h": 56
       }
@@ -149,7 +137,7 @@
       "disabled": false,
       "rect": {
         "x": 219,
-        "y": 432,
+        "y": 251,
         "w": 186,
         "h": 56
       }
@@ -160,7 +148,7 @@
       "disabled": false,
       "rect": {
         "x": 26,
-        "y": 495,
+        "y": 314,
         "w": 186,
         "h": 56
       }
@@ -171,7 +159,7 @@
       "disabled": false,
       "rect": {
         "x": 219,
-        "y": 495,
+        "y": 314,
         "w": 186,
         "h": 56
       }
@@ -182,7 +170,7 @@
       "disabled": false,
       "rect": {
         "x": 26,
-        "y": 558,
+        "y": 377,
         "w": 186,
         "h": 56
       }
@@ -193,7 +181,7 @@
       "disabled": false,
       "rect": {
         "x": 219,
-        "y": 558,
+        "y": 377,
         "w": 186,
         "h": 56
       }
@@ -204,7 +192,7 @@
       "disabled": false,
       "rect": {
         "x": 26,
-        "y": 621,
+        "y": 440,
         "w": 186,
         "h": 56
       }
@@ -215,7 +203,7 @@
       "disabled": false,
       "rect": {
         "x": 219,
-        "y": 621,
+        "y": 440,
         "w": 186,
         "h": 56
       }
@@ -226,7 +214,7 @@
       "disabled": false,
       "rect": {
         "x": 26,
-        "y": 684,
+        "y": 503,
         "w": 186,
         "h": 56
       }
@@ -237,7 +225,7 @@
       "disabled": false,
       "rect": {
         "x": 219,
-        "y": 684,
+        "y": 503,
         "w": 186,
         "h": 56
       }
@@ -248,7 +236,7 @@
       "disabled": false,
       "rect": {
         "x": 26,
-        "y": 630,
+        "y": 449,
         "w": 123,
         "h": 44
       }
@@ -259,7 +247,7 @@
       "disabled": false,
       "rect": {
         "x": 154,
-        "y": 630,
+        "y": 449,
         "w": 123,
         "h": 44
       }
@@ -270,7 +258,7 @@
       "disabled": false,
       "rect": {
         "x": 281,
-        "y": 630,
+        "y": 449,
         "w": 123,
         "h": 44
       }
@@ -281,7 +269,7 @@
       "disabled": false,
       "rect": {
         "x": 74,
-        "y": 712,
+        "y": 531,
         "w": 30,
         "h": 32
       }
@@ -292,7 +280,7 @@
       "disabled": true,
       "rect": {
         "x": 107,
-        "y": 712,
+        "y": 531,
         "w": 30,
         "h": 32
       }
@@ -303,7 +291,7 @@
       "disabled": false,
       "rect": {
         "x": 141,
-        "y": 712,
+        "y": 531,
         "w": 30,
         "h": 32
       }
@@ -314,7 +302,7 @@
       "disabled": false,
       "rect": {
         "x": 26,
-        "y": 873,
+        "y": 692,
         "w": 71,
         "h": 70
       }
@@ -325,7 +313,7 @@
       "disabled": false,
       "rect": {
         "x": 103,
-        "y": 873,
+        "y": 692,
         "w": 71,
         "h": 70
       }
@@ -336,7 +324,7 @@
       "disabled": false,
       "rect": {
         "x": 180,
-        "y": 873,
+        "y": 692,
         "w": 71,
         "h": 70
       }
@@ -347,7 +335,7 @@
       "disabled": false,
       "rect": {
         "x": 256,
-        "y": 873,
+        "y": 692,
         "w": 71,
         "h": 70
       }
@@ -358,9 +346,31 @@
       "disabled": false,
       "rect": {
         "x": 333,
-        "y": 873,
+        "y": 692,
         "w": 71,
         "h": 70
+      }
+    },
+    {
+      "tag": "INPUT",
+      "text": "香りの濃度",
+      "disabled": false,
+      "rect": {
+        "x": 28,
+        "y": 772,
+        "w": 378,
+        "h": 32
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "香りを定着させる",
+      "disabled": true,
+      "rect": {
+        "x": 26,
+        "y": 816,
+        "w": 378,
+        "h": 48
       }
     }
   ],
@@ -750,6 +760,20 @@
       "error": null,
       "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-f-20261017-resume-k9v4a6#perfume",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/674a2d5bb07d5d761465572f44436da983471384/live-results/mofu-vis-f-20261017-resume-k9v4a6/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\n\n\nDREAM / PM-01\nPERFUME MORGUE\nFORMULA / 1 MATERIAL\n香りになれなかった記憶。\n素材を選び、三つの層へ落としてください。順番と濃度で、同じ記憶も別の香りになります。\n雨\n古いぬいぐるみ\n燃えた砂糖\nホテルの白いシーツ\n甘い夢\n紅茶の渋み\n煙の名残\n花\n濡れた石\n乾いた木\n生の果実\n夜更け\n海水\n古い本\n化粧の粉\n冷たい金属\n\nMIXING BOTTLE / 1 MATERIAL\nIN BOTTLE / 雨 ×1\n\n01\nTOP\n\n02\nMIDDLE\n\n03\nLAST\nTOP\n雨 ×1\n×\n−\n＋\nMIDDLE\nこの層には、まだ何も落ちていない。\nLAST\nこの層には、まだ何も落ちていない。\nCONCENTRATION\nEAU DE TOILETTE / 肌に近い\n\nEau Fraîche\n水のあと\n\nCologne\n風の輪郭\n\nToilette\n肌に近い\n\nParfum\n記憶の濃度\n\nExtrait\n最後まで残る\n\n香りを定着させる\n"
+    },
+    {
+      "number": 27,
+      "at": "2026-10-17T04:12:07.539Z",
+      "action": {
+        "id": "r26",
+        "op": "key",
+        "key": "PageDown",
+        "note": "Keyboard viewport inspection of below-fold Perfume elements; not an iPhone swipe test"
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-f-20261017-resume-k9v4a6#perfume",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/99a1145c6eca8d10635b6f04444520e9af234aab/live-results/mofu-vis-f-20261017-resume-k9v4a6/current.jpg",
       "text": "作品へ移動\nNIKO² ATELIER\n\n\nDREAM / PM-01\nPERFUME MORGUE\nFORMULA / 1 MATERIAL\n香りになれなかった記憶。\n素材を選び、三つの層へ落としてください。順番と濃度で、同じ記憶も別の香りになります。\n雨\n古いぬいぐるみ\n燃えた砂糖\nホテルの白いシーツ\n甘い夢\n紅茶の渋み\n煙の名残\n花\n濡れた石\n乾いた木\n生の果実\n夜更け\n海水\n古い本\n化粧の粉\n冷たい金属\n\nMIXING BOTTLE / 1 MATERIAL\nIN BOTTLE / 雨 ×1\n\n01\nTOP\n\n02\nMIDDLE\n\n03\nLAST\nTOP\n雨 ×1\n×\n−\n＋\nMIDDLE\nこの層には、まだ何も落ちていない。\nLAST\nこの層には、まだ何も落ちていない。\nCONCENTRATION\nEAU DE TOILETTE / 肌に近い\n\nEau Fraîche\n水のあと\n\nCologne\n風の輪郭\n\nToilette\n肌に近い\n\nParfum\n記憶の濃度\n\nExtrait\n最後まで残る\n\n香りを定着させる\n"
     }
   ]
