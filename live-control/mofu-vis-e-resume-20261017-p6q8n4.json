@@ -1,7 +1,6 @@
 {
-  "id": "e5-16-genesis-article",
-  "op": "tap",
-  "x": 169,
-  "y": 490,
-  "note": "Open previously uninspected public GENESIS article in Notes"
+  "id": "e5-17-genesis-down",
+  "op": "key",
+  "key": "PageDown",
+  "note": "Read lower public GENESIS entries using synthetic PageDown, not finger-swipe evidence"
 }
