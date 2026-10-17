@@ -1,7 +1,1 @@
-{
-  "id": "g02",
-  "op": "tap",
-  "x": 377,
-  "y": 859,
-  "note": "Read tutorial as a returning guest"
-}
+{"id":"g03","op":"tap","x":372,"y":860,"note":"Continue tutorial"}
