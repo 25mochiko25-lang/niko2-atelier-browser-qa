@@ -6,18 +6,18 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-17T22:05:16.183Z",
-  "updatedAt": "2026-10-17T22:11:41.989Z",
-  "lastCommand": "g17",
+  "updatedAt": "2026-10-17T22:11:58.947Z",
+  "lastCommand": "g18",
   "stopReason": null,
   "action": {
-    "id": "g17",
+    "id": "g18",
     "op": "tap",
-    "x": 391,
-    "y": 160,
-    "note": "Close the lab record and continue wandering"
+    "x": 399,
+    "y": 159,
+    "note": "Close reading table"
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/47d3354f15a424311c797a7e84c092cfca2904c3/live-results/mofu-vis-g-20261018-t7c6n4/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/f1d528ffe61642ab09ab371190454097beef464f/live-results/mofu-vis-g-20261018-t7c6n4/current.jpg",
   "readOnly": true,
   "blockedWrites": 12,
   "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-g-20261018-t7c6n4#lab",
@@ -31,7 +31,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\nNIKO² ATELIER\n\n白と薄水色のガラス研究所。奥へ続く通路と、記録の置かれた観測台があります。\nMAIN LAB\n観測台\n\n\n\n観測台奥の保管室へ進む\nREADING TABLE\n\nON THE TABLE\nいま読める記録\n\n\n記録 01\n所有者のいない記憶\n忘れられたあとも、記憶は残るのか。\n読む\n\n\n記録 02\n停止されなかった庭\n実験終了後も、環境だけが咲き続けている。\n読む\n\n\n記録 03\n白い試料 M-00\n本人は、アルパカだと報告している。\n読む\n\n\n記録 04\n管理業務用の付け髭\n威厳への効果は、まだ確認されていない。\n既読\nM-00 MANAGEMENT EQUIPMENTを開きました。",
+  "text": "作品へ移動\nNIKO² ATELIER\n\n白と薄水色のガラス研究所。奥へ続く通路と、記録の置かれた観測台があります。\nMAIN LAB\n観測台\n\n\n\n観測台奥の保管室へ進む\nM-00 MANAGEMENT EQUIPMENTを開きました。",
   "controls": [
     {
       "tag": "A",
@@ -97,61 +97,6 @@
         "y": 708,
         "w": 104,
         "h": 140
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "観測台を閉じる",
-      "disabled": false,
-      "rect": {
-        "x": 377,
-        "y": 137,
-        "w": 44,
-        "h": 44
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "記録 01\n所有者のいない記憶\n忘れられたあとも、記憶は残るのか。\n読む",
-      "disabled": false,
-      "rect": {
-        "x": 23,
-        "y": 260,
-        "w": 384,
-        "h": 86
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "記録 02\n停止されなかった庭\n実験終了後も、環境だけが咲き続けている。\n読む",
-      "disabled": false,
-      "rect": {
-        "x": 23,
-        "y": 346,
-        "w": 384,
-        "h": 86
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "記録 03\n白い試料 M-00\n本人は、アルパカだと報告している。\n読む",
-      "disabled": false,
-      "rect": {
-        "x": 23,
-        "y": 432,
-        "w": 384,
-        "h": 86
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "記録 04\n管理業務用の付け髭\n威厳への効果は、まだ確認されていない。\n既読",
-      "disabled": false,
-      "rect": {
-        "x": 23,
-        "y": 518,
-        "w": 384,
-        "h": 86
       }
     }
   ],
@@ -421,6 +366,21 @@
       "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-g-20261018-t7c6n4#lab",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/47d3354f15a424311c797a7e84c092cfca2904c3/live-results/mofu-vis-g-20261018-t7c6n4/current.jpg",
       "text": "作品へ移動\nNIKO² ATELIER\n\n白と薄水色のガラス研究所。奥へ続く通路と、記録の置かれた観測台があります。\nMAIN LAB\n観測台\n\n\n\n観測台奥の保管室へ進む\nREADING TABLE\n\nON THE TABLE\nいま読める記録\n\n\n記録 01\n所有者のいない記憶\n忘れられたあとも、記憶は残るのか。\n読む\n\n\n記録 02\n停止されなかった庭\n実験終了後も、環境だけが咲き続けている。\n読む\n\n\n記録 03\n白い試料 M-00\n本人は、アルパカだと報告している。\n読む\n\n\n記録 04\n管理業務用の付け髭\n威厳への効果は、まだ確認されていない。\n既読\nM-00 MANAGEMENT EQUIPMENTを開きました。"
+    },
+    {
+      "number": 19,
+      "at": "2026-10-17T22:11:58.947Z",
+      "action": {
+        "id": "g18",
+        "op": "tap",
+        "x": 399,
+        "y": 159,
+        "note": "Close reading table"
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-g-20261018-t7c6n4#lab",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/f1d528ffe61642ab09ab371190454097beef464f/live-results/mofu-vis-g-20261018-t7c6n4/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\n\n白と薄水色のガラス研究所。奥へ続く通路と、記録の置かれた観測台があります。\nMAIN LAB\n観測台\n\n\n\n観測台奥の保管室へ進む\nM-00 MANAGEMENT EQUIPMENTを開きました。"
     }
   ]
 }
