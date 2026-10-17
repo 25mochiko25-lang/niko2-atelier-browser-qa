@@ -1,6 +1,5 @@
 {
-  "id": "e3-21-issue-pagedown2",
-  "op": "key",
-  "key": "PageDown",
-  "note": "Inspect additional published article layout with supported synthetic PageDown"
+  "id": "e3-22-issue-back",
+  "op": "back",
+  "note": "Return from ISSUE 000 to visible article list via browser back"
 }
