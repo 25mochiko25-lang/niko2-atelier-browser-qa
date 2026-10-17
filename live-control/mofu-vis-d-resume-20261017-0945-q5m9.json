@@ -1,7 +1,7 @@
 {
-  "id": "dr21-after-next",
+  "id": "dr22-tutorial-done",
   "op": "tap",
-  "x": 375,
-  "y": 856,
-  "note": "Finish previously observed onboarding, navigate public WORLD normally."
+  "x": 373,
+  "y": 858,
+  "note": "Finish visible onboarding, then enter WORLD via visible link."
 }
