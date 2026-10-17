@@ -1,7 +1,6 @@
 {
-  "id": "r15",
-  "op": "tap",
-  "x": 323,
-  "y": 279,
-  "note": "Enter lit Garden gate; required public route to CHANNEL 00"
+  "id": "r16",
+  "op": "look",
+  "wait": 1800,
+  "note": "Wait for visible post-gate scene to settle before departure"
 }
