@@ -1,6 +1,6 @@
 {
-  "id": "e4-23-diary-tab",
+  "id": "e4-24-diary-pagedown3",
   "op": "key",
-  "key": "Tab",
-  "note": "Move focus away from textarea without selecting save or posting"
+  "key": "PageDown",
+  "note": "Page down from focused save button without activating save"
 }
