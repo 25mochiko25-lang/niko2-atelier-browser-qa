@@ -6,18 +6,18 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-17T22:05:16.183Z",
-  "updatedAt": "2026-10-17T22:15:37.457Z",
-  "lastCommand": "g28",
+  "updatedAt": "2026-10-17T22:15:56.701Z",
+  "lastCommand": "g29",
   "stopReason": null,
   "action": {
-    "id": "g28",
+    "id": "g29",
     "op": "tap",
-    "x": 214,
-    "y": 535,
-    "note": "Power on CHANNEL 00 for a casual inspection"
+    "x": 205,
+    "y": 636,
+    "note": "Read old-world Hotel Somnia homepage"
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/f8b391cd06ef26d2d3e741178912237ee451f68e/live-results/mofu-vis-g-20261018-t7c6n4/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/732c31e7e37468b5e95f72770708970e55ed9744/live-results/mofu-vis-g-20261018-t7c6n4/current.jpg",
   "readOnly": true,
   "blockedWrites": 20,
   "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-g-20261018-t7c6n4#channel0",
@@ -31,7 +31,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\nNIKO² ATELIER\n\n\nCHANNEL / CH-00\nCHANNEL 00\n1 pages\n⌂\nchannel00://home/index.html\n×\nCHANNEL 00 LINK DIRECTORY\nYOU ARE VISITOR No. 0001\n\nようこそ、存在しなかったインターネットへ。\n\n好きなリンクからどうぞ。戻れなくなることは、たぶんありません。\n\nMARI'S PRESSED FLOWERS\nsodaの日記\nCloud Garden Weather\nHotel Somnia 公式頁\nLavender BBS\nMoonlight Web Ring\nNIKO² ATELIER / old\nlost_page.html\nconnected at 33.6 kbps\n閲覧の断片を持ち帰る\n",
+  "text": "作品へ移動\nNIKO² ATELIER\n\n\nCHANNEL / CH-00\nCHANNEL 00\n2 pages\n⌂\nhttp://somnia-hotel.jp/index.htm\n×\nHOTEL SOMNIA\nSame room. A different night.\n\nROOM SERVICE\n\n昨日、青の時間、誰かの雨。存在しない品もお部屋まで。\n\nROOM 000は静かで、とても広かったです。\n宿泊日：未到来\n現在のホテルへ guest book\nconnected at 33.6 kbps\n閲覧の断片を持ち帰る\n",
   "controls": [
     {
       "tag": "A",
@@ -90,90 +90,24 @@
     },
     {
       "tag": "BUTTON",
-      "text": "MARI'S PRESSED FLOWERS",
+      "text": "現在のホテルへ",
       "disabled": false,
       "rect": {
         "x": 25,
-        "y": 436,
-        "w": 380,
-        "h": 46
+        "y": 524,
+        "w": 99,
+        "h": 35
       }
     },
     {
       "tag": "BUTTON",
-      "text": "sodaの日記",
+      "text": "guest book",
       "disabled": false,
       "rect": {
-        "x": 25,
-        "y": 495,
-        "w": 380,
-        "h": 46
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "Cloud Garden Weather",
-      "disabled": false,
-      "rect": {
-        "x": 25,
-        "y": 554,
-        "w": 380,
-        "h": 46
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "Hotel Somnia 公式頁",
-      "disabled": false,
-      "rect": {
-        "x": 25,
-        "y": 613,
-        "w": 380,
-        "h": 46
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "Lavender BBS",
-      "disabled": false,
-      "rect": {
-        "x": 25,
-        "y": 672,
-        "w": 380,
-        "h": 46
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "Moonlight Web Ring",
-      "disabled": false,
-      "rect": {
-        "x": 25,
-        "y": 731,
-        "w": 380,
-        "h": 46
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "NIKO² ATELIER / old",
-      "disabled": false,
-      "rect": {
-        "x": 25,
-        "y": 790,
-        "w": 380,
-        "h": 46
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "lost_page.html",
-      "disabled": false,
-      "rect": {
-        "x": 25,
-        "y": 849,
-        "w": 380,
-        "h": 46
+        "x": 134,
+        "y": 523,
+        "w": 73,
+        "h": 35
       }
     },
     {
@@ -619,6 +553,21 @@
       "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-g-20261018-t7c6n4#channel0",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/f8b391cd06ef26d2d3e741178912237ee451f68e/live-results/mofu-vis-g-20261018-t7c6n4/current.jpg",
       "text": "作品へ移動\nNIKO² ATELIER\n\n\nCHANNEL / CH-00\nCHANNEL 00\n1 pages\n⌂\nchannel00://home/index.html\n×\nCHANNEL 00 LINK DIRECTORY\nYOU ARE VISITOR No. 0001\n\nようこそ、存在しなかったインターネットへ。\n\n好きなリンクからどうぞ。戻れなくなることは、たぶんありません。\n\nMARI'S PRESSED FLOWERS\nsodaの日記\nCloud Garden Weather\nHotel Somnia 公式頁\nLavender BBS\nMoonlight Web Ring\nNIKO² ATELIER / old\nlost_page.html\nconnected at 33.6 kbps\n閲覧の断片を持ち帰る\n"
+    },
+    {
+      "number": 30,
+      "at": "2026-10-17T22:15:56.701Z",
+      "action": {
+        "id": "g29",
+        "op": "tap",
+        "x": 205,
+        "y": 636,
+        "note": "Read old-world Hotel Somnia homepage"
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-g-20261018-t7c6n4#channel0",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/732c31e7e37468b5e95f72770708970e55ed9744/live-results/mofu-vis-g-20261018-t7c6n4/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\n\n\nCHANNEL / CH-00\nCHANNEL 00\n2 pages\n⌂\nhttp://somnia-hotel.jp/index.htm\n×\nHOTEL SOMNIA\nSame room. A different night.\n\nROOM SERVICE\n\n昨日、青の時間、誰かの雨。存在しない品もお部屋まで。\n\nROOM 000は静かで、とても広かったです。\n宿泊日：未到来\n現在のホテルへ guest book\nconnected at 33.6 kbps\n閲覧の断片を持ち帰る\n"
     }
   ]
 }
