@@ -6,18 +6,18 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-17T04:01:12.828Z",
-  "updatedAt": "2026-10-17T04:20:55.580Z",
-  "lastCommand": "r47",
+  "updatedAt": "2026-10-17T04:21:15.858Z",
+  "lastCommand": "r48",
   "stopReason": null,
   "action": {
-    "id": "r47",
+    "id": "r48",
     "op": "tap",
-    "x": 211,
-    "y": 733,
-    "note": "Explore visible Moonlight Web Ring; check styling and linked pages"
+    "x": 279,
+    "y": 348,
+    "note": "Test clearly visible NEXT in Moonlight Web Ring for public linked-page continuity"
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/97c893845519b168391cd5fefdfc75eef117e133/live-results/mofu-vis-f-20261017-resume-k9v4a6/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/d3b0869e6dcf1562ce6b81892854e56ce8d11ad6/live-results/mofu-vis-f-20261017-resume-k9v4a6/current.jpg",
   "readOnly": true,
   "blockedWrites": 28,
   "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-f-20261017-resume-k9v4a6#channel0",
@@ -31,7 +31,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\nNIKO² ATELIER\n\n\nCHANNEL / CH-00\nCHANNEL 00\n6 pages\n⌂\nhttp://webring.channel00/moon/17\n×\nMOONLIGHT WEB RING\n月明かりの個人頁を巡るリング\n\n登録サイト 17 / 稼働サイト 9\n\nPREV\nRANDOM\nNEXT\nリング管理人は現在不在です。リングだけが巡回を続けています。\n\ncached page changed / connection stable\n閲覧の断片を持ち帰る\n",
+  "text": "作品へ移動\nNIKO² ATELIER\n\n\nCHANNEL / CH-00\nCHANNEL 00\n7 pages\n⌂\nhttp://niko2-atl.jp/index_old.html\n×\nNIKO² ATELIER / INDEX OLD\nWELCOME TO NIKO² ATELIER\n\ndream construction in progress...\n\nCG-01 : compiling\nHOTEL SOMNIA : accepting reservations\nN²-Ω : scheduled\nCopyright 1998 NIKO² ATELIER\n\nこの頁は、アトリエ設立前に更新されています。\ncached page changed / connection stable\n閲覧の断片を持ち帰る\n",
   "controls": [
     {
       "tag": "A",
@@ -86,39 +86,6 @@
         "y": 120,
         "w": 31,
         "h": 28
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "PREV",
-      "disabled": false,
-      "rect": {
-        "x": 129,
-        "y": 330,
-        "w": 47,
-        "h": 35
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "RANDOM",
-      "disabled": false,
-      "rect": {
-        "x": 182,
-        "y": 330,
-        "w": 67,
-        "h": 35
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "NEXT",
-      "disabled": false,
-      "rect": {
-        "x": 255,
-        "y": 330,
-        "w": 46,
-        "h": 35
       }
     },
     {
@@ -862,6 +829,21 @@
       "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-f-20261017-resume-k9v4a6#channel0",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/97c893845519b168391cd5fefdfc75eef117e133/live-results/mofu-vis-f-20261017-resume-k9v4a6/current.jpg",
       "text": "作品へ移動\nNIKO² ATELIER\n\n\nCHANNEL / CH-00\nCHANNEL 00\n6 pages\n⌂\nhttp://webring.channel00/moon/17\n×\nMOONLIGHT WEB RING\n月明かりの個人頁を巡るリング\n\n登録サイト 17 / 稼働サイト 9\n\nPREV\nRANDOM\nNEXT\nリング管理人は現在不在です。リングだけが巡回を続けています。\n\ncached page changed / connection stable\n閲覧の断片を持ち帰る\n"
+    },
+    {
+      "number": 50,
+      "at": "2026-10-17T04:21:15.858Z",
+      "action": {
+        "id": "r48",
+        "op": "tap",
+        "x": 279,
+        "y": 348,
+        "note": "Test clearly visible NEXT in Moonlight Web Ring for public linked-page continuity"
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-f-20261017-resume-k9v4a6#channel0",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/d3b0869e6dcf1562ce6b81892854e56ce8d11ad6/live-results/mofu-vis-f-20261017-resume-k9v4a6/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\n\n\nCHANNEL / CH-00\nCHANNEL 00\n7 pages\n⌂\nhttp://niko2-atl.jp/index_old.html\n×\nNIKO² ATELIER / INDEX OLD\nWELCOME TO NIKO² ATELIER\n\ndream construction in progress...\n\nCG-01 : compiling\nHOTEL SOMNIA : accepting reservations\nN²-Ω : scheduled\nCopyright 1998 NIKO² ATELIER\n\nこの頁は、アトリエ設立前に更新されています。\ncached page changed / connection stable\n閲覧の断片を持ち帰る\n"
     }
   ]
 }
