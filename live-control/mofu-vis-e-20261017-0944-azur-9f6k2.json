@@ -1,7 +1,7 @@
 {
-  "id": "e3-23-open-diary",
+  "id": "e3-24-diary-stock-photo",
   "op": "tap",
-  "x": 91,
-  "y": 388,
-  "note": "Enter Diary via visible floating notebook in HOME; inspect untested lower content"
+  "x": 116,
+  "y": 860,
+  "note": "Select built-in vending-machine photo, no personal text or storage write"
 }
