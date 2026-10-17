@@ -1,6 +1,7 @@
 {
-  "id": "f16",
-  "op": "look",
-  "wait": 1800,
-  "note": "Observe post-gate scene after transition without altering state"
+  "id": "f17",
+  "op": "tap",
+  "x": 73,
+  "y": 893,
+  "note": "Leave the dream via visible button and seek accessible facilities"
 }
