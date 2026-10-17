@@ -1,7 +1,7 @@
 {
-  "id": "e5-20-founder-filter",
+  "id": "e5-21-special-filter",
   "op": "tap",
-  "x": 304,
-  "y": 233,
-  "note": "Inspect visible FOUNDER filter and empty/nonempty list spacing"
+  "x": 120,
+  "y": 236,
+  "note": "Compare empty FOUNDER category against populated SPECIAL layout"
 }
