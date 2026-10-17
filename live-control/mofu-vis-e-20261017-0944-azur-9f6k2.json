@@ -1,7 +1,7 @@
 {
-  "id": "e3-04-into-garden",
+  "id": "e3-05-garden-begin",
   "op": "tap",
-  "x": 371,
-  "y": 858,
-  "note": "Use visible welcome enter control"
+  "x": 214,
+  "y": 878,
+  "note": "Use visible enter Garden button"
 }
