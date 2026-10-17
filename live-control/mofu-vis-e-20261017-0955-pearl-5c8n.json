@@ -1,7 +1,7 @@
 {
-  "id": "e4-29-archive-close",
+  "id": "e4-30-what-remained",
   "op": "tap",
-  "x": 371,
-  "y": 533,
-  "note": "Close Archive using visible minus control to reach WHAT REMAINED"
+  "x": 214,
+  "y": 785,
+  "note": "Open Diary WHAT REMAINED using visible link, read-only/no submissions"
 }
