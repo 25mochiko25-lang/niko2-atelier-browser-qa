@@ -1,6 +1,7 @@
 {
-  "id": "e4-07-settle",
-  "op": "wait",
-  "ms": 1800,
-  "note": "Observe quiet scene after transition; no skipped navigation"
+  "id": "e4-08-leave",
+  "op": "tap",
+  "x": 68,
+  "y": 892,
+  "note": "Open observed public memory dialog from leave dream"
 }
