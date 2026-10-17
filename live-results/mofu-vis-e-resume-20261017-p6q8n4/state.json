@@ -6,18 +6,18 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-17T04:34:34.951Z",
-  "updatedAt": "2026-10-17T04:36:18.108Z",
-  "lastCommand": "e5-04-enter-garden",
+  "updatedAt": "2026-10-17T04:36:36.836Z",
+  "lastCommand": "e5-05-garden-enter",
   "stopReason": null,
   "action": {
-    "id": "e5-04-enter-garden",
+    "id": "e5-05-garden-enter",
     "op": "tap",
-    "x": 372,
-    "y": 858,
-    "note": "Enter via visible welcome control"
+    "x": 216,
+    "y": 877,
+    "note": "Use visible 'この空へ入る' button"
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/9ddf767986dca7358bdc4e9bf16cc2a50e7a42fa/live-results/mofu-vis-e-resume-20261017-p6q8n4/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/cc3639c13d83fbcc920629274dc2ebeec8433844/live-results/mofu-vis-e-resume-20261017-p6q8n4/current.jpg",
   "readOnly": true,
   "blockedWrites": 4,
   "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-e-resume-20261017-p6q8n4#garden",
@@ -31,7 +31,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n席を立ったあとの庭にも、\n持ち主より長く夢を見るものがいる。\n\nこの空へ入る\n0 / 5\n見つけたもの\n",
+  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n0 / 5\n見つけたもの\n",
   "controls": [
     {
       "tag": "BUTTON",
@@ -58,7 +58,7 @@
     {
       "tag": "BUTTON",
       "text": "止まりかけの砂時計に触れる",
-      "disabled": true,
+      "disabled": false,
       "rect": {
         "x": 11,
         "y": 401,
@@ -69,7 +69,7 @@
     {
       "tag": "BUTTON",
       "text": "N² Eau de rêveに触れる",
-      "disabled": true,
+      "disabled": false,
       "rect": {
         "x": 69,
         "y": 524,
@@ -80,7 +80,7 @@
     {
       "tag": "BUTTON",
       "text": "まだあたたかいカップに触れる",
-      "disabled": true,
+      "disabled": false,
       "rect": {
         "x": 194,
         "y": 521,
@@ -91,7 +91,7 @@
     {
       "tag": "BUTTON",
       "text": "置き去りのくまに触れる",
-      "disabled": true,
+      "disabled": false,
       "rect": {
         "x": 323,
         "y": 485,
@@ -102,7 +102,7 @@
     {
       "tag": "BUTTON",
       "text": "青いリボンの鍵に触れる",
-      "disabled": true,
+      "disabled": false,
       "rect": {
         "x": 134,
         "y": 574,
@@ -113,7 +113,7 @@
     {
       "tag": "BUTTON",
       "text": "テーブルのメモをめくる",
-      "disabled": true,
+      "disabled": false,
       "rect": {
         "x": 195,
         "y": 578,
@@ -124,7 +124,7 @@
     {
       "tag": "BUTTON",
       "text": "くまのそばの本を開く",
-      "disabled": true,
+      "disabled": false,
       "rect": {
         "x": 327,
         "y": 576,
@@ -135,7 +135,7 @@
     {
       "tag": "BUTTON",
       "text": "ティーポットに触れる",
-      "disabled": true,
+      "disabled": false,
       "rect": {
         "x": 129,
         "y": 476,
@@ -146,7 +146,7 @@
     {
       "tag": "BUTTON",
       "text": "花に触れる",
-      "disabled": true,
+      "disabled": false,
       "rect": {
         "x": 13,
         "y": 343,
@@ -157,7 +157,7 @@
     {
       "tag": "BUTTON",
       "text": "水面に触れる",
-      "disabled": true,
+      "disabled": false,
       "rect": {
         "x": 206,
         "y": 337,
@@ -168,7 +168,7 @@
     {
       "tag": "BUTTON",
       "text": "レースのカーテンに触れる",
-      "disabled": true,
+      "disabled": false,
       "rect": {
         "x": 0,
         "y": 214,
@@ -179,7 +179,7 @@
     {
       "tag": "BUTTON",
       "text": "石の柱を軽く叩く",
-      "disabled": true,
+      "disabled": false,
       "rect": {
         "x": 77,
         "y": 247,
@@ -190,23 +190,12 @@
     {
       "tag": "BUTTON",
       "text": "遠くの白い門に触れる",
-      "disabled": true,
+      "disabled": false,
       "rect": {
         "x": 284,
         "y": 234,
         "w": 69,
         "h": 90
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "この空へ入る",
-      "disabled": false,
-      "rect": {
-        "x": 138,
-        "y": 852,
-        "w": 154,
-        "h": 48
       }
     }
   ],
@@ -283,6 +272,21 @@
       "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-e-resume-20261017-p6q8n4#garden",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/9ddf767986dca7358bdc4e9bf16cc2a50e7a42fa/live-results/mofu-vis-e-resume-20261017-p6q8n4/current.jpg",
       "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n席を立ったあとの庭にも、\n持ち主より長く夢を見るものがいる。\n\nこの空へ入る\n0 / 5\n見つけたもの\n"
+    },
+    {
+      "number": 6,
+      "at": "2026-10-17T04:36:36.836Z",
+      "action": {
+        "id": "e5-05-garden-enter",
+        "op": "tap",
+        "x": 216,
+        "y": 877,
+        "note": "Use visible 'この空へ入る' button"
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-e-resume-20261017-p6q8n4#garden",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/cc3639c13d83fbcc920629274dc2ebeec8433844/live-results/mofu-vis-e-resume-20261017-p6q8n4/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n0 / 5\n見つけたもの\n"
     }
   ]
 }
