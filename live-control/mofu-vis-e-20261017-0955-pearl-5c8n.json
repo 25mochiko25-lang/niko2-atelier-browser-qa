@@ -1,7 +1,7 @@
 {
-  "id": "e4-32-cabinet-back",
+  "id": "e4-33-photo-browse",
   "op": "tap",
-  "x": 35,
-  "y": 113,
-  "note": "Return with visible back arrow and inspect Diary scroll restoration"
+  "x": 233,
+  "y": 752,
+  "note": "Inspect visible Diary photo browsing control, no user-uploaded content"
 }
