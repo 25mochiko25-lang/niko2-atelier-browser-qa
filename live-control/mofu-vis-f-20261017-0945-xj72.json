@@ -1,7 +1,6 @@
 {
-  "id": "f25",
-  "op": "tap",
-  "x": 379,
-  "y": 554,
-  "note": "Open ROOM NULL by touching the visible door handle"
+  "id": "f26",
+  "op": "look",
+  "wait": 1200,
+  "note": "Observe the ROOM NULL interior after the door transition"
 }
