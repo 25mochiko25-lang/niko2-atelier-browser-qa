@@ -6,20 +6,19 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-17T04:34:34.951Z",
-  "updatedAt": "2026-10-17T04:41:29.628Z",
-  "lastCommand": "e5-22-notes-home",
+  "updatedAt": "2026-10-17T04:41:44.415Z",
+  "lastCommand": "e5-23-home-footer",
   "stopReason": null,
   "action": {
-    "id": "e5-22-notes-home",
-    "op": "tap",
-    "x": 349,
-    "y": 831,
-    "note": "Return to Atelier to inspect visible contact dialog without submitting"
+    "id": "e5-23-home-footer",
+    "op": "key",
+    "key": "PageDown",
+    "note": "Locate visible public DEAR ATELIER contact UI in HOME footer"
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/797231704e34ed0853b1d2e26183c7820495039b/live-results/mofu-vis-e-resume-20261017-p6q8n4/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/43853df56791a84ae48c23daef784d5ce51dd56e/live-results/mofu-vis-e-resume-20261017-p6q8n4/current.jpg",
   "readOnly": true,
-  "blockedWrites": 14,
+  "blockedWrites": 15,
   "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-e-resume-20261017-p6q8n4",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -46,46 +45,46 @@
     },
     {
       "tag": "A",
-      "text": "FROM THE ATELIERを開く",
-      "disabled": false,
-      "rect": {
-        "x": 310,
-        "y": 303,
-        "w": 91,
-        "h": 92
-      }
-    },
-    {
-      "tag": "A",
-      "text": "Diaryを開く",
-      "disabled": false,
-      "rect": {
-        "x": 20,
-        "y": 330,
-        "w": 147,
-        "h": 147
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "Enter the dream",
-      "disabled": false,
-      "rect": {
-        "x": 110,
-        "y": 545,
-        "w": 210,
-        "h": 70
-      }
-    },
-    {
-      "tag": "A",
       "text": "WORLDを開く",
       "disabled": false,
       "rect": {
         "x": 26,
-        "y": 878,
+        "y": 132,
         "w": 378,
         "h": 213
+      }
+    },
+    {
+      "tag": "A",
+      "text": "ABOUT\nもふもふはいます。",
+      "disabled": false,
+      "rect": {
+        "x": 47,
+        "y": 431,
+        "w": 335,
+        "h": 273
+      }
+    },
+    {
+      "tag": "A",
+      "text": "PLAY / SHARE / FAN WORK\nNIKO²での生活について\n好きな形で遊ぶための、小さな境界。",
+      "disabled": false,
+      "rect": {
+        "x": 34,
+        "y": 769,
+        "w": 361,
+        "h": 124
+      }
+    },
+    {
+      "tag": "A",
+      "text": "DEAR ATELIER\nお手紙を送る\nAtelierの受取箱へ。",
+      "disabled": false,
+      "rect": {
+        "x": 34,
+        "y": 907,
+        "w": 361,
+        "h": 124
       }
     }
   ],
@@ -428,6 +427,20 @@
       "error": null,
       "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-e-resume-20261017-p6q8n4",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/797231704e34ed0853b1d2e26183c7820495039b/live-results/mofu-vis-e-resume-20261017-p6q8n4/current.jpg",
+      "text": "作品へ移動\n \nWORLD\nWORLD\n水面の向こうに、いくつかの場所がひらいています。\n\n\nABOUT\nもふもふはいます。\nPLAY / SHARE / FAN WORK\nNIKO²での生活について\n好きな形で遊ぶための、小さな境界。\nDEAR ATELIER\nお手紙を送る\nAtelierの受取箱へ。\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n"
+    },
+    {
+      "number": 24,
+      "at": "2026-10-17T04:41:44.415Z",
+      "action": {
+        "id": "e5-23-home-footer",
+        "op": "key",
+        "key": "PageDown",
+        "note": "Locate visible public DEAR ATELIER contact UI in HOME footer"
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-e-resume-20261017-p6q8n4",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/43853df56791a84ae48c23daef784d5ce51dd56e/live-results/mofu-vis-e-resume-20261017-p6q8n4/current.jpg",
       "text": "作品へ移動\n \nWORLD\nWORLD\n水面の向こうに、いくつかの場所がひらいています。\n\n\nABOUT\nもふもふはいます。\nPLAY / SHARE / FAN WORK\nNIKO²での生活について\n好きな形で遊ぶための、小さな境界。\nDEAR ATELIER\nお手紙を送る\nAtelierの受取箱へ。\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n"
     }
   ]
