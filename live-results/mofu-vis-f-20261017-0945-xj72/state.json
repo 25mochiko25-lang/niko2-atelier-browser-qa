@@ -6,20 +6,19 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-17T00:46:41.213Z",
-  "updatedAt": "2026-10-17T00:51:29.560Z",
-  "lastCommand": "f15",
+  "updatedAt": "2026-10-17T00:52:01.008Z",
+  "lastCommand": "f16",
   "stopReason": null,
   "action": {
-    "id": "f15",
-    "op": "tap",
-    "x": 323,
-    "y": 279,
-    "note": "Open visible glowing gate after collecting 5/5 memories"
+    "id": "f16",
+    "op": "look",
+    "wait": 1800,
+    "note": "Observe post-gate scene after transition without altering state"
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/231ed726a1262ce2350a1253b9a40574280c670d/live-results/mofu-vis-f-20261017-0945-xj72/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/d622487d4272706642f15411569c4d35759325db/live-results/mofu-vis-f-20261017-0945-xj72/current.jpg",
   "readOnly": true,
-  "blockedWrites": 6,
+  "blockedWrites": 7,
   "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-f-20261017-0945-xj72#quiet",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -31,7 +30,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n夢の見覚え ✧︎\n\n",
+  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n夢を離れる",
   "controls": [
     {
       "tag": "BUTTON",
@@ -53,6 +52,28 @@
         "y": 56,
         "w": 61,
         "h": 30
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "白い街の一片に触れる",
+      "disabled": false,
+      "rect": {
+        "x": 73,
+        "y": 799,
+        "w": 69,
+        "h": 69
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "夢を離れる",
+      "disabled": false,
+      "rect": {
+        "x": 22,
+        "y": 870,
+        "w": 100,
+        "h": 44
       }
     }
   ],
@@ -294,6 +315,20 @@
       "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-f-20261017-0945-xj72#quiet",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/231ed726a1262ce2350a1253b9a40574280c670d/live-results/mofu-vis-f-20261017-0945-xj72/current.jpg",
       "text": "作品へ移動\n夢の見覚え ✧︎\n\n"
+    },
+    {
+      "number": 17,
+      "at": "2026-10-17T00:52:01.008Z",
+      "action": {
+        "id": "f16",
+        "op": "look",
+        "wait": 1800,
+        "note": "Observe post-gate scene after transition without altering state"
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-f-20261017-0945-xj72#quiet",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/d622487d4272706642f15411569c4d35759325db/live-results/mofu-vis-f-20261017-0945-xj72/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n夢を離れる"
     }
   ]
 }
