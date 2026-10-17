@@ -6,17 +6,17 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-17T04:34:34.951Z",
-  "updatedAt": "2026-10-17T04:41:44.415Z",
-  "lastCommand": "e5-23-home-footer",
+  "updatedAt": "2026-10-17T04:42:04.547Z",
+  "lastCommand": "e5-24-home-contact",
   "stopReason": null,
   "action": {
-    "id": "e5-23-home-footer",
+    "id": "e5-24-home-contact",
     "op": "key",
     "key": "PageDown",
-    "note": "Locate visible public DEAR ATELIER contact UI in HOME footer"
+    "note": "Bring visible DEAR ATELIER card into viewport; synthetic key scroll"
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/43853df56791a84ae48c23daef784d5ce51dd56e/live-results/mofu-vis-e-resume-20261017-p6q8n4/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/f10ee99f227f5c055f83c3acd6e36241615f02dc/live-results/mofu-vis-e-resume-20261017-p6q8n4/current.jpg",
   "readOnly": true,
   "blockedWrites": 15,
   "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-e-resume-20261017-p6q8n4",
@@ -49,7 +49,7 @@
       "disabled": false,
       "rect": {
         "x": 26,
-        "y": 132,
+        "y": -129,
         "w": 378,
         "h": 213
       }
@@ -60,7 +60,7 @@
       "disabled": false,
       "rect": {
         "x": 47,
-        "y": 431,
+        "y": 170,
         "w": 335,
         "h": 273
       }
@@ -71,7 +71,7 @@
       "disabled": false,
       "rect": {
         "x": 34,
-        "y": 769,
+        "y": 508,
         "w": 361,
         "h": 124
       }
@@ -82,9 +82,31 @@
       "disabled": false,
       "rect": {
         "x": 34,
-        "y": 907,
+        "y": 646,
         "w": 361,
         "h": 124
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "???",
+      "disabled": false,
+      "rect": {
+        "x": 0,
+        "y": 826,
+        "w": 430,
+        "h": 58
+      }
+    },
+    {
+      "tag": "A",
+      "text": "Rights",
+      "disabled": false,
+      "rect": {
+        "x": 199,
+        "y": 895,
+        "w": 32,
+        "h": 13
       }
     }
   ],
@@ -441,6 +463,20 @@
       "error": null,
       "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-e-resume-20261017-p6q8n4",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/43853df56791a84ae48c23daef784d5ce51dd56e/live-results/mofu-vis-e-resume-20261017-p6q8n4/current.jpg",
+      "text": "作品へ移動\n \nWORLD\nWORLD\n水面の向こうに、いくつかの場所がひらいています。\n\n\nABOUT\nもふもふはいます。\nPLAY / SHARE / FAN WORK\nNIKO²での生活について\n好きな形で遊ぶための、小さな境界。\nDEAR ATELIER\nお手紙を送る\nAtelierの受取箱へ。\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n"
+    },
+    {
+      "number": 25,
+      "at": "2026-10-17T04:42:04.547Z",
+      "action": {
+        "id": "e5-24-home-contact",
+        "op": "key",
+        "key": "PageDown",
+        "note": "Bring visible DEAR ATELIER card into viewport; synthetic key scroll"
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-e-resume-20261017-p6q8n4",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/f10ee99f227f5c055f83c3acd6e36241615f02dc/live-results/mofu-vis-e-resume-20261017-p6q8n4/current.jpg",
       "text": "作品へ移動\n \nWORLD\nWORLD\n水面の向こうに、いくつかの場所がひらいています。\n\n\nABOUT\nもふもふはいます。\nPLAY / SHARE / FAN WORK\nNIKO²での生活について\n好きな形で遊ぶための、小さな境界。\nDEAR ATELIER\nお手紙を送る\nAtelierの受取箱へ。\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n"
     }
   ]
