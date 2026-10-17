@@ -1,7 +1,6 @@
 {
-  "id": "r54",
-  "op": "tap",
-  "x": 344,
-  "y": 871,
-  "note": "Inspect visible 閲覧の断片を持ち帰る presentation; readonly visitor writes blocked"
+  "id": "r55",
+  "op": "key",
+  "key": "PageDown",
+  "note": "Read lower Diary presentation on cross-route from CHANNEL 00; readonly, no save"
 }
