@@ -6,18 +6,20 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-17T00:46:41.213Z",
-  "updatedAt": "2026-10-17T01:06:02.492Z",
-  "lastCommand": "f53",
+  "updatedAt": "2026-10-17T01:06:18.509Z",
+  "lastCommand": "f54",
   "stopReason": null,
   "action": {
-    "id": "f53",
-    "op": "tap",
-    "x": 82,
-    "y": 35,
-    "note": "Use visible NIKO² ATELIER header to return home and inspect public lower navigation"
+    "id": "f54",
+    "op": "scroll",
+    "x": 208,
+    "y": 755,
+    "dx": 0,
+    "dy": 625,
+    "note": "Inspect the visible lower HOME section for public Perfume entrance (wheel simulation only)"
   },
-  "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/4d7499a2706246fc7b3a8a92c9fe0c827d78d4d0/live-results/mofu-vis-f-20261017-0945-xj72/current.jpg",
+  "error": "Error: mouse.wheel: Mouse wheel is not supported in mobile WebKit",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/210b152385c715131bcb7e99a425888392845591/live-results/mofu-vis-f-20261017-0945-xj72/current.jpg",
   "readOnly": true,
   "blockedWrites": 31,
   "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-f-20261017-0945-xj72",
@@ -891,6 +893,23 @@
       "error": null,
       "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-f-20261017-0945-xj72",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/4d7499a2706246fc7b3a8a92c9fe0c827d78d4d0/live-results/mofu-vis-f-20261017-0945-xj72/current.jpg",
+      "text": "作品へ移動\n \nWORLD\nWORLD\n水面の向こうに、いくつかの場所がひらいています。\n\n\nABOUT\nもふもふはいます。\nPLAY / SHARE / FAN WORK\nNIKO²での生活について\n好きな形で遊ぶための、小さな境界。\nDEAR ATELIER\nお手紙を送る\nAtelierの受取箱へ。\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n"
+    },
+    {
+      "number": 55,
+      "at": "2026-10-17T01:06:18.509Z",
+      "action": {
+        "id": "f54",
+        "op": "scroll",
+        "x": 208,
+        "y": 755,
+        "dx": 0,
+        "dy": 625,
+        "note": "Inspect the visible lower HOME section for public Perfume entrance (wheel simulation only)"
+      },
+      "error": "Error: mouse.wheel: Mouse wheel is not supported in mobile WebKit",
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-f-20261017-0945-xj72",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/210b152385c715131bcb7e99a425888392845591/live-results/mofu-vis-f-20261017-0945-xj72/current.jpg",
       "text": "作品へ移動\n \nWORLD\nWORLD\n水面の向こうに、いくつかの場所がひらいています。\n\n\nABOUT\nもふもふはいます。\nPLAY / SHARE / FAN WORK\nNIKO²での生活について\n好きな形で遊ぶための、小さな境界。\nDEAR ATELIER\nお手紙を送る\nAtelierの受取箱へ。\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n"
     }
   ]
