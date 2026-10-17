@@ -1,7 +1,6 @@
 {
-  "id": "e3-06-memory",
-  "op": "tap",
-  "x": 387,
-  "y": 72,
-  "note": "Use visible garden memory link to public quiet scene"
+  "id": "e3-07-settle",
+  "op": "wait",
+  "ms": 1900,
+  "note": "See controls after the quiet-scene transition"
 }
