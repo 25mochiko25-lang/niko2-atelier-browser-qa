@@ -1,7 +1,7 @@
 {
-  "id": "e4-27-archive-month",
+  "id": "e4-28-archive-year",
   "op": "tap",
-  "x": 161,
-  "y": 353,
-  "note": "Switch publicly visible archive from day to month mode"
+  "x": 215,
+  "y": 604,
+  "note": "Compare archive month/year switch and view position; no data mutation"
 }
