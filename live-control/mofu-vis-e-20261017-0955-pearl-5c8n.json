@@ -1,7 +1,6 @@
 {
-  "id": "e4-14-diary",
-  "op": "tap",
-  "x": 91,
-  "y": 385,
-  "note": "Open Diary from visible floating diary at HOME"
+  "id": "e4-15-diary-pagedown1",
+  "op": "key",
+  "key": "PageDown",
+  "note": "Inspect Diary lower page using PageDown; not touch swipe"
 }
