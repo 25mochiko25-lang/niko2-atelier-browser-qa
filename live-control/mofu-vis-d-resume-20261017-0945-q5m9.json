@@ -1,7 +1,7 @@
 {
-  "id": "dr04-enter-garden",
+  "id": "dr05-garden-entry",
   "op": "tap",
-  "x": 373,
-  "y": 858,
-  "note": "Replay already observed navigation on route to ROOM NULL."
+  "x": 208,
+  "y": 877,
+  "note": "Replay previously observed Garden route to ROOM NULL."
 }
