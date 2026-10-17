@@ -6,18 +6,18 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-17T22:05:16.183Z",
-  "updatedAt": "2026-10-17T22:10:35.091Z",
-  "lastCommand": "g14",
+  "updatedAt": "2026-10-17T22:10:57.373Z",
+  "lastCommand": "g15",
   "stopReason": null,
   "action": {
-    "id": "g14",
+    "id": "g15",
     "op": "tap",
-    "x": 117,
-    "y": 859,
-    "note": "Enter the Research Lab to look around"
+    "x": 64,
+    "y": 606,
+    "note": "Inspect the observation desk"
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/c4ae9ab94d61b3f94034066b9f6612596c198c09/live-results/mofu-vis-g-20261018-t7c6n4/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/04c22331a70132dfef1de11deb470297f2581c4c/live-results/mofu-vis-g-20261018-t7c6n4/current.jpg",
   "readOnly": true,
   "blockedWrites": 11,
   "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-g-20261018-t7c6n4#lab",
@@ -31,7 +31,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\nNIKO² ATELIER\n\n白と薄水色のガラス研究所。奥へ続く通路と、記録の置かれた観測台があります。\nMAIN LAB\n観測台\n\n\n\n観測台奥の保管室へ進む\n",
+  "text": "作品へ移動\nNIKO² ATELIER\n\n白と薄水色のガラス研究所。奥へ続く通路と、記録の置かれた観測台があります。\nMAIN LAB\n観測台\n\n\n\n観測台奥の保管室へ進む\nREADING TABLE\n\nON THE TABLE\nいま読める記録\n\n\n記録 01\n所有者のいない記憶\n忘れられたあとも、記憶は残るのか。\n読む\n\n\n記録 02\n停止されなかった庭\n実験終了後も、環境だけが咲き続けている。\n読む\n\n\n記録 03\n白い試料 M-00\n本人は、アルパカだと報告している。\n読む\n\n\n記録 04\n管理業務用の付け髭\n威厳への効果は、まだ確認されていない。\n読む\n",
   "controls": [
     {
       "tag": "A",
@@ -97,6 +97,61 @@
         "y": 708,
         "w": 104,
         "h": 140
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "観測台を閉じる",
+      "disabled": false,
+      "rect": {
+        "x": 377,
+        "y": 137,
+        "w": 44,
+        "h": 44
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "記録 01\n所有者のいない記憶\n忘れられたあとも、記憶は残るのか。\n読む",
+      "disabled": false,
+      "rect": {
+        "x": 23,
+        "y": 260,
+        "w": 384,
+        "h": 86
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "記録 02\n停止されなかった庭\n実験終了後も、環境だけが咲き続けている。\n読む",
+      "disabled": false,
+      "rect": {
+        "x": 23,
+        "y": 346,
+        "w": 384,
+        "h": 86
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "記録 03\n白い試料 M-00\n本人は、アルパカだと報告している。\n読む",
+      "disabled": false,
+      "rect": {
+        "x": 23,
+        "y": 432,
+        "w": 384,
+        "h": 86
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "記録 04\n管理業務用の付け髭\n威厳への効果は、まだ確認されていない。\n読む",
+      "disabled": false,
+      "rect": {
+        "x": 23,
+        "y": 518,
+        "w": 384,
+        "h": 86
       }
     }
   ],
@@ -321,6 +376,21 @@
       "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-g-20261018-t7c6n4#lab",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/c4ae9ab94d61b3f94034066b9f6612596c198c09/live-results/mofu-vis-g-20261018-t7c6n4/current.jpg",
       "text": "作品へ移動\nNIKO² ATELIER\n\n白と薄水色のガラス研究所。奥へ続く通路と、記録の置かれた観測台があります。\nMAIN LAB\n観測台\n\n\n\n観測台奥の保管室へ進む\n"
+    },
+    {
+      "number": 16,
+      "at": "2026-10-17T22:10:57.373Z",
+      "action": {
+        "id": "g15",
+        "op": "tap",
+        "x": 64,
+        "y": 606,
+        "note": "Inspect the observation desk"
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-g-20261018-t7c6n4#lab",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/04c22331a70132dfef1de11deb470297f2581c4c/live-results/mofu-vis-g-20261018-t7c6n4/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\n\n白と薄水色のガラス研究所。奥へ続く通路と、記録の置かれた観測台があります。\nMAIN LAB\n観測台\n\n\n\n観測台奥の保管室へ進む\nREADING TABLE\n\nON THE TABLE\nいま読める記録\n\n\n記録 01\n所有者のいない記憶\n忘れられたあとも、記憶は残るのか。\n読む\n\n\n記録 02\n停止されなかった庭\n実験終了後も、環境だけが咲き続けている。\n読む\n\n\n記録 03\n白い試料 M-00\n本人は、アルパカだと報告している。\n読む\n\n\n記録 04\n管理業務用の付け髭\n威厳への効果は、まだ確認されていない。\n読む\n"
     }
   ]
 }
