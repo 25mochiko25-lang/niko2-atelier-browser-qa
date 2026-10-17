@@ -1,7 +1,7 @@
 {
-  "id": "dr09-close-perfume",
+  "id": "dr10-cup",
   "op": "tap",
-  "x": 376,
-  "y": 754,
-  "note": "Replay previously inspected Garden memory sequence."
+  "x": 234,
+  "y": 543,
+  "note": "Previously observed visible Garden route; no visitor data submitted."
 }
