@@ -1,6 +1,7 @@
 {
-  "id": "e4-26-archive-bottom",
-  "op": "key",
-  "key": "PageDown",
-  "note": "Inspect expanded archive body and navigation without saving"
+  "id": "e4-27-archive-month",
+  "op": "tap",
+  "x": 161,
+  "y": 353,
+  "note": "Switch publicly visible archive from day to month mode"
 }
