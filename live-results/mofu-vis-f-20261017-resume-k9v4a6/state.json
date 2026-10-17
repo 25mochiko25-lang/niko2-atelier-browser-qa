@@ -6,20 +6,20 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-17T04:01:12.828Z",
-  "updatedAt": "2026-10-17T04:19:08.659Z",
-  "lastCommand": "r42",
+  "updatedAt": "2026-10-17T04:19:36.318Z",
+  "lastCommand": "r43",
   "stopReason": null,
   "action": {
-    "id": "r42",
+    "id": "r43",
     "op": "tap",
-    "x": 204,
-    "y": 439,
-    "note": "Retest clearly visible MARI'S PRESSED FLOWERS button; previous same coordinate unexpectedly opened Weather"
+    "x": 68,
+    "y": 670,
+    "note": "Follow visible BBS link inside pressed-flowers page; inspect only, no message or submission"
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/1948db8fda22a2d3543c5c2be17aba0036699673/live-results/mofu-vis-f-20261017-resume-k9v4a6/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/585906f772b0fa383789a30b7259be3312ef3b92/live-results/mofu-vis-f-20261017-resume-k9v4a6/current.jpg",
   "readOnly": true,
-  "blockedWrites": 26,
+  "blockedWrites": 27,
   "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-f-20261017-resume-k9v4a6#channel0",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -31,7 +31,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\nNIKO² ATELIER\n\n\nCHANNEL / CH-00\nCHANNEL 00\n3 pages\n⌂\nhttp://petal.ne.jp/~mari/flowers.html\n×\nMARI'S PRESSED FLOWERS\n管理人：mari　最終更新 2001.05.17\n\n押し花の部屋\n\n庭で乾かした花を、少しずつ載せています。画像は重いです。\n\nviolet_07.jpg\n昨日、花が上へ落ちていきました。Cloud Gardenではよくあるそうです。\n\n感想をBBSへ 次の庭へ\nconnected at 33.6 kbps\n閲覧の断片を持ち帰る\n",
+  "text": "作品へ移動\nNIKO² ATELIER\n\n\nCHANNEL / CH-00\nCHANNEL 00\n4 pages\n⌂\nhttp://lavender-bbs.net/channel00\n×\nLAVENDER BBS\nLavender BBS\n\n足あとだけでも、どうぞ。\n\n[12] はじめまして\nname: soda\nお花きれいですね！\n2001.05.18\n[13] Re: はじめまして\nname: mari\nありがとう。また来てね。\n2001.05.18\n[03]\nname: --------\nここ、まだあるんだ。\n2031.09.11\nname \nmessage \n書き込む\nconnected at 33.6 kbps\n閲覧の断片を持ち帰る\n",
   "controls": [
     {
       "tag": "A",
@@ -89,24 +89,35 @@
       }
     },
     {
-      "tag": "BUTTON",
-      "text": "感想をBBSへ",
+      "tag": "INPUT",
+      "text": "",
       "disabled": false,
       "rect": {
-        "x": 25,
-        "y": 653,
-        "w": 87,
-        "h": 35
+        "x": 37,
+        "y": 663,
+        "w": 356,
+        "h": 22
+      }
+    },
+    {
+      "tag": "TEXTAREA",
+      "text": "",
+      "disabled": false,
+      "rect": {
+        "x": 37,
+        "y": 714,
+        "w": 356,
+        "h": 64
       }
     },
     {
       "tag": "BUTTON",
-      "text": "次の庭へ",
+      "text": "書き込む",
       "disabled": false,
       "rect": {
-        "x": 122,
-        "y": 653,
-        "w": 63,
+        "x": 40,
+        "y": 790,
+        "w": 350,
         "h": 35
       }
     },
@@ -776,6 +787,21 @@
       "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-f-20261017-resume-k9v4a6#channel0",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/1948db8fda22a2d3543c5c2be17aba0036699673/live-results/mofu-vis-f-20261017-resume-k9v4a6/current.jpg",
       "text": "作品へ移動\nNIKO² ATELIER\n\n\nCHANNEL / CH-00\nCHANNEL 00\n3 pages\n⌂\nhttp://petal.ne.jp/~mari/flowers.html\n×\nMARI'S PRESSED FLOWERS\n管理人：mari　最終更新 2001.05.17\n\n押し花の部屋\n\n庭で乾かした花を、少しずつ載せています。画像は重いです。\n\nviolet_07.jpg\n昨日、花が上へ落ちていきました。Cloud Gardenではよくあるそうです。\n\n感想をBBSへ 次の庭へ\nconnected at 33.6 kbps\n閲覧の断片を持ち帰る\n"
+    },
+    {
+      "number": 45,
+      "at": "2026-10-17T04:19:36.318Z",
+      "action": {
+        "id": "r43",
+        "op": "tap",
+        "x": 68,
+        "y": 670,
+        "note": "Follow visible BBS link inside pressed-flowers page; inspect only, no message or submission"
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-f-20261017-resume-k9v4a6#channel0",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/585906f772b0fa383789a30b7259be3312ef3b92/live-results/mofu-vis-f-20261017-resume-k9v4a6/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\n\n\nCHANNEL / CH-00\nCHANNEL 00\n4 pages\n⌂\nhttp://lavender-bbs.net/channel00\n×\nLAVENDER BBS\nLavender BBS\n\n足あとだけでも、どうぞ。\n\n[12] はじめまして\nname: soda\nお花きれいですね！\n2001.05.18\n[13] Re: はじめまして\nname: mari\nありがとう。また来てね。\n2001.05.18\n[03]\nname: --------\nここ、まだあるんだ。\n2031.09.11\nname \nmessage \n書き込む\nconnected at 33.6 kbps\n閲覧の断片を持ち帰る\n"
     }
   ]
 }
