@@ -1,7 +1,7 @@
 {
-  "id": "r41",
+  "id": "r42",
   "op": "tap",
-  "x": 33,
-  "y": 134,
-  "note": "Use visible browser-home icon to return to link directory and retest suspected wrong-link routing"
+  "x": 204,
+  "y": 439,
+  "note": "Retest clearly visible MARI'S PRESSED FLOWERS button; previous same coordinate unexpectedly opened Weather"
 }
