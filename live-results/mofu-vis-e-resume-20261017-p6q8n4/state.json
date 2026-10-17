@@ -6,18 +6,17 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-17T04:34:34.951Z",
-  "updatedAt": "2026-10-17T04:36:54.839Z",
-  "lastCommand": "e5-06-quiet",
+  "updatedAt": "2026-10-17T04:37:12.841Z",
+  "lastCommand": "e5-07-quiet-settle",
   "stopReason": null,
   "action": {
-    "id": "e5-06-quiet",
-    "op": "tap",
-    "x": 383,
-    "y": 72,
-    "note": "Use visible dream memory to return home via public quiet scene"
+    "id": "e5-07-quiet-settle",
+    "op": "wait",
+    "ms": 1800,
+    "note": "Allow quiet-scene exit control to appear"
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/be0b8e972fc116ac709805ab3f39e0bfa04d2c49/live-results/mofu-vis-e-resume-20261017-p6q8n4/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/07aac0f170ca7f3921c59ea0970cfe2c5bb1cfd3/live-results/mofu-vis-e-resume-20261017-p6q8n4/current.jpg",
   "readOnly": true,
   "blockedWrites": 4,
   "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-e-resume-20261017-p6q8n4#quiet",
@@ -31,7 +30,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n夢の見覚え ✧︎\n遠のいていく庭の中で、見覚えのあるくまと椅子だけが座っている。\n\n",
+  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n夢を離れる",
   "controls": [
     {
       "tag": "BUTTON",
@@ -53,6 +52,28 @@
         "y": 56,
         "w": 61,
         "h": 30
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "待っていた糸結びに触れる",
+      "disabled": false,
+      "rect": {
+        "x": 287,
+        "y": 610,
+        "w": 69,
+        "h": 69
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "夢を離れる",
+      "disabled": false,
+      "rect": {
+        "x": 22,
+        "y": 870,
+        "w": 100,
+        "h": 44
       }
     }
   ],
@@ -159,6 +180,20 @@
       "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-e-resume-20261017-p6q8n4#quiet",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/be0b8e972fc116ac709805ab3f39e0bfa04d2c49/live-results/mofu-vis-e-resume-20261017-p6q8n4/current.jpg",
       "text": "作品へ移動\n夢の見覚え ✧︎\n遠のいていく庭の中で、見覚えのあるくまと椅子だけが座っている。\n\n"
+    },
+    {
+      "number": 8,
+      "at": "2026-10-17T04:37:12.841Z",
+      "action": {
+        "id": "e5-07-quiet-settle",
+        "op": "wait",
+        "ms": 1800,
+        "note": "Allow quiet-scene exit control to appear"
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-e-resume-20261017-p6q8n4#quiet",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/07aac0f170ca7f3921c59ea0970cfe2c5bb1cfd3/live-results/mofu-vis-e-resume-20261017-p6q8n4/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n夢を離れる"
     }
   ]
 }
