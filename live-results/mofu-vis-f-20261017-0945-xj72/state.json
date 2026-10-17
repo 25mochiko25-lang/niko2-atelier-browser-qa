@@ -6,21 +6,21 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-17T00:46:41.213Z",
-  "updatedAt": "2026-10-17T01:02:05.813Z",
-  "lastCommand": "f42",
+  "updatedAt": "2026-10-17T01:02:23.031Z",
+  "lastCommand": "f43",
   "stopReason": null,
   "action": {
-    "id": "f42",
+    "id": "f43",
     "op": "tap",
-    "x": 212,
-    "y": 906,
-    "note": "Return through visible WORLD entrance to explore research/perfume links"
+    "x": 88,
+    "y": 441,
+    "note": "Enter Research Lab via visible world doorway to explore remaining public facilities"
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/8ad86f466d2af1cd3cb255043ff27d01775980bf/live-results/mofu-vis-f-20261017-0945-xj72/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/9e6614f9a7b8b56357abadb168a93f72c5c4e91c/live-results/mofu-vis-f-20261017-0945-xj72/current.jpg",
   "readOnly": true,
   "blockedWrites": 25,
-  "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-f-20261017-0945-xj72#world",
+  "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-f-20261017-0945-xj72#lab",
   "title": "NIKO² ATELIER",
   "viewport": {
     "width": 430,
@@ -31,8 +31,19 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n \nNIKO² / WORLD\nWORLD\n水面の向こうに、まだつながっていない場所もあります。\n\nResearch Lab\n\nROOM NULL\n",
+  "text": "作品へ移動\nNIKO² ATELIER\n\n白と薄水色のガラス研究所。奥へ続く通路と、記録の置かれた観測台があります。\nMAIN LAB\n観測台\n\nRESEARCH LAB\n\n少し、\n見ていく。\n入る\n観測台奥の保管室へ進む\n",
   "controls": [
+    {
+      "tag": "A",
+      "text": "NIKO² ATELIER",
+      "disabled": false,
+      "rect": {
+        "x": 22,
+        "y": 13,
+        "w": 118,
+        "h": 44
+      }
+    },
     {
       "tag": "BUTTON",
       "text": "音をオンにする",
@@ -45,36 +56,58 @@
       }
     },
     {
-      "tag": "A",
-      "text": "アトリエへ戻る",
+      "tag": "BUTTON",
+      "text": "戻る",
       "disabled": false,
       "rect": {
-        "x": 16,
-        "y": 25,
-        "w": 44,
-        "h": 44
+        "x": 14,
+        "y": 82,
+        "w": 40,
+        "h": 40
       }
     },
     {
       "tag": "BUTTON",
-      "text": "Research Lab",
+      "text": "入る",
       "disabled": false,
       "rect": {
-        "x": 38,
-        "y": 339,
+        "x": 24,
+        "y": 697,
+        "w": 184,
+        "h": 46
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "観測台",
+      "disabled": false,
+      "rect": {
+        "x": 66,
+        "y": 392,
+        "w": 89,
+        "h": 303
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "奥の保管室へ進む",
+      "disabled": false,
+      "rect": {
+        "x": 163,
+        "y": 337,
         "w": 108,
-        "h": 179
+        "h": 187
       }
     },
     {
       "tag": "BUTTON",
-      "text": "ROOM NULL",
+      "text": "障害シミュレーション／運用モードを開く",
       "disabled": false,
       "rect": {
-        "x": 309,
-        "y": 353,
-        "w": 105,
-        "h": 179
+        "x": 292,
+        "y": 634,
+        "w": 72,
+        "h": 97
       }
     }
   ],
@@ -716,6 +749,21 @@
       "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-f-20261017-0945-xj72#world",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/8ad86f466d2af1cd3cb255043ff27d01775980bf/live-results/mofu-vis-f-20261017-0945-xj72/current.jpg",
       "text": "作品へ移動\n \nNIKO² / WORLD\nWORLD\n水面の向こうに、まだつながっていない場所もあります。\n\nResearch Lab\n\nROOM NULL\n"
+    },
+    {
+      "number": 44,
+      "at": "2026-10-17T01:02:23.031Z",
+      "action": {
+        "id": "f43",
+        "op": "tap",
+        "x": 88,
+        "y": 441,
+        "note": "Enter Research Lab via visible world doorway to explore remaining public facilities"
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-f-20261017-0945-xj72#lab",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/9e6614f9a7b8b56357abadb168a93f72c5c4e91c/live-results/mofu-vis-f-20261017-0945-xj72/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\n\n白と薄水色のガラス研究所。奥へ続く通路と、記録の置かれた観測台があります。\nMAIN LAB\n観測台\n\nRESEARCH LAB\n\n少し、\n見ていく。\n入る\n観測台奥の保管室へ進む\n"
     }
   ]
 }
