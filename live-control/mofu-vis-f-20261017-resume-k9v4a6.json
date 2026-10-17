@@ -1,7 +1,7 @@
 {
-  "id": "r38",
+  "id": "r39",
   "op": "tap",
-  "x": 102,
-  "y": 421,
-  "note": "Open actually exposed CHANNEL 00 laptop within ROOM NULL"
+  "x": 211,
+  "y": 534,
+  "note": "Power on visible CHANNEL 00 console for link directory"
 }
