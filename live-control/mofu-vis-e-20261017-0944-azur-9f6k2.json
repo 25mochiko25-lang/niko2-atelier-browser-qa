@@ -1,7 +1,7 @@
 {
-  "id": "e3-14-open-atelier",
+  "id": "e3-15-letter-article",
   "op": "tap",
-  "x": 352,
-  "y": 350,
-  "note": "Open FROM THE ATELIER envelope visible on HOME"
+  "x": 191,
+  "y": 807,
+  "note": "Open visible first-letter article from FROM THE ATELIER list"
 }
