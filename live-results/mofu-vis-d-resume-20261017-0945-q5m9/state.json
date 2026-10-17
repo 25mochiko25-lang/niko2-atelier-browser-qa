@@ -6,21 +6,21 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-17T00:49:14.103Z",
-  "updatedAt": "2026-10-17T00:56:30.206Z",
-  "lastCommand": "dr23-world",
+  "updatedAt": "2026-10-17T00:56:47.743Z",
+  "lastCommand": "dr24-roomnull",
   "stopReason": null,
   "action": {
-    "id": "dr23-world",
+    "id": "dr24-roomnull",
     "op": "tap",
-    "x": 216,
-    "y": 909,
-    "note": "Finish visible onboarding, then enter WORLD via visible link."
+    "x": 365,
+    "y": 432,
+    "note": "Open visible ROOM NULL door via public WORLD route (read-only)."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/a3a077ddd469f4e074181b4fc98e91030ceb468f/live-results/mofu-vis-d-resume-20261017-0945-q5m9/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/692eb3dae24593e4c7e8e2f29d7a218c765dfb02/live-results/mofu-vis-d-resume-20261017-0945-q5m9/current.jpg",
   "readOnly": true,
   "blockedWrites": 13,
-  "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-d-resume-20261017-0945-q5m9#world",
+  "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-d-resume-20261017-0945-q5m9#room0",
   "title": "NIKO² ATELIER",
   "viewport": {
     "width": 430,
@@ -31,8 +31,19 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n \nNIKO² / WORLD\nWORLD\n水面の向こうに、まだつながっていない場所もあります。\n\nResearch Lab\n\nROOM NULL\n",
+  "text": "作品へ移動\nNIKO² ATELIER\n\n",
   "controls": [
+    {
+      "tag": "A",
+      "text": "NIKO² ATELIER",
+      "disabled": false,
+      "rect": {
+        "x": 22,
+        "y": 13,
+        "w": 118,
+        "h": 44
+      }
+    },
     {
       "tag": "BUTTON",
       "text": "音をオンにする",
@@ -46,35 +57,24 @@
     },
     {
       "tag": "A",
-      "text": "アトリエへ戻る",
+      "text": "WORLDへ戻る",
       "disabled": false,
       "rect": {
-        "x": 16,
-        "y": 25,
-        "w": 44,
-        "h": 44
+        "x": 14,
+        "y": 97,
+        "w": 40,
+        "h": 40
       }
     },
     {
       "tag": "BUTTON",
-      "text": "Research Lab",
+      "text": "ひらく",
       "disabled": false,
       "rect": {
-        "x": 38,
-        "y": 339,
-        "w": 108,
-        "h": 179
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "ROOM NULL",
-      "disabled": false,
-      "rect": {
-        "x": 309,
-        "y": 353,
-        "w": 105,
-        "h": 179
+        "x": 23,
+        "y": 51,
+        "w": 381,
+        "h": 874
       }
     }
   ],
@@ -437,6 +437,21 @@
       "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-d-resume-20261017-0945-q5m9#world",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/a3a077ddd469f4e074181b4fc98e91030ceb468f/live-results/mofu-vis-d-resume-20261017-0945-q5m9/current.jpg",
       "text": "作品へ移動\n \nNIKO² / WORLD\nWORLD\n水面の向こうに、まだつながっていない場所もあります。\n\nResearch Lab\n\nROOM NULL\n"
+    },
+    {
+      "number": 25,
+      "at": "2026-10-17T00:56:47.743Z",
+      "action": {
+        "id": "dr24-roomnull",
+        "op": "tap",
+        "x": 365,
+        "y": 432,
+        "note": "Open visible ROOM NULL door via public WORLD route (read-only)."
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-d-resume-20261017-0945-q5m9#room0",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/692eb3dae24593e4c7e8e2f29d7a218c765dfb02/live-results/mofu-vis-d-resume-20261017-0945-q5m9/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\n\n"
     }
   ]
 }
