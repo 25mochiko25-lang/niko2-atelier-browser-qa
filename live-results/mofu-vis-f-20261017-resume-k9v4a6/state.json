@@ -6,18 +6,18 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-17T04:01:12.828Z",
-  "updatedAt": "2026-10-17T04:09:31.267Z",
-  "lastCommand": "r20",
+  "updatedAt": "2026-10-17T04:09:48.493Z",
+  "lastCommand": "r21",
   "stopReason": null,
   "action": {
-    "id": "r20",
+    "id": "r21",
     "op": "tap",
     "x": 372,
     "y": 859,
-    "note": "Next on visible WHAT REMAINED onboarding"
+    "note": "Next on visible NIKO² ATELIER onboarding"
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/b358b7b038dc6f3eb85b8318713e6e2435197db0/live-results/mofu-vis-f-20261017-resume-k9v4a6/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/8e3e946d87625afa737dc0ba20c8a984d1aeb1aa/live-results/mofu-vis-f-20261017-resume-k9v4a6/current.jpg",
   "readOnly": true,
   "blockedWrites": 11,
   "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-f-20261017-resume-k9v4a6",
@@ -31,7 +31,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n \nWORLD\nWORLD\n水面の向こうに、いくつかの場所がひらいています。\n\n\nABOUT\nもふもふはいます。\nPLAY / SHARE / FAN WORK\nNIKO²での生活について\n好きな形で遊ぶための、小さな境界。\nDEAR ATELIER\nお手紙を送る\nAtelierの受取箱へ。\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n\nNIKO² ATELIER\nあなたの夢は、NIKO² ATELIERとともに、 この世界を少しずつ広げていきます。  この先も世界が広がっています。 あとは、ご自由に。\n次へ戻る",
+  "text": "作品へ移動\n \nWORLD\nWORLD\n水面の向こうに、いくつかの場所がひらいています。\n\n\nABOUT\nもふもふはいます。\nPLAY / SHARE / FAN WORK\nNIKO²での生活について\n好きな形で遊ぶための、小さな境界。\nDEAR ATELIER\nお手紙を送る\nAtelierの受取箱へ。\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n\nNEXT PLACES\nこの先に、二つの場所がひらいています。\nどちらを選んでも、選ばなくても大丈夫です。\n\n\nFROM THE ATELIER\nこの世界の制作記録を読む場所。\n\n\nPERFUME MORGUE\n12兆通りの記憶から、あなたのためだけの香りをつくる場所。\n戻る完了",
   "controls": [
     {
       "tag": "BUTTON",
@@ -90,13 +90,24 @@
     },
     {
       "tag": "BUTTON",
-      "text": "次へ",
+      "text": "FROM THE ATELIER\nこの世界の制作記録を読む場所。",
       "disabled": false,
       "rect": {
-        "x": 340,
-        "y": 836,
-        "w": 72,
-        "h": 44
+        "x": 46,
+        "y": 350,
+        "w": 338,
+        "h": 134
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "PERFUME MORGUE\n12兆通りの記憶から、あなたのためだけの香りをつくる場所。",
+      "disabled": false,
+      "rect": {
+        "x": 46,
+        "y": 494,
+        "w": 338,
+        "h": 134
       }
     },
     {
@@ -105,6 +116,17 @@
       "disabled": false,
       "rect": {
         "x": 18,
+        "y": 836,
+        "w": 72,
+        "h": 44
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "完了",
+      "disabled": false,
+      "rect": {
+        "x": 340,
         "y": 836,
         "w": 72,
         "h": 44
@@ -423,6 +445,21 @@
       "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-f-20261017-resume-k9v4a6",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/b358b7b038dc6f3eb85b8318713e6e2435197db0/live-results/mofu-vis-f-20261017-resume-k9v4a6/current.jpg",
       "text": "作品へ移動\n \nWORLD\nWORLD\n水面の向こうに、いくつかの場所がひらいています。\n\n\nABOUT\nもふもふはいます。\nPLAY / SHARE / FAN WORK\nNIKO²での生活について\n好きな形で遊ぶための、小さな境界。\nDEAR ATELIER\nお手紙を送る\nAtelierの受取箱へ。\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n\nNIKO² ATELIER\nあなたの夢は、NIKO² ATELIERとともに、 この世界を少しずつ広げていきます。  この先も世界が広がっています。 あとは、ご自由に。\n次へ戻る"
+    },
+    {
+      "number": 22,
+      "at": "2026-10-17T04:09:48.493Z",
+      "action": {
+        "id": "r21",
+        "op": "tap",
+        "x": 372,
+        "y": 859,
+        "note": "Next on visible NIKO² ATELIER onboarding"
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-f-20261017-resume-k9v4a6",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/8e3e946d87625afa737dc0ba20c8a984d1aeb1aa/live-results/mofu-vis-f-20261017-resume-k9v4a6/current.jpg",
+      "text": "作品へ移動\n \nWORLD\nWORLD\n水面の向こうに、いくつかの場所がひらいています。\n\n\nABOUT\nもふもふはいます。\nPLAY / SHARE / FAN WORK\nNIKO²での生活について\n好きな形で遊ぶための、小さな境界。\nDEAR ATELIER\nお手紙を送る\nAtelierの受取箱へ。\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n\nNEXT PLACES\nこの先に、二つの場所がひらいています。\nどちらを選んでも、選ばなくても大丈夫です。\n\n\nFROM THE ATELIER\nこの世界の制作記録を読む場所。\n\n\nPERFUME MORGUE\n12兆通りの記憶から、あなたのためだけの香りをつくる場所。\n戻る完了"
     }
   ]
 }
