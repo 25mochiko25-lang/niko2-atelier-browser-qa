@@ -1,7 +1,7 @@
 {
-  "id": "f48",
+  "id": "f49",
   "op": "tap",
-  "x": 34,
-  "y": 104,
-  "note": "Return from Research Lab to the World"
+  "x": 360,
+  "y": 440,
+  "note": "Visit ROOM NULL again to inspect publicly visible Cabinet"
 }
