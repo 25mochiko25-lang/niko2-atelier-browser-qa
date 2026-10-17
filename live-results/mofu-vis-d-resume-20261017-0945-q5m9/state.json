@@ -6,20 +6,18 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-17T00:49:14.103Z",
-  "updatedAt": "2026-10-17T01:00:07.617Z",
-  "lastCommand": "dr30-diary-return",
-  "stopReason": null,
+  "updatedAt": "2026-10-17T01:00:52.470Z",
+  "lastCommand": "dr31-stop",
+  "stopReason": "D visual audit complete: ROOM NULL door, interior, curtain/light visual taps, Diary link and back verified; predecessor Cabinet/CHANNEL 00 evidence reviewed.",
   "action": {
-    "id": "dr30-diary-return",
-    "op": "tap",
-    "x": 327,
-    "y": 280,
-    "note": "Return via visible ROOM NULL control without saving any Diary data."
+    "id": "dr31-stop",
+    "op": "stop",
+    "reason": "D visual audit complete: ROOM NULL door, interior, curtain/light visual taps, Diary link and back verified; predecessor Cabinet/CHANNEL 00 evidence reviewed."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/bcd2e84f9d2b12561daaddcb4642be4b91cf08e3/live-results/mofu-vis-d-resume-20261017-0945-q5m9/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/13e63fa1b740da9c4afb68e31cf93f85087444ac/live-results/mofu-vis-d-resume-20261017-0945-q5m9/current.jpg",
   "readOnly": true,
-  "blockedWrites": 16,
+  "blockedWrites": 17,
   "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-d-resume-20261017-0945-q5m9#room0",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -565,6 +563,19 @@
       "error": null,
       "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-d-resume-20261017-0945-q5m9#room0",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/bcd2e84f9d2b12561daaddcb4642be4b91cf08e3/live-results/mofu-vis-d-resume-20261017-0945-q5m9/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\n\n \nWORLD / RN-00\nROOM NULL\na room that remembers you.\nRN-00\n"
+    },
+    {
+      "number": 32,
+      "at": "2026-10-17T01:00:52.470Z",
+      "action": {
+        "id": "dr31-stop",
+        "op": "stop",
+        "reason": "D visual audit complete: ROOM NULL door, interior, curtain/light visual taps, Diary link and back verified; predecessor Cabinet/CHANNEL 00 evidence reviewed."
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-d-resume-20261017-0945-q5m9#room0",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/13e63fa1b740da9c4afb68e31cf93f85087444ac/live-results/mofu-vis-d-resume-20261017-0945-q5m9/current.jpg",
       "text": "作品へ移動\nNIKO² ATELIER\n\n \nWORLD / RN-00\nROOM NULL\na room that remembers you.\nRN-00\n"
     }
   ]
