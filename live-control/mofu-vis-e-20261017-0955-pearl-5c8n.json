@@ -1,6 +1,7 @@
 {
-  "id": "e4-24-diary-pagedown3",
-  "op": "key",
-  "key": "PageDown",
-  "note": "Page down from focused save button without activating save"
+  "id": "e4-25-diary-archive",
+  "op": "tap",
+  "x": 374,
+  "y": 699,
+  "note": "Expand visible Archive control in Diary, do not save or submit entries"
 }
