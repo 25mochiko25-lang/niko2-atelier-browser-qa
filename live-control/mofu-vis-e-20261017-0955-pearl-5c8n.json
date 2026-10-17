@@ -1,7 +1,7 @@
 {
-  "id": "e4-09-discard",
+  "id": "e4-10-after1",
   "op": "tap",
-  "x": 214,
-  "y": 716,
-  "note": "No storage submission; return to Atelier from memory dialog"
+  "x": 372,
+  "y": 857,
+  "note": "Advance visible after Garden slide"
 }
