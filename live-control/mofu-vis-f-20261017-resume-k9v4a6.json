@@ -1,7 +1,7 @@
 {
-  "id": "r42",
+  "id": "r43",
   "op": "tap",
-  "x": 204,
-  "y": 439,
-  "note": "Retest clearly visible MARI'S PRESSED FLOWERS button; previous same coordinate unexpectedly opened Weather"
+  "x": 68,
+  "y": 670,
+  "note": "Follow visible BBS link inside pressed-flowers page; inspect only, no message or submission"
 }
