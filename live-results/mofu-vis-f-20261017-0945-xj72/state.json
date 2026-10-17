@@ -6,17 +6,18 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-17T00:46:41.213Z",
-  "updatedAt": "2026-10-17T00:52:01.008Z",
-  "lastCommand": "f16",
+  "updatedAt": "2026-10-17T00:52:27.280Z",
+  "lastCommand": "f17",
   "stopReason": null,
   "action": {
-    "id": "f16",
-    "op": "look",
-    "wait": 1800,
-    "note": "Observe post-gate scene after transition without altering state"
+    "id": "f17",
+    "op": "tap",
+    "x": 73,
+    "y": 893,
+    "note": "Leave the dream via visible button and seek accessible facilities"
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/d622487d4272706642f15411569c4d35759325db/live-results/mofu-vis-f-20261017-0945-xj72/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/517f70ea46d30b3e0fb899bdf217551c7778ec18/live-results/mofu-vis-f-20261017-0945-xj72/current.jpg",
   "readOnly": true,
   "blockedWrites": 7,
   "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-f-20261017-0945-xj72#quiet",
@@ -30,7 +31,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n夢を離れる",
+  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n夢を離れる\n\nDREAM MEMORY\n\n夢から残ったもの\n\nWORLD MEMORY\nMEMORY FRAGMENT\n住所のない白いタイル\nまだ住所を持たない街から、足元へ滑った小さなタイル。\n言葉を添える\n何も残さず、アトリエへ戻る\nDiaryへ持ち帰る",
   "controls": [
     {
       "tag": "BUTTON",
@@ -59,7 +60,7 @@
       "text": "白い街の一片に触れる",
       "disabled": false,
       "rect": {
-        "x": 73,
+        "x": 74,
         "y": 799,
         "w": 69,
         "h": 69
@@ -74,6 +75,50 @@
         "y": 870,
         "w": 100,
         "h": 44
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "日記を閉じる",
+      "disabled": false,
+      "rect": {
+        "x": 353,
+        "y": 192,
+        "w": 44,
+        "h": 44
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "言葉を添える",
+      "disabled": false,
+      "rect": {
+        "x": 38,
+        "y": 566,
+        "w": 103,
+        "h": 44
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "何も残さず、アトリエへ戻る",
+      "disabled": false,
+      "rect": {
+        "x": 38,
+        "y": 700,
+        "w": 354,
+        "h": 40
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Diaryへ持ち帰る",
+      "disabled": false,
+      "rect": {
+        "x": 38,
+        "y": 645,
+        "w": 354,
+        "h": 48
       }
     }
   ],
@@ -329,6 +374,21 @@
       "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-f-20261017-0945-xj72#quiet",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/d622487d4272706642f15411569c4d35759325db/live-results/mofu-vis-f-20261017-0945-xj72/current.jpg",
       "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n夢を離れる"
+    },
+    {
+      "number": 18,
+      "at": "2026-10-17T00:52:27.280Z",
+      "action": {
+        "id": "f17",
+        "op": "tap",
+        "x": 73,
+        "y": 893,
+        "note": "Leave the dream via visible button and seek accessible facilities"
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-f-20261017-0945-xj72#quiet",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/517f70ea46d30b3e0fb899bdf217551c7778ec18/live-results/mofu-vis-f-20261017-0945-xj72/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n夢を離れる\n\nDREAM MEMORY\n\n夢から残ったもの\n\nWORLD MEMORY\nMEMORY FRAGMENT\n住所のない白いタイル\nまだ住所を持たない街から、足元へ滑った小さなタイル。\n言葉を添える\n何も残さず、アトリエへ戻る\nDiaryへ持ち帰る"
     }
   ]
 }
