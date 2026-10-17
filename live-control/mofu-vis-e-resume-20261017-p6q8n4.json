@@ -1,7 +1,6 @@
 {
-  "id": "e5-25-contact-open",
-  "op": "tap",
-  "x": 170,
-  "y": 704,
-  "note": "Open visible public letter form for visual audit only; no input or send"
+  "id": "e5-26-contact-lower",
+  "op": "key",
+  "key": "PageDown",
+  "note": "Inspect public letter form lower area without entering/sending data"
 }
