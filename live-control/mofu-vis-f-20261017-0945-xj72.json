@@ -1,7 +1,6 @@
 {
-  "id": "f31",
-  "op": "tap",
-  "x": 93,
-  "y": 816,
-  "note": "Check into the publicly visible Hotel using readOnly observer; blocked writes remain enforced"
+  "id": "f32",
+  "op": "look",
+  "wait": 1200,
+  "note": "Recheck room-service contrast after animation settles"
 }
