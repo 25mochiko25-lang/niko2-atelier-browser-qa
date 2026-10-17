@@ -1,7 +1,7 @@
 {
-  "id": "e4-31-open-remaining",
+  "id": "e4-32-cabinet-back",
   "op": "tap",
-  "x": 215,
-  "y": 500,
-  "note": "Inspect public intro modal '中を見る' and its subsequent screen, no data modifications"
+  "x": 35,
+  "y": 113,
+  "note": "Return with visible back arrow and inspect Diary scroll restoration"
 }
