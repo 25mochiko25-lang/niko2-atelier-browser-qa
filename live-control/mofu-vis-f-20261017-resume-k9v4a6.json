@@ -1,7 +1,6 @@
 {
-  "id": "r49",
-  "op": "tap",
-  "x": 33,
-  "y": 133,
-  "note": "Return to CHANNEL 00 directory to inspect last/lost link and lower page interactions"
+  "id": "r50",
+  "op": "key",
+  "key": "PageDown",
+  "note": "Inspect lower CHANNEL 00 links clipped by fixed footer using keyboard viewport scroll; not iPhone touch scroll validation"
 }
