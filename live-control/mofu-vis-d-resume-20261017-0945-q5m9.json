@@ -1,8 +1,8 @@
 {
-  "id": "dr27-curtain",
+  "id": "dr28-wall-light",
   "op": "tap",
-  "x": 31,
-  "y": 241,
+  "x": 366,
+  "y": 171,
   "wait": 1200,
-  "note": "Tap visibly depicted left lace curtain to test whether it opens; do not infer interaction from image alone."
+  "note": "Tap visible wall light above cabinet (outside cabinet hotspot) to check any visible lighting response."
 }
