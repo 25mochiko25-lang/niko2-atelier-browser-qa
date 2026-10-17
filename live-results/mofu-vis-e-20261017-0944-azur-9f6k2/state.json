@@ -1,0 +1,70 @@
+{
+  "session": "mofu-vis-e-20261017-0944-azur-9f6k2",
+  "mode": "observer-driven",
+  "device": "founder",
+  "engine": "webkit",
+  "mobile": true,
+  "touch": true,
+  "startedAt": "2026-10-17T00:45:24.800Z",
+  "updatedAt": "2026-10-17T00:45:30.972Z",
+  "lastCommand": null,
+  "stopReason": null,
+  "action": {
+    "op": "arrival"
+  },
+  "error": null,
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/783d93de04df643955851075f54de77f8f92ee92/live-results/mofu-vis-e-20261017-0944-azur-9f6k2/current.jpg",
+  "readOnly": true,
+  "blockedWrites": 1,
+  "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-e-20261017-0944-azur-9f6k2",
+  "title": "NIKO² ATELIER",
+  "viewport": {
+    "width": 430,
+    "height": 932
+  },
+  "documentWidth": 430,
+  "scroll": {
+    "x": 0,
+    "y": 0
+  },
+  "text": "作品へ移動\n\n",
+  "controls": [
+    {
+      "tag": "BUTTON",
+      "text": "音をオンにする",
+      "disabled": false,
+      "rect": {
+        "x": 372,
+        "y": 14,
+        "w": 44,
+        "h": 44
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Enter the dream",
+      "disabled": false,
+      "rect": {
+        "x": 110,
+        "y": 545,
+        "w": 210,
+        "h": 70
+      }
+    }
+  ],
+  "pageErrors": [],
+  "httpErrors": [],
+  "events": [
+    {
+      "number": 1,
+      "at": "2026-10-17T00:45:30.972Z",
+      "action": {
+        "op": "arrival"
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-e-20261017-0944-azur-9f6k2",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/783d93de04df643955851075f54de77f8f92ee92/live-results/mofu-vis-e-20261017-0944-azur-9f6k2/current.jpg",
+      "text": "作品へ移動\n\n"
+    }
+  ]
+}
