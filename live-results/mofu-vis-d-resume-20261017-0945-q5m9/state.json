@@ -6,19 +6,19 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-17T00:49:14.103Z",
-  "updatedAt": "2026-10-17T00:58:27.681Z",
-  "lastCommand": "dr27-curtain",
+  "updatedAt": "2026-10-17T00:58:37.450Z",
+  "lastCommand": "dr28-wall-light",
   "stopReason": null,
   "action": {
-    "id": "dr27-curtain",
+    "id": "dr28-wall-light",
     "op": "tap",
-    "x": 31,
-    "y": 241,
+    "x": 366,
+    "y": 171,
     "wait": 1200,
-    "note": "Tap visibly depicted left lace curtain to test whether it opens; do not infer interaction from image alone."
+    "note": "Tap visible wall light above cabinet (outside cabinet hotspot) to check any visible lighting response."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/28b07ace02d9277d9f47fdf7f7ae3cdc09dfa8cf/live-results/mofu-vis-d-resume-20261017-0945-q5m9/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/bb437e295336508f1250acd9cbb65e0cdce7ebd8/live-results/mofu-vis-d-resume-20261017-0945-q5m9/current.jpg",
   "readOnly": true,
   "blockedWrites": 15,
   "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-d-resume-20261017-0945-q5m9#room0",
@@ -519,6 +519,22 @@
       "error": null,
       "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-d-resume-20261017-0945-q5m9#room0",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/28b07ace02d9277d9f47fdf7f7ae3cdc09dfa8cf/live-results/mofu-vis-d-resume-20261017-0945-q5m9/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\n\n \nWORLD / RN-00\nROOM NULL\na room that remembers you.\nRN-00\n"
+    },
+    {
+      "number": 29,
+      "at": "2026-10-17T00:58:37.450Z",
+      "action": {
+        "id": "dr28-wall-light",
+        "op": "tap",
+        "x": 366,
+        "y": 171,
+        "wait": 1200,
+        "note": "Tap visible wall light above cabinet (outside cabinet hotspot) to check any visible lighting response."
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-d-resume-20261017-0945-q5m9#room0",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/bb437e295336508f1250acd9cbb65e0cdce7ebd8/live-results/mofu-vis-d-resume-20261017-0945-q5m9/current.jpg",
       "text": "作品へ移動\nNIKO² ATELIER\n\n \nWORLD / RN-00\nROOM NULL\na room that remembers you.\nRN-00\n"
     }
   ]
