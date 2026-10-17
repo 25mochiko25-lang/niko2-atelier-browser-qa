@@ -1,7 +1,7 @@
 {
-  "id": "f49",
+  "id": "f50",
   "op": "tap",
-  "x": 360,
-  "y": 440,
-  "note": "Visit ROOM NULL again to inspect publicly visible Cabinet"
+  "x": 378,
+  "y": 549,
+  "note": "Open the visible ROOM NULL door again to inspect Cabinet"
 }
