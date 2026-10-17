@@ -1,6 +1,5 @@
 {
-  "id": "r55",
-  "op": "key",
-  "key": "PageDown",
-  "note": "Read lower Diary presentation on cross-route from CHANNEL 00; readonly, no save"
+  "id": "f-resume-stop-20261017-k9v4a6",
+  "op": "stop",
+  "reason": "Visual audit F finished: Hotel, Perfume, CHANNEL 00 and publicly reachable secondary pages inspected; explicit stop after command inactivity and screenshot review, no further writes."
 }
