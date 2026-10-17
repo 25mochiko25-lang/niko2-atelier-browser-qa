@@ -1,6 +1,7 @@
 {
-  "id": "r26",
-  "op": "key",
-  "key": "PageDown",
-  "note": "Keyboard viewport inspection of below-fold Perfume elements; not an iPhone swipe test"
+  "id": "r27",
+  "op": "tap",
+  "x": 211,
+  "y": 472,
+  "note": "Select visible MIDDLE tab after keyboard PageDown; compare selected/empty state"
 }
