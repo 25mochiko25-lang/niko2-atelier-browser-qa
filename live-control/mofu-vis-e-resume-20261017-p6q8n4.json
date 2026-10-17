@@ -1,7 +1,7 @@
 {
-  "id": "e5-09-discard",
+  "id": "e5-10-after-next1",
   "op": "tap",
-  "x": 211,
-  "y": 723,
-  "note": "Return to Atelier using visible no-save button; do not submit data"
+  "x": 372,
+  "y": 856,
+  "note": "Advance visible AFTER THE GARDEN"
 }
