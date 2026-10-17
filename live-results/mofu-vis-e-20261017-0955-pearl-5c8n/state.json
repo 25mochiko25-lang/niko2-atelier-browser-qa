@@ -6,18 +6,18 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-17T00:55:08.310Z",
-  "updatedAt": "2026-10-17T01:08:33.637Z",
-  "lastCommand": "e4-34-gallery-next",
+  "updatedAt": "2026-10-17T01:08:57.889Z",
+  "lastCommand": "e4-35-gallery-select",
   "stopReason": null,
   "action": {
-    "id": "e4-34-gallery-next",
+    "id": "e4-35-gallery-select",
     "op": "tap",
-    "x": 404,
-    "y": 504,
-    "note": "Move from photo 1 to photo 2 with visible gallery arrow"
+    "x": 215,
+    "y": 900,
+    "note": "Choose built-in gallery photo preview only, not Save Diary"
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/855e953052d63bd7878f988e27dfc4dd608febc4/live-results/mofu-vis-e-20261017-0955-pearl-5c8n/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/4e2078c812496257795d728b3ebbc9ce7580667d/live-results/mofu-vis-e-20261017-0955-pearl-5c8n/current.jpg",
   "readOnly": true,
   "blockedWrites": 19,
   "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-e-20261017-0955-pearl-5c8n#diary",
@@ -31,7 +31,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\nNIKO² ATELIER\nDream\nDiary\nAbout\n\nNIKO² DIARY\nDiary\n今日のことを、ひとつだけ。\n10月17日 10:07\nTODAY\n今日を残す\n選んだ記憶が、ここに書きとめてあります。\nあなたの言葉を、添えても構いません。\n✦\nいまの気配\n\n静か\n\nきらきら\n\nぼんやり\n\nざわざわ\n\n甘い\n\n雨っぽい\n\n眠い\n\n何もない\nPHOTO\n写真\n選択なし\nまち\n部屋\n買ったもの\n遊び\n食べもの\nその他\n写真を眺める\n‹\n›\n\n\n自販機\n\n\nホーム\n\n\n改札\n\n\n途中\n\n\nロッカー\n\n\nエレベーター\n\n\nガラス扉\n\n\n空席\n\n\n雨の改札\n\n\n22:47\n\n\n青空\n\n\n夕方\n\n\n夜空\n\n\n空の間\n\n\n夕方の壁\n\n\n雨あがり\n言葉\nOPTIONAL\nこの端末だけに残ります\n残す\n2026年10月\nMONTHLY REFLECTION\n今月の景色\nまだ何も残っていません。\n最初のひとつを持ち帰ると、ここから景色が育ちます。\nARCHIVE\n前の日々をひらく\n\nWHAT REMAINED\n残ったものを見る\nアトリエへ戻る\n\n×\nまちの写真\n写真を眺める\n2 / 16\nまち\n部屋\n買ったもの\n遊び\n食べもの\nその他\n\n‹\n\nホーム\n\n›\n未選択この写真にする",
+  "text": "作品へ移動\nNIKO² ATELIER\nDream\nDiary\nAbout\n\nNIKO² DIARY\nDiary\n今日のことを、ひとつだけ。\n10月17日 10:07\nTODAY\n今日を残す\n選んだ記憶が、ここに書きとめてあります。\nあなたの言葉を、添えても構いません。\n✦\nいまの気配\n\n静か\n\nきらきら\n\nぼんやり\n\nざわざわ\n\n甘い\n\n雨っぽい\n\n眠い\n\n何もない\nPHOTO\n写真\nホーム\nまち\n部屋\n買ったもの\n遊び\n食べもの\nその他\n写真を眺める\n‹\n›\n\n\n自販機\n\n\nホーム\n\n\n改札\n\n\n途中\n\n\nロッカー\n\n\nエレベーター\n\n\nガラス扉\n\n\n空席\n\n\n雨の改札\n\n\n22:47\n\n\n青空\n\n\n夕方\n\n\n夜空\n\n\n空の間\n\n\n夕方の壁\n\n\n雨あがり\n言葉\nOPTIONAL\nこの端末だけに残ります\n残す\n2026年10月\nMONTHLY REFLECTION\n今月の景色\nまだ何も残っていません。\n最初のひとつを持ち帰ると、ここから景色が育ちます。\nARCHIVE\n前の日々をひらく\n\nWHAT REMAINED\n残ったものを見る\nアトリエへ戻る\n",
   "controls": [
     {
       "tag": "A",
@@ -94,7 +94,7 @@
       "disabled": false,
       "rect": {
         "x": 42,
-        "y": 416,
+        "y": 3,
         "w": 95,
         "h": 44
       }
@@ -105,7 +105,7 @@
       "disabled": false,
       "rect": {
         "x": 144,
-        "y": 416,
+        "y": 3,
         "w": 113,
         "h": 44
       }
@@ -116,7 +116,7 @@
       "disabled": false,
       "rect": {
         "x": 264,
-        "y": 416,
+        "y": 3,
         "w": 124,
         "h": 44
       }
@@ -127,7 +127,7 @@
       "disabled": false,
       "rect": {
         "x": 42,
-        "y": 469,
+        "y": 56,
         "w": 113,
         "h": 44
       }
@@ -138,7 +138,7 @@
       "disabled": false,
       "rect": {
         "x": 162,
-        "y": 469,
+        "y": 56,
         "w": 92,
         "h": 44
       }
@@ -149,7 +149,7 @@
       "disabled": false,
       "rect": {
         "x": 261,
-        "y": 469,
+        "y": 56,
         "w": 128,
         "h": 44
       }
@@ -160,7 +160,7 @@
       "disabled": false,
       "rect": {
         "x": 42,
-        "y": 522,
+        "y": 109,
         "w": 103,
         "h": 44
       }
@@ -171,7 +171,7 @@
       "disabled": false,
       "rect": {
         "x": 152,
-        "y": 522,
+        "y": 109,
         "w": 127,
         "h": 44
       }
@@ -182,7 +182,7 @@
       "disabled": false,
       "rect": {
         "x": 52,
-        "y": 639,
+        "y": 226,
         "w": 106,
         "h": 39
       }
@@ -193,7 +193,7 @@
       "disabled": false,
       "rect": {
         "x": 162,
-        "y": 638,
+        "y": 225,
         "w": 106,
         "h": 39
       }
@@ -204,7 +204,7 @@
       "disabled": false,
       "rect": {
         "x": 273,
-        "y": 639,
+        "y": 226,
         "w": 106,
         "h": 39
       }
@@ -215,7 +215,7 @@
       "disabled": false,
       "rect": {
         "x": 52,
-        "y": 681,
+        "y": 268,
         "w": 106,
         "h": 39
       }
@@ -226,7 +226,7 @@
       "disabled": false,
       "rect": {
         "x": 162,
-        "y": 682,
+        "y": 269,
         "w": 106,
         "h": 39
       }
@@ -237,7 +237,7 @@
       "disabled": false,
       "rect": {
         "x": 272,
-        "y": 681,
+        "y": 268,
         "w": 106,
         "h": 39
       }
@@ -248,7 +248,7 @@
       "disabled": false,
       "rect": {
         "x": 194,
-        "y": 734,
+        "y": 321,
         "w": 75,
         "h": 40
       }
@@ -256,10 +256,10 @@
     {
       "tag": "BUTTON",
       "text": "‹",
-      "disabled": true,
+      "disabled": false,
       "rect": {
         "x": 281,
-        "y": 732,
+        "y": 319,
         "w": 44,
         "h": 44
       }
@@ -270,7 +270,7 @@
       "disabled": false,
       "rect": {
         "x": 333,
-        "y": 732,
+        "y": 319,
         "w": 44,
         "h": 44
       }
@@ -280,10 +280,10 @@
       "text": "自販機",
       "disabled": false,
       "rect": {
-        "x": 55,
-        "y": 789,
-        "w": 144,
-        "h": 178
+        "x": 20,
+        "y": 388,
+        "w": 137,
+        "h": 169
       }
     },
     {
@@ -291,10 +291,10 @@
       "text": "ホーム",
       "disabled": false,
       "rect": {
-        "x": 183,
-        "y": 791,
-        "w": 142,
-        "h": 177
+        "x": 140,
+        "y": 362,
+        "w": 151,
+        "h": 188
       }
     },
     {
@@ -302,119 +302,42 @@
       "text": "改札",
       "disabled": false,
       "rect": {
-        "x": 311,
-        "y": 792,
-        "w": 140,
-        "h": 175
+        "x": 276,
+        "y": 389,
+        "w": 133,
+        "h": 166
       }
     },
     {
       "tag": "BUTTON",
-      "text": "×",
+      "text": "途中",
       "disabled": false,
       "rect": {
-        "x": 371,
-        "y": 10,
-        "w": 46,
-        "h": 46
+        "x": 402,
+        "y": 389,
+        "w": 135,
+        "h": 168
+      }
+    },
+    {
+      "tag": "TEXTAREA",
+      "text": "ひとことだけでも、長くても。",
+      "disabled": false,
+      "rect": {
+        "x": 55,
+        "y": 636,
+        "w": 320,
+        "h": 54
       }
     },
     {
       "tag": "BUTTON",
-      "text": "まち",
+      "text": "残す",
       "disabled": false,
       "rect": {
-        "x": 13,
-        "y": 63,
-        "w": 53,
-        "h": 36
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "部屋",
-      "disabled": false,
-      "rect": {
-        "x": 71,
-        "y": 63,
-        "w": 52,
-        "h": 36
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "買ったもの",
-      "disabled": false,
-      "rect": {
-        "x": 128,
-        "y": 63,
-        "w": 102,
-        "h": 36
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "遊び",
-      "disabled": false,
-      "rect": {
-        "x": 234,
-        "y": 63,
-        "w": 52,
-        "h": 36
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "食べもの",
-      "disabled": false,
-      "rect": {
-        "x": 292,
-        "y": 63,
-        "w": 85,
-        "h": 36
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "その他",
-      "disabled": false,
-      "rect": {
-        "x": 13,
-        "y": 104,
-        "w": 69,
-        "h": 36
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "‹",
-      "disabled": false,
-      "rect": {
-        "x": 2,
-        "y": 484,
-        "w": 44,
-        "h": 44
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "›",
-      "disabled": false,
-      "rect": {
-        "x": 384,
-        "y": 484,
-        "w": 44,
-        "h": 44
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "この写真にする",
-      "disabled": false,
-      "rect": {
-        "x": 144,
-        "y": 874,
-        "w": 142,
+        "x": 260,
+        "y": 640,
+        "w": 128,
         "h": 48
       }
     }
@@ -934,6 +857,21 @@
       "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-e-20261017-0955-pearl-5c8n#diary",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/855e953052d63bd7878f988e27dfc4dd608febc4/live-results/mofu-vis-e-20261017-0955-pearl-5c8n/current.jpg",
       "text": "作品へ移動\nNIKO² ATELIER\nDream\nDiary\nAbout\n\nNIKO² DIARY\nDiary\n今日のことを、ひとつだけ。\n10月17日 10:07\nTODAY\n今日を残す\n選んだ記憶が、ここに書きとめてあります。\nあなたの言葉を、添えても構いません。\n✦\nいまの気配\n\n静か\n\nきらきら\n\nぼんやり\n\nざわざわ\n\n甘い\n\n雨っぽい\n\n眠い\n\n何もない\nPHOTO\n写真\n選択なし\nまち\n部屋\n買ったもの\n遊び\n食べもの\nその他\n写真を眺める\n‹\n›\n\n\n自販機\n\n\nホーム\n\n\n改札\n\n\n途中\n\n\nロッカー\n\n\nエレベーター\n\n\nガラス扉\n\n\n空席\n\n\n雨の改札\n\n\n22:47\n\n\n青空\n\n\n夕方\n\n\n夜空\n\n\n空の間\n\n\n夕方の壁\n\n\n雨あがり\n言葉\nOPTIONAL\nこの端末だけに残ります\n残す\n2026年10月\nMONTHLY REFLECTION\n今月の景色\nまだ何も残っていません。\n最初のひとつを持ち帰ると、ここから景色が育ちます。\nARCHIVE\n前の日々をひらく\n\nWHAT REMAINED\n残ったものを見る\nアトリエへ戻る\n\n×\nまちの写真\n写真を眺める\n2 / 16\nまち\n部屋\n買ったもの\n遊び\n食べもの\nその他\n\n‹\n\nホーム\n\n›\n未選択この写真にする"
+    },
+    {
+      "number": 36,
+      "at": "2026-10-17T01:08:57.889Z",
+      "action": {
+        "id": "e4-35-gallery-select",
+        "op": "tap",
+        "x": 215,
+        "y": 900,
+        "note": "Choose built-in gallery photo preview only, not Save Diary"
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-e-20261017-0955-pearl-5c8n#diary",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/4e2078c812496257795d728b3ebbc9ce7580667d/live-results/mofu-vis-e-20261017-0955-pearl-5c8n/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\nDream\nDiary\nAbout\n\nNIKO² DIARY\nDiary\n今日のことを、ひとつだけ。\n10月17日 10:07\nTODAY\n今日を残す\n選んだ記憶が、ここに書きとめてあります。\nあなたの言葉を、添えても構いません。\n✦\nいまの気配\n\n静か\n\nきらきら\n\nぼんやり\n\nざわざわ\n\n甘い\n\n雨っぽい\n\n眠い\n\n何もない\nPHOTO\n写真\nホーム\nまち\n部屋\n買ったもの\n遊び\n食べもの\nその他\n写真を眺める\n‹\n›\n\n\n自販機\n\n\nホーム\n\n\n改札\n\n\n途中\n\n\nロッカー\n\n\nエレベーター\n\n\nガラス扉\n\n\n空席\n\n\n雨の改札\n\n\n22:47\n\n\n青空\n\n\n夕方\n\n\n夜空\n\n\n空の間\n\n\n夕方の壁\n\n\n雨あがり\n言葉\nOPTIONAL\nこの端末だけに残ります\n残す\n2026年10月\nMONTHLY REFLECTION\n今月の景色\nまだ何も残っていません。\n最初のひとつを持ち帰ると、ここから景色が育ちます。\nARCHIVE\n前の日々をひらく\n\nWHAT REMAINED\n残ったものを見る\nアトリエへ戻る\n"
     }
   ]
 }
