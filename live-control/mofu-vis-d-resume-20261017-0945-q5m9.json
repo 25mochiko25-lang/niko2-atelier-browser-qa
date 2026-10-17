@@ -1,7 +1,5 @@
 {
-  "id": "dr30-diary-return",
-  "op": "tap",
-  "x": 327,
-  "y": 280,
-  "note": "Return via visible ROOM NULL control without saving any Diary data."
+  "id": "dr31-stop",
+  "op": "stop",
+  "reason": "D visual audit complete: ROOM NULL door, interior, curtain/light visual taps, Diary link and back verified; predecessor Cabinet/CHANNEL 00 evidence reviewed."
 }
