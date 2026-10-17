@@ -1,7 +1,7 @@
 {
-  "id": "e3-08-leave",
+  "id": "e3-09-return-home",
   "op": "tap",
-  "x": 70,
-  "y": 888,
-  "note": "Open the public DREAM MEMORY dialog via leave dream"
+  "x": 210,
+  "y": 722,
+  "note": "Use '何も残さず、アトリエへ戻る' without saving or posting"
 }
