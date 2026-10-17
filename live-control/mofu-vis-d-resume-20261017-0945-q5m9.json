@@ -1,7 +1,7 @@
 {
-  "id": "dr22-tutorial-done",
+  "id": "dr23-world",
   "op": "tap",
-  "x": 373,
-  "y": 858,
+  "x": 216,
+  "y": 909,
   "note": "Finish visible onboarding, then enter WORLD via visible link."
 }
