@@ -1,6 +1,7 @@
 {
-  "id": "r16",
-  "op": "look",
-  "wait": 1800,
-  "note": "Wait for visible post-gate scene to settle before departure"
+  "id": "r17",
+  "op": "tap",
+  "x": 71,
+  "y": 891,
+  "note": "Use visible 夢を離れる to reach public WORLD navigation"
 }
