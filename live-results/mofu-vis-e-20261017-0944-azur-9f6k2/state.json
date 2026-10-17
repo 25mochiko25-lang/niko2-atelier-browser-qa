@@ -6,21 +6,21 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-17T00:45:24.800Z",
-  "updatedAt": "2026-10-17T00:49:13.868Z",
-  "lastCommand": "e3-13-finish",
+  "updatedAt": "2026-10-17T00:49:28.440Z",
+  "lastCommand": "e3-14-open-atelier",
   "stopReason": null,
   "action": {
-    "id": "e3-13-finish",
+    "id": "e3-14-open-atelier",
     "op": "tap",
-    "x": 372,
-    "y": 857,
-    "note": "Finish post-Garden presentation to see actual HOME"
+    "x": 352,
+    "y": 350,
+    "note": "Open FROM THE ATELIER envelope visible on HOME"
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/76c4f86efc47228802b44aa0a43431db66bb0a6c/live-results/mofu-vis-e-20261017-0944-azur-9f6k2/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/c63d11d14341aa743b9757d8b6eb3f39f7576f14/live-results/mofu-vis-e-20261017-0944-azur-9f6k2/current.jpg",
   "readOnly": true,
-  "blockedWrites": 7,
-  "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-e-20261017-0944-azur-9f6k2",
+  "blockedWrites": 10,
+  "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-e-20261017-0944-azur-9f6k2#notes",
   "title": "NIKO² ATELIER",
   "viewport": {
     "width": 430,
@@ -31,8 +31,52 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n \nWORLD\nWORLD\n水面の向こうに、いくつかの場所がひらいています。\n\n\nABOUT\nもふもふはいます。\nPLAY / SHARE / FAN WORK\nNIKO²での生活について\n好きな形で遊ぶための、小さな境界。\nDEAR ATELIER\nお手紙を送る\nAtelierの受取箱へ。\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n",
+  "text": "作品へ移動\nNIKO² ATELIER\nDream\nDiary\nAbout\n\nNIKO² ATELIER / FIELD RECORDS\n\nFROM THE ATELIER\nALL\nSPECIAL\nNOTES\nFOUNDER\n\n2026.10.08 / 16:14\nSPECIAL / FEATURED / ISSUE 000\nALPHA OPENING\n夢を作ったり、壊したり、もう一度作ったりしていました。\nREAD ISSUE 000\n2026.10.16 / 21:00\nNOTES / MOFUMOFU POST\n📮 はじめてのお手紙が届きました！\n\nREAD ARTICLE\n↗\n2026.09.11 / UNKNOWN\nNOTES / GENESIS\nポートフォリオを作るつもりだった。\n\nREAD ARTICLE\n↗\nアトリエへ戻る\n",
   "controls": [
+    {
+      "tag": "A",
+      "text": "NIKO² ATELIER",
+      "disabled": false,
+      "rect": {
+        "x": 22,
+        "y": 13,
+        "w": 118,
+        "h": 44
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Dream",
+      "disabled": false,
+      "rect": {
+        "x": 166,
+        "y": 13,
+        "w": 44,
+        "h": 44
+      }
+    },
+    {
+      "tag": "A",
+      "text": "Diary",
+      "disabled": false,
+      "rect": {
+        "x": 232,
+        "y": 13,
+        "w": 44,
+        "h": 44
+      }
+    },
+    {
+      "tag": "A",
+      "text": "About",
+      "disabled": false,
+      "rect": {
+        "x": 297,
+        "y": 13,
+        "w": 44,
+        "h": 44
+      }
+    },
     {
       "tag": "BUTTON",
       "text": "音をオンにする",
@@ -45,47 +89,80 @@
       }
     },
     {
-      "tag": "A",
-      "text": "FROM THE ATELIERを開く",
+      "tag": "BUTTON",
+      "text": "ALL",
       "disabled": false,
       "rect": {
-        "x": 310,
-        "y": 303,
-        "w": 91,
-        "h": 92
-      }
-    },
-    {
-      "tag": "A",
-      "text": "Diaryを開く",
-      "disabled": false,
-      "rect": {
-        "x": 20,
-        "y": 330,
-        "w": 147,
-        "h": 147
+        "x": 12,
+        "y": 212,
+        "w": 55,
+        "h": 44
       }
     },
     {
       "tag": "BUTTON",
-      "text": "Enter the dream",
+      "text": "SPECIAL",
       "disabled": false,
       "rect": {
-        "x": 110,
-        "y": 545,
-        "w": 210,
-        "h": 70
+        "x": 69,
+        "y": 212,
+        "w": 97,
+        "h": 44
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "NOTES",
+      "disabled": false,
+      "rect": {
+        "x": 168,
+        "y": 212,
+        "w": 81,
+        "h": 44
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "FOUNDER",
+      "disabled": false,
+      "rect": {
+        "x": 251,
+        "y": 212,
+        "w": 109,
+        "h": 44
       }
     },
     {
       "tag": "A",
-      "text": "WORLDを開く",
+      "text": "2026.10.08 / 16:14\nSPECIAL / FEATURED / ISSUE 000\nALPHA OPENING\n夢を作ったり、壊したり、もう一度作ったりしていました。\nREAD ISSUE 000",
       "disabled": false,
       "rect": {
-        "x": 26,
-        "y": 878,
-        "w": 378,
-        "h": 213
+        "x": 12,
+        "y": 274,
+        "w": 406,
+        "h": 424
+      }
+    },
+    {
+      "tag": "A",
+      "text": "2026.10.16 / 21:00\nNOTES / MOFUMOFU POST\n📮 はじめてのお手紙が届きました！\n\nREAD ARTICLE\n↗",
+      "disabled": false,
+      "rect": {
+        "x": 12,
+        "y": 732,
+        "w": 406,
+        "h": 144
+      }
+    },
+    {
+      "tag": "A",
+      "text": "2026.09.11 / UNKNOWN\nNOTES / GENESIS\nポートフォリオを作るつもりだった。\n\nREAD ARTICLE\n↗",
+      "disabled": false,
+      "rect": {
+        "x": 12,
+        "y": 876,
+        "w": 406,
+        "h": 144
       }
     }
   ],
@@ -296,6 +373,21 @@
       "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-e-20261017-0944-azur-9f6k2",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/76c4f86efc47228802b44aa0a43431db66bb0a6c/live-results/mofu-vis-e-20261017-0944-azur-9f6k2/current.jpg",
       "text": "作品へ移動\n \nWORLD\nWORLD\n水面の向こうに、いくつかの場所がひらいています。\n\n\nABOUT\nもふもふはいます。\nPLAY / SHARE / FAN WORK\nNIKO²での生活について\n好きな形で遊ぶための、小さな境界。\nDEAR ATELIER\nお手紙を送る\nAtelierの受取箱へ。\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n"
+    },
+    {
+      "number": 15,
+      "at": "2026-10-17T00:49:28.440Z",
+      "action": {
+        "id": "e3-14-open-atelier",
+        "op": "tap",
+        "x": 352,
+        "y": 350,
+        "note": "Open FROM THE ATELIER envelope visible on HOME"
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-e-20261017-0944-azur-9f6k2#notes",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/c63d11d14341aa743b9757d8b6eb3f39f7576f14/live-results/mofu-vis-e-20261017-0944-azur-9f6k2/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\nDream\nDiary\nAbout\n\nNIKO² ATELIER / FIELD RECORDS\n\nFROM THE ATELIER\nALL\nSPECIAL\nNOTES\nFOUNDER\n\n2026.10.08 / 16:14\nSPECIAL / FEATURED / ISSUE 000\nALPHA OPENING\n夢を作ったり、壊したり、もう一度作ったりしていました。\nREAD ISSUE 000\n2026.10.16 / 21:00\nNOTES / MOFUMOFU POST\n📮 はじめてのお手紙が届きました！\n\nREAD ARTICLE\n↗\n2026.09.11 / UNKNOWN\nNOTES / GENESIS\nポートフォリオを作るつもりだった。\n\nREAD ARTICLE\n↗\nアトリエへ戻る\n"
     }
   ]
 }
