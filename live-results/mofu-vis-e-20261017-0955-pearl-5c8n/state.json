@@ -6,17 +6,18 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-17T00:55:08.310Z",
-  "updatedAt": "2026-10-17T01:00:36.279Z",
-  "lastCommand": "e4-15-diary-pagedown1",
+  "updatedAt": "2026-10-17T01:01:01.457Z",
+  "lastCommand": "e4-16-diary-optional",
   "stopReason": null,
   "action": {
-    "id": "e4-15-diary-pagedown1",
-    "op": "key",
-    "key": "PageDown",
-    "note": "Inspect Diary lower page using PageDown; not touch swipe"
+    "id": "e4-16-diary-optional",
+    "op": "tap",
+    "x": 364,
+    "y": 275,
+    "note": "Inspect optional Diary writing field via visible plus icon, no typing or saving"
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/ed9ae576419d1f363c30a54fca8453a0e4e3cb39/live-results/mofu-vis-e-20261017-0955-pearl-5c8n/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/92c67fab0da4997b0fc3bfd01bf9c1682fe61c68/live-results/mofu-vis-e-20261017-0955-pearl-5c8n/current.jpg",
   "readOnly": true,
   "blockedWrites": 11,
   "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-e-20261017-0955-pearl-5c8n#diary",
@@ -30,7 +31,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\nNIKO² ATELIER\nDream\nDiary\nAbout\n\nNIKO² DIARY\nDiary\n今日のことを、ひとつだけ。\n10月17日 10:00\nTODAY\n今日を残す\n選んだ記憶が、ここに書きとめてあります。\nあなたの言葉を、添えても構いません。\n✦\nいまの気配\n\n静か\n\nきらきら\n\nぼんやり\n\nざわざわ\n\n甘い\n\n雨っぽい\n\n眠い\n\n何もない\nPHOTO\n写真\n選択なし\nまち\n部屋\n買ったもの\n遊び\n食べもの\nその他\n写真を眺める\n‹\n›\n\n\n自販機\n\n\nホーム\n\n\n改札\n\n\n途中\n\n\nロッカー\n\n\nエレベーター\n\n\nガラス扉\n\n\n空席\n\n\n雨の改札\n\n\n22:47\n\n\n青空\n\n\n夕方\n\n\n夜空\n\n\n空の間\n\n\n夕方の壁\n\n\n雨あがり\n言葉\nOPTIONAL\nこの端末だけに残ります\n残す\n2026年10月\nMONTHLY REFLECTION\n今月の景色\nまだ何も残っていません。\n最初のひとつを持ち帰ると、ここから景色が育ちます。\nARCHIVE\n前の日々をひらく\n\nWHAT REMAINED\n残ったものを見る\nアトリエへ戻る\n",
+  "text": "作品へ移動\nNIKO² ATELIER\nDream\nDiary\nAbout\n\nNIKO² DIARY\nDiary\n今日のことを、ひとつだけ。\n10月17日 10:00\nTODAY\n今日を残す\n選んだ記憶が、ここに書きとめてあります。\nあなたの言葉を、添えても構いません。\n✦\nいまの気配\n\n静か\n\nきらきら\n\nぼんやり\n\nざわざわ\n\n甘い\n\n雨っぽい\n\n眠い\n\n何もない\nPHOTO\n写真\n選択なし\nまち\n部屋\n買ったもの\n遊び\n食べもの\nその他\n写真を眺める\n‹\n›\n\n\n自販機\n\n\nホーム\n\n\n改札\n\n\n途中\n\n\nロッカー\n\n\nエレベーター\n\n\nガラス扉\n\n\n空席\n\n\n雨の改札\n\n\n22:47\n\n\n青空\n\n\n夕方\n\n\n夜空\n\n\n空の間\n\n\n夕方の壁\n\n\n雨あがり\n言葉\nOPTIONAL\n0 / 6000\nこの端末だけに残ります\n残す\n2026年10月\nMONTHLY REFLECTION\n今月の景色\nまだ何も残っていません。\n最初のひとつを持ち帰ると、ここから景色が育ちます。\nARCHIVE\n前の日々をひらく\n\nWHAT REMAINED\n残ったものを見る\nアトリエへ戻る\n",
   "controls": [
     {
       "tag": "A",
@@ -170,7 +171,7 @@
       "disabled": true,
       "rect": {
         "x": 260,
-        "y": 309,
+        "y": 387,
         "w": 128,
         "h": 48
       }
@@ -412,6 +413,21 @@
       "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-e-20261017-0955-pearl-5c8n#diary",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/ed9ae576419d1f363c30a54fca8453a0e4e3cb39/live-results/mofu-vis-e-20261017-0955-pearl-5c8n/current.jpg",
       "text": "作品へ移動\nNIKO² ATELIER\nDream\nDiary\nAbout\n\nNIKO² DIARY\nDiary\n今日のことを、ひとつだけ。\n10月17日 10:00\nTODAY\n今日を残す\n選んだ記憶が、ここに書きとめてあります。\nあなたの言葉を、添えても構いません。\n✦\nいまの気配\n\n静か\n\nきらきら\n\nぼんやり\n\nざわざわ\n\n甘い\n\n雨っぽい\n\n眠い\n\n何もない\nPHOTO\n写真\n選択なし\nまち\n部屋\n買ったもの\n遊び\n食べもの\nその他\n写真を眺める\n‹\n›\n\n\n自販機\n\n\nホーム\n\n\n改札\n\n\n途中\n\n\nロッカー\n\n\nエレベーター\n\n\nガラス扉\n\n\n空席\n\n\n雨の改札\n\n\n22:47\n\n\n青空\n\n\n夕方\n\n\n夜空\n\n\n空の間\n\n\n夕方の壁\n\n\n雨あがり\n言葉\nOPTIONAL\nこの端末だけに残ります\n残す\n2026年10月\nMONTHLY REFLECTION\n今月の景色\nまだ何も残っていません。\n最初のひとつを持ち帰ると、ここから景色が育ちます。\nARCHIVE\n前の日々をひらく\n\nWHAT REMAINED\n残ったものを見る\nアトリエへ戻る\n"
+    },
+    {
+      "number": 17,
+      "at": "2026-10-17T01:01:01.457Z",
+      "action": {
+        "id": "e4-16-diary-optional",
+        "op": "tap",
+        "x": 364,
+        "y": 275,
+        "note": "Inspect optional Diary writing field via visible plus icon, no typing or saving"
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-e-20261017-0955-pearl-5c8n#diary",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/92c67fab0da4997b0fc3bfd01bf9c1682fe61c68/live-results/mofu-vis-e-20261017-0955-pearl-5c8n/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\nDream\nDiary\nAbout\n\nNIKO² DIARY\nDiary\n今日のことを、ひとつだけ。\n10月17日 10:00\nTODAY\n今日を残す\n選んだ記憶が、ここに書きとめてあります。\nあなたの言葉を、添えても構いません。\n✦\nいまの気配\n\n静か\n\nきらきら\n\nぼんやり\n\nざわざわ\n\n甘い\n\n雨っぽい\n\n眠い\n\n何もない\nPHOTO\n写真\n選択なし\nまち\n部屋\n買ったもの\n遊び\n食べもの\nその他\n写真を眺める\n‹\n›\n\n\n自販機\n\n\nホーム\n\n\n改札\n\n\n途中\n\n\nロッカー\n\n\nエレベーター\n\n\nガラス扉\n\n\n空席\n\n\n雨の改札\n\n\n22:47\n\n\n青空\n\n\n夕方\n\n\n夜空\n\n\n空の間\n\n\n夕方の壁\n\n\n雨あがり\n言葉\nOPTIONAL\n0 / 6000\nこの端末だけに残ります\n残す\n2026年10月\nMONTHLY REFLECTION\n今月の景色\nまだ何も残っていません。\n最初のひとつを持ち帰ると、ここから景色が育ちます。\nARCHIVE\n前の日々をひらく\n\nWHAT REMAINED\n残ったものを見る\nアトリエへ戻る\n"
     }
   ]
 }
