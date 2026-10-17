@@ -1,7 +1,7 @@
 {
-  "id": "e5-03-intro-final",
+  "id": "e5-04-enter-garden",
   "op": "tap",
-  "x": 373,
-  "y": 856,
-  "note": "Advance visible INTERACTION next to welcome panel"
+  "x": 372,
+  "y": 858,
+  "note": "Enter via visible welcome control"
 }
