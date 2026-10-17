@@ -6,18 +6,16 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-17T04:34:34.951Z",
-  "updatedAt": "2026-10-17T04:43:01.152Z",
-  "lastCommand": "e5-26-letter-destination",
-  "stopReason": null,
+  "updatedAt": "2026-10-17T04:43:10.679Z",
+  "lastCommand": "e5-end-stop",
+  "stopReason": "Completed E visual continuation: published GENESIS article, category filters, and public DEAR form; no personal data submitted.",
   "action": {
-    "id": "e5-26-letter-destination",
-    "op": "tap",
-    "x": 241,
-    "y": 528,
-    "note": "Inspect visible recipient select menu only; do not fill or send form"
+    "id": "e5-end-stop",
+    "op": "stop",
+    "reason": "Completed E visual continuation: published GENESIS article, category filters, and public DEAR form; no personal data submitted."
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/01c2cd9c372e7843a6c66abf48ee212b814fd72f/live-results/mofu-vis-e-resume-20261017-p6q8n4/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/c8112b19c883bd3f1246884be5aaf7b1197a44c8/live-results/mofu-vis-e-resume-20261017-p6q8n4/current.jpg",
   "readOnly": true,
   "blockedWrites": 27,
   "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-e-resume-20261017-p6q8n4#dear",
@@ -548,6 +546,19 @@
       "error": null,
       "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-e-resume-20261017-p6q8n4#dear",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/01c2cd9c372e7843a6c66abf48ee212b814fd72f/live-results/mofu-vis-e-resume-20261017-p6q8n4/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\nDream\nDiary\nAbout\n\nMOFUMOFU POST DESK\n\nDEAR ATELIER\nお手紙を送る\n\n書きたいことだけ置いていってください。\n届いた手紙は、Atelierの白いやつらが勝手に机へ仕分けます。\nLETTER DESK / RECEIVING\nお手紙の行き先\n⌄\n相談のお手紙は、白いやつらが読んでから机を決めます。\nお名前 なくても大丈夫\n\n返信先 返事が必要なら\n\nお手紙\n\nWebsite\n送った内容と返信先は、Atelierへの連絡対応のために使います。お手紙はCloudflareを経由してAtelierの受信窓口へ届きます。Diaryの記録は送りません。\n\nお手紙を預ける\n送信確認がうまくいきませんでした。少し待って、もう一度どうぞ。\nINTERNAL ROUTING / VISIBLE BY ACCIDENT\nLETTERS → CONSULT → LOST + FOUND\n\n担当：白いやつら\nアトリエへ戻る\n"
+    },
+    {
+      "number": 29,
+      "at": "2026-10-17T04:43:10.679Z",
+      "action": {
+        "id": "e5-end-stop",
+        "op": "stop",
+        "reason": "Completed E visual continuation: published GENESIS article, category filters, and public DEAR form; no personal data submitted."
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-e-resume-20261017-p6q8n4#dear",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/c8112b19c883bd3f1246884be5aaf7b1197a44c8/live-results/mofu-vis-e-resume-20261017-p6q8n4/current.jpg",
       "text": "作品へ移動\nNIKO² ATELIER\nDream\nDiary\nAbout\n\nMOFUMOFU POST DESK\n\nDEAR ATELIER\nお手紙を送る\n\n書きたいことだけ置いていってください。\n届いた手紙は、Atelierの白いやつらが勝手に机へ仕分けます。\nLETTER DESK / RECEIVING\nお手紙の行き先\n⌄\n相談のお手紙は、白いやつらが読んでから机を決めます。\nお名前 なくても大丈夫\n\n返信先 返事が必要なら\n\nお手紙\n\nWebsite\n送った内容と返信先は、Atelierへの連絡対応のために使います。お手紙はCloudflareを経由してAtelierの受信窓口へ届きます。Diaryの記録は送りません。\n\nお手紙を預ける\n送信確認がうまくいきませんでした。少し待って、もう一度どうぞ。\nINTERNAL ROUTING / VISIBLE BY ACCIDENT\nLETTERS → CONSULT → LOST + FOUND\n\n担当：白いやつら\nアトリエへ戻る\n"
     }
   ]
