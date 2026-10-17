@@ -6,20 +6,21 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-17T00:45:24.800Z",
-  "updatedAt": "2026-10-17T00:50:18.479Z",
-  "lastCommand": "e3-16-letter-settle",
+  "updatedAt": "2026-10-17T00:50:38.375Z",
+  "lastCommand": "e3-17-letter-back-tap",
   "stopReason": null,
   "action": {
-    "id": "e3-16-letter-settle",
-    "op": "wait",
-    "ms": 1600,
-    "note": "Check whether article back-link overlap persists after layout settles"
+    "id": "e3-17-letter-back-tap",
+    "op": "tap",
+    "x": 170,
+    "y": 8,
+    "note": "Test tiny visible return link area above overlapping sticky header"
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/4bf384d70c57dab5b89df8dd78c2278c3aceaf72/live-results/mofu-vis-e-20261017-0944-azur-9f6k2/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/2be965bc4b1dfb971909deee034c234750b71af0/live-results/mofu-vis-e-20261017-0944-azur-9f6k2/current.jpg",
   "readOnly": true,
-  "blockedWrites": 10,
-  "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-e-20261017-0944-azur-9f6k2#mofumofu-post-first-letter",
+  "blockedWrites": 11,
+  "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-e-20261017-0944-azur-9f6k2#notes",
   "title": "NIKO² ATELIER",
   "viewport": {
     "width": 430,
@@ -30,7 +31,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\nNIKO² ATELIER\nDream\nDiary\nAbout\n\nFROM THE ATELIERへ戻る\nNOTES / MOFUMOFU POST\n\n2026.10.16 / 21:00\n📮 はじめてのお手紙が届きました！\n\nアトリエのポストに、はじめてお手紙が届きました。 白いもふもふも、かなり浮かれています。  送ってくれた方へ。ありがとう！ ちゃんと、届いています。\n",
+  "text": "作品へ移動\nNIKO² ATELIER\nDream\nDiary\nAbout\n\nNIKO² ATELIER / FIELD RECORDS\n\nFROM THE ATELIER\nALL\nSPECIAL\nNOTES\nFOUNDER\n\n2026.10.08 / 16:14\nSPECIAL / FEATURED / ISSUE 000\nALPHA OPENING\n夢を作ったり、壊したり、もう一度作ったりしていました。\nREAD ISSUE 000\n2026.10.16 / 21:00\nNOTES / MOFUMOFU POST\n📮 はじめてのお手紙が届きました！\n\nREAD ARTICLE\n↗\n2026.09.11 / UNKNOWN\nNOTES / GENESIS\nポートフォリオを作るつもりだった。\n\nREAD ARTICLE\n↗\nアトリエへ戻る\n",
   "controls": [
     {
       "tag": "A",
@@ -88,14 +89,80 @@
       }
     },
     {
-      "tag": "A",
-      "text": "FROM THE ATELIERへ戻る",
+      "tag": "BUTTON",
+      "text": "ALL",
       "disabled": false,
       "rect": {
-        "x": 14,
-        "y": 1,
-        "w": 177,
-        "h": 19
+        "x": 12,
+        "y": 212,
+        "w": 55,
+        "h": 44
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "SPECIAL",
+      "disabled": false,
+      "rect": {
+        "x": 69,
+        "y": 212,
+        "w": 97,
+        "h": 44
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "NOTES",
+      "disabled": false,
+      "rect": {
+        "x": 168,
+        "y": 212,
+        "w": 81,
+        "h": 44
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "FOUNDER",
+      "disabled": false,
+      "rect": {
+        "x": 251,
+        "y": 212,
+        "w": 109,
+        "h": 44
+      }
+    },
+    {
+      "tag": "A",
+      "text": "2026.10.08 / 16:14\nSPECIAL / FEATURED / ISSUE 000\nALPHA OPENING\n夢を作ったり、壊したり、もう一度作ったりしていました。\nREAD ISSUE 000",
+      "disabled": false,
+      "rect": {
+        "x": 12,
+        "y": 274,
+        "w": 406,
+        "h": 424
+      }
+    },
+    {
+      "tag": "A",
+      "text": "2026.10.16 / 21:00\nNOTES / MOFUMOFU POST\n📮 はじめてのお手紙が届きました！\n\nREAD ARTICLE\n↗",
+      "disabled": false,
+      "rect": {
+        "x": 12,
+        "y": 732,
+        "w": 406,
+        "h": 144
+      }
+    },
+    {
+      "tag": "A",
+      "text": "2026.09.11 / UNKNOWN\nNOTES / GENESIS\nポートフォリオを作るつもりだった。\n\nREAD ARTICLE\n↗",
+      "disabled": false,
+      "rect": {
+        "x": 12,
+        "y": 876,
+        "w": 406,
+        "h": 144
       }
     }
   ],
@@ -350,6 +417,21 @@
       "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-e-20261017-0944-azur-9f6k2#mofumofu-post-first-letter",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/4bf384d70c57dab5b89df8dd78c2278c3aceaf72/live-results/mofu-vis-e-20261017-0944-azur-9f6k2/current.jpg",
       "text": "作品へ移動\nNIKO² ATELIER\nDream\nDiary\nAbout\n\nFROM THE ATELIERへ戻る\nNOTES / MOFUMOFU POST\n\n2026.10.16 / 21:00\n📮 はじめてのお手紙が届きました！\n\nアトリエのポストに、はじめてお手紙が届きました。 白いもふもふも、かなり浮かれています。  送ってくれた方へ。ありがとう！ ちゃんと、届いています。\n"
+    },
+    {
+      "number": 18,
+      "at": "2026-10-17T00:50:38.375Z",
+      "action": {
+        "id": "e3-17-letter-back-tap",
+        "op": "tap",
+        "x": 170,
+        "y": 8,
+        "note": "Test tiny visible return link area above overlapping sticky header"
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-e-20261017-0944-azur-9f6k2#notes",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/2be965bc4b1dfb971909deee034c234750b71af0/live-results/mofu-vis-e-20261017-0944-azur-9f6k2/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\nDream\nDiary\nAbout\n\nNIKO² ATELIER / FIELD RECORDS\n\nFROM THE ATELIER\nALL\nSPECIAL\nNOTES\nFOUNDER\n\n2026.10.08 / 16:14\nSPECIAL / FEATURED / ISSUE 000\nALPHA OPENING\n夢を作ったり、壊したり、もう一度作ったりしていました。\nREAD ISSUE 000\n2026.10.16 / 21:00\nNOTES / MOFUMOFU POST\n📮 はじめてのお手紙が届きました！\n\nREAD ARTICLE\n↗\n2026.09.11 / UNKNOWN\nNOTES / GENESIS\nポートフォリオを作るつもりだった。\n\nREAD ARTICLE\n↗\nアトリエへ戻る\n"
     }
   ]
 }
