@@ -1,7 +1,7 @@
 {
-  "id": "dr08-perfume",
+  "id": "dr09-close-perfume",
   "op": "tap",
-  "x": 103,
-  "y": 558,
+  "x": 376,
+  "y": 754,
   "note": "Replay previously inspected Garden memory sequence."
 }
