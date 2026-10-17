@@ -6,18 +6,20 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-17T22:05:16.183Z",
-  "updatedAt": "2026-10-17T22:08:01.086Z",
-  "lastCommand": "g06",
+  "updatedAt": "2026-10-17T22:08:20.863Z",
+  "lastCommand": "g07",
   "stopReason": null,
   "action": {
-    "id": "g06",
-    "op": "look",
-    "note": "Let returning-visitor recollection settle"
+    "id": "g07",
+    "op": "tap",
+    "x": 283,
+    "y": 520,
+    "note": "Touch the small knot near the chair"
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/1f97a30a90d080e151ceb4e6e7522e1d0064a64f/live-results/mofu-vis-g-20261018-t7c6n4/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/3663b236e7e906e45578efd588c9922e648bedcb/live-results/mofu-vis-g-20261018-t7c6n4/current.jpg",
   "readOnly": true,
-  "blockedWrites": 4,
+  "blockedWrites": 5,
   "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-g-20261018-t7c6n4#quiet",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -29,7 +31,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n夢を離れる",
+  "text": "作品へ移動\n夢の見覚え ✧︎\n\nくまの右手に、青い糸がひとつだけほどけていた。\n\n持ち帰る\n\n夢を離れる",
   "controls": [
     {
       "tag": "BUTTON",
@@ -58,10 +60,21 @@
       "text": "待っていた糸結びに触れる",
       "disabled": false,
       "rect": {
-        "x": 253,
-        "y": 491,
+        "x": 254,
+        "y": 490,
         "w": 69,
         "h": 69
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "持ち帰る",
+      "disabled": false,
+      "rect": {
+        "x": 159,
+        "y": 793,
+        "w": 112,
+        "h": 44
       }
     },
     {
@@ -177,6 +190,21 @@
       "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-g-20261018-t7c6n4#quiet",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/1f97a30a90d080e151ceb4e6e7522e1d0064a64f/live-results/mofu-vis-g-20261018-t7c6n4/current.jpg",
       "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n夢を離れる"
+    },
+    {
+      "number": 8,
+      "at": "2026-10-17T22:08:20.863Z",
+      "action": {
+        "id": "g07",
+        "op": "tap",
+        "x": 283,
+        "y": 520,
+        "note": "Touch the small knot near the chair"
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-g-20261018-t7c6n4#quiet",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/3663b236e7e906e45578efd588c9922e648bedcb/live-results/mofu-vis-g-20261018-t7c6n4/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\nくまの右手に、青い糸がひとつだけほどけていた。\n\n持ち帰る\n\n夢を離れる"
     }
   ]
 }
