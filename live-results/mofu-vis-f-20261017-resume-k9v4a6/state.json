@@ -6,20 +6,21 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-17T04:01:12.828Z",
-  "updatedAt": "2026-10-17T04:16:19.538Z",
-  "lastCommand": "r33",
+  "updatedAt": "2026-10-17T04:16:45.390Z",
+  "lastCommand": "r34",
   "stopReason": null,
   "action": {
-    "id": "r33",
-    "op": "key",
-    "key": "PageDown",
-    "note": "Read remainder of Perfume result and inspect lower section, not representing phone swipe"
+    "id": "r34",
+    "op": "tap",
+    "x": 85,
+    "y": 34,
+    "note": "Return to Home via visible brand header; continue public CHANNEL 00 unvisited link inspection"
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/fa4a19396a43cc9b98ce6e9b4b8a12e76385e024/live-results/mofu-vis-f-20261017-resume-k9v4a6/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/82887067fd0ce53f51dae5400b274e986682e9dc/live-results/mofu-vis-f-20261017-resume-k9v4a6/current.jpg",
   "readOnly": true,
-  "blockedWrites": 20,
-  "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-f-20261017-resume-k9v4a6#perfume",
+  "blockedWrites": 22,
+  "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-f-20261017-resume-k9v4a6",
   "title": "NIKO² ATELIER",
   "viewport": {
     "width": 430,
@@ -30,19 +31,8 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\nNIKO² ATELIER\n\n\nDREAM / PM-01\nPERFUME MORGUE\nFRAGRANCE / PENDING\nGOURMAND / 食べられない甘さ\nF-20261017-987D\nCandied Sunday\nGOURMAND / 食べられない甘さ\nEAU DE TOILETTE / 肌に近い\nTOP\n1. 雨 ×1\nMIDDLE\n1. 甘い夢 ×1\nLAST\n1. 燃えた砂糖 ×1\nFORMULA / SCENT CHARACTER\n最初に雨。 少し遅れて甘い夢。 最後に燃えた砂糖が残る。 肌の近くで続く輪郭へ着地する。\nDiaryに持ち帰る\nもう一度調合する\nケーキのいちごは、全部ちょうだい！ ゲームだって、お菓子だって、もっと欲しいの！ プレゼントはまだ？ 毎日買ってほしいのに！ 前のも、大事にしてるもん。\nREAL WORLD ECHOES\nREAL WORLD / TRACE ONLY\nこの香りには、現実にも近い夢がある。\nいまはまだ、名前ではなく三つの手掛かりだけ。\n\nECHO / AIR\nオゾニック\nECHO / HEART\nバニラ\nECHO / TRACE\nプラリネ / キャラメル\n",
+  "text": "作品へ移動\n \nWORLD\nWORLD\n水面の向こうに、いくつかの場所がひらいています。\n\n\nABOUT\nもふもふはいます。\nPLAY / SHARE / FAN WORK\nNIKO²での生活について\n好きな形で遊ぶための、小さな境界。\nDEAR ATELIER\nお手紙を送る\nAtelierの受取箱へ。\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n",
   "controls": [
-    {
-      "tag": "A",
-      "text": "NIKO² ATELIER",
-      "disabled": false,
-      "rect": {
-        "x": 22,
-        "y": 13,
-        "w": 118,
-        "h": 44
-      }
-    },
     {
       "tag": "BUTTON",
       "text": "音をオンにする",
@@ -55,25 +45,47 @@
       }
     },
     {
-      "tag": "BUTTON",
-      "text": "Diaryに持ち帰る",
+      "tag": "A",
+      "text": "FROM THE ATELIERを開く",
       "disabled": false,
       "rect": {
-        "x": 46,
-        "y": 233,
-        "w": 165,
-        "h": 44
+        "x": 310,
+        "y": 303,
+        "w": 91,
+        "h": 92
+      }
+    },
+    {
+      "tag": "A",
+      "text": "Diaryを開く",
+      "disabled": false,
+      "rect": {
+        "x": 20,
+        "y": 330,
+        "w": 147,
+        "h": 147
       }
     },
     {
       "tag": "BUTTON",
-      "text": "もう一度調合する",
+      "text": "Enter the dream",
       "disabled": false,
       "rect": {
-        "x": 219,
-        "y": 233,
-        "w": 165,
-        "h": 44
+        "x": 110,
+        "y": 545,
+        "w": 210,
+        "h": 70
+      }
+    },
+    {
+      "tag": "A",
+      "text": "WORLDを開く",
+      "disabled": false,
+      "rect": {
+        "x": 26,
+        "y": 878,
+        "w": 378,
+        "h": 213
       }
     }
   ],
@@ -581,6 +593,21 @@
       "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-f-20261017-resume-k9v4a6#perfume",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/fa4a19396a43cc9b98ce6e9b4b8a12e76385e024/live-results/mofu-vis-f-20261017-resume-k9v4a6/current.jpg",
       "text": "作品へ移動\nNIKO² ATELIER\n\n\nDREAM / PM-01\nPERFUME MORGUE\nFRAGRANCE / PENDING\nGOURMAND / 食べられない甘さ\nF-20261017-987D\nCandied Sunday\nGOURMAND / 食べられない甘さ\nEAU DE TOILETTE / 肌に近い\nTOP\n1. 雨 ×1\nMIDDLE\n1. 甘い夢 ×1\nLAST\n1. 燃えた砂糖 ×1\nFORMULA / SCENT CHARACTER\n最初に雨。 少し遅れて甘い夢。 最後に燃えた砂糖が残る。 肌の近くで続く輪郭へ着地する。\nDiaryに持ち帰る\nもう一度調合する\nケーキのいちごは、全部ちょうだい！ ゲームだって、お菓子だって、もっと欲しいの！ プレゼントはまだ？ 毎日買ってほしいのに！ 前のも、大事にしてるもん。\nREAL WORLD ECHOES\nREAL WORLD / TRACE ONLY\nこの香りには、現実にも近い夢がある。\nいまはまだ、名前ではなく三つの手掛かりだけ。\n\nECHO / AIR\nオゾニック\nECHO / HEART\nバニラ\nECHO / TRACE\nプラリネ / キャラメル\n"
+    },
+    {
+      "number": 35,
+      "at": "2026-10-17T04:16:45.390Z",
+      "action": {
+        "id": "r34",
+        "op": "tap",
+        "x": 85,
+        "y": 34,
+        "note": "Return to Home via visible brand header; continue public CHANNEL 00 unvisited link inspection"
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-f-20261017-resume-k9v4a6",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/82887067fd0ce53f51dae5400b274e986682e9dc/live-results/mofu-vis-f-20261017-resume-k9v4a6/current.jpg",
+      "text": "作品へ移動\n \nWORLD\nWORLD\n水面の向こうに、いくつかの場所がひらいています。\n\n\nABOUT\nもふもふはいます。\nPLAY / SHARE / FAN WORK\nNIKO²での生活について\n好きな形で遊ぶための、小さな境界。\nDEAR ATELIER\nお手紙を送る\nAtelierの受取箱へ。\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n"
     }
   ]
 }
