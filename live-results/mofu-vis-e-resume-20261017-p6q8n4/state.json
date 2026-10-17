@@ -6,17 +6,18 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-17T04:34:34.951Z",
-  "updatedAt": "2026-10-17T04:37:12.841Z",
-  "lastCommand": "e5-07-quiet-settle",
+  "updatedAt": "2026-10-17T04:37:27.756Z",
+  "lastCommand": "e5-08-leave",
   "stopReason": null,
   "action": {
-    "id": "e5-07-quiet-settle",
-    "op": "wait",
-    "ms": 1800,
-    "note": "Allow quiet-scene exit control to appear"
+    "id": "e5-08-leave",
+    "op": "tap",
+    "x": 73,
+    "y": 891,
+    "note": "Use visible dream exit control to reach memory modal"
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/07aac0f170ca7f3921c59ea0970cfe2c5bb1cfd3/live-results/mofu-vis-e-resume-20261017-p6q8n4/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/af9fcb187825fe2a3ecd8002a70943a9cbadde18/live-results/mofu-vis-e-resume-20261017-p6q8n4/current.jpg",
   "readOnly": true,
   "blockedWrites": 4,
   "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-e-resume-20261017-p6q8n4#quiet",
@@ -30,7 +31,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n夢を離れる",
+  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n夢を離れる\n\nDREAM MEMORY\n\n夢から残ったもの\n\nWORLD MEMORY\nMEMORY FRAGMENT\nくまがいた椅子\nくまの右手に、青い糸がひとつだけほどけていた。\n言葉を添える\n何も残さず、アトリエへ戻る\nDiaryへ持ち帰る",
   "controls": [
     {
       "tag": "BUTTON",
@@ -59,7 +60,7 @@
       "text": "待っていた糸結びに触れる",
       "disabled": false,
       "rect": {
-        "x": 287,
+        "x": 288,
         "y": 610,
         "w": 69,
         "h": 69
@@ -74,6 +75,50 @@
         "y": 870,
         "w": 100,
         "h": 44
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "日記を閉じる",
+      "disabled": false,
+      "rect": {
+        "x": 353,
+        "y": 192,
+        "w": 44,
+        "h": 44
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "言葉を添える",
+      "disabled": false,
+      "rect": {
+        "x": 38,
+        "y": 566,
+        "w": 103,
+        "h": 44
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "何も残さず、アトリエへ戻る",
+      "disabled": false,
+      "rect": {
+        "x": 38,
+        "y": 700,
+        "w": 354,
+        "h": 40
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Diaryへ持ち帰る",
+      "disabled": false,
+      "rect": {
+        "x": 38,
+        "y": 645,
+        "w": 354,
+        "h": 48
       }
     }
   ],
@@ -194,6 +239,21 @@
       "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-e-resume-20261017-p6q8n4#quiet",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/07aac0f170ca7f3921c59ea0970cfe2c5bb1cfd3/live-results/mofu-vis-e-resume-20261017-p6q8n4/current.jpg",
       "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n夢を離れる"
+    },
+    {
+      "number": 9,
+      "at": "2026-10-17T04:37:27.756Z",
+      "action": {
+        "id": "e5-08-leave",
+        "op": "tap",
+        "x": 73,
+        "y": 891,
+        "note": "Use visible dream exit control to reach memory modal"
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-e-resume-20261017-p6q8n4#quiet",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/af9fcb187825fe2a3ecd8002a70943a9cbadde18/live-results/mofu-vis-e-resume-20261017-p6q8n4/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n夢を離れる\n\nDREAM MEMORY\n\n夢から残ったもの\n\nWORLD MEMORY\nMEMORY FRAGMENT\nくまがいた椅子\nくまの右手に、青い糸がひとつだけほどけていた。\n言葉を添える\n何も残さず、アトリエへ戻る\nDiaryへ持ち帰る"
     }
   ]
 }
