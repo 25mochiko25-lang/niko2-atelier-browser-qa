@@ -1,6 +1,7 @@
 {
-  "id": "e3-07-settle",
-  "op": "wait",
-  "ms": 1900,
-  "note": "See controls after the quiet-scene transition"
+  "id": "e3-08-leave",
+  "op": "tap",
+  "x": 70,
+  "y": 888,
+  "note": "Open the public DREAM MEMORY dialog via leave dream"
 }
