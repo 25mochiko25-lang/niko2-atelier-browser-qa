@@ -1,7 +1,7 @@
 {
-  "id": "r27",
+  "id": "r28",
   "op": "tap",
-  "x": 211,
-  "y": 472,
-  "note": "Select visible MIDDLE tab after keyboard PageDown; compare selected/empty state"
+  "x": 82,
+  "y": 217,
+  "note": "Add visible 甘い夢 to MIDDLE in local readonly WebKit context; visual state only"
 }
