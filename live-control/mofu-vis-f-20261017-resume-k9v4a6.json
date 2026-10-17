@@ -1,7 +1,6 @@
 {
-  "id": "r25",
-  "op": "tap",
-  "x": 79,
-  "y": 522,
-  "note": "Probe visible mixing bottle area: lower ingredient DOM rect falls here but should be clipped, check accidental through-tap"
+  "id": "r26",
+  "op": "key",
+  "key": "PageDown",
+  "note": "Keyboard viewport inspection of below-fold Perfume elements; not an iPhone swipe test"
 }
