@@ -6,21 +6,21 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-17T04:01:12.828Z",
-  "updatedAt": "2026-10-17T04:07:42.550Z",
-  "lastCommand": "r14",
+  "updatedAt": "2026-10-17T04:08:00.505Z",
+  "lastCommand": "r15",
   "stopReason": null,
   "action": {
-    "id": "r14",
+    "id": "r15",
     "op": "tap",
-    "x": 44,
-    "y": 473,
-    "note": "Collect last visible Garden item to open public gate"
+    "x": 323,
+    "y": 279,
+    "note": "Enter lit Garden gate; required public route to CHANNEL 00"
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/c968df947618fed269f8ced818bc592b0e55ac62/live-results/mofu-vis-f-20261017-resume-k9v4a6/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/13fb672a4ee044a89dbeb472865a322eb916048d/live-results/mofu-vis-f-20261017-resume-k9v4a6/current.jpg",
   "readOnly": true,
   "blockedWrites": 7,
-  "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-f-20261017-resume-k9v4a6#garden",
+  "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-f-20261017-resume-k9v4a6#quiet",
   "title": "NIKO² ATELIER",
   "viewport": {
     "width": 430,
@@ -31,7 +31,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n5 / 5\n見つけたもの\n\nあの扉が、こちらを呼んでいる。\n触れて、向こうへ\n",
+  "text": "作品へ移動\n夢の見覚え ✧︎\n\n",
   "controls": [
     {
       "tag": "BUTTON",
@@ -53,138 +53,6 @@
         "y": 56,
         "w": 61,
         "h": 30
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "止まりかけの砂時計（発見済み）",
-      "disabled": true,
-      "rect": {
-        "x": -80,
-        "y": 373,
-        "w": 112,
-        "h": 196
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "N² Eau de rêve（発見済み）",
-      "disabled": true,
-      "rect": {
-        "x": 4,
-        "y": 550,
-        "w": 99,
-        "h": 121
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "まだあたたかいカップ（発見済み）",
-      "disabled": true,
-      "rect": {
-        "x": 184,
-        "y": 545,
-        "w": 118,
-        "h": 93
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "置き去りのくま（発見済み）",
-      "disabled": true,
-      "rect": {
-        "x": 370,
-        "y": 494,
-        "w": 149,
-        "h": 196
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "青いリボンの鍵（発見済み）",
-      "disabled": true,
-      "rect": {
-        "x": 98,
-        "y": 622,
-        "w": 122,
-        "h": 99
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "テーブルのメモをめくる",
-      "disabled": true,
-      "rect": {
-        "x": 186,
-        "y": 628,
-        "w": 114,
-        "h": 87
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "くまのそばの本を開く",
-      "disabled": true,
-      "rect": {
-        "x": 376,
-        "y": 625,
-        "w": 150,
-        "h": 121
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "ティーポットに触れる",
-      "disabled": true,
-      "rect": {
-        "x": 91,
-        "y": 480,
-        "w": 130,
-        "h": 135
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "花に触れる",
-      "disabled": true,
-      "rect": {
-        "x": -77,
-        "y": 289,
-        "w": 193,
-        "h": 168
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "水面に触れる",
-      "disabled": true,
-      "rect": {
-        "x": 203,
-        "y": 280,
-        "w": 261,
-        "h": 205
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "石の柱を軽く叩く",
-      "disabled": true,
-      "rect": {
-        "x": 16,
-        "y": 149,
-        "w": 143,
-        "h": 289
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "遠くの白い門に触れる",
-      "disabled": false,
-      "rect": {
-        "x": 240,
-        "y": 93,
-        "w": 261,
-        "h": 447
       }
     }
   ],
@@ -411,6 +279,21 @@
       "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-f-20261017-resume-k9v4a6#garden",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/c968df947618fed269f8ced818bc592b0e55ac62/live-results/mofu-vis-f-20261017-resume-k9v4a6/current.jpg",
       "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n5 / 5\n見つけたもの\n\nあの扉が、こちらを呼んでいる。\n触れて、向こうへ\n"
+    },
+    {
+      "number": 16,
+      "at": "2026-10-17T04:08:00.505Z",
+      "action": {
+        "id": "r15",
+        "op": "tap",
+        "x": 323,
+        "y": 279,
+        "note": "Enter lit Garden gate; required public route to CHANNEL 00"
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-f-20261017-resume-k9v4a6#quiet",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/13fb672a4ee044a89dbeb472865a322eb916048d/live-results/mofu-vis-f-20261017-resume-k9v4a6/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n"
     }
   ]
 }
