@@ -1,7 +1,6 @@
 {
-  "id": "f33",
-  "op": "tap",
-  "x": 169,
-  "y": 251,
-  "note": "Select first visible hotel menu item to compare active selection styling"
+  "id": "f34",
+  "op": "look",
+  "wait": 1100,
+  "note": "Inspect stabilized Hotel Tea for Nobody delivery scene after fade"
 }
