@@ -6,20 +6,20 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-17T00:46:41.213Z",
-  "updatedAt": "2026-10-17T01:03:32.513Z",
-  "lastCommand": "f46",
+  "updatedAt": "2026-10-17T01:03:59.663Z",
+  "lastCommand": "f47",
   "stopReason": null,
   "action": {
-    "id": "f46",
+    "id": "f47",
     "op": "tap",
-    "x": 208,
-    "y": 402,
-    "note": "Follow the now-accessible corridor to the visible storage room"
+    "x": 35,
+    "y": 104,
+    "note": "Leave archive through visible back control to seek Perfume in other facilities"
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/c2b2a2784b000714db3a86752cfcaf7edf3cab5c/live-results/mofu-vis-f-20261017-0945-xj72/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/66e31cf65bd6e6c1c71572e21d09aa576edd3c4e/live-results/mofu-vis-f-20261017-0945-xj72/current.jpg",
   "readOnly": true,
-  "blockedWrites": 26,
+  "blockedWrites": 27,
   "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-f-20261017-0945-xj72#lab",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -31,7 +31,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\nNIKO² ATELIER\n\n白と薄水色のガラス研究所。奥へ続く通路と、記録の置かれた観測台があります。\nARCHIVE CHAMBER\n奥の保管室\n\n\n\n\n",
+  "text": "作品へ移動\nNIKO² ATELIER\n\n白と薄水色のガラス研究所。奥へ続く通路と、記録の置かれた観測台があります。\nMAIN LAB\n観測台\n\n\n\n観測台奥の保管室へ進む\n",
   "controls": [
     {
       "tag": "A",
@@ -68,35 +68,35 @@
     },
     {
       "tag": "BUTTON",
-      "text": "青い返却トレイの仮留め資料、研究用マシュマロ消失事件を読む",
+      "text": "観測台",
       "disabled": false,
       "rect": {
         "x": 66,
-        "y": 510,
-        "w": 119,
-        "h": 70
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "オレンジの保留ポッドに入った保管スリーブ、向こうから先にノックされた扉を読む",
-      "disabled": false,
-      "rect": {
-        "x": 275,
-        "y": 537,
+        "y": 392,
         "w": 89,
-        "h": 80
+        "h": 303
       }
     },
     {
       "tag": "BUTTON",
-      "text": "旧端末に触れる",
+      "text": "奥の保管室へ進む",
       "disabled": false,
       "rect": {
-        "x": 189,
-        "y": 364,
-        "w": 175,
-        "h": 150
+        "x": 163,
+        "y": 337,
+        "w": 108,
+        "h": 187
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "障害シミュレーション／運用モードを開く",
+      "disabled": false,
+      "rect": {
+        "x": 292,
+        "y": 634,
+        "w": 72,
+        "h": 97
       }
     }
   ],
@@ -798,6 +798,21 @@
       "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-f-20261017-0945-xj72#lab",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/c2b2a2784b000714db3a86752cfcaf7edf3cab5c/live-results/mofu-vis-f-20261017-0945-xj72/current.jpg",
       "text": "作品へ移動\nNIKO² ATELIER\n\n白と薄水色のガラス研究所。奥へ続く通路と、記録の置かれた観測台があります。\nARCHIVE CHAMBER\n奥の保管室\n\n\n\n\n"
+    },
+    {
+      "number": 48,
+      "at": "2026-10-17T01:03:59.663Z",
+      "action": {
+        "id": "f47",
+        "op": "tap",
+        "x": 35,
+        "y": 104,
+        "note": "Leave archive through visible back control to seek Perfume in other facilities"
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-f-20261017-0945-xj72#lab",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/66e31cf65bd6e6c1c71572e21d09aa576edd3c4e/live-results/mofu-vis-f-20261017-0945-xj72/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\n\n白と薄水色のガラス研究所。奥へ続く通路と、記録の置かれた観測台があります。\nMAIN LAB\n観測台\n\n\n\n観測台奥の保管室へ進む\n"
     }
   ]
 }
