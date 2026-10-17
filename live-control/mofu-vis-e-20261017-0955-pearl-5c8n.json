@@ -1,7 +1,7 @@
 {
-  "id": "e4-28-archive-year",
+  "id": "e4-29-archive-close",
   "op": "tap",
-  "x": 215,
-  "y": 604,
-  "note": "Compare archive month/year switch and view position; no data mutation"
+  "x": 371,
+  "y": 533,
+  "note": "Close Archive using visible minus control to reach WHAT REMAINED"
 }
