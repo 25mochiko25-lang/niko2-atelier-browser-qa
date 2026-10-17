@@ -1,7 +1,5 @@
 {
-  "id": "e5-26-letter-destination",
-  "op": "tap",
-  "x": 241,
-  "y": 528,
-  "note": "Inspect visible recipient select menu only; do not fill or send form"
+  "id": "e5-end-stop",
+  "op": "stop",
+  "reason": "Completed E visual continuation: published GENESIS article, category filters, and public DEAR form; no personal data submitted."
 }
