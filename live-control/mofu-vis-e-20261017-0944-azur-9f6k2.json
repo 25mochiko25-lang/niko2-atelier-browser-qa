@@ -1,5 +1,7 @@
 {
-  "id": "e3-22-issue-back",
-  "op": "back",
-  "note": "Return from ISSUE 000 to visible article list via browser back"
+  "id": "e3-23-open-diary",
+  "op": "tap",
+  "x": 91,
+  "y": 388,
+  "note": "Enter Diary via visible floating notebook in HOME; inspect untested lower content"
 }
