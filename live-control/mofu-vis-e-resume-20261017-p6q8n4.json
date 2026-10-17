@@ -1,6 +1,6 @@
 {
-  "id": "e5-17-genesis-down",
+  "id": "e5-18-genesis-bottom",
   "op": "key",
   "key": "PageDown",
-  "note": "Read lower public GENESIS entries using synthetic PageDown, not finger-swipe evidence"
+  "note": "Inspect lower design-fragment rows and return navigation"
 }
