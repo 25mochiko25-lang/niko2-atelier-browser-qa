@@ -1,7 +1,7 @@
 {
-  "id": "e5-04-enter-garden",
+  "id": "e5-05-garden-enter",
   "op": "tap",
-  "x": 372,
-  "y": 858,
-  "note": "Enter via visible welcome control"
+  "x": 216,
+  "y": 877,
+  "note": "Use visible 'この空へ入る' button"
 }
