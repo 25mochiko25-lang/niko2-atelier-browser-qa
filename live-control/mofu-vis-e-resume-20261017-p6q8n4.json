@@ -1,6 +1,7 @@
 {
-  "id": "e5-26-contact-lower",
-  "op": "key",
-  "key": "PageDown",
-  "note": "Inspect public letter form lower area without entering/sending data"
+  "id": "e5-26-letter-destination",
+  "op": "tap",
+  "x": 241,
+  "y": 528,
+  "note": "Inspect visible recipient select menu only; do not fill or send form"
 }
