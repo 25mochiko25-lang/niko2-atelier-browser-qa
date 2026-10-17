@@ -6,18 +6,18 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-17T04:34:34.951Z",
-  "updatedAt": "2026-10-17T04:39:04.115Z",
-  "lastCommand": "e5-14-open-notes",
+  "updatedAt": "2026-10-17T04:39:26.799Z",
+  "lastCommand": "e5-15-notes-filter",
   "stopReason": null,
   "action": {
-    "id": "e5-14-open-notes",
+    "id": "e5-15-notes-filter",
     "op": "tap",
-    "x": 351,
-    "y": 348,
-    "note": "Open visible envelope to FROM THE ATELIER"
+    "x": 204,
+    "y": 234,
+    "note": "Inspect visible NOTES filter and whether publication cards remain legible"
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/a2913728ca13879d6eedf2d978d818029ddd6195/live-results/mofu-vis-e-resume-20261017-p6q8n4/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/5b2bb80622b76b4376c3e271cd89adb1076ce8bb/live-results/mofu-vis-e-resume-20261017-p6q8n4/current.jpg",
   "readOnly": true,
   "blockedWrites": 10,
   "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-e-resume-20261017-p6q8n4#notes",
@@ -31,7 +31,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\nNIKO² ATELIER\nDream\nDiary\nAbout\n\nNIKO² ATELIER / FIELD RECORDS\n\nFROM THE ATELIER\nALL\nSPECIAL\nNOTES\nFOUNDER\n\n2026.10.08 / 16:14\nSPECIAL / FEATURED / ISSUE 000\nALPHA OPENING\n夢を作ったり、壊したり、もう一度作ったりしていました。\nREAD ISSUE 000\n2026.10.16 / 21:00\nNOTES / MOFUMOFU POST\n📮 はじめてのお手紙が届きました！\n\nREAD ARTICLE\n↗\n2026.09.11 / UNKNOWN\nNOTES / GENESIS\nポートフォリオを作るつもりだった。\n\nREAD ARTICLE\n↗\nアトリエへ戻る\n",
+  "text": "作品へ移動\nNIKO² ATELIER\nDream\nDiary\nAbout\n\nNIKO² ATELIER / FIELD RECORDS\n\nFROM THE ATELIER\nALL\nSPECIAL\nNOTES\nFOUNDER\n2026.10.16 / 21:00\nNOTES / MOFUMOFU POST\n📮 はじめてのお手紙が届きました！\n\nREAD ARTICLE\n↗\n2026.09.11 / UNKNOWN\nNOTES / GENESIS\nポートフォリオを作るつもりだった。\n\nREAD ARTICLE\n↗\nアトリエへ戻る\n",
   "controls": [
     {
       "tag": "A",
@@ -134,22 +134,11 @@
     },
     {
       "tag": "A",
-      "text": "2026.10.08 / 16:14\nSPECIAL / FEATURED / ISSUE 000\nALPHA OPENING\n夢を作ったり、壊したり、もう一度作ったりしていました。\nREAD ISSUE 000",
-      "disabled": false,
-      "rect": {
-        "x": 12,
-        "y": 274,
-        "w": 406,
-        "h": 424
-      }
-    },
-    {
-      "tag": "A",
       "text": "2026.10.16 / 21:00\nNOTES / MOFUMOFU POST\n📮 はじめてのお手紙が届きました！\n\nREAD ARTICLE\n↗",
       "disabled": false,
       "rect": {
         "x": 12,
-        "y": 732,
+        "y": 274,
         "w": 406,
         "h": 144
       }
@@ -160,9 +149,20 @@
       "disabled": false,
       "rect": {
         "x": 12,
-        "y": 876,
+        "y": 418,
         "w": 406,
         "h": 144
+      }
+    },
+    {
+      "tag": "A",
+      "text": "アトリエへ戻る",
+      "disabled": false,
+      "rect": {
+        "x": 287,
+        "y": 638,
+        "w": 131,
+        "h": 40
       }
     }
   ],
@@ -388,6 +388,21 @@
       "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-e-resume-20261017-p6q8n4#notes",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/a2913728ca13879d6eedf2d978d818029ddd6195/live-results/mofu-vis-e-resume-20261017-p6q8n4/current.jpg",
       "text": "作品へ移動\nNIKO² ATELIER\nDream\nDiary\nAbout\n\nNIKO² ATELIER / FIELD RECORDS\n\nFROM THE ATELIER\nALL\nSPECIAL\nNOTES\nFOUNDER\n\n2026.10.08 / 16:14\nSPECIAL / FEATURED / ISSUE 000\nALPHA OPENING\n夢を作ったり、壊したり、もう一度作ったりしていました。\nREAD ISSUE 000\n2026.10.16 / 21:00\nNOTES / MOFUMOFU POST\n📮 はじめてのお手紙が届きました！\n\nREAD ARTICLE\n↗\n2026.09.11 / UNKNOWN\nNOTES / GENESIS\nポートフォリオを作るつもりだった。\n\nREAD ARTICLE\n↗\nアトリエへ戻る\n"
+    },
+    {
+      "number": 16,
+      "at": "2026-10-17T04:39:26.799Z",
+      "action": {
+        "id": "e5-15-notes-filter",
+        "op": "tap",
+        "x": 204,
+        "y": 234,
+        "note": "Inspect visible NOTES filter and whether publication cards remain legible"
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-e-resume-20261017-p6q8n4#notes",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/5b2bb80622b76b4376c3e271cd89adb1076ce8bb/live-results/mofu-vis-e-resume-20261017-p6q8n4/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\nDream\nDiary\nAbout\n\nNIKO² ATELIER / FIELD RECORDS\n\nFROM THE ATELIER\nALL\nSPECIAL\nNOTES\nFOUNDER\n2026.10.16 / 21:00\nNOTES / MOFUMOFU POST\n📮 はじめてのお手紙が届きました！\n\nREAD ARTICLE\n↗\n2026.09.11 / UNKNOWN\nNOTES / GENESIS\nポートフォリオを作るつもりだった。\n\nREAD ARTICLE\n↗\nアトリエへ戻る\n"
     }
   ]
 }
