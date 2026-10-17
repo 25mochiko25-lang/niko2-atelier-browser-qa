@@ -1,6 +1,6 @@
 {
-  "id": "e5-23-home-footer",
+  "id": "e5-24-home-contact",
   "op": "key",
   "key": "PageDown",
-  "note": "Locate visible public DEAR ATELIER contact UI in HOME footer"
+  "note": "Bring visible DEAR ATELIER card into viewport; synthetic key scroll"
 }
