@@ -6,18 +6,17 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-17T00:46:41.213Z",
-  "updatedAt": "2026-10-17T00:58:20.433Z",
-  "lastCommand": "f33",
+  "updatedAt": "2026-10-17T00:58:43.193Z",
+  "lastCommand": "f34",
   "stopReason": null,
   "action": {
-    "id": "f33",
-    "op": "tap",
-    "x": 169,
-    "y": 251,
-    "note": "Select first visible hotel menu item to compare active selection styling"
+    "id": "f34",
+    "op": "look",
+    "wait": 1100,
+    "note": "Inspect stabilized Hotel Tea for Nobody delivery scene after fade"
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/b55b27ad5e1e32354204009cf4e70530c4e62e3b/live-results/mofu-vis-f-20261017-0945-xj72/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/82545d66deeae63f615e681f51a9ea3fd7d597cd/live-results/mofu-vis-f-20261017-0945-xj72/current.jpg",
   "readOnly": true,
   "blockedWrites": 17,
   "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-f-20261017-0945-xj72#hotel",
@@ -626,6 +625,20 @@
       "error": null,
       "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-f-20261017-0945-xj72#hotel",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/b55b27ad5e1e32354204009cf4e70530c4e62e3b/live-results/mofu-vis-f-20261017-0945-xj72/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\n\n\nDREAM / ROOM 0317\nHOTEL SOMNIA\nSTAY 0 / 3\n×\nTea for Nobody\nティーカップが二つ届いた。誰も来なかったし、最後まで二つだった。\nもう一品見る\n今夜をDiaryへ持ち帰る\nCHECK OUT\n"
+    },
+    {
+      "number": 35,
+      "at": "2026-10-17T00:58:43.193Z",
+      "action": {
+        "id": "f34",
+        "op": "look",
+        "wait": 1100,
+        "note": "Inspect stabilized Hotel Tea for Nobody delivery scene after fade"
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-f-20261017-0945-xj72#hotel",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/82545d66deeae63f615e681f51a9ea3fd7d597cd/live-results/mofu-vis-f-20261017-0945-xj72/current.jpg",
       "text": "作品へ移動\nNIKO² ATELIER\n\n\nDREAM / ROOM 0317\nHOTEL SOMNIA\nSTAY 0 / 3\n×\nTea for Nobody\nティーカップが二つ届いた。誰も来なかったし、最後まで二つだった。\nもう一品見る\n今夜をDiaryへ持ち帰る\nCHECK OUT\n"
     }
   ]
