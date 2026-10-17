@@ -1,7 +1,7 @@
 {
-  "id": "dr06-hourglass",
+  "id": "dr07-close-hourglass",
   "op": "tap",
-  "x": 46,
-  "y": 449,
-  "note": "Replay previously observed Garden route to ROOM NULL."
+  "x": 376,
+  "y": 773,
+  "note": "Replay previously inspected Garden memory sequence."
 }
