@@ -1,7 +1,7 @@
 {
-  "id": "e5-21-special-filter",
+  "id": "e5-22-notes-home",
   "op": "tap",
-  "x": 120,
-  "y": 236,
-  "note": "Compare empty FOUNDER category against populated SPECIAL layout"
+  "x": 349,
+  "y": 831,
+  "note": "Return to Atelier to inspect visible contact dialog without submitting"
 }
