@@ -6,20 +6,22 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-17T22:05:16.183Z",
-  "updatedAt": "2026-10-17T22:12:15.948Z",
-  "lastCommand": "g19",
+  "updatedAt": "2026-10-17T22:12:39.803Z",
+  "lastCommand": "g20",
   "stopReason": null,
   "action": {
-    "id": "g19",
-    "op": "tap",
-    "x": 79,
-    "y": 35,
-    "note": "Go home by atelier logo"
+    "id": "g20",
+    "op": "scroll",
+    "x": 225,
+    "y": 754,
+    "dx": 0,
+    "dy": 570,
+    "note": "Scroll to the WORLD entrance while revisiting"
   },
-  "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/64ed7160a9c7a8def634c4dc57c2dd2a7c90cc74/live-results/mofu-vis-g-20261018-t7c6n4/current.jpg",
+  "error": "Error: mouse.wheel: Mouse wheel is not supported in mobile WebKit",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/6ebcb0d5d6b5d89c58d806e7b9ff0c2c94ff90b5/live-results/mofu-vis-g-20261018-t7c6n4/current.jpg",
   "readOnly": true,
-  "blockedWrites": 14,
+  "blockedWrites": 15,
   "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-g-20261018-t7c6n4",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -384,6 +386,23 @@
       "error": null,
       "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-g-20261018-t7c6n4",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/64ed7160a9c7a8def634c4dc57c2dd2a7c90cc74/live-results/mofu-vis-g-20261018-t7c6n4/current.jpg",
+      "text": "作品へ移動\n \nWORLD\nWORLD\n水面の向こうに、いくつかの場所がひらいています。\n\n\nABOUT\nもふもふはいます。\nPLAY / SHARE / FAN WORK\nNIKO²での生活について\n好きな形で遊ぶための、小さな境界。\nDEAR ATELIER\nお手紙を送る\nAtelierの受取箱へ。\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n"
+    },
+    {
+      "number": 21,
+      "at": "2026-10-17T22:12:39.803Z",
+      "action": {
+        "id": "g20",
+        "op": "scroll",
+        "x": 225,
+        "y": 754,
+        "dx": 0,
+        "dy": 570,
+        "note": "Scroll to the WORLD entrance while revisiting"
+      },
+      "error": "Error: mouse.wheel: Mouse wheel is not supported in mobile WebKit",
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-g-20261018-t7c6n4",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/6ebcb0d5d6b5d89c58d806e7b9ff0c2c94ff90b5/live-results/mofu-vis-g-20261018-t7c6n4/current.jpg",
       "text": "作品へ移動\n \nWORLD\nWORLD\n水面の向こうに、いくつかの場所がひらいています。\n\n\nABOUT\nもふもふはいます。\nPLAY / SHARE / FAN WORK\nNIKO²での生活について\n好きな形で遊ぶための、小さな境界。\nDEAR ATELIER\nお手紙を送る\nAtelierの受取箱へ。\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n"
     }
   ]
