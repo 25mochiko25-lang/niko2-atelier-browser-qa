@@ -6,18 +6,18 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-17T00:46:41.213Z",
-  "updatedAt": "2026-10-17T00:53:51.494Z",
-  "lastCommand": "f21",
+  "updatedAt": "2026-10-17T00:54:14.146Z",
+  "lastCommand": "f22",
   "stopReason": null,
   "action": {
-    "id": "f21",
+    "id": "f22",
     "op": "tap",
-    "x": 372,
+    "x": 379,
     "y": 859,
-    "note": "Finish post-Garden guide"
+    "note": "Complete visible NEXT PLACES post-Garden guidance"
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/e2d481d6a8d89a92c45c6d41f6d498c8b87682d6/live-results/mofu-vis-f-20261017-0945-xj72/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/93edaa58b957da98cbea15575dcfb0f066042135/live-results/mofu-vis-f-20261017-0945-xj72/current.jpg",
   "readOnly": true,
   "blockedWrites": 11,
   "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-f-20261017-0945-xj72",
@@ -31,7 +31,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n \nWORLD\nWORLD\n水面の向こうに、いくつかの場所がひらいています。\n\n\nABOUT\nもふもふはいます。\nPLAY / SHARE / FAN WORK\nNIKO²での生活について\n好きな形で遊ぶための、小さな境界。\nDEAR ATELIER\nお手紙を送る\nAtelierの受取箱へ。\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n\nNEXT PLACES\nこの先に、二つの場所がひらいています。\nどちらを選んでも、選ばなくても大丈夫です。\n\n\nAbout\nこのアトリエについて残された、ひとつの印。\n\n\nCloud Garden\n別の夢を、もう一度見る場所。\n戻る完了",
+  "text": "作品へ移動\n \nWORLD\nWORLD\n水面の向こうに、いくつかの場所がひらいています。\n\n\nABOUT\nもふもふはいます。\nPLAY / SHARE / FAN WORK\nNIKO²での生活について\n好きな形で遊ぶための、小さな境界。\nDEAR ATELIER\nお手紙を送る\nAtelierの受取箱へ。\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n",
   "controls": [
     {
       "tag": "BUTTON",
@@ -86,50 +86,6 @@
         "y": 878,
         "w": 378,
         "h": 213
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "About\nこのアトリエについて残された、ひとつの印。",
-      "disabled": false,
-      "rect": {
-        "x": 46,
-        "y": 350,
-        "w": 338,
-        "h": 134
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "Cloud Garden\n別の夢を、もう一度見る場所。",
-      "disabled": false,
-      "rect": {
-        "x": 46,
-        "y": 494,
-        "w": 338,
-        "h": 134
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "戻る",
-      "disabled": false,
-      "rect": {
-        "x": 18,
-        "y": 836,
-        "w": 72,
-        "h": 44
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "完了",
-      "disabled": false,
-      "rect": {
-        "x": 340,
-        "y": 836,
-        "w": 72,
-        "h": 44
       }
     }
   ],
@@ -460,6 +416,21 @@
       "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-f-20261017-0945-xj72",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/e2d481d6a8d89a92c45c6d41f6d498c8b87682d6/live-results/mofu-vis-f-20261017-0945-xj72/current.jpg",
       "text": "作品へ移動\n \nWORLD\nWORLD\n水面の向こうに、いくつかの場所がひらいています。\n\n\nABOUT\nもふもふはいます。\nPLAY / SHARE / FAN WORK\nNIKO²での生活について\n好きな形で遊ぶための、小さな境界。\nDEAR ATELIER\nお手紙を送る\nAtelierの受取箱へ。\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n\nNEXT PLACES\nこの先に、二つの場所がひらいています。\nどちらを選んでも、選ばなくても大丈夫です。\n\n\nAbout\nこのアトリエについて残された、ひとつの印。\n\n\nCloud Garden\n別の夢を、もう一度見る場所。\n戻る完了"
+    },
+    {
+      "number": 23,
+      "at": "2026-10-17T00:54:14.146Z",
+      "action": {
+        "id": "f22",
+        "op": "tap",
+        "x": 379,
+        "y": 859,
+        "note": "Complete visible NEXT PLACES post-Garden guidance"
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-f-20261017-0945-xj72",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/93edaa58b957da98cbea15575dcfb0f066042135/live-results/mofu-vis-f-20261017-0945-xj72/current.jpg",
+      "text": "作品へ移動\n \nWORLD\nWORLD\n水面の向こうに、いくつかの場所がひらいています。\n\n\nABOUT\nもふもふはいます。\nPLAY / SHARE / FAN WORK\nNIKO²での生活について\n好きな形で遊ぶための、小さな境界。\nDEAR ATELIER\nお手紙を送る\nAtelierの受取箱へ。\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n"
     }
   ]
 }
