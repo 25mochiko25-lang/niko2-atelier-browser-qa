@@ -1,7 +1,7 @@
 {
-  "id": "e3-17-letter-back-tap",
+  "id": "e3-18-feature-issue",
   "op": "tap",
-  "x": 170,
-  "y": 8,
-  "note": "Test tiny visible return link area above overlapping sticky header"
+  "x": 194,
+  "y": 567,
+  "note": "Open visible featured ISSUE 000 to compare its article layout"
 }
