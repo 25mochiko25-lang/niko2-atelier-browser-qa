@@ -1,7 +1,7 @@
 {
-  "id": "dr20-after-next",
+  "id": "dr21-after-next",
   "op": "tap",
   "x": 375,
-  "y": 857,
-  "note": "Advance already observed non-saving onboarding route to WORLD."
+  "y": 856,
+  "note": "Finish previously observed onboarding, navigate public WORLD normally."
 }
