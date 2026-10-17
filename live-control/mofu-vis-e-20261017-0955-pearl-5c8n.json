@@ -1,6 +1,7 @@
 {
-  "id": "e4-18-diary-pagedown2",
-  "op": "key",
-  "key": "PageDown",
-  "note": "Inspect lower monthly reflection, archive and what remained layout; synthetic key scroll only"
+  "id": "e4-19-diary-blur",
+  "op": "tap",
+  "x": 410,
+  "y": 478,
+  "note": "Tap neutral non-input margin to release textarea focus without submitting anything"
 }
