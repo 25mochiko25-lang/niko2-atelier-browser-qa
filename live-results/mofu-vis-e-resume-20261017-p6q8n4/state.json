@@ -6,20 +6,21 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-17T04:34:34.951Z",
-  "updatedAt": "2026-10-17T04:42:04.547Z",
-  "lastCommand": "e5-24-home-contact",
+  "updatedAt": "2026-10-17T04:42:27.736Z",
+  "lastCommand": "e5-25-contact-open",
   "stopReason": null,
   "action": {
-    "id": "e5-24-home-contact",
-    "op": "key",
-    "key": "PageDown",
-    "note": "Bring visible DEAR ATELIER card into viewport; synthetic key scroll"
+    "id": "e5-25-contact-open",
+    "op": "tap",
+    "x": 170,
+    "y": 704,
+    "note": "Open visible public letter form for visual audit only; no input or send"
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/f10ee99f227f5c055f83c3acd6e36241615f02dc/live-results/mofu-vis-e-resume-20261017-p6q8n4/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/98b8aa28517a3680585dd888abe9e4889fb7275a/live-results/mofu-vis-e-resume-20261017-p6q8n4/current.jpg",
   "readOnly": true,
-  "blockedWrites": 15,
-  "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-e-resume-20261017-p6q8n4",
+  "blockedWrites": 20,
+  "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-e-resume-20261017-p6q8n4#dear",
   "title": "NIKO² ATELIER",
   "viewport": {
     "width": 430,
@@ -30,8 +31,52 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n \nWORLD\nWORLD\n水面の向こうに、いくつかの場所がひらいています。\n\n\nABOUT\nもふもふはいます。\nPLAY / SHARE / FAN WORK\nNIKO²での生活について\n好きな形で遊ぶための、小さな境界。\nDEAR ATELIER\nお手紙を送る\nAtelierの受取箱へ。\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n",
+  "text": "作品へ移動\nNIKO² ATELIER\nDream\nDiary\nAbout\n\nMOFUMOFU POST DESK\n\nDEAR ATELIER\nお手紙を送る\n\n書きたいことだけ置いていってください。\n届いた手紙は、Atelierの白いやつらが勝手に机へ仕分けます。\nLETTER DESK / RECEIVING\nお手紙の行き先\n⌄\n相談のお手紙は、白いやつらが読んでから机を決めます。\nお名前 なくても大丈夫\n\n返信先 返事が必要なら\n\nお手紙\n\nWebsite\n送った内容と返信先は、Atelierへの連絡対応のために使います。お手紙はCloudflareを経由してAtelierの受信窓口へ届きます。Diaryの記録は送りません。\n\nお手紙を預ける\n白いやつらが受取箱の前にいます。\nINTERNAL ROUTING / VISIBLE BY ACCIDENT\nLETTERS → CONSULT → LOST + FOUND\n\n担当：白いやつら\nアトリエへ戻る\n",
   "controls": [
+    {
+      "tag": "A",
+      "text": "NIKO² ATELIER",
+      "disabled": false,
+      "rect": {
+        "x": 22,
+        "y": 13,
+        "w": 118,
+        "h": 44
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Dream",
+      "disabled": false,
+      "rect": {
+        "x": 166,
+        "y": 13,
+        "w": 44,
+        "h": 44
+      }
+    },
+    {
+      "tag": "A",
+      "text": "Diary",
+      "disabled": false,
+      "rect": {
+        "x": 232,
+        "y": 13,
+        "w": 44,
+        "h": 44
+      }
+    },
+    {
+      "tag": "A",
+      "text": "About",
+      "disabled": false,
+      "rect": {
+        "x": 297,
+        "y": 13,
+        "w": 44,
+        "h": 44
+      }
+    },
     {
       "tag": "BUTTON",
       "text": "音をオンにする",
@@ -44,73 +89,53 @@
       }
     },
     {
-      "tag": "A",
-      "text": "WORLDを開く",
+      "tag": "SELECT",
+      "text": "お手紙の行き先",
       "disabled": false,
       "rect": {
-        "x": 26,
-        "y": -129,
-        "w": 378,
-        "h": 213
+        "x": 31,
+        "y": 497,
+        "w": 368,
+        "h": 52
       }
     },
     {
-      "tag": "A",
-      "text": "ABOUT\nもふもふはいます。",
+      "tag": "INPUT",
+      "text": "",
       "disabled": false,
       "rect": {
-        "x": 47,
-        "y": 170,
-        "w": 335,
-        "h": 273
+        "x": 31,
+        "y": 631,
+        "w": 368,
+        "h": 55
       }
     },
     {
-      "tag": "A",
-      "text": "PLAY / SHARE / FAN WORK\nNIKO²での生活について\n好きな形で遊ぶための、小さな境界。",
+      "tag": "INPUT",
+      "text": "",
       "disabled": false,
       "rect": {
-        "x": 34,
-        "y": 508,
-        "w": 361,
-        "h": 124
+        "x": 31,
+        "y": 729,
+        "w": 368,
+        "h": 55
       }
     },
     {
-      "tag": "A",
-      "text": "DEAR ATELIER\nお手紙を送る\nAtelierの受取箱へ。",
+      "tag": "TEXTAREA",
+      "text": "ここに置いていってください。",
       "disabled": false,
       "rect": {
-        "x": 34,
-        "y": 646,
-        "w": 361,
-        "h": 124
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "???",
-      "disabled": false,
-      "rect": {
-        "x": 0,
-        "y": 826,
-        "w": 430,
-        "h": 58
-      }
-    },
-    {
-      "tag": "A",
-      "text": "Rights",
-      "disabled": false,
-      "rect": {
-        "x": 199,
-        "y": 895,
-        "w": 32,
-        "h": 13
+        "x": 31,
+        "y": 835,
+        "w": 368,
+        "h": 295
       }
     }
   ],
-  "pageErrors": [],
+  "pageErrors": [
+    "Blocked a frame with origin \"https: /challenges.cloudflare.com\" from accessing a frame with origin \"https://niko2atelier.com\". Protocols, domains, and ports must match."
+  ],
   "httpErrors": [],
   "events": [
     {
@@ -478,6 +503,21 @@
       "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-e-resume-20261017-p6q8n4",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/f10ee99f227f5c055f83c3acd6e36241615f02dc/live-results/mofu-vis-e-resume-20261017-p6q8n4/current.jpg",
       "text": "作品へ移動\n \nWORLD\nWORLD\n水面の向こうに、いくつかの場所がひらいています。\n\n\nABOUT\nもふもふはいます。\nPLAY / SHARE / FAN WORK\nNIKO²での生活について\n好きな形で遊ぶための、小さな境界。\nDEAR ATELIER\nお手紙を送る\nAtelierの受取箱へ。\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n"
+    },
+    {
+      "number": 26,
+      "at": "2026-10-17T04:42:27.736Z",
+      "action": {
+        "id": "e5-25-contact-open",
+        "op": "tap",
+        "x": 170,
+        "y": 704,
+        "note": "Open visible public letter form for visual audit only; no input or send"
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-e-resume-20261017-p6q8n4#dear",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/98b8aa28517a3680585dd888abe9e4889fb7275a/live-results/mofu-vis-e-resume-20261017-p6q8n4/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\nDream\nDiary\nAbout\n\nMOFUMOFU POST DESK\n\nDEAR ATELIER\nお手紙を送る\n\n書きたいことだけ置いていってください。\n届いた手紙は、Atelierの白いやつらが勝手に机へ仕分けます。\nLETTER DESK / RECEIVING\nお手紙の行き先\n⌄\n相談のお手紙は、白いやつらが読んでから机を決めます。\nお名前 なくても大丈夫\n\n返信先 返事が必要なら\n\nお手紙\n\nWebsite\n送った内容と返信先は、Atelierへの連絡対応のために使います。お手紙はCloudflareを経由してAtelierの受信窓口へ届きます。Diaryの記録は送りません。\n\nお手紙を預ける\n白いやつらが受取箱の前にいます。\nINTERNAL ROUTING / VISIBLE BY ACCIDENT\nLETTERS → CONSULT → LOST + FOUND\n\n担当：白いやつら\nアトリエへ戻る\n"
     }
   ]
 }
