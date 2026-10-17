@@ -1,6 +1,7 @@
 {
-  "id": "e3-16-letter-settle",
-  "op": "wait",
-  "ms": 1600,
-  "note": "Check whether article back-link overlap persists after layout settles"
+  "id": "e3-17-letter-back-tap",
+  "op": "tap",
+  "x": 170,
+  "y": 8,
+  "note": "Test tiny visible return link area above overlapping sticky header"
 }
