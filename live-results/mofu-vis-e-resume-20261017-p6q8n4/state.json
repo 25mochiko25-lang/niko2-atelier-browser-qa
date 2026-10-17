@@ -6,18 +6,18 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-17T04:34:34.951Z",
-  "updatedAt": "2026-10-17T04:38:17.256Z",
-  "lastCommand": "e5-11-after-next2",
+  "updatedAt": "2026-10-17T04:38:32.233Z",
+  "lastCommand": "e5-12-after-next3",
   "stopReason": null,
   "action": {
-    "id": "e5-11-after-next2",
+    "id": "e5-12-after-next3",
     "op": "tap",
     "x": 372,
     "y": 858,
-    "note": "Advance post-Garden WHAT REMAINED to final visible panel"
+    "note": "Advance visible next to NEXT PLACES"
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/82cf87958277915602418c970716291f4389e994/live-results/mofu-vis-e-resume-20261017-p6q8n4/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/c59c630370b965686cf0e8cc5c564bdbc8951673/live-results/mofu-vis-e-resume-20261017-p6q8n4/current.jpg",
   "readOnly": true,
   "blockedWrites": 7,
   "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-e-resume-20261017-p6q8n4",
@@ -31,7 +31,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n \nWORLD\nWORLD\n水面の向こうに、いくつかの場所がひらいています。\n\n\nABOUT\nもふもふはいます。\nPLAY / SHARE / FAN WORK\nNIKO²での生活について\n好きな形で遊ぶための、小さな境界。\nDEAR ATELIER\nお手紙を送る\nAtelierの受取箱へ。\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n\nNIKO² ATELIER\nあなたの夢は、NIKO² ATELIERとともに、 この世界を少しずつ広げていきます。  この先も世界が広がっています。 あとは、ご自由に。\n次へ戻る",
+  "text": "作品へ移動\n \nWORLD\nWORLD\n水面の向こうに、いくつかの場所がひらいています。\n\n\nABOUT\nもふもふはいます。\nPLAY / SHARE / FAN WORK\nNIKO²での生活について\n好きな形で遊ぶための、小さな境界。\nDEAR ATELIER\nお手紙を送る\nAtelierの受取箱へ。\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n\nNEXT PLACES\nこの先に、二つの場所がひらいています。\nどちらを選んでも、選ばなくても大丈夫です。\n\n\nResearch Lab\nこの世界について残された記録を読む場所。\n\n\nCloud Garden\n別の夢を、もう一度見る場所。\n戻る完了",
   "controls": [
     {
       "tag": "BUTTON",
@@ -90,13 +90,24 @@
     },
     {
       "tag": "BUTTON",
-      "text": "次へ",
+      "text": "Research Lab\nこの世界について残された記録を読む場所。",
       "disabled": false,
       "rect": {
-        "x": 340,
-        "y": 836,
-        "w": 72,
-        "h": 44
+        "x": 46,
+        "y": 350,
+        "w": 338,
+        "h": 134
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Cloud Garden\n別の夢を、もう一度見る場所。",
+      "disabled": false,
+      "rect": {
+        "x": 46,
+        "y": 494,
+        "w": 338,
+        "h": 134
       }
     },
     {
@@ -105,6 +116,17 @@
       "disabled": false,
       "rect": {
         "x": 18,
+        "y": 836,
+        "w": 72,
+        "h": 44
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "完了",
+      "disabled": false,
+      "rect": {
+        "x": 340,
         "y": 836,
         "w": 72,
         "h": 44
@@ -288,6 +310,21 @@
       "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-e-resume-20261017-p6q8n4",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/82cf87958277915602418c970716291f4389e994/live-results/mofu-vis-e-resume-20261017-p6q8n4/current.jpg",
       "text": "作品へ移動\n \nWORLD\nWORLD\n水面の向こうに、いくつかの場所がひらいています。\n\n\nABOUT\nもふもふはいます。\nPLAY / SHARE / FAN WORK\nNIKO²での生活について\n好きな形で遊ぶための、小さな境界。\nDEAR ATELIER\nお手紙を送る\nAtelierの受取箱へ。\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n\nNIKO² ATELIER\nあなたの夢は、NIKO² ATELIERとともに、 この世界を少しずつ広げていきます。  この先も世界が広がっています。 あとは、ご自由に。\n次へ戻る"
+    },
+    {
+      "number": 13,
+      "at": "2026-10-17T04:38:32.233Z",
+      "action": {
+        "id": "e5-12-after-next3",
+        "op": "tap",
+        "x": 372,
+        "y": 858,
+        "note": "Advance visible next to NEXT PLACES"
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-e-resume-20261017-p6q8n4",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/c59c630370b965686cf0e8cc5c564bdbc8951673/live-results/mofu-vis-e-resume-20261017-p6q8n4/current.jpg",
+      "text": "作品へ移動\n \nWORLD\nWORLD\n水面の向こうに、いくつかの場所がひらいています。\n\n\nABOUT\nもふもふはいます。\nPLAY / SHARE / FAN WORK\nNIKO²での生活について\n好きな形で遊ぶための、小さな境界。\nDEAR ATELIER\nお手紙を送る\nAtelierの受取箱へ。\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n\nNEXT PLACES\nこの先に、二つの場所がひらいています。\nどちらを選んでも、選ばなくても大丈夫です。\n\n\nResearch Lab\nこの世界について残された記録を読む場所。\n\n\nCloud Garden\n別の夢を、もう一度見る場所。\n戻る完了"
     }
   ]
 }
