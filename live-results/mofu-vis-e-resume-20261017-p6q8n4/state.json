@@ -6,18 +6,18 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-17T04:34:34.951Z",
-  "updatedAt": "2026-10-17T04:40:42.443Z",
-  "lastCommand": "e5-19-genesis-back",
+  "updatedAt": "2026-10-17T04:40:57.161Z",
+  "lastCommand": "e5-20-founder-filter",
   "stopReason": null,
   "action": {
-    "id": "e5-19-genesis-back",
+    "id": "e5-20-founder-filter",
     "op": "tap",
-    "x": 102,
-    "y": 850,
-    "note": "Use bottom FROM THE ATELIER return after reading public GENESIS article"
+    "x": 304,
+    "y": 233,
+    "note": "Inspect visible FOUNDER filter and empty/nonempty list spacing"
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/3ea66170dc5eba3e6803080a6dd206233847be22/live-results/mofu-vis-e-resume-20261017-p6q8n4/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/ee9a6198d36986efc1f8651098e15d1be7a8d4ff/live-results/mofu-vis-e-resume-20261017-p6q8n4/current.jpg",
   "readOnly": true,
   "blockedWrites": 12,
   "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-e-resume-20261017-p6q8n4#notes",
@@ -31,7 +31,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\nNIKO² ATELIER\nDream\nDiary\nAbout\n\nNIKO² ATELIER / FIELD RECORDS\n\nFROM THE ATELIER\nALL\nSPECIAL\nNOTES\nFOUNDER\n2026.10.16 / 21:00\nNOTES / MOFUMOFU POST\n📮 はじめてのお手紙が届きました！\n\nREAD ARTICLE\n↗\n2026.09.11 / UNKNOWN\nNOTES / GENESIS\nポートフォリオを作るつもりだった。\n\nREAD ARTICLE\n↗\nアトリエへ戻る\n",
+  "text": "作品へ移動\nNIKO² ATELIER\nDream\nDiary\nAbout\n\nNIKO² ATELIER / FIELD RECORDS\n\nFROM THE ATELIER\nALL\nSPECIAL\nNOTES\nFOUNDER\nアトリエへ戻る\n",
   "controls": [
     {
       "tag": "A",
@@ -134,33 +134,11 @@
     },
     {
       "tag": "A",
-      "text": "2026.10.16 / 21:00\nNOTES / MOFUMOFU POST\n📮 はじめてのお手紙が届きました！\n\nREAD ARTICLE\n↗",
-      "disabled": false,
-      "rect": {
-        "x": 12,
-        "y": 274,
-        "w": 406,
-        "h": 144
-      }
-    },
-    {
-      "tag": "A",
-      "text": "2026.09.11 / UNKNOWN\nNOTES / GENESIS\nポートフォリオを作るつもりだった。\n\nREAD ARTICLE\n↗",
-      "disabled": false,
-      "rect": {
-        "x": 12,
-        "y": 418,
-        "w": 406,
-        "h": 144
-      }
-    },
-    {
-      "tag": "A",
       "text": "アトリエへ戻る",
       "disabled": false,
       "rect": {
         "x": 287,
-        "y": 638,
+        "y": 350,
         "w": 131,
         "h": 40
       }
@@ -461,6 +439,21 @@
       "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-e-resume-20261017-p6q8n4#notes",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/3ea66170dc5eba3e6803080a6dd206233847be22/live-results/mofu-vis-e-resume-20261017-p6q8n4/current.jpg",
       "text": "作品へ移動\nNIKO² ATELIER\nDream\nDiary\nAbout\n\nNIKO² ATELIER / FIELD RECORDS\n\nFROM THE ATELIER\nALL\nSPECIAL\nNOTES\nFOUNDER\n2026.10.16 / 21:00\nNOTES / MOFUMOFU POST\n📮 はじめてのお手紙が届きました！\n\nREAD ARTICLE\n↗\n2026.09.11 / UNKNOWN\nNOTES / GENESIS\nポートフォリオを作るつもりだった。\n\nREAD ARTICLE\n↗\nアトリエへ戻る\n"
+    },
+    {
+      "number": 21,
+      "at": "2026-10-17T04:40:57.161Z",
+      "action": {
+        "id": "e5-20-founder-filter",
+        "op": "tap",
+        "x": 304,
+        "y": 233,
+        "note": "Inspect visible FOUNDER filter and empty/nonempty list spacing"
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-e-resume-20261017-p6q8n4#notes",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/ee9a6198d36986efc1f8651098e15d1be7a8d4ff/live-results/mofu-vis-e-resume-20261017-p6q8n4/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\nDream\nDiary\nAbout\n\nNIKO² ATELIER / FIELD RECORDS\n\nFROM THE ATELIER\nALL\nSPECIAL\nNOTES\nFOUNDER\nアトリエへ戻る\n"
     }
   ]
 }
