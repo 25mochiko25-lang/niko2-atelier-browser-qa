@@ -6,21 +6,21 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-17T22:05:16.183Z",
-  "updatedAt": "2026-10-17T22:14:48.450Z",
-  "lastCommand": "g26",
+  "updatedAt": "2026-10-17T22:15:18.215Z",
+  "lastCommand": "g27",
   "stopReason": null,
   "action": {
-    "id": "g26",
+    "id": "g27",
     "op": "tap",
-    "x": 37,
-    "y": 109,
-    "note": "Go back to Room Null"
+    "x": 87,
+    "y": 412,
+    "note": "Revisit CHANNEL 00 from ROOM NULL"
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/f45540c4c8f8c7a05c1d9b26be4ad8001e4f9631/live-results/mofu-vis-g-20261018-t7c6n4/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/8694b11953a3fe85f45839366ffb20cc704519c0/live-results/mofu-vis-g-20261018-t7c6n4/current.jpg",
   "readOnly": true,
   "blockedWrites": 19,
-  "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-g-20261018-t7c6n4#room0",
+  "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-g-20261018-t7c6n4#channel0",
   "title": "NIKO² ATELIER",
   "viewport": {
     "width": 430,
@@ -31,7 +31,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\nNIKO² ATELIER\n\n \nWORLD / RN-00\nROOM NULL\na room that remembers you.\nRN-00\n",
+  "text": "作品へ移動\nNIKO² ATELIER\n\n\nCHANNEL / CH-00\nCHANNEL 00\n0 pages\n存在しなかったインターネット。\n\nPOWER / 接続する",
   "controls": [
     {
       "tag": "A",
@@ -56,47 +56,25 @@
       }
     },
     {
-      "tag": "A",
-      "text": "WORLDへ戻る",
+      "tag": "BUTTON",
+      "text": "ROOM NULLへ戻る",
       "disabled": false,
       "rect": {
         "x": 14,
-        "y": 86,
+        "y": 82,
         "w": 40,
         "h": 40
       }
     },
     {
       "tag": "BUTTON",
-      "text": "CHANNEL 00を開く",
+      "text": "POWER / 接続する",
       "disabled": false,
       "rect": {
-        "x": 15,
-        "y": 350,
-        "w": 172,
-        "h": 154
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "Cabinetを開く",
-      "disabled": false,
-      "rect": {
-        "x": 288,
-        "y": 224,
-        "w": 138,
-        "h": 242
-      }
-    },
-    {
-      "tag": "A",
-      "text": "Diaryを開く",
-      "disabled": false,
-      "rect": {
-        "x": 194,
-        "y": 596,
-        "w": 206,
-        "h": 233
+        "x": 133,
+        "y": 509,
+        "w": 164,
+        "h": 47
       }
     }
   ],
@@ -501,6 +479,21 @@
       "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-g-20261018-t7c6n4#room0",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/f45540c4c8f8c7a05c1d9b26be4ad8001e4f9631/live-results/mofu-vis-g-20261018-t7c6n4/current.jpg",
       "text": "作品へ移動\nNIKO² ATELIER\n\n \nWORLD / RN-00\nROOM NULL\na room that remembers you.\nRN-00\n"
+    },
+    {
+      "number": 28,
+      "at": "2026-10-17T22:15:18.215Z",
+      "action": {
+        "id": "g27",
+        "op": "tap",
+        "x": 87,
+        "y": 412,
+        "note": "Revisit CHANNEL 00 from ROOM NULL"
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-g-20261018-t7c6n4#channel0",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/8694b11953a3fe85f45839366ffb20cc704519c0/live-results/mofu-vis-g-20261018-t7c6n4/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\n\n\nCHANNEL / CH-00\nCHANNEL 00\n0 pages\n存在しなかったインターネット。\n\nPOWER / 接続する"
     }
   ]
 }
