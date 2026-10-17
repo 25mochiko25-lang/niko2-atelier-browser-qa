@@ -1,7 +1,7 @@
 {
-  "id": "r24",
+  "id": "r25",
   "op": "tap",
-  "x": 78,
-  "y": 273,
-  "note": "Select visible top-layer rain ingredient to inspect active state and layout; no submission"
+  "x": 79,
+  "y": 522,
+  "note": "Probe visible mixing bottle area: lower ingredient DOM rect falls here but should be clipped, check accidental through-tap"
 }
