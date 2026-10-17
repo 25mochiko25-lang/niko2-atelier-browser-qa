@@ -77,3 +77,23 @@
 4. `live-control/mofu-vis-e-resume-20261017-p6q8n4.json` に **`{"id":"e5-end-stop","op":"stop",...}`** を送信。コミット `221f73e306cd7dc2ded1610ac1e39e1550536fb7`。
 5. `live-results/mofu-vis-e-resume-20261017-p6q8n4/state.json` で `lastCommand=e5-end-stop` と記載の `stopReason` を確認。**停止ACK取得済み。ブラウザを動かしたまま残していない。**
 6. この報告はQAリポジトリの本ファイルに独立保存。旧報告、他隊員セッション、製品リポジトリ、Cloudflareには変更なし。
+
+## 追加の独立スクリーンショット所見（同じEの既存操作履歴を再確認）
+
+### E-06 / P2 / Diary下部→THE CABINET→戻るで閲覧位置が先頭へジャンプ
+
+- **現場・到達ルート:** HOME → Diary → 月の景色・ARCHIVEが見える最下部 → 「残ったものを見る」→「中を見る」→ THE CABINET。
+- **何を押したか:** Diary最下部の「残ったものを見る」からCabinetへ入り、Cabinet左上の可視戻る矢印をタップ。自由文入力や保存はなし。
+- **何が見えたか:** 帰着先は確かにDiaryだが、閲覧していた下部ではなく、Diaryの大見出し・気分選択がある先頭までスクロール位置が戻った。最下部を再び見ようとすると、長いDiaryをもう一度移動する必要がある。
+- **比較・判定境界:** 同じDiaryの写真ギャラリーでは「この写真にする」でPHOTO付近に復帰できている。別ページから戻る際に先頭へ送る設計の可能性は残るため、Productバグと断定せず、「戻ると画面位置が飛ぶ」局所的な体験差としてP2候補。
+- **画像:** [Cabinet遷移直前のDiary下部](https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/bf228181c6c88163c0bac6fd8fc2e697e1c5b41f/live-results/mofu-vis-e-20261017-0955-pearl-5c8n/current.jpg) / [Cabinet内部](https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/5f287d3cca57a3aee4de356bf7be53abb1c5d443/live-results/mofu-vis-e-20261017-0955-pearl-5c8n/current.jpg) / [戻ったDiaryは先頭](https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/b2a34653e4432618fa2eaff8438d6f246cc36267/live-results/mofu-vis-e-20261017-0955-pearl-5c8n/current.jpg)。
+
+### E-07 / P2候補 / Diaryの写真全画面レイヤーで下地文字が透けて見える
+
+- **現場・到達ルート:** HOME → Diary → 「写真を眺める」 → 1/16から2/16へ矢印操作。
+- **何を押したか:** 公開写真を拡大、次画像を表示、既存写真を選択。日記を保存しない。
+- **何が見えたか:** 写真自体は大きく、左右の矢印と閉じる×・写真選択ボタンも存在する。一方、画面上部に背後の「NIKO² DIARY / Diary」の大見出しが淡く透け、下部にも背後のカードと文言が見える。ギャラリーに関係するカテゴリ・操作と後景の文字が同じ面に見え、情報の重なりを感じる。
+- **比較・判定境界:** DREAM MEMORYの窓は周囲と明確に分離する。こちらの透過は意図的演出の可能性があり、確定の表示破綻ではなくビジュアル設計の違和感として記録。
+- **画像:** [写真ギャラリー1/16](https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/10a5f6d3febf9cc659c220ac9363adf4c6f4287a/live-results/mofu-vis-e-20261017-0955-pearl-5c8n/current.jpg) / [写真ギャラリー2/16](https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/855e953052d63bd7878f988e27dfc4dd608febc4/live-results/mofu-vis-e-20261017-0955-pearl-5c8n/current.jpg)。
+
+追加所見も新たなProduct操作なし。監査ブラウザは`e5-end-stop`で停止確認済み、再起動していない。
