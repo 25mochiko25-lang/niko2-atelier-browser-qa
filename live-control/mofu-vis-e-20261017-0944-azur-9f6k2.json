@@ -1,7 +1,5 @@
 {
-  "id": "e3-24-diary-stock-photo",
-  "op": "tap",
-  "x": 116,
-  "y": 860,
-  "note": "Select built-in vending-machine photo, no personal text or storage write"
+  "id": "e3-99-stop-after-infra",
+  "op": "stop",
+  "reason": "Observer runner already infrastructure_error from GitHub 409; visual E resumed in new session"
 }
