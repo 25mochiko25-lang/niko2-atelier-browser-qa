@@ -1,7 +1,6 @@
 {
-  "id": "e4-17-diary-focus",
-  "op": "tap",
-  "x": 144,
-  "y": 331,
-  "note": "Focus empty optional textarea; inspect layout movement without entering private text"
+  "id": "e4-18-diary-pagedown2",
+  "op": "key",
+  "key": "PageDown",
+  "note": "Inspect lower monthly reflection, archive and what remained layout; synthetic key scroll only"
 }
