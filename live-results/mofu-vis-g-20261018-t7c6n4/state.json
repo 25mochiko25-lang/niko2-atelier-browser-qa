@@ -6,21 +6,21 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-17T22:05:16.183Z",
-  "updatedAt": "2026-10-17T22:08:40.555Z",
-  "lastCommand": "g08",
+  "updatedAt": "2026-10-17T22:09:00.214Z",
+  "lastCommand": "g09",
   "stopReason": null,
   "action": {
-    "id": "g08",
+    "id": "g09",
     "op": "tap",
-    "x": 69,
-    "y": 893,
-    "note": "Leave the dream and rejoin the main route"
+    "x": 203,
+    "y": 756,
+    "note": "Return without keeping a public-memory artifact"
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/466995ca3a481c40770795e82dade39109f0ea75/live-results/mofu-vis-g-20261018-t7c6n4/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/3237cc2362ba2243616949d69962543eecdcbdde/live-results/mofu-vis-g-20261018-t7c6n4/current.jpg",
   "readOnly": true,
-  "blockedWrites": 5,
-  "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-g-20261018-t7c6n4#quiet",
+  "blockedWrites": 7,
+  "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-g-20261018-t7c6n4",
   "title": "NIKO² ATELIER",
   "viewport": {
     "width": 430,
@@ -31,7 +31,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n夢の見覚え ✧︎\n\nくまの右手に、青い糸がひとつだけほどけていた。\n\n持ち帰る\n\n夢を離れる\n\nDREAM MEMORY\n\n夢から残ったもの\n\nWORLD MEMORY\nMEMORY FRAGMENT\n空を見ているくまの横顔\nくまの右手に、青い糸がひとつだけほどけていた。\n言葉を添える\n何も残さず、アトリエへ戻る\nDiaryへ持ち帰る",
+  "text": "作品へ移動\n \nWORLD\nWORLD\n水面の向こうに、いくつかの場所がひらいています。\n\n\nABOUT\nもふもふはいます。\nPLAY / SHARE / FAN WORK\nNIKO²での生活について\n好きな形で遊ぶための、小さな境界。\nDEAR ATELIER\nお手紙を送る\nAtelierの受取箱へ。\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n\nAFTER THE GARDEN\nこの庭を、短く通り抜けました。\n次へ",
   "controls": [
     {
       "tag": "BUTTON",
@@ -45,91 +45,58 @@
       }
     },
     {
-      "tag": "BUTTON",
-      "text": "夢の見覚え ✧︎",
+      "tag": "A",
+      "text": "FROM THE ATELIERを開く",
       "disabled": false,
       "rect": {
-        "x": 355,
-        "y": 56,
-        "w": 61,
-        "h": 30
+        "x": 310,
+        "y": 303,
+        "w": 91,
+        "h": 92
+      }
+    },
+    {
+      "tag": "A",
+      "text": "Diaryを開く",
+      "disabled": false,
+      "rect": {
+        "x": 20,
+        "y": 330,
+        "w": 147,
+        "h": 147
       }
     },
     {
       "tag": "BUTTON",
-      "text": "待っていた糸結びに触れる",
+      "text": "Enter the dream",
       "disabled": false,
       "rect": {
-        "x": 253,
-        "y": 491,
-        "w": 69,
-        "h": 69
+        "x": 110,
+        "y": 545,
+        "w": 210,
+        "h": 70
+      }
+    },
+    {
+      "tag": "A",
+      "text": "WORLDを開く",
+      "disabled": false,
+      "rect": {
+        "x": 26,
+        "y": 878,
+        "w": 378,
+        "h": 213
       }
     },
     {
       "tag": "BUTTON",
-      "text": "持ち帰る",
+      "text": "次へ",
       "disabled": false,
       "rect": {
-        "x": 159,
-        "y": 793,
-        "w": 112,
+        "x": 340,
+        "y": 836,
+        "w": 72,
         "h": 44
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "夢を離れる",
-      "disabled": false,
-      "rect": {
-        "x": 22,
-        "y": 870,
-        "w": 100,
-        "h": 44
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "日記を閉じる",
-      "disabled": false,
-      "rect": {
-        "x": 354,
-        "y": 151,
-        "w": 44,
-        "h": 44
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "言葉を添える",
-      "disabled": false,
-      "rect": {
-        "x": 37,
-        "y": 610,
-        "w": 103,
-        "h": 44
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "何も残さず、アトリエへ戻る",
-      "disabled": false,
-      "rect": {
-        "x": 37,
-        "y": 735,
-        "w": 356,
-        "h": 40
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "Diaryへ持ち帰る",
-      "disabled": false,
-      "rect": {
-        "x": 37,
-        "y": 680,
-        "w": 356,
-        "h": 48
       }
     }
   ],
@@ -264,6 +231,21 @@
       "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-g-20261018-t7c6n4#quiet",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/466995ca3a481c40770795e82dade39109f0ea75/live-results/mofu-vis-g-20261018-t7c6n4/current.jpg",
       "text": "作品へ移動\n夢の見覚え ✧︎\n\nくまの右手に、青い糸がひとつだけほどけていた。\n\n持ち帰る\n\n夢を離れる\n\nDREAM MEMORY\n\n夢から残ったもの\n\nWORLD MEMORY\nMEMORY FRAGMENT\n空を見ているくまの横顔\nくまの右手に、青い糸がひとつだけほどけていた。\n言葉を添える\n何も残さず、アトリエへ戻る\nDiaryへ持ち帰る"
+    },
+    {
+      "number": 10,
+      "at": "2026-10-17T22:09:00.214Z",
+      "action": {
+        "id": "g09",
+        "op": "tap",
+        "x": 203,
+        "y": 756,
+        "note": "Return without keeping a public-memory artifact"
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-g-20261018-t7c6n4",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/3237cc2362ba2243616949d69962543eecdcbdde/live-results/mofu-vis-g-20261018-t7c6n4/current.jpg",
+      "text": "作品へ移動\n \nWORLD\nWORLD\n水面の向こうに、いくつかの場所がひらいています。\n\n\nABOUT\nもふもふはいます。\nPLAY / SHARE / FAN WORK\nNIKO²での生活について\n好きな形で遊ぶための、小さな境界。\nDEAR ATELIER\nお手紙を送る\nAtelierの受取箱へ。\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n\nAFTER THE GARDEN\nこの庭を、短く通り抜けました。\n次へ"
     }
   ]
 }
