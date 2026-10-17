@@ -1,6 +1,6 @@
 {
-  "id": "e4-22-diary-lower",
+  "id": "e4-23-diary-tab",
   "op": "key",
-  "key": "PageDown",
-  "note": "Move to archive after selecting preset photo and leaving textarea focus"
+  "key": "Tab",
+  "note": "Move focus away from textarea without selecting save or posting"
 }
