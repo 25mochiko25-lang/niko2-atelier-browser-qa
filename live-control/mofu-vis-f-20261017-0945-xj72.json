@@ -1,7 +1,7 @@
 {
-  "id": "f29",
+  "id": "f30",
   "op": "tap",
-  "x": 216,
-  "y": 617,
-  "note": "Open the visible Hotel Somnia directory link within CHANNEL 00"
+  "x": 74,
+  "y": 520,
+  "note": "Follow the visible current Hotel link from Hotel Somnia's archival Channel page"
 }
