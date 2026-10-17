@@ -1,6 +1,7 @@
 {
-  "id": "f34",
-  "op": "look",
-  "wait": 1100,
-  "note": "Inspect stabilized Hotel Tea for Nobody delivery scene after fade"
+  "id": "f35",
+  "op": "tap",
+  "x": 210,
+  "y": 815,
+  "note": "Return to remaining room-service options using visible button"
 }
