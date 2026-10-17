@@ -1,6 +1,7 @@
 {
-  "id": "e5-18-genesis-bottom",
-  "op": "key",
-  "key": "PageDown",
-  "note": "Inspect lower design-fragment rows and return navigation"
+  "id": "e5-19-genesis-back",
+  "op": "tap",
+  "x": 102,
+  "y": 850,
+  "note": "Use bottom FROM THE ATELIER return after reading public GENESIS article"
 }
