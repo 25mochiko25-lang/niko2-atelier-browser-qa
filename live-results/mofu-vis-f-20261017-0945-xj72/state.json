@@ -6,20 +6,19 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-17T00:46:41.213Z",
-  "updatedAt": "2026-10-17T00:59:24.845Z",
-  "lastCommand": "f36",
+  "updatedAt": "2026-10-17T00:59:58.079Z",
+  "lastCommand": "f37",
   "stopReason": null,
   "action": {
-    "id": "f36",
-    "op": "tap",
-    "x": 189,
-    "y": 376,
-    "note": "Select Blue Hour as second Hotel item to compare presentation and layout"
+    "id": "f37",
+    "op": "look",
+    "wait": 1200,
+    "note": "Inspect stabilized Blue Hour scene and second item presentation"
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/15edaee2de837581818733d05f7e3f10ba8b5763/live-results/mofu-vis-f-20261017-0945-xj72/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/4a5ead66a585da8185ae955e3d2e74ee7e3fbccf/live-results/mofu-vis-f-20261017-0945-xj72/current.jpg",
   "readOnly": true,
-  "blockedWrites": 18,
+  "blockedWrites": 19,
   "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-f-20261017-0945-xj72#hotel",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -681,6 +680,20 @@
       "error": null,
       "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-f-20261017-0945-xj72#hotel",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/15edaee2de837581818733d05f7e3f10ba8b5763/live-results/mofu-vis-f-20261017-0945-xj72/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\n\n\nDREAM / ROOM 0317\nHOTEL SOMNIA\nSTAY 0 / 3\n×\nBlue Hour\n窓の外だけが夕暮れになった。時計は夜のままだった。\nメニューを眺める\n今夜をDiaryへ持ち帰る\nCHECK OUT\n"
+    },
+    {
+      "number": 38,
+      "at": "2026-10-17T00:59:58.079Z",
+      "action": {
+        "id": "f37",
+        "op": "look",
+        "wait": 1200,
+        "note": "Inspect stabilized Blue Hour scene and second item presentation"
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-f-20261017-0945-xj72#hotel",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/4a5ead66a585da8185ae955e3d2e74ee7e3fbccf/live-results/mofu-vis-f-20261017-0945-xj72/current.jpg",
       "text": "作品へ移動\nNIKO² ATELIER\n\n\nDREAM / ROOM 0317\nHOTEL SOMNIA\nSTAY 0 / 3\n×\nBlue Hour\n窓の外だけが夕暮れになった。時計は夜のままだった。\nメニューを眺める\n今夜をDiaryへ持ち帰る\nCHECK OUT\n"
     }
   ]
