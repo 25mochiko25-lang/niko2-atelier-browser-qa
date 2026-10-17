@@ -1,6 +1,7 @@
 {
-  "id": "e4-20-diary-lower",
-  "op": "key",
-  "key": "PageDown",
-  "note": "Scroll diary to archived entries using supported keyboard PageDown after focus removed"
+  "id": "e4-21-diary-photo",
+  "op": "tap",
+  "x": 119,
+  "y": 140,
+  "note": "Select visible preset vending-machine image in Diary without saving; release text focus"
 }
