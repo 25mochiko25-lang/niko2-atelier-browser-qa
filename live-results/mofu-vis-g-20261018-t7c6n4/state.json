@@ -6,19 +6,21 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-17T22:05:16.183Z",
-  "updatedAt": "2026-10-17T22:13:55.826Z",
-  "lastCommand": "g24",
+  "updatedAt": "2026-10-17T22:14:18.149Z",
+  "lastCommand": "g25",
   "stopReason": null,
   "action": {
-    "id": "g24",
-    "op": "look",
-    "note": "Let opening-door transition settle for visual look"
+    "id": "g25",
+    "op": "tap",
+    "x": 362,
+    "y": 354,
+    "note": "Open the cabinet for a quick look"
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/d756c369057dcb0c9a7468792cd75654e68e8704/live-results/mofu-vis-g-20261018-t7c6n4/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/8f34cd6f6b4a01c8e6e267f2efa30c0e0205bd50/live-results/mofu-vis-g-20261018-t7c6n4/current.jpg",
   "readOnly": true,
   "blockedWrites": 18,
-  "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-g-20261018-t7c6n4#room0",
+  "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-g-20261018-t7c6n4#cabinet",
   "title": "NIKO² ATELIER",
   "viewport": {
     "width": 430,
@@ -29,7 +31,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\nNIKO² ATELIER\n\n \nWORLD / RN-00\nROOM NULL\na room that remembers you.\nRN-00\n",
+  "text": "作品へ移動\nNIKO² ATELIER\n\n\nWHAT REMAINED\nTHE CABINET\n\n",
   "controls": [
     {
       "tag": "A",
@@ -54,47 +56,14 @@
       }
     },
     {
-      "tag": "A",
-      "text": "WORLDへ戻る",
+      "tag": "BUTTON",
+      "text": "前の場所へ戻る",
       "disabled": false,
       "rect": {
         "x": 14,
-        "y": 86,
-        "w": 40,
-        "h": 40
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "CHANNEL 00を開く",
-      "disabled": false,
-      "rect": {
-        "x": 15,
-        "y": 350,
-        "w": 172,
-        "h": 154
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "Cabinetを開く",
-      "disabled": false,
-      "rect": {
-        "x": 288,
-        "y": 224,
-        "w": 138,
-        "h": 242
-      }
-    },
-    {
-      "tag": "A",
-      "text": "Diaryを開く",
-      "disabled": false,
-      "rect": {
-        "x": 194,
-        "y": 596,
-        "w": 206,
-        "h": 233
+        "y": 88,
+        "w": 46,
+        "h": 46
       }
     }
   ],
@@ -469,6 +438,21 @@
       "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-g-20261018-t7c6n4#room0",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/d756c369057dcb0c9a7468792cd75654e68e8704/live-results/mofu-vis-g-20261018-t7c6n4/current.jpg",
       "text": "作品へ移動\nNIKO² ATELIER\n\n \nWORLD / RN-00\nROOM NULL\na room that remembers you.\nRN-00\n"
+    },
+    {
+      "number": 26,
+      "at": "2026-10-17T22:14:18.149Z",
+      "action": {
+        "id": "g25",
+        "op": "tap",
+        "x": 362,
+        "y": 354,
+        "note": "Open the cabinet for a quick look"
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-g-20261018-t7c6n4#cabinet",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/8f34cd6f6b4a01c8e6e267f2efa30c0e0205bd50/live-results/mofu-vis-g-20261018-t7c6n4/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\n\n\nWHAT REMAINED\nTHE CABINET\n\n"
     }
   ]
 }
