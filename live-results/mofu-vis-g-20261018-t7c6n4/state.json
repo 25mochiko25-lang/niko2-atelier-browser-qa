@@ -6,18 +6,16 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-17T22:05:16.183Z",
-  "updatedAt": "2026-10-17T22:13:33.802Z",
-  "lastCommand": "g23",
+  "updatedAt": "2026-10-17T22:13:55.826Z",
+  "lastCommand": "g24",
   "stopReason": null,
   "action": {
-    "id": "g23",
-    "op": "tap",
-    "x": 211,
-    "y": 481,
-    "note": "Open ROOM NULL as a returning visitor"
+    "id": "g24",
+    "op": "look",
+    "note": "Let opening-door transition settle for visual look"
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/865093b05f99b32e51e110523bf45e492eb3b3a1/live-results/mofu-vis-g-20261018-t7c6n4/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/d756c369057dcb0c9a7468792cd75654e68e8704/live-results/mofu-vis-g-20261018-t7c6n4/current.jpg",
   "readOnly": true,
   "blockedWrites": 18,
   "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-g-20261018-t7c6n4#room0",
@@ -457,6 +455,19 @@
       "error": null,
       "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-g-20261018-t7c6n4#room0",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/865093b05f99b32e51e110523bf45e492eb3b3a1/live-results/mofu-vis-g-20261018-t7c6n4/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\n\n \nWORLD / RN-00\nROOM NULL\na room that remembers you.\nRN-00\n"
+    },
+    {
+      "number": 25,
+      "at": "2026-10-17T22:13:55.826Z",
+      "action": {
+        "id": "g24",
+        "op": "look",
+        "note": "Let opening-door transition settle for visual look"
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-g-20261018-t7c6n4#room0",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/d756c369057dcb0c9a7468792cd75654e68e8704/live-results/mofu-vis-g-20261018-t7c6n4/current.jpg",
       "text": "作品へ移動\nNIKO² ATELIER\n\n \nWORLD / RN-00\nROOM NULL\na room that remembers you.\nRN-00\n"
     }
   ]
