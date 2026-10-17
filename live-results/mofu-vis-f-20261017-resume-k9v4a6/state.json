@@ -6,21 +6,21 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-17T04:01:12.828Z",
-  "updatedAt": "2026-10-17T04:09:48.493Z",
-  "lastCommand": "r21",
+  "updatedAt": "2026-10-17T04:10:16.627Z",
+  "lastCommand": "r22",
   "stopReason": null,
   "action": {
-    "id": "r21",
+    "id": "r22",
     "op": "tap",
-    "x": 372,
-    "y": 859,
-    "note": "Next on visible NIKO² ATELIER onboarding"
+    "x": 205,
+    "y": 556,
+    "note": "Open publicly visible PERFUME MORGUE card on NEXT PLACES, previously unobserved by F"
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/8e3e946d87625afa737dc0ba20c8a984d1aeb1aa/live-results/mofu-vis-f-20261017-resume-k9v4a6/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/6c0c6bf76a727125782cf108dbb7172723fa5d02/live-results/mofu-vis-f-20261017-resume-k9v4a6/current.jpg",
   "readOnly": true,
-  "blockedWrites": 11,
-  "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-f-20261017-resume-k9v4a6",
+  "blockedWrites": 14,
+  "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-f-20261017-resume-k9v4a6#perfume",
   "title": "NIKO² ATELIER",
   "viewport": {
     "width": 430,
@@ -31,8 +31,19 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n \nWORLD\nWORLD\n水面の向こうに、いくつかの場所がひらいています。\n\n\nABOUT\nもふもふはいます。\nPLAY / SHARE / FAN WORK\nNIKO²での生活について\n好きな形で遊ぶための、小さな境界。\nDEAR ATELIER\nお手紙を送る\nAtelierの受取箱へ。\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n\nNEXT PLACES\nこの先に、二つの場所がひらいています。\nどちらを選んでも、選ばなくても大丈夫です。\n\n\nFROM THE ATELIER\nこの世界の制作記録を読む場所。\n\n\nPERFUME MORGUE\n12兆通りの記憶から、あなたのためだけの香りをつくる場所。\n戻る完了",
+  "text": "作品へ移動\nNIKO² ATELIER\n\n\nDREAM / PM-01\nPERFUME MORGUE\nFORMULA / EMPTY\nFORMULA / TWELVE TRILLION\n三つの層に、記憶を落とす。\n十二兆通りの数式のうち、今日の一本だけが、あなたの手で閉じる。\nときどき、こちらの記録にはない香りも届きます。\n\n調香台へ\n",
   "controls": [
+    {
+      "tag": "A",
+      "text": "NIKO² ATELIER",
+      "disabled": false,
+      "rect": {
+        "x": 22,
+        "y": 13,
+        "w": 118,
+        "h": 44
+      }
+    },
     {
       "tag": "BUTTON",
       "text": "音をオンにする",
@@ -45,90 +56,24 @@
       }
     },
     {
-      "tag": "A",
-      "text": "FROM THE ATELIERを開く",
+      "tag": "BUTTON",
+      "text": "アトリエへ戻る",
       "disabled": false,
       "rect": {
-        "x": 310,
-        "y": 303,
-        "w": 91,
-        "h": 92
-      }
-    },
-    {
-      "tag": "A",
-      "text": "Diaryを開く",
-      "disabled": false,
-      "rect": {
-        "x": 20,
-        "y": 330,
-        "w": 147,
-        "h": 147
+        "x": 14,
+        "y": 82,
+        "w": 40,
+        "h": 40
       }
     },
     {
       "tag": "BUTTON",
-      "text": "Enter the dream",
+      "text": "調香台へ",
       "disabled": false,
       "rect": {
-        "x": 110,
-        "y": 545,
-        "w": 210,
-        "h": 70
-      }
-    },
-    {
-      "tag": "A",
-      "text": "WORLDを開く",
-      "disabled": false,
-      "rect": {
-        "x": 26,
-        "y": 878,
-        "w": 378,
-        "h": 213
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "FROM THE ATELIER\nこの世界の制作記録を読む場所。",
-      "disabled": false,
-      "rect": {
-        "x": 46,
-        "y": 350,
-        "w": 338,
-        "h": 134
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "PERFUME MORGUE\n12兆通りの記憶から、あなたのためだけの香りをつくる場所。",
-      "disabled": false,
-      "rect": {
-        "x": 46,
-        "y": 494,
-        "w": 338,
-        "h": 134
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "戻る",
-      "disabled": false,
-      "rect": {
-        "x": 18,
-        "y": 836,
-        "w": 72,
-        "h": 44
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "完了",
-      "disabled": false,
-      "rect": {
-        "x": 340,
-        "y": 836,
-        "w": 72,
+        "x": 34,
+        "y": 554,
+        "w": 362,
         "h": 44
       }
     }
@@ -460,6 +405,21 @@
       "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-f-20261017-resume-k9v4a6",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/8e3e946d87625afa737dc0ba20c8a984d1aeb1aa/live-results/mofu-vis-f-20261017-resume-k9v4a6/current.jpg",
       "text": "作品へ移動\n \nWORLD\nWORLD\n水面の向こうに、いくつかの場所がひらいています。\n\n\nABOUT\nもふもふはいます。\nPLAY / SHARE / FAN WORK\nNIKO²での生活について\n好きな形で遊ぶための、小さな境界。\nDEAR ATELIER\nお手紙を送る\nAtelierの受取箱へ。\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n\nNEXT PLACES\nこの先に、二つの場所がひらいています。\nどちらを選んでも、選ばなくても大丈夫です。\n\n\nFROM THE ATELIER\nこの世界の制作記録を読む場所。\n\n\nPERFUME MORGUE\n12兆通りの記憶から、あなたのためだけの香りをつくる場所。\n戻る完了"
+    },
+    {
+      "number": 23,
+      "at": "2026-10-17T04:10:16.627Z",
+      "action": {
+        "id": "r22",
+        "op": "tap",
+        "x": 205,
+        "y": 556,
+        "note": "Open publicly visible PERFUME MORGUE card on NEXT PLACES, previously unobserved by F"
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-f-20261017-resume-k9v4a6#perfume",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/6c0c6bf76a727125782cf108dbb7172723fa5d02/live-results/mofu-vis-f-20261017-resume-k9v4a6/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\n\n\nDREAM / PM-01\nPERFUME MORGUE\nFORMULA / EMPTY\nFORMULA / TWELVE TRILLION\n三つの層に、記憶を落とす。\n十二兆通りの数式のうち、今日の一本だけが、あなたの手で閉じる。\nときどき、こちらの記録にはない香りも届きます。\n\n調香台へ\n"
     }
   ]
 }
