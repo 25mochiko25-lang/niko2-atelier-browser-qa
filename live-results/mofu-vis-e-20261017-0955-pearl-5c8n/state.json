@@ -6,18 +6,18 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-17T00:55:08.310Z",
-  "updatedAt": "2026-10-17T01:05:16.687Z",
-  "lastCommand": "e4-27-archive-month",
+  "updatedAt": "2026-10-17T01:05:41.419Z",
+  "lastCommand": "e4-28-archive-year",
   "stopReason": null,
   "action": {
-    "id": "e4-27-archive-month",
+    "id": "e4-28-archive-year",
     "op": "tap",
-    "x": 161,
-    "y": 353,
-    "note": "Switch publicly visible archive from day to month mode"
+    "x": 215,
+    "y": 604,
+    "note": "Compare archive month/year switch and view position; no data mutation"
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/bd58dfe4eef8ab6b9ba80b1f631cd1d52c0d0ae8/live-results/mofu-vis-e-20261017-0955-pearl-5c8n/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/48c01c6521c1a5d38b7c798f8203b3a6de131044/live-results/mofu-vis-e-20261017-0955-pearl-5c8n/current.jpg",
   "readOnly": true,
   "blockedWrites": 16,
   "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-e-20261017-0955-pearl-5c8n#diary",
@@ -31,7 +31,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\nNIKO² ATELIER\nDream\nDiary\nAbout\n\nNIKO² DIARY\nDiary\n今日のことを、ひとつだけ。\n10月17日 10:05\nTODAY\n今日を残す\n選んだ記憶が、ここに書きとめてあります。\nあなたの言葉を、添えても構いません。\n✦\nいまの気配\n\n静か\n\nきらきら\n\nぼんやり\n\nざわざわ\n\n甘い\n\n雨っぽい\n\n眠い\n\n何もない\nPHOTO\n写真\n自販機\nまち\n部屋\n買ったもの\n遊び\n食べもの\nその他\n写真を眺める\n‹\n›\n\n\n自販機\n\n\nホーム\n\n\n改札\n\n\n途中\n\n\nロッカー\n\n\nエレベーター\n\n\nガラス扉\n\n\n空席\n\n\n雨の改札\n\n\n22:47\n\n\n青空\n\n\n夕方\n\n\n夜空\n\n\n空の間\n\n\n夕方の壁\n\n\n雨あがり\n言葉\nOPTIONAL\n0 / 6000\nこの端末だけに残ります\n残す\n2026年10月\nMONTHLY REFLECTION\n今月の景色\nまだ何も残っていません。\n最初のひとつを持ち帰ると、ここから景色が育ちます。\nARCHIVE\n前の日々をひらく\n日々\n月\n年\n\n2026年10月\n\n日\n月\n火\n水\n木\n金\n土\n\n1\n\n2\n\n3\n\n4\n\n5\n\n6\n\n7\n\n8\n\n9\n\n10\n\n11\n\n12\n\n13\n\n14\n\n15\n\n16\n\n17\n\n18\n\n19\n\n20\n\n21\n\n22\n\n23\n\n24\n\n25\n\n26\n\n27\n\n28\n\n29\n\n30\n\n31\n\nWHAT REMAINED\n残ったものを見る\nアトリエへ戻る\n",
+  "text": "作品へ移動\nNIKO² ATELIER\nDream\nDiary\nAbout\n\nNIKO² DIARY\nDiary\n今日のことを、ひとつだけ。\n10月17日 10:05\nTODAY\n今日を残す\n選んだ記憶が、ここに書きとめてあります。\nあなたの言葉を、添えても構いません。\n✦\nいまの気配\n\n静か\n\nきらきら\n\nぼんやり\n\nざわざわ\n\n甘い\n\n雨っぽい\n\n眠い\n\n何もない\nPHOTO\n写真\n自販機\nまち\n部屋\n買ったもの\n遊び\n食べもの\nその他\n写真を眺める\n‹\n›\n\n\n自販機\n\n\nホーム\n\n\n改札\n\n\n途中\n\n\nロッカー\n\n\nエレベーター\n\n\nガラス扉\n\n\n空席\n\n\n雨の改札\n\n\n22:47\n\n\n青空\n\n\n夕方\n\n\n夜空\n\n\n空の間\n\n\n夕方の壁\n\n\n雨あがり\n言葉\nOPTIONAL\n0 / 6000\nこの端末だけに残ります\n残す\n2026年10月\nMONTHLY REFLECTION\n今月の景色\nまだ何も残っていません。\n最初のひとつを持ち帰ると、ここから景色が育ちます。\nARCHIVE\n前の日々をひらく\n日々\n月\n年\n\n2026\n\n\nJanuary\nquiet\n\nFebruary\nquiet\n\nMarch\nquiet\n\nApril\nquiet\n\nMay\nquiet\n\nJune\nquiet\n\nJuly\nquiet\n\nAugust\nquiet\n\nSeptember\nquiet\n\nOctober\nquiet\n\nNovember\nquiet\n\nDecember\nquiet\n\nWHAT REMAINED\n残ったものを見る\nアトリエへ戻る\n",
   "controls": [
     {
       "tag": "A",
@@ -123,7 +123,7 @@
     },
     {
       "tag": "BUTTON",
-      "text": "前月",
+      "text": "前年",
       "disabled": false,
       "rect": {
         "x": 46,
@@ -134,7 +134,7 @@
     },
     {
       "tag": "BUTTON",
-      "text": "翌月",
+      "text": "翌年",
       "disabled": false,
       "rect": {
         "x": 226,
@@ -145,189 +145,68 @@
     },
     {
       "tag": "BUTTON",
-      "text": "1",
-      "disabled": false,
-      "rect": {
-        "x": 242,
-        "y": 726,
-        "w": 48,
-        "h": 68
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "2",
-      "disabled": false,
-      "rect": {
-        "x": 293,
-        "y": 726,
-        "w": 48,
-        "h": 68
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "3",
-      "disabled": false,
-      "rect": {
-        "x": 345,
-        "y": 726,
-        "w": 48,
-        "h": 68
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "4",
+      "text": "January\nquiet",
       "disabled": false,
       "rect": {
         "x": 37,
-        "y": 797,
-        "w": 48,
-        "h": 68
+        "y": 702,
+        "w": 173,
+        "h": 92
       }
     },
     {
       "tag": "BUTTON",
-      "text": "5",
+      "text": "February\nquiet",
       "disabled": false,
       "rect": {
-        "x": 88,
-        "y": 797,
-        "w": 48,
-        "h": 68
+        "x": 221,
+        "y": 702,
+        "w": 173,
+        "h": 92
       }
     },
     {
       "tag": "BUTTON",
-      "text": "6",
-      "disabled": false,
-      "rect": {
-        "x": 140,
-        "y": 797,
-        "w": 48,
-        "h": 68
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "7",
-      "disabled": false,
-      "rect": {
-        "x": 191,
-        "y": 797,
-        "w": 48,
-        "h": 68
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "8",
-      "disabled": false,
-      "rect": {
-        "x": 242,
-        "y": 797,
-        "w": 48,
-        "h": 68
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "9",
-      "disabled": false,
-      "rect": {
-        "x": 293,
-        "y": 797,
-        "w": 48,
-        "h": 68
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "10",
-      "disabled": false,
-      "rect": {
-        "x": 345,
-        "y": 797,
-        "w": 48,
-        "h": 68
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "11",
+      "text": "March\nquiet",
       "disabled": false,
       "rect": {
         "x": 37,
-        "y": 868,
-        "w": 48,
-        "h": 68
+        "y": 805,
+        "w": 173,
+        "h": 92
       }
     },
     {
       "tag": "BUTTON",
-      "text": "12",
+      "text": "April\nquiet",
       "disabled": false,
       "rect": {
-        "x": 88,
-        "y": 868,
-        "w": 48,
-        "h": 68
+        "x": 221,
+        "y": 805,
+        "w": 173,
+        "h": 92
       }
     },
     {
       "tag": "BUTTON",
-      "text": "13",
+      "text": "May\nquiet",
       "disabled": false,
       "rect": {
-        "x": 140,
-        "y": 868,
-        "w": 48,
-        "h": 68
+        "x": 37,
+        "y": 908,
+        "w": 173,
+        "h": 92
       }
     },
     {
       "tag": "BUTTON",
-      "text": "14",
+      "text": "June\nquiet",
       "disabled": false,
       "rect": {
-        "x": 191,
-        "y": 868,
-        "w": 48,
-        "h": 68
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "15",
-      "disabled": false,
-      "rect": {
-        "x": 242,
-        "y": 868,
-        "w": 48,
-        "h": 68
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "16",
-      "disabled": false,
-      "rect": {
-        "x": 293,
-        "y": 868,
-        "w": 48,
-        "h": 68
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "17",
-      "disabled": false,
-      "rect": {
-        "x": 345,
-        "y": 868,
-        "w": 48,
-        "h": 68
+        "x": 221,
+        "y": 908,
+        "w": 173,
+        "h": 92
       }
     }
   ],
@@ -741,6 +620,21 @@
       "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-e-20261017-0955-pearl-5c8n#diary",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/bd58dfe4eef8ab6b9ba80b1f631cd1d52c0d0ae8/live-results/mofu-vis-e-20261017-0955-pearl-5c8n/current.jpg",
       "text": "作品へ移動\nNIKO² ATELIER\nDream\nDiary\nAbout\n\nNIKO² DIARY\nDiary\n今日のことを、ひとつだけ。\n10月17日 10:05\nTODAY\n今日を残す\n選んだ記憶が、ここに書きとめてあります。\nあなたの言葉を、添えても構いません。\n✦\nいまの気配\n\n静か\n\nきらきら\n\nぼんやり\n\nざわざわ\n\n甘い\n\n雨っぽい\n\n眠い\n\n何もない\nPHOTO\n写真\n自販機\nまち\n部屋\n買ったもの\n遊び\n食べもの\nその他\n写真を眺める\n‹\n›\n\n\n自販機\n\n\nホーム\n\n\n改札\n\n\n途中\n\n\nロッカー\n\n\nエレベーター\n\n\nガラス扉\n\n\n空席\n\n\n雨の改札\n\n\n22:47\n\n\n青空\n\n\n夕方\n\n\n夜空\n\n\n空の間\n\n\n夕方の壁\n\n\n雨あがり\n言葉\nOPTIONAL\n0 / 6000\nこの端末だけに残ります\n残す\n2026年10月\nMONTHLY REFLECTION\n今月の景色\nまだ何も残っていません。\n最初のひとつを持ち帰ると、ここから景色が育ちます。\nARCHIVE\n前の日々をひらく\n日々\n月\n年\n\n2026年10月\n\n日\n月\n火\n水\n木\n金\n土\n\n1\n\n2\n\n3\n\n4\n\n5\n\n6\n\n7\n\n8\n\n9\n\n10\n\n11\n\n12\n\n13\n\n14\n\n15\n\n16\n\n17\n\n18\n\n19\n\n20\n\n21\n\n22\n\n23\n\n24\n\n25\n\n26\n\n27\n\n28\n\n29\n\n30\n\n31\n\nWHAT REMAINED\n残ったものを見る\nアトリエへ戻る\n"
+    },
+    {
+      "number": 29,
+      "at": "2026-10-17T01:05:41.419Z",
+      "action": {
+        "id": "e4-28-archive-year",
+        "op": "tap",
+        "x": 215,
+        "y": 604,
+        "note": "Compare archive month/year switch and view position; no data mutation"
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-e-20261017-0955-pearl-5c8n#diary",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/48c01c6521c1a5d38b7c798f8203b3a6de131044/live-results/mofu-vis-e-20261017-0955-pearl-5c8n/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\nDream\nDiary\nAbout\n\nNIKO² DIARY\nDiary\n今日のことを、ひとつだけ。\n10月17日 10:05\nTODAY\n今日を残す\n選んだ記憶が、ここに書きとめてあります。\nあなたの言葉を、添えても構いません。\n✦\nいまの気配\n\n静か\n\nきらきら\n\nぼんやり\n\nざわざわ\n\n甘い\n\n雨っぽい\n\n眠い\n\n何もない\nPHOTO\n写真\n自販機\nまち\n部屋\n買ったもの\n遊び\n食べもの\nその他\n写真を眺める\n‹\n›\n\n\n自販機\n\n\nホーム\n\n\n改札\n\n\n途中\n\n\nロッカー\n\n\nエレベーター\n\n\nガラス扉\n\n\n空席\n\n\n雨の改札\n\n\n22:47\n\n\n青空\n\n\n夕方\n\n\n夜空\n\n\n空の間\n\n\n夕方の壁\n\n\n雨あがり\n言葉\nOPTIONAL\n0 / 6000\nこの端末だけに残ります\n残す\n2026年10月\nMONTHLY REFLECTION\n今月の景色\nまだ何も残っていません。\n最初のひとつを持ち帰ると、ここから景色が育ちます。\nARCHIVE\n前の日々をひらく\n日々\n月\n年\n\n2026\n\n\nJanuary\nquiet\n\nFebruary\nquiet\n\nMarch\nquiet\n\nApril\nquiet\n\nMay\nquiet\n\nJune\nquiet\n\nJuly\nquiet\n\nAugust\nquiet\n\nSeptember\nquiet\n\nOctober\nquiet\n\nNovember\nquiet\n\nDecember\nquiet\n\nWHAT REMAINED\n残ったものを見る\nアトリエへ戻る\n"
     }
   ]
 }
