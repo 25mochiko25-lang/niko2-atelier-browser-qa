@@ -1,7 +1,7 @@
 {
-  "id": "e4-34-gallery-next",
+  "id": "e4-35-gallery-select",
   "op": "tap",
-  "x": 404,
-  "y": 504,
-  "note": "Move from photo 1 to photo 2 with visible gallery arrow"
+  "x": 215,
+  "y": 900,
+  "note": "Choose built-in gallery photo preview only, not Save Diary"
 }
