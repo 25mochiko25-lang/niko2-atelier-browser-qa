@@ -1,7 +1,7 @@
 {
-  "id": "e4-05-enter",
+  "id": "e4-06-quiet",
   "op": "tap",
-  "x": 212,
-  "y": 877,
-  "note": "Garden public entrance"
+  "x": 385,
+  "y": 71,
+  "note": "Garden's visible memory shortcut"
 }
