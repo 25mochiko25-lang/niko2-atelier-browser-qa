@@ -1,1 +1,1 @@
-{"id":"g20","op":"scroll","x":225,"y":754,"dx":0,"dy":570,"note":"Scroll to the WORLD entrance while revisiting"}
+{"id":"g21","op":"tap","x":225,"y":902,"note":"Open visible top of WORLD card; mobile browser test cannot wheel-scroll"}
