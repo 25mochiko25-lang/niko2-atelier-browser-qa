@@ -1,7 +1,7 @@
 {
-  "id": "e4-08-leave",
+  "id": "e4-09-discard",
   "op": "tap",
-  "x": 68,
-  "y": 892,
-  "note": "Open observed public memory dialog from leave dream"
+  "x": 214,
+  "y": 716,
+  "note": "No storage submission; return to Atelier from memory dialog"
 }
