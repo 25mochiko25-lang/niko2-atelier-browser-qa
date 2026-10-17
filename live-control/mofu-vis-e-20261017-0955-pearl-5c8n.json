@@ -1,7 +1,6 @@
 {
-  "id": "e4-21-diary-photo",
-  "op": "tap",
-  "x": 119,
-  "y": 140,
-  "note": "Select visible preset vending-machine image in Diary without saving; release text focus"
+  "id": "e4-22-diary-lower",
+  "op": "key",
+  "key": "PageDown",
+  "note": "Move to archive after selecting preset photo and leaving textarea focus"
 }
