@@ -1,6 +1,7 @@
 {
-  "id": "r33",
-  "op": "key",
-  "key": "PageDown",
-  "note": "Read remainder of Perfume result and inspect lower section, not representing phone swipe"
+  "id": "r34",
+  "op": "tap",
+  "x": 85,
+  "y": 34,
+  "note": "Return to Home via visible brand header; continue public CHANNEL 00 unvisited link inspection"
 }
