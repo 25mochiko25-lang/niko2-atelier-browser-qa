@@ -1,7 +1,7 @@
 {
-  "id": "e5-19-genesis-back",
+  "id": "e5-20-founder-filter",
   "op": "tap",
-  "x": 102,
-  "y": 850,
-  "note": "Use bottom FROM THE ATELIER return after reading public GENESIS article"
+  "x": 304,
+  "y": 233,
+  "note": "Inspect visible FOUNDER filter and empty/nonempty list spacing"
 }
