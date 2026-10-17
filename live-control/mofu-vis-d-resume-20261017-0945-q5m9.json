@@ -1,7 +1,8 @@
 {
-  "id": "dr16-quiet-settle",
-  "op": "look",
-  "wait": 1600,
-  "want": "夢を離れる",
+  "id": "dr17-leave-dream",
+  "op": "tap",
+  "x": 74,
+  "y": 890,
+  "want": "WORLD MEMORY",
   "note": "Follow already observed route; check visible controls and scene transition."
 }
