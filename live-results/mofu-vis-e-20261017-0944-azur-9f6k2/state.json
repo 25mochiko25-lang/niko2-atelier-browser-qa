@@ -6,18 +6,17 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-17T00:45:24.800Z",
-  "updatedAt": "2026-10-17T00:49:48.120Z",
-  "lastCommand": "e3-15-letter-article",
+  "updatedAt": "2026-10-17T00:50:18.479Z",
+  "lastCommand": "e3-16-letter-settle",
   "stopReason": null,
   "action": {
-    "id": "e3-15-letter-article",
-    "op": "tap",
-    "x": 191,
-    "y": 807,
-    "note": "Open visible first-letter article from FROM THE ATELIER list"
+    "id": "e3-16-letter-settle",
+    "op": "wait",
+    "ms": 1600,
+    "note": "Check whether article back-link overlap persists after layout settles"
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/446d7bd38ca95ec5887449e070b5c404ce60ab57/live-results/mofu-vis-e-20261017-0944-azur-9f6k2/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/4bf384d70c57dab5b89df8dd78c2278c3aceaf72/live-results/mofu-vis-e-20261017-0944-azur-9f6k2/current.jpg",
   "readOnly": true,
   "blockedWrites": 10,
   "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-e-20261017-0944-azur-9f6k2#mofumofu-post-first-letter",
@@ -336,6 +335,20 @@
       "error": null,
       "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-e-20261017-0944-azur-9f6k2#mofumofu-post-first-letter",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/446d7bd38ca95ec5887449e070b5c404ce60ab57/live-results/mofu-vis-e-20261017-0944-azur-9f6k2/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\nDream\nDiary\nAbout\n\nFROM THE ATELIERへ戻る\nNOTES / MOFUMOFU POST\n\n2026.10.16 / 21:00\n📮 はじめてのお手紙が届きました！\n\nアトリエのポストに、はじめてお手紙が届きました。 白いもふもふも、かなり浮かれています。  送ってくれた方へ。ありがとう！ ちゃんと、届いています。\n"
+    },
+    {
+      "number": 17,
+      "at": "2026-10-17T00:50:18.479Z",
+      "action": {
+        "id": "e3-16-letter-settle",
+        "op": "wait",
+        "ms": 1600,
+        "note": "Check whether article back-link overlap persists after layout settles"
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-e-20261017-0944-azur-9f6k2#mofumofu-post-first-letter",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/4bf384d70c57dab5b89df8dd78c2278c3aceaf72/live-results/mofu-vis-e-20261017-0944-azur-9f6k2/current.jpg",
       "text": "作品へ移動\nNIKO² ATELIER\nDream\nDiary\nAbout\n\nFROM THE ATELIERへ戻る\nNOTES / MOFUMOFU POST\n\n2026.10.16 / 21:00\n📮 はじめてのお手紙が届きました！\n\nアトリエのポストに、はじめてお手紙が届きました。 白いもふもふも、かなり浮かれています。  送ってくれた方へ。ありがとう！ ちゃんと、届いています。\n"
     }
   ]
