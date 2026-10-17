@@ -1,6 +1,7 @@
 {
-  "id": "r50",
-  "op": "key",
-  "key": "PageDown",
-  "note": "Inspect lower CHANNEL 00 links clipped by fixed footer using keyboard viewport scroll; not iPhone touch scroll validation"
+  "id": "r51",
+  "op": "tap",
+  "x": 208,
+  "y": 838,
+  "note": "Attempt to open visible thin top strip of partially clipped lost_page.html above footer; assess accessibility"
 }
