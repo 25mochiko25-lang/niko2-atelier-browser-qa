@@ -1,7 +1,7 @@
 {
-  "id": "e5-08-leave",
+  "id": "e5-09-discard",
   "op": "tap",
-  "x": 73,
-  "y": 891,
-  "note": "Use visible dream exit control to reach memory modal"
+  "x": 211,
+  "y": 723,
+  "note": "Return to Atelier using visible no-save button; do not submit data"
 }
