@@ -1,7 +1,7 @@
 {
-  "id": "r14",
+  "id": "r15",
   "op": "tap",
-  "x": 44,
-  "y": 473,
-  "note": "Collect last visible Garden item to open public gate"
+  "x": 323,
+  "y": 279,
+  "note": "Enter lit Garden gate; required public route to CHANNEL 00"
 }
