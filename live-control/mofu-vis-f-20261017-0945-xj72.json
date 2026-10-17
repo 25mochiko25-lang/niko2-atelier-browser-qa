@@ -1,10 +1,7 @@
 {
-  "id": "f55",
-  "op": "scroll",
-  "x": 351,
-  "y": 820,
-  "dx": 0,
-  "dy": 977,
-  "wait": 1300,
-  "note": "Second attempt to inspect visible HOME lower content using observer wheel emulation, not a finger swipe"
+  "id": "f56",
+  "op": "tap",
+  "x": 214,
+  "y": 905,
+  "note": "Return to World to compare more CHANNEL 00 pages; no direct Perfume link currently visible"
 }
