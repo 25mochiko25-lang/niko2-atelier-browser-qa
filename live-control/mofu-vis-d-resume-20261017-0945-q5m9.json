@@ -1,7 +1,7 @@
 {
-  "id": "dr14-key",
+  "id": "dr15-garden-gate",
   "op": "tap",
-  "x": 174,
-  "y": 607,
+  "x": 326,
+  "y": 271,
   "note": "Follow previously verified Garden route to WORLD without new visitor data."
 }
