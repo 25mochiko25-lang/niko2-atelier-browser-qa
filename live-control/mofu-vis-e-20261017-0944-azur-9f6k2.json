@@ -1,6 +1,6 @@
 {
-  "id": "e3-20-issue-pagedown",
+  "id": "e3-21-issue-pagedown2",
   "op": "key",
   "key": "PageDown",
-  "note": "Try supported key PageDown because mouse wheel is unsupported in mobile WebKit; not a touch-swipe claim"
+  "note": "Inspect additional published article layout with supported synthetic PageDown"
 }
