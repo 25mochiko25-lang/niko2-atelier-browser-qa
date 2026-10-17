@@ -1,7 +1,7 @@
 {
-  "id": "dr05-garden-entry",
+  "id": "dr06-hourglass",
   "op": "tap",
-  "x": 208,
-  "y": 877,
+  "x": 46,
+  "y": 449,
   "note": "Replay previously observed Garden route to ROOM NULL."
 }
