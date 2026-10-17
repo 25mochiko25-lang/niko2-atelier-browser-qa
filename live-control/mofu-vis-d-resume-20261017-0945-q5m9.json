@@ -1,7 +1,6 @@
 {
-  "id": "dr25-open-door",
-  "op": "tap",
-  "x": 382,
-  "y": 558,
-  "note": "Open visible ROOM NULL door via public WORLD route (read-only)."
+  "id": "dr26-room-settle",
+  "op": "look",
+  "wait": 1800,
+  "note": "Observe completed door transition before checking visible room controls."
 }
