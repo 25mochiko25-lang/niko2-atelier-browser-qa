@@ -1,7 +1,7 @@
 {
-  "id": "dr24-roomnull",
+  "id": "dr25-open-door",
   "op": "tap",
-  "x": 365,
-  "y": 432,
+  "x": 382,
+  "y": 558,
   "note": "Open visible ROOM NULL door via public WORLD route (read-only)."
 }
