@@ -1,7 +1,6 @@
 {
-  "id": "e4-06-quiet",
-  "op": "tap",
-  "x": 385,
-  "y": 71,
-  "note": "Garden's visible memory shortcut"
+  "id": "e4-07-settle",
+  "op": "wait",
+  "ms": 1800,
+  "note": "Observe quiet scene after transition; no skipped navigation"
 }
