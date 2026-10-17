@@ -1,6 +1,7 @@
 {
-  "id": "r53",
-  "op": "key",
-  "key": "End",
-  "note": "Try moving to bottom of clipped directory with standard keyboard end key; no direct hidden DOM interaction"
+  "id": "r54",
+  "op": "tap",
+  "x": 344,
+  "y": 871,
+  "note": "Inspect visible 閲覧の断片を持ち帰る presentation; readonly visitor writes blocked"
 }
