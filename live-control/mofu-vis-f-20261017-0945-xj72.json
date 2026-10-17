@@ -1,7 +1,7 @@
 {
-  "id": "f30",
+  "id": "f31",
   "op": "tap",
-  "x": 74,
-  "y": 520,
-  "note": "Follow the visible current Hotel link from Hotel Somnia's archival Channel page"
+  "x": 93,
+  "y": 816,
+  "note": "Check into the publicly visible Hotel using readOnly observer; blocked writes remain enforced"
 }
