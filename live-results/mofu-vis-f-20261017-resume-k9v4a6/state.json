@@ -6,20 +6,20 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-17T04:01:12.828Z",
-  "updatedAt": "2026-10-17T04:13:06.153Z",
-  "lastCommand": "r28",
+  "updatedAt": "2026-10-17T04:13:28.628Z",
+  "lastCommand": "r29",
   "stopReason": null,
   "action": {
-    "id": "r28",
+    "id": "r29",
     "op": "tap",
-    "x": 82,
-    "y": 217,
-    "note": "Add visible 甘い夢 to MIDDLE in local readonly WebKit context; visual state only"
+    "x": 341,
+    "y": 473,
+    "note": "Select visible LAST layer and inspect empty-state behavior"
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/515ca7ad5407337de696d18e2e485452c6f1eb55/live-results/mofu-vis-f-20261017-resume-k9v4a6/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/b938616be4c5261d5148708026ac7f22adaa119b/live-results/mofu-vis-f-20261017-resume-k9v4a6/current.jpg",
   "readOnly": true,
-  "blockedWrites": 16,
+  "blockedWrites": 17,
   "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-f-20261017-resume-k9v4a6#perfume",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -838,6 +838,21 @@
       "error": null,
       "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-f-20261017-resume-k9v4a6#perfume",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/515ca7ad5407337de696d18e2e485452c6f1eb55/live-results/mofu-vis-f-20261017-resume-k9v4a6/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\n\n\nDREAM / PM-01\nPERFUME MORGUE\nFORMULA / 2 MATERIALS\n香りになれなかった記憶。\n素材を選び、三つの層へ落としてください。順番と濃度で、同じ記憶も別の香りになります。\n雨\n古いぬいぐるみ\n燃えた砂糖\nホテルの白いシーツ\n甘い夢\n紅茶の渋み\n煙の名残\n花\n濡れた石\n乾いた木\n生の果実\n夜更け\n海水\n古い本\n化粧の粉\n冷たい金属\n\nMIXING BOTTLE / 2 MATERIALS\nIN BOTTLE / 雨 ×1 · 甘い夢 ×1\n\n01\nTOP\n\n02\nMIDDLE\n\n03\nLAST\nTOP\n雨 ×1\n×\n−\n＋\nMIDDLE\n甘い夢 ×1\n×\n−\n＋\nLAST\nこの層には、まだ何も落ちていない。\nCONCENTRATION\nEAU DE TOILETTE / 肌に近い\n\nEau Fraîche\n水のあと\n\nCologne\n風の輪郭\n\nToilette\n肌に近い\n\nParfum\n記憶の濃度\n\nExtrait\n最後まで残る\n\n香りを定着させる\n"
+    },
+    {
+      "number": 30,
+      "at": "2026-10-17T04:13:28.628Z",
+      "action": {
+        "id": "r29",
+        "op": "tap",
+        "x": 341,
+        "y": 473,
+        "note": "Select visible LAST layer and inspect empty-state behavior"
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-f-20261017-resume-k9v4a6#perfume",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/b938616be4c5261d5148708026ac7f22adaa119b/live-results/mofu-vis-f-20261017-resume-k9v4a6/current.jpg",
       "text": "作品へ移動\nNIKO² ATELIER\n\n\nDREAM / PM-01\nPERFUME MORGUE\nFORMULA / 2 MATERIALS\n香りになれなかった記憶。\n素材を選び、三つの層へ落としてください。順番と濃度で、同じ記憶も別の香りになります。\n雨\n古いぬいぐるみ\n燃えた砂糖\nホテルの白いシーツ\n甘い夢\n紅茶の渋み\n煙の名残\n花\n濡れた石\n乾いた木\n生の果実\n夜更け\n海水\n古い本\n化粧の粉\n冷たい金属\n\nMIXING BOTTLE / 2 MATERIALS\nIN BOTTLE / 雨 ×1 · 甘い夢 ×1\n\n01\nTOP\n\n02\nMIDDLE\n\n03\nLAST\nTOP\n雨 ×1\n×\n−\n＋\nMIDDLE\n甘い夢 ×1\n×\n−\n＋\nLAST\nこの層には、まだ何も落ちていない。\nCONCENTRATION\nEAU DE TOILETTE / 肌に近い\n\nEau Fraîche\n水のあと\n\nCologne\n風の輪郭\n\nToilette\n肌に近い\n\nParfum\n記憶の濃度\n\nExtrait\n最後まで残る\n\n香りを定着させる\n"
     }
   ]
