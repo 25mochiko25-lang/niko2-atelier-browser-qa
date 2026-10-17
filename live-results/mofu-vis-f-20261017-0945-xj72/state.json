@@ -6,21 +6,21 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-17T00:46:41.213Z",
-  "updatedAt": "2026-10-17T01:05:45.434Z",
-  "lastCommand": "f52",
+  "updatedAt": "2026-10-17T01:06:02.492Z",
+  "lastCommand": "f53",
   "stopReason": null,
   "action": {
-    "id": "f52",
+    "id": "f53",
     "op": "tap",
-    "x": 36,
-    "y": 111,
-    "note": "Leave visible Cabinet using its back button"
+    "x": 82,
+    "y": 35,
+    "note": "Use visible NIKO² ATELIER header to return home and inspect public lower navigation"
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/6168f6dd5bb79c80faa276dbd10dc8c68df36d88/live-results/mofu-vis-f-20261017-0945-xj72/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/4d7499a2706246fc7b3a8a92c9fe0c827d78d4d0/live-results/mofu-vis-f-20261017-0945-xj72/current.jpg",
   "readOnly": true,
-  "blockedWrites": 29,
-  "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-f-20261017-0945-xj72#room0",
+  "blockedWrites": 31,
+  "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-f-20261017-0945-xj72",
   "title": "NIKO² ATELIER",
   "viewport": {
     "width": 430,
@@ -31,19 +31,8 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\nNIKO² ATELIER\n\n \nWORLD / RN-00\nROOM NULL\na room that remembers you.\nRN-00\n",
+  "text": "作品へ移動\n \nWORLD\nWORLD\n水面の向こうに、いくつかの場所がひらいています。\n\n\nABOUT\nもふもふはいます。\nPLAY / SHARE / FAN WORK\nNIKO²での生活について\n好きな形で遊ぶための、小さな境界。\nDEAR ATELIER\nお手紙を送る\nAtelierの受取箱へ。\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n",
   "controls": [
-    {
-      "tag": "A",
-      "text": "NIKO² ATELIER",
-      "disabled": false,
-      "rect": {
-        "x": 22,
-        "y": 13,
-        "w": 118,
-        "h": 44
-      }
-    },
     {
       "tag": "BUTTON",
       "text": "音をオンにする",
@@ -57,35 +46,13 @@
     },
     {
       "tag": "A",
-      "text": "WORLDへ戻る",
+      "text": "FROM THE ATELIERを開く",
       "disabled": false,
       "rect": {
-        "x": 14,
-        "y": 86,
-        "w": 40,
-        "h": 40
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "CHANNEL 00を開く",
-      "disabled": false,
-      "rect": {
-        "x": 15,
-        "y": 350,
-        "w": 172,
-        "h": 154
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "Cabinetを開く",
-      "disabled": false,
-      "rect": {
-        "x": 288,
-        "y": 224,
-        "w": 138,
-        "h": 242
+        "x": 310,
+        "y": 303,
+        "w": 91,
+        "h": 92
       }
     },
     {
@@ -93,10 +60,32 @@
       "text": "Diaryを開く",
       "disabled": false,
       "rect": {
-        "x": 194,
-        "y": 596,
-        "w": 206,
-        "h": 233
+        "x": 20,
+        "y": 330,
+        "w": 147,
+        "h": 147
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Enter the dream",
+      "disabled": false,
+      "rect": {
+        "x": 110,
+        "y": 545,
+        "w": 210,
+        "h": 70
+      }
+    },
+    {
+      "tag": "A",
+      "text": "WORLDを開く",
+      "disabled": false,
+      "rect": {
+        "x": 26,
+        "y": 878,
+        "w": 378,
+        "h": 213
       }
     }
   ],
@@ -888,6 +877,21 @@
       "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-f-20261017-0945-xj72#room0",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/6168f6dd5bb79c80faa276dbd10dc8c68df36d88/live-results/mofu-vis-f-20261017-0945-xj72/current.jpg",
       "text": "作品へ移動\nNIKO² ATELIER\n\n \nWORLD / RN-00\nROOM NULL\na room that remembers you.\nRN-00\n"
+    },
+    {
+      "number": 54,
+      "at": "2026-10-17T01:06:02.492Z",
+      "action": {
+        "id": "f53",
+        "op": "tap",
+        "x": 82,
+        "y": 35,
+        "note": "Use visible NIKO² ATELIER header to return home and inspect public lower navigation"
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-f-20261017-0945-xj72",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/4d7499a2706246fc7b3a8a92c9fe0c827d78d4d0/live-results/mofu-vis-f-20261017-0945-xj72/current.jpg",
+      "text": "作品へ移動\n \nWORLD\nWORLD\n水面の向こうに、いくつかの場所がひらいています。\n\n\nABOUT\nもふもふはいます。\nPLAY / SHARE / FAN WORK\nNIKO²での生活について\n好きな形で遊ぶための、小さな境界。\nDEAR ATELIER\nお手紙を送る\nAtelierの受取箱へ。\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n"
     }
   ]
 }
