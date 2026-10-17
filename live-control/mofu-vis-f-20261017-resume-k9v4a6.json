@@ -1,7 +1,6 @@
 {
-  "id": "r52",
-  "op": "tap",
-  "x": 80,
-  "y": 379,
-  "note": "Test visible 404 safe return and directory recovery, no system navigation tricks"
+  "id": "r53",
+  "op": "key",
+  "key": "End",
+  "note": "Try moving to bottom of clipped directory with standard keyboard end key; no direct hidden DOM interaction"
 }
