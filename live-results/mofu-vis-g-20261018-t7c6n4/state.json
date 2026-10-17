@@ -6,21 +6,21 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-17T22:05:16.183Z",
-  "updatedAt": "2026-10-17T22:15:56.701Z",
-  "lastCommand": "g29",
+  "updatedAt": "2026-10-17T22:16:21.512Z",
+  "lastCommand": "g30",
   "stopReason": null,
   "action": {
-    "id": "g29",
+    "id": "g30",
     "op": "tap",
-    "x": 205,
-    "y": 636,
-    "note": "Read old-world Hotel Somnia homepage"
+    "x": 76,
+    "y": 541,
+    "note": "Visit present Hotel from CHANNEL 00 old homepage"
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/732c31e7e37468b5e95f72770708970e55ed9744/live-results/mofu-vis-g-20261018-t7c6n4/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/3d46e8f6e2edda4ccdbe477a2c2db349ec0c5b2f/live-results/mofu-vis-g-20261018-t7c6n4/current.jpg",
   "readOnly": true,
-  "blockedWrites": 20,
-  "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-g-20261018-t7c6n4#channel0",
+  "blockedWrites": 21,
+  "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-g-20261018-t7c6n4#hotel",
   "title": "NIKO² ATELIER",
   "viewport": {
     "width": 430,
@@ -31,7 +31,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\nNIKO² ATELIER\n\n\nCHANNEL / CH-00\nCHANNEL 00\n2 pages\n⌂\nhttp://somnia-hotel.jp/index.htm\n×\nHOTEL SOMNIA\nSame room. A different night.\n\nROOM SERVICE\n\n昨日、青の時間、誰かの雨。存在しない品もお部屋まで。\n\nROOM 000は静かで、とても広かったです。\n宿泊日：未到来\n現在のホテルへ guest book\nconnected at 33.6 kbps\n閲覧の断片を持ち帰る\n",
+  "text": "作品へ移動\nNIKO² ATELIER\n\n\nDREAM / ROOM 0317\nHOTEL SOMNIA\nSTAY 0 / 3\nFRONT DESK / ROOM 0317\n今夜も、同じ部屋をご用意しました。\n\n最初の三泊は、いつでもお越しいただけます。あと3泊。\n\nCHECK IN",
   "controls": [
     {
       "tag": "A",
@@ -56,8 +56,8 @@
       }
     },
     {
-      "tag": "BUTTON",
-      "text": "ROOM NULLへ戻る",
+      "tag": "A",
+      "text": "アトリエへ戻る",
       "disabled": false,
       "rect": {
         "x": 14,
@@ -68,57 +68,13 @@
     },
     {
       "tag": "BUTTON",
-      "text": "⌂",
+      "text": "CHECK IN",
       "disabled": false,
       "rect": {
-        "x": 17,
-        "y": 141,
-        "w": 31,
-        "h": 28
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "×",
-      "disabled": false,
-      "rect": {
-        "x": 381,
-        "y": 141,
-        "w": 31,
-        "h": 28
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "現在のホテルへ",
-      "disabled": false,
-      "rect": {
-        "x": 25,
-        "y": 524,
-        "w": 99,
-        "h": 35
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "guest book",
-      "disabled": false,
-      "rect": {
-        "x": 134,
-        "y": 523,
-        "w": 73,
-        "h": 35
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "閲覧の断片を持ち帰る",
-      "disabled": false,
-      "rect": {
-        "x": 286,
-        "y": 856,
-        "w": 125,
-        "h": 30
+        "x": 36,
+        "y": 789,
+        "w": 116,
+        "h": 46
       }
     }
   ],
@@ -568,6 +524,21 @@
       "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-g-20261018-t7c6n4#channel0",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/732c31e7e37468b5e95f72770708970e55ed9744/live-results/mofu-vis-g-20261018-t7c6n4/current.jpg",
       "text": "作品へ移動\nNIKO² ATELIER\n\n\nCHANNEL / CH-00\nCHANNEL 00\n2 pages\n⌂\nhttp://somnia-hotel.jp/index.htm\n×\nHOTEL SOMNIA\nSame room. A different night.\n\nROOM SERVICE\n\n昨日、青の時間、誰かの雨。存在しない品もお部屋まで。\n\nROOM 000は静かで、とても広かったです。\n宿泊日：未到来\n現在のホテルへ guest book\nconnected at 33.6 kbps\n閲覧の断片を持ち帰る\n"
+    },
+    {
+      "number": 31,
+      "at": "2026-10-17T22:16:21.512Z",
+      "action": {
+        "id": "g30",
+        "op": "tap",
+        "x": 76,
+        "y": 541,
+        "note": "Visit present Hotel from CHANNEL 00 old homepage"
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-g-20261018-t7c6n4#hotel",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/3d46e8f6e2edda4ccdbe477a2c2db349ec0c5b2f/live-results/mofu-vis-g-20261018-t7c6n4/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\n\n\nDREAM / ROOM 0317\nHOTEL SOMNIA\nSTAY 0 / 3\nFRONT DESK / ROOM 0317\n今夜も、同じ部屋をご用意しました。\n\n最初の三泊は、いつでもお越しいただけます。あと3泊。\n\nCHECK IN"
     }
   ]
 }
