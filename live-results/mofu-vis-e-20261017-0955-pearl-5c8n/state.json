@@ -6,18 +6,18 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-17T00:55:08.310Z",
-  "updatedAt": "2026-10-17T01:07:23.908Z",
-  "lastCommand": "e4-32-cabinet-back",
+  "updatedAt": "2026-10-17T01:07:58.877Z",
+  "lastCommand": "e4-33-photo-browse",
   "stopReason": null,
   "action": {
-    "id": "e4-32-cabinet-back",
+    "id": "e4-33-photo-browse",
     "op": "tap",
-    "x": 35,
-    "y": 113,
-    "note": "Return with visible back arrow and inspect Diary scroll restoration"
+    "x": 233,
+    "y": 752,
+    "note": "Inspect visible Diary photo browsing control, no user-uploaded content"
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/b2a34653e4432618fa2eaff8438d6f246cc36267/live-results/mofu-vis-e-20261017-0955-pearl-5c8n/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/10a5f6d3febf9cc659c220ac9363adf4c6f4287a/live-results/mofu-vis-e-20261017-0955-pearl-5c8n/current.jpg",
   "readOnly": true,
   "blockedWrites": 18,
   "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-e-20261017-0955-pearl-5c8n#diary",
@@ -31,7 +31,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\nNIKO² ATELIER\nDream\nDiary\nAbout\n\nNIKO² DIARY\nDiary\n今日のことを、ひとつだけ。\n10月17日 10:07\nTODAY\n今日を残す\n選んだ記憶が、ここに書きとめてあります。\nあなたの言葉を、添えても構いません。\n✦\nいまの気配\n\n静か\n\nきらきら\n\nぼんやり\n\nざわざわ\n\n甘い\n\n雨っぽい\n\n眠い\n\n何もない\nPHOTO\n写真\n選択なし\nまち\n部屋\n買ったもの\n遊び\n食べもの\nその他\n写真を眺める\n‹\n›\n\n\n自販機\n\n\nホーム\n\n\n改札\n\n\n途中\n\n\nロッカー\n\n\nエレベーター\n\n\nガラス扉\n\n\n空席\n\n\n雨の改札\n\n\n22:47\n\n\n青空\n\n\n夕方\n\n\n夜空\n\n\n空の間\n\n\n夕方の壁\n\n\n雨あがり\n言葉\nOPTIONAL\nこの端末だけに残ります\n残す\n2026年10月\nMONTHLY REFLECTION\n今月の景色\nまだ何も残っていません。\n最初のひとつを持ち帰ると、ここから景色が育ちます。\nARCHIVE\n前の日々をひらく\n\nWHAT REMAINED\n残ったものを見る\nアトリエへ戻る\n",
+  "text": "作品へ移動\nNIKO² ATELIER\nDream\nDiary\nAbout\n\nNIKO² DIARY\nDiary\n今日のことを、ひとつだけ。\n10月17日 10:07\nTODAY\n今日を残す\n選んだ記憶が、ここに書きとめてあります。\nあなたの言葉を、添えても構いません。\n✦\nいまの気配\n\n静か\n\nきらきら\n\nぼんやり\n\nざわざわ\n\n甘い\n\n雨っぽい\n\n眠い\n\n何もない\nPHOTO\n写真\n選択なし\nまち\n部屋\n買ったもの\n遊び\n食べもの\nその他\n写真を眺める\n‹\n›\n\n\n自販機\n\n\nホーム\n\n\n改札\n\n\n途中\n\n\nロッカー\n\n\nエレベーター\n\n\nガラス扉\n\n\n空席\n\n\n雨の改札\n\n\n22:47\n\n\n青空\n\n\n夕方\n\n\n夜空\n\n\n空の間\n\n\n夕方の壁\n\n\n雨あがり\n言葉\nOPTIONAL\nこの端末だけに残ります\n残す\n2026年10月\nMONTHLY REFLECTION\n今月の景色\nまだ何も残っていません。\n最初のひとつを持ち帰ると、ここから景色が育ちます。\nARCHIVE\n前の日々をひらく\n\nWHAT REMAINED\n残ったものを見る\nアトリエへ戻る\n\n×\nまちの写真\n写真を眺める\n1 / 16\nまち\n部屋\n買ったもの\n遊び\n食べもの\nその他\n\n‹\n\n自販機\n\n›\n未選択この写真にする",
   "controls": [
     {
       "tag": "A",
@@ -306,6 +306,116 @@
         "y": 792,
         "w": 140,
         "h": 175
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "×",
+      "disabled": false,
+      "rect": {
+        "x": 371,
+        "y": 10,
+        "w": 46,
+        "h": 46
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "まち",
+      "disabled": false,
+      "rect": {
+        "x": 13,
+        "y": 63,
+        "w": 53,
+        "h": 36
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "部屋",
+      "disabled": false,
+      "rect": {
+        "x": 71,
+        "y": 63,
+        "w": 52,
+        "h": 36
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "買ったもの",
+      "disabled": false,
+      "rect": {
+        "x": 128,
+        "y": 63,
+        "w": 102,
+        "h": 36
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "遊び",
+      "disabled": false,
+      "rect": {
+        "x": 234,
+        "y": 63,
+        "w": 52,
+        "h": 36
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "食べもの",
+      "disabled": false,
+      "rect": {
+        "x": 292,
+        "y": 63,
+        "w": 85,
+        "h": 36
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "その他",
+      "disabled": false,
+      "rect": {
+        "x": 13,
+        "y": 104,
+        "w": 69,
+        "h": 36
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "‹",
+      "disabled": false,
+      "rect": {
+        "x": 2,
+        "y": 484,
+        "w": 44,
+        "h": 44
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "›",
+      "disabled": false,
+      "rect": {
+        "x": 384,
+        "y": 484,
+        "w": 44,
+        "h": 44
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "この写真にする",
+      "disabled": false,
+      "rect": {
+        "x": 144,
+        "y": 874,
+        "w": 142,
+        "h": 48
       }
     }
   ],
@@ -794,6 +904,21 @@
       "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-e-20261017-0955-pearl-5c8n#diary",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/b2a34653e4432618fa2eaff8438d6f246cc36267/live-results/mofu-vis-e-20261017-0955-pearl-5c8n/current.jpg",
       "text": "作品へ移動\nNIKO² ATELIER\nDream\nDiary\nAbout\n\nNIKO² DIARY\nDiary\n今日のことを、ひとつだけ。\n10月17日 10:07\nTODAY\n今日を残す\n選んだ記憶が、ここに書きとめてあります。\nあなたの言葉を、添えても構いません。\n✦\nいまの気配\n\n静か\n\nきらきら\n\nぼんやり\n\nざわざわ\n\n甘い\n\n雨っぽい\n\n眠い\n\n何もない\nPHOTO\n写真\n選択なし\nまち\n部屋\n買ったもの\n遊び\n食べもの\nその他\n写真を眺める\n‹\n›\n\n\n自販機\n\n\nホーム\n\n\n改札\n\n\n途中\n\n\nロッカー\n\n\nエレベーター\n\n\nガラス扉\n\n\n空席\n\n\n雨の改札\n\n\n22:47\n\n\n青空\n\n\n夕方\n\n\n夜空\n\n\n空の間\n\n\n夕方の壁\n\n\n雨あがり\n言葉\nOPTIONAL\nこの端末だけに残ります\n残す\n2026年10月\nMONTHLY REFLECTION\n今月の景色\nまだ何も残っていません。\n最初のひとつを持ち帰ると、ここから景色が育ちます。\nARCHIVE\n前の日々をひらく\n\nWHAT REMAINED\n残ったものを見る\nアトリエへ戻る\n"
+    },
+    {
+      "number": 34,
+      "at": "2026-10-17T01:07:58.877Z",
+      "action": {
+        "id": "e4-33-photo-browse",
+        "op": "tap",
+        "x": 233,
+        "y": 752,
+        "note": "Inspect visible Diary photo browsing control, no user-uploaded content"
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-e-20261017-0955-pearl-5c8n#diary",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/10a5f6d3febf9cc659c220ac9363adf4c6f4287a/live-results/mofu-vis-e-20261017-0955-pearl-5c8n/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\nDream\nDiary\nAbout\n\nNIKO² DIARY\nDiary\n今日のことを、ひとつだけ。\n10月17日 10:07\nTODAY\n今日を残す\n選んだ記憶が、ここに書きとめてあります。\nあなたの言葉を、添えても構いません。\n✦\nいまの気配\n\n静か\n\nきらきら\n\nぼんやり\n\nざわざわ\n\n甘い\n\n雨っぽい\n\n眠い\n\n何もない\nPHOTO\n写真\n選択なし\nまち\n部屋\n買ったもの\n遊び\n食べもの\nその他\n写真を眺める\n‹\n›\n\n\n自販機\n\n\nホーム\n\n\n改札\n\n\n途中\n\n\nロッカー\n\n\nエレベーター\n\n\nガラス扉\n\n\n空席\n\n\n雨の改札\n\n\n22:47\n\n\n青空\n\n\n夕方\n\n\n夜空\n\n\n空の間\n\n\n夕方の壁\n\n\n雨あがり\n言葉\nOPTIONAL\nこの端末だけに残ります\n残す\n2026年10月\nMONTHLY REFLECTION\n今月の景色\nまだ何も残っていません。\n最初のひとつを持ち帰ると、ここから景色が育ちます。\nARCHIVE\n前の日々をひらく\n\nWHAT REMAINED\n残ったものを見る\nアトリエへ戻る\n\n×\nまちの写真\n写真を眺める\n1 / 16\nまち\n部屋\n買ったもの\n遊び\n食べもの\nその他\n\n‹\n\n自販機\n\n›\n未選択この写真にする"
     }
   ]
 }
