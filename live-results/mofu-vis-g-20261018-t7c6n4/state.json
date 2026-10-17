@@ -6,21 +6,21 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-17T22:05:16.183Z",
-  "updatedAt": "2026-10-17T22:11:58.947Z",
-  "lastCommand": "g18",
+  "updatedAt": "2026-10-17T22:12:15.948Z",
+  "lastCommand": "g19",
   "stopReason": null,
   "action": {
-    "id": "g18",
+    "id": "g19",
     "op": "tap",
-    "x": 399,
-    "y": 159,
-    "note": "Close reading table"
+    "x": 79,
+    "y": 35,
+    "note": "Go home by atelier logo"
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/f1d528ffe61642ab09ab371190454097beef464f/live-results/mofu-vis-g-20261018-t7c6n4/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/64ed7160a9c7a8def634c4dc57c2dd2a7c90cc74/live-results/mofu-vis-g-20261018-t7c6n4/current.jpg",
   "readOnly": true,
-  "blockedWrites": 12,
-  "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-g-20261018-t7c6n4#lab",
+  "blockedWrites": 14,
+  "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-g-20261018-t7c6n4",
   "title": "NIKO² ATELIER",
   "viewport": {
     "width": 430,
@@ -31,19 +31,8 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\nNIKO² ATELIER\n\n白と薄水色のガラス研究所。奥へ続く通路と、記録の置かれた観測台があります。\nMAIN LAB\n観測台\n\n\n\n観測台奥の保管室へ進む\nM-00 MANAGEMENT EQUIPMENTを開きました。",
+  "text": "作品へ移動\n \nWORLD\nWORLD\n水面の向こうに、いくつかの場所がひらいています。\n\n\nABOUT\nもふもふはいます。\nPLAY / SHARE / FAN WORK\nNIKO²での生活について\n好きな形で遊ぶための、小さな境界。\nDEAR ATELIER\nお手紙を送る\nAtelierの受取箱へ。\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n",
   "controls": [
-    {
-      "tag": "A",
-      "text": "NIKO² ATELIER",
-      "disabled": false,
-      "rect": {
-        "x": 22,
-        "y": 13,
-        "w": 118,
-        "h": 44
-      }
-    },
     {
       "tag": "BUTTON",
       "text": "音をオンにする",
@@ -56,47 +45,47 @@
       }
     },
     {
-      "tag": "BUTTON",
-      "text": "戻る",
+      "tag": "A",
+      "text": "FROM THE ATELIERを開く",
       "disabled": false,
       "rect": {
-        "x": 14,
-        "y": 82,
-        "w": 40,
-        "h": 40
+        "x": 310,
+        "y": 303,
+        "w": 91,
+        "h": 92
+      }
+    },
+    {
+      "tag": "A",
+      "text": "Diaryを開く",
+      "disabled": false,
+      "rect": {
+        "x": 20,
+        "y": 330,
+        "w": 147,
+        "h": 147
       }
     },
     {
       "tag": "BUTTON",
-      "text": "観測台",
+      "text": "Enter the dream",
       "disabled": false,
       "rect": {
-        "x": 0,
-        "y": 359,
-        "w": 129,
-        "h": 438
+        "x": 110,
+        "y": 545,
+        "w": 210,
+        "h": 70
       }
     },
     {
-      "tag": "BUTTON",
-      "text": "奥の保管室へ進む",
+      "tag": "A",
+      "text": "WORLDを開く",
       "disabled": false,
       "rect": {
-        "x": 141,
-        "y": 280,
-        "w": 155,
-        "h": 270
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "障害シミュレーション／運用モードを開く",
-      "disabled": false,
-      "rect": {
-        "x": 327,
-        "y": 708,
-        "w": 104,
-        "h": 140
+        "x": 26,
+        "y": 878,
+        "w": 378,
+        "h": 213
       }
     }
   ],
@@ -381,6 +370,21 @@
       "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-g-20261018-t7c6n4#lab",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/f1d528ffe61642ab09ab371190454097beef464f/live-results/mofu-vis-g-20261018-t7c6n4/current.jpg",
       "text": "作品へ移動\nNIKO² ATELIER\n\n白と薄水色のガラス研究所。奥へ続く通路と、記録の置かれた観測台があります。\nMAIN LAB\n観測台\n\n\n\n観測台奥の保管室へ進む\nM-00 MANAGEMENT EQUIPMENTを開きました。"
+    },
+    {
+      "number": 20,
+      "at": "2026-10-17T22:12:15.948Z",
+      "action": {
+        "id": "g19",
+        "op": "tap",
+        "x": 79,
+        "y": 35,
+        "note": "Go home by atelier logo"
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-g-20261018-t7c6n4",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/64ed7160a9c7a8def634c4dc57c2dd2a7c90cc74/live-results/mofu-vis-g-20261018-t7c6n4/current.jpg",
+      "text": "作品へ移動\n \nWORLD\nWORLD\n水面の向こうに、いくつかの場所がひらいています。\n\n\nABOUT\nもふもふはいます。\nPLAY / SHARE / FAN WORK\nNIKO²での生活について\n好きな形で遊ぶための、小さな境界。\nDEAR ATELIER\nお手紙を送る\nAtelierの受取箱へ。\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n"
     }
   ]
 }
