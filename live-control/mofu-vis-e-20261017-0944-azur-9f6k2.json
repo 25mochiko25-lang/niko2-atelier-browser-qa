@@ -1,9 +1,6 @@
 {
-  "id": "e3-19-issue-scroll1",
-  "op": "scroll",
-  "x": 209,
-  "y": 709,
-  "dx": 0,
-  "dy": 722,
-  "note": "Read published ISSUE 000 below full-height hero; wheel emulation only"
+  "id": "e3-20-issue-pagedown",
+  "op": "key",
+  "key": "PageDown",
+  "note": "Try supported key PageDown because mouse wheel is unsupported in mobile WebKit; not a touch-swipe claim"
 }
