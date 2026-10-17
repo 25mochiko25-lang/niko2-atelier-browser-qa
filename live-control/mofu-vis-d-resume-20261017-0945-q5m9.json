@@ -1,7 +1,7 @@
 {
-  "id": "dr23-world",
+  "id": "dr24-roomnull",
   "op": "tap",
-  "x": 216,
-  "y": 909,
-  "note": "Finish visible onboarding, then enter WORLD via visible link."
+  "x": 365,
+  "y": 432,
+  "note": "Open visible ROOM NULL door via public WORLD route (read-only)."
 }
