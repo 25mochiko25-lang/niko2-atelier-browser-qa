@@ -6,21 +6,21 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-17T04:01:12.828Z",
-  "updatedAt": "2026-10-17T04:16:45.390Z",
-  "lastCommand": "r34",
+  "updatedAt": "2026-10-17T04:17:02.743Z",
+  "lastCommand": "r35",
   "stopReason": null,
   "action": {
-    "id": "r34",
+    "id": "r35",
     "op": "tap",
-    "x": 85,
-    "y": 34,
-    "note": "Return to Home via visible brand header; continue public CHANNEL 00 unvisited link inspection"
+    "x": 210,
+    "y": 904,
+    "note": "Enter clearly visible WORLD card on Home for CHANNEL 00 traversal"
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/82887067fd0ce53f51dae5400b274e986682e9dc/live-results/mofu-vis-f-20261017-resume-k9v4a6/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/7a84d4c9befd8e1c46c274e8071ad55d96906d94/live-results/mofu-vis-f-20261017-resume-k9v4a6/current.jpg",
   "readOnly": true,
-  "blockedWrites": 22,
-  "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-f-20261017-resume-k9v4a6",
+  "blockedWrites": 24,
+  "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-f-20261017-resume-k9v4a6#world",
   "title": "NIKO² ATELIER",
   "viewport": {
     "width": 430,
@@ -31,7 +31,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n \nWORLD\nWORLD\n水面の向こうに、いくつかの場所がひらいています。\n\n\nABOUT\nもふもふはいます。\nPLAY / SHARE / FAN WORK\nNIKO²での生活について\n好きな形で遊ぶための、小さな境界。\nDEAR ATELIER\nお手紙を送る\nAtelierの受取箱へ。\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n",
+  "text": "作品へ移動\n \nNIKO² / WORLD\nWORLD\n水面の向こうに、まだつながっていない場所もあります。\n\nResearch Lab\n\nROOM NULL\n",
   "controls": [
     {
       "tag": "BUTTON",
@@ -46,46 +46,35 @@
     },
     {
       "tag": "A",
-      "text": "FROM THE ATELIERを開く",
+      "text": "アトリエへ戻る",
       "disabled": false,
       "rect": {
-        "x": 310,
-        "y": 303,
-        "w": 91,
-        "h": 92
-      }
-    },
-    {
-      "tag": "A",
-      "text": "Diaryを開く",
-      "disabled": false,
-      "rect": {
-        "x": 20,
-        "y": 330,
-        "w": 147,
-        "h": 147
+        "x": 16,
+        "y": 25,
+        "w": 44,
+        "h": 44
       }
     },
     {
       "tag": "BUTTON",
-      "text": "Enter the dream",
+      "text": "Research Lab",
       "disabled": false,
       "rect": {
-        "x": 110,
-        "y": 545,
-        "w": 210,
-        "h": 70
+        "x": 38,
+        "y": 339,
+        "w": 108,
+        "h": 179
       }
     },
     {
-      "tag": "A",
-      "text": "WORLDを開く",
+      "tag": "BUTTON",
+      "text": "ROOM NULL",
       "disabled": false,
       "rect": {
-        "x": 26,
-        "y": 878,
-        "w": 378,
-        "h": 213
+        "x": 309,
+        "y": 353,
+        "w": 105,
+        "h": 179
       }
     }
   ],
@@ -608,6 +597,21 @@
       "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-f-20261017-resume-k9v4a6",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/82887067fd0ce53f51dae5400b274e986682e9dc/live-results/mofu-vis-f-20261017-resume-k9v4a6/current.jpg",
       "text": "作品へ移動\n \nWORLD\nWORLD\n水面の向こうに、いくつかの場所がひらいています。\n\n\nABOUT\nもふもふはいます。\nPLAY / SHARE / FAN WORK\nNIKO²での生活について\n好きな形で遊ぶための、小さな境界。\nDEAR ATELIER\nお手紙を送る\nAtelierの受取箱へ。\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n"
+    },
+    {
+      "number": 36,
+      "at": "2026-10-17T04:17:02.743Z",
+      "action": {
+        "id": "r35",
+        "op": "tap",
+        "x": 210,
+        "y": 904,
+        "note": "Enter clearly visible WORLD card on Home for CHANNEL 00 traversal"
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-f-20261017-resume-k9v4a6#world",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/7a84d4c9befd8e1c46c274e8071ad55d96906d94/live-results/mofu-vis-f-20261017-resume-k9v4a6/current.jpg",
+      "text": "作品へ移動\n \nNIKO² / WORLD\nWORLD\n水面の向こうに、まだつながっていない場所もあります。\n\nResearch Lab\n\nROOM NULL\n"
     }
   ]
 }
