@@ -1,7 +1,9 @@
 {
-  "id": "f53",
-  "op": "tap",
-  "x": 82,
-  "y": 35,
-  "note": "Use visible NIKO² ATELIER header to return home and inspect public lower navigation"
+  "id": "f54",
+  "op": "scroll",
+  "x": 208,
+  "y": 755,
+  "dx": 0,
+  "dy": 625,
+  "note": "Inspect the visible lower HOME section for public Perfume entrance (wheel simulation only)"
 }
