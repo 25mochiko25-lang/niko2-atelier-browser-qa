@@ -6,19 +6,20 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-17T04:34:34.951Z",
-  "updatedAt": "2026-10-17T04:42:45.803Z",
-  "lastCommand": "e5-26-contact-lower",
+  "updatedAt": "2026-10-17T04:43:01.152Z",
+  "lastCommand": "e5-26-letter-destination",
   "stopReason": null,
   "action": {
-    "id": "e5-26-contact-lower",
-    "op": "key",
-    "key": "PageDown",
-    "note": "Inspect public letter form lower area without entering/sending data"
+    "id": "e5-26-letter-destination",
+    "op": "tap",
+    "x": 241,
+    "y": 528,
+    "note": "Inspect visible recipient select menu only; do not fill or send form"
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/e28f1b1150e40b3ecaa6331ec6a94516ee200d0a/live-results/mofu-vis-e-resume-20261017-p6q8n4/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/01c2cd9c372e7843a6c66abf48ee212b814fd72f/live-results/mofu-vis-e-resume-20261017-p6q8n4/current.jpg",
   "readOnly": true,
-  "blockedWrites": 24,
+  "blockedWrites": 27,
   "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-e-resume-20261017-p6q8n4#dear",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -133,6 +134,7 @@
     }
   ],
   "pageErrors": [
+    "Blocked a frame with origin \"https: /challenges.cloudflare.com\" from accessing a frame with origin \"https://niko2atelier.com\". Protocols, domains, and ports must match.",
     "Blocked a frame with origin \"https: /challenges.cloudflare.com\" from accessing a frame with origin \"https://niko2atelier.com\". Protocols, domains, and ports must match.",
     "Blocked a frame with origin \"https: /challenges.cloudflare.com\" from accessing a frame with origin \"https://niko2atelier.com\". Protocols, domains, and ports must match."
   ],
@@ -531,6 +533,21 @@
       "error": null,
       "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-e-resume-20261017-p6q8n4#dear",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/e28f1b1150e40b3ecaa6331ec6a94516ee200d0a/live-results/mofu-vis-e-resume-20261017-p6q8n4/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\nDream\nDiary\nAbout\n\nMOFUMOFU POST DESK\n\nDEAR ATELIER\nお手紙を送る\n\n書きたいことだけ置いていってください。\n届いた手紙は、Atelierの白いやつらが勝手に机へ仕分けます。\nLETTER DESK / RECEIVING\nお手紙の行き先\n⌄\n相談のお手紙は、白いやつらが読んでから机を決めます。\nお名前 なくても大丈夫\n\n返信先 返事が必要なら\n\nお手紙\n\nWebsite\n送った内容と返信先は、Atelierへの連絡対応のために使います。お手紙はCloudflareを経由してAtelierの受信窓口へ届きます。Diaryの記録は送りません。\n\nお手紙を預ける\n送信確認がうまくいきませんでした。少し待って、もう一度どうぞ。\nINTERNAL ROUTING / VISIBLE BY ACCIDENT\nLETTERS → CONSULT → LOST + FOUND\n\n担当：白いやつら\nアトリエへ戻る\n"
+    },
+    {
+      "number": 28,
+      "at": "2026-10-17T04:43:01.152Z",
+      "action": {
+        "id": "e5-26-letter-destination",
+        "op": "tap",
+        "x": 241,
+        "y": 528,
+        "note": "Inspect visible recipient select menu only; do not fill or send form"
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-e-resume-20261017-p6q8n4#dear",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/01c2cd9c372e7843a6c66abf48ee212b814fd72f/live-results/mofu-vis-e-resume-20261017-p6q8n4/current.jpg",
       "text": "作品へ移動\nNIKO² ATELIER\nDream\nDiary\nAbout\n\nMOFUMOFU POST DESK\n\nDEAR ATELIER\nお手紙を送る\n\n書きたいことだけ置いていってください。\n届いた手紙は、Atelierの白いやつらが勝手に机へ仕分けます。\nLETTER DESK / RECEIVING\nお手紙の行き先\n⌄\n相談のお手紙は、白いやつらが読んでから机を決めます。\nお名前 なくても大丈夫\n\n返信先 返事が必要なら\n\nお手紙\n\nWebsite\n送った内容と返信先は、Atelierへの連絡対応のために使います。お手紙はCloudflareを経由してAtelierの受信窓口へ届きます。Diaryの記録は送りません。\n\nお手紙を預ける\n送信確認がうまくいきませんでした。少し待って、もう一度どうぞ。\nINTERNAL ROUTING / VISIBLE BY ACCIDENT\nLETTERS → CONSULT → LOST + FOUND\n\n担当：白いやつら\nアトリエへ戻る\n"
     }
   ]
