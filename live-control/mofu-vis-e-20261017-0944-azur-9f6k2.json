@@ -1,7 +1,9 @@
 {
-  "id": "e3-18-feature-issue",
-  "op": "tap",
-  "x": 194,
-  "y": 567,
-  "note": "Open visible featured ISSUE 000 to compare its article layout"
+  "id": "e3-19-issue-scroll1",
+  "op": "scroll",
+  "x": 209,
+  "y": 709,
+  "dx": 0,
+  "dy": 722,
+  "note": "Read published ISSUE 000 below full-height hero; wheel emulation only"
 }
