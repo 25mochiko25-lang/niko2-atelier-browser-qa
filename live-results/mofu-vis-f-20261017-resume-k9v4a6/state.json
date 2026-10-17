@@ -6,18 +6,17 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-17T04:01:12.828Z",
-  "updatedAt": "2026-10-17T04:21:35.537Z",
-  "lastCommand": "r49",
+  "updatedAt": "2026-10-17T04:21:55.300Z",
+  "lastCommand": "r50",
   "stopReason": null,
   "action": {
-    "id": "r49",
-    "op": "tap",
-    "x": 33,
-    "y": 133,
-    "note": "Return to CHANNEL 00 directory to inspect last/lost link and lower page interactions"
+    "id": "r50",
+    "op": "key",
+    "key": "PageDown",
+    "note": "Inspect lower CHANNEL 00 links clipped by fixed footer using keyboard viewport scroll; not iPhone touch scroll validation"
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/4432b7f635765577e2996f48f1cc6d520ab08f83/live-results/mofu-vis-f-20261017-resume-k9v4a6/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/b786b11b5e39b31947b0397835c77fa669138776/live-results/mofu-vis-f-20261017-resume-k9v4a6/current.jpg",
   "readOnly": true,
   "blockedWrites": 29,
   "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-f-20261017-resume-k9v4a6#channel0",
@@ -957,6 +956,20 @@
       "error": null,
       "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-f-20261017-resume-k9v4a6#channel0",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/4432b7f635765577e2996f48f1cc6d520ab08f83/live-results/mofu-vis-f-20261017-resume-k9v4a6/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\n\n\nCHANNEL / CH-00\nCHANNEL 00\n7 pages\n⌂\nchannel00://home/index.html\n×\nCHANNEL 00 LINK DIRECTORY\nYOU ARE VISITOR No. 0001\n\nようこそ、存在しなかったインターネットへ。\n\n好きなリンクからどうぞ。戻れなくなることは、たぶんありません。\n\nMARI'S PRESSED FLOWERS\nsodaの日記\nCloud Garden Weather\nHotel Somnia 公式頁\nLavender BBS\nMoonlight Web Ring\nNIKO² ATELIER / old\nlost_page.html\nRESTORED: mirror/last_seen.html\n\ncached page changed / connection stable\n閲覧の断片を持ち帰る\n"
+    },
+    {
+      "number": 52,
+      "at": "2026-10-17T04:21:55.300Z",
+      "action": {
+        "id": "r50",
+        "op": "key",
+        "key": "PageDown",
+        "note": "Inspect lower CHANNEL 00 links clipped by fixed footer using keyboard viewport scroll; not iPhone touch scroll validation"
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-f-20261017-resume-k9v4a6#channel0",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/b786b11b5e39b31947b0397835c77fa669138776/live-results/mofu-vis-f-20261017-resume-k9v4a6/current.jpg",
       "text": "作品へ移動\nNIKO² ATELIER\n\n\nCHANNEL / CH-00\nCHANNEL 00\n7 pages\n⌂\nchannel00://home/index.html\n×\nCHANNEL 00 LINK DIRECTORY\nYOU ARE VISITOR No. 0001\n\nようこそ、存在しなかったインターネットへ。\n\n好きなリンクからどうぞ。戻れなくなることは、たぶんありません。\n\nMARI'S PRESSED FLOWERS\nsodaの日記\nCloud Garden Weather\nHotel Somnia 公式頁\nLavender BBS\nMoonlight Web Ring\nNIKO² ATELIER / old\nlost_page.html\nRESTORED: mirror/last_seen.html\n\ncached page changed / connection stable\n閲覧の断片を持ち帰る\n"
     }
   ]
