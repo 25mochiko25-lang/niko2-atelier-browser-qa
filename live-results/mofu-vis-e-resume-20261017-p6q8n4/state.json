@@ -6,18 +6,18 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-17T04:34:34.951Z",
-  "updatedAt": "2026-10-17T04:40:57.161Z",
-  "lastCommand": "e5-20-founder-filter",
+  "updatedAt": "2026-10-17T04:41:12.006Z",
+  "lastCommand": "e5-21-special-filter",
   "stopReason": null,
   "action": {
-    "id": "e5-20-founder-filter",
+    "id": "e5-21-special-filter",
     "op": "tap",
-    "x": 304,
-    "y": 233,
-    "note": "Inspect visible FOUNDER filter and empty/nonempty list spacing"
+    "x": 120,
+    "y": 236,
+    "note": "Compare empty FOUNDER category against populated SPECIAL layout"
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/ee9a6198d36986efc1f8651098e15d1be7a8d4ff/live-results/mofu-vis-e-resume-20261017-p6q8n4/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/997a67839222e70e749e6c1c21bf7de8c8af9164/live-results/mofu-vis-e-resume-20261017-p6q8n4/current.jpg",
   "readOnly": true,
   "blockedWrites": 12,
   "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-e-resume-20261017-p6q8n4#notes",
@@ -31,7 +31,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\nNIKO² ATELIER\nDream\nDiary\nAbout\n\nNIKO² ATELIER / FIELD RECORDS\n\nFROM THE ATELIER\nALL\nSPECIAL\nNOTES\nFOUNDER\nアトリエへ戻る\n",
+  "text": "作品へ移動\nNIKO² ATELIER\nDream\nDiary\nAbout\n\nNIKO² ATELIER / FIELD RECORDS\n\nFROM THE ATELIER\nALL\nSPECIAL\nNOTES\nFOUNDER\n\n2026.10.08 / 16:14\nSPECIAL / FEATURED / ISSUE 000\nALPHA OPENING\n夢を作ったり、壊したり、もう一度作ったりしていました。\nREAD ISSUE 000\nアトリエへ戻る\n",
   "controls": [
     {
       "tag": "A",
@@ -134,11 +134,22 @@
     },
     {
       "tag": "A",
+      "text": "2026.10.08 / 16:14\nSPECIAL / FEATURED / ISSUE 000\nALPHA OPENING\n夢を作ったり、壊したり、もう一度作ったりしていました。\nREAD ISSUE 000",
+      "disabled": false,
+      "rect": {
+        "x": 12,
+        "y": 274,
+        "w": 406,
+        "h": 424
+      }
+    },
+    {
+      "tag": "A",
       "text": "アトリエへ戻る",
       "disabled": false,
       "rect": {
         "x": 287,
-        "y": 350,
+        "y": 808,
         "w": 131,
         "h": 40
       }
@@ -454,6 +465,21 @@
       "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-e-resume-20261017-p6q8n4#notes",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/ee9a6198d36986efc1f8651098e15d1be7a8d4ff/live-results/mofu-vis-e-resume-20261017-p6q8n4/current.jpg",
       "text": "作品へ移動\nNIKO² ATELIER\nDream\nDiary\nAbout\n\nNIKO² ATELIER / FIELD RECORDS\n\nFROM THE ATELIER\nALL\nSPECIAL\nNOTES\nFOUNDER\nアトリエへ戻る\n"
+    },
+    {
+      "number": 22,
+      "at": "2026-10-17T04:41:12.006Z",
+      "action": {
+        "id": "e5-21-special-filter",
+        "op": "tap",
+        "x": 120,
+        "y": 236,
+        "note": "Compare empty FOUNDER category against populated SPECIAL layout"
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-e-resume-20261017-p6q8n4#notes",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/997a67839222e70e749e6c1c21bf7de8c8af9164/live-results/mofu-vis-e-resume-20261017-p6q8n4/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\nDream\nDiary\nAbout\n\nNIKO² ATELIER / FIELD RECORDS\n\nFROM THE ATELIER\nALL\nSPECIAL\nNOTES\nFOUNDER\n\n2026.10.08 / 16:14\nSPECIAL / FEATURED / ISSUE 000\nALPHA OPENING\n夢を作ったり、壊したり、もう一度作ったりしていました。\nREAD ISSUE 000\nアトリエへ戻る\n"
     }
   ]
 }
