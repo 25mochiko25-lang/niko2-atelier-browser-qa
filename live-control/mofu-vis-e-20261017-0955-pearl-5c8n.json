@@ -1,7 +1,7 @@
 {
-  "id": "e4-13-finish",
+  "id": "e4-14-diary",
   "op": "tap",
-  "x": 372,
-  "y": 857,
-  "note": "Finish intro via visible 完了"
+  "x": 91,
+  "y": 385,
+  "note": "Open Diary from visible floating diary at HOME"
 }
