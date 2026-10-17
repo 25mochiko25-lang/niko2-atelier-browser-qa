@@ -1,7 +1,6 @@
 {
-  "id": "e5-22-notes-home",
-  "op": "tap",
-  "x": 349,
-  "y": 831,
-  "note": "Return to Atelier to inspect visible contact dialog without submitting"
+  "id": "e5-23-home-footer",
+  "op": "key",
+  "key": "PageDown",
+  "note": "Locate visible public DEAR ATELIER contact UI in HOME footer"
 }
