@@ -1,9 +1,10 @@
 {
-  "id": "f54",
+  "id": "f55",
   "op": "scroll",
-  "x": 208,
-  "y": 755,
+  "x": 351,
+  "y": 820,
   "dx": 0,
-  "dy": 625,
-  "note": "Inspect the visible lower HOME section for public Perfume entrance (wheel simulation only)"
+  "dy": 977,
+  "wait": 1300,
+  "note": "Second attempt to inspect visible HOME lower content using observer wheel emulation, not a finger swipe"
 }
