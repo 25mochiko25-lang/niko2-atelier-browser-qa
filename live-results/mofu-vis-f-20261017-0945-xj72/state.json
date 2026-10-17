@@ -6,20 +6,16 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-17T00:46:41.213Z",
-  "updatedAt": "2026-10-17T01:09:07.295Z",
+  "updatedAt": "2026-10-17T01:29:06.542Z",
   "lastCommand": "f58",
-  "stopReason": null,
+  "stopReason": "infrastructure_idle_timeout",
   "action": {
-    "id": "f58",
-    "op": "tap",
-    "x": 380,
-    "y": 551,
-    "note": "Open visible ROOM NULL door"
+    "op": "infrastructure-stop"
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/8d94adfeb8e27482d7b6319529458b3c51c412d9/live-results/mofu-vis-f-20261017-0945-xj72/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/90a0ef7c3ee0ef5bb62e69c70445cf360291d785/live-results/mofu-vis-f-20261017-0945-xj72/current.jpg",
   "readOnly": true,
-  "blockedWrites": 36,
+  "blockedWrites": 56,
   "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-f-20261017-0945-xj72#room0",
   "title": "NIKO² ATELIER",
   "viewport": {
@@ -982,6 +978,17 @@
       "error": null,
       "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-f-20261017-0945-xj72#room0",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/8d94adfeb8e27482d7b6319529458b3c51c412d9/live-results/mofu-vis-f-20261017-0945-xj72/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\n\n \nWORLD / RN-00\nROOM NULL\na room that remembers you.\nRN-00\n"
+    },
+    {
+      "number": 60,
+      "at": "2026-10-17T01:29:06.542Z",
+      "action": {
+        "op": "infrastructure-stop"
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/?mofumofu_qa=mofu-vis-f-20261017-0945-xj72#room0",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/90a0ef7c3ee0ef5bb62e69c70445cf360291d785/live-results/mofu-vis-f-20261017-0945-xj72/current.jpg",
       "text": "作品へ移動\nNIKO² ATELIER\n\n \nWORLD / RN-00\nROOM NULL\na room that remembers you.\nRN-00\n"
     }
   ]
