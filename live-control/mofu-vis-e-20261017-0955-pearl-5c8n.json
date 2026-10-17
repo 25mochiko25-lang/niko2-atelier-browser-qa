@@ -1,6 +1,7 @@
 {
-  "id": "e4-15-diary-pagedown1",
-  "op": "key",
-  "key": "PageDown",
-  "note": "Inspect Diary lower page using PageDown; not touch swipe"
+  "id": "e4-16-diary-optional",
+  "op": "tap",
+  "x": 364,
+  "y": 275,
+  "note": "Inspect optional Diary writing field via visible plus icon, no typing or saving"
 }
