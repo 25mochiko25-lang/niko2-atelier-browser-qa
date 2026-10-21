@@ -6,14 +6,18 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-21T11:53:33.434Z",
-  "updatedAt": "2026-10-21T11:53:38.690Z",
-  "lastCommand": null,
+  "updatedAt": "2026-10-21T11:54:11.837Z",
+  "lastCommand": "01",
   "stopReason": null,
   "action": {
-    "op": "arrival"
+    "id": "01",
+    "op": "tap",
+    "x": 205,
+    "y": 580,
+    "note": "Enter the dream to inspect intro"
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/fe299d91fcd071489f234f45ca7d084183f51ec7/live-results/mofu-preview-20261021-visual-cc83/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/77ccd9018d45756b2911e8eb7c9879b84a84be51/live-results/mofu-preview-20261021-visual-cc83/current.jpg",
   "readOnly": true,
   "blockedWrites": 0,
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/?mofumofu_qa=mofu-preview-20261021-visual-cc83",
@@ -27,7 +31,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n\n",
+  "text": "作品へ移動\n\n\nWORLD\n夢の入り口は、毎回すこし違う。 夢から醒めても何かは残る。\n次へ",
   "controls": [
     {
       "tag": "BUTTON",
@@ -50,6 +54,17 @@
         "w": 210,
         "h": 70
       }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "次へ",
+      "disabled": false,
+      "rect": {
+        "x": 340,
+        "y": 836,
+        "w": 72,
+        "h": 44
+      }
     }
   ],
   "pageErrors": [],
@@ -65,6 +80,21 @@
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/?mofumofu_qa=mofu-preview-20261021-visual-cc83",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/fe299d91fcd071489f234f45ca7d084183f51ec7/live-results/mofu-preview-20261021-visual-cc83/current.jpg",
       "text": "作品へ移動\n\n"
+    },
+    {
+      "number": 2,
+      "at": "2026-10-21T11:54:11.837Z",
+      "action": {
+        "id": "01",
+        "op": "tap",
+        "x": 205,
+        "y": 580,
+        "note": "Enter the dream to inspect intro"
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/?mofumofu_qa=mofu-preview-20261021-visual-cc83",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/77ccd9018d45756b2911e8eb7c9879b84a84be51/live-results/mofu-preview-20261021-visual-cc83/current.jpg",
+      "text": "作品へ移動\n\n\nWORLD\n夢の入り口は、毎回すこし違う。 夢から醒めても何かは残る。\n次へ"
     }
   ]
 }
