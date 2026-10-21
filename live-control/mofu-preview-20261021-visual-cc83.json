@@ -1,1 +1,1 @@
-{"id":"21","op":"tap","x":208,"y":740,"note":"Navigate to Diary record under read-only QA"}
+{"id":"22","op":"key","key":"PageDown","note":"Navigate read-only Diary to recent memories"}
