@@ -6,18 +6,17 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-21T11:53:33.434Z",
-  "updatedAt": "2026-10-21T12:03:54.153Z",
-  "lastCommand": "21",
+  "updatedAt": "2026-10-21T12:04:54.379Z",
+  "lastCommand": "22",
   "stopReason": null,
   "action": {
-    "id": "21",
-    "op": "tap",
-    "x": 208,
-    "y": 740,
-    "note": "Navigate to Diary record under read-only QA"
+    "id": "22",
+    "op": "key",
+    "key": "PageDown",
+    "note": "Navigate read-only Diary to recent memories"
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/acae39ad58d9c82ca43c1b5979199043601210a8/live-results/mofu-preview-20261021-visual-cc83/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/cdcbe709802b54fc27a6656fa1591c7fad0268e5/live-results/mofu-preview-20261021-visual-cc83/current.jpg",
   "readOnly": true,
   "blockedWrites": 0,
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/?mofumofu_qa=mofu-preview-20261021-visual-cc83#diary",
@@ -57,154 +56,11 @@
     },
     {
       "tag": "BUTTON",
-      "text": "白い街の一片に触れる",
-      "disabled": false,
-      "rect": {
-        "x": 107,
-        "y": 686,
-        "w": 69,
-        "h": 69
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "← さっきの空へ戻る",
-      "disabled": false,
-      "rect": {
-        "x": 274,
-        "y": 261,
-        "w": 122,
-        "h": 40
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "静か",
-      "disabled": false,
-      "rect": {
-        "x": 42,
-        "y": 479,
-        "w": 95,
-        "h": 44
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "きらきら",
-      "disabled": false,
-      "rect": {
-        "x": 144,
-        "y": 479,
-        "w": 113,
-        "h": 44
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "ぼんやり",
-      "disabled": false,
-      "rect": {
-        "x": 264,
-        "y": 479,
-        "w": 124,
-        "h": 44
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "ざわざわ",
-      "disabled": false,
-      "rect": {
-        "x": 42,
-        "y": 532,
-        "w": 113,
-        "h": 44
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "甘い",
-      "disabled": false,
-      "rect": {
-        "x": 162,
-        "y": 532,
-        "w": 92,
-        "h": 44
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "雨っぽい",
-      "disabled": false,
-      "rect": {
-        "x": 261,
-        "y": 532,
-        "w": 128,
-        "h": 44
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "眠い",
-      "disabled": false,
-      "rect": {
-        "x": 42,
-        "y": 585,
-        "w": 103,
-        "h": 44
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "何もない",
-      "disabled": false,
-      "rect": {
-        "x": 152,
-        "y": 585,
-        "w": 127,
-        "h": 44
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "まち",
-      "disabled": false,
-      "rect": {
-        "x": 52,
-        "y": 702,
-        "w": 106,
-        "h": 39
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "部屋",
-      "disabled": false,
-      "rect": {
-        "x": 162,
-        "y": 701,
-        "w": 106,
-        "h": 39
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "買ったもの",
-      "disabled": false,
-      "rect": {
-        "x": 273,
-        "y": 702,
-        "w": 106,
-        "h": 39
-      }
-    },
-    {
-      "tag": "BUTTON",
       "text": "遊び",
       "disabled": false,
       "rect": {
         "x": 52,
-        "y": 744,
+        "y": -2,
         "w": 106,
         "h": 39
       }
@@ -215,7 +71,7 @@
       "disabled": false,
       "rect": {
         "x": 162,
-        "y": 745,
+        "y": -1,
         "w": 106,
         "h": 39
       }
@@ -226,7 +82,7 @@
       "disabled": false,
       "rect": {
         "x": 272,
-        "y": 744,
+        "y": -2,
         "w": 106,
         "h": 39
       }
@@ -237,7 +93,7 @@
       "disabled": false,
       "rect": {
         "x": 194,
-        "y": 797,
+        "y": 51,
         "w": 75,
         "h": 40
       }
@@ -248,7 +104,7 @@
       "disabled": true,
       "rect": {
         "x": 281,
-        "y": 795,
+        "y": 49,
         "w": 44,
         "h": 44
       }
@@ -259,7 +115,7 @@
       "disabled": false,
       "rect": {
         "x": 333,
-        "y": 795,
+        "y": 49,
         "w": 44,
         "h": 44
       }
@@ -270,7 +126,7 @@
       "disabled": false,
       "rect": {
         "x": 55,
-        "y": 852,
+        "y": 106,
         "w": 144,
         "h": 178
       }
@@ -281,7 +137,7 @@
       "disabled": false,
       "rect": {
         "x": 183,
-        "y": 854,
+        "y": 108,
         "w": 142,
         "h": 177
       }
@@ -292,9 +148,42 @@
       "disabled": false,
       "rect": {
         "x": 311,
-        "y": 855,
+        "y": 109,
         "w": 140,
         "h": 175
+      }
+    },
+    {
+      "tag": "TEXTAREA",
+      "text": "ひとことだけでも、長くても。",
+      "disabled": false,
+      "rect": {
+        "x": 55,
+        "y": 366,
+        "w": 320,
+        "h": 54
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "残す",
+      "disabled": true,
+      "rect": {
+        "x": 260,
+        "y": 372,
+        "w": 128,
+        "h": 48
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "雲間に残った街の窓\n10/21",
+      "disabled": false,
+      "rect": {
+        "x": 38,
+        "y": 526,
+        "w": 353,
+        "h": 171
       }
     }
   ],
@@ -622,6 +511,20 @@
       "error": null,
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/?mofumofu_qa=mofu-preview-20261021-visual-cc83#diary",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/acae39ad58d9c82ca43c1b5979199043601210a8/live-results/mofu-preview-20261021-visual-cc83/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\n\nNIKO² DIARY\nDiary\n今日のことを、ひとつだけ。\n10月21日 21:03\n持ち帰った夢が、まだ手元にあります。\n← さっきの空へ戻る\nTODAY\n今日を残す\n選んだ記憶が、ここに書きとめてあります。\nあなたの言葉を、添えても構いません。\n✦\nいまの気配\n\n静か\n\nきらきら\n\nぼんやり\n\nざわざわ\n\n甘い\n\n雨っぽい\n\n眠い\n\n何もない\nPHOTO\n写真\n選択なし\nまち\n部屋\n買ったもの\n遊び\n食べもの\nその他\n写真を眺める\n‹\n›\n\n\n自販機\n\n\nホーム\n\n\n改札\n\n\n途中\n\n\nロッカー\n\n\nエレベーター\n\n\nガラス扉\n\n\n空席\n\n\n雨の改札\n\n\n22:47\n\n\n青空\n\n\n夕方\n\n\n夜空\n\n\n空の間\n\n\n夕方の壁\n\n\n雨あがり\n言葉\nOPTIONAL\nこの端末だけに残ります\n残す\nRECENT\n少し前の自分\n\n雲間に残った街の窓\n10/21\n2026年10月\nMONTHLY REFLECTION\n今月の景色\nよく残った気配\n静かな余白\nよく残った色\n色のない紙片\nよく残ったモチーフ\n名前のないもの\nまだ記録が少ないので、ゲーム内で選んだものだけを眺めています。\nもう少し見る\nARCHIVE\n前の日々をひらく\n\nWHAT REMAINED\n残ったものを見る\nアトリエへ戻る\n"
+    },
+    {
+      "number": 23,
+      "at": "2026-10-21T12:04:54.379Z",
+      "action": {
+        "id": "22",
+        "op": "key",
+        "key": "PageDown",
+        "note": "Navigate read-only Diary to recent memories"
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/?mofumofu_qa=mofu-preview-20261021-visual-cc83#diary",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/cdcbe709802b54fc27a6656fa1591c7fad0268e5/live-results/mofu-preview-20261021-visual-cc83/current.jpg",
       "text": "作品へ移動\nNIKO² ATELIER\n\nNIKO² DIARY\nDiary\n今日のことを、ひとつだけ。\n10月21日 21:03\n持ち帰った夢が、まだ手元にあります。\n← さっきの空へ戻る\nTODAY\n今日を残す\n選んだ記憶が、ここに書きとめてあります。\nあなたの言葉を、添えても構いません。\n✦\nいまの気配\n\n静か\n\nきらきら\n\nぼんやり\n\nざわざわ\n\n甘い\n\n雨っぽい\n\n眠い\n\n何もない\nPHOTO\n写真\n選択なし\nまち\n部屋\n買ったもの\n遊び\n食べもの\nその他\n写真を眺める\n‹\n›\n\n\n自販機\n\n\nホーム\n\n\n改札\n\n\n途中\n\n\nロッカー\n\n\nエレベーター\n\n\nガラス扉\n\n\n空席\n\n\n雨の改札\n\n\n22:47\n\n\n青空\n\n\n夕方\n\n\n夜空\n\n\n空の間\n\n\n夕方の壁\n\n\n雨あがり\n言葉\nOPTIONAL\nこの端末だけに残ります\n残す\nRECENT\n少し前の自分\n\n雲間に残った街の窓\n10/21\n2026年10月\nMONTHLY REFLECTION\n今月の景色\nよく残った気配\n静かな余白\nよく残った色\n色のない紙片\nよく残ったモチーフ\n名前のないもの\nまだ記録が少ないので、ゲーム内で選んだものだけを眺めています。\nもう少し見る\nARCHIVE\n前の日々をひらく\n\nWHAT REMAINED\n残ったものを見る\nアトリエへ戻る\n"
     }
   ]
