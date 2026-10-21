@@ -6,20 +6,21 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-21T11:53:33.434Z",
-  "updatedAt": "2026-10-21T12:01:34.157Z",
-  "lastCommand": "16",
+  "updatedAt": "2026-10-21T12:01:51.924Z",
+  "lastCommand": "17",
   "stopReason": null,
   "action": {
-    "id": "16",
-    "op": "wait",
-    "ms": 1500,
-    "note": "Let gate transition settle before inspecting"
+    "id": "17",
+    "op": "tap",
+    "x": 232,
+    "y": 329,
+    "note": "Enter gate to access world memory and Diary"
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/c3e6d33bc8c8eacf7e00b3a566b7875cee436c67/live-results/mofu-preview-20261021-visual-cc83/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/afbff34e00e40ea9e49d0f2fb3891dbbf062a5e2/live-results/mofu-preview-20261021-visual-cc83/current.jpg",
   "readOnly": true,
   "blockedWrites": 0,
-  "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/?mofumofu_qa=mofu-preview-20261021-visual-cc83#garden",
+  "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/?mofumofu_qa=mofu-preview-20261021-visual-cc83#quiet",
   "title": "NIKO² ATELIER",
   "viewport": {
     "width": 430,
@@ -30,7 +31,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n\nあの扉が、こちらを呼んでいる。\n触れて、向こうへ\n",
+  "text": "作品へ移動\n夢の見覚え ✧︎\n\n",
   "controls": [
     {
       "tag": "BUTTON",
@@ -52,160 +53,6 @@
         "y": 56,
         "w": 61,
         "h": 30
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "止まりかけの砂時計（発見済み）",
-      "disabled": true,
-      "rect": {
-        "x": 12,
-        "y": 443,
-        "w": 69,
-        "h": 121
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "N² Eau de rêve（発見済み）",
-      "disabled": true,
-      "rect": {
-        "x": 73,
-        "y": 550,
-        "w": 56,
-        "h": 103
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "まだあたたかいカップ（発見済み）",
-      "disabled": true,
-      "rect": {
-        "x": 202,
-        "y": 569,
-        "w": 65,
-        "h": 65
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "置き去りのくま（発見済み）",
-      "disabled": true,
-      "rect": {
-        "x": 331,
-        "y": 536,
-        "w": 95,
-        "h": 112
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "青いリボンの鍵（発見済み）",
-      "disabled": true,
-      "rect": {
-        "x": 143,
-        "y": 625,
-        "w": 66,
-        "h": 56
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "テーブルのメモをめくる",
-      "disabled": false,
-      "rect": {
-        "x": 186,
-        "y": 635,
-        "w": 70,
-        "h": 56
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "くまのそばの本を開く",
-      "disabled": true,
-      "rect": {
-        "x": 366,
-        "y": 621,
-        "w": 69,
-        "h": 73
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "ティーポットに触れる",
-      "disabled": true,
-      "rect": {
-        "x": 137,
-        "y": 527,
-        "w": 78,
-        "h": 79
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "花に触れる",
-      "disabled": true,
-      "rect": {
-        "x": 12,
-        "y": 298,
-        "w": 134,
-        "h": 168
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "水面に触れる",
-      "disabled": true,
-      "rect": {
-        "x": 245,
-        "y": 373,
-        "w": 108,
-        "h": 130
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "レースのカーテンに触れる",
-      "disabled": true,
-      "rect": {
-        "x": -1,
-        "y": 0,
-        "w": 112,
-        "h": 401
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "石の柱を軽く叩く",
-      "disabled": true,
-      "rect": {
-        "x": 146,
-        "y": 93,
-        "w": 65,
-        "h": 391
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "遠くの白い門に触れる",
-      "disabled": false,
-      "rect": {
-        "x": 198,
-        "y": 295,
-        "w": 153,
-        "h": 274
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "あの扉が、こちらを呼んでいる。\n触れて、向こうへ",
-      "disabled": false,
-      "rect": {
-        "x": 86,
-        "y": 289,
-        "w": 259,
-        "h": 66
       }
     }
   ],
@@ -460,6 +307,21 @@
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/?mofumofu_qa=mofu-preview-20261021-visual-cc83#garden",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/c3e6d33bc8c8eacf7e00b3a566b7875cee436c67/live-results/mofu-preview-20261021-visual-cc83/current.jpg",
       "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n\nあの扉が、こちらを呼んでいる。\n触れて、向こうへ\n"
+    },
+    {
+      "number": 18,
+      "at": "2026-10-21T12:01:51.924Z",
+      "action": {
+        "id": "17",
+        "op": "tap",
+        "x": 232,
+        "y": 329,
+        "note": "Enter gate to access world memory and Diary"
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/?mofumofu_qa=mofu-preview-20261021-visual-cc83#quiet",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/afbff34e00e40ea9e49d0f2fb3891dbbf062a5e2/live-results/mofu-preview-20261021-visual-cc83/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n"
     }
   ]
 }
