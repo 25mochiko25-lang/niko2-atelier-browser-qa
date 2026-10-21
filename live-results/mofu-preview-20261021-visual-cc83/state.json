@@ -6,18 +6,16 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-21T11:53:33.434Z",
-  "updatedAt": "2026-10-21T12:05:17.476Z",
-  "lastCommand": "23",
-  "stopReason": null,
+  "updatedAt": "2026-10-21T12:09:09.694Z",
+  "lastCommand": "24",
+  "stopReason": "Founder-scoped preview read-only visual check completed: Garden, four fragment popups, ending memory and Diary detail",
   "action": {
-    "id": "23",
-    "op": "tap",
-    "x": 191,
-    "y": 593,
-    "note": "Inspect saved Dream Memory detail geometry"
+    "id": "24",
+    "op": "stop",
+    "reason": "Founder-scoped preview read-only visual check completed: Garden, four fragment popups, ending memory and Diary detail"
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/79eeb6505b757f3c1c7127db88919a1f0505d7e0/live-results/mofu-preview-20261021-visual-cc83/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/39596dfc9aee2b5ac1f6c84b23d3bc182ccea21c/live-results/mofu-preview-20261021-visual-cc83/current.jpg",
   "readOnly": true,
   "blockedWrites": 0,
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/?mofumofu_qa=mofu-preview-20261021-visual-cc83#diary",
@@ -563,6 +561,19 @@
       "error": null,
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/?mofumofu_qa=mofu-preview-20261021-visual-cc83#diary",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/79eeb6505b757f3c1c7127db88919a1f0505d7e0/live-results/mofu-preview-20261021-visual-cc83/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\n\nNIKO² DIARY\nDiary\n今日のことを、ひとつだけ。\n10月21日 21:03\n持ち帰った夢が、まだ手元にあります。\n← さっきの空へ戻る\nTODAY\n今日を残す\n選んだ記憶が、ここに書きとめてあります。\nあなたの言葉を、添えても構いません。\n✦\nいまの気配\n\n静か\n\nきらきら\n\nぼんやり\n\nざわざわ\n\n甘い\n\n雨っぽい\n\n眠い\n\n何もない\nPHOTO\n写真\n選択なし\nまち\n部屋\n買ったもの\n遊び\n食べもの\nその他\n写真を眺める\n‹\n›\n\n\n自販機\n\n\nホーム\n\n\n改札\n\n\n途中\n\n\nロッカー\n\n\nエレベーター\n\n\nガラス扉\n\n\n空席\n\n\n雨の改札\n\n\n22:47\n\n\n青空\n\n\n夕方\n\n\n夜空\n\n\n空の間\n\n\n夕方の壁\n\n\n雨あがり\n言葉\nOPTIONAL\nこの端末だけに残ります\n残す\nRECENT\n少し前の自分\n\n雲間に残った街の窓\n10/21\n2026年10月\nMONTHLY REFLECTION\n今月の景色\nよく残った気配\n静かな余白\nよく残った色\n色のない紙片\nよく残ったモチーフ\n名前のないもの\nまだ記録が少ないので、ゲーム内で選んだものだけを眺めています。\nもう少し見る\nARCHIVE\n前の日々をひらく\n\nWHAT REMAINED\n残ったものを見る\nアトリエへ戻る\n\nDREAM MEMORY\n2026年10月21日 21:01\n雲間に残った街の窓\n\n\nWORLD MEMORY\n\nTHING THAT REMAINED\n白い街の一片 まだ住所を持たない街から、足元へ滑った小さなタイル。\n言葉を添える\n"
+    },
+    {
+      "number": 25,
+      "at": "2026-10-21T12:09:09.694Z",
+      "action": {
+        "id": "24",
+        "op": "stop",
+        "reason": "Founder-scoped preview read-only visual check completed: Garden, four fragment popups, ending memory and Diary detail"
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/?mofumofu_qa=mofu-preview-20261021-visual-cc83#diary",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/39596dfc9aee2b5ac1f6c84b23d3bc182ccea21c/live-results/mofu-preview-20261021-visual-cc83/current.jpg",
       "text": "作品へ移動\nNIKO² ATELIER\n\nNIKO² DIARY\nDiary\n今日のことを、ひとつだけ。\n10月21日 21:03\n持ち帰った夢が、まだ手元にあります。\n← さっきの空へ戻る\nTODAY\n今日を残す\n選んだ記憶が、ここに書きとめてあります。\nあなたの言葉を、添えても構いません。\n✦\nいまの気配\n\n静か\n\nきらきら\n\nぼんやり\n\nざわざわ\n\n甘い\n\n雨っぽい\n\n眠い\n\n何もない\nPHOTO\n写真\n選択なし\nまち\n部屋\n買ったもの\n遊び\n食べもの\nその他\n写真を眺める\n‹\n›\n\n\n自販機\n\n\nホーム\n\n\n改札\n\n\n途中\n\n\nロッカー\n\n\nエレベーター\n\n\nガラス扉\n\n\n空席\n\n\n雨の改札\n\n\n22:47\n\n\n青空\n\n\n夕方\n\n\n夜空\n\n\n空の間\n\n\n夕方の壁\n\n\n雨あがり\n言葉\nOPTIONAL\nこの端末だけに残ります\n残す\nRECENT\n少し前の自分\n\n雲間に残った街の窓\n10/21\n2026年10月\nMONTHLY REFLECTION\n今月の景色\nよく残った気配\n静かな余白\nよく残った色\n色のない紙片\nよく残ったモチーフ\n名前のないもの\nまだ記録が少ないので、ゲーム内で選んだものだけを眺めています。\nもう少し見る\nARCHIVE\n前の日々をひらく\n\nWHAT REMAINED\n残ったものを見る\nアトリエへ戻る\n\nDREAM MEMORY\n2026年10月21日 21:01\n雲間に残った街の窓\n\n\nWORLD MEMORY\n\nTHING THAT REMAINED\n白い街の一片 まだ住所を持たない街から、足元へ滑った小さなタイル。\n言葉を添える\n"
     }
   ]
