@@ -1,1 +1,1 @@
-{"id":"05","op":"wait","ms":8000,"note":"Hold entry CTA to inspect delayed visual state"}
+{"id":"06","op":"tap","x":212,"y":876,"note":"Enter garden and inspect button transition"}
