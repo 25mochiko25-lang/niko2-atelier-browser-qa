@@ -1,1 +1,1 @@
-{"id":"17","op":"tap","x":232,"y":329,"note":"Enter gate to access world memory and Diary"}
+{"id":"18","op":"wait","ms":2800,"note":"Wait for gate animation"}
