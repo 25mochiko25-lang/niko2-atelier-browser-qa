@@ -1,1 +1,1 @@
-{"id":"15","op":"tap","x":171,"y":660,"note":"Fifth fragment for world memory route"}
+{"id":"16","op":"wait","ms":1500,"note":"Let gate transition settle before inspecting"}
