@@ -6,17 +6,18 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-10-21T11:53:33.434Z",
-  "updatedAt": "2026-10-21T12:02:20.161Z",
-  "lastCommand": "18",
+  "updatedAt": "2026-10-21T12:02:49.014Z",
+  "lastCommand": "19",
   "stopReason": null,
   "action": {
-    "id": "18",
-    "op": "wait",
-    "ms": 2800,
-    "note": "Wait for gate animation"
+    "id": "19",
+    "op": "tap",
+    "x": 144,
+    "y": 716,
+    "note": "Explore memory souvenir on ending"
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/dda3f061fd47e39727b2e97fe747f7e74647a11e/live-results/mofu-preview-20261021-visual-cc83/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/c6e4ede5ecfbd00a51b9ada21f4c26f9b7cdd412/live-results/mofu-preview-20261021-visual-cc83/current.jpg",
   "readOnly": true,
   "blockedWrites": 0,
   "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/?mofumofu_qa=mofu-preview-20261021-visual-cc83#quiet",
@@ -30,7 +31,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n夢を離れる",
+  "text": "作品へ移動\n夢の見覚え ✧︎\n\nまだ住所を持たない街から、足元へ滑った小さなタイル。\n\n持ち帰る\n\n夢を離れる",
   "controls": [
     {
       "tag": "BUTTON",
@@ -59,10 +60,21 @@
       "text": "白い街の一片に触れる",
       "disabled": false,
       "rect": {
-        "x": 106,
+        "x": 107,
         "y": 686,
         "w": 69,
         "h": 69
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "持ち帰る",
+      "disabled": false,
+      "rect": {
+        "x": 159,
+        "y": 793,
+        "w": 112,
+        "h": 44
       }
     },
     {
@@ -357,6 +369,21 @@
       "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/?mofumofu_qa=mofu-preview-20261021-visual-cc83#quiet",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/dda3f061fd47e39727b2e97fe747f7e74647a11e/live-results/mofu-preview-20261021-visual-cc83/current.jpg",
       "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n夢を離れる"
+    },
+    {
+      "number": 20,
+      "at": "2026-10-21T12:02:49.014Z",
+      "action": {
+        "id": "19",
+        "op": "tap",
+        "x": 144,
+        "y": 716,
+        "note": "Explore memory souvenir on ending"
+      },
+      "error": null,
+      "url": "https://niko2-atelier-combined-preview.25mochiko25.workers.dev/?mofumofu_qa=mofu-preview-20261021-visual-cc83#quiet",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/c6e4ede5ecfbd00a51b9ada21f4c26f9b7cdd412/live-results/mofu-preview-20261021-visual-cc83/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\nまだ住所を持たない街から、足元へ滑った小さなタイル。\n\n持ち帰る\n\n夢を離れる"
     }
   ]
 }
