@@ -6,17 +6,19 @@
   "mobile": false,
   "touch": false,
   "startedAt": "2026-11-25T13:48:44.493Z",
-  "updatedAt": "2026-11-25T13:53:39.283Z",
-  "lastCommand": "17",
+  "updatedAt": "2026-11-25T13:53:59.653Z",
+  "lastCommand": "18",
   "stopReason": null,
   "action": {
-    "id": "17",
-    "op": "look",
+    "id": "18",
+    "op": "tap",
+    "x": 1172,
+    "y": 764,
     "wait": 500,
-    "note": "銀皿に何が出たのか待って確認する。"
+    "note": "もう一品見たい。"
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/c7b85a62a81818b6986c67c02b125f343ee539b2/live-results/jirojiro-mofumofu-20261125-retry-desktop/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/3cab4d9b4c891650e7412d5ca183e30414908260/live-results/jirojiro-mofumofu-20261125-retry-desktop/current.jpg",
   "readOnly": false,
   "blockedWrites": 0,
   "url": "https://niko2atelier.com/#hotel",
@@ -30,7 +32,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\nNIKO² ATELIER\nDream\nDiary\nAbout\n\n\nWORLD / OUTINGS\nHOTEL SOMNIA\n×\nYesterday\n昨日の庭の断片が、銀の皿の上で少しだけ湿っている。\nもう一品見る\n今夜をDiaryへ持ち帰る\nCHECK OUT\n",
+  "text": "作品へ移動\nNIKO² ATELIER\nDream\nDiary\nAbout\n\n\nWORLD / OUTINGS\nHOTEL SOMNIA\n×\nROOM SERVICE / TONIGHT\n存在しないものを、お二つまで。\n1 / 2\n\nTea for Nobody\nカップを二つ。来客の予定は不要です。\n¥600\n\nYesterday\n保存状態によって、味が異なります。\n¥0\n\nBlue Hour\n日没後、夜になる前だけのお色です。\n¥400\n\nA Sunday You Forgot\n次回入荷日は、先週の日曜日です。\nSOLD OUT\n\nSomeone Else's Rain\n窓は閉じたままでお召し上がりください。\nCOMPLIMENTARY\nYesterday\n昨日の庭の断片が、銀の皿の上で少しだけ湿っている。\n今夜をDiaryへ持ち帰る\nCHECK OUT\n",
   "controls": [
     {
       "tag": "A",
@@ -104,20 +106,64 @@
       "disabled": false,
       "rect": {
         "x": 1348,
-        "y": 648,
+        "y": 136,
         "w": 32,
         "h": 32
       }
     },
     {
       "tag": "BUTTON",
-      "text": "もう一品見る",
+      "text": "Tea for Nobody\nカップを二つ。来客の予定は不要です。\n¥600",
       "disabled": false,
       "rect": {
-        "x": 984,
-        "y": 742,
-        "w": 382,
-        "h": 43
+        "x": 915,
+        "y": 223,
+        "w": 445,
+        "h": 59
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Yesterday\n保存状態によって、味が異なります。\n¥0",
+      "disabled": true,
+      "rect": {
+        "x": 915,
+        "y": 282,
+        "w": 445,
+        "h": 59
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Blue Hour\n日没後、夜になる前だけのお色です。\n¥400",
+      "disabled": false,
+      "rect": {
+        "x": 915,
+        "y": 341,
+        "w": 445,
+        "h": 59
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "A Sunday You Forgot\n次回入荷日は、先週の日曜日です。\nSOLD OUT",
+      "disabled": true,
+      "rect": {
+        "x": 915,
+        "y": 400,
+        "w": 445,
+        "h": 59
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Someone Else's Rain\n窓は閉じたままでお召し上がりください。\nCOMPLIMENTARY",
+      "disabled": false,
+      "rect": {
+        "x": 915,
+        "y": 459,
+        "w": 445,
+        "h": 59
       }
     },
     {
@@ -125,9 +171,9 @@
       "text": "今夜をDiaryへ持ち帰る",
       "disabled": false,
       "rect": {
-        "x": 984,
-        "y": 793,
-        "w": 187,
+        "x": 914,
+        "y": 806,
+        "w": 222,
         "h": 43
       }
     },
@@ -136,9 +182,9 @@
       "text": "CHECK OUT",
       "disabled": false,
       "rect": {
-        "x": 1179,
-        "y": 793,
-        "w": 187,
+        "x": 1144,
+        "y": 806,
+        "w": 222,
         "h": 43
       }
     }
@@ -418,6 +464,22 @@
       "url": "https://niko2atelier.com/#hotel",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/c7b85a62a81818b6986c67c02b125f343ee539b2/live-results/jirojiro-mofumofu-20261125-retry-desktop/current.jpg",
       "text": "作品へ移動\nNIKO² ATELIER\nDream\nDiary\nAbout\n\n\nWORLD / OUTINGS\nHOTEL SOMNIA\n×\nYesterday\n昨日の庭の断片が、銀の皿の上で少しだけ湿っている。\nもう一品見る\n今夜をDiaryへ持ち帰る\nCHECK OUT\n"
+    },
+    {
+      "number": 19,
+      "at": "2026-11-25T13:53:59.653Z",
+      "action": {
+        "id": "18",
+        "op": "tap",
+        "x": 1172,
+        "y": 764,
+        "wait": 500,
+        "note": "もう一品見たい。"
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/#hotel",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/3cab4d9b4c891650e7412d5ca183e30414908260/live-results/jirojiro-mofumofu-20261125-retry-desktop/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\nDream\nDiary\nAbout\n\n\nWORLD / OUTINGS\nHOTEL SOMNIA\n×\nROOM SERVICE / TONIGHT\n存在しないものを、お二つまで。\n1 / 2\n\nTea for Nobody\nカップを二つ。来客の予定は不要です。\n¥600\n\nYesterday\n保存状態によって、味が異なります。\n¥0\n\nBlue Hour\n日没後、夜になる前だけのお色です。\n¥400\n\nA Sunday You Forgot\n次回入荷日は、先週の日曜日です。\nSOLD OUT\n\nSomeone Else's Rain\n窓は閉じたままでお召し上がりください。\nCOMPLIMENTARY\nYesterday\n昨日の庭の断片が、銀の皿の上で少しだけ湿っている。\n今夜をDiaryへ持ち帰る\nCHECK OUT\n"
     }
   ]
 }
