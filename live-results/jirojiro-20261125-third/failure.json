@@ -1,0 +1,353 @@
+{
+  "session": "jirojiro-20261125-third",
+  "device": "desktop",
+  "stopReason": "infrastructure_error",
+  "error": "TimeoutError: page.screenshot: Timeout 15000ms exceeded.\nCall log:\n  - taking page screenshot\n",
+  "events": [
+    {
+      "number": 1,
+      "at": "2026-11-25T14:14:46.792Z",
+      "action": {
+        "op": "arrival"
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/a8de3a0a95b104640199a339342821b076b24e18/live-results/jirojiro-20261125-third/current.jpg",
+      "text": "作品へ移動\n\n"
+    },
+    {
+      "number": 2,
+      "at": "2026-11-25T14:15:02.660Z",
+      "action": {
+        "id": "01",
+        "op": "tap",
+        "x": 726,
+        "y": 520,
+        "note": "招待状を開く",
+        "wait": 1200
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/082381bdf652b9146697add059d3ac43c3f21a2b/live-results/jirojiro-20261125-third/current.jpg",
+      "text": "作品へ移動\n\n\nWORLD\n夢の入り口は、毎回すこし違う。 夢から醒めても何かは残る。\n次へ"
+    },
+    {
+      "number": 3,
+      "at": "2026-11-25T14:15:18.801Z",
+      "action": {
+        "id": "02",
+        "op": "tap",
+        "x": 1384,
+        "y": 858,
+        "note": "次へ",
+        "wait": 1100
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/82060c18a38e19ef8a2cb93922224e1600c195c1/live-results/jirojiro-20261125-third/current.jpg",
+      "text": "作品へ移動\n\n\nINTERACTION\n\nSound On\n\nSound Off\n触れる\n持ち帰る\n仕舞う\n次へ戻る"
+    },
+    {
+      "number": 4,
+      "at": "2026-11-25T14:15:31.676Z",
+      "action": {
+        "id": "03",
+        "op": "tap",
+        "x": 1384,
+        "y": 858,
+        "note": "次へ",
+        "wait": 1000
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/1785acd176869f429b99078f33988af063e1e0e5/live-results/jirojiro-20261125-third/current.jpg",
+      "text": "作品へ移動\n\n\nWELCOME\nようこそ！\n夢へ入る戻る"
+    },
+    {
+      "number": 5,
+      "at": "2026-11-25T14:15:45.517Z",
+      "action": {
+        "id": "04",
+        "op": "tap",
+        "x": 830,
+        "y": 360,
+        "note": "夢へ入る",
+        "wait": 1500
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/#garden",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/19a5543da1ac34c9bd7f047fddd346fcfd66d6b4/live-results/jirojiro-20261125-third/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\nDREAM\nCLOUD GARDEN\n\n\n席を立ったあとの庭にも、\n持ち主より長く夢を見るものがいる。\n\nこの空へ入る\n"
+    },
+    {
+      "number": 6,
+      "at": "2026-11-25T14:16:04.974Z",
+      "action": {
+        "id": "05",
+        "op": "tap",
+        "x": 1386,
+        "y": 82,
+        "note": "夢の見覚え",
+        "wait": 3500
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/#quiet",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/8bb848cf7c4d6b290a8a4ac6588e1c3b3a11d4ea/live-results/jirojiro-20261125-third/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n庭が、空よりも高く昇りはじめた。\n\nひとひらだけ、帰る道を選ぶのを見た。\n"
+    },
+    {
+      "number": 7,
+      "at": "2026-11-25T14:16:24.656Z",
+      "action": {
+        "id": "06",
+        "op": "tap",
+        "x": 406,
+        "y": 803,
+        "note": "足元の花びら",
+        "wait": 1400
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/#quiet",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/3cabef993fd37e452e18bf915027613f86780e31/live-results/jirojiro-20261125-third/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n夢を離れる"
+    },
+    {
+      "number": 8,
+      "at": "2026-11-25T14:16:43.962Z",
+      "action": {
+        "id": "07",
+        "op": "tap",
+        "x": 457,
+        "y": 778,
+        "note": "帰る花弁に触れる",
+        "wait": 1100
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/#quiet",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/159a38fba01372f28baba1c22940caf7cfe28a7b/live-results/jirojiro-20261125-third/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n空へ昇った庭から、一枚だけ残った。\n\n持ち帰る\n\n夢を離れる"
+    },
+    {
+      "number": 9,
+      "at": "2026-11-25T14:17:00.594Z",
+      "action": {
+        "id": "08",
+        "op": "tap",
+        "x": 720,
+        "y": 779,
+        "note": "持ち帰る",
+        "wait": 1200
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/#quiet",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/ed2ae9c45be2caf09e73fc2bc617fe40e0472aa4/live-results/jirojiro-20261125-third/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n夢を離れる\n\nDREAM MEMORY\n庭が昇ったあとの水面\n\n\nWORLD MEMORY\n\nTHING THAT REMAINED\n帰る花弁 空へ昇った庭から、一枚だけ残った。\n言葉を添える\nアトリエへ戻る\nDiaryへ持ち帰る"
+    },
+    {
+      "number": 10,
+      "at": "2026-11-25T14:17:17.508Z",
+      "action": {
+        "id": "09",
+        "op": "tap",
+        "x": 662,
+        "y": 772,
+        "note": "アトリエへ戻る",
+        "wait": 1800
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/6112d8fba4bc49bc381b876a629a8356bd15d0d3/live-results/jirojiro-20261125-third/current.jpg",
+      "text": "作品へ移動\n\n\nWORLD\n\n\n\nA NEW LIFE\nDEAR ATELIER\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n\nAFTER THE GARDEN\nこの庭を、短く通り抜けました。\n次へ"
+    },
+    {
+      "number": 11,
+      "at": "2026-11-25T14:17:38.609Z",
+      "action": {
+        "id": "10",
+        "op": "tap",
+        "x": 1384,
+        "y": 858,
+        "note": "次へ",
+        "wait": 1100
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/693c6975dfaf676b7eae81a3cbb93e3aef2fb710/live-results/jirojiro-20261125-third/current.jpg",
+      "text": "作品へ移動\n\n\nWORLD\n\n\n\nA NEW LIFE\nDEAR ATELIER\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n\nWHAT REMAINED\nひとつ、持ち帰ったものがあります。 それは、この先にも残ります。\n次へ戻る"
+    },
+    {
+      "number": 12,
+      "at": "2026-11-25T14:17:56.923Z",
+      "action": {
+        "id": "11",
+        "op": "tap",
+        "x": 1384,
+        "y": 858,
+        "note": "次へ",
+        "wait": 1000
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/100a64c83bcd681bd19b1f7039d8692b7b682bf5/live-results/jirojiro-20261125-third/current.jpg",
+      "text": "作品へ移動\n\n\nWORLD\n\n\n\nA NEW LIFE\nDEAR ATELIER\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n\nNIKO² ATELIER\nあなたの夢は、NIKO² ATELIERとともに、 この世界を少しずつ広げていきます。  この先も世界が広がっています。 あとは、ご自由に。\n次へ戻る"
+    },
+    {
+      "number": 13,
+      "at": "2026-11-25T14:18:13.009Z",
+      "action": {
+        "id": "12",
+        "op": "tap",
+        "x": 1384,
+        "y": 858,
+        "note": "次へ",
+        "wait": 1400
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/7896a500d78d9968d9a088a5fbdc6fd5f89f4323/live-results/jirojiro-20261125-third/current.jpg",
+      "text": "作品へ移動\n\n\nWORLD\n\n\n\nA NEW LIFE\nDEAR ATELIER\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n\nNEXT PLACES\nこの先に、二つの場所がひらいています。\nどちらを選んでも、選ばなくても大丈夫です。\n\n\nFROM THE ATELIER\nこの世界の制作記録を読む場所。\n\n\nCloud Garden\n別の夢を、もう一度見る場所。\n戻る完了"
+    },
+    {
+      "number": 14,
+      "at": "2026-11-25T14:18:28.765Z",
+      "action": {
+        "id": "13",
+        "op": "tap",
+        "x": 1384,
+        "y": 858,
+        "note": "完了・通常HOMEへ",
+        "wait": 3000
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/a5a7127731ed8cae20151d55640766060ad68ae1/live-results/jirojiro-20261125-third/current.jpg",
+      "text": "作品へ移動\n\n\n\nWORLD\n\n\n\nA NEW LIFE\nDEAR ATELIER\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n"
+    },
+    {
+      "number": 15,
+      "at": "2026-11-25T14:18:48.158Z",
+      "action": {
+        "id": "14",
+        "op": "tap",
+        "x": 720,
+        "y": 407,
+        "note": "中央のEnter the dreamから探索開始",
+        "wait": 2000
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/#cinema",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/0ee34b624dd01528bc997e15e3016edf28add3db/live-results/jirojiro-20261125-third/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\nDream\nDiary\nAbout\n\nDREAM\nCINEMA LACUNA\n\n赤い幕の向こうで、\n誰も知らない夢が、ひとつだけ上映される。\n\nこの夢を観る\n"
+    },
+    {
+      "number": 16,
+      "at": "2026-11-25T14:19:07.817Z",
+      "action": {
+        "id": "15",
+        "op": "tap",
+        "x": 720,
+        "y": 835,
+        "note": "赤い幕が気になる。この夢を観る",
+        "wait": 2500
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/#cinema",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/384236c92fa0d35c526d77fae5fd8822faedff7a/live-results/jirojiro-20261125-third/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n"
+    },
+    {
+      "number": 17,
+      "at": "2026-11-25T14:19:29.290Z",
+      "action": {
+        "id": "16",
+        "op": "look",
+        "note": "上映中の画面を見る",
+        "wait": 2500
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/#cinema",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/0d90e3d875556fe0084076607d19e02ab9d21596/live-results/jirojiro-20261125-third/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n"
+    },
+    {
+      "number": 18,
+      "at": "2026-11-25T14:19:47.152Z",
+      "action": {
+        "id": "17",
+        "op": "look",
+        "note": "日付と二進数のノート。次の場面を観察",
+        "wait": 2500
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/#cinema",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/d477895bb2bed2747c84b2fe8d5e6bac34ddd40b/live-results/jirojiro-20261125-third/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n"
+    },
+    {
+      "number": 19,
+      "at": "2026-11-25T14:20:06.844Z",
+      "action": {
+        "id": "18",
+        "op": "tap",
+        "x": 600,
+        "y": 330,
+        "note": "ノートに星印がある。画面に触れてみる",
+        "wait": 2000
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/#cinema",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/640a9431667701800d7b88c879628c22ae20edb7/live-results/jirojiro-20261125-third/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n"
+    },
+    {
+      "number": 20,
+      "at": "2026-11-25T14:20:27.305Z",
+      "action": {
+        "id": "19",
+        "op": "tap",
+        "x": 1387,
+        "y": 83,
+        "note": "約38秒同じノート画面。夢の見覚えで先へ",
+        "wait": 3500
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/#cinema",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/68d6ced8b0f20ae364e31cc2ea14c108c55e05e3/live-results/jirojiro-20261125-third/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n上映を続ける上映を再開できませんでした。もう一度、再生してください。"
+    },
+    {
+      "number": 21,
+      "at": "2026-11-25T14:20:50.259Z",
+      "action": {
+        "id": "20",
+        "op": "tap",
+        "x": 720,
+        "y": 660,
+        "note": "上映を続けるを一度試す",
+        "wait": 3000
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/#cinema",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/65a32355ac4b6968ea977071928f501132337390/live-results/jirojiro-20261125-third/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n"
+    },
+    {
+      "number": 22,
+      "at": "2026-11-25T14:21:08.520Z",
+      "action": {
+        "id": "21",
+        "op": "look",
+        "note": "再生ボタンを押した後の上映を確認",
+        "wait": 1500
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/#cinema",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/ef939a4e9a61fcc4193194c85000c9251fa80f95/live-results/jirojiro-20261125-third/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n上映を続ける上映を再開できませんでした。もう一度、再生してください。"
+    }
+  ],
+  "pageErrors": [
+    "Error: INHERITED_DATA_REJECTED at options"
+  ],
+  "httpErrors": []
+}
