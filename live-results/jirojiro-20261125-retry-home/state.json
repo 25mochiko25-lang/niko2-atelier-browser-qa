@@ -6,22 +6,22 @@
   "mobile": false,
   "touch": false,
   "startedAt": "2026-11-25T14:06:16.976Z",
-  "updatedAt": "2026-11-25T14:07:16.408Z",
-  "lastCommand": "03",
+  "updatedAt": "2026-11-25T14:07:32.463Z",
+  "lastCommand": "04",
   "stopReason": null,
   "action": {
-    "id": "03",
+    "id": "04",
     "op": "tap",
-    "x": 1384,
-    "y": 858,
-    "note": "次へ",
-    "wait": 700
+    "x": 830,
+    "y": 360,
+    "note": "夢へ",
+    "wait": 1000
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/11708747057307c6e4da0894f5ddd8d8097c85b3/live-results/jirojiro-20261125-retry-home/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/e05ed8726d64d149ab61b7b67db70ea0ce92f537/live-results/jirojiro-20261125-retry-home/current.jpg",
   "readOnly": false,
   "blockedWrites": 0,
-  "url": "https://niko2atelier.com/",
+  "url": "https://niko2atelier.com/#garden",
   "title": "NIKO² ATELIER",
   "viewport": {
     "width": 1440,
@@ -32,50 +32,182 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n\n\nWELCOME\nようこそ！\n夢へ入る戻る",
+  "text": "作品へ移動\n夢の見覚え ✧︎\nDREAM\nCLOUD GARDEN\n\n\n席を立ったあとの庭にも、\n持ち主より長く夢を見るものがいる。\n\nこの空へ入る\n",
   "controls": [
     {
       "tag": "BUTTON",
-      "text": "招待状を開いて夢へ入る",
+      "text": "音をオンにする",
       "disabled": false,
       "rect": {
-        "x": 510,
-        "y": 420,
-        "w": 432,
-        "h": 202
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "夢へ入る",
-      "disabled": false,
-      "rect": {
-        "x": 1339,
-        "y": 836,
-        "w": 81,
+        "x": 1380,
+        "y": 16,
+        "w": 44,
         "h": 44
       }
     },
     {
       "tag": "BUTTON",
-      "text": "夢へ入る",
+      "text": "夢の見覚え ✧︎",
       "disabled": false,
       "rect": {
-        "x": 569,
-        "y": 94,
-        "w": 540,
-        "h": 513
+        "x": 1347,
+        "y": 68,
+        "w": 77,
+        "h": 30
       }
     },
     {
       "tag": "BUTTON",
-      "text": "戻る",
+      "text": "止まりかけの砂時計に触れる",
+      "disabled": true,
+      "rect": {
+        "x": 443,
+        "y": 362,
+        "w": 105,
+        "h": 184
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "N² Eau de rêveに触れる",
+      "disabled": true,
+      "rect": {
+        "x": 521,
+        "y": 529,
+        "w": 93,
+        "h": 114
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "まだあたたかいカップに触れる",
+      "disabled": true,
+      "rect": {
+        "x": 691,
+        "y": 524,
+        "w": 111,
+        "h": 88
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "置き去りのくまに触れる",
+      "disabled": true,
+      "rect": {
+        "x": 866,
+        "y": 476,
+        "w": 140,
+        "h": 184
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "青いリボンの鍵に触れる",
+      "disabled": true,
+      "rect": {
+        "x": 610,
+        "y": 596,
+        "w": 115,
+        "h": 93
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "テーブルのメモをめくる",
       "disabled": false,
       "rect": {
-        "x": 20,
-        "y": 836,
-        "w": 72,
-        "h": 44
+        "x": 693,
+        "y": 602,
+        "w": 107,
+        "h": 82
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "くまのそばの本を開く",
+      "disabled": true,
+      "rect": {
+        "x": 872,
+        "y": 599,
+        "w": 141,
+        "h": 113
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "ティーポットに触れる",
+      "disabled": true,
+      "rect": {
+        "x": 603,
+        "y": 463,
+        "w": 123,
+        "h": 127
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "花に触れる",
+      "disabled": true,
+      "rect": {
+        "x": 446,
+        "y": 284,
+        "w": 181,
+        "h": 158
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "水面に触れる",
+      "disabled": true,
+      "rect": {
+        "x": 708,
+        "y": 275,
+        "w": 245,
+        "h": 193
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "レースのカーテンに触れる",
+      "disabled": true,
+      "rect": {
+        "x": 428,
+        "y": 108,
+        "w": 88,
+        "h": 298
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "石の柱を軽く叩く",
+      "disabled": true,
+      "rect": {
+        "x": 533,
+        "y": 152,
+        "w": 134,
+        "h": 272
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "遠くの白い門に触れる",
+      "disabled": true,
+      "rect": {
+        "x": 813,
+        "y": 135,
+        "w": 93,
+        "h": 123
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "この空へ入る",
+      "disabled": false,
+      "rect": {
+        "x": 643,
+        "y": 798,
+        "w": 154,
+        "h": 48
       }
     }
   ],
@@ -142,6 +274,22 @@
       "url": "https://niko2atelier.com/",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/11708747057307c6e4da0894f5ddd8d8097c85b3/live-results/jirojiro-20261125-retry-home/current.jpg",
       "text": "作品へ移動\n\n\nWELCOME\nようこそ！\n夢へ入る戻る"
+    },
+    {
+      "number": 5,
+      "at": "2026-11-25T14:07:32.463Z",
+      "action": {
+        "id": "04",
+        "op": "tap",
+        "x": 830,
+        "y": 360,
+        "note": "夢へ",
+        "wait": 1000
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/#garden",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/e05ed8726d64d149ab61b7b67db70ea0ce92f537/live-results/jirojiro-20261125-retry-home/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\nDREAM\nCLOUD GARDEN\n\n\n席を立ったあとの庭にも、\n持ち主より長く夢を見るものがいる。\n\nこの空へ入る\n"
     }
   ]
 }
