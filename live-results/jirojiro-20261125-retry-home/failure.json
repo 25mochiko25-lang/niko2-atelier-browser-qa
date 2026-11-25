@@ -1,0 +1,181 @@
+{
+  "session": "jirojiro-20261125-retry-home",
+  "device": "desktop",
+  "stopReason": "infrastructure_error",
+  "error": "Error: GitHub 502: <!DOCTYPE html>\r\n<!--\r\n\r\nHello future GitHubber! I bet you're here to remove those nasty inline styles,\r\nDRY up these templates and make 'em nice and re-usable, right?\r\n\r\nPlease, don't. https://github.com/styleguide/templates/2.0\r\n\r\n-->\r\n<html>\r\n  <head>\r\n    <title>Unicorn! &middot; GitHub</title>\r",
+  "events": [
+    {
+      "number": 1,
+      "at": "2026-11-25T14:06:24.973Z",
+      "action": {
+        "op": "arrival"
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/78e75fb67077166230cca28c80e550ab67f83901/live-results/jirojiro-20261125-retry-home/current.jpg",
+      "text": "作品へ移動\n\n"
+    },
+    {
+      "number": 2,
+      "at": "2026-11-25T14:06:45.902Z",
+      "action": {
+        "id": "01",
+        "op": "tap",
+        "x": 726,
+        "y": 520,
+        "note": "招待状",
+        "wait": 700
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/2d59b3ce4195f58ef3c5fd9175beebb78c3fa40f/live-results/jirojiro-20261125-retry-home/current.jpg",
+      "text": "作品へ移動\n\n\nWORLD\n夢の入り口は、毎回すこし違う。 夢から醒めても何かは残る。\n次へ"
+    },
+    {
+      "number": 3,
+      "at": "2026-11-25T14:06:58.539Z",
+      "action": {
+        "id": "02",
+        "op": "tap",
+        "x": 1384,
+        "y": 858,
+        "note": "次へ",
+        "wait": 700
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/a91bd8894d0adeca1b9cb0a1bdb1f2caf8a7dc5b/live-results/jirojiro-20261125-retry-home/current.jpg",
+      "text": "作品へ移動\n\n\nINTERACTION\n\nSound On\n\nSound Off\n触れる\n持ち帰る\n仕舞う\n次へ戻る"
+    },
+    {
+      "number": 4,
+      "at": "2026-11-25T14:07:16.408Z",
+      "action": {
+        "id": "03",
+        "op": "tap",
+        "x": 1384,
+        "y": 858,
+        "note": "次へ",
+        "wait": 700
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/11708747057307c6e4da0894f5ddd8d8097c85b3/live-results/jirojiro-20261125-retry-home/current.jpg",
+      "text": "作品へ移動\n\n\nWELCOME\nようこそ！\n夢へ入る戻る"
+    },
+    {
+      "number": 5,
+      "at": "2026-11-25T14:07:32.463Z",
+      "action": {
+        "id": "04",
+        "op": "tap",
+        "x": 830,
+        "y": 360,
+        "note": "夢へ",
+        "wait": 1000
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/#garden",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/e05ed8726d64d149ab61b7b67db70ea0ce92f537/live-results/jirojiro-20261125-retry-home/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\nDREAM\nCLOUD GARDEN\n\n\n席を立ったあとの庭にも、\n持ち主より長く夢を見るものがいる。\n\nこの空へ入る\n"
+    },
+    {
+      "number": 6,
+      "at": "2026-11-25T14:07:47.379Z",
+      "action": {
+        "id": "05",
+        "op": "tap",
+        "x": 1386,
+        "y": 82,
+        "note": "夢の見覚え",
+        "wait": 700
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/#quiet",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/164b108a4ef12d97dd5b01f2d85fcf0ed8a0b55f/live-results/jirojiro-20261125-retry-home/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n"
+    },
+    {
+      "number": 7,
+      "at": "2026-11-25T14:08:04.732Z",
+      "action": {
+        "id": "06",
+        "op": "look",
+        "note": "遷移が終わった画面を見る",
+        "wait": 1500
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/#quiet",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/0a1b7951be7e76b97e0c4f213fac3a0ecfcd24b0/live-results/jirojiro-20261125-retry-home/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n夢を離れる"
+    },
+    {
+      "number": 8,
+      "at": "2026-11-25T14:08:21.887Z",
+      "action": {
+        "id": "07",
+        "op": "tap",
+        "x": 200,
+        "y": 795,
+        "note": "白い街の一片",
+        "wait": 900
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/#quiet",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/f27585dfe3dbfb1ce43d6851258d7c0f2b6ddee4/live-results/jirojiro-20261125-retry-home/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\nまだ住所を持たない街から、足元へ滑った小さなタイル。\n\n持ち帰る\n\n夢を離れる"
+    },
+    {
+      "number": 9,
+      "at": "2026-11-25T14:08:36.490Z",
+      "action": {
+        "id": "08",
+        "op": "tap",
+        "x": 720,
+        "y": 779,
+        "note": "持ち帰る",
+        "wait": 1500
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/#quiet",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/1271856f33ecfb1c08c4477d75e93128b432e82a/live-results/jirojiro-20261125-retry-home/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n夢を離れる\n\nDREAM MEMORY\n白い橋の端\n\n\nWORLD MEMORY\n\nTHING THAT REMAINED\n白い街の一片 まだ住所を持たない街から、足元へ滑った小さなタイル。\n言葉を添える\nアトリエへ戻る\nDiaryへ持ち帰る"
+    },
+    {
+      "number": 10,
+      "at": "2026-11-25T14:08:50.579Z",
+      "action": {
+        "id": "09",
+        "op": "tap",
+        "x": 662,
+        "y": 772,
+        "note": "Diaryを経由せず直接アトリエへ",
+        "wait": 800
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/7d18cc852d7cfe87342c83496aed047109d31cdf/live-results/jirojiro-20261125-retry-home/current.jpg",
+      "text": "作品へ移動\n\n\nWORLD\n\n\n\nA NEW LIFE\nDEAR ATELIER\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n\nAFTER THE GARDEN\nこの庭を、短く通り抜けました。\n次へ"
+    },
+    {
+      "number": 11,
+      "at": "2026-11-25T14:09:05.617Z",
+      "action": {
+        "id": "10",
+        "op": "tap",
+        "x": 1384,
+        "y": 858,
+        "note": "チュートリアルを進める",
+        "wait": 900
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/313ac446aaedb52498886906a549c23746d5ac24/live-results/jirojiro-20261125-retry-home/current.jpg",
+      "text": "作品へ移動\n\n\nWORLD\n\n\n\nA NEW LIFE\nDEAR ATELIER\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n\nWHAT REMAINED\nひとつ、持ち帰ったものがあります。 それは、この先にも残ります。\n次へ戻る"
+    }
+  ],
+  "pageErrors": [
+    "Error: INHERITED_DATA_REJECTED at options"
+  ],
+  "httpErrors": []
+}
