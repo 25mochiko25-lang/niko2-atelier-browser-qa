@@ -6,22 +6,22 @@
   "mobile": false,
   "touch": false,
   "startedAt": "2026-11-25T13:48:44.493Z",
-  "updatedAt": "2026-11-25T13:58:02.941Z",
-  "lastCommand": "30",
+  "updatedAt": "2026-11-25T13:58:27.556Z",
+  "lastCommand": "31",
   "stopReason": null,
   "action": {
-    "id": "30",
+    "id": "31",
     "op": "tap",
-    "x": 1018,
-    "y": 831,
-    "wait": 3000,
-    "note": "香りを定着させる。"
+    "x": 816,
+    "y": 662,
+    "wait": 1000,
+    "note": "Soft LinenをDIARYへ。"
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/a63121a164b4b2deaf9c9d66af7aa2e7c27815a2/live-results/jirojiro-mofumofu-20261125-retry-desktop/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/a8932d49315ed9140a420c535e28768fa74b83bd/live-results/jirojiro-mofumofu-20261125-retry-desktop/current.jpg",
   "readOnly": false,
   "blockedWrites": 0,
-  "url": "https://niko2atelier.com/#perfume",
+  "url": "https://niko2atelier.com/#diary",
   "title": "NIKO² ATELIER",
   "viewport": {
     "width": 1440,
@@ -32,7 +32,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\nNIKO² ATELIER\nDream\nDiary\nAbout\n\n\nATELIER / MAKING\nPERFUME MORGUE\nSKIN / あなたの痕跡\nF-20261125-441E\nSoft Linen\nSKIN / あなたの痕跡\nEAU DE PARFUM / 記憶の濃度\nTOP\n1. 雨 ×1\nMIDDLE\n1. あの時の本 ×1\nLAST\n1. ホテルのシーツ ×1\nFORMULA / SCENT CHARACTER\n最初に雨。 少し遅れてあの時の本。 最後にホテルのシーツが残る。 密度のある長い残香へ着地する。\nDiaryに持ち帰る\nもう一度調合する\nシャワーを浴びたばかり。  髪はまだ濡れてる。 シーツは新しい。  君が戻るまで、 このまま何も着ないでいようかと思った。\nREAL WORLD ECHOES\nREAL WORLD / TRACE ONLY\nこの香りには、現実にも近い夢がある。\nいまはまだ、名前ではなく三つの手掛かりだけ。\n\nECHO / AIR\nレインウォーター\nECHO / HEART\nコットンシーツ\nECHO / TRACE\nペーパー / ホワイトムスク\n",
+  "text": "作品へ移動\nNIKO² ATELIER\nDream\nDiary\nAbout\n\nNIKO² DIARY\nDiary\n今日のことを、ひとつだけ。\n11月25日 22:58\nDREAM THREAD\n夢の続きが、まだ近くにあります。\n← 調香室へ戻る\nTODAY\n今日を残す\n選んだ記憶が、ここに書きとめてあります。\nあなたの言葉を、添えても構いません。\n✦\nいまの気配\n\n静か\n\nきらきら\n\nぼんやり\n\nざわざわ\n\n甘い\n\n雨っぽい\n\n眠い\n\n何もない\nPHOTO\n写真\n選択なし\nまち\n部屋\n買ったもの\n遊び\n食べもの\nその他\n写真を眺める\n‹\n›\n\n\n自販機\n\n\nホーム\n\n\n改札\n\n\n途中\n\n\nロッカー\n\n\nエレベーター\n\n\nガラス扉\n\n\n雨の改札\n\n\n22:47\n\n\n青空\n\n\n茶席\n\n\n結び目\n\n\n満潮\n\n\nファスナー\n\n\n一枚\n\n\n一通\n\n\n桟橋\n\n\n客室\n\n\nクラッカー\n\n\n本番\n言葉\nOPTIONAL\nこの端末だけに残ります\n残す\nRECENT\n少し前の自分\n\nSoft Linen\n11/25\n\nROOM 0317 / NIGHT\n11/25\n\n白い橋の端\n11/25\n2026年11月\nMONTHLY REFLECTION\n今月の景色\nよく残った気配\n雨っぽい\nよく残った色\n淡いパウダー色\nよく残ったモチーフ\n香水\n香水瓶は空。残留香が中身の権利を主張したので、瓶の容量を零に修正した。\nもう少し見る\nARCHIVE\n前の日々をひらく\n\nWHAT REMAINED\n残ったものを見る\nアトリエへ戻る\n",
   "controls": [
     {
       "tag": "A",
@@ -91,35 +91,299 @@
     },
     {
       "tag": "BUTTON",
-      "text": "香水ホームへ戻る",
+      "text": "← 調香室へ戻る",
       "disabled": false,
       "rect": {
-        "x": 25,
-        "y": 94,
-        "w": 42,
-        "h": 42
+        "x": 604,
+        "y": 263,
+        "w": 107,
+        "h": 40
       }
     },
     {
       "tag": "BUTTON",
-      "text": "Diaryに持ち帰る",
+      "text": "静か",
       "disabled": false,
       "rect": {
-        "x": 694,
-        "y": 639,
+        "x": 297,
+        "y": 521,
         "w": 240,
+        "h": 46
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "きらきら",
+      "disabled": false,
+      "rect": {
+        "x": 544,
+        "y": 521,
+        "w": 283,
+        "h": 46
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "ぼんやり",
+      "disabled": false,
+      "rect": {
+        "x": 834,
+        "y": 521,
+        "w": 309,
+        "h": 46
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "ざわざわ",
+      "disabled": false,
+      "rect": {
+        "x": 297,
+        "y": 576,
+        "w": 283,
+        "h": 46
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "甘い",
+      "disabled": false,
+      "rect": {
+        "x": 587,
+        "y": 576,
+        "w": 232,
+        "h": 46
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "雨っぽい",
+      "disabled": false,
+      "rect": {
+        "x": 826,
+        "y": 576,
+        "w": 318,
+        "h": 46
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "眠い",
+      "disabled": false,
+      "rect": {
+        "x": 297,
+        "y": 631,
+        "w": 258,
+        "h": 46
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "何もない",
+      "disabled": false,
+      "rect": {
+        "x": 562,
+        "y": 631,
+        "w": 317,
+        "h": 46
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "まち",
+      "disabled": false,
+      "rect": {
+        "x": 307,
+        "y": 752,
+        "w": 46,
+        "h": 38
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "部屋",
+      "disabled": false,
+      "rect": {
+        "x": 358,
+        "y": 752,
+        "w": 45,
+        "h": 38
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "買ったもの",
+      "disabled": false,
+      "rect": {
+        "x": 409,
+        "y": 752,
+        "w": 81,
+        "h": 39
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "遊び",
+      "disabled": false,
+      "rect": {
+        "x": 496,
+        "y": 752,
+        "w": 46,
+        "h": 38
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "食べもの",
+      "disabled": false,
+      "rect": {
+        "x": 547,
+        "y": 752,
+        "w": 69,
+        "h": 38
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "その他",
+      "disabled": false,
+      "rect": {
+        "x": 622,
+        "y": 752,
+        "w": 57,
+        "h": 39
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "写真を眺める",
+      "disabled": false,
+      "rect": {
+        "x": 949,
+        "y": 805,
+        "w": 75,
+        "h": 38
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "‹",
+      "disabled": true,
+      "rect": {
+        "x": 1036,
+        "y": 802,
+        "w": 44,
         "h": 44
       }
     },
     {
       "tag": "BUTTON",
-      "text": "もう一度調合する",
+      "text": "›",
       "disabled": false,
       "rect": {
-        "x": 942,
-        "y": 639,
-        "w": 240,
+        "x": 1088,
+        "y": 802,
+        "w": 44,
         "h": 44
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "自販機",
+      "disabled": false,
+      "rect": {
+        "x": 308,
+        "y": 854,
+        "w": 158,
+        "h": 193
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "ホーム",
+      "disabled": false,
+      "rect": {
+        "x": 448,
+        "y": 856,
+        "w": 156,
+        "h": 192
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "改札",
+      "disabled": false,
+      "rect": {
+        "x": 588,
+        "y": 858,
+        "w": 154,
+        "h": 190
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "途中",
+      "disabled": false,
+      "rect": {
+        "x": 726,
+        "y": 857,
+        "w": 156,
+        "h": 192
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "ロッカー",
+      "disabled": false,
+      "rect": {
+        "x": 864,
+        "y": 857,
+        "w": 158,
+        "h": 193
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "エレベーター",
+      "disabled": false,
+      "rect": {
+        "x": 1002,
+        "y": 857,
+        "w": 160,
+        "h": 195
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "ガラス扉",
+      "disabled": false,
+      "rect": {
+        "x": 1142,
+        "y": 854,
+        "w": 158,
+        "h": 193
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "雨の改札",
+      "disabled": false,
+      "rect": {
+        "x": 1282,
+        "y": 856,
+        "w": 156,
+        "h": 192
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "22:47",
+      "disabled": false,
+      "rect": {
+        "x": 1422,
+        "y": 858,
+        "w": 154,
+        "h": 190
       }
     }
   ],
@@ -606,6 +870,22 @@
       "url": "https://niko2atelier.com/#perfume",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/a63121a164b4b2deaf9c9d66af7aa2e7c27815a2/live-results/jirojiro-mofumofu-20261125-retry-desktop/current.jpg",
       "text": "作品へ移動\nNIKO² ATELIER\nDream\nDiary\nAbout\n\n\nATELIER / MAKING\nPERFUME MORGUE\nSKIN / あなたの痕跡\nF-20261125-441E\nSoft Linen\nSKIN / あなたの痕跡\nEAU DE PARFUM / 記憶の濃度\nTOP\n1. 雨 ×1\nMIDDLE\n1. あの時の本 ×1\nLAST\n1. ホテルのシーツ ×1\nFORMULA / SCENT CHARACTER\n最初に雨。 少し遅れてあの時の本。 最後にホテルのシーツが残る。 密度のある長い残香へ着地する。\nDiaryに持ち帰る\nもう一度調合する\nシャワーを浴びたばかり。  髪はまだ濡れてる。 シーツは新しい。  君が戻るまで、 このまま何も着ないでいようかと思った。\nREAL WORLD ECHOES\nREAL WORLD / TRACE ONLY\nこの香りには、現実にも近い夢がある。\nいまはまだ、名前ではなく三つの手掛かりだけ。\n\nECHO / AIR\nレインウォーター\nECHO / HEART\nコットンシーツ\nECHO / TRACE\nペーパー / ホワイトムスク\n"
+    },
+    {
+      "number": 32,
+      "at": "2026-11-25T13:58:27.556Z",
+      "action": {
+        "id": "31",
+        "op": "tap",
+        "x": 816,
+        "y": 662,
+        "wait": 1000,
+        "note": "Soft LinenをDIARYへ。"
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/#diary",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/a8932d49315ed9140a420c535e28768fa74b83bd/live-results/jirojiro-mofumofu-20261125-retry-desktop/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\nDream\nDiary\nAbout\n\nNIKO² DIARY\nDiary\n今日のことを、ひとつだけ。\n11月25日 22:58\nDREAM THREAD\n夢の続きが、まだ近くにあります。\n← 調香室へ戻る\nTODAY\n今日を残す\n選んだ記憶が、ここに書きとめてあります。\nあなたの言葉を、添えても構いません。\n✦\nいまの気配\n\n静か\n\nきらきら\n\nぼんやり\n\nざわざわ\n\n甘い\n\n雨っぽい\n\n眠い\n\n何もない\nPHOTO\n写真\n選択なし\nまち\n部屋\n買ったもの\n遊び\n食べもの\nその他\n写真を眺める\n‹\n›\n\n\n自販機\n\n\nホーム\n\n\n改札\n\n\n途中\n\n\nロッカー\n\n\nエレベーター\n\n\nガラス扉\n\n\n雨の改札\n\n\n22:47\n\n\n青空\n\n\n茶席\n\n\n結び目\n\n\n満潮\n\n\nファスナー\n\n\n一枚\n\n\n一通\n\n\n桟橋\n\n\n客室\n\n\nクラッカー\n\n\n本番\n言葉\nOPTIONAL\nこの端末だけに残ります\n残す\nRECENT\n少し前の自分\n\nSoft Linen\n11/25\n\nROOM 0317 / NIGHT\n11/25\n\n白い橋の端\n11/25\n2026年11月\nMONTHLY REFLECTION\n今月の景色\nよく残った気配\n雨っぽい\nよく残った色\n淡いパウダー色\nよく残ったモチーフ\n香水\n香水瓶は空。残留香が中身の権利を主張したので、瓶の容量を零に修正した。\nもう少し見る\nARCHIVE\n前の日々をひらく\n\nWHAT REMAINED\n残ったものを見る\nアトリエへ戻る\n"
     }
   ]
 }
