@@ -6,14 +6,19 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-11-25T13:24:16.660Z",
-  "updatedAt": "2026-11-25T13:24:22.855Z",
-  "lastCommand": null,
+  "updatedAt": "2026-11-25T13:24:43.075Z",
+  "lastCommand": "01",
   "stopReason": null,
   "action": {
-    "op": "arrival"
+    "id": "01",
+    "op": "tap",
+    "x": 219,
+    "y": 537,
+    "note": "招待状を開きたい。",
+    "wait": 2500
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/01e97e6ce72eb3499cf9240ac08e69edb2e79788/live-results/jirojiro-mofumofu-20261125-2222/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/6afc13ce12623ec13dc417381de5792769437195/live-results/jirojiro-mofumofu-20261125-2222/current.jpg",
   "readOnly": false,
   "blockedWrites": 0,
   "url": "https://niko2atelier.com/",
@@ -27,7 +32,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n\n",
+  "text": "作品へ移動\n\n\nWORLD\n夢の入り口は、毎回すこし違う。 夢から醒めても何かは残る。\n次へ",
   "controls": [
     {
       "tag": "BUTTON",
@@ -38,6 +43,17 @@
         "y": 436,
         "w": 397,
         "h": 207
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "次へ",
+      "disabled": false,
+      "rect": {
+        "x": 340,
+        "y": 836,
+        "w": 72,
+        "h": 44
       }
     }
   ],
@@ -56,6 +72,22 @@
       "url": "https://niko2atelier.com/",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/01e97e6ce72eb3499cf9240ac08e69edb2e79788/live-results/jirojiro-mofumofu-20261125-2222/current.jpg",
       "text": "作品へ移動\n\n"
+    },
+    {
+      "number": 2,
+      "at": "2026-11-25T13:24:43.075Z",
+      "action": {
+        "id": "01",
+        "op": "tap",
+        "x": 219,
+        "y": 537,
+        "note": "招待状を開きたい。",
+        "wait": 2500
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/6afc13ce12623ec13dc417381de5792769437195/live-results/jirojiro-mofumofu-20261125-2222/current.jpg",
+      "text": "作品へ移動\n\n\nWORLD\n夢の入り口は、毎回すこし違う。 夢から醒めても何かは残る。\n次へ"
     }
   ]
 }
