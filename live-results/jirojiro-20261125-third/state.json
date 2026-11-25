@@ -6,14 +6,19 @@
   "mobile": false,
   "touch": false,
   "startedAt": "2026-11-25T14:14:39.886Z",
-  "updatedAt": "2026-11-25T14:14:46.792Z",
-  "lastCommand": null,
+  "updatedAt": "2026-11-25T14:15:02.660Z",
+  "lastCommand": "01",
   "stopReason": null,
   "action": {
-    "op": "arrival"
+    "id": "01",
+    "op": "tap",
+    "x": 726,
+    "y": 520,
+    "note": "招待状を開く",
+    "wait": 1200
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/a8de3a0a95b104640199a339342821b076b24e18/live-results/jirojiro-20261125-third/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/082381bdf652b9146697add059d3ac43c3f21a2b/live-results/jirojiro-20261125-third/current.jpg",
   "readOnly": false,
   "blockedWrites": 0,
   "url": "https://niko2atelier.com/",
@@ -27,7 +32,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n\n",
+  "text": "作品へ移動\n\n\nWORLD\n夢の入り口は、毎回すこし違う。 夢から醒めても何かは残る。\n次へ",
   "controls": [
     {
       "tag": "BUTTON",
@@ -38,6 +43,17 @@
         "y": 420,
         "w": 432,
         "h": 202
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "次へ",
+      "disabled": false,
+      "rect": {
+        "x": 1348,
+        "y": 836,
+        "w": 72,
+        "h": 44
       }
     }
   ],
@@ -56,6 +72,22 @@
       "url": "https://niko2atelier.com/",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/a8de3a0a95b104640199a339342821b076b24e18/live-results/jirojiro-20261125-third/current.jpg",
       "text": "作品へ移動\n\n"
+    },
+    {
+      "number": 2,
+      "at": "2026-11-25T14:15:02.660Z",
+      "action": {
+        "id": "01",
+        "op": "tap",
+        "x": 726,
+        "y": 520,
+        "note": "招待状を開く",
+        "wait": 1200
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/082381bdf652b9146697add059d3ac43c3f21a2b/live-results/jirojiro-20261125-third/current.jpg",
+      "text": "作品へ移動\n\n\nWORLD\n夢の入り口は、毎回すこし違う。 夢から醒めても何かは残る。\n次へ"
     }
   ]
 }
