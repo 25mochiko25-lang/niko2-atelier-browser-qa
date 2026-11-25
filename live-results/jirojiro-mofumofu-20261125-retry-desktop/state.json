@@ -6,18 +6,16 @@
   "mobile": false,
   "touch": false,
   "startedAt": "2026-11-25T13:48:44.493Z",
-  "updatedAt": "2026-11-25T13:50:20.802Z",
-  "lastCommand": "05",
+  "updatedAt": "2026-11-25T13:50:36.987Z",
+  "lastCommand": "06",
   "stopReason": null,
   "action": {
-    "id": "05",
-    "op": "tap",
-    "x": 1385,
-    "y": 83,
-    "wait": 1600
+    "id": "06",
+    "op": "look",
+    "wait": 1000
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/82252e472612295b05492ddbbdadb6f1b84ec2f8/live-results/jirojiro-mofumofu-20261125-retry-desktop/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/d1fa813a72816ab59e56ff8b4d9eecfb3515c6ef/live-results/jirojiro-mofumofu-20261125-retry-desktop/current.jpg",
   "readOnly": false,
   "blockedWrites": 0,
   "url": "https://niko2atelier.com/#quiet",
@@ -31,7 +29,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n夢の見覚え ✧︎\n白い街が、門の向こうで一斉に組み上がった。\n\n",
+  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n夢を離れる",
   "controls": [
     {
       "tag": "BUTTON",
@@ -53,6 +51,28 @@
         "y": 68,
         "w": 77,
         "h": 30
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "白い街の一片に触れる",
+      "disabled": false,
+      "rect": {
+        "x": 146,
+        "y": 764,
+        "w": 81,
+        "h": 81
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "夢を離れる",
+      "disabled": false,
+      "rect": {
+        "x": 49,
+        "y": 831,
+        "w": 100,
+        "h": 44
       }
     }
   ],
@@ -146,6 +166,19 @@
       "url": "https://niko2atelier.com/#quiet",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/82252e472612295b05492ddbbdadb6f1b84ec2f8/live-results/jirojiro-mofumofu-20261125-retry-desktop/current.jpg",
       "text": "作品へ移動\n夢の見覚え ✧︎\n白い街が、門の向こうで一斉に組み上がった。\n\n"
+    },
+    {
+      "number": 7,
+      "at": "2026-11-25T13:50:36.987Z",
+      "action": {
+        "id": "06",
+        "op": "look",
+        "wait": 1000
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/#quiet",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/d1fa813a72816ab59e56ff8b4d9eecfb3515c6ef/live-results/jirojiro-mofumofu-20261125-retry-desktop/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n夢を離れる"
     }
   ]
 }
