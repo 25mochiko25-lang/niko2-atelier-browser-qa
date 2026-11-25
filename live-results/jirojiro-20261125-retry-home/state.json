@@ -6,17 +6,19 @@
   "mobile": false,
   "touch": false,
   "startedAt": "2026-11-25T14:06:16.976Z",
-  "updatedAt": "2026-11-25T14:08:04.732Z",
-  "lastCommand": "06",
+  "updatedAt": "2026-11-25T14:08:21.887Z",
+  "lastCommand": "07",
   "stopReason": null,
   "action": {
-    "id": "06",
-    "op": "look",
-    "note": "遷移が終わった画面を見る",
-    "wait": 1500
+    "id": "07",
+    "op": "tap",
+    "x": 200,
+    "y": 795,
+    "note": "白い街の一片",
+    "wait": 900
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/0a1b7951be7e76b97e0c4f213fac3a0ecfcd24b0/live-results/jirojiro-20261125-retry-home/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/f27585dfe3dbfb1ce43d6851258d7c0f2b6ddee4/live-results/jirojiro-20261125-retry-home/current.jpg",
   "readOnly": false,
   "blockedWrites": 0,
   "url": "https://niko2atelier.com/#quiet",
@@ -30,7 +32,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n夢を離れる",
+  "text": "作品へ移動\n夢の見覚え ✧︎\n\nまだ住所を持たない街から、足元へ滑った小さなタイル。\n\n持ち帰る\n\n夢を離れる",
   "controls": [
     {
       "tag": "BUTTON",
@@ -59,10 +61,21 @@
       "text": "白い街の一片に触れる",
       "disabled": false,
       "rect": {
-        "x": 146,
-        "y": 764,
-        "w": 81,
-        "h": 81
+        "x": 129,
+        "y": 769,
+        "w": 83,
+        "h": 83
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "持ち帰る",
+      "disabled": false,
+      "rect": {
+        "x": 664,
+        "y": 757,
+        "w": 112,
+        "h": 44
       }
     },
     {
@@ -186,6 +199,22 @@
       "url": "https://niko2atelier.com/#quiet",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/0a1b7951be7e76b97e0c4f213fac3a0ecfcd24b0/live-results/jirojiro-20261125-retry-home/current.jpg",
       "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n夢を離れる"
+    },
+    {
+      "number": 8,
+      "at": "2026-11-25T14:08:21.887Z",
+      "action": {
+        "id": "07",
+        "op": "tap",
+        "x": 200,
+        "y": 795,
+        "note": "白い街の一片",
+        "wait": 900
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/#quiet",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/f27585dfe3dbfb1ce43d6851258d7c0f2b6ddee4/live-results/jirojiro-20261125-retry-home/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\nまだ住所を持たない街から、足元へ滑った小さなタイル。\n\n持ち帰る\n\n夢を離れる"
     }
   ]
 }
