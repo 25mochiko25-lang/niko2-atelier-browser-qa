@@ -6,19 +6,19 @@
   "mobile": false,
   "touch": false,
   "startedAt": "2026-11-25T13:48:44.493Z",
-  "updatedAt": "2026-11-25T13:57:20.799Z",
-  "lastCommand": "28",
+  "updatedAt": "2026-11-25T13:57:39.072Z",
+  "lastCommand": "29",
   "stopReason": null,
   "action": {
-    "id": "28",
+    "id": "29",
     "op": "tap",
-    "x": 687,
-    "y": 386,
-    "wait": 500,
-    "note": "最後はホテルのシーツ。"
+    "x": 1117,
+    "y": 753,
+    "wait": 250,
+    "note": "濃度はParfumにする。"
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/6f57eb4ff992aed0c97fb8684c2d5268aad96f24/live-results/jirojiro-mofumofu-20261125-retry-desktop/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/e4a1fbffbcb21768d4ec95dbd08db9c88f48546f/live-results/jirojiro-mofumofu-20261125-retry-desktop/current.jpg",
   "readOnly": false,
   "blockedWrites": 0,
   "url": "https://niko2atelier.com/#perfume",
@@ -32,7 +32,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\nNIKO² ATELIER\nDream\nDiary\nAbout\n\n\nATELIER / MAKING\nPERFUME MORGUE\n香りになれなかった記憶。\n素材を選び、三つの層へ落としてください。結果を大きく左右するのは、素材の組み合わせと濃度です。\n雨\n古いぬいぐるみ\n焦げた砂糖\nホテルのシーツ\n甘い夢\n紅茶の渋み\n煙の名残\n咲き誇る花\n濡れた石\n乾いた木\n生の果実\n夜更けの気配\n海水\nあの時の本\n化粧の粉\n冷たい金属\n\nMIXING BOTTLE / 3 MATERIALS\n\n01\nTOP\n\n02\nMIDDLE\n\n03\nLAST\nTOP\n雨 ×1\n×\n−\n＋\nMIDDLE\nあの時の本 ×1\n×\n−\n＋\nLAST\nホテルのシーツ ×1\n×\n−\n＋\nCONCENTRATION\nEAU DE TOILETTE / 肌に近い\n\nEau Fraîche\n水のあと\n\nCologne\n風の輪郭\n\nToilette\n肌に近い\n\nParfum\n記憶の濃度\n\nExtrait\n最後まで残る\n\n香りを定着させる\n",
+  "text": "作品へ移動\nNIKO² ATELIER\nDream\nDiary\nAbout\n\n\nATELIER / MAKING\nPERFUME MORGUE\n香りになれなかった記憶。\n素材を選び、三つの層へ落としてください。結果を大きく左右するのは、素材の組み合わせと濃度です。\n雨\n古いぬいぐるみ\n焦げた砂糖\nホテルのシーツ\n甘い夢\n紅茶の渋み\n煙の名残\n咲き誇る花\n濡れた石\n乾いた木\n生の果実\n夜更けの気配\n海水\nあの時の本\n化粧の粉\n冷たい金属\n\nMIXING BOTTLE / 3 MATERIALS\n\n01\nTOP\n\n02\nMIDDLE\n\n03\nLAST\nTOP\n雨 ×1\n×\n−\n＋\nMIDDLE\nあの時の本 ×1\n×\n−\n＋\nLAST\nホテルのシーツ ×1\n×\n−\n＋\nCONCENTRATION\nEAU DE PARFUM / 記憶の濃度\n\nEau Fraîche\n水のあと\n\nCologne\n風の輪郭\n\nToilette\n肌に近い\n\nParfum\n記憶の濃度\n\nExtrait\n最後まで残る\n\n香りを定着させる\n",
   "controls": [
     {
       "tag": "A",
@@ -937,6 +937,22 @@
       "url": "https://niko2atelier.com/#perfume",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/6f57eb4ff992aed0c97fb8684c2d5268aad96f24/live-results/jirojiro-mofumofu-20261125-retry-desktop/current.jpg",
       "text": "作品へ移動\nNIKO² ATELIER\nDream\nDiary\nAbout\n\n\nATELIER / MAKING\nPERFUME MORGUE\n香りになれなかった記憶。\n素材を選び、三つの層へ落としてください。結果を大きく左右するのは、素材の組み合わせと濃度です。\n雨\n古いぬいぐるみ\n焦げた砂糖\nホテルのシーツ\n甘い夢\n紅茶の渋み\n煙の名残\n咲き誇る花\n濡れた石\n乾いた木\n生の果実\n夜更けの気配\n海水\nあの時の本\n化粧の粉\n冷たい金属\n\nMIXING BOTTLE / 3 MATERIALS\n\n01\nTOP\n\n02\nMIDDLE\n\n03\nLAST\nTOP\n雨 ×1\n×\n−\n＋\nMIDDLE\nあの時の本 ×1\n×\n−\n＋\nLAST\nホテルのシーツ ×1\n×\n−\n＋\nCONCENTRATION\nEAU DE TOILETTE / 肌に近い\n\nEau Fraîche\n水のあと\n\nCologne\n風の輪郭\n\nToilette\n肌に近い\n\nParfum\n記憶の濃度\n\nExtrait\n最後まで残る\n\n香りを定着させる\n"
+    },
+    {
+      "number": 30,
+      "at": "2026-11-25T13:57:39.072Z",
+      "action": {
+        "id": "29",
+        "op": "tap",
+        "x": 1117,
+        "y": 753,
+        "wait": 250,
+        "note": "濃度はParfumにする。"
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/#perfume",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/e4a1fbffbcb21768d4ec95dbd08db9c88f48546f/live-results/jirojiro-mofumofu-20261125-retry-desktop/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\nDream\nDiary\nAbout\n\n\nATELIER / MAKING\nPERFUME MORGUE\n香りになれなかった記憶。\n素材を選び、三つの層へ落としてください。結果を大きく左右するのは、素材の組み合わせと濃度です。\n雨\n古いぬいぐるみ\n焦げた砂糖\nホテルのシーツ\n甘い夢\n紅茶の渋み\n煙の名残\n咲き誇る花\n濡れた石\n乾いた木\n生の果実\n夜更けの気配\n海水\nあの時の本\n化粧の粉\n冷たい金属\n\nMIXING BOTTLE / 3 MATERIALS\n\n01\nTOP\n\n02\nMIDDLE\n\n03\nLAST\nTOP\n雨 ×1\n×\n−\n＋\nMIDDLE\nあの時の本 ×1\n×\n−\n＋\nLAST\nホテルのシーツ ×1\n×\n−\n＋\nCONCENTRATION\nEAU DE PARFUM / 記憶の濃度\n\nEau Fraîche\n水のあと\n\nCologne\n風の輪郭\n\nToilette\n肌に近い\n\nParfum\n記憶の濃度\n\nExtrait\n最後まで残る\n\n香りを定着させる\n"
     }
   ]
 }
