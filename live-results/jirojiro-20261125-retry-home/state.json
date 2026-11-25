@@ -6,22 +6,22 @@
   "mobile": false,
   "touch": false,
   "startedAt": "2026-11-25T14:06:16.976Z",
-  "updatedAt": "2026-11-25T14:08:36.490Z",
-  "lastCommand": "08",
+  "updatedAt": "2026-11-25T14:08:50.579Z",
+  "lastCommand": "09",
   "stopReason": null,
   "action": {
-    "id": "08",
+    "id": "09",
     "op": "tap",
-    "x": 720,
-    "y": 779,
-    "note": "持ち帰る",
-    "wait": 1500
+    "x": 662,
+    "y": 772,
+    "note": "Diaryを経由せず直接アトリエへ",
+    "wait": 800
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/1271856f33ecfb1c08c4477d75e93128b432e82a/live-results/jirojiro-20261125-retry-home/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/7d18cc852d7cfe87342c83496aed047109d31cdf/live-results/jirojiro-20261125-retry-home/current.jpg",
   "readOnly": false,
   "blockedWrites": 0,
-  "url": "https://niko2atelier.com/#quiet",
+  "url": "https://niko2atelier.com/",
   "title": "NIKO² ATELIER",
   "viewport": {
     "width": 1440,
@@ -32,7 +32,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n夢を離れる\n\nDREAM MEMORY\n白い橋の端\n\n\nWORLD MEMORY\n\nTHING THAT REMAINED\n白い街の一片 まだ住所を持たない街から、足元へ滑った小さなタイル。\n言葉を添える\nアトリエへ戻る\nDiaryへ持ち帰る",
+  "text": "作品へ移動\n\n\nWORLD\n\n\n\nA NEW LIFE\nDEAR ATELIER\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n\nAFTER THE GARDEN\nこの庭を、短く通り抜けました。\n次へ",
   "controls": [
     {
       "tag": "BUTTON",
@@ -46,80 +46,47 @@
       }
     },
     {
-      "tag": "BUTTON",
-      "text": "夢の見覚え ✧︎",
+      "tag": "A",
+      "text": "Diaryを開く",
       "disabled": false,
       "rect": {
-        "x": 1347,
-        "y": 68,
-        "w": 77,
-        "h": 30
+        "x": 120,
+        "y": 416,
+        "w": 465,
+        "h": 349
+      }
+    },
+    {
+      "tag": "A",
+      "text": "未読の記事やお知らせがあります。FROM THE ATELIERを開く",
+      "disabled": false,
+      "rect": {
+        "x": 1158,
+        "y": 419,
+        "w": 269,
+        "h": 169
       }
     },
     {
       "tag": "BUTTON",
-      "text": "白い街の一片に触れる",
+      "text": "Enter the dream",
       "disabled": false,
       "rect": {
-        "x": 131,
-        "y": 768,
-        "w": 82,
-        "h": 82
+        "x": 561,
+        "y": 355,
+        "w": 318,
+        "h": 106
       }
     },
     {
       "tag": "BUTTON",
-      "text": "夢を離れる",
+      "text": "次へ",
       "disabled": false,
       "rect": {
-        "x": 49,
-        "y": 831,
-        "w": 100,
+        "x": 1348,
+        "y": 836,
+        "w": 72,
         "h": 44
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "日記を閉じる",
-      "disabled": false,
-      "rect": {
-        "x": 874,
-        "y": 88,
-        "w": 44,
-        "h": 44
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "言葉を添える",
-      "disabled": false,
-      "rect": {
-        "x": 538,
-        "y": 685,
-        "w": 103,
-        "h": 44
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "アトリエへ戻る",
-      "disabled": false,
-      "rect": {
-        "x": 615,
-        "y": 751,
-        "w": 93,
-        "h": 40
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "Diaryへ持ち帰る",
-      "disabled": false,
-      "rect": {
-        "x": 722,
-        "y": 747,
-        "w": 180,
-        "h": 48
       }
     }
   ],
@@ -264,6 +231,22 @@
       "url": "https://niko2atelier.com/#quiet",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/1271856f33ecfb1c08c4477d75e93128b432e82a/live-results/jirojiro-20261125-retry-home/current.jpg",
       "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n夢を離れる\n\nDREAM MEMORY\n白い橋の端\n\n\nWORLD MEMORY\n\nTHING THAT REMAINED\n白い街の一片 まだ住所を持たない街から、足元へ滑った小さなタイル。\n言葉を添える\nアトリエへ戻る\nDiaryへ持ち帰る"
+    },
+    {
+      "number": 10,
+      "at": "2026-11-25T14:08:50.579Z",
+      "action": {
+        "id": "09",
+        "op": "tap",
+        "x": 662,
+        "y": 772,
+        "note": "Diaryを経由せず直接アトリエへ",
+        "wait": 800
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/7d18cc852d7cfe87342c83496aed047109d31cdf/live-results/jirojiro-20261125-retry-home/current.jpg",
+      "text": "作品へ移動\n\n\nWORLD\n\n\n\nA NEW LIFE\nDEAR ATELIER\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n\nAFTER THE GARDEN\nこの庭を、短く通り抜けました。\n次へ"
     }
   ]
 }
