@@ -6,22 +6,22 @@
   "mobile": false,
   "touch": false,
   "startedAt": "2026-11-25T14:14:39.886Z",
-  "updatedAt": "2026-11-25T14:17:00.594Z",
-  "lastCommand": "08",
+  "updatedAt": "2026-11-25T14:17:17.508Z",
+  "lastCommand": "09",
   "stopReason": null,
   "action": {
-    "id": "08",
+    "id": "09",
     "op": "tap",
-    "x": 720,
-    "y": 779,
-    "note": "持ち帰る",
-    "wait": 1200
+    "x": 662,
+    "y": 772,
+    "note": "アトリエへ戻る",
+    "wait": 1800
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/ed2ae9c45be2caf09e73fc2bc617fe40e0472aa4/live-results/jirojiro-20261125-third/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/6112d8fba4bc49bc381b876a629a8356bd15d0d3/live-results/jirojiro-20261125-third/current.jpg",
   "readOnly": false,
   "blockedWrites": 0,
-  "url": "https://niko2atelier.com/#quiet",
+  "url": "https://niko2atelier.com/",
   "title": "NIKO² ATELIER",
   "viewport": {
     "width": 1440,
@@ -32,7 +32,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n夢を離れる\n\nDREAM MEMORY\n庭が昇ったあとの水面\n\n\nWORLD MEMORY\n\nTHING THAT REMAINED\n帰る花弁 空へ昇った庭から、一枚だけ残った。\n言葉を添える\nアトリエへ戻る\nDiaryへ持ち帰る",
+  "text": "作品へ移動\n\n\nWORLD\n\n\n\nA NEW LIFE\nDEAR ATELIER\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n\nAFTER THE GARDEN\nこの庭を、短く通り抜けました。\n次へ",
   "controls": [
     {
       "tag": "BUTTON",
@@ -46,80 +46,47 @@
       }
     },
     {
-      "tag": "BUTTON",
-      "text": "夢の見覚え ✧︎",
+      "tag": "A",
+      "text": "Diaryを開く",
       "disabled": false,
       "rect": {
-        "x": 1347,
-        "y": 68,
-        "w": 77,
-        "h": 30
+        "x": 120,
+        "y": 416,
+        "w": 465,
+        "h": 349
+      }
+    },
+    {
+      "tag": "A",
+      "text": "未読の記事やお知らせがあります。FROM THE ATELIERを開く",
+      "disabled": false,
+      "rect": {
+        "x": 1158,
+        "y": 419,
+        "w": 269,
+        "h": 169
       }
     },
     {
       "tag": "BUTTON",
-      "text": "帰る花弁に触れる",
+      "text": "Enter the dream",
       "disabled": false,
       "rect": {
-        "x": 419,
-        "y": 737,
-        "w": 81,
-        "h": 81
+        "x": 561,
+        "y": 355,
+        "w": 318,
+        "h": 106
       }
     },
     {
       "tag": "BUTTON",
-      "text": "夢を離れる",
+      "text": "次へ",
       "disabled": false,
       "rect": {
-        "x": 49,
-        "y": 831,
-        "w": 100,
+        "x": 1348,
+        "y": 836,
+        "w": 72,
         "h": 44
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "日記を閉じる",
-      "disabled": false,
-      "rect": {
-        "x": 874,
-        "y": 88,
-        "w": 44,
-        "h": 44
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "言葉を添える",
-      "disabled": false,
-      "rect": {
-        "x": 538,
-        "y": 685,
-        "w": 103,
-        "h": 44
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "アトリエへ戻る",
-      "disabled": false,
-      "rect": {
-        "x": 615,
-        "y": 751,
-        "w": 93,
-        "h": 40
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "Diaryへ持ち帰る",
-      "disabled": false,
-      "rect": {
-        "x": 722,
-        "y": 747,
-        "w": 180,
-        "h": 48
       }
     }
   ],
@@ -266,6 +233,22 @@
       "url": "https://niko2atelier.com/#quiet",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/ed2ae9c45be2caf09e73fc2bc617fe40e0472aa4/live-results/jirojiro-20261125-third/current.jpg",
       "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n夢を離れる\n\nDREAM MEMORY\n庭が昇ったあとの水面\n\n\nWORLD MEMORY\n\nTHING THAT REMAINED\n帰る花弁 空へ昇った庭から、一枚だけ残った。\n言葉を添える\nアトリエへ戻る\nDiaryへ持ち帰る"
+    },
+    {
+      "number": 10,
+      "at": "2026-11-25T14:17:17.508Z",
+      "action": {
+        "id": "09",
+        "op": "tap",
+        "x": 662,
+        "y": 772,
+        "note": "アトリエへ戻る",
+        "wait": 1800
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/6112d8fba4bc49bc381b876a629a8356bd15d0d3/live-results/jirojiro-20261125-third/current.jpg",
+      "text": "作品へ移動\n\n\nWORLD\n\n\n\nA NEW LIFE\nDEAR ATELIER\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n\nAFTER THE GARDEN\nこの庭を、短く通り抜けました。\n次へ"
     }
   ]
 }
