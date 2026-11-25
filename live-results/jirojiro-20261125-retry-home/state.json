@@ -6,19 +6,19 @@
   "mobile": false,
   "touch": false,
   "startedAt": "2026-11-25T14:06:16.976Z",
-  "updatedAt": "2026-11-25T14:08:50.579Z",
-  "lastCommand": "09",
+  "updatedAt": "2026-11-25T14:09:05.617Z",
+  "lastCommand": "10",
   "stopReason": null,
   "action": {
-    "id": "09",
+    "id": "10",
     "op": "tap",
-    "x": 662,
-    "y": 772,
-    "note": "Diaryを経由せず直接アトリエへ",
-    "wait": 800
+    "x": 1384,
+    "y": 858,
+    "note": "チュートリアルを進める",
+    "wait": 900
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/7d18cc852d7cfe87342c83496aed047109d31cdf/live-results/jirojiro-20261125-retry-home/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/313ac446aaedb52498886906a549c23746d5ac24/live-results/jirojiro-20261125-retry-home/current.jpg",
   "readOnly": false,
   "blockedWrites": 0,
   "url": "https://niko2atelier.com/",
@@ -32,7 +32,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n\n\nWORLD\n\n\n\nA NEW LIFE\nDEAR ATELIER\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n\nAFTER THE GARDEN\nこの庭を、短く通り抜けました。\n次へ",
+  "text": "作品へ移動\n\n\nWORLD\n\n\n\nA NEW LIFE\nDEAR ATELIER\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n\nWHAT REMAINED\nひとつ、持ち帰ったものがあります。 それは、この先にも残ります。\n次へ戻る",
   "controls": [
     {
       "tag": "BUTTON",
@@ -84,6 +84,17 @@
       "disabled": false,
       "rect": {
         "x": 1348,
+        "y": 836,
+        "w": 72,
+        "h": 44
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "戻る",
+      "disabled": false,
+      "rect": {
+        "x": 20,
         "y": 836,
         "w": 72,
         "h": 44
@@ -247,6 +258,22 @@
       "url": "https://niko2atelier.com/",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/7d18cc852d7cfe87342c83496aed047109d31cdf/live-results/jirojiro-20261125-retry-home/current.jpg",
       "text": "作品へ移動\n\n\nWORLD\n\n\n\nA NEW LIFE\nDEAR ATELIER\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n\nAFTER THE GARDEN\nこの庭を、短く通り抜けました。\n次へ"
+    },
+    {
+      "number": 11,
+      "at": "2026-11-25T14:09:05.617Z",
+      "action": {
+        "id": "10",
+        "op": "tap",
+        "x": 1384,
+        "y": 858,
+        "note": "チュートリアルを進める",
+        "wait": 900
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/313ac446aaedb52498886906a549c23746d5ac24/live-results/jirojiro-20261125-retry-home/current.jpg",
+      "text": "作品へ移動\n\n\nWORLD\n\n\n\nA NEW LIFE\nDEAR ATELIER\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n\nWHAT REMAINED\nひとつ、持ち帰ったものがあります。 それは、この先にも残ります。\n次へ戻る"
     }
   ]
 }
