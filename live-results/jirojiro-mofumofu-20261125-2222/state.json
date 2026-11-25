@@ -6,18 +6,18 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-11-25T13:24:16.660Z",
-  "updatedAt": "2026-11-25T13:27:50.705Z",
-  "lastCommand": "13",
+  "updatedAt": "2026-11-25T13:28:06.684Z",
+  "lastCommand": "14",
   "stopReason": null,
   "action": {
-    "id": "13",
+    "id": "14",
     "op": "tap",
-    "x": 151,
-    "y": 716,
-    "wait": 1500
+    "x": 214,
+    "y": 817,
+    "wait": 1800
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/bd4b5db37f006a84f35ba9049fb1b5cc2f9fa3b5/live-results/jirojiro-mofumofu-20261125-2222/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/42e5dff9bbb9fa0900417c8324dec09c3746ebfa/live-results/jirojiro-mofumofu-20261125-2222/current.jpg",
   "readOnly": false,
   "blockedWrites": 0,
   "url": "https://niko2atelier.com/#quiet",
@@ -31,7 +31,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n夢の見覚え ✧︎\n\n空へ昇った庭から、一枚だけ残った。\n\n持ち帰る\n\n夢を離れる",
+  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n夢を離れる\n\nDREAM MEMORY\n庭が昇ったあとの水面\n\n\nWORLD MEMORY\n\nTHING THAT REMAINED\n帰る花弁 空へ昇った庭から、一枚だけ残った。\n言葉を添える\nアトリエへ戻る\nDiaryへ持ち帰る",
   "controls": [
     {
       "tag": "BUTTON",
@@ -60,21 +60,10 @@
       "text": "帰る花弁に触れる",
       "disabled": false,
       "rect": {
-        "x": 113,
+        "x": 114,
         "y": 681,
         "w": 69,
         "h": 69
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "持ち帰る",
-      "disabled": false,
-      "rect": {
-        "x": 159,
-        "y": 793,
-        "w": 112,
-        "h": 44
       }
     },
     {
@@ -86,6 +75,50 @@
         "y": 870,
         "w": 100,
         "h": 44
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "日記を閉じる",
+      "disabled": false,
+      "rect": {
+        "x": 355,
+        "y": 93,
+        "w": 44,
+        "h": 44
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "言葉を添える",
+      "disabled": false,
+      "rect": {
+        "x": 36,
+        "y": 668,
+        "w": 103,
+        "h": 44
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "アトリエへ戻る",
+      "disabled": false,
+      "rect": {
+        "x": 36,
+        "y": 793,
+        "w": 358,
+        "h": 40
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Diaryへ持ち帰る",
+      "disabled": false,
+      "rect": {
+        "x": 36,
+        "y": 738,
+        "w": 358,
+        "h": 48
       }
     }
   ],
@@ -298,6 +331,21 @@
       "url": "https://niko2atelier.com/#quiet",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/bd4b5db37f006a84f35ba9049fb1b5cc2f9fa3b5/live-results/jirojiro-mofumofu-20261125-2222/current.jpg",
       "text": "作品へ移動\n夢の見覚え ✧︎\n\n空へ昇った庭から、一枚だけ残った。\n\n持ち帰る\n\n夢を離れる"
+    },
+    {
+      "number": 15,
+      "at": "2026-11-25T13:28:06.684Z",
+      "action": {
+        "id": "14",
+        "op": "tap",
+        "x": 214,
+        "y": 817,
+        "wait": 1800
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/#quiet",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/42e5dff9bbb9fa0900417c8324dec09c3746ebfa/live-results/jirojiro-mofumofu-20261125-2222/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n夢を離れる\n\nDREAM MEMORY\n庭が昇ったあとの水面\n\n\nWORLD MEMORY\n\nTHING THAT REMAINED\n帰る花弁 空へ昇った庭から、一枚だけ残った。\n言葉を添える\nアトリエへ戻る\nDiaryへ持ち帰る"
     }
   ]
 }
