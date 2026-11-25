@@ -6,19 +6,19 @@
   "mobile": false,
   "touch": false,
   "startedAt": "2026-11-25T13:48:44.493Z",
-  "updatedAt": "2026-11-25T13:59:01.989Z",
-  "lastCommand": "32",
+  "updatedAt": "2026-11-25T13:59:22.377Z",
+  "lastCommand": "33",
   "stopReason": null,
   "action": {
-    "id": "32",
+    "id": "33",
     "op": "tap",
-    "x": 635,
-    "y": 41,
-    "wait": 1000,
-    "note": "違う夢へ行ってみる。"
+    "x": 720,
+    "y": 834,
+    "wait": 3000,
+    "note": "映画を観る。"
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/d59136b724a9889fed9a04ee94384761572e958e/live-results/jirojiro-mofumofu-20261125-retry-desktop/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/510a3f97d81793c9ac0a7902c1a6967f37048efc/live-results/jirojiro-mofumofu-20261125-retry-desktop/current.jpg",
   "readOnly": false,
   "blockedWrites": 0,
   "url": "https://niko2atelier.com/#cinema",
@@ -32,52 +32,8 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\nNIKO² ATELIER\nDream\nDiary\nAbout\n\nDREAM\nCINEMA LACUNA\n\n赤い幕の向こうで、\n誰も知らない夢が、ひとつだけ上映される。\n\nこの夢を観る\n",
+  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n",
   "controls": [
-    {
-      "tag": "A",
-      "text": "NIKO² ATELIER",
-      "disabled": false,
-      "rect": {
-        "x": 68,
-        "y": 25,
-        "w": 159,
-        "h": 33
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "Dream",
-      "disabled": false,
-      "rect": {
-        "x": 611,
-        "y": 23,
-        "w": 50,
-        "h": 34
-      }
-    },
-    {
-      "tag": "A",
-      "text": "Diary",
-      "disabled": false,
-      "rect": {
-        "x": 702,
-        "y": 24,
-        "w": 43,
-        "h": 34
-      }
-    },
-    {
-      "tag": "A",
-      "text": "About",
-      "disabled": false,
-      "rect": {
-        "x": 786,
-        "y": 24,
-        "w": 49,
-        "h": 34
-      }
-    },
     {
       "tag": "BUTTON",
       "text": "音をオンにする",
@@ -90,25 +46,25 @@
       }
     },
     {
-      "tag": "A",
-      "text": "アトリエへ戻る",
+      "tag": "BUTTON",
+      "text": "夢の見覚え ✧︎",
       "disabled": false,
       "rect": {
-        "x": 25,
-        "y": 94,
-        "w": 42,
-        "h": 42
+        "x": 1349,
+        "y": 68,
+        "w": 77,
+        "h": 30
       }
     },
     {
-      "tag": "BUTTON",
-      "text": "この夢を観る",
+      "tag": "DIV",
+      "text": "スクリーン",
       "disabled": false,
       "rect": {
-        "x": 643,
-        "y": 810,
-        "w": 154,
-        "h": 48
+        "x": 128,
+        "y": 53,
+        "w": 1184,
+        "h": 740
       }
     }
   ],
@@ -627,6 +583,22 @@
       "url": "https://niko2atelier.com/#cinema",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/d59136b724a9889fed9a04ee94384761572e958e/live-results/jirojiro-mofumofu-20261125-retry-desktop/current.jpg",
       "text": "作品へ移動\nNIKO² ATELIER\nDream\nDiary\nAbout\n\nDREAM\nCINEMA LACUNA\n\n赤い幕の向こうで、\n誰も知らない夢が、ひとつだけ上映される。\n\nこの夢を観る\n"
+    },
+    {
+      "number": 34,
+      "at": "2026-11-25T13:59:22.377Z",
+      "action": {
+        "id": "33",
+        "op": "tap",
+        "x": 720,
+        "y": 834,
+        "wait": 3000,
+        "note": "映画を観る。"
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/#cinema",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/510a3f97d81793c9ac0a7902c1a6967f37048efc/live-results/jirojiro-mofumofu-20261125-retry-desktop/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n"
     }
   ]
 }
