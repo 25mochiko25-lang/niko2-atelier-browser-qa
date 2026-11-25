@@ -6,17 +6,19 @@
   "mobile": false,
   "touch": false,
   "startedAt": "2026-11-25T14:14:39.886Z",
-  "updatedAt": "2026-11-25T14:19:47.152Z",
-  "lastCommand": "17",
+  "updatedAt": "2026-11-25T14:20:06.844Z",
+  "lastCommand": "18",
   "stopReason": null,
   "action": {
-    "id": "17",
-    "op": "look",
-    "note": "日付と二進数のノート。次の場面を観察",
-    "wait": 2500
+    "id": "18",
+    "op": "tap",
+    "x": 600,
+    "y": 330,
+    "note": "ノートに星印がある。画面に触れてみる",
+    "wait": 2000
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/d477895bb2bed2747c84b2fe8d5e6bac34ddd40b/live-results/jirojiro-20261125-third/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/640a9431667701800d7b88c879628c22ae20edb7/live-results/jirojiro-20261125-third/current.jpg",
   "readOnly": false,
   "blockedWrites": 0,
   "url": "https://niko2atelier.com/#cinema",
@@ -348,6 +350,22 @@
       "error": null,
       "url": "https://niko2atelier.com/#cinema",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/d477895bb2bed2747c84b2fe8d5e6bac34ddd40b/live-results/jirojiro-20261125-third/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n"
+    },
+    {
+      "number": 19,
+      "at": "2026-11-25T14:20:06.844Z",
+      "action": {
+        "id": "18",
+        "op": "tap",
+        "x": 600,
+        "y": 330,
+        "note": "ノートに星印がある。画面に触れてみる",
+        "wait": 2000
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/#cinema",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/640a9431667701800d7b88c879628c22ae20edb7/live-results/jirojiro-20261125-third/current.jpg",
       "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n"
     }
   ]
