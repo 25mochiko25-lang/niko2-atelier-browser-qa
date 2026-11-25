@@ -6,18 +6,18 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-11-25T13:24:16.660Z",
-  "updatedAt": "2026-11-25T13:26:30.066Z",
-  "lastCommand": "08",
+  "updatedAt": "2026-11-25T13:26:44.757Z",
+  "lastCommand": "09",
   "stopReason": null,
   "action": {
-    "id": "08",
+    "id": "09",
     "op": "tap",
-    "x": 50,
-    "y": 505,
+    "x": 236,
+    "y": 594,
     "wait": 500
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/a720c67aa386b4ab175660e4e351c8e0910dafba/live-results/jirojiro-mofumofu-20261125-2222/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/9ea34f2ae7b2c77e6d72ede5d12aefc86ec8177c/live-results/jirojiro-mofumofu-20261125-2222/current.jpg",
   "readOnly": false,
   "blockedWrites": 0,
   "url": "https://niko2atelier.com/#garden",
@@ -31,7 +31,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n3 / 5\n見つけたもの\nCG-01-A_03.DRM\n22:26:27\n\nFRAGMENT / 03\n\n止まりかけの砂時計\n砂は落ちていく。 逆さまに。巻き戻るように。\n",
+  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n4 / 5\n見つけたもの\nCG-01-A_04.DRM\n22:26:41\n\nFRAGMENT / 04\n\nまだあたたかいカップ\nほんのり湯気が残る。まだ、誰かの気配がする。\n",
   "controls": [
     {
       "tag": "BUTTON",
@@ -79,7 +79,7 @@
     },
     {
       "tag": "BUTTON",
-      "text": "まだあたたかいカップに触れる",
+      "text": "まだあたたかいカップ（発見済み）",
       "disabled": false,
       "rect": {
         "x": 202,
@@ -204,7 +204,7 @@
       "disabled": false,
       "rect": {
         "x": 364,
-        "y": 741,
+        "y": 761,
         "w": 24,
         "h": 23
       }
@@ -346,6 +346,21 @@
       "url": "https://niko2atelier.com/#garden",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/a720c67aa386b4ab175660e4e351c8e0910dafba/live-results/jirojiro-mofumofu-20261125-2222/current.jpg",
       "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n3 / 5\n見つけたもの\nCG-01-A_03.DRM\n22:26:27\n\nFRAGMENT / 03\n\n止まりかけの砂時計\n砂は落ちていく。 逆さまに。巻き戻るように。\n"
+    },
+    {
+      "number": 10,
+      "at": "2026-11-25T13:26:44.757Z",
+      "action": {
+        "id": "09",
+        "op": "tap",
+        "x": 236,
+        "y": 594,
+        "wait": 500
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/#garden",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/9ea34f2ae7b2c77e6d72ede5d12aefc86ec8177c/live-results/jirojiro-mofumofu-20261125-2222/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n4 / 5\n見つけたもの\nCG-01-A_04.DRM\n22:26:41\n\nFRAGMENT / 04\n\nまだあたたかいカップ\nほんのり湯気が残る。まだ、誰かの気配がする。\n"
     }
   ]
 }
