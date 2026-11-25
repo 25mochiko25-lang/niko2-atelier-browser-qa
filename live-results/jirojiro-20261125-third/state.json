@@ -6,22 +6,22 @@
   "mobile": false,
   "touch": false,
   "startedAt": "2026-11-25T14:14:39.886Z",
-  "updatedAt": "2026-11-25T14:18:28.765Z",
-  "lastCommand": "13",
+  "updatedAt": "2026-11-25T14:18:48.158Z",
+  "lastCommand": "14",
   "stopReason": null,
   "action": {
-    "id": "13",
+    "id": "14",
     "op": "tap",
-    "x": 1384,
-    "y": 858,
-    "note": "完了・通常HOMEへ",
-    "wait": 3000
+    "x": 720,
+    "y": 407,
+    "note": "中央のEnter the dreamから探索開始",
+    "wait": 2000
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/a5a7127731ed8cae20151d55640766060ad68ae1/live-results/jirojiro-20261125-third/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/0ee34b624dd01528bc997e15e3016edf28add3db/live-results/jirojiro-20261125-third/current.jpg",
   "readOnly": false,
   "blockedWrites": 0,
-  "url": "https://niko2atelier.com/",
+  "url": "https://niko2atelier.com/#cinema",
   "title": "NIKO² ATELIER",
   "viewport": {
     "width": 1440,
@@ -32,61 +32,83 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n\n\n\nWORLD\n\n\n\nA NEW LIFE\nDEAR ATELIER\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n",
+  "text": "作品へ移動\nNIKO² ATELIER\nDream\nDiary\nAbout\n\nDREAM\nCINEMA LACUNA\n\n赤い幕の向こうで、\n誰も知らない夢が、ひとつだけ上映される。\n\nこの夢を観る\n",
   "controls": [
+    {
+      "tag": "A",
+      "text": "NIKO² ATELIER",
+      "disabled": false,
+      "rect": {
+        "x": 68,
+        "y": 25,
+        "w": 159,
+        "h": 33
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Dream",
+      "disabled": false,
+      "rect": {
+        "x": 611,
+        "y": 24,
+        "w": 50,
+        "h": 34
+      }
+    },
+    {
+      "tag": "A",
+      "text": "Diary",
+      "disabled": false,
+      "rect": {
+        "x": 702,
+        "y": 24,
+        "w": 43,
+        "h": 34
+      }
+    },
+    {
+      "tag": "A",
+      "text": "About",
+      "disabled": false,
+      "rect": {
+        "x": 786,
+        "y": 24,
+        "w": 49,
+        "h": 34
+      }
+    },
     {
       "tag": "BUTTON",
       "text": "音をオンにする",
       "disabled": false,
       "rect": {
-        "x": 1337,
-        "y": 17,
-        "w": 44,
-        "h": 44
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "ご案内と設定を開く",
-      "disabled": false,
-      "rect": {
-        "x": 1381,
-        "y": 17,
+        "x": 1380,
+        "y": 16,
         "w": 44,
         "h": 44
       }
     },
     {
       "tag": "A",
-      "text": "Diaryを開く",
+      "text": "アトリエへ戻る",
       "disabled": false,
       "rect": {
-        "x": 120,
-        "y": 416,
-        "w": 465,
-        "h": 349
-      }
-    },
-    {
-      "tag": "A",
-      "text": "未読の記事やお知らせがあります。FROM THE ATELIERを開く",
-      "disabled": false,
-      "rect": {
-        "x": 1158,
-        "y": 419,
-        "w": 269,
-        "h": 169
+        "x": 25,
+        "y": 94,
+        "w": 42,
+        "h": 42
       }
     },
     {
       "tag": "BUTTON",
-      "text": "Enter the dream",
+      "text": "この夢を観る",
       "disabled": false,
       "rect": {
-        "x": 561,
-        "y": 355,
-        "w": 318,
-        "h": 106
+        "x": 643,
+        "y": 810,
+        "w": 154,
+        "h": 48
       }
     }
   ],
@@ -313,6 +335,22 @@
       "url": "https://niko2atelier.com/",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/a5a7127731ed8cae20151d55640766060ad68ae1/live-results/jirojiro-20261125-third/current.jpg",
       "text": "作品へ移動\n\n\n\nWORLD\n\n\n\nA NEW LIFE\nDEAR ATELIER\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n"
+    },
+    {
+      "number": 15,
+      "at": "2026-11-25T14:18:48.158Z",
+      "action": {
+        "id": "14",
+        "op": "tap",
+        "x": 720,
+        "y": 407,
+        "note": "中央のEnter the dreamから探索開始",
+        "wait": 2000
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/#cinema",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/0ee34b624dd01528bc997e15e3016edf28add3db/live-results/jirojiro-20261125-third/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\nDream\nDiary\nAbout\n\nDREAM\nCINEMA LACUNA\n\n赤い幕の向こうで、\n誰も知らない夢が、ひとつだけ上映される。\n\nこの夢を観る\n"
     }
   ]
 }
