@@ -6,19 +6,19 @@
   "mobile": false,
   "touch": false,
   "startedAt": "2026-11-25T14:14:39.886Z",
-  "updatedAt": "2026-11-25T14:20:06.844Z",
-  "lastCommand": "18",
+  "updatedAt": "2026-11-25T14:20:27.305Z",
+  "lastCommand": "19",
   "stopReason": null,
   "action": {
-    "id": "18",
+    "id": "19",
     "op": "tap",
-    "x": 600,
-    "y": 330,
-    "note": "ノートに星印がある。画面に触れてみる",
-    "wait": 2000
+    "x": 1387,
+    "y": 83,
+    "note": "約38秒同じノート画面。夢の見覚えで先へ",
+    "wait": 3500
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/640a9431667701800d7b88c879628c22ae20edb7/live-results/jirojiro-20261125-third/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/68d6ced8b0f20ae364e31cc2ea14c108c55e05e3/live-results/jirojiro-20261125-third/current.jpg",
   "readOnly": false,
   "blockedWrites": 0,
   "url": "https://niko2atelier.com/#cinema",
@@ -32,7 +32,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n",
+  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n上映を続ける上映を再開できませんでした。もう一度、再生してください。",
   "controls": [
     {
       "tag": "BUTTON",
@@ -65,6 +65,17 @@
         "y": 53,
         "w": 1184,
         "h": 740
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "上映を続ける",
+      "disabled": false,
+      "rect": {
+        "x": 643,
+        "y": 636,
+        "w": 154,
+        "h": 48
       }
     }
   ],
@@ -367,6 +378,22 @@
       "url": "https://niko2atelier.com/#cinema",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/640a9431667701800d7b88c879628c22ae20edb7/live-results/jirojiro-20261125-third/current.jpg",
       "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n"
+    },
+    {
+      "number": 20,
+      "at": "2026-11-25T14:20:27.305Z",
+      "action": {
+        "id": "19",
+        "op": "tap",
+        "x": 1387,
+        "y": 83,
+        "note": "約38秒同じノート画面。夢の見覚えで先へ",
+        "wait": 3500
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/#cinema",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/68d6ced8b0f20ae364e31cc2ea14c108c55e05e3/live-results/jirojiro-20261125-third/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n上映を続ける上映を再開できませんでした。もう一度、再生してください。"
     }
   ]
 }
