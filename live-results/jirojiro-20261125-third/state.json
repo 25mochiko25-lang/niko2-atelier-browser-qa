@@ -6,19 +6,19 @@
   "mobile": false,
   "touch": false,
   "startedAt": "2026-11-25T14:14:39.886Z",
-  "updatedAt": "2026-11-25T14:16:24.656Z",
-  "lastCommand": "06",
+  "updatedAt": "2026-11-25T14:16:43.962Z",
+  "lastCommand": "07",
   "stopReason": null,
   "action": {
-    "id": "06",
+    "id": "07",
     "op": "tap",
-    "x": 406,
-    "y": 803,
-    "note": "足元の花びら",
-    "wait": 1400
+    "x": 457,
+    "y": 778,
+    "note": "帰る花弁に触れる",
+    "wait": 1100
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/3cabef993fd37e452e18bf915027613f86780e31/live-results/jirojiro-20261125-third/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/159a38fba01372f28baba1c22940caf7cfe28a7b/live-results/jirojiro-20261125-third/current.jpg",
   "readOnly": false,
   "blockedWrites": 0,
   "url": "https://niko2atelier.com/#quiet",
@@ -32,7 +32,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n夢を離れる",
+  "text": "作品へ移動\n夢の見覚え ✧︎\n\n空へ昇った庭から、一枚だけ残った。\n\n持ち帰る\n\n夢を離れる",
   "controls": [
     {
       "tag": "BUTTON",
@@ -61,10 +61,21 @@
       "text": "帰る花弁に触れる",
       "disabled": false,
       "rect": {
-        "x": 417,
-        "y": 738,
-        "w": 81,
-        "h": 81
+        "x": 409,
+        "y": 741,
+        "w": 83,
+        "h": 83
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "持ち帰る",
+      "disabled": false,
+      "rect": {
+        "x": 664,
+        "y": 757,
+        "w": 112,
+        "h": 44
       }
     },
     {
@@ -190,6 +201,22 @@
       "url": "https://niko2atelier.com/#quiet",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/3cabef993fd37e452e18bf915027613f86780e31/live-results/jirojiro-20261125-third/current.jpg",
       "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n夢を離れる"
+    },
+    {
+      "number": 8,
+      "at": "2026-11-25T14:16:43.962Z",
+      "action": {
+        "id": "07",
+        "op": "tap",
+        "x": 457,
+        "y": 778,
+        "note": "帰る花弁に触れる",
+        "wait": 1100
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/#quiet",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/159a38fba01372f28baba1c22940caf7cfe28a7b/live-results/jirojiro-20261125-third/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n空へ昇った庭から、一枚だけ残った。\n\n持ち帰る\n\n夢を離れる"
     }
   ]
 }
