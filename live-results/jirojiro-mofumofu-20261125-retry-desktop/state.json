@@ -6,21 +6,22 @@
   "mobile": false,
   "touch": false,
   "startedAt": "2026-11-25T13:48:44.493Z",
-  "updatedAt": "2026-11-25T13:52:30.919Z",
-  "lastCommand": "13",
+  "updatedAt": "2026-11-25T13:52:48.858Z",
+  "lastCommand": "14",
   "stopReason": null,
   "action": {
-    "id": "13",
+    "id": "14",
     "op": "tap",
-    "x": 1384,
-    "y": 858,
-    "wait": 900
+    "x": 722,
+    "y": 406,
+    "wait": 1000,
+    "note": "Enter the dream. 何があるのか見たい。"
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/2a74b1ba00c568e0b5eba4e271948d186892606c/live-results/jirojiro-mofumofu-20261125-retry-desktop/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/651b0c2220d585fca7268965a7f1d4c6da718abb/live-results/jirojiro-mofumofu-20261125-retry-desktop/current.jpg",
   "readOnly": false,
   "blockedWrites": 0,
-  "url": "https://niko2atelier.com/",
+  "url": "https://niko2atelier.com/#hotel",
   "title": "NIKO² ATELIER",
   "viewport": {
     "width": 1440,
@@ -31,61 +32,83 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n\n\n\nWORLD\n\n\n\nA NEW LIFE\nDEAR ATELIER\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n",
+  "text": "作品へ移動\nNIKO² ATELIER\nDream\nDiary\nAbout\n\n\nWORLD / OUTINGS\nHOTEL SOMNIA\nFRONT DESK / ROOM 0317\n今夜も、同じ部屋をご用意しました。\n\n最初の三泊は、いつでもお越しいただけます。あと3泊。\n\nCHECK IN",
   "controls": [
+    {
+      "tag": "A",
+      "text": "NIKO² ATELIER",
+      "disabled": false,
+      "rect": {
+        "x": 68,
+        "y": 25,
+        "w": 159,
+        "h": 33
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "Dream",
+      "disabled": false,
+      "rect": {
+        "x": 611,
+        "y": 24,
+        "w": 50,
+        "h": 34
+      }
+    },
+    {
+      "tag": "A",
+      "text": "Diary",
+      "disabled": false,
+      "rect": {
+        "x": 702,
+        "y": 24,
+        "w": 43,
+        "h": 34
+      }
+    },
+    {
+      "tag": "A",
+      "text": "About",
+      "disabled": false,
+      "rect": {
+        "x": 786,
+        "y": 24,
+        "w": 49,
+        "h": 34
+      }
+    },
     {
       "tag": "BUTTON",
       "text": "音をオンにする",
       "disabled": false,
       "rect": {
-        "x": 1337,
-        "y": 17,
-        "w": 44,
-        "h": 44
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "ご案内と設定を開く",
-      "disabled": false,
-      "rect": {
-        "x": 1381,
-        "y": 17,
+        "x": 1380,
+        "y": 16,
         "w": 44,
         "h": 44
       }
     },
     {
       "tag": "A",
-      "text": "Diaryを開く",
+      "text": "アトリエへ戻る",
       "disabled": false,
       "rect": {
-        "x": 120,
-        "y": 416,
-        "w": 465,
-        "h": 349
-      }
-    },
-    {
-      "tag": "A",
-      "text": "未読の記事やお知らせがあります。FROM THE ATELIERを開く",
-      "disabled": false,
-      "rect": {
-        "x": 1158,
-        "y": 419,
-        "w": 269,
-        "h": 169
+        "x": 25,
+        "y": 94,
+        "w": 42,
+        "h": 42
       }
     },
     {
       "tag": "BUTTON",
-      "text": "Enter the dream",
+      "text": "CHECK IN",
       "disabled": false,
       "rect": {
-        "x": 561,
-        "y": 355,
-        "w": 318,
-        "h": 106
+        "x": 116,
+        "y": 728,
+        "w": 116,
+        "h": 46
       }
     }
   ],
@@ -302,6 +325,22 @@
       "url": "https://niko2atelier.com/",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/2a74b1ba00c568e0b5eba4e271948d186892606c/live-results/jirojiro-mofumofu-20261125-retry-desktop/current.jpg",
       "text": "作品へ移動\n\n\n\nWORLD\n\n\n\nA NEW LIFE\nDEAR ATELIER\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n"
+    },
+    {
+      "number": 15,
+      "at": "2026-11-25T13:52:48.858Z",
+      "action": {
+        "id": "14",
+        "op": "tap",
+        "x": 722,
+        "y": 406,
+        "wait": 1000,
+        "note": "Enter the dream. 何があるのか見たい。"
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/#hotel",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/651b0c2220d585fca7268965a7f1d4c6da718abb/live-results/jirojiro-mofumofu-20261125-retry-desktop/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\nDream\nDiary\nAbout\n\n\nWORLD / OUTINGS\nHOTEL SOMNIA\nFRONT DESK / ROOM 0317\n今夜も、同じ部屋をご用意しました。\n\n最初の三泊は、いつでもお越しいただけます。あと3泊。\n\nCHECK IN"
     }
   ]
 }
