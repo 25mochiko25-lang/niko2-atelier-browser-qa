@@ -6,18 +6,18 @@
   "mobile": false,
   "touch": false,
   "startedAt": "2026-11-25T13:48:44.493Z",
-  "updatedAt": "2026-11-25T13:52:12.529Z",
-  "lastCommand": "12",
+  "updatedAt": "2026-11-25T13:52:30.919Z",
+  "lastCommand": "13",
   "stopReason": null,
   "action": {
-    "id": "12",
+    "id": "13",
     "op": "tap",
     "x": 1384,
     "y": 858,
-    "wait": 500
+    "wait": 900
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/a38f1ce508ce01d9e75872fbd7738248ac8f70dd/live-results/jirojiro-mofumofu-20261125-retry-desktop/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/2a74b1ba00c568e0b5eba4e271948d186892606c/live-results/jirojiro-mofumofu-20261125-retry-desktop/current.jpg",
   "readOnly": false,
   "blockedWrites": 0,
   "url": "https://niko2atelier.com/",
@@ -31,15 +31,26 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n\n\nWORLD\n\n\n\nA NEW LIFE\nDEAR ATELIER\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n\nNEXT PLACES\nこの先に、二つの場所がひらいています。\nどちらを選んでも、選ばなくても大丈夫です。\n\n\nFROM THE ATELIER\nこの世界の制作記録を読む場所。\n\n\nCloud Garden\n別の夢を、もう一度見る場所。\n戻る完了",
+  "text": "作品へ移動\n\n\n\nWORLD\n\n\n\nA NEW LIFE\nDEAR ATELIER\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n",
   "controls": [
     {
       "tag": "BUTTON",
       "text": "音をオンにする",
       "disabled": false,
       "rect": {
-        "x": 1380,
-        "y": 16,
+        "x": 1337,
+        "y": 17,
+        "w": 44,
+        "h": 44
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "ご案内と設定を開く",
+      "disabled": false,
+      "rect": {
+        "x": 1381,
+        "y": 17,
         "w": 44,
         "h": 44
       }
@@ -75,50 +86,6 @@
         "y": 355,
         "w": 318,
         "h": 106
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "FROM THE ATELIER\nこの世界の制作記録を読む場所。",
-      "disabled": false,
-      "rect": {
-        "x": 314,
-        "y": 382,
-        "w": 398,
-        "h": 235
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "Cloud Garden\n別の夢を、もう一度見る場所。",
-      "disabled": false,
-      "rect": {
-        "x": 728,
-        "y": 382,
-        "w": 398,
-        "h": 235
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "戻る",
-      "disabled": false,
-      "rect": {
-        "x": 20,
-        "y": 836,
-        "w": 72,
-        "h": 44
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "完了",
-      "disabled": false,
-      "rect": {
-        "x": 1348,
-        "y": 836,
-        "w": 72,
-        "h": 44
       }
     }
   ],
@@ -320,6 +287,21 @@
       "url": "https://niko2atelier.com/",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/a38f1ce508ce01d9e75872fbd7738248ac8f70dd/live-results/jirojiro-mofumofu-20261125-retry-desktop/current.jpg",
       "text": "作品へ移動\n\n\nWORLD\n\n\n\nA NEW LIFE\nDEAR ATELIER\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n\nNEXT PLACES\nこの先に、二つの場所がひらいています。\nどちらを選んでも、選ばなくても大丈夫です。\n\n\nFROM THE ATELIER\nこの世界の制作記録を読む場所。\n\n\nCloud Garden\n別の夢を、もう一度見る場所。\n戻る完了"
+    },
+    {
+      "number": 14,
+      "at": "2026-11-25T13:52:30.919Z",
+      "action": {
+        "id": "13",
+        "op": "tap",
+        "x": 1384,
+        "y": 858,
+        "wait": 900
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/2a74b1ba00c568e0b5eba4e271948d186892606c/live-results/jirojiro-mofumofu-20261125-retry-desktop/current.jpg",
+      "text": "作品へ移動\n\n\n\nWORLD\n\n\n\nA NEW LIFE\nDEAR ATELIER\n???\n© 2026 NIKO² ATELIER / NIKO\nRights\n"
     }
   ]
 }
