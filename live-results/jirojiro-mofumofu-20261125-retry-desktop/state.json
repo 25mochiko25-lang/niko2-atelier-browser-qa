@@ -6,18 +6,18 @@
   "mobile": false,
   "touch": false,
   "startedAt": "2026-11-25T13:48:44.493Z",
-  "updatedAt": "2026-11-25T13:49:21.852Z",
-  "lastCommand": "02",
+  "updatedAt": "2026-11-25T13:49:38.334Z",
+  "lastCommand": "03",
   "stopReason": null,
   "action": {
-    "id": "02",
+    "id": "03",
     "op": "tap",
     "x": 1384,
     "y": 858,
     "wait": 500
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/f3ced475d446dfc7d0bee1ca1580c17a4d49fa24/live-results/jirojiro-mofumofu-20261125-retry-desktop/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/f23a14de081868c4640e706922ad048a03ed6013/live-results/jirojiro-mofumofu-20261125-retry-desktop/current.jpg",
   "readOnly": false,
   "blockedWrites": 0,
   "url": "https://niko2atelier.com/",
@@ -31,7 +31,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n\n\nINTERACTION\n\nSound On\n\nSound Off\n触れる\n持ち帰る\n仕舞う\n次へ戻る",
+  "text": "作品へ移動\n\n\nWELCOME\nようこそ！\n夢へ入る戻る",
   "controls": [
     {
       "tag": "BUTTON",
@@ -46,68 +46,24 @@
     },
     {
       "tag": "BUTTON",
-      "text": "Sound On",
+      "text": "夢へ入る",
       "disabled": false,
       "rect": {
-        "x": 590,
-        "y": 525,
-        "w": 122,
-        "h": 44
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "Sound Off",
-      "disabled": false,
-      "rect": {
-        "x": 726,
-        "y": 525,
-        "w": 124,
-        "h": 44
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "触れる",
-      "disabled": false,
-      "rect": {
-        "x": 609,
-        "y": 585,
-        "w": 65,
-        "h": 38
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "持ち帰る",
-      "disabled": false,
-      "rect": {
-        "x": 682,
-        "y": 585,
-        "w": 76,
-        "h": 38
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "仕舞う",
-      "disabled": false,
-      "rect": {
-        "x": 766,
-        "y": 585,
-        "w": 65,
-        "h": 38
-      }
-    },
-    {
-      "tag": "BUTTON",
-      "text": "次へ",
-      "disabled": false,
-      "rect": {
-        "x": 1348,
+        "x": 1339,
         "y": 836,
-        "w": 72,
+        "w": 81,
         "h": 44
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "夢へ入る",
+      "disabled": false,
+      "rect": {
+        "x": 569,
+        "y": 94,
+        "w": 540,
+        "h": 513
       }
     },
     {
@@ -167,6 +123,21 @@
       "url": "https://niko2atelier.com/",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/f3ced475d446dfc7d0bee1ca1580c17a4d49fa24/live-results/jirojiro-mofumofu-20261125-retry-desktop/current.jpg",
       "text": "作品へ移動\n\n\nINTERACTION\n\nSound On\n\nSound Off\n触れる\n持ち帰る\n仕舞う\n次へ戻る"
+    },
+    {
+      "number": 4,
+      "at": "2026-11-25T13:49:38.334Z",
+      "action": {
+        "id": "03",
+        "op": "tap",
+        "x": 1384,
+        "y": 858,
+        "wait": 500
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/f23a14de081868c4640e706922ad048a03ed6013/live-results/jirojiro-mofumofu-20261125-retry-desktop/current.jpg",
+      "text": "作品へ移動\n\n\nWELCOME\nようこそ！\n夢へ入る戻る"
     }
   ]
 }
