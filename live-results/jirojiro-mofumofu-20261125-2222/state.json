@@ -6,16 +6,18 @@
   "mobile": true,
   "touch": true,
   "startedAt": "2026-11-25T13:24:16.660Z",
-  "updatedAt": "2026-11-25T13:27:34.987Z",
-  "lastCommand": "12",
+  "updatedAt": "2026-11-25T13:27:50.705Z",
+  "lastCommand": "13",
   "stopReason": null,
   "action": {
-    "id": "12",
-    "op": "look",
-    "wait": 1000
+    "id": "13",
+    "op": "tap",
+    "x": 151,
+    "y": 716,
+    "wait": 1500
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/03e6f6d29251304f9d04fae0b8f7313ec49eb9b1/live-results/jirojiro-mofumofu-20261125-2222/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/bd4b5db37f006a84f35ba9049fb1b5cc2f9fa3b5/live-results/jirojiro-mofumofu-20261125-2222/current.jpg",
   "readOnly": false,
   "blockedWrites": 0,
   "url": "https://niko2atelier.com/#quiet",
@@ -29,7 +31,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n夢を離れる",
+  "text": "作品へ移動\n夢の見覚え ✧︎\n\n空へ昇った庭から、一枚だけ残った。\n\n持ち帰る\n\n夢を離れる",
   "controls": [
     {
       "tag": "BUTTON",
@@ -58,10 +60,21 @@
       "text": "帰る花弁に触れる",
       "disabled": false,
       "rect": {
-        "x": 114,
+        "x": 113,
         "y": 681,
         "w": 69,
         "h": 69
+      }
+    },
+    {
+      "tag": "BUTTON",
+      "text": "持ち帰る",
+      "disabled": false,
+      "rect": {
+        "x": 159,
+        "y": 793,
+        "w": 112,
+        "h": 44
       }
     },
     {
@@ -270,6 +283,21 @@
       "url": "https://niko2atelier.com/#quiet",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/03e6f6d29251304f9d04fae0b8f7313ec49eb9b1/live-results/jirojiro-mofumofu-20261125-2222/current.jpg",
       "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n夢を離れる"
+    },
+    {
+      "number": 14,
+      "at": "2026-11-25T13:27:50.705Z",
+      "action": {
+        "id": "13",
+        "op": "tap",
+        "x": 151,
+        "y": 716,
+        "wait": 1500
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/#quiet",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/bd4b5db37f006a84f35ba9049fb1b5cc2f9fa3b5/live-results/jirojiro-mofumofu-20261125-2222/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n空へ昇った庭から、一枚だけ残った。\n\n持ち帰る\n\n夢を離れる"
     }
   ]
 }
