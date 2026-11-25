@@ -6,19 +6,17 @@
   "mobile": false,
   "touch": false,
   "startedAt": "2026-11-25T13:48:44.493Z",
-  "updatedAt": "2026-11-25T13:59:22.377Z",
-  "lastCommand": "33",
+  "updatedAt": "2026-11-25T13:59:55.615Z",
+  "lastCommand": "34",
   "stopReason": null,
   "action": {
-    "id": "33",
-    "op": "tap",
-    "x": 720,
-    "y": 834,
-    "wait": 3000,
-    "note": "映画を観る。"
+    "id": "34",
+    "op": "look",
+    "wait": 300,
+    "note": "上映中の画面を確認。"
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/510a3f97d81793c9ac0a7902c1a6967f37048efc/live-results/jirojiro-mofumofu-20261125-retry-desktop/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/8c16cf9536f181c6603b7b97ebf5724320821d7d/live-results/jirojiro-mofumofu-20261125-retry-desktop/current.jpg",
   "readOnly": false,
   "blockedWrites": 0,
   "url": "https://niko2atelier.com/#cinema",
@@ -598,6 +596,20 @@
       "error": null,
       "url": "https://niko2atelier.com/#cinema",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/510a3f97d81793c9ac0a7902c1a6967f37048efc/live-results/jirojiro-mofumofu-20261125-retry-desktop/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n"
+    },
+    {
+      "number": 35,
+      "at": "2026-11-25T13:59:55.615Z",
+      "action": {
+        "id": "34",
+        "op": "look",
+        "wait": 300,
+        "note": "上映中の画面を確認。"
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/#cinema",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/8c16cf9536f181c6603b7b97ebf5724320821d7d/live-results/jirojiro-mofumofu-20261125-retry-desktop/current.jpg",
       "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n"
     }
   ]
