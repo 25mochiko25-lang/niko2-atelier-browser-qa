@@ -1,0 +1,151 @@
+{
+  "session": "jirojiro-20261125-desktop-2257",
+  "device": "desktop",
+  "stopReason": "infrastructure_error",
+  "error": "TimeoutError: page.screenshot: Timeout 15000ms exceeded.\nCall log:\n  - taking page screenshot\n",
+  "events": [
+    {
+      "number": 1,
+      "at": "2026-11-25T13:59:09.752Z",
+      "action": {
+        "op": "arrival"
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/108d4fcf11a9f0ae13ccc742665289befff98a27/live-results/jirojiro-20261125-desktop-2257/current.jpg",
+      "text": "作品へ移動\n\n"
+    },
+    {
+      "number": 2,
+      "at": "2026-11-25T13:59:27.992Z",
+      "action": {
+        "id": "01",
+        "op": "tap",
+        "x": 726,
+        "y": 520,
+        "note": "招待状を開く",
+        "wait": 1200
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/96a22b95136ca7ab044151f755c9ee0772f05754/live-results/jirojiro-20261125-desktop-2257/current.jpg",
+      "text": "作品へ移動\n\n\nWORLD\n夢の入り口は、毎回すこし違う。 夢から醒めても何かは残る。\n次へ"
+    },
+    {
+      "number": 3,
+      "at": "2026-11-25T13:59:43.742Z",
+      "action": {
+        "id": "02",
+        "op": "tap",
+        "x": 1384,
+        "y": 858,
+        "note": "次へ",
+        "wait": 1000
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/b31380fe824fa27d0e4b6a1253bf9836a50dd480/live-results/jirojiro-20261125-desktop-2257/current.jpg",
+      "text": "作品へ移動\n\n\nINTERACTION\n\nSound On\n\nSound Off\n触れる\n持ち帰る\n仕舞う\n次へ戻る"
+    },
+    {
+      "number": 4,
+      "at": "2026-11-25T13:59:57.225Z",
+      "action": {
+        "id": "03",
+        "op": "tap",
+        "x": 1384,
+        "y": 858,
+        "note": "次へ",
+        "wait": 1000
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/42f90c66066c0599688bf648c35939ff11cd7b59/live-results/jirojiro-20261125-desktop-2257/current.jpg",
+      "text": "作品へ移動\n\n\nWELCOME\nようこそ！\n夢へ入る戻る"
+    },
+    {
+      "number": 5,
+      "at": "2026-11-25T14:00:17.048Z",
+      "action": {
+        "id": "04",
+        "op": "tap",
+        "x": 830,
+        "y": 360,
+        "note": "夢へ入る",
+        "wait": 1700
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/#garden",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/43ab00f0f43ef5102dea21029a1d630eeb5cbde6/live-results/jirojiro-20261125-desktop-2257/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\nDREAM\nCLOUD GARDEN\n\n\n席を立ったあとの庭にも、\n持ち主より長く夢を見るものがいる。\n\nこの空へ入る\n"
+    },
+    {
+      "number": 6,
+      "at": "2026-11-25T14:00:40.147Z",
+      "action": {
+        "id": "05",
+        "op": "tap",
+        "x": 1385,
+        "y": 83,
+        "note": "導入通過：夢の見覚え",
+        "wait": 1300
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/#quiet",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/ac8f84962271074aacece00d3ac3d4ae0682dfd0/live-results/jirojiro-20261125-desktop-2257/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n白い街が、門の向こうで一斉に組み上がった。\n\n最後のひとつだけが、街に加われず、足元に残った。\n"
+    },
+    {
+      "number": 7,
+      "at": "2026-11-25T14:00:57.830Z",
+      "action": {
+        "id": "06",
+        "op": "tap",
+        "x": 176,
+        "y": 825,
+        "note": "足元のひとつを拾う",
+        "wait": 1600
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/#quiet",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/935e4325ef647b8748feaecfc551b0e31216cf32/live-results/jirojiro-20261125-desktop-2257/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\nまだ住所を持たない街から、足元へ滑った小さなタイル。\n\n持ち帰る\n\n夢を離れる"
+    },
+    {
+      "number": 8,
+      "at": "2026-11-25T14:01:15.247Z",
+      "action": {
+        "id": "07",
+        "op": "tap",
+        "x": 720,
+        "y": 779,
+        "note": "持ち帰る",
+        "wait": 1600
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/#quiet",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/8d94c84e2cb49826b38a62f80bc77a4aae2c6848/live-results/jirojiro-20261125-desktop-2257/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n夢を離れる\n\nDREAM MEMORY\n住所のない白いタイル\n\n\nWORLD MEMORY\n\nTHING THAT REMAINED\n白い街の一片 まだ住所を持たない街から、足元へ滑った小さなタイル。\n言葉を添える\nアトリエへ戻る\nDiaryへ持ち帰る"
+    },
+    {
+      "number": 9,
+      "at": "2026-11-25T14:01:31.933Z",
+      "action": {
+        "id": "08",
+        "op": "tap",
+        "x": 812,
+        "y": 771,
+        "note": "Diaryへ持ち帰る",
+        "wait": 1200
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/#diary",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/d33bd56c754151b44ab69b5b5dfc6be1a26d795a/live-results/jirojiro-20261125-desktop-2257/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\n\nNIKO² DIARY\nDiary\n今日のことを、ひとつだけ。\n11月25日 23:01\nDREAM THREAD\n持ち帰った夢が、まだ手元にあります。\n← さっきの空へ戻る\nTODAY\n今日を残す\n選んだ記憶が、ここに書きとめてあります。\nあなたの言葉を、添えても構いません。\n✦\nいまの気配\n\n静か\n\nきらきら\n\nぼんやり\n\nざわざわ\n\n甘い\n\n雨っぽい\n\n眠い\n\n何もない\nPHOTO\n写真\n選択なし\nまち\n部屋\n買ったもの\n遊び\n食べもの\nその他\n写真を眺める\n‹\n›\n\n\n自販機\n\n\nホーム\n\n\n改札\n\n\n途中\n\n\nロッカー\n\n\nエレベーター\n\n\nガラス扉\n\n\n雨の改札\n\n\n22:47\n\n\n青空\n\n\n茶席\n\n\n結び目\n\n\n満潮\n\n\nファスナー\n\n\n一枚\n\n\n一通\n\n\n桟橋\n\n\n客室\n\n\nクラッカー\n\n\n本番\n言葉\nOPTIONAL\nこの端末だけに残ります\n残す\nRECENT\n少し前の自分\n\n住所のない白いタイル\n11/25\n2026年11月\nMONTHLY REFLECTION\n今月の景色\nよく残った気配\n静かな余白\nよく残った色\n色のない紙片\nよく残ったモチーフ\n名前のないもの\n断片がある。名称がないため、場所と順番だけで区別する。\nもう少し見る\nARCHIVE\n前の日々をひらく\n\nWHAT REMAINED\n残ったものを見る\nアトリエへ戻る\n"
+    }
+  ],
+  "pageErrors": [
+    "Error: INHERITED_DATA_REJECTED at options"
+  ],
+  "httpErrors": []
+}
