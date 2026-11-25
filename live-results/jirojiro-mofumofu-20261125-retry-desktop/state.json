@@ -6,17 +6,17 @@
   "mobile": false,
   "touch": false,
   "startedAt": "2026-11-25T13:48:44.493Z",
-  "updatedAt": "2026-11-25T14:01:40.074Z",
-  "lastCommand": "38",
-  "stopReason": null,
+  "updatedAt": "2026-11-25T14:02:04.559Z",
+  "lastCommand": "39",
+  "stopReason": "今回のChat実操作の所要時間による区切り。CINEMA上映途中、全館探索・離脱理由の評価は未完了。プレイヤーの飽きによる離脱ではない。",
   "action": {
-    "id": "38",
-    "op": "look",
-    "wait": 500,
-    "note": "終幕に到達するか確認する。"
+    "id": "39",
+    "op": "stop",
+    "reason": "今回のChat実操作の所要時間による区切り。CINEMA上映途中、全館探索・離脱理由の評価は未完了。プレイヤーの飽きによる離脱ではない。",
+    "wait": 300
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/1799152bd3aba14d7527910281788812881ecc79/live-results/jirojiro-mofumofu-20261125-retry-desktop/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/baf8a67e5c668c6a4f4e1543b72b29901b024c90/live-results/jirojiro-mofumofu-20261125-retry-desktop/current.jpg",
   "readOnly": false,
   "blockedWrites": 0,
   "url": "https://niko2atelier.com/#cinema",
@@ -670,6 +670,20 @@
       "error": null,
       "url": "https://niko2atelier.com/#cinema",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/1799152bd3aba14d7527910281788812881ecc79/live-results/jirojiro-mofumofu-20261125-retry-desktop/current.jpg",
+      "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n"
+    },
+    {
+      "number": 40,
+      "at": "2026-11-25T14:02:04.559Z",
+      "action": {
+        "id": "39",
+        "op": "stop",
+        "reason": "今回のChat実操作の所要時間による区切り。CINEMA上映途中、全館探索・離脱理由の評価は未完了。プレイヤーの飽きによる離脱ではない。",
+        "wait": 300
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/#cinema",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/baf8a67e5c668c6a4f4e1543b72b29901b024c90/live-results/jirojiro-mofumofu-20261125-retry-desktop/current.jpg",
       "text": "作品へ移動\n夢の見覚え ✧︎\n\n\n\n\n"
     }
   ]
