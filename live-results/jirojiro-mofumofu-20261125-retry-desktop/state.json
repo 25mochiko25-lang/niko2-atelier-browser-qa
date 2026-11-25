@@ -6,19 +6,17 @@
   "mobile": false,
   "touch": false,
   "startedAt": "2026-11-25T13:48:44.493Z",
-  "updatedAt": "2026-11-25T13:53:24.297Z",
-  "lastCommand": "16",
+  "updatedAt": "2026-11-25T13:53:39.283Z",
+  "lastCommand": "17",
   "stopReason": null,
   "action": {
-    "id": "16",
-    "op": "tap",
-    "x": 1038,
-    "y": 309,
-    "wait": 900,
-    "note": "昨日を注文できるのが気になる。"
+    "id": "17",
+    "op": "look",
+    "wait": 500,
+    "note": "銀皿に何が出たのか待って確認する。"
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/cb112ceb548311123d5919b70739ebaa3fe34f81/live-results/jirojiro-mofumofu-20261125-retry-desktop/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/c7b85a62a81818b6986c67c02b125f343ee539b2/live-results/jirojiro-mofumofu-20261125-retry-desktop/current.jpg",
   "readOnly": false,
   "blockedWrites": 0,
   "url": "https://niko2atelier.com/#hotel",
@@ -405,6 +403,20 @@
       "error": null,
       "url": "https://niko2atelier.com/#hotel",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/cb112ceb548311123d5919b70739ebaa3fe34f81/live-results/jirojiro-mofumofu-20261125-retry-desktop/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\nDream\nDiary\nAbout\n\n\nWORLD / OUTINGS\nHOTEL SOMNIA\n×\nYesterday\n昨日の庭の断片が、銀の皿の上で少しだけ湿っている。\nもう一品見る\n今夜をDiaryへ持ち帰る\nCHECK OUT\n"
+    },
+    {
+      "number": 18,
+      "at": "2026-11-25T13:53:39.283Z",
+      "action": {
+        "id": "17",
+        "op": "look",
+        "wait": 500,
+        "note": "銀皿に何が出たのか待って確認する。"
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/#hotel",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/c7b85a62a81818b6986c67c02b125f343ee539b2/live-results/jirojiro-mofumofu-20261125-retry-desktop/current.jpg",
       "text": "作品へ移動\nNIKO² ATELIER\nDream\nDiary\nAbout\n\n\nWORLD / OUTINGS\nHOTEL SOMNIA\n×\nYesterday\n昨日の庭の断片が、銀の皿の上で少しだけ湿っている。\nもう一品見る\n今夜をDiaryへ持ち帰る\nCHECK OUT\n"
     }
   ]
