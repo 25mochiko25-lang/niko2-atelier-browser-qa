@@ -1,0 +1,61 @@
+{
+  "session": "jirojiro-20261125-desktop-2257",
+  "mode": "observer-driven",
+  "device": "desktop",
+  "engine": "webkit",
+  "mobile": false,
+  "touch": false,
+  "startedAt": "2026-11-25T13:59:01.848Z",
+  "updatedAt": "2026-11-25T13:59:09.752Z",
+  "lastCommand": null,
+  "stopReason": null,
+  "action": {
+    "op": "arrival"
+  },
+  "error": null,
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/108d4fcf11a9f0ae13ccc742665289befff98a27/live-results/jirojiro-20261125-desktop-2257/current.jpg",
+  "readOnly": false,
+  "blockedWrites": 0,
+  "url": "https://niko2atelier.com/",
+  "title": "NIKO² ATELIER",
+  "viewport": {
+    "width": 1440,
+    "height": 900
+  },
+  "documentWidth": 1440,
+  "scroll": {
+    "x": 0,
+    "y": 0
+  },
+  "text": "作品へ移動\n\n",
+  "controls": [
+    {
+      "tag": "BUTTON",
+      "text": "招待状を開いて夢へ入る",
+      "disabled": false,
+      "rect": {
+        "x": 510,
+        "y": 420,
+        "w": 432,
+        "h": 202
+      }
+    }
+  ],
+  "pageErrors": [
+    "Error: INHERITED_DATA_REJECTED at options"
+  ],
+  "httpErrors": [],
+  "events": [
+    {
+      "number": 1,
+      "at": "2026-11-25T13:59:09.752Z",
+      "action": {
+        "op": "arrival"
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/108d4fcf11a9f0ae13ccc742665289befff98a27/live-results/jirojiro-20261125-desktop-2257/current.jpg",
+      "text": "作品へ移動\n\n"
+    }
+  ]
+}
