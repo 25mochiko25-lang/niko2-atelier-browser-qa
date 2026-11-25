@@ -6,19 +6,19 @@
   "mobile": false,
   "touch": false,
   "startedAt": "2026-11-25T13:48:44.493Z",
-  "updatedAt": "2026-11-25T13:54:23.226Z",
-  "lastCommand": "19",
+  "updatedAt": "2026-11-25T13:54:46.654Z",
+  "lastCommand": "20",
   "stopReason": null,
   "action": {
-    "id": "19",
+    "id": "20",
     "op": "tap",
-    "x": 1035,
-    "y": 489,
-    "wait": 2500,
-    "note": "Someone Else's Rainも気になる。"
+    "x": 500,
+    "y": 310,
+    "wait": 1200,
+    "note": "雨の窓に触れてみる。"
   },
   "error": null,
-  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/d85a0154fadbbd92ca25b27200105e7aa5e2fc2f/live-results/jirojiro-mofumofu-20261125-retry-desktop/current.jpg",
+  "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/f0f6e86864bb66198020b64e000a5af8fe37dfe2/live-results/jirojiro-mofumofu-20261125-retry-desktop/current.jpg",
   "readOnly": false,
   "blockedWrites": 0,
   "url": "https://niko2atelier.com/#hotel",
@@ -32,7 +32,7 @@
     "x": 0,
     "y": 0
   },
-  "text": "作品へ移動\nNIKO² ATELIER\nDream\nDiary\nAbout\n\n\nWORLD / OUTINGS\nHOTEL SOMNIA\n×\nSomeone Else's Rain\n知らない誰かの雨が、窓の外を静かに借りている。\nメニューを眺める\n今夜をDiaryへ持ち帰る\nCHECK OUT\n",
+  "text": "作品へ移動\nNIKO² ATELIER\nDream\nDiary\nAbout\n\n\nWORLD / OUTINGS\nHOTEL SOMNIA\n×\nSomeone Else's Rain\n指先の場所だけ、雨が輪になってほどけた。\nメニューを眺める\n今夜をDiaryへ持ち帰る\nCHECK OUT\n",
   "controls": [
     {
       "tag": "A",
@@ -94,10 +94,10 @@
       "text": "雨の残る窓へ触れる",
       "disabled": false,
       "rect": {
-        "x": 29,
-        "y": 144,
-        "w": 562,
-        "h": 441
+        "x": 18,
+        "y": 127,
+        "w": 584,
+        "h": 459
       }
     },
     {
@@ -463,6 +463,22 @@
       "url": "https://niko2atelier.com/#hotel",
       "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/d85a0154fadbbd92ca25b27200105e7aa5e2fc2f/live-results/jirojiro-mofumofu-20261125-retry-desktop/current.jpg",
       "text": "作品へ移動\nNIKO² ATELIER\nDream\nDiary\nAbout\n\n\nWORLD / OUTINGS\nHOTEL SOMNIA\n×\nSomeone Else's Rain\n知らない誰かの雨が、窓の外を静かに借りている。\nメニューを眺める\n今夜をDiaryへ持ち帰る\nCHECK OUT\n"
+    },
+    {
+      "number": 21,
+      "at": "2026-11-25T13:54:46.654Z",
+      "action": {
+        "id": "20",
+        "op": "tap",
+        "x": 500,
+        "y": 310,
+        "wait": 1200,
+        "note": "雨の窓に触れてみる。"
+      },
+      "error": null,
+      "url": "https://niko2atelier.com/#hotel",
+      "screenshotUrl": "https://raw.githubusercontent.com/25mochiko25-lang/niko2-atelier-browser-qa/f0f6e86864bb66198020b64e000a5af8fe37dfe2/live-results/jirojiro-mofumofu-20261125-retry-desktop/current.jpg",
+      "text": "作品へ移動\nNIKO² ATELIER\nDream\nDiary\nAbout\n\n\nWORLD / OUTINGS\nHOTEL SOMNIA\n×\nSomeone Else's Rain\n指先の場所だけ、雨が輪になってほどけた。\nメニューを眺める\n今夜をDiaryへ持ち帰る\nCHECK OUT\n"
     }
   ]
 }
